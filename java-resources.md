@@ -6,7 +6,7 @@ menu
 - Documentations
 - Books
 - Repositories
-
+- Others
 
 ### Repositories
 
@@ -45,4 +45,16 @@ DRP系统
 
 - [funiture](https://github.com/kanwangzjm/funiture)  
 spring项目，权限管理、系统监控、服务降级、定时任务动态调整、qps限制、sql监控(邮件)、验证码服务、短链接服务、动态配置等
+
+### Others
+
+- [awesome-java-cn](https://github.com/jobbole/awesome-java-cn.git)  
+Java资源大全中文版
+- [awesome-java](https://github.com/akullpp/awesome-java)
+- [awesome-java](https://github.com/akullpp/awesome-java.git)  
+A curated list of awesome Java frameworks, libraries and software.
+- [links & Web 开发相关资源、网站、工具推荐](https://github.com/JSBa/links.git)
+- [java & java学习资料](https://github.com/langpf1/java.git)
+- [stackoverflow-java-top-qa & stackoverflow上Java相关回答整理翻译](https://github.com/giantray/stackoverflow-java-top-qa.git)
+- [Front-end-tutorial &前端回忆录](https://github.com/windiest/Front-end-tutorial.git)
 
