@@ -5,12 +5,43 @@ menu
 
 - Documentations
 - Books
+- Frameworks
 - Repositories
 - Others
 
+### Frameworks
+
+java
+
+- jdk   
+- [Google Guava](https://github.com/google/guava)  
+Google Core Libraries for Java, 开源的Java库,谷歌很多项目使用它的很多核心库。这个库是为了方便编码,并减少编码错误。
+
+javaweb
+
+- servlet  
+- [spring-framework](https://github.com/spring-projects/spring-framework.git)  
+- [mybatis-3 & MyBatis SQL mapper framework for Java](https://github.com/mybatis/mybatis-3.git)  
+- [hibernate-orm & Hibernate's core Object/Relational Mapping functionality](https://github.com/hibernate/hibernate-orm.git)  
+- [AisMVC](https://github.com/javagaorui5944/AisMVC)  一款仿SpringMVC轻便的mvc开发框架 
+- [jfinal](http://git.oschina.net/jfinal/jfinal)  
+JFinal 是基于 Java 语言的极速 WEB + ORM 框架，其核心设计目标是开发迅速、代码量少、学习简单、功能强大、轻量级、易扩展、Restful。在拥有Java语言所有优势的同时再拥有ruby、python、php等动态语言的开发效率！
+
+other
+
+- [awesome-java](https://github.com/akullpp/awesome-java)  java大杂烩
+
+- [comons-lang](https://github.com/apache/commons-lang)  一个被大量使用的工具包，都是一个一个的方法，适合新手学习。
+
+- [log4j](https://github.com/apache/log4j)  一个知名的日志处理的jar包
+
+- [ddpush]()  国人开发的千万级推送框架
+
+
+
 ### Repositories
 
-#### Management system
+Management system
 
 - [基于 Springboot 和 Mybatis 的后台管理系统 BootDo] (https://www.oschina.net/p/bootdo)
 
@@ -24,7 +55,7 @@ content management system
 - [crud](https://github.com/zhblue/crud)  
 万能快速原型系统
 
-#### Shop system
+Shop system
 
 - [javashop](https://gitee.com/javashop)
 
@@ -32,7 +63,7 @@ content management system
 仿淘宝的B2C商城项目
 
 
-#### Others
+Others
 
 - [drp](https://github.com/reedmi/drp.git)  
 DRP系统
