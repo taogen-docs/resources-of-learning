@@ -1,8 +1,13 @@
-# CS Foundations
+# CS Foundations Books
+
+### Mathematics
+
+- Concrete Mathematics: Foundation for Computer Science by Ronald L. Graham, Donald E. Knuth and Oren Patashnik
 
 ### Algorithms
 
 - Algorithms by Robert Sedgewick
+- Introduction to Algorithms by Charles E. Leiserson, Clifford Stein, Ronald Rivest, and Thomas H. Cormen
 
 ### Computer Architecture
 
