@@ -4,6 +4,17 @@
 
 - Concrete Mathematics: Foundation for Computer Science by Ronald L. Graham, Donald E. Knuth and Oren Patashnik
 
+### C/C++
+
+- The C Programming Language by Brian W. Kernighan, Denis M. Ritchie, TCPL
+- C++ Primer by Josée Lajoie and Stanley B. Lippman
+- The C++ Programming Language by Bjarne Stroustrup
+- The C++ Standard Library, 2nd Edition by Nikolai Josuttis
+- Effective C++  by Scott Meyers
+- More Effective C++ by Scott Meyers
+- Effective STL by Scott Meyers
+- Large-Scale C++ Software Design by John Lakos
+
 ### Algorithms
 
 - Algorithms by Robert Sedgewick
