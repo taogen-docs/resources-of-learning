@@ -9,6 +9,12 @@ menu
 - Repositories
 - Others
 
+
+### Documentations
+
+- [The Java® Language Specification Java SE 8 Edition](https://docs.oracle.com/javase/specs/jls/se8/html/index.html)
+
+
 ### Frameworks
 
 java
