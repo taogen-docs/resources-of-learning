@@ -13,7 +13,7 @@ menu
 ### Documentations
 
 - [The Java® Language Specification Java SE 8 Edition](https://docs.oracle.com/javase/specs/jls/se8/html/index.html)
-
+- [The Java® Virtual Machine Specification Java SE 7 Edition](https://docs.oracle.com/javase/specs/jvms/se7/html/index.html)
 
 ### Frameworks
 
