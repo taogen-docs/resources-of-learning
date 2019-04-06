@@ -17,6 +17,62 @@ menu
 - Java SE Documentation. <https://www.oracle.com/technetwork/java/javase/documentation/index.html>, <https://docs.oracle.com/javase/8/>
 - Java EE Documentation. <https://www.oracle.com/technetwork/java/javaee/overview/index.html>, 
 
+### Books
+
+Java Basic
+
+- Head First Java
+- Core Java Volume I Fundamentals by S, Horstmann 
+- Java: The Complete Reference, Eleventh Edition by Schildt, Herbert
+- Modern Java Recipes: Simple Solutions to Difficult Problems in Java 8 and 9 by Kousen, Ken
+- Java 9 Modularity: Patterns and Practices for Developing Maintainable Applications by Mak, Sander
+- Java8 in Action
+- Thinking in Java by Eckel, Bruce
+- Java in a Nutshell by David Flanagan
+- Effective Java
+- Java Puzzlers
+
+JVM
+
+- Java Performance: The Definitive Guide by Oaks, Scott [4.38]
+- Java Performance by Hunt, Charlie [4.12]
+- Java Performance Companion by Hunt, Charlie [3.77]
+- Java Performance Tuning by Shirazi, Jack [3.56]
+- Optimizing Java: Practical Techniques for Improving Jvm Application Performance by Evans, Benjamin J. 
+- The Garbage Collection Handbook: The Art of Automatic Memory Management by Jones, Richard
+- 深入理解Java虚拟机
+
+Concurrency
+
+- Java Concurrency in Practice by Goetz, Brian
+
+Networking Programming
+
+- Java Network Programming by Harold, Elliotte Rusty
+- TCP/IP Sockets in Java: Practical Guide for Programmers by Calvert, Kenneth L.
+- java NIO by Hitchens, Ron
+- Netty in Action by Maurer, Norman
+
+Design Patterns
+
+- Head First Object-Oriented Analysis and Design by McLaughlin, Brett
+- Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma, Richard Helm
+
+Java EE
+
+- Head First Servlets and JSP
+- HTTP The Definitive
+- How Tomcat Works
+- 深入分析Java Web技术内幕
+- Spring in Action
+- Expert One-on-One J2EE Design and Development by Johnson, Rod
+- Restful Java with Jax-RS by Burke, Bill
+- Professional Java EE Design Patterns by Yener, Murat
+- High-Performance Java Persistence by Mihalcea, Vlad
+- Java Persistence with Hibernate: Revised Edition of Hibernate in Action by Bauer, Christian
+- Java EE 7 Essentials by Gupta, Arun
+
+
 ### Frameworks
 
 java
