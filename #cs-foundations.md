@@ -26,7 +26,7 @@
 - Computer Architecture: A Quantitative Approach by David A Patterson John L Hennessy and John L. Hennessy
 
 
-### Computer Operating System
+### Operating System
 
 Must Read 
 
@@ -39,6 +39,8 @@ Specific Implementation
 - Linux Kernel Development (2010) by Robert Love
 - Windows Internals (2009) by Russinovich and Solomon
 - UNIX Systems for Modern Architectures (1994) by Schimmel.
+- Advanced Programming in the UNIX Environment, Third Edition by W. Richard Stevens
+- The Linux Programming Interface by Michael Kerrisk
 
 ### Computer Network
 
@@ -46,7 +48,7 @@ Must Read
 
 - Computer Networking: A Top Down Approach by Kurose, Ross (Best for a beginner. You will fall in love with this book once you get hold of it :P. No prerequisites required. It is written marvelously for anyone to get interested in networking)
 - Computer Networks by Tanenbaum (Good but dry. Well formed contents, should have some basic understanding of data communications before reading this book)
-- TCP/IP illustrated by Richard Stevens Vol 1
+- TCP/IP illustrated Vol 1 by Richard Stevens
 
 Some More
 
