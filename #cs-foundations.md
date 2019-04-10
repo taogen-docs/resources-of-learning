@@ -43,7 +43,7 @@ Specific Implementation
 - Linux Kernel Development (2010) by Robert Love
 - Windows Internals (2009) by Russinovich and Solomon
 - UNIX Systems for Modern Architectures (1994) by Schimmel.
-- Advanced Programming in the UNIX Environment, Third Edition by W. Richard Stevens
+- Advanced Programming in the UNIX Environment (APUE), Third Edition by W. Richard Stevens
 - The Linux Programming Interface by Michael Kerrisk
 
 ### Computer Network
@@ -79,3 +79,8 @@ Some More
 - Database Systems concepts, languages & architectures by Paolo Atzeni, Stefano Ceri, Stefano Paraboschi, Riccardo Torlone
 - Database Systems: A Practical Approach to Design, Implementation, and Management by THOMAS M. CONNOLLY, CAROLYN E. BEGG
 - Database Modeling & Design: Logical Design by TOBY TEOREY, SAM LIGHTSTONE, TOM NADEAU
+
+### Design Patterns
+
+- Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma / Richard Helm / Ralph Johnson / John Vlissides 
+- Head First Design Patterns by Elisabeth Freeman
