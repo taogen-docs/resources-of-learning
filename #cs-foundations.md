@@ -34,6 +34,10 @@ Must Read
 - Operating Systems (2003) by D. R. Choffnes, Harvey Deitel, and Paul Deitel
 - Modern Operating Systems by Andrew S. Tanenbaum
 
+Some More
+
+- Computer Systems: A Programmer‘Perspective, Third Edition by dal E.Bryant / David O'Hallaron
+
 Specific Implementation
 
 - Linux Kernel Development (2010) by Robert Love
