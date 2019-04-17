@@ -64,13 +64,20 @@ Java EE
 - HTTP The Definitive
 - How Tomcat Works
 - 深入分析Java Web技术内幕
-- Spring in Action
 - Expert One-on-One J2EE Design and Development by Johnson, Rod
 - Restful Java with Jax-RS by Burke, Bill
 - Professional Java EE Design Patterns by Yener, Murat
 - High-Performance Java Persistence by Mihalcea, Vlad
 - Java Persistence with Hibernate: Revised Edition of Hibernate in Action by Bauer, Christian
 - Java EE 7 Essentials by Gupta, Arun
+
+Spring
+
+- Spring in Action 5th Edition.
+- Cloud Native Java
+- Learning Spring Boot 2.0
+- Spring 5 Recipes: A Problem-Solution Approach
+- Spring Microservices in Action by John Carnell
 
 
 ### Frameworks
