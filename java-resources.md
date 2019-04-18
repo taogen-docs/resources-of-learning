@@ -14,8 +14,11 @@ menu
 
 - [The Java® Language Specification Java SE 8 Edition](https://docs.oracle.com/javase/specs/jls/se8/html/index.html)
 - [The Java® Virtual Machine Specification Java SE 7 Edition](https://docs.oracle.com/javase/specs/jvms/se7/html/index.html)
-- Java SE Documentation. <https://www.oracle.com/technetwork/java/javase/documentation/index.html>, <https://docs.oracle.com/javase/8/>
-- Java EE Documentation. <https://www.oracle.com/technetwork/java/javaee/overview/index.html>, 
+- [Java SE Documentation](https://www.oracle.com/technetwork/java/javase/documentation/index.html), <https://docs.oracle.com/javase/8/)
+- [Java EE Documentation](https://www.oracle.com/technetwork/java/javaee/overview/index.html)
+- [Java Servlet Specification Version 4.0](https://javaee.github.io/servlet-spec/downloads/servlet-4.0/servlet-4_0_FINAL.pdf)
+- [Java Servet API](https://docs.oracle.com/javaee/7/api/index.html?javax/servlet/package-summary.html)
+- [Java Servlet Documentation](https://docs.oracle.com/javaee/7/tutorial/servlets.htm)
 
 ### Books
 
