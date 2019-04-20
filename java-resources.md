@@ -19,6 +19,8 @@ menu
 - [Java Servlet Specification Version 4.0](https://javaee.github.io/servlet-spec/downloads/servlet-4.0/servlet-4_0_FINAL.pdf)
 - [Java Servet API](https://docs.oracle.com/javaee/7/api/index.html?javax/servlet/package-summary.html)
 - [Java Servlet Documentation](https://docs.oracle.com/javaee/7/tutorial/servlets.htm)
+- [Spring Framework Reference Documentation](https://docs.spring.io/spring/docs/3.2.x/spring-framework-reference/html/)
+- [Spring Framework Current Documentation](https://docs.spring.io/spring/docs/current/spring-framework-reference/)
 
 ### Books
 
