@@ -24,7 +24,7 @@ menu
 
 ### Books
 
-Java Basic
+**Java Basic**
 
 - Head First Java
 - Core Java Volume I Fundamentals by S, Horstmann 
@@ -37,7 +37,7 @@ Java Basic
 - Effective Java
 - Java Puzzlers
 
-JVM
+**JVM**
 
 - Java Performance: The Definitive Guide by Oaks, Scott [4.38]
 - Java Performance by Hunt, Charlie [4.12]
@@ -46,43 +46,103 @@ JVM
 - Optimizing Java: Practical Techniques for Improving Jvm Application Performance by Evans, Benjamin J. 
 - The Garbage Collection Handbook: The Art of Automatic Memory Management by Jones, Richard
 - 深入理解Java虚拟机
+- Java程序性能优化-让你的Java程序更快、更稳定 by 葛一鸣 
+- 垃圾回收的算法与实现 by 中村成洋
 
-Concurrency
+**Concurrency**
 
 - Java Concurrency in Practice by Goetz, Brian
+- Seven Concurrency Models in Seven Weeks: When Threads Unravel by  Paul Butcher 
 
-Networking Programming
+**Networking Programming**
 
 - Java Network Programming by Harold, Elliotte Rusty
 - TCP/IP Sockets in Java: Practical Guide for Programmers by Calvert, Kenneth L.
 - java NIO by Hitchens, Ron
-- Netty in Action by Maurer, Norman
 
-Design Patterns
+**Design Patterns**
 
 - Head First Object-Oriented Analysis and Design by McLaughlin, Brett
 - Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma, Richard Helm
 
-Java EE
+**Java EE**
 
 - Head First Servlets and JSP
 - HTTP The Definitive
-- How Tomcat Works
 - 深入分析Java Web技术内幕
 - Expert One-on-One J2EE Design and Development by Johnson, Rod
 - Restful Java with Jax-RS by Burke, Bill
 - Professional Java EE Design Patterns by Yener, Murat
 - High-Performance Java Persistence by Mihalcea, Vlad
-- Java Persistence with Hibernate: Revised Edition of Hibernate in Action by Bauer, Christian
 - Java EE 7 Essentials by Gupta, Arun
 
-Spring
+**ORM Framework**
+
+- Java Persistence with Hibernate: Revised Edition of Hibernate in Action by Bauer, Christian
+
+**Spring Framework**
 
 - Spring in Action 5th Edition.
 - Cloud Native Java
 - Learning Spring Boot 2.0
 - Spring 5 Recipes: A Problem-Solution Approach
 - Spring Microservices in Action by John Carnell
+- Spring 技术内幕
+- Spring 3.x企业应用开发实战 by  陈雄华 
+
+**Network Framework**
+
+- Netty in Action by Maurer, Norman
+- Netty权威指南 by 李林锋 
+
+**Web Service**
+
+**Web Socket**
+
+**Cache**
+
+- Redis in Action by  Josiah L. Carlson 
+- Redis设计与实现 by 黄健宏 
+
+**Web Server**
+
+> Nginx, Apache, Apache Tomcat
+
+- How Tomcat Works: A Guide to Developing Your Own Java Servlet Container by Budi Kurniawan / Paul Deck 
+- 深入理解Nginx by  陶辉 
+
+**Web Security**
+
+- The Tangled Web: a Guide to Securing Modern Web Applications by Michal Zalewski (Web之困：现代Web应用安全指南)
+- 白帽子讲Web安全
+- 白帽子讲浏览器安全
+
+
+
+
+
+### Reference Collections
+
+- [服务端工程师入门与进阶 Java 版](http://xielong.me/2015/04/16/%E6%9C%8D%E5%8A%A1%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%85%A5%E9%97%A8%E4%B8%8E%E8%BF%9B%E9%98%B6Java%E7%89%88/)
+- [服务端技术选型](http://xielong.me/2015/04/17/%E6%9C%8D%E5%8A%A1%E7%AB%AF%E6%8A%80%E6%9C%AF%E9%80%89%E5%9E%8B/)
+
+
+
+
+
+
+
+---
+
+---
+
+
+
+
+
+
+
+
 
 
 ### Frameworks
