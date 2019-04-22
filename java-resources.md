@@ -7,7 +7,8 @@
 - II. Books & Documentations
 - III. Techniques & Utilities Source
 - IV. Applications Source
-- V. Others
+- V. Blog & Community
+- VI. Others
 
 
 
@@ -225,9 +226,33 @@ spring项目，权限管理、系统监控、服务降级、定时任务动态�
 
 
 
+### V. Blog & Community
 
+Personal Blog
 
-### V. Others
+- [Peter Norvig](norvig.com)
+- [JOEL ON SOFTWARE](https://www.joelonsoftware.com/)
+- [CODING HORROR](https://blog.codinghorror.com/)
+- [酷壳 - 左耳朵耗子](https://coolshell.cn/)
+- [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
+- [云风的 BLOG](https://blog.codingnow.com/)
+- [小胡子哥博客](https://www.barretlee.com/entry/)
+
+Community
+
+- Stack Overflow
+- [ibm developerworkers](https://developer.ibm.com/)
+- [InfoQ](https://www.infoq.com)
+
+Social
+
+- Reddit
+- Hacker News
+- Medium
+- V2EX
+- 1point3acres
+
+### VI. Others
 
 - [Java工程师成神之路](https://github.com/hollischuang/toBeTopJavaer)
 - [be-a-professional-programmer](https://github.com/stanzhai/be-a-professional-programmer)  
