@@ -230,9 +230,14 @@ spring项目，权限管理、系统监控、服务降级、定时任务动态�
 
 Personal Blog
 
-- [Peter Norvig](norvig.com)
+- [Peter Norvig](http://norvig.com)
 - [JOEL ON SOFTWARE](https://www.joelonsoftware.com/)
 - [CODING HORROR](https://blog.codinghorror.com/)
+- [BlogsDope](https://www.codesdope.com/blog/)
+- [Techie Delight](https://www.techiedelight.com/)
+- [visitorpanel](https://www.visitorpanel.com/)
+- [SCOTT HANSELMAN](https://www.hanselman.com/blog/)
+- [sanwebcorner](http://www.sanwebcorner.com/)
 - [酷壳 - 左耳朵耗子](https://coolshell.cn/)
 - [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
 - [云风的 BLOG](https://blog.codingnow.com/)
@@ -252,8 +257,26 @@ Social
 - V2EX
 - 1point3acres
 
+Online Course Website
+
+- 
+- [BEST PROGRAMMING LANGUAGE FOR ME](http://www.bestprogramminglanguagefor.me/)
+- [CLASS CENTRAL](https://www.classcentral.com/)
+- [COURSERA](https://www.coursera.org/)
+- [UDACITY](https://www.udacity.com/)
+- [edx](https://www.edx.org/)
+- [DATACAMP](https://www.datacamp.com/)
+- [ALISON](https://alison.com/)
+- [MIT OPENCOURSEWARE](https://ocw.mit.edu/index.htm)
+- [CODECADEMY](https://www.codecademy.com/)
+- [NPTEL](https://nptel.ac.in/)
+
 ### VI. Others
 
+- [COLLEGESTASH - online course](https://collegestash.info/onlinelearning.php)
+- [engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
+- [11 best web development blogs you should be reading right now](https://usersnap.com/blog/12-best-web-development-blogs-reading-right-now/)
+- [HackSource– 18,510 programming tutorials for developers](https://hacksource.xyz/)
 - [Java工程师成神之路](https://github.com/hollischuang/toBeTopJavaer)
 - [be-a-professional-programmer](https://github.com/stanzhai/be-a-professional-programmer)  
 成为专业程序员路上用到的各种优秀资料、神器及框架
@@ -270,6 +293,9 @@ A curated list of awesome Java frameworks, libraries and software.
 - [stackoverflow-java-top-qa & stackoverflow上Java相关回答整理翻译](https://github.com/giantray/stackoverflow-java-top-qa.git)
 - [Front-end-tutorial &前端回忆录](https://github.com/windiest/Front-end-tutorial.git)
 
+### References
+
+[1] [What are the best programming blogs? - Quora](https://www.quora.com/What-are-the-best-programming-blogs)
 
 
 
