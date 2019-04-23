@@ -19,6 +19,9 @@
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [服务端工程师入门与进阶 Java 版](http://xielong.me/2015/04/16/%E6%9C%8D%E5%8A%A1%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%85%A5%E9%97%A8%E4%B8%8E%E8%BF%9B%E9%98%B6Java%E7%89%88/)
 - [服务端技术选型](http://xielong.me/2015/04/17/%E6%9C%8D%E5%8A%A1%E7%AB%AF%E6%8A%80%E6%9C%AF%E9%80%89%E5%9E%8B/)
+- [程序员技术练级攻略 - 酷壳](https://coolshell.cn/articles/4990.html)
+
+
 
 
 
