@@ -27,22 +27,69 @@
 
 ### II. Books & Documentations
 
+- menu
+
+  - I. Java 
+  	- Basic
+  	- Concurrency Programming & Operating System
+  	- JVM
+  	- Utility Library
+  	- Good Code
+  	- Design Patterns
+  - II. DevOps
+  	- Linux: command, Shell Script.
+  	- Tools: version control, project build, IDE, Editor.
+  	- DevOps: Jenkins, Docker.
+  	- Test: unit test, mock, performance test.
+  - III. Networking Programming
+  	- Protocol: TCP, HTTP, HTTPS. Thrift, SOAP, REST
+  	- Network Programming: Unix Networking Programming, Java Socket, NIO, Java Servlet. RPC, Web Socket. Java EE
+  	- Server: Web Server, Web Application Server
+  	- RPC Framework: Apache Thrift, Web Service
+  	- Microservice
+  	- NIO Framework: Netty, Apache Mina
+  	- Web Framework: Spring framework
+  	- Web Security: Shiro, Spring Security
+  - IV. Database Programming
+  	- JDBC
+  	- Connection Pools
+  	- ORM Framework
+  	- No SQL
+  	- Cache
+  	- MySQL
+  - V. Application Library 
+    - Schedule
+    - Work Flow
+    - Search Engine
+  - VI. Distributed System
+  	- Distribute Collaboration
+  	- Distribute Message
+  	- Distribute Cache
+
+### I. Java
+
 **Java Basic**
 
 - Java SE Documentation<br><https://www.oracle.com/technetwork/java/javase/documentation/index.html>   <https://docs.oracle.com/javase/8/>
 - [The Java® Language Specification Java SE 8 Edition - doc](https://docs.oracle.com/javase/specs/jls/se8/html/index.html)
 - Head First Java
-- Core Java Volume I Fundamentals by S, Horstmann 
+- **Core Java** Volume I Fundamentals by S, Horstmann 
 - Java: The Complete Reference, Eleventh Edition by Schildt, Herbert
 - Modern Java Recipes: Simple Solutions to Difficult Problems in Java 8 and 9 by Kousen, Ken
 - Java 9 Modularity: Patterns and Practices for Developing Maintainable Applications by Mak, Sander
-- Java8 in Action
-- Thinking in Java by Eckel, Bruce
+- Java 8 in Action
+- **Thinking in Java** by Eckel, Bruce
 - Java in a Nutshell by David Flanagan
-- Effective Java
+- **Effective Java**
 - Java Puzzlers
 
-**JVM**
+
+**Concurrency Programmig**
+
+- Java Concurrency in Practice by Goetz, Brian
+- Seven Concurrency Models in Seven Weeks: When Threads Unravel by  Paul Butcher 
+
+**JVM Optimization**
 
 - [The Java® Virtual Machine Specification Java SE 7 Edition - doc](https://docs.oracle.com/javase/specs/jvms/se7/html/index.html)
 - Java Performance: The Definitive Guide by Oaks, Scott [4.38]
@@ -55,23 +102,94 @@
 - Java程序性能优化-让你的Java程序更快、更稳定 by 葛一鸣 
 - 垃圾回收的算法与实现 by 中村成洋
 
-**Concurrency**
+**Utility Library**
 
-- Java Concurrency in Practice by Goetz, Brian
-- Seven Concurrency Models in Seven Weeks: When Threads Unravel by  Paul Butcher 
-
-**Networking Programming**
-
-- Java Network Programming by Harold, Elliotte Rusty
-- TCP/IP Sockets in Java: Practical Guide for Programmers by Calvert, Kenneth L.
-- java NIO by Hitchens, Ron
+JSON, XML, Email, Logging, Datetime, IO.
 
 **Design Patterns**
 
 - Head First Object-Oriented Analysis and Design by McLaughlin, Brett
 - Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma, Richard Helm
 
-**Java EE**
+
+**Good Code**
+
+- **Clean Code**
+- **Refactoring: Improving the Design of Existing Code**
+
+### II. DevOps
+
+**Linux**
+
+- [x] 鸟哥的Linux私房菜：基础学习篇
+- [x] The Linux Command Line
+-  Linux Shell Scripting Cookbook (Linux Shell 脚本攻略)
+
+**Tools**
+
+- Pro Git
+- Docker in Action
+
+**DevOps**
+
+- Maven: The Definitive Guide
+- Jenkins: The Definitive Guide
+
+
+**Test**
+
+
+
+### III. Networking Programming
+
+**Protocol**
+
+TCP, HTTP, HTTPS, Thrift, SOAP, REST
+
+**Network Programming**
+
+System Network
+- Unix Netwokr Programming
+
+Socket
+
+- Java Network Programming by Harold, Elliotte Rusty
+- TCP/IP Sockets in Java: Practical Guide for Programmers by Calvert, Kenneth L.
+
+NIO
+
+- java NIO by Hitchens, Ron
+
+Servlet
+
+RPC
+
+WebSocket
+
+
+
+**Server**
+
+Web server
+- 深入理解Nginx by  陶辉 
+
+Web Application Server
+- How Tomcat Works: A Guide to Developing Your Own Java Servlet Container by Budi Kurniawan / Paul Deck 
+
+**RPC Framework**
+
+Apache Thrift, Web Service
+
+**Microservice**
+
+**NIO Framework**
+
+- Netty in Action by Maurer, Norman
+- Netty权威指南 by 李林锋 
+
+**Web Framework**
+
+JavaEE
 
 - [Java EE Documentation - doc](https://www.oracle.com/technetwork/java/javaee/overview/index.html)
 - [Java Servlet Specification Version 4.0 - doc](https://javaee.github.io/servlet-spec/downloads/servlet-4.0/servlet-4_0_FINAL.pdf)
@@ -85,49 +203,75 @@
 - Professional Java EE Design Patterns by Yener, Murat
 - High-Performance Java Persistence by Mihalcea, Vlad
 - Java EE 7 Essentials by Gupta, Arun
+- Core J2EE Patterns: Best Practices and Design Strategies (J2EE核心模式)
 
-**ORM Framework**
-
-- Java Persistence with Hibernate: Revised Edition of Hibernate in Action by Bauer, Christian
-
-**Web Application Framework**
+Spring
 
 - [Spring Framework Reference Documentation - doc](https://docs.spring.io/spring/docs/3.2.x/spring-framework-reference/html/)
 - [Spring Framework Current Documentation - doc](https://docs.spring.io/spring/docs/current/spring-framework-reference/)
-- Spring in Action 5th Edition.
+- [x] Spring in Action.
 - Cloud Native Java
 - Learning Spring Boot 2.0
 - Spring 5 Recipes: A Problem-Solution Approach
 - Spring Microservices in Action by John Carnell
 - Spring 技术内幕
+- Spring 揭秘
 - Spring 3.x企业应用开发实战 by  陈雄华 
-
-**Network Application Framework**
-
-- Netty in Action by Maurer, Norman
-- Netty权威指南 by 李林锋 
-
-**Web Service**
-
-**Web Socket**
-
-**Cache**
-
-- Redis in Action by  Josiah L. Carlson 
-- Redis设计与实现 by 黄健宏 
-
-**Web Server**
-
-> Nginx, Apache, Apache Tomcat
-
-- How Tomcat Works: A Guide to Developing Your Own Java Servlet Container by Budi Kurniawan / Paul Deck 
-- 深入理解Nginx by  陶辉 
 
 **Web Security**
 
 - The Tangled Web: a Guide to Securing Modern Web Applications by Michal Zalewski (Web之困：现代Web应用安全指南)
 - 白帽子讲Web安全
 - 白帽子讲浏览器安全
+
+
+### IV. Database Programming
+
+**JDBC**
+
+**Connection Pool**
+
+**ORM Framework**
+
+- Java Persistence with Hibernate: Revised Edition of Hibernate in Action by Bauer, Christian
+
+**NoSQL**
+
+**Cache**
+
+- Redis in Action by  Josiah L. Carlson 
+- Redis设计与实现 by 黄健宏 
+
+**MySQL**
+
+
+
+### V. Application Library
+
+**Schedule**
+
+**Work Flow**
+
+**Search Engine**
+
+### VI. Distributed System
+
+**Distribute Collaboration**
+
+
+
+**Distribute Message**
+
+
+
+**Distribute Cache**
+
+
+
+------------------------------------------------------------------------------
+
+
+
 
 
 
@@ -262,7 +406,6 @@ Social
 
 Online Course Website
 
-- 
 - [BEST PROGRAMMING LANGUAGE FOR ME](http://www.bestprogramminglanguagefor.me/)
 - [CLASS CENTRAL](https://www.classcentral.com/)
 - [COURSERA](https://www.coursera.org/)
