@@ -21,12 +21,18 @@ ACM竞赛必读书之一，几乎包含了所有计算机科学里涉及到的�
 - [ ] **Algorithms** by Robert Sedgewick
 - [ ] **Introduction to Algorithms** by Charles E. Leiserson, Clifford Stein, Ronald Rivest, and Thomas H. Cormen (**CLRS**: authors abbreviation)
 - The Art of Computer Programming vol 1,2,3 by Donald.E.Knuth (**TAOCP**)
+- 剑指Offer
+- 编程之美
+- Programming Pearls by Jon Bentley 
 
 ### Computer Architecture
 
 - [ ] **Computer Organization and Design: the Hardware/Software Interface** by David A Patterson John L Hennessy and John L. Hennessy
 - [ ] **Computer Architecture: A Quantitative Approach** by David A Patterson John L Hennessy and John L. Hennessy
 
+For Compiler
+
+- Compilers: Principles, Techniques, and Tools by  Alfred V. Aho / Monica S. Lam 
 
 ### Operating System
 
@@ -96,7 +102,20 @@ Some More
 
 - [ ] **Design Patterns: Elements of Reusable Object-Oriented Software** by Erich Gamma / Richard Helm / Ralph Johnson / John Vlissides 
 - Head First Design Patterns by Elisabeth Freeman
+- Clean Code : A Handbook of Agile Software Craftsmanship  by Robert C. Martin / Prentice Hall
+- Refactoring : Improving the Design of Existing Code by Martin Fowler / Kent Beck 
+- Test Driven Development: By Example by  Kent Beck 
 
 
 
 ### Security & Cryptography
+
+- The Code Book by Simon Singh 
+- Understanding Cryptography: A Textbook for Students and Practitioners by Christof Paar,  Jan Pelzl
+- Applied Cryptography: Protocols, Algorithms, and Source Code in C by Bruce Schneier
+- Cryptography Engineering: Design Principles and Practical Applications by Niels Ferguson,  Bruce Schneier, Tadayoshi Kohno
+- Introduction to Modern Cryptography, Second Edition (Chapman & Hall/CRC Cryptography and Network Security Series) by Jonathan Katz
+- Serious Cryptography: A Practical Introduction to Modern Encryption by Jean-Philippe Aumasson
+- Practical Cryptography by Niels Ferguson,  Bruce Schneier
+- Cryptography and Network Security: Principles and Practice by William Stallings
+
