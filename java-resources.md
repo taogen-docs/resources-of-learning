@@ -211,11 +211,14 @@ Spring
 - [Spring Framework Current Documentation - doc](https://docs.spring.io/spring/docs/current/spring-framework-reference/)
 - [x] Spring in Action.
 - Cloud Native Java
+- Spring Boot in Action
 - Learning Spring Boot 2.0
 - Spring 5 Recipes: A Problem-Solution Approach
-- Spring Microservices in Action by John Carnell
+- [ ] Spring Microservices in Action by John Carnell
+- Expert One-On-One J2EE without EJB  by by Rod Johnson  
+It explains the why behind spring as well as the how to use it.
 - Spring 技术内幕
-- Spring 揭秘
+- [ ] Spring 揭秘
 - Spring 3.x企业应用开发实战 by  陈雄华 
 
 **Web Security**
