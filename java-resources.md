@@ -48,6 +48,7 @@
   	- RPC Framework: Apache Thrift, Web Service
   	- Microservice
   	- NIO Framework: Netty, Apache Mina
+  	- Web Frontend Framework: Bootstrap, jQuery, Vue.js, Node.js
   	- Web Framework: Spring framework
   	- Web Security: Shiro, Spring Security
   - IV. Database Programming
@@ -57,6 +58,7 @@
   	- No SQL
   	- Cache
   	- MySQL
+  	- Oracle
   - V. Application Library 
     - Schedule
     - Work Flow
