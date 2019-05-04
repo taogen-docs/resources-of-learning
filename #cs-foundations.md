@@ -20,19 +20,37 @@ ACM竞赛必读书之一，几乎包含了所有计算机科学里涉及到的�
 
 - [ ] **Algorithms** by Robert Sedgewick
 - [ ] **Introduction to Algorithms** by Charles E. Leiserson, Clifford Stein, Ronald Rivest, and Thomas H. Cormen (**CLRS**: authors abbreviation)
+- Algorithms by Sanjoy Dasgupta
+
+
+Some More
+
 - The Art of Computer Programming vol 1,2,3 by Donald.E.Knuth (**TAOCP**)
-- 剑指Offer
-- 编程之美
 - Programming Pearls by Jon Bentley 
+
+For Interview
+
+- 剑指Offer by 何海涛 
+- 编程之美 by 《编程之美》小组
+- 程序员代码面试指南：IT名企算法与数据结构题目最优解 by 左程云 
+- Cracking the coding interview:150 programming questions and solutions by Gayle Laakmann McDowell  程序员面试金典
+
+For ACM
+
+- 挑战程序设计竞赛 by 秋叶拓哉
+- 算法竞赛入门经典（第2版）by  刘汝佳 
+- 信息学奥赛一本通 by 董永建
 
 ### Computer Architecture
 
 - [ ] **Computer Organization and Design: the Hardware/Software Interface** by David A Patterson John L Hennessy and John L. Hennessy
 - [ ] **Computer Architecture: A Quantitative Approach** by David A Patterson John L Hennessy and John L. Hennessy
+- Computer Organization and Architecture: Designing for Performance by William Stallings 
 
 For Compiler
 
 - Compilers: Principles, Techniques, and Tools by  Alfred V. Aho / Monica S. Lam 
+- Structure and Interpretation of Computer Programs by Harold Abelson 
 
 ### Operating System
 
