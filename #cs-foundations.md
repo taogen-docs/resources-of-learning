@@ -45,6 +45,7 @@ For ACM
 
 - **Computer Organization and Design: the Hardware/Software Interface** by David A Patterson John L Hennessy and John L. Hennessy
 - **Computer Architecture: A Quantitative Approach** by David A Patterson John L Hennessy and John L. Hennessy
+- **Computer Systems: A Programmer‘Perspective** by Randal E.Bryant, David O'Hallaron (**CSAPP**)
 - Computer Organization and Architecture: Designing for Performance by William Stallings 
 
 For Compiler
@@ -59,10 +60,6 @@ Must Read
 - **Operating System Concepts** (2012) by Silberschatz, Galvin and Gagne.
 - **Operating Systems** (2003) by D. R. Choffnes, Harvey Deitel, and Paul Deitel
 - Modern Operating Systems by Andrew S. Tanenbaum
-
-Some More
-
-- Computer Systems: A Programmer‘Perspective, Third Edition by dal E.Bryant / David O'Hallaron
 
 For Programming
 
