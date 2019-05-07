@@ -50,8 +50,9 @@ For ACM
 
 For Compiler
 
-- Compilers: Principles, Techniques, and Tools by  Alfred V. Aho / Monica S. Lam 
+- Compilers: Principles, Techniques, and Tools by  Alfred V. Aho and Monica S. Lam 
 - Structure and Interpretation of Computer Programs by Harold Abelson 
+- 汇编语言 by 王爽 
 
 ### Operating System
 
@@ -60,7 +61,11 @@ Must Read
 - **Operating System Concepts** (2012) by Abraham Silberschatz,  Peter B. Galvin, Greg Gagne 
 - **Operating Systems** (2003) by Harvey Deitel,  Paul Deitel, David R. Choffnes 
 - Modern Operating Systems by Andrew S. Tanenbaum
+
+Some More
+
 - Operating Systems Design and Implementation by Andrew S. Tanenbaum,  Albert S. Woodhull 
+- Orange'S:一个操作系统的实现 by 于渊 
 
 For Programming
 
