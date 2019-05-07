@@ -64,7 +64,7 @@ For Compiler
 
 Must Read 
 
-- **Operating System Concepts ** (10th, 2018) by Abraham Silberschatz,  Peter B. Galvin, Greg Gagne 
+- **Operating System Concepts** (10th, 2018) by Abraham Silberschatz,  Peter B. Galvin, Greg Gagne 
 - **Operating Systems** (3rd, 2003) by Harvey Deitel,  Paul Deitel, David R. Choffnes 
 - Modern Operating Systems (4th, 2014) by Andrew S. Tanenbaum
 
