@@ -57,9 +57,10 @@ For Compiler
 
 Must Read 
 
-- **Operating System Concepts** (2012) by Silberschatz, Galvin and Gagne.
-- **Operating Systems** (2003) by D. R. Choffnes, Harvey Deitel, and Paul Deitel
+- **Operating System Concepts** (2012) by Abraham Silberschatz,  Peter B. Galvin, Greg Gagne 
+- **Operating Systems** (2003) by Harvey Deitel,  Paul Deitel, David R. Choffnes 
 - Modern Operating Systems by Andrew S. Tanenbaum
+- Operating Systems Design and Implementation by Andrew S. Tanenbaum,  Albert S. Woodhull 
 
 For Programming
 

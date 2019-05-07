@@ -10,6 +10,7 @@
 
 Common
 
+- Distributed Operating Systems: Concepts and Design by Pradeep K. Sinha  
 - 大型网站技术架构：核心原理与案例分析 by 李智慧
 - 大型网站系统与Java中间件实践 by 曾宪杰
 - 分布式Java应用：基础与实践 by 林昊 
