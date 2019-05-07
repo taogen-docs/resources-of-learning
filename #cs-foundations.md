@@ -104,6 +104,8 @@ Some More
 - Data Communications and Networking by Behrouz A. Forouzan
 - Computer Networks: A System Approach Larry L. Peterson and Bruce S. Davie
 - Data and Computer Communications by William Stallings
+- HTTP: The Definitive Guide (2002) by David Gourley,  Brian Totty, Marjorie Sayer, Anshu Aggarwal, Sailu Reddy
+- Learning Http/2: A Practical Guide for Beginners (2017) by Stephen Ludin,  Javier Garza
 
 For programming
 
