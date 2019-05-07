@@ -52,7 +52,11 @@ For ACM
 - **Computer Organization and Design: the Hardware/Software Interface** (5th, 2013) by David A Patterson John L Hennessy and John L. Hennessy
 - **Computer Architecture: A Quantitative Approach** (6th, 2017) by David A Patterson John L Hennessy and John L. Hennessy
 - **Computer Systems: A Programmer‘s Perspective** (3rd, 2015) by Randal E.Bryant, David O'Hallaron (**CSAPP**)
+
+Some More
+
 - Computer Organization and Architecture: Designing for Performance (9th, 2012) by William Stallings 
+- Structured Computer Organization (6th, 2012) by Andrew S. Tanenbaum, Todd Austin 
 
 For Compiler
 
