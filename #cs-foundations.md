@@ -2,31 +2,37 @@
 
 ### Mathematics
 
-- **Concrete Mathematics: Foundation for Computer Science** by Ronald L. Graham, Donald E. Knuth and Oren Patashnik  
+- **Concrete Mathematics: Foundation for Computer Science** (2nd, 1994) by Ronald L. Graham, Donald E. Knuth and Oren Patashnik  
 ACM竞赛必读书之一，几乎包含了所有计算机科学里涉及到的数学问题，里面有众多的经典问题与经典解法，对开拓人的数学思路有极大的帮助。
 
 ### C/C++
 
-- **The C Programming Language** by Brian W. Kernighan, Denis M. Ritchie (**TCPL**)
-- **C++ Primer** by Josée Lajoie and Stanley B. Lippman
-- **The C++ Programming Language** by Bjarne Stroustrup
-- **The C++ Standard Library**, 2nd Edition by Nikolai Josuttis
-- **Effective C++** by Scott Meyers
-- More Effective C++ by Scott Meyers
-- Effective STL by Scott Meyers
-- Large-Scale C++ Software Design by John Lakos
+Must Read
+
+- **The C Programming Language** (2nd, 1988) by Brian W. Kernighan, Denis M. Ritchie (**TCPL**)
+- C++ Primer (5th, 2012) by Josée Lajoie and Stanley B. Lippman
+- The C++ Programming Language (4th, 2013) by Bjarne Stroustrup
+- The C++ Standard Library  (2nd, 2012) by Nikolai Josuttis
+- Effective C++ (3rd, 2005) by Scott Meyers
+
+Some More
+
+- Effective Modern C++ (2014) by Scott Meyers
+- More Effective C++ (1996) by Scott Meyers
+- Effective STL (2001) by Scott Meyers
+- Large-Scale C++ Software Design (1996)  by John Lakos
 
 ### Algorithms
 
-- **Algorithms** by Robert Sedgewick
-- **Introduction to Algorithms** by Charles E. Leiserson, Clifford Stein, Ronald Rivest, and Thomas H. Cormen (**CLRS**: authors abbreviation)
-- Algorithms by Sanjoy Dasgupta
+- **Algorithms** (4th, 2011) by Robert Sedgewick
+- **Introduction to Algorithms** (3rd, 2009) by Charles E. Leiserson, Clifford Stein, Ronald Rivest, and Thomas H. Cormen (**CLRS**: authors abbreviation)
+- Algorithms (2006) by Sanjoy Dasgupta
 
 
 Some More
 
-- The Art of Computer Programming vol 1,2,3 by Donald.E.Knuth (**TAOCP**)
-- Programming Pearls by Jon Bentley 
+- The Art of Computer Programming Volumes 1-4 by Donald.E.Knuth (**TAOCP**)
+- Programming Pearls (2nd, 1999)  by Jon Bentley 
 
 For Interview
 
@@ -43,51 +49,51 @@ For ACM
 
 ### Computer Architecture
 
-- **Computer Organization and Design: the Hardware/Software Interface** by David A Patterson John L Hennessy and John L. Hennessy
-- **Computer Architecture: A Quantitative Approach** by David A Patterson John L Hennessy and John L. Hennessy
-- **Computer Systems: A Programmer‘Perspective** by Randal E.Bryant, David O'Hallaron (**CSAPP**)
-- Computer Organization and Architecture: Designing for Performance by William Stallings 
+- **Computer Organization and Design: the Hardware/Software Interface** (5th, 2013) by David A Patterson John L Hennessy and John L. Hennessy
+- **Computer Architecture: A Quantitative Approach** (6th, 2017) by David A Patterson John L Hennessy and John L. Hennessy
+- **Computer Systems: A Programmer‘s Perspective** (3rd, 2015) by Randal E.Bryant, David O'Hallaron (**CSAPP**)
+- Computer Organization and Architecture: Designing for Performance (9th, 2012) by William Stallings 
 
 For Compiler
 
-- Compilers: Principles, Techniques, and Tools by  Alfred V. Aho and Monica S. Lam 
-- Structure and Interpretation of Computer Programs by Harold Abelson 
+- Compilers: Principles, Techniques, and Tools (1986) by  Alfred V. Aho and Monica S. Lam 
+- Structure and Interpretation of Computer Programs (2nd, 1996) by Harold Abelson 
 - 汇编语言 by 王爽 
 
 ### Operating System
 
 Must Read 
 
-- **Operating System Concepts** (2012) by Abraham Silberschatz,  Peter B. Galvin, Greg Gagne 
-- **Operating Systems** (2003) by Harvey Deitel,  Paul Deitel, David R. Choffnes 
-- Modern Operating Systems by Andrew S. Tanenbaum
+- **Operating System Concepts ** (10th, 2018) by Abraham Silberschatz,  Peter B. Galvin, Greg Gagne 
+- **Operating Systems** (3rd, 2003) by Harvey Deitel,  Paul Deitel, David R. Choffnes 
+- Modern Operating Systems (4th, 2014) by Andrew S. Tanenbaum
 
 Some More
 
-- Operating Systems Design and Implementation by Andrew S. Tanenbaum,  Albert S. Woodhull 
+- Operating Systems Design and Implementation (3rd, 2006) by Andrew S. Tanenbaum,  Albert S. Woodhull 
 - Orange'S:一个操作系统的实现 by 于渊 
 
 For Programming
 
-- **Linux Kernel Development** (2010) by Robert Love
-- **Advanced Programming in the UNIX Environment**, Third Edition by W. Richard Stevens  (**APUE**)
-- **The Art of Unix Programming** by Eric S. Raymond
-- **The Linux Programming Interface** by Michael Kerrisk
+- **Linux Kernel Development** (3rd, 2010) by Robert Love
+- **Advanced Programming in the UNIX Environment** (3rd, 2013) by W. Richard Stevens  (**APUE**)
+- **The Art of Unix Programming** (2003) by Eric S. Raymond
+- **The Linux Programming Interface** (2010) by Michael Kerrisk
 - UNIX Systems for Modern Architectures (1994) by Schimmel.
-- **Windows Internals** (2009) by Russinovich and Solomon
-- Programming Windows by Charles Petzold 
-- Programming Applications for Microsoft Windows by Jeffrey Richter 
+- **Windows Internals** (7th, 2017) by Russinovich and Solomon
+- Programming Windows (5th, 1998) by Charles Petzold 
+- Programming Applications for Microsoft Windows (1999) by Jeffrey Richter 
 
 
 ### Computer Network
 
 Must Read
 
-- **Computer Networking: A Top Down Approach** by Kurose, Ross  
+- **Computer Networking: A Top Down Approach** (7th, 2016) by Kurose, Ross  
   Best for a beginner. You will fall in love with this book once you get hold of it :P. No prerequisites required. It is written marvelously for anyone to get interested in networking)
-- **Computer Networks** by Tanenbaum  
+- **Computer Networks** (5th, 2010) by Andrew S. Tanenbaum and David J. Wetherall 
   Good but dry. Well formed contents, should have some basic understanding of data communications before reading this book)
-- **TCP/IP illustrated Vol 1** by Richard Stevens
+- **TCP/IP illustrated Vol 1** (1st, 1994) (2th, 2011) by Richard Stevens
 
 Some More
 
@@ -97,19 +103,19 @@ Some More
 
 For programming
 
-- **Unix Network Programming Vol 1** Sockets API - Richard Stevens
-- **Unix Network Programming Vol 2** Inter process Communication - Richard Stevens
+- **Unix Network Programming Vol 1** (3rd, 2003) Sockets API - Richard Stevens
+- **Unix Network Programming Vol 2** (2nd, 1998) Inter process Communication - Richard Stevens
 
 ### Databases
 
 Must Read
 
-- **Database System Concepts** by Sudarshan, Korth
-- Fundamentals of Database System By Elmasari & Navathe
+- **Database System Concepts** (6th, 2010) by Sudarshan, Korth
+- Fundamentals of Database System (7th, 2017) by Ramez Elmasri,  Shamkant B. Navathe
 
 Some More
 
-- DATABASE MANAGEMENT SYSTEMS by Raghu Ramakrishnan, Johannes Gehrke
+- Database Management System by Raghu Ramakrishnan, Johannes Gehrke
 - Fundamentals of Relational Database Management Systems by S. Sumathi, S. Esakkirajan
 - Database Systems concepts, languages & architectures by Paolo Atzeni, Stefano Ceri, Stefano Paraboschi, Riccardo Torlone
 - Database Systems: A Practical Approach to Design, Implementation, and Management by THOMAS M. CONNOLLY, CAROLYN E. BEGG
@@ -119,19 +125,25 @@ Some More
 
 ### Design Patterns
 
-- **Design Patterns: Elements of Reusable Object-Oriented Software** by Erich Gamma, Richard Helm,  Ralph Johnson, John Vlissides 
-- Head First Design Patterns by Elisabeth Freeman
-- Clean Code : A Handbook of Agile Software Craftsmanship  by Robert C. Martin / Prentice Hall
-- Refactoring : Improving the Design of Existing Code by Martin Fowler, Kent Beck 
-- Test Driven Development: By Example by  Kent Beck 
+- **Design Patterns: Elements of Reusable Object-Oriented Software** (1994) by Erich Gamma, Richard Helm,  Ralph Johnson, John Vlissides 
+- Head First Design Patterns (2004) by Elisabeth Freeman
+- Head First Object-Oriented Analysis and Design (2006) by Brett D. McLaughlin
+- Clean Code : A Handbook of Agile Software Craftsmanship (2008) by Robert C. Martin / Prentice Hall
+- Refactoring : Improving the Design of Existing Code (2nd, 2018) by Martin Fowler, Kent Beck 
+- Test Driven Development: By Example (2002) by  Kent Beck 
 
 
 
 ### Security & Cryptography
 
-- The Code Book by Simon Singh 
-- Understanding Cryptography: A Textbook for Students and Practitioners by Christof Paar,  Jan Pelzl
-- Applied Cryptography: Protocols, Algorithms, and Source Code in C by Bruce Schneier
+Must Read
+
+- **The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography** (2000) by Simon Singh 
+- **Understanding Cryptography: A Textbook for Students and Practitioners** (2010) by Christof Paar,  Jan Pelzl
+- Applied Cryptography: Protocols, Algorithms, and Source Code in C (2015) by Bruce Schneier
+
+Some More
+
 - Cryptography Engineering: Design Principles and Practical Applications by Niels Ferguson,  Bruce Schneier, Tadayoshi Kohno
 - Introduction to Modern Cryptography, Second Edition (Chapman & Hall/CRC Cryptography and Network Security Series) by Jonathan Katz
 - Serious Cryptography: A Practical Introduction to Modern Encryption by Jean-Philippe Aumasson
