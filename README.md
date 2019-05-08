@@ -5,3 +5,7 @@ Resources of learning. Documentations, Books, courses, Git Repositories and so o
 - [Software Engineer Must Read]($software-engineer-must-read.md)
 - [Java Resources](java-resources.md)
 - [Database Resources](database-resources.md)
+
+
+
+*Continuously updating. I hope it will help you!*
