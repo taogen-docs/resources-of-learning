@@ -24,6 +24,8 @@ Some More
 
 ### Algorithms
 
+Must Read
+
 - **Algorithms** (4th, 2011) by Robert Sedgewick
 - **Introduction to Algorithms** (3rd, 2009) by Charles E. Leiserson, Clifford Stein, Ronald Rivest, and Thomas H. Cormen (**CLRS**: authors abbreviation)
 - Algorithms (2006) by Sanjoy Dasgupta
@@ -49,6 +51,8 @@ For ACM
 
 ### Computer Architecture
 
+Must Read
+
 - **Computer Organization and Design: the Hardware/Software Interface** (5th, 2013) by David A Patterson John L Hennessy and John L. Hennessy
 - **Computer Architecture: A Quantitative Approach** (6th, 2017) by David A Patterson John L Hennessy and John L. Hennessy
 - **Computer Systems: A Programmer‘s Perspective** (3rd, 2015) by Randal E.Bryant, David O'Hallaron (**CSAPP**)
@@ -60,8 +64,10 @@ Some More
 
 For Compiler
 
-- Compilers: Principles, Techniques, and Tools (1986) by  Alfred V. Aho and Monica S. Lam 
-- Structure and Interpretation of Computer Programs (2nd, 1996) by Harold Abelson 
+- Structure and Interpretation of Computer Programs (2nd, 1996) by Harold Abelson (**SICP**)
+- Compilers: Principles, Techniques, and Tools (1986) by  Alfred V. Aho and Monica S. Lam (**龙书**)
+- Modern Compiler Implementation in C (2004) by Andrew W. Appel (**虎书**)
+- Advanced Compiler Design and Implementation (1997) by Steven Muchnick (**鲸书**)
 - 汇编语言 by 王爽 
 
 ### Operating System
