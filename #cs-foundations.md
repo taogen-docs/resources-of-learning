@@ -1,6 +1,6 @@
 # CS Foundations Books
 
-### Overview
+### CS Overview
 
 - Computer Science: An Overview by Dennis Brylow and J. Glenn Brookshear
 - Code: The Hidden Language of Computer Hardware and Software by Charles Petzold by Charles Petzold
