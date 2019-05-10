@@ -18,6 +18,11 @@ Calculus
 - Calculus by Gilbert Strang 
 - Calculus by Tom M. Apostol 
 - Calculus by Michael Spivak 
+- 数学分析新讲 by 张筑生
+- Mathematical Analysis by Tom M. Apostol 
+- 数学分析八讲 by 辛钦
+- 数学分析中的典型问题与方法 by 裴礼文
+- Principles of Mathematical Analysis by Walter Rudin 
 
 Linear Algebra
 
