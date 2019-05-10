@@ -1,7 +1,47 @@
 # CS Foundations Books
 
+### Overview
+
+- Computer Science: An Overview by Dennis Brylow and J. Glenn Brookshear
+- Code: The Hidden Language of Computer Hardware and Software by Charles Petzold by Charles Petzold
+
 ### Mathematics
 
+Introduction
+
+- What is Mathematics 
+- The Beauty of Doing Mathematics: Three Public Dialogues by Serge Lang 
+
+Calculus
+
+- Calculus Made Easy by Book by Silvanus P. Thompson
+- Calculus by Gilbert Strang 
+- Calculus by Tom M. Apostol 
+- Calculus by Michael Spivak 
+
+Linear Algebra
+
+- Linear Algebra Done Right by Sheldon Axler
+- Introduction to Linear Algebra by Gilbert Strang
+- Linear Algebra And Its Applications by Gilbert Strang
+
+Mathematical Statistics and Statistical Theory
+
+- Mathematical Statistics with Applications (Wackerly, Mendenhall & Scheaffer)
+- Statistical Inference (Casella & Berger)
+- Mathematical Statistics: Basic Ideas and Selected Topics (Bickel & Doksum) 
+
+Applied Statistics and Statistical Computing
+
+- Statistics (Freedman, Pisani & Purves)
+- Probability and Statistics for Engineering and the Sciences (Devore)
+- Modern Applied Statistics with S (Venables & Ripley)
+- Software for Data Analysis: Programming with R (Chambers)
+- The Art of R Programming: A Tour of Statistical Software Design (Matloff)
+
+Computer Math
+
+- Discrete mathematics and its applications by Kenneth H·Rosen 
 - **Concrete Mathematics: Foundation for Computer Science** (2nd, 1994) by Ronald L. Graham, Donald E. Knuth and Oren Patashnik  
 ACM竞赛必读书之一，几乎包含了所有计算机科学里涉及到的数学问题，里面有众多的经典问题与经典解法，对开拓人的数学思路有极大的帮助。
 
@@ -10,8 +50,11 @@ ACM竞赛必读书之一，几乎包含了所有计算机科学里涉及到的�
 Must Read
 
 - **The C Programming Language** (2nd, 1988) by Brian W. Kernighan, Denis M. Ritchie (**TCPL**)
+- Pointers on C by Kenneth A·Reek 
+- Expert C Programming: Deep C Secrets by Peter van der Linden 
+- C Traps and Pitfalls by Andrew Koenig
 - C++ Primer (5th, 2012) by Josée Lajoie and Stanley B. Lippman
-- The C++ Programming Language (4th, 2013) by Bjarne Stroustrup
+- **The C++ Programming Language** (4th, 2013) by Bjarne Stroustrup
 - The C++ Standard Library  (2nd, 2012) by Nikolai Josuttis
 - Effective C++ (3rd, 2005) by Scott Meyers
 
@@ -21,15 +64,23 @@ Some More
 - More Effective C++ (1996) by Scott Meyers
 - Effective STL (2001) by Scott Meyers
 - Large-Scale C++ Software Design (1996)  by John Lakos
+- Inside the C++ Object Model by Stanley B·Lippman 
 
 ### Algorithms
 
-Must Read
+Prime
 
 - **Algorithms** (4th, 2011) by Robert Sedgewick
-- **Introduction to Algorithms** (3rd, 2009) by Charles E. Leiserson, Clifford Stein, Ronald Rivest, and Thomas H. Cormen (**CLRS**: authors abbreviation)
-- Algorithms (2006) by Sanjoy Dasgupta
+- Data Structures and Algorithm Analysis in C by Mark Allen Weiss 
+- Data Structures and Algorithm Analysis in Java by Mark A. Weiss 
+- Data Structures and Algorithm Analysis in C++ by Clifford A. Shaffer 
 
+Advanced
+
+- Algorithm Design by Jon Kleinberg, Éva Tardos 
+- The Algorithm Design Manual by Steven S Skiena 
+- **Introduction to Algorithms** (3rd, 2009) by Charles E. Leiserson, Clifford Stein, Ronald Rivest, and Thomas H. Cormen (**CLRS**: authors abbreviation)
+- **Algorithms** (2006) by Sanjoy Dasgupta
 
 Some More
 
@@ -61,6 +112,7 @@ Some More
 
 - Computer Organization and Architecture: Designing for Performance (9th, 2012) by William Stallings 
 - Structured Computer Organization (6th, 2012) by Andrew S. Tanenbaum, Todd Austin 
+- 汇编语言 by 王爽 
 
 For Compiler
 
@@ -68,7 +120,9 @@ For Compiler
 - Compilers: Principles, Techniques, and Tools (1986) by  Alfred V. Aho and Monica S. Lam (**龙书**)
 - Modern Compiler Implementation in C (2004) by Andrew W. Appel (**虎书**)
 - Advanced Compiler Design and Implementation (1997) by Steven Muchnick (**鲸书**)
-- 汇编语言 by 王爽 
+- Engineering a Compiler by Keith Cooper and Linda Torczon 
+- Parsing Techniques by Dick Grune, Ceriel J.H. Jacobs 
+- Essentials of Programming Languages by Daniel P. Friedman, Mitchell Wand 
 
 ### Operating System
 
@@ -124,9 +178,13 @@ Must Read
 
 - **Database System Concepts** (6th, 2010) by Sudarshan, Korth
 - Fundamentals of Database System (7th, 2017) by Ramez Elmasri,  Shamkant B. Navathe
+- Database System Implementation by Hector Garcia-Molina, Jeffrey D.Ullman and  Jennifer Widom 
 
 Some More
 
+- MySQL技术内幕 by 姜承尧 
+- Redis设计与实现 by 黄健宏 
+- Database System Implementation
 - Database Management System by Raghu Ramakrishnan, Johannes Gehrke
 - Fundamentals of Relational Database Management Systems by S. Sumathi, S. Esakkirajan
 - Database Systems concepts, languages & architectures by Paolo Atzeni, Stefano Ceri, Stefano Paraboschi, Riccardo Torlone
@@ -143,7 +201,7 @@ Some More
 - Clean Code : A Handbook of Agile Software Craftsmanship (2008) by Robert C. Martin / Prentice Hall
 - Refactoring : Improving the Design of Existing Code (2nd, 2018) by Martin Fowler, Kent Beck 
 - Test Driven Development: By Example (2002) by  Kent Beck 
-
+- Code Complete by Steve McConnell
 
 
 ### Security & Cryptography
