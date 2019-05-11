@@ -169,6 +169,7 @@ Some More
 - Data Communications and Networking by Behrouz A. Forouzan
 - Computer Networks: A System Approach Larry L. Peterson and Bruce S. Davie
 - Data and Computer Communications by William Stallings
+- [RFC 2616 - Hypertext Transfer Protocol -- HTTP/1.1](https://www.w3.org/Protocols/rfc2616/rfc2616.html)
 - HTTP: The Definitive Guide (2002) by David Gourley,  Brian Totty, Marjorie Sayer, Anshu Aggarwal, Sailu Reddy
 - Learning Http/2: A Practical Guide for Beginners (2017) by Stephen Ludin,  Javier Garza
 
