@@ -212,7 +212,7 @@ Some More
 - Refactoring : Improving the Design of Existing Code (2nd, 2018) by Martin Fowler, Kent Beck 
 - Test Driven Development: By Example (2002) by  Kent Beck 
 - Code Complete (2nd, 2004) by Steve McConnell
-- Elements of Programming by Alexander (2009) Stepanov, Paul McJones 
+- Elements of Programming (2009) by Alexander Stepanov and Paul McJones 
 
 ### Security & Cryptography
 
