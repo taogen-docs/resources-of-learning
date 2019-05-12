@@ -46,7 +46,11 @@ Applied Statistics and Statistical Computing
 
 Computer Math
 
-- Discrete mathematics and its applications by Kenneth H·Rosen 
+- Discrete mathematics and its applications (7th, 2011) by Kenneth H·Rosen 
+- Introduction to Graph Theory (2nd, 2017)  by Douglas B. West
+- Introductory Combinatorics (5th, 2017) by Richard A.Brualdi
+- A Friendly Introduction to Number Theory (4th, 2017) by Joseph H.Silverman 
+- Numerical Recipes (3rd, 2007) by William H. Press
 - **Concrete Mathematics: Foundation for Computer Science** (2nd, 1994) by Ronald L. Graham, Donald E. Knuth and Oren Patashnik  
 ACM竞赛必读书之一，几乎包含了所有计算机科学里涉及到的数学问题，里面有众多的经典问题与经典解法，对开拓人的数学思路有极大的帮助。
 
@@ -207,8 +211,8 @@ Some More
 - Clean Code : A Handbook of Agile Software Craftsmanship (2008) by Robert C. Martin / Prentice Hall
 - Refactoring : Improving the Design of Existing Code (2nd, 2018) by Martin Fowler, Kent Beck 
 - Test Driven Development: By Example (2002) by  Kent Beck 
-- Code Complete by Steve McConnell
-
+- Code Complete (2nd, 2004) by Steve McConnell
+- Elements of Programming by Alexander (2009) Stepanov, Paul McJones 
 
 ### Security & Cryptography
 
