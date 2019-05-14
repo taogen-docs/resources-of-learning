@@ -212,15 +212,18 @@ Some More
 
 ### Programming
 
+Parallel Programming
+
+- An Introduction to Parallel Programming by Peter Pacheco
+- Is Parallel Programming Hard, And, If So, What Can You Do About It? by Paul E. McKenney 
+
+
 Garbage Collection
 
 - The Garbage Collection Handbook by Richard Jones, Eliot Moss, Antony Hosking 
 - 垃圾回收的算法与实现 by 中村成洋, 相川光 
 
-Parallel
 
-- An Introduction to Parallel Programming by Peter Pacheco
-- Is Parallel Programming Hard, And, If So, What Can You Do About It? by Paul E. McKenney 
 
 
 ### Design Patterns & Code
