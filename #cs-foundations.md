@@ -3,7 +3,6 @@
 ### CS Overview
 
 - Computer Science: An Overview by Dennis Brylow and J. Glenn Brookshear
-- Code: The Hidden Language of Computer Hardware and Software by Charles Petzold by Charles Petzold
 
 ### Mathematics
 
@@ -121,17 +120,28 @@ Some More
 
 - Computer Organization and Architecture: Designing for Performance (9th, 2012) by William Stallings 
 - Structured Computer Organization (6th, 2012) by Andrew S. Tanenbaum, Todd Austin 
+
+Digital Circuits & Assembly Language 
+
+- Digital Fundamentals by Thomas L. Floyd 
+- Digital Integrated Circuits: A Design Perspective by Jan M. Rabaey
 - 汇编语言 by 王爽 
+- Professional Assembly Language by Richard Blum 
+- Assembly Language for Intel-Based Computers by Kip Irvine
 
-For Compiler
+Underlying Hardware and Program
 
+- Code: The Hidden Language of Computer Hardware and Software by Charles Petzold by Charles Petzold
 - Structure and Interpretation of Computer Programs (2nd, 1996) by Harold Abelson (**SICP**)
+- Essentials of Programming Languages by Daniel P. Friedman, Mitchell Wand 
 - Compilers: Principles, Techniques, and Tools (1986) by  Alfred V. Aho and Monica S. Lam (**龙书**)
 - Modern Compiler Implementation in C (2004) by Andrew W. Appel (**虎书**)
 - Advanced Compiler Design and Implementation (1997) by Steven Muchnick (**鲸书**)
 - Engineering a Compiler by Keith Cooper and Linda Torczon 
 - Parsing Techniques by Dick Grune, Ceriel J.H. Jacobs 
-- Essentials of Programming Languages by Daniel P. Friedman, Mitchell Wand 
+- 程序员的自我修养 by 俞甲子, 石凡, 潘爱民 
+- The Elements of Computer Systems: Building a Modern Computer from First Principles by Noam Nisan, Shimon Schocken 
+
 
 ### Operating System
 
@@ -194,16 +204,26 @@ Some More
 
 - MySQL技术内幕 by 姜承尧 
 - Redis设计与实现 by 黄健宏 
-- Database System Implementation
 - Database Management System by Raghu Ramakrishnan, Johannes Gehrke
 - Fundamentals of Relational Database Management Systems by S. Sumathi, S. Esakkirajan
 - Database Systems concepts, languages & architectures by Paolo Atzeni, Stefano Ceri, Stefano Paraboschi, Riccardo Torlone
 - Database Systems: A Practical Approach to Design, Implementation, and Management by THOMAS M. CONNOLLY, CAROLYN E. BEGG
 - Database Modeling & Design: Logical Design by TOBY TEOREY, SAM LIGHTSTONE, TOM NADEAU
 
+### Programming
+
+Garbage Collection
+
+- The Garbage Collection Handbook by Richard Jones, Eliot Moss, Antony Hosking 
+- 垃圾回收的算法与实现 by 中村成洋, 相川光 
+
+Parallel
+
+- An Introduction to Parallel Programming by Peter Pacheco
+- Is Parallel Programming Hard, And, If So, What Can You Do About It? by Paul E. McKenney 
 
 
-### Design Patterns
+### Design Patterns & Code
 
 - **Design Patterns: Elements of Reusable Object-Oriented Software** (1994) by Erich Gamma, Richard Helm,  Ralph Johnson, John Vlissides 
 - Head First Design Patterns (2004) by Elisabeth Freeman
@@ -212,7 +232,6 @@ Some More
 - Refactoring : Improving the Design of Existing Code (2nd, 2018) by Martin Fowler, Kent Beck 
 - Test Driven Development: By Example (2002) by  Kent Beck 
 - Code Complete (2nd, 2004) by Steve McConnell
-- Elements of Programming (2009) by Alexander Stepanov and Paul McJones 
 
 ### Security & Cryptography
 
