@@ -5,10 +5,9 @@
 
 - I. Guidance & Roadmap
 - II. Books & Documentations
-- III. Techniques & Utilities Source
-- IV. Applications Source
-- V. Blog & Community
-- VI. Others
+- III. Source Repositories
+- IV. Blog & Community
+- V. Others
 
 
 
@@ -27,48 +26,48 @@
 
 ### II. Books & Documentations
 
-- menu
+menu
 
-  - I. Java 
-  	- Basic
-  	- Concurrency Programming & Operating System
-  	- JVM
-  	- Utility Library
-  	- Good Code
-  	- Design Patterns
-  - II. DevOps
-  	- Linux: command, Shell Script.
-  	- Tools: version control, project build, IDE, Editor.
-  	- DevOps: Jenkins, Docker.
-  	- Test: unit test, mock, performance test.
-  - III. Networking Programming
-  	- Protocol: TCP, HTTP, HTTPS. Thrift, SOAP, REST
-  	- Network Programming: Unix Networking Programming, Java Socket, NIO, Java Servlet. RPC, Web Socket. Java EE
-  	- Server: Web Server, Web Application Server
-  	- RPC Framework: Apache Thrift, Web Service
-  	- Microservice
-  	- NIO Framework: Netty, Apache Mina
-  	- Web Frontend Framework: Bootstrap, jQuery, Vue.js, Node.js
-  	- Web Framework: Spring framework
-  	- Web Security: Shiro, Spring Security
-  - IV. Database Programming
-  	- JDBC
-  	- Connection Pools
-  	- ORM Framework
-  	- No SQL
-  	- Cache
-  	- MySQL
-  	- Oracle
-  - V. Application Library 
-    - Schedule
-    - Work Flow
-    - Search Engine
-  - VI. Distributed System
-  	- Distribute Collaboration
-  	- Distribute Message
-  	- Distribute Cache
+- Java 
+	- Basic
+	- Concurrency Programming & Operating System
+	- JVM
+	- Utility Library
+	- Good Code
+	- Design Patterns
+- DevOps
+	- Linux: command, Shell Script.
+	- Tools: version control, project build, IDE, Editor.
+	- DevOps: Jenkins, Docker.
+	- Test: unit test, mock, performance test.
+- Networking Programming
+	- Protocol: TCP, HTTP, HTTPS. Thrift, SOAP, REST
+	- Network Programming: Unix Networking Programming, Java Socket, NIO, Java Servlet. RPC, Web Socket. Java EE
+	- Server: Web Server, Web Application Server
+	- RPC Framework: Apache Thrift, Web Service
+	- Microservice
+	- NIO Framework: Netty, Apache Mina
+	- Web Frontend Framework: Bootstrap, jQuery, Vue.js, Node.js
+	- Web Framework: Spring framework
+	- Web Security: Shiro, Spring Security
+- Database Programming
+	- JDBC
+	- Connection Pools
+	- ORM Framework
+	- No SQL
+	- Cache
+	- MySQL
+	- Oracle
+- Application Library 
+  - Schedule
+  - Work Flow
+  - Search Engine
+- Distributed System
+	- Distribute Collaboration
+	- Distribute Message
+	- Distribute Cache
 
-### I. Java
+### Java
 
 **Java Basic**
 
@@ -77,36 +76,39 @@
 - Head First Java
 - **Core Java** Volume I Fundamentals by S, Horstmann 
 - Java: The Complete Reference, Eleventh Edition by Schildt, Herbert
-- Modern Java Recipes: Simple Solutions to Difficult Problems in Java 8 and 9 by Kousen, Ken
-- Java 9 Modularity: Patterns and Practices for Developing Maintainable Applications by Mak, Sander
 - Java 8 in Action
+- Modern Java in Action (JDK9) 
+- Java 9 Modularity: Patterns and Practices for Developing Maintainable Applications by Mak, Sander
+- Modern Java Recipes: Simple Solutions to Difficult Problems in Java 8 and 9 by Kousen, Ken
 - **Thinking in Java** by Eckel, Bruce
 - Java in a Nutshell by David Flanagan
 - **Effective Java**
 - Java Puzzlers
-
+- 阿里巴巴Java开发手册 by 杨冠宝 
+- 码出高效：Java开发手册 by 杨冠宝 
 
 **Concurrency Programmig**
 
 - Java Concurrency in Practice by Goetz, Brian
 - Seven Concurrency Models in Seven Weeks: When Threads Unravel by  Paul Butcher 
+- 实战Java高并发程序设计
 
 **JVM Optimization**
 
 - [The Java® Virtual Machine Specification Java SE 7 Edition - doc](https://docs.oracle.com/javase/specs/jvms/se7/html/index.html)
-- Java Performance: The Definitive Guide by Oaks, Scott [4.38]
+- **Java Performance: The Definitive Guide** by Oaks, Scott [4.38]
 - Java Performance by Hunt, Charlie [4.12]
 - Java Performance Companion by Hunt, Charlie [3.77]
 - Java Performance Tuning by Shirazi, Jack [3.56]
 - Optimizing Java: Practical Techniques for Improving Jvm Application Performance by Evans, Benjamin J. 
 - The Garbage Collection Handbook: The Art of Automatic Memory Management by Jones, Richard
-- 深入理解Java虚拟机
+- 深入理解Java虚拟机 (第2版)
 - Java程序性能优化-让你的Java程序更快、更稳定 by 葛一鸣 
 - 垃圾回收的算法与实现 by 中村成洋
 
 **Utility Library**
 
-JSON, XML, Email, Logging, Datetime, IO.
+> JSON, XML, Email, Logging, Datetime, IO.
 
 **Design Patterns**
 
@@ -119,12 +121,14 @@ JSON, XML, Email, Logging, Datetime, IO.
 - **Clean Code**
 - **Refactoring: Improving the Design of Existing Code**
 
-### II. DevOps
+### DevOps
 
 **Linux**
 
-- [x] 鸟哥的Linux私房菜：基础学习篇
-- [x] The Linux Command Line
+- 鸟哥的Linux私房菜：基础学习篇
+
+- The Linux Command Line
+
 -  Linux Shell Scripting Cookbook (Linux Shell 脚本攻略)
 
 **Tools**
@@ -140,13 +144,11 @@ JSON, XML, Email, Logging, Datetime, IO.
 
 **Test**
 
-
-
-### III. Networking Programming
+### Networking Programming
 
 **Protocol**
 
-TCP, HTTP, HTTPS, Thrift, SOAP, REST
+> TCP, HTTP, HTTPS, Thrift, SOAP, REST
 
 **Network Programming**
 
@@ -180,7 +182,7 @@ Web Application Server
 
 **RPC Framework**
 
-Apache Thrift, Web Service
+>  Apache Thrift, Web Service
 
 **Microservice**
 
@@ -211,26 +213,26 @@ Spring
 
 - [Spring Framework Reference Documentation - doc](https://docs.spring.io/spring/docs/3.2.x/spring-framework-reference/html/)
 - [Spring Framework Current Documentation - doc](https://docs.spring.io/spring/docs/current/spring-framework-reference/)
-- [x] Spring in Action.
+- **Spring in Action**
 - Cloud Native Java
 - Spring Boot in Action
 - Learning Spring Boot 2.0
 - Spring 5 Recipes: A Problem-Solution Approach
-- [ ] Spring Microservices in Action by John Carnell
+- Spring Microservices in Action by John Carnell
 - Expert One-On-One J2EE without EJB  by by Rod Johnson  
 It explains the why behind spring as well as the how to use it.
 - Spring 技术内幕
-- [ ] Spring 揭秘
+- **Spring 揭秘**
 - Spring 3.x企业应用开发实战 by  陈雄华 
 
 **Web Security**
 
-- The Tangled Web: a Guide to Securing Modern Web Applications by Michal Zalewski (Web之困：现代Web应用安全指南)
+- The Tangled Web: a Guide to Securing Modern Web Applications by Michal Zalewski
 - 白帽子讲Web安全
 - 白帽子讲浏览器安全
 
 
-### IV. Database Programming
+### Database Programming
 
 **JDBC**
 
@@ -249,9 +251,7 @@ It explains the why behind spring as well as the how to use it.
 
 **MySQL**
 
-
-
-### V. Application Library
+### Application Library
 
 **Schedule**
 
@@ -259,15 +259,11 @@ It explains the why behind spring as well as the how to use it.
 
 **Search Engine**
 
-### VI. Distributed System
+### Distributed System
 
 **Distribute Collaboration**
 
-
-
 **Distribute Message**
-
-
 
 **Distribute Cache**
 
@@ -280,12 +276,11 @@ It explains the why behind spring as well as the how to use it.
 
 
 
-###  III. Techniques & Utilities Source
+###  III. Source Repositories
 
 **Java**
 
-- [Google Guava](https://github.com/google/guava)  
-Google Core Libraries for Java, 开源的Java库,谷歌很多项目使用它的很多核心库。这个库是为了方便编码,并减少编码错误。
+- [Google Guava](https://github.com/google/guava)  Google Core Libraries for Java, 开源的Java库,谷歌很多项目使用它的很多核心库。这个库是为了方便编码,并减少编码错误。
 
 **Web Application Frameworks**
 
@@ -293,10 +288,8 @@ Google Core Libraries for Java, 开源的Java库,谷歌很多项目使用它的�
 - [mybatis-3 & MyBatis SQL mapper framework for Java](https://github.com/mybatis/mybatis-3.git)  
 - [hibernate-orm & Hibernate's core Object/Relational Mapping functionality](https://github.com/hibernate/hibernate-orm.git) 
 - [AisMVC](https://github.com/javagaorui5944/AisMVC)  一款仿SpringMVC轻便的mvc开发框架 
-- [jfinal](http://git.oschina.net/jfinal/jfinal)  
-JFinal 是基于 Java 语言的极速 WEB + ORM 框架，其核心设计目标是开发迅速、代码量少、学习简单、功能强大、轻量级、易扩展、Restful。在拥有Java语言所有优势的同时再拥有ruby、python、php等动态语言的开发效率！
-- [blade](https://github.com/lets-blade/blade)  
-Lightning fast and elegant mvc framework for Java8
+- [jfinal](http://git.oschina.net/jfinal/jfinal)  JFinal 是基于 Java 语言的极速 WEB + ORM 框架，其核心设计目标是开发迅速、代码量少、学习简单、功能强大、轻量级、易扩展、Restful。在拥有Java语言所有优势的同时再拥有ruby、python、php等动态语言的开发效率！
+- [blade](https://github.com/lets-blade/blade)  Lightning fast and elegant mvc framework for Java8
 - [Swagger](https://github.com/swagger-api/swagger-core)
 
 **Network Application Frameworks**
@@ -333,30 +326,23 @@ Lightning fast and elegant mvc framework for Java8
 
 
 
-### IV. Applications Source
-
 **Management system**
 
 - [BootDo - 基于 Springboot 和 Mybatis 的后台管理系统](https://www.oschina.net/p/bootdo)
 - [Guns - 基于SpringBoot,更简洁的后台管理系统](https://www.oschina.net/p/guns)
 - [FEBS  - 基于 Spring Boot 的权限管理系统](https://www.oschina.net/p/febs)
-- [cms](https://github.com/cms-dev/cms.git)  
-content management system
-- [crud](https://github.com/zhblue/crud)  
-  万能快速原型系统
+- [cms](https://github.com/cms-dev/cms.git)  content management system
+- [crud](https://github.com/zhblue/crud)  万能快速原型系统
 - JeePlus
 - [hope-plus](https://github.com/java-aodeng/hope-plus)
-- [MCMS](https://github.com/ming-soft/MCMS)  
-Java快速开发平台
+- [MCMS](https://github.com/ming-soft/MCMS)  Java快速开发平台
 
 **Shop System**
 
 - [javashop](https://gitee.com/javashop)
 
-- [shopweb](https://github.com/mission008/shopweb.git)  
-  仿淘宝的B2C商城项目
-- [miaosha](https://github.com/qiurunze123/miaosha)  
-秒杀系统设计与实现
+- [shopweb](https://github.com/mission008/shopweb.git)  仿淘宝的B2C商城项目
+- [miaosha](https://github.com/qiurunze123/miaosha)  秒杀系统设计与实现
 
 **IM**
 
@@ -364,21 +350,17 @@ Java快速开发平台
 
 **Others**
 
-- [drp](https://github.com/reedmi/drp.git)  
-DRP系统
+- [drp](https://github.com/reedmi/drp.git)  DRP系统
 
-- [social-sdk](https://github.com/belerweb/social-sdk.git)  
-社交平台的接口的Java库
+- [social-sdk](https://github.com/belerweb/social-sdk.git)  社交平台的接口的Java库
 
-- [beauty_ssm_cluster](https://github.com/wosyingjun/beauty_ssm_cluster.git)  
-对”优雅的SSM框架“进行完善
+- [beauty_ssm_cluster](https://github.com/wosyingjun/beauty_ssm_cluster.git)  对”优雅的SSM框架“进行完善
 
-- [funiture](https://github.com/kanwangzjm/funiture)  
-spring项目，权限管理、系统监控、服务降级、定时任务动态调整、qps限制、sql监控(邮件)、验证码服务、短链接服务、动态配置等
+- [funiture](https://github.com/kanwangzjm/funiture)  spring项目，权限管理、系统监控、服务降级、定时任务动态调整、qps限制、sql监控(邮件)、验证码服务、短链接服务、动态配置等
 
 
 
-### V. Blog & Community
+### IV. Blog & Community
 
 Personal Blog
 
@@ -422,23 +404,19 @@ Online Course Website
 - [CODECADEMY](https://www.codecademy.com/)
 - [NPTEL](https://nptel.ac.in/)
 
-### VI. Others
+### V. Others
 
 - [COLLEGESTASH - online course](https://collegestash.info/onlinelearning.php)
 - [engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
 - [11 best web development blogs you should be reading right now](https://usersnap.com/blog/12-best-web-development-blogs-reading-right-now/)
 - [HackSource– 18,510 programming tutorials for developers](https://hacksource.xyz/)
 - [Java工程师成神之路](https://github.com/hollischuang/toBeTopJavaer)
-- [be-a-professional-programmer](https://github.com/stanzhai/be-a-professional-programmer)  
-成为专业程序员路上用到的各种优秀资料、神器及框架
-- [java-bible](https://github.com/biezhi/java-bible)  
-技术摘要
+- [be-a-professional-programmer](https://github.com/stanzhai/be-a-professional-programmer)  成为专业程序员路上用到的各种优秀资料、神器及框架
+- [java-bible](https://github.com/biezhi/java-bible)  技术摘要
 - [awesome-java](https://github.com/akullpp/awesome-java)
-- [awesome-java-cn](https://github.com/jobbole/awesome-java-cn.git)  
-Java资源大全中文版
+- [awesome-java-cn](https://github.com/jobbole/awesome-java-cn.git)  Java资源大全中文版
 - [awesome-java](https://github.com/akullpp/awesome-java)
-- [awesome-java](https://github.com/akullpp/awesome-java.git)  
-A curated list of awesome Java frameworks, libraries and software.
+- [awesome-java](https://github.com/akullpp/awesome-java.git)  A curated list of awesome Java frameworks, libraries and software.
 - [links & Web 开发相关资源、网站、工具推荐](https://github.com/JSBa/links.git)
 - [java & java学习资料](https://github.com/langpf1/java.git)
 - [stackoverflow-java-top-qa & stackoverflow上Java相关回答整理翻译](https://github.com/giantray/stackoverflow-java-top-qa.git)
