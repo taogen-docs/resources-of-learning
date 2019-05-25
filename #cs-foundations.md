@@ -155,6 +155,7 @@ Some More
 
 - Operating Systems Design and Implementation (3rd, 2006) by Andrew S. Tanenbaum,  Albert S. Woodhull 
 - Orange'S:一个操作系统的实现 by 于渊 
+- Systems Performance by Brendan Gregg 
 
 For Programming
 
@@ -186,6 +187,8 @@ Some More
 - [RFC 2616 - Hypertext Transfer Protocol -- HTTP/1.1](https://www.w3.org/Protocols/rfc2616/rfc2616.html)
 - HTTP: The Definitive Guide (2002) by David Gourley,  Brian Totty, Marjorie Sayer, Anshu Aggarwal, Sailu Reddy
 - Learning Http/2: A Practical Guide for Beginners (2017) by Stephen Ludin,  Javier Garza
+- Wireshark网络分析就这么简单 by 林沛满 
+- wireshark网络分析的艺术 by 林沛满
 
 For programming
 
@@ -223,19 +226,6 @@ Garbage Collection
 - The Garbage Collection Handbook by Richard Jones, Eliot Moss, Antony Hosking 
 - 垃圾回收的算法与实现 by 中村成洋, 相川光 
 
-
-
-
-### Design Patterns & Code
-
-- **Design Patterns: Elements of Reusable Object-Oriented Software** (1994) by Erich Gamma, Richard Helm,  Ralph Johnson, John Vlissides 
-- Head First Design Patterns (2004) by Elisabeth Freeman
-- Head First Object-Oriented Analysis and Design (2006) by Brett D. McLaughlin
-- Clean Code : A Handbook of Agile Software Craftsmanship (2008) by Robert C. Martin / Prentice Hall
-- Refactoring : Improving the Design of Existing Code (2nd, 2018) by Martin Fowler, Kent Beck 
-- Test Driven Development: By Example (2002) by  Kent Beck 
-- Code Complete (2nd, 2004) by Steve McConnell
-
 ### Security & Cryptography
 
 Must Read
@@ -252,3 +242,39 @@ Some More
 - Practical Cryptography by Niels Ferguson,  Bruce Schneier
 - Cryptography and Network Security: Principles and Practice by William Stallings
 
+### Design Patterns 
+
+- **Design Patterns: Elements of Reusable Object-Oriented Software** (1994) by Erich Gamma, Richard Helm,  Ralph Johnson, John Vlissides 
+- Head First Design Patterns (2004) by Elisabeth Freeman
+- Head First Object-Oriented Analysis and Design (2006) by Brett D. McLaughlin
+
+### Code
+
+- The Pragmatic Programmer by Andrew Hunt, David Thomas 
+- The Clean Coder：A Code of Conduct for Professional Programmers by Robert C. Martin
+- Clean Code : A Handbook of Agile Software Craftsmanship (2008) by Robert C. Martin, Prentice Hall
+- Clean Architecture by Robert C. Martin
+- Code Complete (2nd, 2004) by Steve McConnell
+- Refactoring : Improving the Design of Existing Code (2nd, 2018) by Martin Fowler, Kent Beck 
+- Test Driven Development: By Example (2002) by  Kent Beck 
+- Effective Unit Testing by Lasse Koskela
+
+### Team & Agile
+
+- Extreme Programming Explained
+- The Mythical Man-Month: Essays on Software Engineering by Jr·Frederick P·Brooks 
+- Scrum and XP from the Trenches by Henrik Kniberg
+- The Art of Agile Development by James Shore, Shane Warden 
+- Learning Agile by Andrew Stellman
+
+Some More
+
+- Agile Retrospectives：Making Good Teams Great by Esther Derby , Diana Larsen,Ken Schwaber
+- Coaching Agile Teams: A Companion for ScrumMasters,Agile Coaches, and Project Managers in Transition by Lyssa Adkins
+- Agile Project Management with Scrum by Ken Schwaber
+- Succeeding with Agile:Software development using Scrum by Mike Cohn
+- Agile Estimating and Planning by Mike Cohn
+- Lean thinking  banish waste and creat wealth in your corporation by James P.Womack 
+- Kanban: Successful Evolutionary Change for Your Technology Business by David J.Anderson
+- User Stories Applied:For Agile Software Development by Mike Cohn
+- User Story Mapping Building Better Products using Agile Software Design by Jeff Patton
