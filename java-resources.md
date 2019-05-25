@@ -93,6 +93,13 @@ menu
 - Seven Concurrency Models in Seven Weeks: When Threads Unravel by  Paul Butcher 
 - 实战Java高并发程序设计
 
+**Reactive Programming**
+
+- Reactive Programming with RxJava: Creating Asynchronous, Event-Based Applications by Ben Christensen and Tomasz Nurkiewicz
+- Reactive Programming With Java 9: Build Asynchronous Applications with Rx.Java 2.0, Flow API and Spring WebFlux by Tejaswini Mandar Jog
+- Learning Reactive Programming with Java 8 by Nickolay Tsvetinov
+- Reactive Web Applications: Covers Play, Akka, and Reactive Streams by Manuel Bernhardt
+
 **JVM Optimization**
 
 - [The Java® Virtual Machine Specification Java SE 7 Edition - doc](https://docs.oracle.com/javase/specs/jvms/se7/html/index.html)
@@ -170,8 +177,6 @@ RPC
 
 WebSocket
 
-
-
 **Server**
 
 Web server
@@ -190,6 +195,35 @@ Web Application Server
 
 - Netty in Action by Maurer, Norman
 - Netty权威指南 by 李林锋 
+
+**Web Frontend Framework**
+
+>  HTML, CSS, Bootstrap, JavaScript, jQuery, Node.js, Vue.js, Augular.js, React.js
+
+JavaScript
+
+- Eloquent JavaScript: A Modern Introduction to Programming by Marijn Haverbeke
+- JavaScript: The Good Parts by Douglas Crockford
+- JavaScript: The Definitive Guide by David Flanagan
+- Secrets of the JavaScript Ninja by Bear Bibeault and John Resig by Bear Bibeault and John Resig
+- Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript 
+- Maintainable JavaScript by Nicholas C. Zakas
+- You Don't Know JS: ES6 & Beyond by Kyle Simpson
+- You Don't Know JS: Up & Going by Kyle Simpson
+- You Don't Know JS: Scope & Closures by Kyle Simpson
+- You Don't Know JS: this & Object Prototypes by Kyle Simpson
+- You Don't Know JS: Async & Performance by Kyle Simpson
+- You Don't Know JS: Types & Grammar by Kyle Simpson
+- Understanding ECMAScript 6: The Definitive Guide for JavaScript Developers by Nicholas C. Zakas
+- DOM Enlightenment by Cody Lindley
+- Introducing functional programming with Underscore.js by Michael Fogus
+
+JS Framework
+
+- jQuery in Action by Bear Bibeault
+- JavaScript and JQuery: Interactive Front-End Web Development by Jon Duckett
+- Node.js in Action by Marc Harter, Mike Cantelon, Nathan Rajlich, and T. J. Holowaychuk
+- RxJS in Action 
 
 **Web Framework**
 
