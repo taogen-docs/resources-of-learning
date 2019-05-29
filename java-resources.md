@@ -303,8 +303,6 @@ It explains the why behind spring as well as the how to use it.
 
 
 
-------------------------------------------------------------------------------
-
 
 
 
@@ -353,7 +351,7 @@ for JSON
 
 - [gson](https://github.com/google/gson)
 
-for build
+for Build
 
 - [maven](https://github.com/apache/maven)
 
@@ -373,7 +371,7 @@ for Test
 - [testng](https://github.com/cbeust/testng)
 - [selenium](https://github.com/SeleniumHQ/selenium)
 
-for HTTP client
+for HTTP Client
 
 - [retrofit](https://github.com/square/retrofit)
 - [okhttp](https://github.com/square/okhttp)
