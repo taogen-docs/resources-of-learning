@@ -308,28 +308,82 @@ It explains the why behind spring as well as the how to use it.
 
 
 
-
-
 ###  III. Source Repositories
 
-**Java**
+**Java Libraries**
 
 - [Google Guava](https://github.com/google/guava)  Google Core Libraries for Java, 开源的Java库,谷歌很多项目使用它的很多核心库。这个库是为了方便编码,并减少编码错误。
+- [comons-lang](https://github.com/apache/commons-lang)  一个被大量使用的工具包，都是一个一个的方法，适合新手学习。
 
-**Web Application Frameworks**
+**Web Frameworks**
 
 - [spring-framework](https://github.com/spring-projects/spring-framework.git)  
-- [mybatis-3 & MyBatis SQL mapper framework for Java](https://github.com/mybatis/mybatis-3.git)  
-- [hibernate-orm & Hibernate's core Object/Relational Mapping functionality](https://github.com/hibernate/hibernate-orm.git) 
-- [AisMVC](https://github.com/javagaorui5944/AisMVC)  一款仿SpringMVC轻便的mvc开发框架 
-- [jfinal](http://git.oschina.net/jfinal/jfinal)  JFinal 是基于 Java 语言的极速 WEB + ORM 框架，其核心设计目标是开发迅速、代码量少、学习简单、功能强大、轻量级、易扩展、Restful。在拥有Java语言所有优势的同时再拥有ruby、python、php等动态语言的开发效率！
-- [blade](https://github.com/lets-blade/blade)  Lightning fast and elegant mvc framework for Java8
-- [Swagger](https://github.com/swagger-api/swagger-core)
 
-**Network Application Frameworks**
+- [spring-boot](https://github.com/spring-projects/spring-boot)
+
+- Flyweight
+  - [blade](https://github.com/lets-blade/blade)  Lightning fast and elegant mvc framework for Java8
+  - [Google Guice](https://github.com/google/guice) a lightweight dependency injection framework
+  - [jfinal](http://git.oschina.net/jfinal/jfinal)  JFinal 是基于 Java 语言的极速 WEB + ORM 框架，其核心设计目标是开发迅速、代码量少、学习简单、功能强大、轻量级、易扩展、Restful。在拥有Java语言所有优势的同时再拥有ruby、python、php等动态语言的开发效率！
+  - [tiny-spring](https://github.com/code4craft/tiny-spring)
+  - [AisMVC](https://github.com/javagaorui5944/AisMVC)  一款仿SpringMVC轻便的mvc开发框架 
+
+**ORM Frameworks**
+
+- [mybatis-3](https://github.com/mybatis/mybatis-3.git)  MyBatis SQL mapper framework for Java
+- [hibernate-orm](https://github.com/hibernate/hibernate-orm.git) Hibernate's core Object/Relational Mapping functionality
+
+**Network Frameworks**
 
 - [Netty](https://github.com/netty/netty)
 - [Apache Mina](https://github.com/apache/mina)
+
+**RPC Frameworks**
+
+- [dubbo](https://github.com/apache/dubbo)
+- [Apache Thrift](https://github.com/apache/thrift/tree/master/lib/java)
+
+**Utilities**
+
+for JSON
+
+- [jackson](https://github.com/FasterXML/jackson)
+
+- [fastjson](https://github.com/alibaba/fastjson)
+
+- [gson](https://github.com/google/gson)
+
+for build
+
+- [maven](https://github.com/apache/maven)
+
+- [gradle](https://github.com/gradle/gradle)
+
+- [bazel](https://github.com/bazelbuild/bazel)
+
+for Deploy
+
+- [docker-ce](https://github.com/docker/docker-ce)
+- [kubernetes](https://github.com/kubernetes/kubernetes)
+- [jenkins](https://github.com/jenkinsci/jenkins)
+
+for Test
+
+- [junit4](https://github.com/junit-team/junit4)
+- [testng](https://github.com/cbeust/testng)
+- [selenium](https://github.com/SeleniumHQ/selenium)
+
+for HTTP client
+
+- [retrofit](https://github.com/square/retrofit)
+- [okhttp](https://github.com/square/okhttp)
+
+Others
+
+- [RxJava](https://github.com/ReactiveX/RxJava)
+- [Swagger](https://github.com/swagger-api/swagger-core)
+- [ddpush](https://github.com/tianshaojie/DDPush)  国人开发的千万级推送框架
+- [log4j](https://github.com/apache/log4j)  一个知名的日志处理的jar包
 
 **Web Server**
 
@@ -341,6 +395,12 @@ It explains the why behind spring as well as the how to use it.
 - [memcached](https://github.com/memcached/memcached)
 - [redis](https://github.com/antirez/redis)
 
+**Distributed Log**
+
+- [apche kafka](https://github.com/apache/kafka)
+- [apche flume](https://github.com/apache/flume)
+
+
 **Database Management System**
 
 - [mysql-server](https://github.com/mysql/mysql-server)
@@ -350,43 +410,48 @@ It explains the why behind spring as well as the how to use it.
 
 - [linux](https://github.com/torvalds/linux)
 
-**Utilities**
-
-- [comons-lang](https://github.com/apache/commons-lang)  一个被大量使用的工具包，都是一个一个的方法，适合新手学习。
-- [log4j](https://github.com/apache/log4j)  一个知名的日志处理的jar包
-- [ddpush]()  国人开发的千万级推送框架
-- [jackson](https://github.com/FasterXML/jackson)
-- [fastjson](https://github.com/alibaba/fastjson)
-
-
+****
 
 **Management system**
 
-- [BootDo - 基于 Springboot 和 Mybatis 的后台管理系统](https://www.oschina.net/p/bootdo)
-- [Guns - 基于SpringBoot,更简洁的后台管理系统](https://www.oschina.net/p/guns)
-- [FEBS  - 基于 Spring Boot 的权限管理系统](https://www.oschina.net/p/febs)
+- [BootDo](https://www.oschina.net/p/bootdo) 基于 Springboot 和 Mybatis 的后台管理系统
+- [Guns](https://www.oschina.net/p/guns) 基于SpringBoot,更简洁的后台管理系统
+- [FEBS](https://www.oschina.net/p/febs) 基于 Spring Boot 的权限管理系统
 - [cms](https://github.com/cms-dev/cms.git)  content management system
 - [crud](https://github.com/zhblue/crud)  万能快速原型系统
 - JeePlus
 - [hope-plus](https://github.com/java-aodeng/hope-plus)
 - [MCMS](https://github.com/ming-soft/MCMS)  Java快速开发平台
+- [funiture](https://github.com/kanwangzjm/funiture)  企业级权限管理系统
 
 **Shop System**
 
-- [javashop](https://gitee.com/javashop)
+- [mall](https://github.com/macrozheng/mall) 电商系统
+- [javashop](https://gitee.com/javashop) 网店系统
 - [shopweb](https://github.com/mission008/shopweb.git)  仿淘宝的B2C商城项目
 - [miaosha](https://github.com/qiurunze123/miaosha)  秒杀系统设计与实现
 
 **IM**
 
 - [wildfirechat](https://github.com/wildfirechat/server)
+- [Kahla.App](https://github.com/AiursoftWeb/Kahla.App)
+
+**Social**
+
+- [symphony](https://github.com/b3log/symphony) 现代化社区（论坛/BBS/社交网络/博客）平台
 
 **Others**
 
 - [drp](https://github.com/reedmi/drp.git)  DRP系统
 - [social-sdk](https://github.com/belerweb/social-sdk.git)  社交平台的接口的Java库
 - [beauty_ssm_cluster](https://github.com/wosyingjun/beauty_ssm_cluster.git)  对”优雅的SSM框架“进行完善
-- [funiture](https://github.com/kanwangzjm/funiture)  spring项目，权限管理、系统监控、服务降级、定时任务动态调整、qps限制、sql监控(邮件)、验证码服务、短链接服务、动态配置等
+
+**Tutorials**
+
+- [spring-boot-examples](https://github.com/ityouknow/spring-boot-examples)
+- [tutorials](https://github.com/eugenp/tutorials) The "REST With Spring" Course
+
+
 
 
 
@@ -421,6 +486,29 @@ Social
 - V2EX
 - 1point3acres
 
+
+
+
+
+### V. Others
+
+Knowledge Summary
+
+- [Java工程师成神之路 - github](https://github.com/hollischuang/toBeTopJavaer)
+- [advanced-java - github](https://github.com/doocs/advanced-java)   Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识。
+- [JavaGuide - github](https://github.com/Snailclimb/JavaGuide) 涵盖大部分Java程序员所需要掌握的核心知识。
+- [CS-Notes - github](https://github.com/CyC2018/CS-Notes)  技术面试必备基础知识。
+- [stackoverflow-java-top-qa & stackoverflow上Java相关回答整理翻译](https://github.com/giantray/stackoverflow-java-top-qa.git)
+- [Front-end-tutorial - github](https://github.com/windiest/Front-end-tutorial.git) 前端回忆录
+
+Resource Collection
+
+- [github rank](http://zy2071.com/Fun/githubRank/)  GitHub 排行榜
+- [be-a-professional-programmer - github](https://github.com/stanzhai/be-a-professional-programmer)  成为专业程序员路上用到的各种优秀资料、神器及框架
+- [awesome-java - github](https://github.com/akullpp/awesome-java)  awesome frameworks, libraries and software
+- [awesome-java-cn - github](https://github.com/jobbole/awesome-java-cn.git)  Java资源大全中文版，包括开发库、开发工具
+- [links - github](https://github.com/JSBa/links.git)  Web 开发相关资源、网站、工具推荐
+
 Online Course Website
 
 - [BEST PROGRAMMING LANGUAGE FOR ME](http://www.bestprogramminglanguagefor.me/)
@@ -434,23 +522,13 @@ Online Course Website
 - [CODECADEMY](https://www.codecademy.com/)
 - [NPTEL](https://nptel.ac.in/)
 
-### V. Others
+Others
 
 - [COLLEGESTASH - online course](https://collegestash.info/onlinelearning.php)
 - [engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
 - [11 best web development blogs you should be reading right now](https://usersnap.com/blog/12-best-web-development-blogs-reading-right-now/)
 - [HackSource– 18,510 programming tutorials for developers](https://hacksource.xyz/)
-- [Java工程师成神之路](https://github.com/hollischuang/toBeTopJavaer)
-- [be-a-professional-programmer](https://github.com/stanzhai/be-a-professional-programmer)  成为专业程序员路上用到的各种优秀资料、神器及框架
-- [java-bible](https://github.com/biezhi/java-bible)  技术摘要
-- [awesome-java](https://github.com/akullpp/awesome-java)
-- [awesome-java-cn](https://github.com/jobbole/awesome-java-cn.git)  Java资源大全中文版
-- [awesome-java](https://github.com/akullpp/awesome-java)
-- [awesome-java](https://github.com/akullpp/awesome-java.git)  A curated list of awesome Java frameworks, libraries and software.
-- [links & Web 开发相关资源、网站、工具推荐](https://github.com/JSBa/links.git)
-- [java & java学习资料](https://github.com/langpf1/java.git)
-- [stackoverflow-java-top-qa & stackoverflow上Java相关回答整理翻译](https://github.com/giantray/stackoverflow-java-top-qa.git)
-- [Front-end-tutorial &前端回忆录](https://github.com/windiest/Front-end-tutorial.git)
+- [java-bible - github](https://github.com/biezhi/java-bible)  技术摘要
 
 ### References
 
