@@ -36,3 +36,4 @@
 - Modern Applied Statistics with S (Venables & Ripley)
 - Software for Data Analysis: Programming with R (Chambers)
 - The Art of R Programming: A Tour of Statistical Software Design (Matloff)
+
