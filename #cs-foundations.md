@@ -82,15 +82,18 @@ Some More
 - Computer Organization and Architecture: Designing for Performance (9th, 2012) by William Stallings 
 - Structured Computer Organization (6th, 2012) by Andrew S. Tanenbaum, Todd Austin 
 
-Digital Circuits & Assembly Language 
+Digital Circuits
 
 - Digital Fundamentals by Thomas L. Floyd 
 - Digital Integrated Circuits: A Design Perspective by Jan M. Rabaey
+
+Assembly Language 
+
 - 汇编语言 by 王爽 
 - Professional Assembly Language by Richard Blum 
 - Assembly Language for Intel-Based Computers by Kip Irvine
 
-Underlying Hardware and Program
+Compiler
 
 - Code: The Hidden Language of Computer Hardware and Software by Charles Petzold by Charles Petzold
 - Structure and Interpretation of Computer Programs (2nd, 1996) by Harold Abelson (**SICP**)
