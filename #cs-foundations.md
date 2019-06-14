@@ -75,6 +75,11 @@ Courses
 - [Data Structures and Algorithm Design Part I 数据结构与算法设计(上)](https://courses.edx.org/courses/course-v1:TsinghuaX+30240184.1x+3T2017/course/) - edx, Tsinghua
 - [Data Structures and Algorithm Design Part II 数据结构与算法设计(下)](https://courses.edx.org/courses/course-v1:TsinghuaX+30240184.2x+3T2017/course/) - edx, Tsinghua
 
+Tutorials
+
+- [Techie Delight](https://www.techiedelight.com/)
+- [geeks for geeks](https://www.geeksforgeeks.org/)
+
 ### Computer Architecture
 
 Must Read
