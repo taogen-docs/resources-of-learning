@@ -69,42 +69,46 @@ menu
 
 ### Java
 
-**Java Basic**
+**Java SE**
+
+beginner
+
+- Head First Java (2nd, 2009) by Kathy Sierra 
+- Java 8 in Action
+- Modern Java in Action (JDK9) 
+- Java: The Complete Reference, Eleventh Edition by Schildt, Herbert
+
+Master
 
 - Java SE Documentation<br><https://www.oracle.com/technetwork/java/javase/documentation/index.html>   <https://docs.oracle.com/javase/8/>
 - [The Java® Language Specification Java SE 8 Edition - doc](https://docs.oracle.com/javase/specs/jls/se8/html/index.html)
-- Head First Java
-- **Core Java** Volume I Fundamentals by S, Horstmann 
-- Java: The Complete Reference, Eleventh Edition by Schildt, Herbert
-- Java 8 in Action
-- Modern Java in Action (JDK9) 
+- **Core Java** (11th, 2018)Volume I Fundamentals by S, Horstmann 
+- **Effective Java** (2nd, 2008) by Joshua Bloch 
+- **Thinking in Java** (4th, 2006) by Eckel, Bruce
 - Java 9 Modularity: Patterns and Practices for Developing Maintainable Applications by Mak, Sander
 - Modern Java Recipes: Simple Solutions to Difficult Problems in Java 8 and 9 by Kousen, Ken
-- **Thinking in Java** by Eckel, Bruce
 - Java in a Nutshell by David Flanagan
-- **Effective Java**
 - Java Puzzlers
 - 阿里巴巴Java开发手册 by 杨冠宝 
 - 码出高效：Java开发手册 by 杨冠宝 
 
-**Concurrency Programmig**
+**Concurrency Programming**
 
-- Java Concurrency in Practice by Goetz, Brian
+- **Java Concurrency in Practice** (2006) by Goetz, Brian
 - Seven Concurrency Models in Seven Weeks: When Threads Unravel by  Paul Butcher 
 - 实战Java高并发程序设计
 
-**Reactive Programming**
+**Networking Programming**
 
-- Reactive Programming with RxJava: Creating Asynchronous, Event-Based Applications by Ben Christensen and Tomasz Nurkiewicz
-- Reactive Programming With Java 9: Build Asynchronous Applications with Rx.Java 2.0, Flow API and Spring WebFlux by Tejaswini Mandar Jog
-- Learning Reactive Programming with Java 8 by Nickolay Tsvetinov
-- Reactive Web Applications: Covers Play, Akka, and Reactive Streams by Manuel Bernhardt
+- TCP/IP Sockets in Java: Practical Guide for Programmers by Kenneth L. Calvert,  Michael J. Donahoo
+- Java Network Programming by Harold, Elliotte Rusty
+- Java NIO by Hitchens, Ron
 
 **JVM Optimization**
 
 - [The Java® Virtual Machine Specification Java SE 7 Edition - doc](https://docs.oracle.com/javase/specs/jvms/se7/html/index.html)
 - **Java Performance: The Definitive Guide** by Oaks, Scott [4.38]
-- Java Performance by Hunt, Charlie [4.12]
+- **Java Performance** by Hunt, Charlie [4.12]
 - Java Performance Companion by Hunt, Charlie [3.77]
 - Java Performance Tuning by Shirazi, Jack [3.56]
 - Optimizing Java: Practical Techniques for Improving Jvm Application Performance by Evans, Benjamin J. 
@@ -112,6 +116,13 @@ menu
 - 深入理解Java虚拟机 (第2版)
 - Java程序性能优化-让你的Java程序更快、更稳定 by 葛一鸣 
 - 垃圾回收的算法与实现 by 中村成洋
+
+**Reactive Programming**
+
+- Reactive Programming with RxJava: Creating Asynchronous, Event-Based Applications by Ben Christensen and Tomasz Nurkiewicz
+- Reactive Programming With Java 9: Build Asynchronous Applications with Rx.Java 2.0, Flow API and Spring WebFlux by Tejaswini Mandar Jog
+- Learning Reactive Programming with Java 8 by Nickolay Tsvetinov
+- Reactive Web Applications: Covers Play, Akka, and Reactive Streams by Manuel Bernhardt
 
 **Utility Library**
 
@@ -122,62 +133,87 @@ menu
 - Head First Object-Oriented Analysis and Design by McLaughlin, Brett
 - Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma, Richard Helm
 
-
 **Good Code**
 
 - **Clean Code**
 - **Refactoring: Improving the Design of Existing Code**
 
-### DevOps
-
-**Linux**
-
-- 鸟哥的Linux私房菜：基础学习篇
-
-- The Linux Command Line
-
--  Linux Shell Scripting Cookbook (Linux Shell 脚本攻略)
-
-**Tools**
-
-- Pro Git
-- Docker in Action
-
-**DevOps**
-
-- Maven: The Definitive Guide
-- Jenkins: The Definitive Guide
 
 
-**Test**
+### Database Programming
 
-### Networking Programming
+**JDBC**
 
-**Protocol**
+**Connection Pool**
 
-> TCP, HTTP, HTTPS, Thrift, SOAP, REST
+**ORM Framework**
 
-**Network Programming**
+- Java Persistence with Hibernate: Revised Edition of Hibernate in Action by Bauer, Christian
 
-System Network
-- Unix Netwokr Programming
+**NoSQL**
 
-Socket
+**Cache**
 
-- Java Network Programming by Harold, Elliotte Rusty
-- TCP/IP Sockets in Java: Practical Guide for Programmers by Calvert, Kenneth L.
+- Redis in Action by  Josiah L. Carlson 
+- Redis设计与实现 by 黄健宏 
 
-NIO
+**MySQL**
 
-- java NIO by Hitchens, Ron
 
-Servlet
 
-RPC
+### Java Web
 
-WebSocket
+#### JavaEE
 
-**Server**
+- [Java EE Documentation - doc](https://www.oracle.com/technetwork/java/javaee/overview/index.html)
+- [Java Servlet Specification Version 4.0 - doc](https://javaee.github.io/servlet-spec/downloads/servlet-4.0/servlet-4_0_FINAL.pdf)
+- [Java Servet API](https://docs.oracle.com/javaee/7/api/index.html?javax/servlet/package-summary.html)
+- [Java Servlet Documentation - doc](https://docs.oracle.com/javaee/7/tutorial/servlets.htm)
+- Head First Servlets and JSP
+- HTTP The Definitive
+- 深入分析Java Web技术内幕
+- Expert One-on-One J2EE Design and Development by Johnson, Rod
+- Restful Java with Jax-RS by Burke, Bill
+- Professional Java EE Design Patterns by Yener, Murat
+- High-Performance Java Persistence by Mihalcea, Vlad
+- Java EE 7 Essentials by Gupta, Arun
+- Core J2EE Patterns: Best Practices and Design Strategies (J2EE核心模式)
+
+#### Spring
+
+- [Spring Framework Reference Documentation - doc](https://docs.spring.io/spring/docs/3.2.x/spring-framework-reference/html/)
+- [Spring Framework Current Documentation - doc](https://docs.spring.io/spring/docs/current/spring-framework-reference/)
+- **Spring in Action**
+- Cloud Native Java
+- Spring Boot in Action
+- Learning Spring Boot 2.0
+- Spring 5 Recipes: A Problem-Solution Approach
+- Spring Microservices in Action by John Carnell
+- Expert One-On-One J2EE without EJB  by by Rod Johnson  
+  It explains the why behind spring as well as the how to use it.
+- Spring 技术内幕
+- **Spring 揭秘**
+- Spring 3.x企业应用开发实战 by  陈雄华 
+
+#### Web Security
+
+- The Tangled Web: a Guide to Securing Modern Web Applications by Michal Zalewski
+- 白帽子讲Web安全
+- 白帽子讲浏览器安全
+
+#### Application Library
+
+Schedule
+
+Work Flow
+
+Search Engine
+
+#### Protocol
+
+TCP, HTTP, HTTPS, Thrift, SOAP, REST
+
+#### Server
 
 Web server
 - 深入理解Nginx by  陶辉 
@@ -185,18 +221,24 @@ Web server
 Web Application Server
 - How Tomcat Works: A Guide to Developing Your Own Java Servlet Container by Budi Kurniawan / Paul Deck 
 
-**RPC Framework**
+#### System Network Programming
 
->  Apache Thrift, Web Service
+- Unix Network Programming
 
-**Microservice**
+#### Web Socket
 
-**NIO Framework**
+#### RPC Framework
+
+Apache Thrift, Web Service
+
+#### NIO Framework
 
 - Netty in Action by Maurer, Norman
 - Netty权威指南 by 李林锋 
 
-**Web Frontend Framework**
+
+
+### Web Frontend
 
 >  HTML, CSS, Bootstrap, JavaScript, jQuery, Node.js, Vue.js, Augular.js, React.js
 
@@ -225,73 +267,29 @@ JS Framework
 - Node.js in Action by Marc Harter, Mike Cantelon, Nathan Rajlich, and T. J. Holowaychuk
 - RxJS in Action 
 
-**Web Framework**
-
-JavaEE
-
-- [Java EE Documentation - doc](https://www.oracle.com/technetwork/java/javaee/overview/index.html)
-- [Java Servlet Specification Version 4.0 - doc](https://javaee.github.io/servlet-spec/downloads/servlet-4.0/servlet-4_0_FINAL.pdf)
-- [Java Servet API](https://docs.oracle.com/javaee/7/api/index.html?javax/servlet/package-summary.html)
-- [Java Servlet Documentation - doc](https://docs.oracle.com/javaee/7/tutorial/servlets.htm)
-- Head First Servlets and JSP
-- HTTP The Definitive
-- 深入分析Java Web技术内幕
-- Expert One-on-One J2EE Design and Development by Johnson, Rod
-- Restful Java with Jax-RS by Burke, Bill
-- Professional Java EE Design Patterns by Yener, Murat
-- High-Performance Java Persistence by Mihalcea, Vlad
-- Java EE 7 Essentials by Gupta, Arun
-- Core J2EE Patterns: Best Practices and Design Strategies (J2EE核心模式)
-
-Spring
-
-- [Spring Framework Reference Documentation - doc](https://docs.spring.io/spring/docs/3.2.x/spring-framework-reference/html/)
-- [Spring Framework Current Documentation - doc](https://docs.spring.io/spring/docs/current/spring-framework-reference/)
-- **Spring in Action**
-- Cloud Native Java
-- Spring Boot in Action
-- Learning Spring Boot 2.0
-- Spring 5 Recipes: A Problem-Solution Approach
-- Spring Microservices in Action by John Carnell
-- Expert One-On-One J2EE without EJB  by by Rod Johnson  
-It explains the why behind spring as well as the how to use it.
-- Spring 技术内幕
-- **Spring 揭秘**
-- Spring 3.x企业应用开发实战 by  陈雄华 
-
-**Web Security**
-
-- The Tangled Web: a Guide to Securing Modern Web Applications by Michal Zalewski
-- 白帽子讲Web安全
-- 白帽子讲浏览器安全
 
 
-### Database Programming
+### DevOps
 
-**JDBC**
+**Linux**
 
-**Connection Pool**
+- 鸟哥的Linux私房菜：基础学习篇
+- The Linux Command Line
+- Linux Shell Scripting Cookbook (Linux Shell 脚本攻略)
 
-**ORM Framework**
+**Tools**
 
-- Java Persistence with Hibernate: Revised Edition of Hibernate in Action by Bauer, Christian
+- Pro Git
+- Docker in Action
 
-**NoSQL**
+**DevOps**
 
-**Cache**
+- Maven: The Definitive Guide
+- Jenkins: The Definitive Guide
 
-- Redis in Action by  Josiah L. Carlson 
-- Redis设计与实现 by 黄健宏 
+**Test**
 
-**MySQL**
 
-### Application Library
-
-**Schedule**
-
-**Work Flow**
-
-**Search Engine**
 
 ### Distributed System
 
@@ -301,7 +299,7 @@ It explains the why behind spring as well as the how to use it.
 
 **Distribute Cache**
 
-
+**Microservice**
 
 
 
