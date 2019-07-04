@@ -129,8 +129,10 @@ Must Read
 Some More
 
 - Operating Systems Design and Implementation (3rd, 2006) by Andrew S. Tanenbaum,  Albert S. Woodhull 
-- Orange'S:一个操作系统的实现 by 于渊 
-- Systems Performance by Brendan Gregg 
+- Systems Performance (2013) by Brendan Gregg 
+- Orange'S:一个操作系统的实现 (2009) by 于渊
+- 操作系统真象还原 (2016) by 郑钢
+- 一个64位操作系统的设计与实现 (2018) by 田宇
 
 For Programming
 
