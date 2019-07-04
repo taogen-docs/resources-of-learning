@@ -28,7 +28,7 @@
 
 menu
 
-- Java SE (Concurrency, JVM, Utility Library)
+- Java SE
 - Web Development
   - Protocols
     - HTTP, HTTPS, HTTP/2
@@ -88,10 +88,10 @@ menu
 - Tools
   - version control, project build, IDE, Editor.
 - Distributed System
-  - Microservice
   - Distribute Collaboration
   - Distribute Message
   - Distribute Cache
+  - Microservice
 
 ### Java SE
 
