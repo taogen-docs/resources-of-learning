@@ -28,83 +28,106 @@
 
 menu
 
-- Java 
-	- Basic
-	- Concurrency Programming & Operating System
-	- JVM
-	- Utility Library
-	- Good Code
-	- Design Patterns
-- DevOps
-	- Linux: command, Shell Script.
-	- Tools: version control, project build, IDE, Editor.
-	- DevOps: Jenkins, Docker.
-	- Test: unit test, mock, performance test.
-- Networking Programming
-	- Protocol: TCP, HTTP, HTTPS. Thrift, SOAP, REST
-	- Network Programming: Unix Networking Programming, Java Socket, NIO, Java Servlet. RPC, Web Socket. Java EE
-	- Server: Web Server, Web Application Server
-	- RPC Framework: Apache Thrift, Web Service
-	- Microservice
-	- NIO Framework: Netty, Apache Mina
-	- Web Frontend Framework: Bootstrap, jQuery, Vue.js, Node.js
-	- Web Framework: Spring framework
-	- Web Security: Shiro, Spring Security
+- Java SE (Concurrency, JVM, Utility Library)
+- Web Development
+  - Protocols
+    - HTTP, HTTPS, HTTP/2
+  - Web Servers
+    - Apache Tomcat
+    - Nginx
+  - Web Security
+  - Web Frontend
+    - HTML
+    - CSS
+    - JavaScript
+    - Bootstrap
+    - Vue.js
+    - Node.js
+  - Java Web
+    - Web Basic
+      - Java Servlet
+      - JDBC/Connection Pools
+    - Java EE
+    - Web Frameworks
+      - Spring Framework
+      - Swagger
+      - Apache Shiro
+    - Persistence Frameworks
+      - MyBatis
+      - Hibernate
+    - Job Scheduling
+      - Quartz
+    - Workflow Engine
+      - Activiti
+    - Search Engine
+      - Apache Lucene
+      - solr
+    - Web Crawler
+      - Apache Nutch
+- Network Programming
+  - TCP/IP
+  - Socket
+  - Web Socket
+  - NIO & Netty
+  - RPC
+    - Web Service
+    - Apache Thrift
 - Database Programming
-	- JDBC
-	- Connection Pools
-	- ORM Framework
-	- No SQL
-	- Cache
-	- MySQL
-	- Oracle
-- Application Library 
-  - Schedule
-  - Work Flow
-  - Search Engine
+  - Cache
+  - Relational Databases
+  - NoSQL Databases
+- DevOps
+  - Linux (Basic, Shell Script.)
+  - Docker
+  - Kubernates
+  - Jenkins
+- Test 
+  - Unit test
+  - Mock
+  - Performance test
+- Tools
+  - version control, project build, IDE, Editor.
 - Distributed System
-	- Distribute Collaboration
-	- Distribute Message
-	- Distribute Cache
+  - Microservice
+  - Distribute Collaboration
+  - Distribute Message
+  - Distribute Cache
 
-### Java
-
-**Java SE**
+### Java SE
 
 beginner
 
+- **Core Java** (11th, 2018) Volume I Fundamentals by S, Horstmann 
 - Head First Java (2nd, 2009) by Kathy Sierra 
-- Java 8 in Action
-- Modern Java in Action (JDK9) 
-- Java: The Complete Reference, Eleventh Edition by Schildt, Herbert
+- Java 8 in Action (2014) by Raoul-Gabriel Urma, Mario Fusco
+- Java: The Complete Reference (11th) by Schildt, Herbert
 
 Master
 
 - Java SE Documentation<br><https://www.oracle.com/technetwork/java/javase/documentation/index.html>   <https://docs.oracle.com/javase/8/>
 - [The Java® Language Specification Java SE 8 Edition - doc](https://docs.oracle.com/javase/specs/jls/se8/html/index.html)
-- **Core Java** (11th, 2018)Volume I Fundamentals by S, Horstmann 
 - **Effective Java** (2nd, 2008) by Joshua Bloch 
 - **Thinking in Java** (4th, 2006) by Eckel, Bruce
+- Modern Java in Action (JDK9) by Raoul-Gabriel Urma, Mario Fusco
 - Java 9 Modularity: Patterns and Practices for Developing Maintainable Applications by Mak, Sander
 - Modern Java Recipes: Simple Solutions to Difficult Problems in Java 8 and 9 by Kousen, Ken
 - Java in a Nutshell by David Flanagan
-- Java Puzzlers
+- Java Puzzlers by Joshua Bloch, Neal Gafter
 - 阿里巴巴Java开发手册 by 杨冠宝 
 - 码出高效：Java开发手册 by 杨冠宝 
 
-**Concurrency Programming**
+Concurrency Programming
 
 - **Java Concurrency in Practice** (2006) by Goetz, Brian
-- Seven Concurrency Models in Seven Weeks: When Threads Unravel by  Paul Butcher 
-- 实战Java高并发程序设计
+- Concurrent Programming in Java: Design Principles and Patterns (2006) by Doug Lea 
+- Java多线程编程实战指南-核心篇 (2017) by 黄文海 (9.8)
+- 图解Java多线程设计模式 (2017) by  [日] 结城浩 (8.5)
+- Java多线程编程实战指南-设计模式篇 (2015) by 黄文海 (8.5)
+- 实战Java高并发程序设计 (2015) by 葛一鸣, 郭超 (8.3)
+- Java并发编程的艺术 (2015)  by 方腾飞,  魏鹏, 程晓明 (7.3)
+- Seven Concurrency Models in Seven Weeks: When Threads Unravel (2014) by  Paul Butcher 
 
-**Networking Programming**
-
-- TCP/IP Sockets in Java: Practical Guide for Programmers by Kenneth L. Calvert,  Michael J. Donahoo
-- Java Network Programming by Harold, Elliotte Rusty
-- Java NIO by Hitchens, Ron
-
-**JVM Optimization**
+JVM Optimization
 
 - [The Java® Virtual Machine Specification Java SE 7 Edition - doc](https://docs.oracle.com/javase/specs/jvms/se7/html/index.html)
 - **Java Performance: The Definitive Guide** by Oaks, Scott [4.38]
@@ -113,134 +136,50 @@ Master
 - Java Performance Tuning by Shirazi, Jack [3.56]
 - Optimizing Java: Practical Techniques for Improving Jvm Application Performance by Evans, Benjamin J. 
 - The Garbage Collection Handbook: The Art of Automatic Memory Management by Jones, Richard
-- 深入理解Java虚拟机 (第2版)
-- Java程序性能优化-让你的Java程序更快、更稳定 by 葛一鸣 
-- 垃圾回收的算法与实现 by 中村成洋
+- 深入理解Java虚拟机（第2版） : JVM高级特性与最佳实践 (2013) by 周志明 (8.9)
+- Java程序性能优化-让你的Java程序更快、更稳定 (2012) by 葛一鸣 (8.1)
+- 实战Java虚拟机 (2015) by 葛一鸣 (8.1)
+- 垃圾回收的算法与实现 (2016) by 中村成洋 (8.2)
 
-**Reactive Programming**
+
+Reactive Programming
 
 - Reactive Programming with RxJava: Creating Asynchronous, Event-Based Applications by Ben Christensen and Tomasz Nurkiewicz
 - Reactive Programming With Java 9: Build Asynchronous Applications with Rx.Java 2.0, Flow API and Spring WebFlux by Tejaswini Mandar Jog
 - Learning Reactive Programming with Java 8 by Nickolay Tsvetinov
 - Reactive Web Applications: Covers Play, Akka, and Reactive Streams by Manuel Bernhardt
 
-**Utility Library**
+Utility Library
 
 > JSON, XML, Email, Logging, Datetime, IO.
 
-**Design Patterns**
+Design Patterns
 
 - Head First Object-Oriented Analysis and Design by McLaughlin, Brett
 - Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma, Richard Helm
 
-**Good Code**
+### Web Development
 
-- **Clean Code**
-- **Refactoring: Improving the Design of Existing Code**
+#### Protocols
 
-
-
-### Database Programming
-
-**JDBC**
-
-**Connection Pool**
-
-**ORM Framework**
-
-- Java Persistence with Hibernate: Revised Edition of Hibernate in Action by Bauer, Christian
-
-**NoSQL**
-
-**Cache**
-
-- Redis in Action by  Josiah L. Carlson 
-- Redis设计与实现 by 黄健宏 
-
-**MySQL**
+- HTTP: The Definitive Guide by David Gourley, Brian Totty
+- [RFC 2616 - Hypertext Transfer Protocol -- HTTP/1.1](https://www.w3.org/Protocols/rfc2616/rfc2616.html)
 
 
+#### Web Servers
 
-### Java Web
+- 深入理解Nginx by  陶辉 
+- How Tomcat Works: A Guide to Developing Your Own Java Servlet Container by Budi Kurniawan, Paul Deck 
 
-#### JavaEE
-
-- [Java EE Documentation - doc](https://www.oracle.com/technetwork/java/javaee/overview/index.html)
-- [Java Servlet Specification Version 4.0 - doc](https://javaee.github.io/servlet-spec/downloads/servlet-4.0/servlet-4_0_FINAL.pdf)
-- [Java Servet API](https://docs.oracle.com/javaee/7/api/index.html?javax/servlet/package-summary.html)
-- [Java Servlet Documentation - doc](https://docs.oracle.com/javaee/7/tutorial/servlets.htm)
-- Head First Servlets and JSP
-- HTTP The Definitive
-- 深入分析Java Web技术内幕
-- Expert One-on-One J2EE Design and Development by Johnson, Rod
-- Restful Java with Jax-RS by Burke, Bill
-- Professional Java EE Design Patterns by Yener, Murat
-- High-Performance Java Persistence by Mihalcea, Vlad
-- Java EE 7 Essentials by Gupta, Arun
-- Core J2EE Patterns: Best Practices and Design Strategies (J2EE核心模式)
-
-#### Spring
-
-- [Spring Framework Reference Documentation - doc](https://docs.spring.io/spring/docs/3.2.x/spring-framework-reference/html/)
-- [Spring Framework Current Documentation - doc](https://docs.spring.io/spring/docs/current/spring-framework-reference/)
-- **Spring in Action**
-- Cloud Native Java
-- Spring Boot in Action
-- Learning Spring Boot 2.0
-- Spring 5 Recipes: A Problem-Solution Approach
-- Spring Microservices in Action by John Carnell
-- Expert One-On-One J2EE without EJB  by by Rod Johnson  
-  It explains the why behind spring as well as the how to use it.
-- Spring 技术内幕
-- **Spring 揭秘**
-- Spring 3.x企业应用开发实战 by  陈雄华 
 
 #### Web Security
 
 - The Tangled Web: a Guide to Securing Modern Web Applications by Michal Zalewski
-- 白帽子讲Web安全
-- 白帽子讲浏览器安全
-
-#### Application Library
-
-Schedule
-
-Work Flow
-
-Search Engine
-
-#### Protocol
-
-TCP, HTTP, HTTPS, Thrift, SOAP, REST
-
-#### Server
-
-Web server
-- 深入理解Nginx by  陶辉 
-
-Web Application Server
-- How Tomcat Works: A Guide to Developing Your Own Java Servlet Container by Budi Kurniawan / Paul Deck 
-
-#### System Network Programming
-
-- Unix Network Programming
-
-#### Web Socket
-
-#### RPC Framework
-
-Apache Thrift, Web Service
-
-#### NIO Framework
-
-- Netty in Action by Maurer, Norman
-- Netty权威指南 by 李林锋 
+- 白帽子讲Web安全 (2012) by 吴翰清
+- 白帽子讲浏览器安全 (2016) by 钱文祥
 
 
-
-### Web Frontend
-
->  HTML, CSS, Bootstrap, JavaScript, jQuery, Node.js, Vue.js, Augular.js, React.js
+#### Web Frontend
 
 JavaScript
 
@@ -265,41 +204,131 @@ JS Framework
 - jQuery in Action by Bear Bibeault
 - JavaScript and JQuery: Interactive Front-End Web Development by Jon Duckett
 - Node.js in Action by Marc Harter, Mike Cantelon, Nathan Rajlich, and T. J. Holowaychuk
-- RxJS in Action 
+- RxJS in Action by Daniels, Paul P., Atencio, Luis
+
+#### Java Web
+
+Servlet
+
+- [Java Servlet Specification Version 4.0 - doc](https://javaee.github.io/servlet-spec/downloads/servlet-4.0/servlet-4_0_FINAL.pdf)
+- [Java Servet API](https://docs.oracle.com/javaee/7/api/index.html?javax/servlet/package-summary.html)
+- [Java Servlet Documentation - doc](https://docs.oracle.com/javaee/7/tutorial/servlets.htm)
+- Head First Servlets and JSP (2nd, 2008) by Bryan Basham
+
+Java EE
+
+- [Java EE Documentation - doc](https://www.oracle.com/technetwork/java/javaee/overview/index.html)
+- Expert One-on-One J2EE Design and Development by Johnson, Rod
+- Restful Java with Jax-RS by Burke, Bill
+- Professional Java EE Design Patterns by Yener, Murat
+- High-Performance Java Persistence by Mihalcea, Vlad
+- Java EE 7 Essentials by Gupta, Arun
+- Core J2EE Patterns: Best Practices and Design Strategies (J2EE核心模式)
+- 深入分析Java Web技术内幕 by 许令波 
+
+
+Web Frameworks
+
+- [Spring Framework Reference Documentation - doc](https://docs.spring.io/spring/docs/3.2.x/spring-framework-reference/html/)
+- [Spring Framework Current Documentation - doc](https://docs.spring.io/spring/docs/current/spring-framework-reference/)
+- **Spring in Action** by Craig Walls
+- Cloud Native Java by Josh Long, Kenny Bastani
+- Spring Boot in Action by Craig Walls
+- Learning Spring Boot 2.0
+- Spring 5 Recipes: A Problem-Solution Approach
+- Spring Microservices in Action by John Carnell
+- Expert One-On-One J2EE without EJB  by by Rod Johnson  
+  It explains the why behind spring as well as the how to use it.
+- **Spring 揭秘** (2009) by 王福强
+- Spring 3.x企业应用开发实战 by  陈雄华 
+
+Persistence Framework 
+
+- Java Persistence with Hibernate: Revised Edition of Hibernate in Action by Bauer, Christian
+
+Job Scheduling
+
+Workflow Engine
+
+Search Engine
+
+Web Crawler
+
+Web Security
+
+
+
+### Network Programming
+
+#### TCP/IP
+
+- Unix Network Programming by W.Richard Stevens
+
+#### Socket
+
+- TCP/IP Sockets in Java: Practical Guide for Programmers by Kenneth L. Calvert,  Michael J. Donahoo
+- Java Network Programming by Harold, Elliotte Rusty
+
+#### Web Socket
+
+#### NIO 
+
+- Java NIO by Hitchens, Ron
+- Netty in Action by Maurer, Norman
+- Netty权威指南 by 李林锋 
+
+#### RPC
+
+
+
+### Database Programming
+
+#### Cache
+
+
+
+#### NoSQL
+
+- Redis in Action by Josiah L. Carlson 
+- Redis设计与实现 by 黄健宏 
+
+#### Relational Databases
 
 
 
 ### DevOps
 
-**Linux**
+#### Linux
 
 - 鸟哥的Linux私房菜：基础学习篇
-- The Linux Command Line
-- Linux Shell Scripting Cookbook (Linux Shell 脚本攻略)
+- The Linux Command Line by William E. Shotts Jr
+- Linux Shell Scripting Cookbook by Sarath Lakshman (Linux Shell 脚本攻略)
 
-**Tools**
+#### Jenkins
 
-- Pro Git
-- Docker in Action
-
-**DevOps**
-
-- Maven: The Definitive Guide
 - Jenkins: The Definitive Guide
 
-**Test**
+#### Docker
 
+- Docker in Action
+
+### Test
+
+### Tools
+
+- Pro Git
+- Maven: The Definitive Guide
 
 
 ### Distributed System
 
-**Distribute Collaboration**
+#### Distribute Collaboration
 
-**Distribute Message**
+#### Distribute Message
 
-**Distribute Cache**
+#### Distribute Cache
 
-**Microservice**
+#### Microservice
 
 
 
