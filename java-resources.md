@@ -39,6 +39,7 @@ menu
   - Web Frontend
     - HTML
     - CSS
+    - XML
     - JavaScript
     - Bootstrap
     - Vue.js
@@ -178,8 +179,11 @@ Design Patterns
 - 白帽子讲Web安全 (2012) by 吴翰清
 - 白帽子讲浏览器安全 (2016) by 钱文祥
 
-
 #### Web Frontend
+
+XML
+
+- [Namespaces in XML](https://www.w3.org/TR/xml-names/)
 
 JavaScript
 
@@ -229,8 +233,9 @@ Java EE
 
 Web Frameworks
 
-- [Spring Framework Reference Documentation - doc](https://docs.spring.io/spring/docs/3.2.x/spring-framework-reference/html/)
+- [Spring Framework Reference Documentation 3.2.18 - doc](https://docs.spring.io/spring/docs/3.2.x/spring-framework-reference/html/)
 - [Spring Framework Current Documentation - doc](https://docs.spring.io/spring/docs/current/spring-framework-reference/)
+- [Spring Boot Current Documentation - doc](https://docs.spring.io/spring-boot/docs/current/reference/html/)
 - **Spring in Action** by Craig Walls
 - Cloud Native Java by Josh Long, Kenny Bastani
 - Spring Boot in Action by Craig Walls
