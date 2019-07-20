@@ -19,9 +19,9 @@ ACM竞赛必读书之一，几乎包含了所有计算机科学里涉及到的�
 Must Read
 
 - **The C Programming Language** (2nd, 1988) by Brian W. Kernighan, Denis M. Ritchie (**TCPL**)
-- Pointers on C by Kenneth A·Reek 
-- Expert C Programming: Deep C Secrets by Peter van der Linden 
-- C Traps and Pitfalls by Andrew Koenig
+- Pointers on C (1997) by Kenneth A·Reek 
+- Expert C Programming: Deep C Secrets (1994) by Peter van der Linden 
+- C Traps and Pitfalls (1989) by Andrew Koenig
 - C++ Primer (5th, 2012) by Josée Lajoie and Stanley B. Lippman
 - **The C++ Programming Language** (4th, 2013) by Bjarne Stroustrup
 - The C++ Standard Library  (2nd, 2012) by Nikolai Josuttis
@@ -33,21 +33,21 @@ Some More
 - More Effective C++ (1996) by Scott Meyers
 - Effective STL (2001) by Scott Meyers
 - Large-Scale C++ Software Design (1996)  by John Lakos
-- Inside the C++ Object Model by Stanley B·Lippman 
+- Inside the C++ Object Model (1996) by Stanley B·Lippman 
 
 ### Algorithms
 
 Prime
 
 - **Algorithms** (4th, 2011) by Robert Sedgewick
-- Data Structures and Algorithm Analysis in C by Mark Allen Weiss 
-- Data Structures and Algorithm Analysis in Java by Mark A. Weiss 
-- Data Structures and Algorithm Analysis in C++ by Clifford A. Shaffer 
+- Data Structures and Algorithm Analysis in C (2nd, 1996) by Mark Allen Weiss 
+- Data Structures and Algorithm Analysis in Java (3rd, 2011) by Mark A. Weiss 
+- Data Structures and Algorithm Analysis in C++ (3rd, 2011) by Clifford A. Shaffer 
 
 Advanced
 
-- Algorithm Design by Jon Kleinberg, Éva Tardos 
-- The Algorithm Design Manual by Steven S Skiena 
+- Algorithm Design (2005) by Jon Kleinberg, Éva Tardos 
+- The Algorithm Design Manual (2010) by Steven S Skiena 
 - **Introduction to Algorithms** (3rd, 2009) by Charles E. Leiserson, Clifford Stein, Ronald Rivest, and Thomas H. Cormen (**CLRS**: authors abbreviation)
 - **Algorithms** (2006) by Sanjoy Dasgupta
 
@@ -58,16 +58,16 @@ Some More
 
 For Interview
 
-- 剑指Offer by 何海涛 
-- 编程之美 by 《编程之美》小组
-- 程序员代码面试指南：IT名企算法与数据结构题目最优解 by 左程云 
-- Cracking the coding interview:150 programming questions and solutions by Gayle Laakmann McDowell  程序员面试金典
+- 剑指Offer (2012) by 何海涛 
+- 编程之美 (2008) by 《编程之美》小组
+- 程序员代码面试指南：IT名企算法与数据结构题目最优解 (2015) by 左程云 
+- Cracking the Coding Interview: 189 Programming Questions and Solutions (2015) by Gayle Laakmann McDowell  程序员面试金典
 
 For ACM
 
-- 挑战程序设计竞赛 by 秋叶拓哉
-- 算法竞赛入门经典（第2版）by  刘汝佳 
-- 信息学奥赛一本通 by 董永建
+- 挑战程序设计竞赛 (2013) by 秋叶拓哉
+- 算法竞赛入门经典（2nd, 2014）by  刘汝佳 
+- 信息学奥赛一本通 (2013) by 董永建
 
 Courses
 
@@ -95,34 +95,34 @@ Some More
 
 Digital Circuits
 
-- Digital Fundamentals by Thomas L. Floyd 
-- Digital Integrated Circuits: A Design Perspective by Jan M. Rabaey
+- Digital Fundamentals (9th, 2005) by Thomas L. Floyd 
+- Digital Integrated Circuits: A Design Perspective (2016) by Jan M. Rabaey
 
 Assembly Language 
 
-- 汇编语言 by 王爽 
-- Professional Assembly Language by Richard Blum 
-- Assembly Language for Intel-Based Computers by Kip Irvine
+- 汇编语言 (2003) by 王爽 
+- Professional Assembly Language (2005) by Richard Blum 
+- Assembly Language for Intel-Based Computers (1998) by Kip Irvine
 
 Compiler
 
-- Code: The Hidden Language of Computer Hardware and Software by Charles Petzold by Charles Petzold
+- Code: The Hidden Language of Computer Hardware and Software (1999) by Charles Petzold 
 - Structure and Interpretation of Computer Programs (2nd, 1996) by Harold Abelson (**SICP**)
-- Essentials of Programming Languages by Daniel P. Friedman, Mitchell Wand 
+- Essentials of Programming Languages (2001) by Daniel P. Friedman, Mitchell Wand 
 - Compilers: Principles, Techniques, and Tools (1986) by  Alfred V. Aho and Monica S. Lam (**龙书**)
 - Modern Compiler Implementation in C (2004) by Andrew W. Appel (**虎书**)
 - Advanced Compiler Design and Implementation (1997) by Steven Muchnick (**鲸书**)
-- Engineering a Compiler by Keith Cooper and Linda Torczon 
-- Parsing Techniques by Dick Grune, Ceriel J.H. Jacobs 
-- 程序员的自我修养 by 俞甲子, 石凡, 潘爱民 
-- The Elements of Computing Systems: Building a Modern Computer from First Principles by Noam Nisan, Shimon Schocken 
+- Engineering a Compiler (2003) by Keith Cooper and Linda Torczon 
+- Parsing Techniques (2008) by Dick Grune, Ceriel J.H. Jacobs 
+- 程序员的自我修养 (2009) by 俞甲子, 石凡, 潘爱民 
+- The Elements of Computing Systems: Building a Modern Computer from First Principles (2005) by Noam Nisan, Shimon Schocken 
 
 
 ### Operating System
 
 Must Read 
 
-- Operating Systems: Three Easy Pieces by Andrea C. Arpaci-Dusseau and Remzi H. Arpaci-Dusseau
+- Operating Systems: Three Easy Pieces (2015) by Andrea C. Arpaci-Dusseau and Remzi H. Arpaci-Dusseau
 - **Operating System Concepts** (10th, 2018) by Abraham Silberschatz,  Peter B. Galvin, Greg Gagne 
 - **Operating Systems** (3rd, 2003) by Harvey Deitel,  Paul Deitel, David R. Choffnes 
 - Modern Operating Systems (4th, 2014) by Andrew S. Tanenbaum
