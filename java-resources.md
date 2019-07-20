@@ -533,7 +533,7 @@ Knowledge Summary
 
 Resource Collection
 
-- [github rank](http://zy2071.com/Fun/githubRank/)  GitHub 排行榜
+- [Awesome Java - A curated list of awesome Java frameworks, libraries and software](https://java.libhunt.com/)
 - [be-a-professional-programmer - github](https://github.com/stanzhai/be-a-professional-programmer)  成为专业程序员路上用到的各种优秀资料、神器及框架
 - [awesome-java - github](https://github.com/akullpp/awesome-java)  awesome frameworks, libraries and software
 - [awesome-java-cn - github](https://github.com/jobbole/awesome-java-cn.git)  Java资源大全中文版，包括开发库、开发工具
@@ -554,6 +554,7 @@ Online Course Website
 
 Others
 
+- [GitHub Rank](http://zy2071.com/Fun/githubRank/)  GitHub 排行榜
 - [COLLEGESTASH - online course](https://collegestash.info/onlinelearning.php)
 - [engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
 - [11 best web development blogs you should be reading right now](https://usersnap.com/blog/12-best-web-development-blogs-reading-right-now/)
