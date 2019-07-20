@@ -2,7 +2,7 @@
 
 ### CS Overview
 
-- Computer Science: An Overview by Dennis Brylow and J. Glenn Brookshear
+- Computer Science: An Overview (13th, 2018) by Glenn Brookshear and Dennis Brylow
 
 ### Mathematics
 
