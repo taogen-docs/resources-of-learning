@@ -115,13 +115,14 @@ Compiler
 - Engineering a Compiler by Keith Cooper and Linda Torczon 
 - Parsing Techniques by Dick Grune, Ceriel J.H. Jacobs 
 - 程序员的自我修养 by 俞甲子, 石凡, 潘爱民 
-- The Elements of Computer Systems: Building a Modern Computer from First Principles by Noam Nisan, Shimon Schocken 
+- The Elements of Computing Systems: Building a Modern Computer from First Principles by Noam Nisan, Shimon Schocken 
 
 
 ### Operating System
 
 Must Read 
 
+- Operating Systems: Three Easy Pieces by Andrea C. Arpaci-Dusseau and Remzi H. Arpaci-Dusseau
 - **Operating System Concepts** (10th, 2018) by Abraham Silberschatz,  Peter B. Galvin, Greg Gagne 
 - **Operating Systems** (3rd, 2003) by Harvey Deitel,  Paul Deitel, David R. Choffnes 
 - Modern Operating Systems (4th, 2014) by Andrew S. Tanenbaum
