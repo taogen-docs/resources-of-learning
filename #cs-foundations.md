@@ -2,7 +2,14 @@
 
 ### CS Overview
 
+Books
+
 - Computer Science: An Overview (13th, 2018) by Glenn Brookshear and Dennis Brylow
+
+Courses
+
+- Crash Course Computer Science. Watching on [YouTube](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) or [Bilibili](https://www.bilibili.com/video/av21376839)
+- [CS50's Computer Science for Business Professionals](https://www.edx.org/course/cs50s-computer-science-business-harvardx-cs50b) - edx, Harvard
 
 ### Mathematics
 
