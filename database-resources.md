@@ -10,6 +10,7 @@ Basic
 
 - Sams teach yourself SQL in 10 minutes,4th edition by Ben Forta (SQL 必知必会)
 - Database System Concepts
+- MySQL 是怎么样运行的：从根上儿理解 MySQL
 
 Advance
 
