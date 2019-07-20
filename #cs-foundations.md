@@ -6,7 +6,7 @@
 
 ### Mathematics
 
-- Discrete mathematics and its applications (7th, 2011) by Kenneth H·Rosen 
+- **Discrete mathematics and its applications** (7th, 2011) by Kenneth H·Rosen 
 - Introduction to Graph Theory (2nd, 2017)  by Douglas B. West
 - Introductory Combinatorics (5th, 2017) by Richard A.Brualdi
 - A Friendly Introduction to Number Theory (4th, 2017) by Joseph H.Silverman 
