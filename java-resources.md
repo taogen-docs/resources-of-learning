@@ -99,13 +99,14 @@ menu
 beginner
 
 - **Core Java** (11th, 2018) Volume I Fundamentals by S, Horstmann 
+- [**The Java™ Tutorials**](https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html)
 - Head First Java (2nd, 2009) by Kathy Sierra 
 - Java 8 in Action (2014) by Raoul-Gabriel Urma, Mario Fusco
 - Java: The Complete Reference (11th) by Schildt, Herbert
 
 Master
 
-- Java SE Documentation<br><https://www.oracle.com/technetwork/java/javase/documentation/index.html>   <https://docs.oracle.com/javase/8/>
+- Java SE 8 Documentation<br><https://www.oracle.com/technetwork/java/javase/documentation/index.html>   <https://docs.oracle.com/javase/8/>
 - [The Java® Language Specification Java SE 8 Edition - doc](https://docs.oracle.com/javase/specs/jls/se8/html/index.html)
 - **Effective Java** (2nd, 2008) by Joshua Bloch 
 - **Thinking in Java** (4th, 2006) by Eckel, Bruce
