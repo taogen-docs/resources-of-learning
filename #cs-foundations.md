@@ -211,12 +211,13 @@ Garbage Collection
 - The Garbage Collection Handbook by Richard Jones, Eliot Moss, Antony Hosking 
 - 垃圾回收的算法与实现 by 中村成洋, 相川光 
 
-### Security & Cryptography
+### Cryptography
 
 Must Read
 
-- **The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography** (2000) by Simon Singh 
-- **Understanding Cryptography: A Textbook for Students and Practitioners** (2010) by Christof Paar,  Jan Pelzl
+- The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography (2000) by Simon Singh 
+- Understanding Cryptography: A Textbook for Students and Practitioners (2010) by Christof Paar,  Jan Pelzl
+- Network Security: Private Communication in a Public World (2nd, 2002) by Charlie Kaufman , Radia Perlman
 - Applied Cryptography: Protocols, Algorithms, and Source Code in C (2015) by Bruce Schneier
 
 Some More
