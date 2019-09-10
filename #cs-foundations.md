@@ -198,6 +198,10 @@ Some More
 - Database Systems: A Practical Approach to Design, Implementation, and Management by THOMAS M. CONNOLLY, CAROLYN E. BEGG
 - Database Modeling & Design: Logical Design by TOBY TEOREY, SAM LIGHTSTONE, TOM NADEAU
 
+Courses
+
+- [CMU 15-445: Intro to Database Systems](https://15445.courses.cs.cmu.edu/fall2018/)
+
 ### Programming
 
 Parallel Programming
@@ -211,7 +215,7 @@ Garbage Collection
 - The Garbage Collection Handbook by Richard Jones, Eliot Moss, Antony Hosking 
 - 垃圾回收的算法与实现 by 中村成洋, 相川光 
 
-### Cryptography
+### Security & Cryptography
 
 Must Read
 
@@ -219,6 +223,7 @@ Must Read
 - Understanding Cryptography: A Textbook for Students and Practitioners (2010) by Christof Paar,  Jan Pelzl
 - Network Security: Private Communication in a Public World (2nd, 2002) by Charlie Kaufman , Radia Perlman
 - Applied Cryptography: Protocols, Algorithms, and Source Code in C (2015) by Bruce Schneier
+- Counter Hack Reloaded: A Step-by-Step Guide to Computer Attacks and Effective Defenses (2nd, 2006) by Edward Skoudis, Tom Liston
 
 Some More
 
