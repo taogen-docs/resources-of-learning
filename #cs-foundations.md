@@ -200,7 +200,8 @@ Some More
 
 Courses
 
-- [CMU 15-445: Intro to Database Systems](https://15445.courses.cs.cmu.edu/fall2018/)
+- [CMU 15-445: Intro to Database Systems](https://15445.courses.cs.cmu.edu/fall2019/)
+- [CMU 15-721: Advanced Database Systems](https://15721.courses.cs.cmu.edu/spring2019/)
 
 ### Programming
 
