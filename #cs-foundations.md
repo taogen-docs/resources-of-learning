@@ -79,8 +79,8 @@ For ACM
 Courses
 
 - [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/) - MIT Open Courseware
-- [Data Structures and Algorithm Design Part I 数据结构与算法设计(上)](https://courses.edx.org/courses/course-v1:TsinghuaX+30240184.1x+3T2017/course/) - edx, Tsinghua
-- [Data Structures and Algorithm Design Part II 数据结构与算法设计(下)](https://courses.edx.org/courses/course-v1:TsinghuaX+30240184.2x+3T2017/course/) - edx, Tsinghua
+- [Data Structures and Algorithm Design Part I 数据结构与算法设计(上)](https://www.edx.org/course/shu-ju-jie-gou-yu-suan-fa-she-ji-shang--data-structures-and-algorithm-design-part-i) - edx, Tsinghua
+- [Data Structures and Algorithm Design Part II 数据结构与算法设计(下)](https://www.edx.org/course/shu-ju-jie-gou-yu-suan-fa-she-ji-xia--data-structures-and-algorithm-design-part-ii) - edx, Tsinghua
 
 Tutorials
 
