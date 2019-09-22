@@ -390,3 +390,7 @@ PHP
 - The Elements of Style by William Strunk Jr
 - The Visual Display of Quantitative Information by Edward R. Tufte
 - Machine Learning by Tom M. Mitchell
+
+### References
+
+[1] [Essential Programming Books - Goodreads](https://www.goodreads.com/list/show/542.Essential_Programming_Books)
