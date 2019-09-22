@@ -18,7 +18,7 @@ Courses
 - Introductory Combinatorics (5th, 2017) by Richard A.Brualdi
 - A Friendly Introduction to Number Theory (4th, 2017) by Joseph H.Silverman 
 - Numerical Recipes (3rd, 2007) by William H. Press
-- **Concrete Mathematics: Foundation for Computer Science** (2nd, 1994) by Ronald L. Graham, Donald E. Knuth and Oren Patashnik  
+- **Concrete Mathematics: A Foundation for Computer Science** (2nd, 1994) by Ronald L. Graham, Donald E. Knuth and Oren Patashnik  
 ACM竞赛必读书之一，几乎包含了所有计算机科学里涉及到的数学问题，里面有众多的经典问题与经典解法，对开拓人的数学思路有极大的帮助。
 
 ### C/C++
@@ -36,11 +36,14 @@ Must Read
 
 Some More
 
+- Expert C Programming: Deep C Secrets by Peter van der Linden
 - Effective Modern C++ (2014) by Scott Meyers
 - More Effective C++ (1996) by Scott Meyers
 - Effective STL (2001) by Scott Meyers
 - Large-Scale C++ Software Design (1996)  by John Lakos
 - Inside the C++ Object Model (1996) by Stanley B·Lippman 
+- Accelerated C++: Practical Programming by Example by Andrew Koenig
+- C++ Concurrency in Action: Practical Multithreading by Anthony Williams
 
 ### Algorithms
 
@@ -99,6 +102,12 @@ Some More
 
 - Computer Organization and Architecture: Designing for Performance (9th, 2012) by William Stallings 
 - Structured Computer Organization (6th, 2012) by Andrew S. Tanenbaum, Todd Austin 
+- The Little Schemer by Daniel P. Friedman
+- How to Design Programs: An Introduction to Programming and Computing by Matthias Felleisen
+
+Computation
+
+- Introduction to the Theory of Computation by Michael Sipser
 
 Digital Circuits
 
@@ -110,6 +119,7 @@ Assembly Language
 - 汇编语言 (2003) by 王爽 
 - Professional Assembly Language (2005) by Richard Blum 
 - Assembly Language for Intel-Based Computers (1998) by Kip Irvine
+- Assembly Language: Step-By-Step by Jeff Duntemann
 
 Compiler
 
@@ -123,6 +133,7 @@ Compiler
 - Parsing Techniques (2008) by Dick Grune, Ceriel J.H. Jacobs 
 - 程序员的自我修养 (2009) by 俞甲子, 石凡, 潘爱民 
 - The Elements of Computing Systems: Building a Modern Computer from First Principles (2005) by Noam Nisan, Shimon Schocken 
+- Concepts, Techniques, and Models of Computer Programming by Peter Van Roy, Seif Haridi
 
 
 ### Operating System
@@ -141,6 +152,8 @@ Some More
 - Orange'S:一个操作系统的实现 (2009) by 于渊
 - 操作系统真象还原 (2016) by 郑钢
 - 一个64位操作系统的设计与实现 (2018) by 田宇
+- The UNIX Programming Environment by Brian W. Kernighan
+
 
 For Programming
 
@@ -152,7 +165,6 @@ For Programming
 - **Windows Internals** (7th, 2017) by Russinovich and Solomon
 - Programming Windows (5th, 1998) by Charles Petzold 
 - Programming Applications for Microsoft Windows (1999) by Jeffrey Richter 
-
 
 ### Computer Network
 
@@ -205,6 +217,10 @@ Courses
 
 ### Programming
 
+Functional Programming
+
+- Introduction to Functional Programming by Richard S. Bird, Philip Wadler
+
 Parallel Programming
 
 - An Introduction to Parallel Programming by Peter Pacheco
@@ -239,28 +255,74 @@ Some More
 - **Design Patterns: Elements of Reusable Object-Oriented Software** (1994) by Erich Gamma, Richard Helm,  Ralph Johnson, John Vlissides 
 - Head First Design Patterns (2004) by Elisabeth Freeman
 - Head First Object-Oriented Analysis and Design (2006) by Brett D. McLaughlin
+- Object-Oriented Analysis and Design with Applications by Grady Booch
+- Domain-Driven Design: Tackling Complexity in the Heart of Software by Eric Evans
+- Patterns of Enterprise Application Architecture by Martin Fowler
 
 ### Code
 
-- The Pragmatic Programmer by Andrew Hunt, David Thomas 
-- The Clean Coder：A Code of Conduct for Professional Programmers by Robert C. Martin
+Programmer
+
+- The Pragmatic Programmer: From Journeyman to Master by Andrew Hunt, David Thomas 
+- The Clean Coder: A Code of Conduct for Professional Programmers by Robert C. Martin
+- Joel on Software by Joel Spolsky
+- Hackers and Painters: Big Ideas from the Computer Age by Paul Graham
+- 97 Things Every Programmer Should Know: Collective Wisdom from the Experts by Kevlin Henney
+- Soft Skills: The Software Developer's Life Manual by John Z. Sonmez
+
+Code
+
 - Clean Code : A Handbook of Agile Software Craftsmanship (2008) by Robert C. Martin, Prentice Hall
+- The Art of Readable Code by Dustin Boswell, Trevor Foucher
 - Clean Architecture by Robert C. Martin
 - Code Complete (2nd, 2004) by Steve McConnell
+- Working Effectively with Legacy Code by Michael C. Feathers
+- Growing Object-Oriented Software, Guided by Tests by Steve Freeman
+- The Practice of Programming by Brian W. Kernighan
+- Object-Oriented Software Construction by Bertrand Meyer
+- Writing Solid Code by Steve Maguire
+- Hacker's Delight by Henry S. Warren Jr.
+- Think Like a Programmer: An Introduction to Creative Problem Solving by V. Anton Spraul
+
+Refactoring
+
 - Refactoring : Improving the Design of Existing Code (2nd, 2018) by Martin Fowler, Kent Beck 
+- Refactoring to Patterns by Joshua Kerievsky
+
+Test
+
 - Test Driven Development: By Example (2002) by  Kent Beck 
 - Effective Unit Testing by Lasse Koskela
+- xUnit Test Patterns: Refactoring Test Code by Gerard Meszaros
+- The RSpec Book by David Chelimsky
+- 	The Art of Unit Testing: With Examples in .NET by Roy Osherove
+
+Others
+
+- Release It!: Design and Deploy Production-Ready Software by Michael T. Nygard
+- Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation by Jez Humble
 
 ### Team & Agile
 
-- Extreme Programming Explained
+- Extreme Programming Explained: Embrace Change by Kent Beck
 - The Mythical Man-Month: Essays on Software Engineering by Jr·Frederick P·Brooks 
+- Agile Software Development, Principles, Patterns, and Practices by Robert C. Martin
 - Scrum and XP from the Trenches by Henrik Kniberg
 - The Art of Agile Development by James Shore, Shane Warden 
 - Learning Agile by Andrew Stellman
+- Ship It! by Jared Richardson
+- The Agile Samurai by Jonathan Rasmusson
+- Lean from the Trenches by Henrik Kniberg
+- Peopleware: Productive Projects and Teams by Tom DeMarco 
+- The Goal: A Process of Ongoing Improvement by Eliyahu M. Goldratt
+- Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency by Tom DeMarco
+- The Software Craftsman: Professionalism, Pragmatism, Pride by Sandro Mancuso 
+- Implementing Lean Software Development: From Concept to Cash by Mary Poppendieck
+
 
 Some More
 
+- Specification by Example by Gojko Adzic
 - Agile Retrospectives：Making Good Teams Great by Esther Derby , Diana Larsen,Ken Schwaber
 - Coaching Agile Teams: A Companion for ScrumMasters,Agile Coaches, and Project Managers in Transition by Lyssa Adkins
 - Agile Project Management with Scrum by Ken Schwaber
@@ -270,3 +332,61 @@ Some More
 - Kanban: Successful Evolutionary Change for Your Technology Business by David J.Anderson
 - User Stories Applied:For Agile Software Development by Mike Cohn
 - User Story Mapping Building Better Products using Agile Software Design by Jeff Patton
+- Manage Your Project Portfolio by Johanna Rothman 
+- Rapid Development: Taming Wild Software Schedules by Steve McConnell
+
+### Programming Languages
+
+C#
+
+- C# in Depth by Jon Skeet
+
+JavaScript
+
+- JavaScript: The Good Parts by by Douglas Crockford
+- Eloquent JavaScript: A Modern Introduction to Programming by Marijn Haverbeke
+
+Java
+
+- Head First Java by Kathy Sierra
+
+Ruby
+
+- Programming Ruby: The Pragmatic Programmers' Guide by Dave Thomas
+- The Rails Way by Obie Fernandez
+- Agile Web Development with Rails: A Pragmatic Guide by Dave Thomas
+- Practical Object Oriented Design in Ruby by Sandi Metz
+
+Haskell
+
+- Real World Haskell: Code You Can Believe In by Bryan O'Sullivan
+- Learn You a Haskell for Great Good!: A Beginner's Guide by Miran Lipovača
+- Haskell: The Craft of Functional Programming by Simon Thompson
+
+Perl
+
+- Learning Perl by Randal L. Schwartz
+- Programming Perl by Tom Christiansen
+
+Python
+
+- Learning Python by Mark Lutz
+- Python Crash Course: A Hands-On, Project-Based Introduction to Programming by Eric Matthes
+
+Lisp
+
+- ANSI Common Lisp by Paul Graham
+
+Kotlin
+
+- Fundamental Kotlin by Miloš Vasić
+
+PHP
+
+- PHP and MySQL Web Development by Luke Welling
+
+### Others
+
+- The Elements of Style by William Strunk Jr
+- The Visual Display of Quantitative Information by Edward R. Tufte
+- Machine Learning by Tom M. Mitchell
