@@ -99,19 +99,22 @@ Tutorials
 
 ### Computer Architecture
 
+Prime
+
+- Code: The Hidden Language of Computer Hardware and Software (1999) by Charles Petzold
+- The Elements of Computing Systems: Building a Modern Computer from First Principles (2005) by Noam Nisan, Shimon Schocken 
+- Introduction to Computing Systems: From Bits and Gates to C and Beyond (2003) by Yale N. Patt and Sanjay J. Patel (**ICS**)
+
 Must Read
 
 - **Computer Organization and Design: the Hardware/Software Interface** (5th, 2013) by David A Patterson John L Hennessy and John L. Hennessy
 - **Computer Architecture: A Quantitative Approach** (6th, 2017) by David A Patterson John L Hennessy and John L. Hennessy
 - **Computer Systems: A Programmer‘s Perspective** (3rd, 2015) by Randal E.Bryant, David O'Hallaron (**CSAPP**)
-- Introduction to Computing Systems: From Bits and Gates to C and Beyond (2003) by Yale N. Patt and Sanjay J. Patel (**ICS**)
 
 Some More
 
 - Computer Organization and Architecture: Designing for Performance (9th, 2012) by William Stallings 
 - Structured Computer Organization (6th, 2012) by Andrew S. Tanenbaum, Todd Austin 
-- The Little Schemer by Daniel P. Friedman
-- How to Design Programs: An Introduction to Programming and Computing by Matthias Felleisen
 
 Computation
 
@@ -129,19 +132,27 @@ Assembly Language
 - Assembly Language for Intel-Based Computers (1998) by Kip Irvine
 - Assembly Language: Step-By-Step by Jeff Duntemann
 
-Compiler
+### Compiler
 
-- Code: The Hidden Language of Computer Hardware and Software (1999) by Charles Petzold 
+Prime
+
+- How to Design Programs: An Introduction to Programming and Computing (2018) by Matthias Felleisen
+- The Little Schemer (4th, 1995) by Daniel P. Friedman
+
+Must Read
+
 - Structure and Interpretation of Computer Programs (2nd, 1996) by Harold Abelson (**SICP**)
 - Essentials of Programming Languages (2001) by Daniel P. Friedman, Mitchell Wand (**EOPL**)
 - Types and Programming Languages (2002) by Benjamin C. Pierce (**TAPL**)
 - Compilers: Principles, Techniques, and Tools (1986) by  Alfred V. Aho and Monica S. Lam (**龙书**)
 - Modern Compiler Implementation in C (2004) by Andrew W. Appel (**虎书**)
 - Advanced Compiler Design and Implementation (1997) by Steven Muchnick (**鲸书**)
+
+Some More
+
 - Engineering a Compiler (2003) by Keith Cooper and Linda Torczon 
 - Parsing Techniques (2008) by Dick Grune, Ceriel J.H. Jacobs 
 - 程序员的自我修养 (2009) by 俞甲子, 石凡, 潘爱民 
-- The Elements of Computing Systems: Building a Modern Computer from First Principles (2005) by Noam Nisan, Shimon Schocken 
 - Concepts, Techniques, and Models of Computer Programming by Peter Van Roy, Seif Haridi
 
 ### Operating System
