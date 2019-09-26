@@ -21,6 +21,13 @@ Courses
 - **Concrete Mathematics: A Foundation for Computer Science** (2nd, 1994) by Ronald L. Graham, Donald E. Knuth and Oren Patashnik  
 ACM竞赛必读书之一，几乎包含了所有计算机科学里涉及到的数学问题，里面有众多的经典问题与经典解法，对开拓人的数学思路有极大的帮助。
 
+### Information Theory
+
+- The Information: A History, a Theory, a Flood (2003) by James Gleick, Rob Shapiro
+- Information Theory: A Tutorial Introduction (2015) by James V. Stone
+- Elements of Information Theory (2nd, 2006) by Thomas M. Cover and Joy A. Thomas
+- Network Information Theory by (2012) by El Gamal, Abbas and Young-Han Kim
+
 ### C/C++
 
 Must Read
@@ -97,6 +104,7 @@ Must Read
 - **Computer Organization and Design: the Hardware/Software Interface** (5th, 2013) by David A Patterson John L Hennessy and John L. Hennessy
 - **Computer Architecture: A Quantitative Approach** (6th, 2017) by David A Patterson John L Hennessy and John L. Hennessy
 - **Computer Systems: A Programmer‘s Perspective** (3rd, 2015) by Randal E.Bryant, David O'Hallaron (**CSAPP**)
+- Introduction to Computing Systems: From Bits and Gates to C and Beyond (2003) by Yale N. Patt and Sanjay J. Patel (**ICS**)
 
 Some More
 
@@ -125,7 +133,8 @@ Compiler
 
 - Code: The Hidden Language of Computer Hardware and Software (1999) by Charles Petzold 
 - Structure and Interpretation of Computer Programs (2nd, 1996) by Harold Abelson (**SICP**)
-- Essentials of Programming Languages (2001) by Daniel P. Friedman, Mitchell Wand 
+- Essentials of Programming Languages (2001) by Daniel P. Friedman, Mitchell Wand (**EOPL**)
+- Types and Programming Languages (2002) by Benjamin C. Pierce (**TAPL**)
 - Compilers: Principles, Techniques, and Tools (1986) by  Alfred V. Aho and Monica S. Lam (**龙书**)
 - Modern Compiler Implementation in C (2004) by Andrew W. Appel (**虎书**)
 - Advanced Compiler Design and Implementation (1997) by Steven Muchnick (**鲸书**)
@@ -134,7 +143,6 @@ Compiler
 - 程序员的自我修养 (2009) by 俞甲子, 石凡, 潘爱民 
 - The Elements of Computing Systems: Building a Modern Computer from First Principles (2005) by Noam Nisan, Shimon Schocken 
 - Concepts, Techniques, and Models of Computer Programming by Peter Van Roy, Seif Haridi
-
 
 ### Operating System
 
@@ -385,11 +393,20 @@ PHP
 
 - PHP and MySQL Web Development by Luke Welling
 
+### Computer Graphics
+
+- Interactive Computer Graphics: A Top-Down Approach with WebGL (7th, 2014) by Edward Angel and Dave Shreiner
+- Mathematics for 3D Game Programming and Computer Graphics (3rd, 2011) by Eric Lengyel
+- Computer Graphics: Principles and Practice (3rd, 2013) by John F. Hughes, van Dam, Andries
+
+### Artificial Intelligence
+
+- Machine Learning by Tom M. Mitchell
+
 ### Others
 
 - The Elements of Style by William Strunk Jr
 - The Visual Display of Quantitative Information by Edward R. Tufte
-- Machine Learning by Tom M. Mitchell
 
 ### References
 
