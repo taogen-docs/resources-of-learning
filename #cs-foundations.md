@@ -9,7 +9,7 @@ Books
 Courses
 
 - Crash Course Computer Science. Watching on [YouTube](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) or [Bilibili](https://www.bilibili.com/video/av21376839)
-- [CS50's Computer Science for Business Professionals](https://www.edx.org/course/cs50s-computer-science-business-harvardx-cs50b) - edx, Harvard
+- CS50's Computer Science for Business Professionals - [edx, Harvard](https://www.edx.org/course/cs50s-computer-science-business-harvardx-cs50b)
 
 ### Mathematics
 
@@ -88,9 +88,9 @@ For ACM
 
 Courses
 
-- [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/) - MIT Open Courseware
-- [Data Structures and Algorithm Design Part I 数据结构与算法设计(上)](https://www.edx.org/course/shu-ju-jie-gou-yu-suan-fa-she-ji-shang--data-structures-and-algorithm-design-part-i) - edx, Tsinghua
-- [Data Structures and Algorithm Design Part II 数据结构与算法设计(下)](https://www.edx.org/course/shu-ju-jie-gou-yu-suan-fa-she-ji-xia--data-structures-and-algorithm-design-part-ii) - edx, Tsinghua
+- Introduction to Algorithms - [MIT Open Courseware](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
+- Data Structures and Algorithm Design Part I 数据结构与算法设计(上) - [edx, Tsinghua](https://www.edx.org/course/shu-ju-jie-gou-yu-suan-fa-she-ji-shang--data-structures-and-algorithm-design-part-i)
+- Data Structures and Algorithm Design Part II 数据结构与算法设计(下) - [edx, Tsinghua](https://www.edx.org/course/shu-ju-jie-gou-yu-suan-fa-she-ji-xia--data-structures-and-algorithm-design-part-ii)
 
 Tutorials
 
