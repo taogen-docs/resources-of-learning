@@ -132,6 +132,11 @@ Assembly Language
 - Assembly Language for Intel-Based Computers (1998) by Kip Irvine
 - Assembly Language: Step-By-Step by Jeff Duntemann
 
+Courses
+
+- Build a Modern Computer from First Principles: From Nand to Tetris - [Coursera](https://www.coursera.org/learn/build-a-computer)
+- Build a Modern Computer from First Principles: Nand to Tetris Part II - [Coursera](https://www.coursera.org/learn/nand2tetris2)
+
 ### Compiler
 
 Prime
