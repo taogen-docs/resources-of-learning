@@ -226,8 +226,7 @@ Must Read
 
 Some More
 
-- MySQL技术内幕 by 姜承尧 
-- Redis设计与实现 by 黄健宏 
+- SQL Antipatterns: Avoiding the Pitfalls of Database Programming (2010) by Bill Karwin
 - Database Management System by Raghu Ramakrishnan, Johannes Gehrke
 - Fundamentals of Relational Database Management Systems by S. Sumathi, S. Esakkirajan
 - Database Systems concepts, languages & architectures by Paolo Atzeni, Stefano Ceri, Stefano Paraboschi, Riccardo Torlone
@@ -280,6 +279,7 @@ Some More
 - Head First Design Patterns (2004) by Elisabeth Freeman
 - Head First Object-Oriented Analysis and Design (2006) by Brett D. McLaughlin
 - Object-Oriented Analysis and Design with Applications by Grady Booch
+- Object-Oriented Software Construction by Bertrand Meyer
 - Domain-Driven Design: Tackling Complexity in the Heart of Software by Eric Evans
 - Patterns of Enterprise Application Architecture by Martin Fowler
 
@@ -288,6 +288,7 @@ Some More
 Programmer
 
 - The Pragmatic Programmer: From Journeyman to Master by Andrew Hunt, David Thomas 
+- Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman (2009) by Dave H. Hoover and Adewale Oshineye
 - The Clean Coder: A Code of Conduct for Professional Programmers by Robert C. Martin
 - Joel on Software by Joel Spolsky
 - Hackers and Painters: Big Ideas from the Computer Age by Paul Graham
@@ -299,11 +300,10 @@ Code
 - Clean Code : A Handbook of Agile Software Craftsmanship (2008) by Robert C. Martin, Prentice Hall
 - The Art of Readable Code by Dustin Boswell, Trevor Foucher
 - Clean Architecture by Robert C. Martin
+- 码出高效：Java开发手册 by 杨冠宝, 高海慧
+- 码农翻身 (2018) by 刘欣
 - Code Complete (2nd, 2004) by Steve McConnell
-- Working Effectively with Legacy Code by Michael C. Feathers
-- Growing Object-Oriented Software, Guided by Tests by Steve Freeman
 - The Practice of Programming by Brian W. Kernighan
-- Object-Oriented Software Construction by Bertrand Meyer
 - Writing Solid Code by Steve Maguire
 - Hacker's Delight by Henry S. Warren Jr.
 - Think Like a Programmer: An Introduction to Creative Problem Solving by V. Anton Spraul
@@ -312,10 +312,12 @@ Refactoring
 
 - Refactoring : Improving the Design of Existing Code (2nd, 2018) by Martin Fowler, Kent Beck 
 - Refactoring to Patterns by Joshua Kerievsky
+- Working Effectively with Legacy Code by Michael C. Feathers
 
-Test
+Test (TDD)
 
 - Test Driven Development: By Example (2002) by  Kent Beck 
+- Growing Object-Oriented Software, Guided by Tests by Steve Freeman
 - Effective Unit Testing by Lasse Koskela
 - xUnit Test Patterns: Refactoring Test Code by Gerard Meszaros
 - The RSpec Book by David Chelimsky

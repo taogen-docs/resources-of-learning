@@ -30,6 +30,7 @@ Principle
 - mysql技术内幕：innodb存储引擎 by  姜承尧 
 - MySQL内核：InnoDB存储引擎 by  姜承尧
 - MariaDB原理与实现 by 张金鹏
+- Redis设计与实现 by 黄健宏 
 
 Optimization
 
