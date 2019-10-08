@@ -11,15 +11,24 @@ Courses
 - Crash Course Computer Science. Watching on [YouTube](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) or [Bilibili](https://www.bilibili.com/video/av21376839)
 - CS50's Computer Science for Business Professionals - [edx, Harvard](https://www.edx.org/course/cs50s-computer-science-business-harvardx-cs50b)
 
-### Mathematics
+### Computer Mathematics
+
+Prime
 
 - **Discrete mathematics and its applications** (7th, 2011) by Kenneth H·Rosen 
+- Elements Of Discrete Mathematics: Solutions Manual by Chung Laung Liu
 - Introduction to Graph Theory (2nd, 2017)  by Douglas B. West
 - Introductory Combinatorics (5th, 2017) by Richard A.Brualdi
 - A Friendly Introduction to Number Theory (4th, 2017) by Joseph H.Silverman 
 - Numerical Recipes (3rd, 2007) by William H. Press
+
+Advanced
+
 - **Concrete Mathematics: A Foundation for Computer Science** (2nd, 1994) by Ronald L. Graham, Donald E. Knuth and Oren Patashnik  
 ACM竞赛必读书之一，几乎包含了所有计算机科学里涉及到的数学问题，里面有众多的经典问题与经典解法，对开拓人的数学思路有极大的帮助。
+- The art of Computer programming volume 1 by Donald Knuth
+
+[More Mathematics](math-resources.md)
 
 ### Information Theory
 
