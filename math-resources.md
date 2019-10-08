@@ -1,4 +1,4 @@
-# Math Books
+# Mathematics Resources
 
 ### Introduction
 
