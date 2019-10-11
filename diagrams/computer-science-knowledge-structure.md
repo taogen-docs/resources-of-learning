@@ -4,7 +4,7 @@
 
 ![](computer-science-knowledge-architecture-diagram.png)
 
-[HD original picture](computer-science-knowledge-architecture-diagram.pdf)
+[View HD original PDF](computer-science-knowledge-architecture-diagram.pdf)
 
 ### References
 
