@@ -2,9 +2,9 @@
 
 
 
+![](resources-of-learning computer-science-knowledge-architecture-diagram.png)
 
-
-
+[HD original picture](resources-of-learning computer-science-knowledge-architecture-diagram.png)
 
 ### References
 
