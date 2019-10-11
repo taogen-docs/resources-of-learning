@@ -10,6 +10,10 @@ Resources of learning. Documentations, Books, courses, Git Repositories and so o
 
 *Continuously updating. I hope it will help you!*
 
+### Diagrams
+
+- [Computer Science Knowledge Structure Diagram](diagrams/computer-science-knowledge-structure.md)
+
 ### Resources From
 
 <img src="https://www.google.com/favicon.ico" width="30px" align="left" />
