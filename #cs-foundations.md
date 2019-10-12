@@ -1,3 +1,5 @@
+
+
 # CS Foundations Resources
 
 ### CS Overview
@@ -187,17 +189,75 @@ Some More
 - 一个64位操作系统的设计与实现 (2018) by 田宇
 - The UNIX Programming Environment by Brian W. Kernighan
 
+Courses
 
-For Programming
+- MIT 6.828: Operating System Engineering - [YouTube](https://www.youtube.com/playlist?list=PLfciLKR3SgqNJKKIKUliWoNBBH1VHL3AP)
+
+#### Linux
+
+System and Command Line
+
+- The Linux Command Line: A Complete Introduction by William E. Shotts, Jr.
+- Linux bible by Christopher Negus
+- 鸟哥的Linux私房菜：基础学习篇 (2007, 2nd) by 鸟哥
+- Linux pocket guide by Daniel J. Barrett
+- Beginning Linux Programming by Mathew Neil and Richard Stones
+- How Linux Works: What Every Superuser Should Know by Brian Ward
+- Linux for Beginners: An Introduction to the Linux Operating System by Jason Cannon
+- Linux Administration Handbook by Evi Nemeth, Garth Snyder, and Trent Hein
+- Linux Command Line and Shell Scripting Bible by Christine Bresnahan and Richard Blum
+
+Vim
+
+- Learning the vi and Vim Editors by Arnold Robbins and Linda Lamb
+- Practical Vim: Edit Text at the Speed of Thought by Drew Neil
+- A Byte of Vim by Swaroop C.H.
+- Modern Vim: Craft Your Development Environment with Vim 8 and Neovim by Drew Neil
+
+Shell
+
+- Bash Cookbook: Solutions and Examples for Bash Users by Carl Albing, J.P. Vossen, Cameron Newham
+- UNIX Shells by Example by Ellie Quigley
+- Linux Shell Scripting Cookbook by Shantanu Tushar, Sarath Lakshman
+- Expert Shell Scripting by Ron Peters
+
+Sed & Awk
+
+- sed & awk by Dale Dougherty, Arnold Robbins
+- The AWK Programming Language by Alfred V. Aho, Brian W. Kernighan, Peter J. Weinberger
+
+Linux Programming
 
 - **Linux Kernel Development** (3rd, 2010) by Robert Love
 - **Advanced Programming in the UNIX Environment** (3rd, 2013) by W. Richard Stevens  (**APUE**)
 - **The Art of Unix Programming** (2003) by Eric S. Raymond
 - **The Linux Programming Interface** (2010) by Michael Kerrisk
-- UNIX Systems for Modern Architectures (1994) by Schimmel.
+- Understanding Unix/Linux Programming by Bruce Molay
+- Linux 环境编程 by 高峰
+- UNIX Systems for Modern Architectures (1994) by Schimmel
+- Autotools: A Practioner's Guide to GNU Autoconf, Automake, and Libtool by John Calcote
+
+Linux Drivers
+
+- Linux Device Drivers by Alessandro Rubini, Greg Kroah-Hartman, and Jonathan Corbet
+- Understanding the Linux Kernel by Daniel P. Bovet and Marco Cesati
+- 深入Linux设备驱动程序内核机制 by 陈学松
+
+Docs
+
+- [Linux man pages](https://linux.die.net/man/)
+- [Linux Kernel Documentation](https://www.kernel.org/doc/)
+- [LWN.net](https://lwn.net/)
+
+#### Windows
+
+Windows Programming
+
 - **Windows Internals** (7th, 2017) by Russinovich and Solomon
 - Programming Windows (5th, 1998) by Charles Petzold 
 - Programming Applications for Microsoft Windows (1999) by Jeffrey Richter 
+
+
 
 ### Computer Network
 
