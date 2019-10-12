@@ -2,7 +2,7 @@
 
 # CS Foundations Resources
 
-### CS Overview
+## CS Overview
 
 Books
 
@@ -13,7 +13,7 @@ Courses
 - Crash Course Computer Science. Watching on [YouTube](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) or [Bilibili](https://www.bilibili.com/video/av21376839)
 - CS50's Computer Science for Business Professionals - [edx, Harvard](https://www.edx.org/course/cs50s-computer-science-business-harvardx-cs50b)
 
-### Computer Mathematics
+## Computer Mathematics
 
 Prime
 
@@ -32,14 +32,14 @@ ACM竞赛必读书之一，几乎包含了所有计算机科学里涉及到的�
 
 [More Mathematics](math-resources.md)
 
-### Information Theory
+## Information Theory
 
 - The Information: A History, a Theory, a Flood (2003) by James Gleick, Rob Shapiro
 - Information Theory: A Tutorial Introduction (2015) by James V. Stone
 - Elements of Information Theory (2nd, 2006) by Thomas M. Cover and Joy A. Thomas
 - Network Information Theory by (2012) by El Gamal, Abbas and Young-Han Kim
 
-### C/C++
+## C/C++
 
 Must Read
 
@@ -63,7 +63,7 @@ Some More
 - Accelerated C++: Practical Programming by Example by Andrew Koenig
 - C++ Concurrency in Action: Practical Multithreading by Anthony Williams
 
-### Algorithms
+## Algorithms
 
 Prime
 
@@ -108,7 +108,7 @@ Tutorials
 - [Techie Delight](https://www.techiedelight.com/)
 - [geeks for geeks](https://www.geeksforgeeks.org/)
 
-### Computer Architecture
+## Computer Architecture
 
 Prime
 
@@ -148,7 +148,7 @@ Courses
 - Build a Modern Computer from First Principles: From Nand to Tetris - [Coursera](https://www.coursera.org/learn/build-a-computer)
 - Build a Modern Computer from First Principles: Nand to Tetris Part II - [Coursera](https://www.coursera.org/learn/nand2tetris2)
 
-### Compiler
+## Compiler
 
 Prime
 
@@ -171,7 +171,7 @@ Some More
 - 程序员的自我修养 (2009) by 俞甲子, 石凡, 潘爱民 
 - Concepts, Techniques, and Models of Computer Programming by Peter Van Roy, Seif Haridi
 
-### Operating System
+## Operating System
 
 Must Read 
 
@@ -193,7 +193,7 @@ Courses
 
 - MIT 6.828: Operating System Engineering - [YouTube](https://www.youtube.com/playlist?list=PLfciLKR3SgqNJKKIKUliWoNBBH1VHL3AP)
 
-#### Linux
+### Linux
 
 System and Command Line
 
@@ -249,7 +249,7 @@ Docs
 - [Linux Kernel Documentation](https://www.kernel.org/doc/)
 - [LWN.net](https://lwn.net/)
 
-#### Windows
+### Windows
 
 Windows Programming
 
@@ -259,7 +259,7 @@ Windows Programming
 
 
 
-### Computer Network
+## Computer Network
 
 Must Read
 
@@ -285,7 +285,7 @@ For programming
 - **Unix Network Programming Vol 1** (3rd, 2003) Sockets API - Richard Stevens
 - **Unix Network Programming Vol 2** (2nd, 1998) Inter process Communication - Richard Stevens
 
-### Databases
+## Databases
 
 Must Read
 
@@ -307,7 +307,7 @@ Courses
 - [CMU 15-445: Intro to Database Systems](https://15445.courses.cs.cmu.edu/fall2019/)
 - [CMU 15-721: Advanced Database Systems](https://15721.courses.cs.cmu.edu/spring2019/)
 
-### Programming
+## Programming
 
 Functional Programming
 
@@ -324,7 +324,7 @@ Garbage Collection
 - The Garbage Collection Handbook by Richard Jones, Eliot Moss, Antony Hosking 
 - 垃圾回收的算法与实现 by 中村成洋, 相川光 
 
-### Security & Cryptography
+## Security & Cryptography
 
 Must Read
 
@@ -342,7 +342,7 @@ Some More
 - Practical Cryptography by Niels Ferguson,  Bruce Schneier
 - Cryptography and Network Security: Principles and Practice by William Stallings
 
-### Design Patterns 
+## Design Patterns 
 
 - **Design Patterns: Elements of Reusable Object-Oriented Software** (1994) by Erich Gamma, Richard Helm,  Ralph Johnson, John Vlissides 
 - Head First Design Patterns (2004) by Elisabeth Freeman
@@ -352,7 +352,7 @@ Some More
 - Domain-Driven Design: Tackling Complexity in the Heart of Software by Eric Evans
 - Patterns of Enterprise Application Architecture by Martin Fowler
 
-### Code
+## Code
 
 Programmer
 
@@ -397,7 +397,7 @@ Others
 - Release It!: Design and Deploy Production-Ready Software by Michael T. Nygard
 - Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation by Jez Humble
 
-### Team & Agile
+## Team & Agile
 
 - Extreme Programming Explained: Embrace Change by Kent Beck
 - The Mythical Man-Month: Essays on Software Engineering by Jr·Frederick P·Brooks 
@@ -430,7 +430,7 @@ Some More
 - Manage Your Project Portfolio by Johanna Rothman 
 - Rapid Development: Taming Wild Software Schedules by Steve McConnell
 
-### Programming Languages
+## Programming Languages
 
 C#
 
@@ -480,17 +480,17 @@ PHP
 
 - PHP and MySQL Web Development by Luke Welling
 
-### Computer Graphics
+## Computer Graphics
 
 - Interactive Computer Graphics: A Top-Down Approach with WebGL (7th, 2014) by Edward Angel and Dave Shreiner
 - Mathematics for 3D Game Programming and Computer Graphics (3rd, 2011) by Eric Lengyel
 - Computer Graphics: Principles and Practice (3rd, 2013) by John F. Hughes, van Dam, Andries
 
-### Artificial Intelligence
+## Artificial Intelligence
 
 - Machine Learning by Tom M. Mitchell
 
-### Others
+## Others
 
 - The Elements of Style by William Strunk Jr
 - The Visual Display of Quantitative Information by Edward R. Tufte
