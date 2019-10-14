@@ -1,5 +1,5 @@
 # resources-of-learning
-Resources of learning. Documentations, Books, courses, Git Repositories and so on.
+Resources of learning. Documentations, books, courses, git repositories and so on.
 
 ### Resources List
 
