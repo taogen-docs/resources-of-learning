@@ -170,6 +170,7 @@ Some More
 - Parsing Techniques (2008) by Dick Grune, Ceriel J.H. Jacobs 
 - 程序员的自我修养 (2009) by 俞甲子, 石凡, 潘爱民 
 - Concepts, Techniques, and Models of Computer Programming by Peter Van Roy, Seif Haridi
+- Language Implementation Patterns: Techniques for Implementing Domain-Specific Languages by Terence Parr
 
 ## Operating System
 
