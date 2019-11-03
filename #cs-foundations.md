@@ -63,6 +63,14 @@ Some More
 - Accelerated C++: Practical Programming by Example by Andrew Koenig
 - C++ Concurrency in Action: Practical Multithreading by Anthony Williams
 
+Courses
+
+- C++面向对象开发 by 侯捷
+- STL 标准库与泛型编程 by 侯捷
+- C++新标准 C++11/14 by 侯捷
+- C++ 内存管理机制 by 侯捷
+- C++ Startup 揭秘 by 侯捷
+
 ## Algorithms
 
 Prime
