@@ -499,10 +499,38 @@ PHP
 
 - Machine Learning by Tom M. Mitchell
 
+## Career
+
+For Interview
+
+- Cracking the Coding Interview: 189 Programming Questions and Solutions (2015) by Gayle Laakmann McDowell
+- Programming Interviews Exposed by Eric Giguere, John Mongan, and Noah Kindler
+- Elements of Programming Interviews: The Insiders' Guide by Adnan Aziz , Tsung-Hsien Lee
+- Elements of Programming Interviews in Java: The Insiders' Guide by Adnan Aziz , Tsung-Hsien Lee
+- Programming Pearl by Jon Bentley
+- Java Programming Interviews Exposed by Noel Markham
+- Coding Interview Questions by Narasimha Karumanchi
+- Dynamic Programming for Coding Interviews by Meenakshi and Kamal Rawat
+- Algorithms for Interviews by Adnan Aziz and Amit Prakash
+- Joe Celko's SQL Puzzles and Answers by Joe Celkos
+- 剑指Offer (2012) by 何海涛 
+- 编程之美 (2008) by 《编程之美》小组
+- 程序员代码面试指南：IT名企算法与数据结构题目最优解 (2015) by 左程云 
+
+Some More
+
+- The Google Resume: How to Prepare for a Career and Land a Job at Apple, Microsoft, Google, Or Any Top Tech Company by Gayle Laakmann McDowell
+- Cracking the Tech Career: Insider Advice on Landing a Job at Google, Microsoft, Apple, or any Top Tech Company by Gayle Laakmann McDowell
+- Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead by Laszlo Bock 
+- Cracking the PM Interview: How to Land a Product Manager Job in Technology
+  by Gayle Laakmann McDowell and Jackie Bavaro
+- What Color Is Your Parachute? 2020: A Practical Manual for Job-Hunters and Career-Changers by Richard N. Bolles
+
 ## Others
 
 - The Elements of Style by William Strunk Jr
 - The Visual Display of Quantitative Information by Edward R. Tufte
+
 
 ### References
 
