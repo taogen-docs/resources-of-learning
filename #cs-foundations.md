@@ -86,18 +86,15 @@ Advanced
 - The Algorithm Design Manual (2010) by Steven S Skiena 
 - **Introduction to Algorithms** (3rd, 2009) by Charles E. Leiserson, Clifford Stein, Ronald Rivest, and Thomas H. Cormen (**CLRS**: authors abbreviation)
 - **Algorithms** (2006) by Sanjoy Dasgupta
-
-Some More
-
-- The Art of Computer Programming Volumes 1-4 by Donald.E.Knuth (**TAOCP**)
-- Programming Pearls (2nd, 1999)  by Jon Bentley 
+- **The Art of Computer Programming** Volumes 1-4 by Donald.E.Knuth (**TAOCP**)
 
 For Interview
 
+- Cracking the Coding Interview: 189 Programming Questions and Solutions (2015) by Gayle Laakmann McDowell  程序员面试金典
+- Programming Pearls (2nd, 1999)  by Jon Bentley 
 - 剑指Offer (2012) by 何海涛 
 - 编程之美 (2008) by 《编程之美》小组
 - 程序员代码面试指南：IT名企算法与数据结构题目最优解 (2015) by 左程云 
-- Cracking the Coding Interview: 189 Programming Questions and Solutions (2015) by Gayle Laakmann McDowell  程序员面试金典
 
 For ACM
 
@@ -286,8 +283,8 @@ Some More
 - [RFC 2616 - Hypertext Transfer Protocol -- HTTP/1.1](https://www.w3.org/Protocols/rfc2616/rfc2616.html)
 - HTTP: The Definitive Guide (2002) by David Gourley,  Brian Totty, Marjorie Sayer, Anshu Aggarwal, Sailu Reddy
 - Learning Http/2: A Practical Guide for Beginners (2017) by Stephen Ludin,  Javier Garza
-- Wireshark网络分析就这么简单 by 林沛满 
-- wireshark网络分析的艺术 by 林沛满
+- Wireshark 网络分析就这么简单 by 林沛满 
+- wireshark 网络分析的艺术 by 林沛满
 
 For programming
 
@@ -308,8 +305,8 @@ Some More
 - Database Management System by Raghu Ramakrishnan, Johannes Gehrke
 - Fundamentals of Relational Database Management Systems by S. Sumathi, S. Esakkirajan
 - Database Systems concepts, languages & architectures by Paolo Atzeni, Stefano Ceri, Stefano Paraboschi, Riccardo Torlone
-- Database Systems: A Practical Approach to Design, Implementation, and Management by THOMAS M. CONNOLLY, CAROLYN E. BEGG
-- Database Modeling & Design: Logical Design by TOBY TEOREY, SAM LIGHTSTONE, TOM NADEAU
+- Database Systems: A Practical Approach to Design, Implementation, and Management by Carolyn E. Begg and Thomas M. Connolly
+- Database Modeling and Design  by Toby J. Teorey
 
 Courses
 
