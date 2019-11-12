@@ -398,6 +398,11 @@ Test (TDD)
 - The RSpec Book by David Chelimsky
 - 	The Art of Unit Testing: With Examples in .NET by Roy Osherove
 
+Software Engineering
+
+- Software Engineering (10th, 2015) by Ian Sommerville
+- The Essence of Software Engineering by Volker Gruhn and Rüdiger Striemer
+
 Others
 
 - Release It!: Design and Deploy Production-Ready Software by Michael T. Nygard
@@ -494,7 +499,22 @@ PHP
 
 ## Artificial Intelligence
 
+- Artificial Intelligence: A Modern Approach by Stuart Russell, Peter Norvig
 - Machine Learning by Tom M. Mitchell
+- Deep Learning by Aaron Courville, Ian Goodfellow, and Yoshua Bengio
+- Machine Learning in Action by Peter Harrington
+- The Elements of Statistical Learning: Data Mining, Inference, and Prediction by Trevor Hastie, Robert Tibshirani, Jerome Friedman
+- An Introduction to Statistical Learning: With Applications in R by Gareth James, Trevor Hastie, Robert Tibshirani, Daniela Witten
+- The Hundred-Page Machine Learning Book by Andriy Burkov
+- Pattern Recognition and Machine Learning by Christopher M. Bishop
+- Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems by Aurélien Géron
+- Machine Learning: A Probabilistic Perspective Kevin P. Murphy
+- Understanding Machine Learning: From Theory to Algorithms by Shai Shalev-Shwartz, Shai Ben-David
+- Machine Learning For Absolute Beginners: A Plain English Introduction by Oliver Theobald
+- Introduction to Machine Learning with Python: A Guide for Data Scientists by Andreas C. Müller, Sarah Guido
+- Reinforcement Learning: An Introduction by Richard S. Sutton, Andrew G. Barto
+- Deep Learning with Python by Francois Chollet
+- The Elements of Statistical Learning: Data Mining, Inference, and Prediction by Trevor Hastie
 
 ## Career
 
@@ -516,6 +536,7 @@ For Interview
 
 Some More
 
+- The Complete Software Developer's Career Guide: How to Learn Programming Languages Quickly, Ace Your Programming Interview, and Land Your Software Developer Dream Job by John Z. Sonmez
 - The Google Resume: How to Prepare for a Career and Land a Job at Apple, Microsoft, Google, Or Any Top Tech Company by Gayle Laakmann McDowell
 - Cracking the Tech Career: Insider Advice on Landing a Job at Google, Microsoft, Apple, or any Top Tech Company by Gayle Laakmann McDowell
 - Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead by Laszlo Bock 
