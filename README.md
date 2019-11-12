@@ -5,8 +5,9 @@ Resources of learning. Documentations, books, courses, git repositories and so o
 
 - [CS Foundation Resources](%23cs-foundations.md)
 - [CS Advanced Domains Resources](_cs-advanced-domains-resources.md)
-- [Software Engineer Must Read](_software-engineer-must-read.md)
+- [Software Development and Engineering](_cs-software-development-and-engineering.md)
 - [Java Resources](java-resources.md)
+- [Every Software Engineer Must Read](_software-engineer-must-read.md)
 
 *Continuously updating. I hope it will help you!*
 
