@@ -2,7 +2,20 @@
 
 # CS Foundations Resources
 
-## CS Overview
+Content
+
+- Introduction to Computer Science
+- Computer Mathematics
+- Information Theory
+- C/C++ and Program Design
+- Data Structures and Algorithms
+- Computer Architecture
+- Compiler
+- Operating System
+- Computer Network
+- Programming Languages
+
+## Introduction to Computer Science
 
 Books
 
@@ -39,7 +52,7 @@ ACM竞赛必读书之一，几乎包含了所有计算机科学里涉及到的�
 - Elements of Information Theory (2nd, 2006) by Thomas M. Cover and Joy A. Thomas
 - Network Information Theory by (2012) by El Gamal, Abbas and Young-Han Kim
 
-## C/C++
+## C/C++ and Program Design
 
 Must Read
 
@@ -71,7 +84,7 @@ Courses
 - C++ 内存管理机制 by 侯捷
 - C++ Startup 揭秘 by 侯捷
 
-## Algorithms
+## Data Structures and Algorithms
 
 Prime
 
@@ -291,27 +304,7 @@ For programming
 - **Unix Network Programming Vol 1** (3rd, 2003) Sockets API - Richard Stevens
 - **Unix Network Programming Vol 2** (2nd, 1998) Inter process Communication - Richard Stevens
 
-## Databases
 
-Must Read
-
-- **Database System Concepts** (6th, 2010) by Sudarshan, Korth
-- Fundamentals of Database System (7th, 2017) by Ramez Elmasri,  Shamkant B. Navathe
-- Database System Implementation by Hector Garcia-Molina, Jeffrey D.Ullman and  Jennifer Widom 
-
-Some More
-
-- SQL Antipatterns: Avoiding the Pitfalls of Database Programming (2010) by Bill Karwin
-- Database Management System by Raghu Ramakrishnan, Johannes Gehrke
-- Fundamentals of Relational Database Management Systems by S. Sumathi, S. Esakkirajan
-- Database Systems concepts, languages & architectures by Paolo Atzeni, Stefano Ceri, Stefano Paraboschi, Riccardo Torlone
-- Database Systems: A Practical Approach to Design, Implementation, and Management by Carolyn E. Begg and Thomas M. Connolly
-- Database Modeling and Design  by Toby J. Teorey
-
-Courses
-
-- [CMU 15-445: Intro to Database Systems](https://15445.courses.cs.cmu.edu/fall2019/)
-- [CMU 15-721: Advanced Database Systems](https://15721.courses.cs.cmu.edu/spring2019/)
 
 ## Programming
 
@@ -330,116 +323,8 @@ Garbage Collection
 - The Garbage Collection Handbook by Richard Jones, Eliot Moss, Antony Hosking 
 - 垃圾回收的算法与实现 by 中村成洋, 相川光 
 
-## Security & Cryptography
-
-Must Read
-
-- The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography (2000) by Simon Singh 
-- Understanding Cryptography: A Textbook for Students and Practitioners (2010) by Christof Paar,  Jan Pelzl
-- Network Security: Private Communication in a Public World (2nd, 2002) by Charlie Kaufman , Radia Perlman
-- Applied Cryptography: Protocols, Algorithms, and Source Code in C (2015) by Bruce Schneier
-- Counter Hack Reloaded: A Step-by-Step Guide to Computer Attacks and Effective Defenses (2nd, 2006) by Edward Skoudis, Tom Liston
-
-Some More
-
-- Cryptography Engineering: Design Principles and Practical Applications by Niels Ferguson,  Bruce Schneier, Tadayoshi Kohno
-- Introduction to Modern Cryptography, Second Edition (Chapman & Hall/CRC Cryptography and Network Security Series) by Jonathan Katz
-- Serious Cryptography: A Practical Introduction to Modern Encryption by Jean-Philippe Aumasson
-- Practical Cryptography by Niels Ferguson,  Bruce Schneier
-- Cryptography and Network Security: Principles and Practice by William Stallings
-
-## Design Patterns 
-
-- **Design Patterns: Elements of Reusable Object-Oriented Software** (1994) by Erich Gamma, Richard Helm,  Ralph Johnson, John Vlissides 
-- Head First Design Patterns (2004) by Elisabeth Freeman
-- Head First Object-Oriented Analysis and Design (2006) by Brett D. McLaughlin
-- Object-Oriented Analysis and Design with Applications by Grady Booch
-- Object-Oriented Software Construction by Bertrand Meyer
-- Domain-Driven Design: Tackling Complexity in the Heart of Software by Eric Evans
-- Patterns of Enterprise Application Architecture by Martin Fowler
-
-## Code
-
-Programmer
-
-- The Pragmatic Programmer: From Journeyman to Master by Andrew Hunt, David Thomas 
-- Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman (2009) by Dave H. Hoover and Adewale Oshineye
-- The Clean Coder: A Code of Conduct for Professional Programmers by Robert C. Martin
-- Joel on Software by Joel Spolsky
-- Hackers and Painters: Big Ideas from the Computer Age by Paul Graham
-- 97 Things Every Programmer Should Know: Collective Wisdom from the Experts by Kevlin Henney
-- Soft Skills: The Software Developer's Life Manual by John Z. Sonmez
-
-Code
-
-- Clean Code : A Handbook of Agile Software Craftsmanship (2008) by Robert C. Martin, Prentice Hall
-- The Art of Readable Code by Dustin Boswell, Trevor Foucher
-- Clean Architecture by Robert C. Martin
-- 码出高效：Java开发手册 by 杨冠宝, 高海慧
-- 码农翻身 (2018) by 刘欣
-- Code Complete (2nd, 2004) by Steve McConnell
-- The Practice of Programming by Brian W. Kernighan
-- Writing Solid Code by Steve Maguire
-- Hacker's Delight by Henry S. Warren Jr.
-- Think Like a Programmer: An Introduction to Creative Problem Solving by V. Anton Spraul
-
-Refactoring
-
-- Refactoring : Improving the Design of Existing Code (2nd, 2018) by Martin Fowler, Kent Beck 
-- Refactoring to Patterns by Joshua Kerievsky
-- Working Effectively with Legacy Code by Michael C. Feathers
-
-Test (TDD)
-
-- Test Driven Development: By Example (2002) by  Kent Beck 
-- Growing Object-Oriented Software, Guided by Tests by Steve Freeman
-- Effective Unit Testing by Lasse Koskela
-- xUnit Test Patterns: Refactoring Test Code by Gerard Meszaros
-- The RSpec Book by David Chelimsky
-- 	The Art of Unit Testing: With Examples in .NET by Roy Osherove
-
-Software Engineering
-
-- Software Engineering (10th, 2015) by Ian Sommerville
-- The Essence of Software Engineering by Volker Gruhn and Rüdiger Striemer
-
-Others
-
-- Release It!: Design and Deploy Production-Ready Software by Michael T. Nygard
-- Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation by Jez Humble
-
-## Team & Agile
-
-- Extreme Programming Explained: Embrace Change by Kent Beck
-- The Mythical Man-Month: Essays on Software Engineering by Jr·Frederick P·Brooks 
-- Agile Software Development, Principles, Patterns, and Practices by Robert C. Martin
-- Scrum and XP from the Trenches by Henrik Kniberg
-- The Art of Agile Development by James Shore, Shane Warden 
-- Learning Agile by Andrew Stellman
-- Ship It! by Jared Richardson
-- The Agile Samurai by Jonathan Rasmusson
-- Lean from the Trenches by Henrik Kniberg
-- Peopleware: Productive Projects and Teams by Tom DeMarco 
-- The Goal: A Process of Ongoing Improvement by Eliyahu M. Goldratt
-- Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency by Tom DeMarco
-- The Software Craftsman: Professionalism, Pragmatism, Pride by Sandro Mancuso 
-- Implementing Lean Software Development: From Concept to Cash by Mary Poppendieck
 
 
-Some More
-
-- Specification by Example by Gojko Adzic
-- Agile Retrospectives：Making Good Teams Great by Esther Derby , Diana Larsen,Ken Schwaber
-- Coaching Agile Teams: A Companion for ScrumMasters,Agile Coaches, and Project Managers in Transition by Lyssa Adkins
-- Agile Project Management with Scrum by Ken Schwaber
-- Succeeding with Agile:Software development using Scrum by Mike Cohn
-- Agile Estimating and Planning by Mike Cohn
-- Lean thinking  banish waste and creat wealth in your corporation by James P.Womack 
-- Kanban: Successful Evolutionary Change for Your Technology Business by David J.Anderson
-- User Stories Applied:For Agile Software Development by Mike Cohn
-- User Story Mapping Building Better Products using Agile Software Design by Jeff Patton
-- Manage Your Project Portfolio by Johanna Rothman 
-- Rapid Development: Taming Wild Software Schedules by Steve McConnell
 
 ## Programming Languages
 
@@ -491,63 +376,7 @@ PHP
 
 - PHP and MySQL Web Development by Luke Welling
 
-## Computer Graphics
 
-- Interactive Computer Graphics: A Top-Down Approach with WebGL (7th, 2014) by Edward Angel and Dave Shreiner
-- Mathematics for 3D Game Programming and Computer Graphics (3rd, 2011) by Eric Lengyel
-- Computer Graphics: Principles and Practice (3rd, 2013) by John F. Hughes, van Dam, Andries
-
-## Artificial Intelligence
-
-- Artificial Intelligence: A Modern Approach by Stuart Russell, Peter Norvig
-- Machine Learning by Tom M. Mitchell
-- Deep Learning by Aaron Courville, Ian Goodfellow, and Yoshua Bengio
-- Machine Learning in Action by Peter Harrington
-- The Elements of Statistical Learning: Data Mining, Inference, and Prediction by Trevor Hastie, Robert Tibshirani, Jerome Friedman
-- An Introduction to Statistical Learning: With Applications in R by Gareth James, Trevor Hastie, Robert Tibshirani, Daniela Witten
-- The Hundred-Page Machine Learning Book by Andriy Burkov
-- Pattern Recognition and Machine Learning by Christopher M. Bishop
-- Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems by Aurélien Géron
-- Machine Learning: A Probabilistic Perspective Kevin P. Murphy
-- Understanding Machine Learning: From Theory to Algorithms by Shai Shalev-Shwartz, Shai Ben-David
-- Machine Learning For Absolute Beginners: A Plain English Introduction by Oliver Theobald
-- Introduction to Machine Learning with Python: A Guide for Data Scientists by Andreas C. Müller, Sarah Guido
-- Reinforcement Learning: An Introduction by Richard S. Sutton, Andrew G. Barto
-- Deep Learning with Python by Francois Chollet
-- The Elements of Statistical Learning: Data Mining, Inference, and Prediction by Trevor Hastie
-
-## Career
-
-For Interview
-
-- Cracking the Coding Interview: 189 Programming Questions and Solutions (2015) by Gayle Laakmann McDowell
-- Programming Interviews Exposed by Eric Giguere, John Mongan, and Noah Kindler
-- Elements of Programming Interviews: The Insiders' Guide by Adnan Aziz , Tsung-Hsien Lee
-- Elements of Programming Interviews in Java: The Insiders' Guide by Adnan Aziz , Tsung-Hsien Lee
-- Programming Pearl by Jon Bentley
-- Java Programming Interviews Exposed by Noel Markham
-- Coding Interview Questions by Narasimha Karumanchi
-- Dynamic Programming for Coding Interviews by Meenakshi and Kamal Rawat
-- Algorithms for Interviews by Adnan Aziz and Amit Prakash
-- Joe Celko's SQL Puzzles and Answers by Joe Celkos
-- 剑指Offer (2012) by 何海涛 
-- 编程之美 (2008) by 《编程之美》小组
-- 程序员代码面试指南：IT名企算法与数据结构题目最优解 (2015) by 左程云 
-
-Some More
-
-- The Complete Software Developer's Career Guide: How to Learn Programming Languages Quickly, Ace Your Programming Interview, and Land Your Software Developer Dream Job by John Z. Sonmez
-- The Google Resume: How to Prepare for a Career and Land a Job at Apple, Microsoft, Google, Or Any Top Tech Company by Gayle Laakmann McDowell
-- Cracking the Tech Career: Insider Advice on Landing a Job at Google, Microsoft, Apple, or any Top Tech Company by Gayle Laakmann McDowell
-- Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead by Laszlo Bock 
-- Cracking the PM Interview: How to Land a Product Manager Job in Technology
-  by Gayle Laakmann McDowell and Jackie Bavaro
-- What Color Is Your Parachute? 2020: A Practical Manual for Job-Hunters and Career-Changers by Richard N. Bolles
-
-## Others
-
-- The Elements of Style by William Strunk Jr
-- The Visual Display of Quantitative Information by Edward R. Tufte
 
 
 ### References
