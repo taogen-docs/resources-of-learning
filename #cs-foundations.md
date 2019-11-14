@@ -328,53 +328,178 @@ Garbage Collection
 
 ## Programming Languages
 
-C#
+### C#
 
 - C# in Depth by Jon Skeet
 
-JavaScript
 
-- JavaScript: The Good Parts by by Douglas Crockford
+
+### JavaScript
+
+Prime
+
+- DOM Scripting: Web Design with JavaScript and the Document Object Model by Jeremy Keith
+- **JavaScript: The Definitive Guide** by David Flanagan
+- Professional JavaScript for Web Developers by Nicholas C. Zakas
 - Eloquent JavaScript: A Modern Introduction to Programming by Marijn Haverbeke
+- Secrets of the JavaScript Ninja by Bear Bibeault and John Resig by Bear Bibeault and John Resig
+- Maintainable JavaScript by Nicholas C. Zakas
+- Understanding ECMAScript 6: The Definitive Guide for JavaScript Developers by Nicholas C. Zakas
+- DOM Enlightenment by Cody Lindley
+- Introducing functional programming with Underscore.js by Michael Fogus
 
-Java
+Advanced
 
-- Head First Java by Kathy Sierra
+- JavaScript: The Good Parts by Douglas Crockford
+- Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript 
+- You Don't Know JS: Up & Going [1] by Kyle Simpson
+- You Don't Know JS: Scope & Closures [2] by Kyle Simpson
+- You Don't Know JS: this & Object Prototypes [3] by Kyle Simpson
+- You Don't Know JS: Types & Grammar [4] by Kyle Simpson
+- You Don't Know JS: Async & Performance [5] by Kyle Simpson
+- You Don't Know JS: ES6 & Beyond [6] by Kyle Simpson
 
-Ruby
+For Frameworks
+
+- jQuery in Action by Bear Bibeault
+- JavaScript and JQuery: Interactive Front-End Web Development by Jon Duckett
+- Node.js in Action by Marc Harter, Mike Cantelon, Nathan Rajlich, and T. J. Holowaychuk
+- RxJS in Action by Daniels, Paul P., Atencio, Luis
+
+Tutorials
+
+- [w3schools](https://www.w3schools.com/)
+- [MDN web docs](https://developer.mozilla.org/en-US/)
+- [Learn JS](https://www.learn-js.org/)
+- [The Modern JavaScript Tutorial](http://javascript.info/)
+- [awesome-javascript - GitHub](https://github.com/sorrycc/awesome-javascript)
+
+Courses
+
+- [Learn JavaScript - Full Course for Beginners - YouTube](https://www.youtube.com/watch?v=PkZNo7MFNFg)
+- [JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour - YouTube](https://www.youtube.com/watch?v=W6NZfCO5SIk)
+
+
+
+
+### Java
+
+Reference [Java Resources](java-resources.md)
+
+
+
+### Ruby
 
 - Programming Ruby: The Pragmatic Programmers' Guide by Dave Thomas
 - The Rails Way by Obie Fernandez
 - Agile Web Development with Rails: A Pragmatic Guide by Dave Thomas
 - Practical Object Oriented Design in Ruby by Sandi Metz
 
-Haskell
+
+
+### Haskell
 
 - Real World Haskell: Code You Can Believe In by Bryan O'Sullivan
 - Learn You a Haskell for Great Good!: A Beginner's Guide by Miran Lipovača
 - Haskell: The Craft of Functional Programming by Simon Thompson
 
-Perl
+
+
+### Perl
 
 - Learning Perl by Randal L. Schwartz
 - Programming Perl by Tom Christiansen
 
-Python
 
-- Learning Python by Mark Lutz
+
+### Python
+
+Prime
+
+- [The Python Tutorial - doc](https://docs.python.org/3/tutorial/)
+- Learning Python by David Ascher and MARK LUTZ
+- Learn Python 3 the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code by Zed Shaw
+- A Byte of Python by Swaroop C.H.
+- Automate the Boring Stuff with Python: Practical Programming for Total Beginners by Al Sweigart
 - Python Crash Course: A Hands-On, Project-Based Introduction to Programming by Eric Matthes
+- Think Python: An Introduction to Software Design by Allen B. Downey
+- Dive into Python by Mark Pilgrim
+- Python Essential Reference by David M. Beazley
 
-Lisp
+Advanced
+
+- Python Cookbook: Recipes for Mastering Python 3 by Brian K. Jones and David M. Beazley
+- Fluent Python by Luciano Ramalho
+- The Hitchhiker's Guide to Python: Best Practices for Development by Kenneth Reitz, Tanya Schlusser
+- Pro Python by Marty Alchin
+- Expert Python Programming by Tarek Ziadé
+- Effective Python: 59 Specific Ways to Write Better Python by Brett Slatkin
+- High Performance Python: Practical Performant Programming for Humans by Ian Ozsvald and Micha Gorelick
+
+Some More
+
+- Python Tricks: A Buffet of Awesome Python Features by Dan Bader
+- Web Scraping with Python by Ryan Mitchell
+- Python for Data Analysis by Wes McKinney
+
+Docs
+
+- [python documentation](https://www.python.org/doc/)
+
+Tutorials
+
+- [Real Python](https://realpython.com/)
+- [Python Tutorial - tutorialspoint](https://www.tutorialspoint.com/python/)
+- [learnpython.org](https://www.learnpython.org/)
+- [Python Challenge](http://www.pythonchallenge.com/)
+- [awesome-python - GitHub](https://github.com/vinta/awesome-python)
+- [Python Tips](https://pythontips.com/)
+- [Full Stack Python](https://www.fullstackpython.com/)
+
+
+
+### Lisp
 
 - ANSI Common Lisp by Paul Graham
 
-Kotlin
+
+
+### Kotlin
 
 - Fundamental Kotlin by Miloš Vasić
 
-PHP
+
+
+### PHP
 
 - PHP and MySQL Web Development by Luke Welling
+
+
+
+### Go
+
+Books
+
+- The Go Programming Language by Alan A. A. Donovan and Brian W. Kernighan
+- An Introduction to Programming in Go by Caleb Doxsey
+- Go Web Programming by Chang Sau Sheong
+- Introducing Go: Build Reliable, Scalable Programs by Caleb Doxsey
+- Concurrency in Go: Tools and Techniques for Developers by Katherine Cox-Buday
+- Go Programming Blueprints by Mat Ryer
+- Go in Action by William Kennedy, Brian Ketelsen
+- Go in Practice by Matt Butcher
+
+Docs
+
+- [Go Documentation](https://golang.org/doc/)
+
+Tutorials
+
+- [go dev](https://go.dev/)
+- [Go Tutorial - tutorialspoint](https://www.tutorialspoint.com/go/)
+- [Go by Example](https://gobyexample.com/)
+- [gotraining - GitHub](https://github.com/ardanlabs/gotraining/tree/master/topics/go)
+- [awesome-go - GitHub](https://github.com/avelino/awesome-go)
 
 
 
@@ -382,3 +507,5 @@ PHP
 ### References
 
 [1] [Essential Programming Books - Goodreads](https://www.goodreads.com/list/show/542.Essential_Programming_Books)
+
+[1] [The 50 Best Websites to Learn Python](https://www.codeconquest.com/blog/the-50-best-websites-to-learn-python/)
