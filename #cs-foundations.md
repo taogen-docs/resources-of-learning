@@ -508,4 +508,4 @@ Tutorials
 
 [1] [Essential Programming Books - Goodreads](https://www.goodreads.com/list/show/542.Essential_Programming_Books)
 
-[1] [The 50 Best Websites to Learn Python](https://www.codeconquest.com/blog/the-50-best-websites-to-learn-python/)
+[2] [The 50 Best Websites to Learn Python](https://www.codeconquest.com/blog/the-50-best-websites-to-learn-python/)
