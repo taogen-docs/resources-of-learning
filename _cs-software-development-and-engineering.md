@@ -8,6 +8,9 @@ Content
 - Software Engineering
 - Team & Agile
 - Career
+- DevOps
+- SRE
+- Development Tools
 
 ## Design Patterns 
 
@@ -182,6 +185,45 @@ Some More
 - Cracking the PM Interview: How to Land a Product Manager Job in Technology
   by Gayle Laakmann McDowell and Jackie Bavaro
 - What Color Is Your Parachute? 2020: A Practical Manual for Job-Hunters and Career-Changers by Richard N. Bolles
+
+
+
+## DevOps
+
+- Jenkins 2: Up and Running: Evolve Your Deployment Pipeline for Next Generation Automation by Brent Laster
+- Jenkins: The Definitive Guide by John Smart
+- Learning Continuous Integration with Jenkins by Nikhil Pathania
+- Continuous Delivery with Docker and Jenkins by Rafal Leszko
+- Kubernetes in Action by Marko Luksa
+
+## SRE
+
+- Site Reliability Engineering: How Google Runs Production Systems
+- The Site Reliability Workbook: Practical Ways to Implement SRE
+- Seeking SRE: Conversations About Running Production Systems at Scale by David N. Blank-Edelman
+- The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations
+- Infrastructure as Code: Managing Servers in the Cloud by Kief Morris
+- Systems Performance: Enterprise and the Cloud by Brendan Gregg
+- Web Operations: Keeping the Data On Time by Jesse Robbins and John Allspaw
+- Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems by Martin Kleppmann
+- Database Reliability Engineering: Designing and Operating Resilient Database Systems by Charity Majors and Laine Campbell
+- Practical Monitoring: Effective Strategies for the Real World by Mike Julian
+- Building Microservices: Designing Fine-Grained Systems by Sam Newman
+- Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services by Brendan Burns
+
+## Development Tools
+
+### Git
+
+- Pro Git by Ben Straub and Scott Chacon
+- Version Control with Git: Powerful Tools and Techniques for Collaborative Software Development by Jon Loeliger
+- Professional Git by Brent Laster
+- Git Pocket Guide: A Working Introduction by Richard E. Silverman
+
+### Maven
+
+- Maven: The Definitive Guide
+- Apache Maven Cookbook by Raghuram Bharathan
 
 ## Others
 
