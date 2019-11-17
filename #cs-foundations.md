@@ -7,7 +7,7 @@ Content
 - Introduction to Computer Science
 - Computer Mathematics
 - Information Theory
-- C/C++ and Program Design
+- C Language and Program Design
 - Data Structures and Algorithms
 - Computer Architecture
 - Compiler
@@ -53,37 +53,13 @@ ACM竞赛必读书之一，几乎包含了所有计算机科学里涉及到的�
 - Elements of Information Theory (2nd, 2006) by Thomas M. Cover and Joy A. Thomas
 - Network Information Theory by (2012) by El Gamal, Abbas and Young-Han Kim
 
-## C/C++ and Program Design
-
-Must Read
+## C Language and Program Design
 
 - **The C Programming Language** (2nd, 1988) by Brian W. Kernighan, Denis M. Ritchie (**TCPL**)
 - Pointers on C (1997) by Kenneth A·Reek 
 - Expert C Programming: Deep C Secrets (1994) by Peter van der Linden 
 - C Traps and Pitfalls (1989) by Andrew Koenig
-- C++ Primer (5th, 2012) by Josée Lajoie and Stanley B. Lippman
-- **The C++ Programming Language** (4th, 2013) by Bjarne Stroustrup
-- The C++ Standard Library  (2nd, 2012) by Nikolai Josuttis
-- Effective C++ (3rd, 2005) by Scott Meyers
-
-Some More
-
 - Expert C Programming: Deep C Secrets by Peter van der Linden
-- Effective Modern C++ (2014) by Scott Meyers
-- More Effective C++ (1996) by Scott Meyers
-- Effective STL (2001) by Scott Meyers
-- Large-Scale C++ Software Design (1996)  by John Lakos
-- Inside the C++ Object Model (1996) by Stanley B·Lippman 
-- Accelerated C++: Practical Programming by Example by Andrew Koenig
-- C++ Concurrency in Action: Practical Multithreading by Anthony Williams
-
-Courses
-
-- C++面向对象开发 by 侯捷
-- STL 标准库与泛型编程 by 侯捷
-- C++新标准 C++11/14 by 侯捷
-- C++ 内存管理机制 by 侯捷
-- C++ Startup 揭秘 by 侯捷
 
 ## Data Structures and Algorithms
 
@@ -329,9 +305,46 @@ Garbage Collection
 
 ## Programming Languages
 
+### C++
+
+Must Read
+
+- A Tour of C++ by Bjarne Stroustrup
+- C++ Primer (5th, 2012) by Josée Lajoie and Stanley B. Lippman
+- **The C++ Programming Language** (4th, 2013) by Bjarne Stroustrup
+- The C++ Standard Library  (2nd, 2012) by Nikolai Josuttis
+- Effective C++ (3rd, 2005) by Scott Meyers
+
+Some More
+
+- Effective Modern C++ (2014) by Scott Meyers
+- More Effective C++ (1996) by Scott Meyers
+- Effective STL (2001) by Scott Meyers
+- Large-Scale C++ Software Design (1996)  by John Lakos
+- Inside the C++ Object Model (1996) by Stanley B·Lippman 
+- Accelerated C++: Practical Programming by Example by Andrew Koenig
+- C++ Concurrency in Action: Practical Multithreading by Anthony Williams
+
+Courses
+
+- C++面向对象开发 by 侯捷
+- STL 标准库与泛型编程 by 侯捷
+- C++新标准 C++11/14 by 侯捷
+- C++ 内存管理机制 by 侯捷
+- C++ Startup 揭秘 by 侯捷
+
+
+
 ### C#
 
-- C# in Depth by Jon Skeet
+- **C# in Depth** by Jon Skeet
+- Head First C# by Andrew Stellman
+- C# 7.0 in a Nutshell: The Definitive Reference by Joseph Albahari, Ben Albahari
+- Pro C# 7: With .NET and .NET Core by Andrew Troelsen and Philip Japikse
+- Professional C# 7 and .NET Core 2.0 by Christian Nagel
+- CLR VIA C# by Jeffrey Richter
+- Effective C#: 50 Specific Ways to Improve Your C# (3rd, 2016) by Bill Wagner
+- More Effective C#: 50 Specific Ways to Improve Your C# (2nd, 2017)by Bill Wagner
 
 
 
@@ -438,7 +451,7 @@ Prime
 Advanced
 
 - Python Cookbook: Recipes for Mastering Python 3 by Brian K. Jones and David M. Beazley
-- Fluent Python by Luciano Ramalho
+- **Fluent Python** by Luciano Ramalho
 - The Hitchhiker's Guide to Python: Best Practices for Development by Kenneth Reitz, Tanya Schlusser
 - Pro Python by Marty Alchin
 - Expert Python Programming by Tarek Ziadé
