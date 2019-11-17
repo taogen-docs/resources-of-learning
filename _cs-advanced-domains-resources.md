@@ -138,7 +138,7 @@ Some More
 
 ## Information Security
 
-- Principles of Information Security by Michael E. Whitman, Herbert J. Mattord
+Reference [Information Security Resources](information-security-resources.md)
 
 ## Computer Graphics
 
