@@ -3,11 +3,18 @@ Resources of learning. Documentations, books, courses, git repositories and so o
 
 ### Resources List
 
+General
+
 - [CS Foundation Resources](%23cs-foundations.md)
 - [CS Advanced Domains Resources](_cs-advanced-domains-resources.md)
 - [Software Development and Engineering](_cs-software-development-and-engineering.md)
-- [Java Resources](java-resources.md)
 - [Every Software Engineer Must Read](_software-engineer-must-read.md)
+
+Direction
+
+- [Web Backend - Java Resources](java-resources.md)
+- [Web Frontend Resource](web-frontend-resources.md)
+- [Information Security Resources](information-security-resources.md)
 
 *Continuously updating. I hope it will help you!*
 
