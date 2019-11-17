@@ -10,7 +10,7 @@ General
 - [Software Development and Engineering](_cs-software-development-and-engineering.md)
 - [Every Software Engineer Must Read](_software-engineer-must-read.md)
 
-Direction
+Directions
 
 - [Web Backend - Java Resources](java-resources.md)
 - [Web Frontend Resource](web-frontend-resources.md)
