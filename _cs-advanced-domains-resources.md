@@ -125,21 +125,9 @@ Tutorials
 
 ## Cryptography
 
-Must Read
+Reference [Information Security Resources - Cryptography](information-security-resources.md)
 
-- The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography (2000) by Simon Singh 
-- Understanding Cryptography: A Textbook for Students and Practitioners (2010) by Christof Paar,  Jan Pelzl
-- Network Security: Private Communication in a Public World (2nd, 2002) by Charlie Kaufman , Radia Perlman
-- Applied Cryptography: Protocols, Algorithms, and Source Code in C (2015) by Bruce Schneier
-- Counter Hack Reloaded: A Step-by-Step Guide to Computer Attacks and Effective Defenses (2nd, 2006) by Edward Skoudis, Tom Liston
 
-Some More
-
-- Cryptography Engineering: Design Principles and Practical Applications by Niels Ferguson,  Bruce Schneier, Tadayoshi Kohno
-- Introduction to Modern Cryptography, Second Edition (Chapman & Hall/CRC Cryptography and Network Security Series) by Jonathan Katz
-- Serious Cryptography: A Practical Introduction to Modern Encryption by Jean-Philippe Aumasson
-- Practical Cryptography by Niels Ferguson,  Bruce Schneier
-- Cryptography and Network Security: Principles and Practice by William Stallings
 
 ## Information Security
 
