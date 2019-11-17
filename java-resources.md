@@ -13,7 +13,7 @@
 
 ### Main
 
-### I. Guidance & Roadmap
+## I. Guidance & Roadmap
 
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [服务端工程师入门与进阶 Java 版](http://xielong.me/2015/04/16/%E6%9C%8D%E5%8A%A1%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%85%A5%E9%97%A8%E4%B8%8E%E8%BF%9B%E9%98%B6Java%E7%89%88/)
@@ -22,77 +22,7 @@
 
 
 
-
-
-### II. Books & Documentations
-
-menu
-
-- Java SE
-- Web Development
-  - Protocols
-    - HTTP, HTTPS, HTTP/2
-  - Web Servers
-    - Apache Tomcat
-    - Nginx
-  - Web Security
-  - Web Frontend
-    - HTML
-    - CSS
-    - XML
-    - JavaScript
-    - Bootstrap
-    - Vue.js
-    - Node.js
-  - Java Web
-    - Web Basic
-      - Java Servlet
-      - JDBC/Connection Pools
-    - Java EE
-    - Web Frameworks
-      - Spring Framework
-      - Swagger
-      - Apache Shiro
-    - Persistence Frameworks
-      - MyBatis
-      - Hibernate
-    - Job Scheduling
-      - Quartz
-    - Workflow Engine
-      - Activiti
-    - Search Engine
-      - Apache Lucene
-      - solr
-    - Web Crawler
-      - Apache Nutch
-- Network Programming
-  - TCP/IP
-  - Socket
-  - Web Socket
-  - NIO & Netty
-  - RPC
-    - Web Service
-    - Apache Thrift
-- Database Programming
-  - Cache
-  - Relational Databases
-  - NoSQL Databases
-- DevOps
-  - Linux (Basic, Shell Script.)
-  - Docker
-  - Kubernates
-  - Jenkins
-- Test 
-  - Unit test
-  - Mock
-  - Performance test
-- Tools
-  - version control, project build, IDE, Editor.
-- Distributed System
-  - Distribute Collaboration
-  - Distribute Message
-  - Distribute Cache
-  - Microservice
+## II. Books & Documentations
 
 ### Java SE
 
@@ -173,43 +103,13 @@ Design Patterns
 - 深入理解Nginx by  陶辉 
 - How Tomcat Works: A Guide to Developing Your Own Java Servlet Container by Budi Kurniawan, Paul Deck 
 
-
 #### Web Security
 
-- The Tangled Web: a Guide to Securing Modern Web Applications by Michal Zalewski
-- 白帽子讲Web安全 (2012) by 吴翰清
-- 白帽子讲浏览器安全 (2016) by 钱文祥
+Reference [Information Security - Web Security](information-security-resources.md)
 
 #### Web Frontend
 
-XML
-
-- [Namespaces in XML](https://www.w3.org/TR/xml-names/)
-
-JavaScript
-
-- Eloquent JavaScript: A Modern Introduction to Programming by Marijn Haverbeke
-- JavaScript: The Good Parts by Douglas Crockford
-- JavaScript: The Definitive Guide by David Flanagan
-- Secrets of the JavaScript Ninja by Bear Bibeault and John Resig by Bear Bibeault and John Resig
-- Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript 
-- Maintainable JavaScript by Nicholas C. Zakas
-- You Don't Know JS: ES6 & Beyond by Kyle Simpson
-- You Don't Know JS: Up & Going by Kyle Simpson
-- You Don't Know JS: Scope & Closures by Kyle Simpson
-- You Don't Know JS: this & Object Prototypes by Kyle Simpson
-- You Don't Know JS: Async & Performance by Kyle Simpson
-- You Don't Know JS: Types & Grammar by Kyle Simpson
-- Understanding ECMAScript 6: The Definitive Guide for JavaScript Developers by Nicholas C. Zakas
-- DOM Enlightenment by Cody Lindley
-- Introducing functional programming with Underscore.js by Michael Fogus
-
-JS Framework
-
-- jQuery in Action by Bear Bibeault
-- JavaScript and JQuery: Interactive Front-End Web Development by Jon Duckett
-- Node.js in Action by Marc Harter, Mike Cantelon, Nathan Rajlich, and T. J. Holowaychuk
-- RxJS in Action by Daniels, Paul P., Atencio, Luis
+Reference [Web Frontend Resource](web-frontend-resources.md)
 
 #### Java Web
 
@@ -252,16 +152,6 @@ Persistence Framework
 
 - Java Persistence with Hibernate: Revised Edition of Hibernate in Action by Bauer, Christian
 
-Job Scheduling
-
-Workflow Engine
-
-Search Engine
-
-Web Crawler
-
-Web Security
-
 
 
 ### Network Programming
@@ -275,71 +165,32 @@ Web Security
 - TCP/IP Sockets in Java: Practical Guide for Programmers by Kenneth L. Calvert,  Michael J. Donahoo
 - Java Network Programming by Harold, Elliotte Rusty
 
-#### Web Socket
-
 #### NIO 
 
 - Java NIO by Hitchens, Ron
 - Netty in Action by Maurer, Norman
 - Netty权威指南 by 李林锋 
 
-#### RPC
 
 
+### Data Store
 
-### Database Programming
+Reference [CS Advanced Domains Resources - Database Systems and Data Storage](_cs-advanced-domains-resources.md)
 
-#### Cache
+### DevOps & Test & Tools
 
-
-
-#### NoSQL
-
-- Redis in Action by Josiah L. Carlson 
-- Redis设计与实现 by 黄健宏 
-
-#### Relational Databases
-
-
-
-### DevOps
-
-#### Linux
-
-- 鸟哥的Linux私房菜：基础学习篇
-- The Linux Command Line by William E. Shotts Jr
-- Linux Shell Scripting Cookbook by Sarath Lakshman (Linux Shell 脚本攻略)
-
-#### Jenkins
-
-- Jenkins: The Definitive Guide
-
-#### Docker
-
-- Docker in Action
-
-### Test
-
-### Tools
-
-- Pro Git
-- Maven: The Definitive Guide
-
+Reference [Software Development and Engineering](_cs-software-development-and-engineering.md)
 
 ### Distributed System
 
-#### Distribute Collaboration
-
-#### Distribute Message
-
-#### Distribute Cache
-
-#### Microservice
+Reference [CS Advanced Domains Resources - Distributed Systems](_cs-advanced-domains-resources.md)
 
 
 
 
-###  III. Source Repositories
+
+
+##  III. Source Repositories
 
 **Java Libraries**
 
@@ -486,7 +337,7 @@ Others
 
 
 
-### IV. Blog & Community
+## IV. Blog & Community
 
 Personal Blog
 
@@ -521,7 +372,7 @@ Social
 
 
 
-### V. Others
+## V. Others
 
 Knowledge Summary
 

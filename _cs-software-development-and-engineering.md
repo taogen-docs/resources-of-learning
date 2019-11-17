@@ -5,6 +5,7 @@ Content
 - Design Patterns
 - Architecture Design
 - Code
+- Test
 - Software Engineering
 - Team & Agile
 - Career
@@ -106,19 +107,19 @@ Refactoring
 - Refactoring to Patterns by Joshua Kerievsky
 - Working Effectively with Legacy Code by Michael C. Feathers
 
-Test (TDD)
+Others
+
+- Release It!: Design and Deploy Production-Ready Software by Michael T. Nygard
+- Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation by Jez Humble
+
+## Test
 
 - Test Driven Development: By Example (2002) by  Kent Beck 
 - Growing Object-Oriented Software, Guided by Tests by Steve Freeman
 - Effective Unit Testing by Lasse Koskela
 - xUnit Test Patterns: Refactoring Test Code by Gerard Meszaros
 - The RSpec Book by David Chelimsky
-- 	The Art of Unit Testing: With Examples in .NET by Roy Osherove
-
-Others
-
-- Release It!: Design and Deploy Production-Ready Software by Michael T. Nygard
-- Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation by Jez Humble
+- The Art of Unit Testing: With Examples in .NET by Roy Osherove
 
 ## Software Engineering
 
@@ -190,9 +191,15 @@ Some More
 
 ## DevOps
 
+Jenkins
+
 - Jenkins 2: Up and Running: Evolve Your Deployment Pipeline for Next Generation Automation by Brent Laster
 - Jenkins: The Definitive Guide by John Smart
 - Learning Continuous Integration with Jenkins by Nikhil Pathania
+
+Container
+
+- Docker in Action
 - Continuous Delivery with Docker and Jenkins by Rafal Leszko
 - Kubernetes in Action by Marko Luksa
 

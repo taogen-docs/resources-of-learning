@@ -3,7 +3,7 @@
 Content
 
 - Web Development
-- Database Systems
+- Database Systems and Data Storage
 - Cryptography
 - Information Security
 - Graphics and Visualization
@@ -16,7 +16,7 @@ Content
 - Cloud Computing
 
 
-## Database Systems
+## Database Systems and Data Storage
 
 Must Read
 
@@ -115,6 +115,11 @@ Tutorials
 - [Oracle Live SQL](https://livesql.oracle.com/apex/livesql/file/index.html) - It allows you to run Oracle code and queries in an actual database, via a web interface. It's hooked up to our documentation libraries
 - [Ask Tom](http://asktom.oracle.com/)
 - [PL/SQL Challenge](http://plsqlchallenge.oracle.com/) - A website offering new quizzes each week on SQL, PL/SQL, Database Design, Application Express and Logic. Test your knowledge against others, and also access a library of over 1400 past quizzes on which to practice.
+
+### Redis
+
+- Redis in Action by Josiah L. Carlson 
+- Redis设计与实现 by 黄健宏 
 
 
 
