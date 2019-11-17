@@ -72,6 +72,51 @@ Optimization
 - MySQL性能调优与架构设计 by 简朝阳 
 - Relational Database Index Design and the Optimizers by Tapio Lahdenmaki (数据库索引设计与优化)
 
+### Oracle
+
+Prime
+
+- Beginning Oracle SQL for Oracle Database 18c: From Novice to Professional by Ben Brumm
+- [Oracle Database 12c Release 2 - doc](https://docs.oracle.com/en/database/oracle/oracle-database/12.2/index.html)
+- Oracle Essentials: Oracle Database 12c by Jonathan P. Stern, Rick Greenwald, and Robert Stackowiak
+- OCA Oracle Database SQL Exam Guide (Exam 1Z0-071) by Steve O'Hearn
+- OCA Oracle Database 12c SQL Fundamentals I Exam Guide by Roopesh Ramklass
+- Oracle Database 12c: The Complete Reference by Bob Bryla and Kevin Loney
+
+
+PL/SQL
+
+- **Oracle PL/SQL Programming** by Steven Feuerstein, Bill Pribyl
+- Oracle Database 12c Pl/SQL Advanced Programming Techniques by Michael McLaughlin, John M. Harper
+- Mastering Oracle SQL by Alan Beaulieu and Mishra Sanjay
+- Murach's Oracle SQL and PL/SQL for Developers by Joel Murach
+- Oracle Database 12c Pl/SQL Programming by Michael McLaughlin
+- Oracle PL/SQL Best Practices by Steven Feuerstein
+
+Administer
+
+- Beginning Oracle Database 12c Administration: From Novice to Professional by Ignatius Fernandez
+- Oracle DBA Mentor: Succeeding as an Oracle Database Administrator by Brian Peasland
+- [Database 2 Day DBA](https://docs.oracle.com/database/121/ADMQS/toc.htm)
+
+Advanced
+
+- OCA/OCP Oracle Database 12c All‑in‑One Exam Guide by Bob Bryla, John Watson, and Roopesh Ramklass
+- Effective Oracle by design by Thomas Kyte
+- Expert one-on-one Oracle by Thomas Kyte
+- Troubleshooting Oracle Performance by Christian Antognini
+- Expert Oracle Database Architecture by Thomas Kyte
+- **Oracle Database 11g Release 2 Performance Tuning Tips & Techniques** by Richard Niemiec
+- Optimizing Oracle Performance: A Practitioner's Guide to Optimizing Response Time (2003) by Cary Millsap, Jeff Holt
+- Oracle High Availability, Disaster Recovery, and Cloud Services: Explore RAC, Data Guard, and Cloud Technology by Ravi Kumar 
+
+Tutorials
+
+- [Oracle Live SQL](https://livesql.oracle.com/apex/livesql/file/index.html) - It allows you to run Oracle code and queries in an actual database, via a web interface. It's hooked up to our documentation libraries
+- [Ask Tom](http://asktom.oracle.com/)
+- [PL/SQL Challenge](http://plsqlchallenge.oracle.com/) - A website offering new quizzes each week on SQL, PL/SQL, Database Design, Application Express and Logic. Test your knowledge against others, and also access a library of over 1400 past quizzes on which to practice.
+
+
 
 ## Cryptography
 
