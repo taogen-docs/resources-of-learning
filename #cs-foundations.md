@@ -45,12 +45,16 @@ ACM竞赛必读书之一，几乎包含了所有计算机科学里涉及到的�
 [More Mathematics](math-resources.md)
 
 <h2><a name="info_title" href="#info_content">Information Theory</a></h2>
+Must Read
+
 - The Information: A History, a Theory, a Flood (2003) by James Gleick, Rob Shapiro
 - Information Theory: A Tutorial Introduction (2015) by James V. Stone
 - Elements of Information Theory (2nd, 2006) by Thomas M. Cover and Joy A. Thomas
 - Network Information Theory by (2012) by El Gamal, Abbas and Young-Han Kim
 
 <h2><a name="pdesign_title" href="#pdesign_content">C Language and Program Design</a></h2>
+Must Read
+
 - **The C Programming Language** (2nd, 1988) by Brian W. Kernighan, Denis M. Ritchie (**TCPL**)
 - Pointers on C (1997) by Kenneth A·Reek 
 - Expert C Programming: Deep C Secrets (1994) by Peter van der Linden 
