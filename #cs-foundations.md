@@ -17,6 +17,8 @@ Content
 - <a name="nonturinglang_content" href="#nonturinglang_title">Non-Turing-Complete Languages</a>
 
 <h2><a name="intro_title" href="#intro_content">Introduction to Computer Science</a></h2>
+<br>
+
 Books
 
 - Computer Science: An Overview (13th, 2018) by Glenn Brookshear and Dennis Brylow
@@ -27,6 +29,8 @@ Courses
 - CS50's Computer Science for Business Professionals - [edx, Harvard](https://www.edx.org/course/cs50s-computer-science-business-harvardx-cs50b)
 
 <h2><a name="cmath_title" href="#cmath_content">Computer Mathematics</a></h2>
+<br>
+
 Prime
 
 - **Discrete mathematics and its applications** (7th, 2011) by Kenneth H·Rosen 
@@ -45,6 +49,8 @@ ACM竞赛必读书之一，几乎包含了所有计算机科学里涉及到的�
 [More Mathematics](math-resources.md)
 
 <h2><a name="info_title" href="#info_content">Information Theory</a></h2>
+<br>
+
 Must Read
 
 - The Information: A History, a Theory, a Flood (2003) by James Gleick, Rob Shapiro
@@ -53,6 +59,8 @@ Must Read
 - Network Information Theory by (2012) by El Gamal, Abbas and Young-Han Kim
 
 <h2><a name="pdesign_title" href="#pdesign_content">C Language and Program Design</a></h2>
+<br>
+
 Must Read
 
 - **The C Programming Language** (2nd, 1988) by Brian W. Kernighan, Denis M. Ritchie (**TCPL**)
@@ -62,6 +70,8 @@ Must Read
 - Expert C Programming: Deep C Secrets by Peter van der Linden
 
 <h2><a name="dsa_title" href="#dsa_content">Data Structures and Algorithms</a></h2>
+<br>
+
 Prime
 
 - **Algorithms** (4th, 2011) by Robert Sedgewick
@@ -103,6 +113,8 @@ Tutorials
 - [geeks for geeks](https://www.geeksforgeeks.org/)
 
 <h2><a name="arch_title" href="#arch_content">Computer Architecture</a></h2>
+<br>
+
 Prime
 
 - Code: The Hidden Language of Computer Hardware and Software (1999) by Charles Petzold
@@ -142,6 +154,9 @@ Courses
 - Build a Modern Computer from First Principles: Nand to Tetris Part II - [Coursera](https://www.coursera.org/learn/nand2tetris2)
 
 <h2><a name="compiler_title" href="#compiler_content">Compiler</a></h2>
+
+<br>
+
 Prime
 
 - How to Design Programs: An Introduction to Programming and Computing (2018) by Matthias Felleisen
@@ -165,6 +180,8 @@ Some More
 - Language Implementation Patterns: Techniques for Implementing Domain-Specific Languages by Terence Parr
 
 <h2><a name="os_title" href="#os_content">Operating System</a></h2>
+<br>
+
 Must Read 
 
 - Operating Systems: Three Easy Pieces (2015) by Andrea C. Arpaci-Dusseau and Remzi H. Arpaci-Dusseau
@@ -252,6 +269,8 @@ Windows Programming
 
 
 <h2><a name="net_title" href="#net_content">Computer Network</a></h2>
+<br>
+
 Must Read
 
 - **Computer Networking: A Top Down Approach** (7th, 2016) by Kurose, Ross  
@@ -299,6 +318,8 @@ Garbage Collection
 
 
 <h2><a name="lang_title" href="#lang_content">Programming Languages</a></h2>
+<br>
+
 ### C++
 
 Must Read
@@ -467,6 +488,8 @@ Tutorials
 - [awesome-go - GitHub](https://github.com/avelino/awesome-go)
 
 <h2><a name="nonturinglang_title" href="#nonturinglang_content">Non-Turing-Complete Languages</a></h2>
+<br>
+
 ### SQL
 
 Reference [CS Advanced Domains Resources - Database Systems](_cs-advanced-domains-resources.md)
@@ -493,7 +516,7 @@ Reference [Web Frontend Resources - HTML & CSS](web-frontend-resources.md)
 
 
 
-### References
+## References
 
 [1] [Essential Programming Books - Goodreads](https://www.goodreads.com/list/show/542.Essential_Programming_Books)
 
