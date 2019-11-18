@@ -1,6 +1,6 @@
 # Web Frontend Resources
 
-### HTML & CSS
+## HTML & CSS
 
 - Head First HTML and CSS by Elisabeth Freeman and Eric Freeman
 - HTML & CSS: Design and Build Web Sites by Jon Duckett
@@ -53,9 +53,9 @@ Web Design
 - The Future of the Internet--And How to Stop It by Jonathan L. Zittrain
 - Bulletproof Web Design: Improving flexibility and protecting against worst-case scenarios with XHTML and CSS by Dan Cederholm
 
-### JavaScript
+## JavaScript
 
-### Prime
+Prime
 
 - DOM Scripting: Web Design with JavaScript and the Document Object Model by Jeremy Keith
 - **JavaScript: The Definitive Guide** by David Flanagan
