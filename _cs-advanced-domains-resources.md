@@ -3,21 +3,19 @@
 Content
 
 - Web Development
-- Database Systems and Data Storage
-- Cryptography
-- Information Security
-- Graphics and Visualization
+- <a name="dbms_content" href="#dbms_title">Database Systems and Data Storage</a>
+- <a name="crypt_content" href="#crypt_title">Cryptography</a>
+- <a name="infosec_content" href="#infosec_title">Information Security</a>
+- <a name="graph_content" href="#graph_title">Graphics and Visualization</a>
 - Multimedia
 - Information Retrieval
 - Data Mining
-- Artificial Intelligence
+- <a name="ai_content" href="#ai_title">Artificial Intelligence</a>
 - Embedded System
-- Distributed System
+- <a name="distsys_content" href="#distsys_title">Distributed System</a>
 - Cloud Computing
 
-
-## Database Systems and Data Storage
-
+<h2><a name="dbms_title" href="#dbms_content">Database Systems and Data Storage</a></h2>
 Must Read
 
 - **Database System Concepts** (6th, 2010) by Sudarshan, Korth
@@ -123,23 +121,27 @@ Tutorials
 
 
 
-## Cryptography
-
+<h2><a name="crypt_title" href="#crypt_content">Cryptography</a></h2>
 Reference [Information Security Resources - Cryptography](information-security-resources.md)
 
 
 
-## Information Security
-
+<h2><a name="infosec_title" href="#infosec_content">Information Security</a></h2>
 Reference [Information Security Resources](information-security-resources.md)
 
-## Computer Graphics
+
+
+<h2><a name="graph_title" href="#graph_content">Computer Graphics</a></h2>
+Must Read
+
 
 - Interactive Computer Graphics: A Top-Down Approach with WebGL (7th, 2014) by Edward Angel and Dave Shreiner
 - Mathematics for 3D Game Programming and Computer Graphics (3rd, 2011) by Eric Lengyel
 - Computer Graphics: Principles and Practice (3rd, 2013) by John F. Hughes, van Dam, Andries
 
-## Artificial Intelligence
+<h2><a name="ai_title" href="#ai_content">Artificial Intelligence</a></h2>
+Must Read
+
 
 - Artificial Intelligence: A Modern Approach by Stuart Russell, Peter Norvig
 - Machine Learning by Tom M. Mitchell
@@ -158,7 +160,10 @@ Reference [Information Security Resources](information-security-resources.md)
 - Deep Learning with Python by Francois Chollet
 - The Elements of Statistical Learning: Data Mining, Inference, and Prediction by Trevor Hastie
 
-## Distributed Systems
+<h2><a name="distsys_title" href="#distsys_content">Distributed Systems</a></h2>
+
+Must Read
+
 
 - Designing Data-Intensive Applications by Martin Kleppmann 
 - Distributed Systems For Fun and Profit by Mikito Takada
@@ -196,39 +201,13 @@ More Resources
 
 ### Distributed Manage & Integrate
 
-> Dubbo, Apache Zookeeper, Nagios, Zabbix, Consul, Paxos, Raft, Apache Curator
-
 - 从PAXOS到ZOOKEEPER分布式一致性原理与实践 by 倪超 
-
-### Server Load Balance
-
-> HAproxy, nginx, Squid, Keepalived
 
 ### Distributed Message
 
-> ActiveMQ, RabbitMQ, Kafka
-
 - Java Message Service by Mark Richards / Richard Monson-Haefel / David A. Chappell 
 
-### Distributed Cache
 
-> Memecached, Redis, Ehcache
-
-### Distributed Databases
-
-> Redis, Bigtable, HBase, Cassandra
-
-### Search Enginne
-
-> Lucene, Solr, Elasticsearch
-
-### Distributed File System
-
-> FastDFS, HDFS
-
-### Cloud Computing
-
-> MapReduce, Hadoop, Spark, Strom, TensorFlow, Mesos
 
 
 
