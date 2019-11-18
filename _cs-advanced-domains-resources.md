@@ -15,7 +15,11 @@ Content
 - <a name="distsys_content" href="#distsys_title">Distributed System</a>
 - Cloud Computing
 
+<br>
+
 <h2><a name="dbms_title" href="#dbms_content">Database Systems and Data Storage</a></h2>
+<br>
+
 Must Read
 
 - **Database System Concepts** (6th, 2010) by Sudarshan, Korth
@@ -117,23 +121,26 @@ Tutorials
 - Redis in Action by Josiah L. Carlson 
 - Redis设计与实现 by 黄健宏 
 
-
+<br>
 
 <h2><a name="crypt_title" href="#crypt_content">Cryptography</a></h2>
 <br>
 
 Reference [Information Security Resources - Cryptography](information-security-resources.md)
 
-
+<br>
 
 <h2><a name="infosec_title" href="#infosec_content">Information Security</a></h2>
 <br>
 
 Reference [Information Security Resources](information-security-resources.md)
 
-
+<br>
 
 <h2><a name="graph_title" href="#graph_content">Computer Graphics</a></h2>
+
+<br>
+
 Must Read
 
 
@@ -141,7 +148,11 @@ Must Read
 - Mathematics for 3D Game Programming and Computer Graphics (3rd, 2011) by Eric Lengyel
 - Computer Graphics: Principles and Practice (3rd, 2013) by John F. Hughes, van Dam, Andries
 
+<br>
+
 <h2><a name="ai_title" href="#ai_content">Artificial Intelligence</a></h2>
+<br>
+
 Must Read
 
 
@@ -162,7 +173,11 @@ Must Read
 - Deep Learning with Python by Francois Chollet
 - The Elements of Statistical Learning: Data Mining, Inference, and Prediction by Trevor Hastie
 
+<br>
+
 <h2><a name="distsys_title" href="#distsys_content">Distributed Systems</a></h2>
+<br>
+
 Must Read
 
 
@@ -210,7 +225,7 @@ More Resources
 
 
 
-
+<br>
 
 ## References
 
