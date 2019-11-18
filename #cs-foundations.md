@@ -4,20 +4,19 @@
 
 Content
 
-- Introduction to Computer Science
-- Computer Mathematics
-- Information Theory
-- C Language and Program Design
-- Data Structures and Algorithms
-- Computer Architecture
-- Compiler
-- Operating System
-- Computer Network
-- Programming Languages
-- Non-Turing-Complete Languages
+- <a name="intro_content" href="#intro_title">Introduction to Computer Science</a>
+- <a name="cmath_content" href="#cmath_title">Computer Mathematics</a>
+- <a name="info_content" href="#info_title">Information Theory</a>
+- <a name="pdesign_content" href="#pdesign_title">C Language and Program Design</a>
+- <a name="dsa_content" href="#dsa_title">Data Structures and Algorithms</a>
+- <a name="arch_content" href="#arch_title">Computer Architecture</a>
+- <a name="compiler_content" href="#compiler_title">Compiler</a>
+- <a name="os_content" href="#os_title">Operating System</a>
+- <a name="net_content" href="#net_title">Computer Network</a>
+- <a name="lang_content" href="#lang_title">Programming Languages</a>
+- <a name="nonturinglang_content" href="#nonturinglang_title">Non-Turing-Complete Languages</a>
 
-## Introduction to Computer Science
-
+<h2><a name="intro_title" href="#intro_content">Introduction to Computer Science</a></h2>
 Books
 
 - Computer Science: An Overview (13th, 2018) by Glenn Brookshear and Dennis Brylow
@@ -27,8 +26,7 @@ Courses
 - Crash Course Computer Science. Watching on [YouTube](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) or [Bilibili](https://www.bilibili.com/video/av21376839)
 - CS50's Computer Science for Business Professionals - [edx, Harvard](https://www.edx.org/course/cs50s-computer-science-business-harvardx-cs50b)
 
-## Computer Mathematics
-
+<h2><a name="cmath_title" href="#cmath_content">Computer Mathematics</a></h2>
 Prime
 
 - **Discrete mathematics and its applications** (7th, 2011) by Kenneth H·Rosen 
@@ -46,23 +44,20 @@ ACM竞赛必读书之一，几乎包含了所有计算机科学里涉及到的�
 
 [More Mathematics](math-resources.md)
 
-## Information Theory
-
+<h2><a name="info_title" href="#info_content">Information Theory</a></h2>
 - The Information: A History, a Theory, a Flood (2003) by James Gleick, Rob Shapiro
 - Information Theory: A Tutorial Introduction (2015) by James V. Stone
 - Elements of Information Theory (2nd, 2006) by Thomas M. Cover and Joy A. Thomas
 - Network Information Theory by (2012) by El Gamal, Abbas and Young-Han Kim
 
-## C Language and Program Design
-
+<h2><a name="pdesign_title" href="#pdesign_content">C Language and Program Design</a></h2>
 - **The C Programming Language** (2nd, 1988) by Brian W. Kernighan, Denis M. Ritchie (**TCPL**)
 - Pointers on C (1997) by Kenneth A·Reek 
 - Expert C Programming: Deep C Secrets (1994) by Peter van der Linden 
 - C Traps and Pitfalls (1989) by Andrew Koenig
 - Expert C Programming: Deep C Secrets by Peter van der Linden
 
-## Data Structures and Algorithms
-
+<h2><a name="dsa_title" href="#dsa_content">Data Structures and Algorithms</a></h2>
 Prime
 
 - **Algorithms** (4th, 2011) by Robert Sedgewick
@@ -103,8 +98,7 @@ Tutorials
 - [Techie Delight](https://www.techiedelight.com/)
 - [geeks for geeks](https://www.geeksforgeeks.org/)
 
-## Computer Architecture
-
+<h2><a name="arch_title" href="#arch_content">Computer Architecture</a></h2>
 Prime
 
 - Code: The Hidden Language of Computer Hardware and Software (1999) by Charles Petzold
@@ -143,8 +137,7 @@ Courses
 - Build a Modern Computer from First Principles: From Nand to Tetris - [Coursera](https://www.coursera.org/learn/build-a-computer)
 - Build a Modern Computer from First Principles: Nand to Tetris Part II - [Coursera](https://www.coursera.org/learn/nand2tetris2)
 
-## Compiler
-
+<h2><a name="compiler_title" href="#compiler_content">Compiler</a></h2>
 Prime
 
 - How to Design Programs: An Introduction to Programming and Computing (2018) by Matthias Felleisen
@@ -167,8 +160,7 @@ Some More
 - Concepts, Techniques, and Models of Computer Programming by Peter Van Roy, Seif Haridi
 - Language Implementation Patterns: Techniques for Implementing Domain-Specific Languages by Terence Parr
 
-## Operating System
-
+<h2><a name="os_title" href="#os_content">Operating System</a></h2>
 Must Read 
 
 - Operating Systems: Three Easy Pieces (2015) by Andrea C. Arpaci-Dusseau and Remzi H. Arpaci-Dusseau
@@ -255,8 +247,7 @@ Windows Programming
 
 
 
-## Computer Network
-
+<h2><a name="net_title" href="#net_content">Computer Network</a></h2>
 Must Read
 
 - **Computer Networking: A Top Down Approach** (7th, 2016) by Kurose, Ross  
@@ -303,8 +294,7 @@ Garbage Collection
 
 
 
-## Programming Languages
-
+<h2><a name="lang_title" href="#lang_content">Programming Languages</a></h2>
 ### C++
 
 Must Read
@@ -472,8 +462,7 @@ Tutorials
 - [gotraining - GitHub](https://github.com/ardanlabs/gotraining/tree/master/topics/go)
 - [awesome-go - GitHub](https://github.com/avelino/awesome-go)
 
-## Non-Turing-Complete Languages
-
+<h2><a name="nonturinglang_title" href="#nonturinglang_content">Non-Turing-Complete Languages</a></h2>
 ### SQL
 
 Reference [CS Advanced Domains Resources - Database Systems](_cs-advanced-domains-resources.md)
