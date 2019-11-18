@@ -16,6 +16,8 @@ Content
 - <a name="lang_content" href="#lang_title">Programming Languages</a>
 - <a name="nonturinglang_content" href="#nonturinglang_title">Non-Turing-Complete Languages</a>
 
+<br>
+
 <h2><a name="intro_title" href="#intro_content">Introduction to Computer Science</a></h2>
 <br>
 
@@ -27,6 +29,8 @@ Courses
 
 - Crash Course Computer Science. Watching on [YouTube](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) or [Bilibili](https://www.bilibili.com/video/av21376839)
 - CS50's Computer Science for Business Professionals - [edx, Harvard](https://www.edx.org/course/cs50s-computer-science-business-harvardx-cs50b)
+
+<br>
 
 <h2><a name="cmath_title" href="#cmath_content">Computer Mathematics</a></h2>
 <br>
@@ -48,6 +52,10 @@ ACM竞赛必读书之一，几乎包含了所有计算机科学里涉及到的�
 
 [More Mathematics](math-resources.md)
 
+
+
+<br>
+
 <h2><a name="info_title" href="#info_content">Information Theory</a></h2>
 <br>
 
@@ -57,6 +65,8 @@ Must Read
 - Information Theory: A Tutorial Introduction (2015) by James V. Stone
 - Elements of Information Theory (2nd, 2006) by Thomas M. Cover and Joy A. Thomas
 - Network Information Theory by (2012) by El Gamal, Abbas and Young-Han Kim
+
+<br>
 
 <h2><a name="pdesign_title" href="#pdesign_content">C Language and Program Design</a></h2>
 <br>
@@ -68,6 +78,8 @@ Must Read
 - Expert C Programming: Deep C Secrets (1994) by Peter van der Linden 
 - C Traps and Pitfalls (1989) by Andrew Koenig
 - Expert C Programming: Deep C Secrets by Peter van der Linden
+
+<br>
 
 <h2><a name="dsa_title" href="#dsa_content">Data Structures and Algorithms</a></h2>
 <br>
@@ -112,6 +124,8 @@ Tutorials
 - [Techie Delight](https://www.techiedelight.com/)
 - [geeks for geeks](https://www.geeksforgeeks.org/)
 
+<br>
+
 <h2><a name="arch_title" href="#arch_content">Computer Architecture</a></h2>
 <br>
 
@@ -153,6 +167,8 @@ Courses
 - Build a Modern Computer from First Principles: From Nand to Tetris - [Coursera](https://www.coursera.org/learn/build-a-computer)
 - Build a Modern Computer from First Principles: Nand to Tetris Part II - [Coursera](https://www.coursera.org/learn/nand2tetris2)
 
+<br>
+
 <h2><a name="compiler_title" href="#compiler_content">Compiler</a></h2>
 
 <br>
@@ -178,6 +194,8 @@ Some More
 - 程序员的自我修养 (2009) by 俞甲子, 石凡, 潘爱民 
 - Concepts, Techniques, and Models of Computer Programming by Peter Van Roy, Seif Haridi
 - Language Implementation Patterns: Techniques for Implementing Domain-Specific Languages by Terence Parr
+
+<br>
 
 <h2><a name="os_title" href="#os_content">Operating System</a></h2>
 <br>
@@ -266,7 +284,7 @@ Windows Programming
 - Programming Windows (5th, 1998) by Charles Petzold 
 - Programming Applications for Microsoft Windows (1999) by Jeffrey Richter 
 
-
+<br>
 
 <h2><a name="net_title" href="#net_content">Computer Network</a></h2>
 <br>
@@ -295,9 +313,11 @@ For programming
 - **Unix Network Programming Vol 1** (3rd, 2003) Sockets API - Richard Stevens
 - **Unix Network Programming Vol 2** (2nd, 1998) Inter process Communication - Richard Stevens
 
-
+<br>
 
 ## Programming
+
+<br>
 
 Functional Programming
 
@@ -314,7 +334,7 @@ Garbage Collection
 - The Garbage Collection Handbook by Richard Jones, Eliot Moss, Antony Hosking 
 - 垃圾回收的算法与实现 by 中村成洋, 相川光 
 
-
+<br>
 
 
 <h2><a name="lang_title" href="#lang_content">Programming Languages</a></h2>
@@ -486,6 +506,8 @@ Tutorials
 - [Go by Example](https://gobyexample.com/)
 - [gotraining - GitHub](https://github.com/ardanlabs/gotraining/tree/master/topics/go)
 - [awesome-go - GitHub](https://github.com/avelino/awesome-go)
+
+<br>
 
 <h2><a name="nonturinglang_title" href="#nonturinglang_content">Non-Turing-Complete Languages</a></h2>
 <br>
