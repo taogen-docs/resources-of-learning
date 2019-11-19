@@ -367,7 +367,46 @@ Courses
 - C++ 内存管理机制 by 侯捷
 - C++ Startup 揭秘 by 侯捷
 
+### Go
 
+Books
+
+- The Go Programming Language by Alan A. A. Donovan and Brian W. Kernighan
+- An Introduction to Programming in Go by Caleb Doxsey
+- Go Web Programming by Chang Sau Sheong
+- Introducing Go: Build Reliable, Scalable Programs by Caleb Doxsey
+- Concurrency in Go: Tools and Techniques for Developers by Katherine Cox-Buday
+- Go Programming Blueprints by Mat Ryer
+- Go in Action by William Kennedy, Brian Ketelsen
+- Go in Practice by Matt Butcher
+
+Docs
+
+- [Go Documentation](https://golang.org/doc/)
+
+Tutorials
+
+- [go dev](https://go.dev/)
+- [Go Tutorial - tutorialspoint](https://www.tutorialspoint.com/go/)
+- [Go by Example](https://gobyexample.com/)
+- [gotraining - GitHub](https://github.com/ardanlabs/gotraining/tree/master/topics/go)
+- [awesome-go - GitHub](https://github.com/avelino/awesome-go)
+
+### Rust
+
+- The Rust Programming Language by Carol Nichols and Steve Klabnik
+- Programming Rust: Fast, Safe Systems Development by Jason Orendorff and Jim Blandy
+- Hands-On Concurrency with Rust: Confidently Build Memory-Safe, Parallel, and Efficient Software in Rust by Brian L Troutwine
+- Programming WebAssembly with Rust: Unified Development for Web, Mobile, and Embedded Applications by Kevin Hoffman
+- Rust Programming By Example: Enter the World of Rust by Building Engaging, Concurrent, Reactive, and Robust Applications by Antoni Boucher and Guillaume Gomez
+
+### Lua
+
+- Programming in Lua by Roberto Ierusalimschy
+- Lua Programming Gems by Luiz Henrique de Figueiredo, Waldemar Celes, Roberto Ierusalimschy
+- Beginning Lua programming by Kurt Jung
+- Lua Quick Start Guide: The Easiest Way to Learn Lua Programming by Gabor Szauer
+- Lua 5.2 Reference Manual by Luiz Henrique de Figueiredo, Roberto Ierusalimschy, and Waldemar Celes
 
 ### C#
 
@@ -380,8 +419,6 @@ Courses
 - Effective C#: 50 Specific Ways to Improve Your C# (3rd, 2016) by Bill Wagner
 - More Effective C#: 50 Specific Ways to Improve Your C# (2nd, 2017)by Bill Wagner
 
-
-
 ### JavaScript
 
 Reference [Web Frontend Resources - JavaScript](web-frontend-resources.md)
@@ -391,31 +428,29 @@ Reference [Web Frontend Resources - JavaScript](web-frontend-resources.md)
 
 Reference [Java Resources](java-resources.md)
 
-
-
 ### Ruby
 
-- Programming Ruby: The Pragmatic Programmers' Guide by Dave Thomas
+- The Well-Grounded Rubyist by David A. Black
+- Programming Ruby: The Pragmatic Programmers' Guide by Dave Thomas, Chad Fowler, and Andy Hunt
+- Eloquent Ruby by Russ Olsen
+- Why's (Poignant) Guide to Ruby by Why The Lucky Stiff
+- The Ruby Programming Language by David Flanagan, Yukihiro Matsumoto, Why The Lucky Stiff
 - The Rails Way by Obie Fernandez
 - Agile Web Development with Rails: A Pragmatic Guide by Dave Thomas
 - Practical Object Oriented Design in Ruby by Sandi Metz
 
+### PHP
 
-
-### Haskell
-
-- Real World Haskell: Code You Can Believe In by Bryan O'Sullivan
-- Learn You a Haskell for Great Good!: A Beginner's Guide by Miran Lipovača
-- Haskell: The Craft of Functional Programming by Simon Thompson
-
-
-
-### Perl
-
-- Learning Perl by Randal L. Schwartz
-- Programming Perl by Tom Christiansen
-
-
+- Learning PHP, MySQL, JavaScript, CSS & HTML5: A Step-by-Step Guide to Creating Dynamic Websites by Robin Nixon
+- Head First PHP and MySQL by Lynn Beighley and Michael Morrison
+- PHP and MySQL Web Development by Luke Welling
+- Modern PHP: New Features and Good Practices by Josh Lockhart
+- Murach's PHP and MySQL by Joel Murach and Ray Harris
+- PHP Cookbook by Adam Trachtenberg and David Sklar
+- Programming PHP by Rasmus Lerdorf, Kevin Tatroe, Peter MacIntyre
+- PHP Objects, Patterns, and Practice by Matt Zandstra
+- PHP for the Web: Visual QuickStart Guide by Larry Ullman
+- PHP 6 and MySQL 5 for Dynamic Web Sites: Visual Quickpro Guide by Larry Ullman
 
 ### Python
 
@@ -462,49 +497,76 @@ Tutorials
 - [Full Stack Python](https://www.fullstackpython.com/)
 
 
+### Kotlin
+
+- Kotlin in Action by Dmitry Jemerov and Svetlana Isakova
+- The Joy of Kotlin by Pierre Yves Saumont
+- Kotlin for Android Developers by Antonio Leiva
+- Head First Kotlin: A Brain-Friendly Guide by David Griffiths and Dawn Griffiths
+- Fundamental Kotlin by Miloš Vasić
+
+### Objective-C
+
+- Programming in Objective-C by Stephen G. Kochan
+- Objective-C Programming: The Big Nerd Ranch Guide by Aaron Hillegass and Mikey Ward
+- Effective Objective-C 2.0: 52 Specific Ways to Improve Your IOS and OS X Programs by Matt Galloway
+- iOS Programming: The Big Nerd Ranch Guide by Aaron Hillegass and Joe Conway
+- Learning Cocoa with Objective-C: Developing for the Mac and IOS App Stores by Jon Manning and Paris Buttfield-Addison
+- Learn Objective-C on the Mac by Mark Dalrymple, Scott Knaster
+
+### Swift
+
+- Swift in Depth by Tjeerd in 't Veen
+- IOS 12 Programming for Beginners: An Introductory Guide to IOS App Development with Swift 4.2 and Xcode 10 (3rd, 2018) by Craig Clayton
+- IOS 10 Programming Fundamentals with Swift: Swift, Xcode, and Cocoa Basics by Matt Neuburg
+- Swift 5 for Absolute Beginners: Learn to Develop Apps for iOS by Stefan Kaczmarek, Brad Lees, Gary Bennett
 
 ### Lisp
 
+- Practical Common Lisp by Peter Seibel
+- Paradigms of AI Programming: Case Studies in Common Lisp by Peter Norvig
+- Common LISP: A Gentle Introduction to Symbolic Computation by David S. Touretzky
+- Structure and Interpretation of Computer Programs by Gerald Jay Sussman and Hal Abelson
+- On Lisp by Paul Graham
+- Land of Lisp: Learn to Program in Lisp, One Game at a Time! by Conrad Barski
+- Common Lisp the Language by Guy L. Steele Jr.
 - ANSI Common Lisp by Paul Graham
+- The Little Schemer by Daniel P. Friedman and Matthias Felleisen
 
 
+### Haskell
 
-### Kotlin
+- Real World Haskell: Code You Can Believe In by Bryan O'Sullivan
+- Programming in Haskell by Graham Hutton
+- Learn You a Haskell for Great Good! by Miran Lipovača
+- Parallel and Concurrent Programming in Haskell: Techniques for Multicore and Multithreaded Programming by Simon Marlow
+- Haskell Programming From First Principles by Christopher Allen, Julie Moronuki
+- Get Programming with Haskell by Will Kurt
+- Thinking Functionally with Haskell by Richard S. Bird
+- Learn You a Haskell for Great Good!: A Beginner's Guide by Miran Lipovača
+- Haskell: The Craft of Functional Programming by Simon Thompson
 
-- Fundamental Kotlin by Miloš Vasić
+### Perl
 
+- Learning Perl by Randal L. Schwartz
+- Beginning Perl by Curtis 'Ovid' Poe
+- Programming Perl by Tom Christiansen
+- Perl Cookbook by Tom Christiansen, Nathan Torkington
+- Modern Perl by chromatic
+- Intermediate Perl by Randal L. Schwartz, Brian D. Foy, Tom Phoenix
+- Perl Best Practices: Standards and Styles for Developing Maintainable Code by Damian Conway
+- Mastering Perl by Brian D. Foy
+- Higher-Order Perl: Transforming Programs with Programs by Mark Jason Dominus
+- Object Oriented Perl: A Comprehensive Guide to Concepts and Programming Techniques by Damian Conway, Randal L. Schwartz
 
+### Groovy
 
-### PHP
-
-- PHP and MySQL Web Development by Luke Welling
-
-
-
-### Go
-
-Books
-
-- The Go Programming Language by Alan A. A. Donovan and Brian W. Kernighan
-- An Introduction to Programming in Go by Caleb Doxsey
-- Go Web Programming by Chang Sau Sheong
-- Introducing Go: Build Reliable, Scalable Programs by Caleb Doxsey
-- Concurrency in Go: Tools and Techniques for Developers by Katherine Cox-Buday
-- Go Programming Blueprints by Mat Ryer
-- Go in Action by William Kennedy, Brian Ketelsen
-- Go in Practice by Matt Butcher
-
-Docs
-
-- [Go Documentation](https://golang.org/doc/)
-
-Tutorials
-
-- [go dev](https://go.dev/)
-- [Go Tutorial - tutorialspoint](https://www.tutorialspoint.com/go/)
-- [Go by Example](https://gobyexample.com/)
-- [gotraining - GitHub](https://github.com/ardanlabs/gotraining/tree/master/topics/go)
-- [awesome-go - GitHub](https://github.com/avelino/awesome-go)
+- Groovy in Action by Dierk König, Andrew Glover, Paul King, Guillaume Laforge, Jon Skeet, James Gosling
+- Programming Groovy 2: Dynamic Productivity for the Java Developer by Venkat Subramaniam
+- Making Java Groovy by Kenneth A. Kousen
+- Groovy 2 Cookbook by Andrey Adamovich and Luciano Fiandesio
+- Grails in Action by Glen Smith, Peter Ledbrook
+- The definitive guide to Grails by Graeme Keith Rocher
 
 <br>
 
