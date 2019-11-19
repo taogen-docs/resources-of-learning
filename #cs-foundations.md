@@ -77,7 +77,6 @@ Must Read
 - Pointers on C (1997) by Kenneth A·Reek 
 - Expert C Programming: Deep C Secrets (1994) by Peter van der Linden 
 - C Traps and Pitfalls (1989) by Andrew Koenig
-- Expert C Programming: Deep C Secrets by Peter van der Linden
 
 <br>
 
