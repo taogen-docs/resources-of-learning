@@ -14,6 +14,7 @@ Content
 - Embedded System
 - <a name="distsys_content" href="#distsys_title">Distributed System</a>
 - Cloud Computing
+- <a name="blockchain_content" href="#blockchain_title">Blockchain</a>
 
 <br>
 
@@ -138,7 +139,6 @@ Reference [Information Security Resources](information-security-resources.md)
 <br>
 
 <h2><a name="graph_title" href="#graph_content">Computer Graphics</a></h2>
-
 <br>
 
 Must Read
@@ -223,7 +223,34 @@ More Resources
 
 - Java Message Service by Mark Richards / Richard Monson-Haefel / David A. Chappell 
 
+<br>
 
+<h2><a name="blockchain_title" href="#blockchain_content">Blockchain</a></h2>
+<br>
+
+Must Read
+
+- The Internet of Money by Andreas M. Antonopoulos
+- Mastering Ethereum: Building Smart Contracts and Dapps by Andreas M Antonopoulos
+- Blockchain Basics: A Non-Technical Introduction in 25 Steps by Daniel Drescher
+- Blockchain Bubble or Revolution: The Present and Future of Blockchain and Cryptocurrencies by Neel Mehta
+- Blockchain: Blueprint for a New Economy by Melanie Swan
+- Ethereum: Blockchains, Digital Assets, Smart Contracts, Decentralized Autonomous Organizations by Henning Diedrich
+- The Business Blockchain: Promise, Practice, and Application of the Next Internet Technology by William Mougayar
+
+Bitcoin
+
+- Mastering Bitcoin: Unlocking Digital Cryptocurrencies by Andreas Antonopoulos
+- Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction by Arvind Narayanan
+- Programming Bitcoin: Learn How to Program Bitcoin from Scratch by Jimmy Song
+- Decentralized Applications: Harnessing Bitcoin's Blockchain Technology by Siraj Raval
+- Blockchain Revolution: How the Technology Behind Bitcoin Is Changing Money, Business, and the World by Don Tapscott
+- Attack of the 50 Foot Blockchain: Bitcoin, Blockchain, Ethereum & Smart Contracts by David Gerard
+- Cryptoassets: The Innovative Investor's Guide to Bitcoin and Beyond by Chris Burniske
+- The Book of Satoshi: The Collected Writings of Bitcoin Creator Satoshi Nakamoto by Phil Champagne
+- Digital Gold: Bitcoin and the Inside Story of the Misfits and Millionaires Trying to Reinvent Money by Nathaniel Popper
+- The End of Money: The story of bitcoin, cryptocurrencies and the blockchain revolution by New Scientist
+- The Age of Cryptocurrency: How Bitcoin and Digital Money Are Challenging the Global Economic Order by Paul Vigna
 
 <br>
 
@@ -232,3 +259,5 @@ More Resources
 [1] [Distributed Systems - GoodReads](https://www.goodreads.com/list/show/134830.Distributed_Systems)
 
 [2] [What is the best book on building distributed systems? - Quora](https://www.quora.com/What-is-the-best-book-on-building-distributed-systems)
+
+[3] [Blockchain and Related Technologies - Goodreads](https://www.goodreads.com/list/show/121555.Blockchain_and_Related_Technologies)
