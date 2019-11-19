@@ -33,6 +33,15 @@ Reference [Web Frontend Resources](web-frontend-resources.md)
 ### Web Performance
 
 - High Performance Browser Networking: What Every Web Developer Should Know about Networking and Web Performance by Ilya Grigorik
+- High Performance Web Sites by Steve Souders
+- Web Performance in Action by Jeremy Wagner
+- Every Computer Performance Book: How to Avoid and Solve Performance Problems on The Computers You Work With by Bob Wescott, Anna Macijeski
+- Designing for Performance: Weighing Aesthetics and Speed by Lara Hogan
+- High Performance Responsive Design by Tom Barker
+- Web Performance Tuning by Patrick Killelea
+- Web Animation Using JavaScript: Develop & Design by Julian Shapiro
+- The Web Testing Handbook by Steven Splaine, Stefan P. Jaskiel
+
 
 <br>
 
