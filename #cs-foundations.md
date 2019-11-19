@@ -291,25 +291,40 @@ Must Read
 
 - **Computer Networking: A Top Down Approach** (7th, 2016) by Kurose, Ross  
   Best for a beginner. You will fall in love with this book once you get hold of it :P. No prerequisites required. It is written marvelously for anyone to get interested in networking)
-- **Computer Networks** (5th, 2010) by Andrew S. Tanenbaum and David J. Wetherall 
-  Good but dry. Well formed contents, should have some basic understanding of data communications before reading this book)
-- **TCP/IP illustrated Vol 1** (1st, 1994) (2th, 2011) by Richard Stevens
+- Computer Networks (5th, 2010) by Andrew S. Tanenbaum and David J. Wetherall 
+  Good but dry. Well formed contents, should have some basic understanding of data communications before reading this book.
 
 Some More
 
 - Data Communications and Networking by Behrouz A. Forouzan
 - Computer Networks: A System Approach Larry L. Peterson and Bruce S. Davie
 - Data and Computer Communications by William Stallings
-- [RFC 2616 - Hypertext Transfer Protocol -- HTTP/1.1](https://www.w3.org/Protocols/rfc2616/rfc2616.html)
-- HTTP: The Definitive Guide (2002) by David Gourley,  Brian Totty, Marjorie Sayer, Anshu Aggarwal, Sailu Reddy
-- Learning Http/2: A Practical Guide for Beginners (2017) by Stephen Ludin,  Javier Garza
+
+For Packet Analysis
+
+- Practical Packet Analysis: Using Wireshark to Solve Real-World Network Problems by Chris Sanders
+- Wireshark 101: Essential Skills for Network Analysis by Gerald Combs, Laura Chappell
 - Wireshark 网络分析就这么简单 by 林沛满 
 - wireshark 网络分析的艺术 by 林沛满
 
-For programming
+For Programming
 
 - **Unix Network Programming Vol 1** (3rd, 2003) Sockets API - Richard Stevens
 - **Unix Network Programming Vol 2** (2nd, 1998) Inter process Communication - Richard Stevens
+
+### TCP/IP
+
+- **TCP/IP Illustrated: The Protocols, Vol. 1** (1st, 1994) (2th, 2011) by Richard Stevens
+- TCP/IP Illustrated: The Implementation, Vol. 2 by Richard Stevens
+- TCP/IP Illustrated: TCP for Transactions, HTTP, NNTP and the Unix Domain Protocols, Vol. 3 by Richard Stevens
+- The TCP/IP Guide: A Comprehensive, Illustrated Internet Protocols Reference by Charles Kozierok
+- Internetworking with TCP/IP Vol.1: Principles, Protocols, and Architecture by Douglas E. Comer
+
+### HTTP
+
+- [RFC 2616 - Hypertext Transfer Protocol -- HTTP/1.1](https://www.w3.org/Protocols/rfc2616/rfc2616.html)
+- HTTP: The Definitive Guide (2002) by David Gourley,  Brian Totty, Marjorie Sayer, Anshu Aggarwal, Sailu Reddy
+- Learning Http/2: A Practical Guide for Beginners (2017) by Stephen Ludin,  Javier Garza
 
 <br>
 
