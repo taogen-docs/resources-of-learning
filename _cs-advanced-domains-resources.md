@@ -18,6 +18,24 @@ Content
 
 <br>
 
+<h2><a name="webdev_title" href="#webdev_content">Web Development</a></h2>
+<br>
+
+Must Read
+
+- Oauth 2 in Action by Justin Richer
+- Bulletproof SSL and TLS: The Complete Guide to Deploying Secure Servers and Web Applications by Ivan Ristic
+
+### Web Frontend
+
+Reference [Web Frontend Resources](web-frontend-resources.md)
+
+### Web Performance
+
+- High Performance Browser Networking: What Every Web Developer Should Know about Networking and Web Performance by Ilya Grigorik
+
+<br>
+
 <h2><a name="dbms_title" href="#dbms_content">Database Systems and Data Storage</a></h2>
 <br>
 
