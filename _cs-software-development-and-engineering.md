@@ -43,6 +43,7 @@ Content
 - System Architecture: Strategy and Product Development for Complex Systems by ..
 - Just Enough Software Architecture: A Risk-Driven Approach by George Fairbanks 
 - Software Systems Architecture: Working With Stakeholders Using Viewpoints and Perspectives by Nick Rozanski / Eoin Woods 
+- Building Evolutionary Architectures: Support Constant Change by Neal Ford, Patrick Kua, and Rebecca Parsons
 
 ### Distributed System Architecture
 
