@@ -435,12 +435,12 @@ Tutorials
 
 ### JavaScript
 
-Reference [Web Frontend Resources - JavaScript](web-frontend-resources.md)
+Reference [Web Frontend Resources - JavaScript](directions/web-frontend-resources.md)
 
 
 ### Java
 
-Reference [Java Resources](java-resources.md)
+Reference [Java Resources](directions/java-resources.md)
 
 ### Ruby
 
@@ -603,14 +603,22 @@ Reference [CS Advanced Domains Resources - Database Systems](_cs-advanced-domain
 
 ### HTML & CSS
 
-Reference [Web Frontend Resources - HTML & CSS](web-frontend-resources.md)
+Reference [Web Frontend Resources - HTML & CSS](directions/web-frontend-resources.md)
 
 
 ### JSON
 
 ### YAML
 
+<br>
 
+## Others
+
+<br>
+
+- [hackr.io - Find the best online Programming Courses & Tutorials](https://hackr.io/)
+- [Exercism.io - Code practice and mentorship for everyone](https://exercism.io/)
+- [PDF Drive - Search and download PDF files for free.](https://www.pdfdrive.com/)
 
 <br>
 

@@ -148,6 +148,10 @@ Web Frameworks
 - **Spring 揭秘** (2009) by 王福强
 - Spring 3.x企业应用开发实战 by  陈雄华 
 
+Tutorials
+
+- [Baeldung - Java, Spring and Web Development Tutorials](https://www.baeldung.com/)
+
 Persistence Framework 
 
 - Java Persistence with Hibernate: Revised Edition of Hibernate in Action by Bauer, Christian
@@ -175,15 +179,15 @@ Persistence Framework
 
 ### Data Storage
 
-Reference [CS Advanced Domains Resources - Database Systems and Data Storage](_cs-advanced-domains-resources.md)
+Reference [CS Advanced Domains Resources - Database Systems and Data Storage](../_cs-advanced-domains-resources.md#dbms_title)
 
 ### DevOps & Test & Tools
 
-Reference [Software Development and Engineering](_cs-software-development-and-engineering.md)
+Reference [Software Development and Engineering](../_cs-software-development-and-engineering.md)
 
 ### Distributed System
 
-Reference [CS Advanced Domains Resources - Distributed Systems](_cs-advanced-domains-resources.md)
+Reference [CS Advanced Domains Resources - Distributed Systems](../_cs-advanced-domains-resources.md#distsys_title)
 
 
 

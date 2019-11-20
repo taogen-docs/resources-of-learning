@@ -28,7 +28,7 @@ Must Read
 
 ### Web Frontend
 
-Reference [Web Frontend Resources](web-frontend-resources.md)
+Reference [Web Frontend Resources](directions/web-frontend-resources.md)
 
 ### Web Performance
 
@@ -41,7 +41,6 @@ Reference [Web Frontend Resources](web-frontend-resources.md)
 - Web Performance Tuning by Patrick Killelea
 - Web Animation Using JavaScript: Develop & Design by Julian Shapiro
 - The Web Testing Handbook by Steven Splaine, Stefan P. Jaskiel
-
 
 <br>
 
@@ -154,14 +153,14 @@ Tutorials
 <h2><a name="crypt_title" href="#crypt_content">Cryptography</a></h2>
 <br>
 
-Reference [Information Security Resources - Cryptography](information-security-resources.md)
+Reference [Information Security Resources - Cryptography](directions/information-security-resources.md)
 
 <br>
 
 <h2><a name="infosec_title" href="#infosec_content">Information Security</a></h2>
 <br>
 
-Reference [Information Security Resources](information-security-resources.md)
+Reference [Information Security Resources](directions/information-security-resources.md)
 
 <br>
 
