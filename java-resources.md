@@ -173,7 +173,7 @@ Persistence Framework
 
 
 
-### Data Store
+### Data Storage
 
 Reference [CS Advanced Domains Resources - Database Systems and Data Storage](_cs-advanced-domains-resources.md)
 
