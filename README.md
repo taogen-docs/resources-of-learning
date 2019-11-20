@@ -12,9 +12,9 @@ General
 
 Directions
 
-- [Web Backend - Java Resources](java-resources.md)
-- [Web Frontend Resource](web-frontend-resources.md)
-- [Information Security Resources](information-security-resources.md)
+- [Web Backend - Java Resources](directions/java-resources.md)
+- [Web Frontend Resource](directions/web-frontend-resources.md)
+- [Information Security Resources](directions/information-security-resources.md)
 
 *Continuously updating. I hope it will help you!*
 
