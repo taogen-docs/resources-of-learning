@@ -61,6 +61,7 @@ Some More
 - Database Systems concepts, languages & architectures by Paolo Atzeni, Stefano Ceri, Stefano Paraboschi, Riccardo Torlone
 - Database Systems: A Practical Approach to Design, Implementation, and Management by Carolyn E. Begg and Thomas M. Connolly
 - Database Modeling and Design  by Toby J. Teorey
+- Beginning database design by Clare Churcher
 
 Courses
 
