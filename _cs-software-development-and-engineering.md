@@ -2,18 +2,21 @@
 
 Content
 
-- Design Patterns
-- Architecture Design
-- Code
-- Test
-- Software Engineering
-- Team & Agile
-- Career
-- DevOps
-- SRE
-- Development Tools
+- <a name="despat_c" href="#despat_t">Design Patterns</a>
+- <a name="archdes_c" href="#archdes_t">Architecture Design</a>
+- <a name="code_c" href="#code_t">Code</a>
+- <a name="test_c" href="#test_t">Test</a>
+- <a name="softeng_c" href="#softeng_t">Software Engineering</a>
+- <a name="agile_c" href="#agile_t">Team & Agile</a>
+- <a name="career_c" href="#career_t">Career</a>
+- <a name="devops_c" href="#devops_t">DevOps</a>
+- <a name="sre_c" href="#sre_t">SRE</a>
+- <a name="devtools_c" href="#devtools_t">Development Tools</a>
 
-## Design Patterns 
+<br>
+
+<h2><a name="despat_t" href="#despat_c">Design Patterns</a></h2>
+<br>
 
 - **Design Patterns: Elements of Reusable Object-Oriented Software** (1994) by Erich Gamma, Richard Helm,  Ralph Johnson, John Vlissides 
 - Head First Design Patterns (2004) by Elisabeth Freeman
@@ -23,7 +26,9 @@ Content
 - Domain-Driven Design: Tackling Complexity in the Heart of Software by Eric Evans
 - Patterns of Enterprise Application Architecture by Martin Fowler
 
-## Architecture Design
+<br>
+<h2><a name="archdes_t" href="#archdes_c">Architecture Design</a></h2>
+<br>
 
 ### Application Architecture
 
@@ -76,7 +81,9 @@ Articles
 - [WEB APPLICATION ARCHITECTURE: THE BASICS](https://www.intellectsoft.net/blog/web-application-architecture/)
 - [Web Application Architecture](https://medium.com/existek/web-application-architecture-da77ea0cb520)
 
-## Code
+<br>
+<h2><a name="code_t" href="#code_c">Code</a></h2>
+<br>
 
 Programmer
 
@@ -112,7 +119,9 @@ Others
 - Release It!: Design and Deploy Production-Ready Software by Michael T. Nygard
 - Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation by Jez Humble
 
-## Test
+<br>
+<h2><a name="test_t" href="#test_c">Test</a></h2>
+<br>
 
 - Test Driven Development: By Example (2002) by  Kent Beck 
 - Growing Object-Oriented Software, Guided by Tests by Steve Freeman
@@ -121,12 +130,16 @@ Others
 - The RSpec Book by David Chelimsky
 - The Art of Unit Testing: With Examples in .NET by Roy Osherove
 
-## Software Engineering
+<br>
+<h2><a name="softeng_t" href="#softeng_c">Software Engineering</a></h2>
+<br>
 
 - Software Engineering (10th, 2015) by Ian Sommerville
 - The Essence of Software Engineering by Volker Gruhn and Rüdiger Striemer
 
-## Team & Agile
+<br>
+<h2><a name="agile_t" href="#agile_c">Team & Agile</a></h2>
+<br>
 
 - Extreme Programming Explained: Embrace Change by Kent Beck
 - The Mythical Man-Month: Essays on Software Engineering by Jr·Frederick P·Brooks 
@@ -159,7 +172,9 @@ Some More
 - Manage Your Project Portfolio by Johanna Rothman 
 - Rapid Development: Taming Wild Software Schedules by Steve McConnell
 
-## Career
+<br>
+<h2><a name="career_t" href="#career_c">Career</a></h2>
+<br>
 
 For Interview
 
@@ -188,8 +203,10 @@ Some More
 - What Color Is Your Parachute? 2020: A Practical Manual for Job-Hunters and Career-Changers by Richard N. Bolles
 
 
+<br>
+<h2><a name="devops_t" href="#devops_c">DevOps</a></h2>
+<br>
 
-## DevOps
 
 Jenkins
 
@@ -203,7 +220,10 @@ Container
 - Continuous Delivery with Docker and Jenkins by Rafal Leszko
 - Kubernetes in Action by Marko Luksa
 
-## SRE
+<br>
+
+<h2><a name="sre_t" href="#sre_c">SRE</a></h2>
+<br>
 
 - Site Reliability Engineering: How Google Runs Production Systems
 - The Site Reliability Workbook: Practical Ways to Implement SRE
@@ -218,7 +238,11 @@ Container
 - Building Microservices: Designing Fine-Grained Systems by Sam Newman
 - Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services by Brendan Burns
 
-## Development Tools
+<br>
+
+<h2><a name="devtools_t" href="#devtools_c">Development Tools</a></h2>
+<br>
+
 
 ### Git
 

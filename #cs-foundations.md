@@ -4,21 +4,21 @@
 
 Content
 
-- <a name="intro_content" href="#intro_title">Introduction to Computer Science</a>
-- <a name="cmath_content" href="#cmath_title">Computer Mathematics</a>
-- <a name="info_content" href="#info_title">Information Theory</a>
-- <a name="pdesign_content" href="#pdesign_title">C Language and Program Design</a>
-- <a name="dsa_content" href="#dsa_title">Data Structures and Algorithms</a>
-- <a name="arch_content" href="#arch_title">Computer Architecture</a>
-- <a name="compiler_content" href="#compiler_title">Compiler</a>
-- <a name="os_content" href="#os_title">Operating System</a>
-- <a name="net_content" href="#net_title">Computer Network</a>
-- <a name="lang_content" href="#lang_title">Programming Languages</a>
-- <a name="nonturinglang_content" href="#nonturinglang_title">Non-Turing-Complete Languages</a>
+- <a name="intro_c" href="#intro_t">Introduction to Computer Science</a>
+- <a name="cmath_c" href="#cmath_t">Computer Mathematics</a>
+- <a name="info_c" href="#info_t">Information Theory</a>
+- <a name="pdesign_c" href="#pdesign_t">C Language and Program Design</a>
+- <a name="dsa_c" href="#dsa_t">Data Structures and Algorithms</a>
+- <a name="arch_c" href="#arch_t">Computer Architecture</a>
+- <a name="compiler_c" href="#compiler_t">Compiler</a>
+- <a name="os_c" href="#os_t">Operating System</a>
+- <a name="net_c" href="#net_t">Computer Network</a>
+- <a name="lang_c" href="#lang_t">Programming Languages</a>
+- <a name="nonturinglang_c" href="#nonturinglang_t">Non-Turing-Complete Languages</a>
 
 <br>
 
-<h2><a name="intro_title" href="#intro_content">Introduction to Computer Science</a></h2>
+<h2><a name="intro_t" href="#intro_c">Introduction to Computer Science</a></h2>
 <br>
 
 Books
@@ -32,7 +32,7 @@ Courses
 
 <br>
 
-<h2><a name="cmath_title" href="#cmath_content">Computer Mathematics</a></h2>
+<h2><a name="cmath_t" href="#cmath_c">Computer Mathematics</a></h2>
 <br>
 
 Prime
@@ -56,7 +56,7 @@ ACM竞赛必读书之一，几乎包含了所有计算机科学里涉及到的�
 
 <br>
 
-<h2><a name="info_title" href="#info_content">Information Theory</a></h2>
+<h2><a name="info_t" href="#info_c">Information Theory</a></h2>
 <br>
 
 Must Read
@@ -68,7 +68,7 @@ Must Read
 
 <br>
 
-<h2><a name="pdesign_title" href="#pdesign_content">C Language and Program Design</a></h2>
+<h2><a name="pdesign_t" href="#pdesign_c">C Language and Program Design</a></h2>
 <br>
 
 Must Read
@@ -80,7 +80,7 @@ Must Read
 
 <br>
 
-<h2><a name="dsa_title" href="#dsa_content">Data Structures and Algorithms</a></h2>
+<h2><a name="dsa_t" href="#dsa_c">Data Structures and Algorithms</a></h2>
 <br>
 
 Prime
@@ -125,7 +125,7 @@ Tutorials
 
 <br>
 
-<h2><a name="arch_title" href="#arch_content">Computer Architecture</a></h2>
+<h2><a name="arch_t" href="#arch_c">Computer Architecture</a></h2>
 <br>
 
 Prime
@@ -168,7 +168,7 @@ Courses
 
 <br>
 
-<h2><a name="compiler_title" href="#compiler_content">Compiler</a></h2>
+<h2><a name="compiler_t" href="#compiler_c">Compiler</a></h2>
 <br>
 
 Prime
@@ -195,7 +195,7 @@ Some More
 
 <br>
 
-<h2><a name="os_title" href="#os_content">Operating System</a></h2>
+<h2><a name="os_t" href="#os_c">Operating System</a></h2>
 <br>
 
 Must Read 
@@ -284,7 +284,7 @@ Windows Programming
 
 <br>
 
-<h2><a name="net_title" href="#net_content">Computer Network</a></h2>
+<h2><a name="net_t" href="#net_c">Computer Network</a></h2>
 <br>
 
 Must Read
@@ -350,7 +350,7 @@ Garbage Collection
 <br>
 
 
-<h2><a name="lang_title" href="#lang_content">Programming Languages</a></h2>
+<h2><a name="lang_t" href="#lang_c">Programming Languages</a></h2>
 <br>
 
 ### C++
@@ -435,7 +435,7 @@ Tutorials
 
 ### JavaScript
 
-Reference [Web Frontend Resources - JavaScript](directions/web-frontend-resources.md)
+Reference [Web Frontend Resources - JavaScript](directions/web-frontend-resources.md#js_t)
 
 
 ### Java
@@ -584,12 +584,12 @@ Tutorials
 
 <br>
 
-<h2><a name="nonturinglang_title" href="#nonturinglang_content">Non-Turing-Complete Languages</a></h2>
+<h2><a name="nonturinglang_t" href="#nonturinglang_c">Non-Turing-Complete Languages</a></h2>
 <br>
 
 ### SQL
 
-Reference [CS Advanced Domains Resources - Database Systems](_cs-advanced-domains-resources.md)
+Reference [CS Advanced Domains Resources - Database Systems](_cs-advanced-domains-resources.md#dbms_t)
 
 ### Regular Expression
 
@@ -603,7 +603,7 @@ Reference [CS Advanced Domains Resources - Database Systems](_cs-advanced-domain
 
 ### HTML & CSS
 
-Reference [Web Frontend Resources - HTML & CSS](directions/web-frontend-resources.md)
+Reference [Web Frontend Resources - HTML & CSS](directions/web-frontend-resources.md#htmlcss_t)
 
 
 ### JSON

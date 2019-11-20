@@ -2,23 +2,23 @@
 
 Content
 
-- <a name="webdev_content" href="#webdev_title">Web Development</a>
-- <a name="dbms_content" href="#dbms_title">Database Systems and Data Storage</a>
-- <a name="crypt_content" href="#crypt_title">Cryptography</a>
-- <a name="infosec_content" href="#infosec_title">Information Security</a>
-- <a name="graph_content" href="#graph_title">Graphics and Visualization</a>
+- <a name="webdev_c" href="#webdev_t">Web Development</a>
+- <a name="dbms_c" href="#dbms_t">Database Systems and Data Storage</a>
+- <a name="crypt_c" href="#crypt_t">Cryptography</a>
+- <a name="infosec_c" href="#infosec_t">Information Security</a>
+- <a name="graph_c" href="#graph_t">Graphics and Visualization</a>
 - Multimedia
 - Information Retrieval
 - Data Mining
-- <a name="ai_content" href="#ai_title">Artificial Intelligence</a>
+- <a name="ai_c" href="#ai_t">Artificial Intelligence</a>
 - Embedded System
-- <a name="distsys_content" href="#distsys_title">Distributed System</a>
+- <a name="distsys_c" href="#distsys_t">Distributed System</a>
 - Cloud Computing
-- <a name="blockchain_content" href="#blockchain_title">Blockchain</a>
+- <a name="blockchain_c" href="#blockchain_t">Blockchain</a>
 
 <br>
 
-<h2><a name="webdev_title" href="#webdev_content">Web Development</a></h2>
+<h2><a name="webdev_t" href="#webdev_c">Web Development</a></h2>
 <br>
 
 Must Read
@@ -44,7 +44,7 @@ Reference [Web Frontend Resources](directions/web-frontend-resources.md)
 
 <br>
 
-<h2><a name="dbms_title" href="#dbms_content">Database Systems and Data Storage</a></h2>
+<h2><a name="dbms_t" href="#dbms_c">Database Systems and Data Storage</a></h2>
 <br>
 
 Must Read
@@ -150,21 +150,21 @@ Tutorials
 
 <br>
 
-<h2><a name="crypt_title" href="#crypt_content">Cryptography</a></h2>
+<h2><a name="crypt_t" href="#crypt_c">Cryptography</a></h2>
 <br>
 
-Reference [Information Security Resources - Cryptography](directions/information-security-resources.md)
+Reference [Information Security Resources - Cryptography](directions/information-security-resources.md#crypt_t)
 
 <br>
 
-<h2><a name="infosec_title" href="#infosec_content">Information Security</a></h2>
+<h2><a name="infosec_t" href="#infosec_c">Information Security</a></h2>
 <br>
 
 Reference [Information Security Resources](directions/information-security-resources.md)
 
 <br>
 
-<h2><a name="graph_title" href="#graph_content">Computer Graphics</a></h2>
+<h2><a name="graph_t" href="#graph_c">Computer Graphics</a></h2>
 <br>
 
 Must Read
@@ -176,7 +176,7 @@ Must Read
 
 <br>
 
-<h2><a name="ai_title" href="#ai_content">Artificial Intelligence</a></h2>
+<h2><a name="ai_t" href="#ai_c">Artificial Intelligence</a></h2>
 <br>
 
 Must Read
@@ -206,7 +206,7 @@ Papers
 
 <br>
 
-<h2><a name="distsys_title" href="#distsys_content">Distributed Systems</a></h2>
+<h2><a name="distsys_t" href="#distsys_c">Distributed Systems</a></h2>
 <br>
 
 Must Read
@@ -256,7 +256,7 @@ More Resources
 
 <br>
 
-<h2><a name="blockchain_title" href="#blockchain_content">Blockchain</a></h2>
+<h2><a name="blockchain_t" href="#blockchain_c">Blockchain</a></h2>
 <br>
 
 Must Read

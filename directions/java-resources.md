@@ -105,7 +105,7 @@ Design Patterns
 
 #### Web Security
 
-Reference [Information Security - Web Security](information-security-resources.md)
+Reference [Information Security - Web Security](information-security-resources.md#websec_t)
 
 #### Web Frontend
 
@@ -179,7 +179,7 @@ Persistence Framework
 
 ### Data Storage
 
-Reference [CS Advanced Domains Resources - Database Systems and Data Storage](../_cs-advanced-domains-resources.md#dbms_title)
+Reference [CS Advanced Domains Resources - Database Systems and Data Storage](../_cs-advanced-domains-resources.md#dbms_t)
 
 ### DevOps & Test & Tools
 
@@ -187,7 +187,7 @@ Reference [Software Development and Engineering](../_cs-software-development-and
 
 ### Distributed System
 
-Reference [CS Advanced Domains Resources - Distributed Systems](../_cs-advanced-domains-resources.md#distsys_title)
+Reference [CS Advanced Domains Resources - Distributed Systems](../_cs-advanced-domains-resources.md#distsys_t)
 
 
 

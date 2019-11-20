@@ -1,6 +1,14 @@
 # Web Frontend Resources
 
-## HTML & CSS
+Content
+
+- <a name="htmlcss_c" href="#htmlcss_t">HTML & CSS</a>
+- <a name="js_c" href="#js_t">JavaScript</a>
+
+<br>
+
+<h2><a name="htmlcss_t" href="#htmlcss_c">HTML & CSS</a></h2>
+<br>
 
 - Head First HTML and CSS by Elisabeth Freeman and Eric Freeman
 - HTML & CSS: Design and Build Web Sites by Jon Duckett
@@ -53,7 +61,9 @@ Web Design
 - The Future of the Internet--And How to Stop It by Jonathan L. Zittrain
 - Bulletproof Web Design: Improving flexibility and protecting against worst-case scenarios with XHTML and CSS by Dan Cederholm
 
-## JavaScript
+<br>
+<h2><a name="js_t" href="#js_c">JavaScript</a></h2>
+<br>
 
 Prime
 
