@@ -200,6 +200,11 @@ Must Read
 - Deep Learning with Python by Francois Chollet
 - The Elements of Statistical Learning: Data Mining, Inference, and Prediction by Trevor Hastie
 
+Papers
+
+- [Artificial Intelligence - Elsevier](https://www.journals.elsevier.com/artificial-intelligence)
+- [Top Papers in Machine Learning - Papers With Code](https://paperswithcode.com/greatest)
+
 <br>
 
 <h2><a name="distsys_title" href="#distsys_content">Distributed Systems</a></h2>
