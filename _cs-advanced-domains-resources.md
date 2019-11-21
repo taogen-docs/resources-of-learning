@@ -172,8 +172,23 @@ Must Read
 
 
 - Interactive Computer Graphics: A Top-Down Approach with WebGL (7th, 2014) by Edward Angel and Dave Shreiner
+- Mathematics for Computer Graphics by John Vince
 - Mathematics for 3D Game Programming and Computer Graphics (3rd, 2011) by Eric Lengyel
+- 3D math primer for graphics and game development by Fletcher Dunn
 - Computer Graphics: Principles and Practice (3rd, 2013) by John F. Hughes, van Dam, Andries
+- Computer Graphics Principles and Practice in C: Principles & Practice in C by James D. Foley, Andries van Dam, Steven K. Feiner, F. Hughes John
+- Fundamentals of Computer Graphics by Peter Shirley
+- Foundations of 3D Computer Graphics by Steven J. Gortler
+- Physically Based Rendering: From Theory to Implementation by Greg Humphreys and Matt Pharr
+- Real-Time Rendering by Tomas Akenine-Möller, Eric Haines
+
+OpenGL
+
+- Computer Graphics with OpenGL by Donald Hearn, M. Pauline Baker
+- OpenGL SuperBible: Comprehensive Tutorial and Reference by Graham Sellers, Nicholas Haemel, Richard S. Wright Jr.
+- OpenGL(R) Reference Manual: The Official Reference Document to OpenGL, Version 1.2 by OpenGL Architecture Review Board
+- OpenGL 4 Shading Language Cookbook by David Wolff
+- OpenGL Programming Guide: The Official Guide to Learning OpenGL, Version 4.3 by Dave Shreiner, Graham Sellers, John Kessenich
 
 <br>
 
