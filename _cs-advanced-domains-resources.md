@@ -7,9 +7,9 @@ Content
 - <a name="crypt_c" href="#crypt_t">Cryptography</a>
 - <a name="infosec_c" href="#infosec_t">Information Security</a>
 - <a name="graph_c" href="#graph_t">Graphics and Visualization</a>
-- Multimedia
-- Information Retrieval
-- Data Mining
+- <a name="multimedia_c" href="#multimedia_t">Multimedia</a>
+- <a name="inforetri_c" href="#inforetri_t">Information Retrieval</a>
+- <a name="datamining_c" href="#datamining_t">Data Mining</a>
 - <a name="ai_c" href="#ai_t">Artificial Intelligence</a>
 - Embedded System
 - <a name="distsys_c" href="#distsys_t">Distributed System</a>
@@ -174,6 +174,75 @@ Must Read
 - Interactive Computer Graphics: A Top-Down Approach with WebGL (7th, 2014) by Edward Angel and Dave Shreiner
 - Mathematics for 3D Game Programming and Computer Graphics (3rd, 2011) by Eric Lengyel
 - Computer Graphics: Principles and Practice (3rd, 2013) by John F. Hughes, van Dam, Andries
+
+<br>
+
+<h2><a name="multimedia_t" href="#multimedia_c">Multimedia</a></h2>
+<br>
+
+- Multimedia Learning by Richard E. Mayer
+- Fundamentals of multimedia by Ze-Nian Li
+- Multimedia: Making it Work by Tay Vaughan
+- EPublishing with InDesign CS6: Design and Produce Digital Publications for Tablets, Ereaders, Smartphones, and More by Pariah S. Burke
+
+<br>
+
+<h2><a name="inforetri_t" href="#inforetri_c">Information Retrieval</a></h2>
+<br>
+
+- Introduction to information retrieval by Christopher D. Manning, Hinrich Schütze, and Prabhakar Raghavan
+- Information Retrieval: Implementing and Evaluating Search Engines by Charles L. A. Clarke, Gordon Cormack, and Stefan Büttcher
+- Managing gigabytes by Ian H. Witten
+- Search Engines: Information Retrieval in Practice by Donald Metzler, Trevor Strohman, and W. Bruce Croft
+- Lucene in Action by Erik Hatcher and Otis Gospodnetić
+- Information Retrieval: Data Structures and Algorithms by William B. Frakes, Ricardo Baeza-Yates
+- Google's Pagerank and Beyond: The Science of Search Engine Rankings by Amy N. Langville, Carl D. Meyer
+- Modern Information Retrieval by Berthier Ribeiro-Neto
+
+<br>
+
+<h2><a name="datamining_t" href="#datamining_c">Data Mining</a></h2>
+<br>
+
+- The Elements of Statistical Learning by Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie
+- Data Mining: Concepts and Techniques by Jiawei Han
+- Mining of Massive Datasets by Anand Rajaraman and Jeffrey Ullman
+- Data Mining and Analysis: Fundamental Concepts and Algorithms by Mohammed J. Zaki and Wagner Meira
+- Introduction to Data Mining by Vipin Kumar, Michael Steinbach
+- An Introduction to Statistical Learning: With Applications in R by Gareth James, Trevor Hastie, Robert Tibshirani, Daniela Witten
+- Data Science from Scratch by Joel Grus
+- Data Smart: Using Data Science to Transform Information into Insight by John W. Foreman
+- Data Mining with Rattle and R: The Art of Excavating Data for Knowledge Discovery by Graham J. Williams
+- Bayesian Methods for Hackers: Probabilistic Programming and Bayesian Inference by Cameron Davidson-Pilon
+- Doing Data Science: Straight Talk from the Frontline by Cathy O'Neil and Rachel Schutt
+- Data Mining with R: Learning with Case Studies by Luis Torgo
+- R for Everyone: Advanced Analytics and Graphics by Jared P. Lander
+- Data Mining Techniques: For Marketing, Sales, and Customer Relationship Management by Michael J. A. Berry, Gordon S. Linoff
+- Mining the Social Web: Data Mining Facebook, Twitter, LinkedIn, Instagram, GitHub, and More by Matthew A. Russell and Mikhail Klassen
+
+Hadoop
+
+- Hadoop: The Definitive Guide by Tom White, Doug Cutting 
+- Hadoop in Action by Chuck Lam
+- Hadoop Operations by Eric Sammer
+- Hadoop in Practice by Alex Holmes
+- Professional Hadoop Solutions by Alexey Yakubovich, Boris Lublinsky, and Kevin T. Smith
+- MapReduce Design Patterns: Building Effective Algorithms and Analytics for Hadoop and Other Systems by Adam Shook and Donald Miner
+- Programming Pig by Alan Gates
+- Data Analytics with Hadoop: An Introduction for Data Scientists by Benjamin Bengfort and Jenny Kim
+- Expert Hadoop Administration: Managing, Tuning, and Securing Spark, YARN, and HDFS by Sam R. Alapati
+- Hadoop Application Architectures: Designing Real-World Big Data Applications by Gwen Shapira, Ted Malaska Jonathan S Mark Grover
+- HBase: The Definitive Guide by Lars George
+- Hadoop Security: Protecting Your Big Data Platform by Ben Spivey and Joey Echeverria
+- Architecting Modern Data Platforms: A Guide to Enterprise Hadoop at Scale by Jan Kunigk, Ian Buss, Paul Wilkinson, Lars George
+
+Others
+
+- Programming Hive by Dean Wampler, Edward Capriolo, and Jason Rutherglen
+- MapReduce Design Patterns: Building Effective Algorithms and Analytics for Hadoop and Other Systems by Adam Shook and Donald Miner
+- HBase: The Definitive Guide by Lars George
+- Learning Spark: Lightning-Fast Big Data Analysis by Holden Karau, Andy Konwinski, Patrick Wendell, Matei Zaharia
+- Spark: The Definitive Guide: Big Data Processing Made Simple by Bill Chambers. Matei Zaharia
 
 <br>
 
