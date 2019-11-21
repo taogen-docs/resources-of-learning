@@ -182,13 +182,15 @@ Must Read
 
 Must Read
 
-
+- Introduction to Artificial Intelligence by Philip C. Jackson
 - Artificial Intelligence: A Modern Approach by Stuart Russell, Peter Norvig
-- Machine Learning by Tom M. Mitchell
-- Deep Learning by Aaron Courville, Ian Goodfellow, and Yoshua Bengio
-- Machine Learning in Action by Peter Harrington
 - The Elements of Statistical Learning: Data Mining, Inference, and Prediction by Trevor Hastie, Robert Tibshirani, Jerome Friedman
 - An Introduction to Statistical Learning: With Applications in R by Gareth James, Trevor Hastie, Robert Tibshirani, Daniela Witten
+
+### Machine Learning
+
+- Machine Learning by Tom M. Mitchell
+- Machine Learning in Action by Peter Harrington
 - The Hundred-Page Machine Learning Book by Andriy Burkov
 - Pattern Recognition and Machine Learning by Christopher M. Bishop
 - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems by Aurélien Géron
@@ -196,9 +198,64 @@ Must Read
 - Understanding Machine Learning: From Theory to Algorithms by Shai Shalev-Shwartz, Shai Ben-David
 - Machine Learning For Absolute Beginners: A Plain English Introduction by Oliver Theobald
 - Introduction to Machine Learning with Python: A Guide for Data Scientists by Andreas C. Müller, Sarah Guido
-- Reinforcement Learning: An Introduction by Richard S. Sutton, Andrew G. Barto
+
+### Deep Learning
+
+- Deep Learning by Aaron Courville, Ian Goodfellow, and Yoshua Bengio
 - Deep Learning with Python by Francois Chollet
-- The Elements of Statistical Learning: Data Mining, Inference, and Prediction by Trevor Hastie
+- Deep Learning: A Practitioner's Approach by Adam Gibson and Josh Patterson
+- Grokking Deep Learning by Andrew W. Trask
+- Fundamentals of Deep Learning: Designing Next-Generation Machine Intelligence Algorithms by Nicholas Locascio and Nikhil Buduma
+- The Deep Learning Revolution by Terry Sejnowski
+- Deep Learning Cookbook: Practical Recipes to Get Started Quickly by Douwe Osinga
+
+### Reinforcement Learning
+
+- Reinforcement Learning: An Introduction by Richard S. Sutton, Andrew G. Barto
+- Deep Reinforcement Learning Hands-On: Apply modern RL methods, with deep Q-networks, value iteration, policy gradients, TRPO, AlphaGo Zero and more by Maxim Lapan
+- Algorithms for Reinforcement Learning by Csaba Szepesvari
+- Hands-On Reinforcement Learning with Python: Master reinforcement and deep reinforcement learning using OpenAI Gym and TensorFlow by Sudharsan Ravichandiran
+
+### Robotics
+
+- Life 3.0: Being Human in the Age of Artificial Intelligence by Max Tegmark
+- The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World by Pedro Domingos
+- Artificial Intelligence for Robotics: Build Intelligent Robots that Perform Human Tasks Using AI Techniques by Francis X. Govers
+- The Singularity Is Near: When Humans Transcend Biology by Ray Kurzweil
+- Human Compatible: Artificial Intelligence and the Problem of Control by Stuart J. Russell
+- The Fourth Age: Smart Robots, Conscious Computers, and the Future of Humanity by Byron Reese
+- AI Superpowers by Kai-Fu Lee
+- An Introduction to AI Robotics by Robin R. Murphy
+- I, Robot by Isaac Asimov
+
+### Computer vision
+
+- Computer Vision: Algorithms and Applications by Richard Szeliski
+- Computer Vision: Models, Learning, and Inference by Simon J. D. Prince
+- Programming Computer Vision with Python: Tools and Algorithms for Analyzing Images by Jan Erik Solem
+- Multiple View Geometry in Computer Vision by Richard Hartley, Andrew Zisserman
+- Learning OpenCV: Computer Vision with the OpenCV Library by Gary Bradski, Adrian Kaehler
+- Computer Vision: A Modern Approach by David Forsyth and Jean Ponce
+- Practical Computer Vision with SimpleCV by Demaagd
+
+### Natural Language Processing
+
+- Natural Language Processing with Python by Edward Loper, Ewan Klein, and Steven Bird
+- Speech and Language Processing by Daniel Jurafsky and James H. Martin
+- Foundations of Statistical Natural Language Processing by Christopher D. Manning and Hinrich Schütze
+- Natural Language Processing in Action by Hobson Lane, Cole Howard, Hannes Hapke
+- Neural Network Methods for Natural Language Processing by Yoav Goldberg, Graeme Hirst
+- Applied Text Analysis with Python: Enabling Language-Aware Data Products with Machine Learning by Benjamin Bengfort, Rebecca Bilbro, and Tony Ojeda
+
+### Recommender Systems
+
+- Recommender Systems: The Textbook by Charu C. Aggarwal
+- Recommender Systems Handbook by Francesco Ricci, Lior Rokach, Bracha Shapira
+- Practical Recommender Systems by Kim Falk
+- Statistical Methods for Recommender Systems by Bee-Chung Chen and Deepak K. Agarwal
+- Recommender Systems: An Introduction by Dietmar Jannach, Markus Zanker, Alexander Felfernig, Gerhard Friedrich
+- Hands-On Recommendation Systems with Python: Start Building Powerful and Personalized, Recommendation Engines with Python by Rounak Banik
+- Programming Collective Intelligence by Toby Segaran
 
 Papers
 
