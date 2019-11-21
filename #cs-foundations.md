@@ -50,7 +50,7 @@ Advanced
 ACM竞赛必读书之一，几乎包含了所有计算机科学里涉及到的数学问题，里面有众多的经典问题与经典解法，对开拓人的数学思路有极大的帮助。
 - The art of Computer programming volume 1 by Donald Knuth
 
-[More Mathematics](math-resources.md)
+[More Mathematics](domains/math-resources.md)
 
 
 
