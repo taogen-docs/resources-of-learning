@@ -334,19 +334,49 @@ For Programming
 <br>
 
 Functional Programming
+> Haskell, Scala, Clojure
 
 - Introduction to Functional Programming by Richard S. Bird, Philip Wadler
+- Real World Haskell by Bryan O'Sullivan, Don Stewart, and John Goerzen
+- Thinking Functionally with Haskell by Richard S. Bird
+- Programming in Haskell by Graham Hutton
+- Functional Programming in Scala by Paul Chiusano and Rúnar Bjarnason
+- Functional Programming, Simplified  (Scala Edition) by Alvin Alexander
+- Programming Clojure by Stuart Halloway, Susannah Davidson Pfalzer
+- Functional Programming In Java: How Functional Techniques Improve Your Java Programs
+by Pierre-Yves Saumont
+- Real-world Functional Programming: With Examples in F# and C# by Jon Skeet and Tomas Petricek
+- Functional Programming in JavaScript by Luis Atencio
+
 
 Parallel Programming
 
 - An Introduction to Parallel Programming by Peter Pacheco
+- Programming Massively Parallel Processors: A Hands-On Approach by David B. Kirk
 - Is Parallel Programming Hard, And, If So, What Can You Do About It? by Paul E. McKenney 
-
+- Seven Concurrency Models in Seven Weeks: When Threads Unravel by Paul Butcher
+- Structured Parallel Programming: Patterns for Efficient Computation by Michael McCool
+- Introduction to High Performance Computing for Scientists and Engineers by Georg Hager, Gerhard Wellein
 
 Garbage Collection
 
-- The Garbage Collection Handbook by Richard Jones, Eliot Moss, Antony Hosking 
+> Java, C#
+
+- The Garbage Collection Handbook: The Art of Automatic Memory Management by Antony Hosking, Eliot Moss, and Richard Jones
+- Garbage collection by Richard Jones
+- Java Performance Companion by Charlie Hunt, Poonam Bajaj, Bengt Rutisson, Monica Beckwith, John Cuthbertson
+- Java Performance Tuning by Jack Shirazi
 - 垃圾回收的算法与实现 by 中村成洋, 相川光 
+
+Object-Oriented
+
+> C++, Java
+
+- Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma, Ralph Johnson, John Vlissides, Richard Helm
+- Object-Oriented Software Construction by Bertrand Meyer
+- The Object-Oriented Thought Process by Matt Weisfeld
+- Elegant Objects by Yegor Bugayenko
+- Head First Object-Oriented Analysis and Design: A Brain Friendly Guide to OOA&D by Brett McLaughlin, Gary Pollice, David West
 
 <br>
 
