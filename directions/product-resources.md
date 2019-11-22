@@ -15,17 +15,17 @@
 ## Methods
 
 - **Inspired: How To Create Products Customers Love** / 启示录
-- **Business Model Generatio**n / 商业模式新生代
+- Business Model Generation / 商业模式新生代
 - **The Elements of User Experience: User-Centered Design for the Web** by Jesse James Garrett / 用户体验的要素
 - **The Lean Startup** / 精益创业
-- **Exploring Requirements: Quality Before Design** / 探索需求
+- Exploring Requirements: Quality Before Design / 探索需求
 - Designing design by Kenya Hara / 设计中的设计
 - 参与感
 - 疯传
 
 ## Tools & Product Design
 
-- **The User Is Always Right** / 赢在用户
+- The User Is Always Right / 赢在用户
 - **Simple and Usable Web,Mobile,and Interaction Design** / 简约至上
 - Observing the user experience: a practitioner's guide to user research / 用户体验面面观
 - Sketching User Experiences: Getting the Design Right and the Right Design by Bill Buxton / 用户体验草图设计
@@ -39,10 +39,11 @@
 - **The Elements of User Experience: User-Centered Design** for the Web by Jesse James Garrett / 用户体验的要素
 - Don't Make me think
 
-## Business
+## Business & Marketing
 
 - 长尾理论
 - 引爆点
+- Principles of Marketing by Philip Kotler, Gary Armstrong / 市场营销原理
 
 ## Psychology
 
@@ -50,14 +51,10 @@
 - Consumer Behavior : Buying, Having and Being / 消费者行为学
 - 乌合之众 by （法）勒庞
 - 社会心理学
+- 决策与判断 
 - 影响力
 - 怪诞心理学
 - 改变心理学的40项研究
-
-## Economics  & Marketing
-
-- Principles of Marketing by Philip Kotler, Gary Armstrong / 市场营销原理
-- The Theory of the Leisure Class / 有闲阶级论
 
 ## Internet
 
@@ -74,7 +71,9 @@
 - 学会提问—批判性思维指南
 - 人人都是产品经理 by 苏杰
 - 快速转行做产品经理 by 李三科
+- 结网 
 - 破茧成蝶：用户体验设计师的成长之路
+- The Theory of the Leisure Class / 有闲阶级论
 - 如何阅读一本书
 - 美国种族简史
 - 故事
