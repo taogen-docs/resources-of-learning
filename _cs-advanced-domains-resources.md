@@ -53,6 +53,17 @@ Must Read
 - Fundamentals of Database System (7th, 2017) by Ramez Elmasri,  Shamkant B. Navathe
 - Database System Implementation by Hector Garcia-Molina, Jeffrey D.Ullman and  Jennifer Widom 
 
+For SQL
+
+- Sams teach yourself SQL in 10 minutes,4th edition by Ben Forta / SQL 必知必会
+- SQL Cookbook by Anthony Molinaro
+- Learning SQL by Alan Beaulieu
+- T-SQL Fundamentals by Itzik Ben-Gan
+- T-SQL Querying by Itzik Ben-Gan
+- SQL Queries for Mere Mortals: A Hands-on Guide to Data Manipulation in SQL by John Viescas
+- SQL pocket guide by Jonathan Gennick
+- The art of SQL by Stéphane Faroult
+
 Some More
 
 - SQL Antipatterns: Avoiding the Pitfalls of Database Programming (2010) by Bill Karwin
@@ -72,33 +83,49 @@ Courses
 
 Prime
 
-- Sams teach yourself SQL in 10 minutes,4th edition by Ben Forta (SQL 必知必会)
-- Database System Concepts
-- MySQL 是怎么样运行的：从根上儿理解 MySQL
+- [MySQL 5.7 Reference Manual - doc](https://dev.mysql.com/doc/refman/5.7/en/ )
+- [MySQL 5.7 Release Notes - doc]( https://dev.mysql.com/doc/relnotes/mysql/5.7/en/ )
+- [MySQL 8.0 Release Notes - doc]( https://dev.mysql.com/doc/relnotes/mysql/8.0/en/ )
+- Murach's MySQL by Joel Murach
+- Learning MySQL by Seyed M.M. Tahaghoghi, Hugh E. Williams
+- MySQL Crash Course by Ben Forta
+- MySQL in a Nutshell by Russell J.T. Dyer
+- MySQL Cookbook by Paul DuBois
+- MySQL Administrator's Bible by Sheeri K. Cabral, Keith Murphy
+- MySQL Stored Procedure Programming: Building High-Performance Web Applications in MySQL by Guy Harrison, Steven Feuerstein
 
-Advanced
-
-> Priciples, Sources
-> Optimization。优化（sql/参数/架构/硬件层面）、高可用方案（海量数据/高并发）、备份与恢复、集群、复制技术，运维和应用
-
-- MySQL Internals Manual - documentation
-- Expert MySQL  by Charles A Bell
-- Understanding MySQL Internals by Sasha Pachev
-- Effective MySQL Optimizing SQL Statements
-- Effective MySQL Backup and Recovery
-- Effective MySQL Replication Techniques in Depth
-- MySQL Troubleshooting: What To Do When Queries Don't Work by Sevta Smirnova 
-- mysql 技术内幕：innodb存储引擎 by  姜承尧 
-- MySQL 内核：InnoDB存储引擎 by  姜承尧
-- MariaDB 原理与实现 by 张金鹏
-- Redis 设计与实现 by 黄健宏 
 
 Optimization
 
-- High Performance MySQL by Baron Schwartz
-- MySQL High Availability: Tools for Building Robust Data Centers by Charles Bell 
+- **High Performance MySQL** by Baron Schwartz
+- Effective MySQL Optimizing SQL Statements
 - MySQL性能调优与架构设计 by 简朝阳 
 - Relational Database Index Design and the Optimizers by Tapio Lahdenmaki 
+- MySQL Troubleshooting: What To Do When Queries Don't Work by Sevta Smirnova 
+
+High Availability, Cluster, Backup and Replication
+
+- [MySQL NDB Cluster Internals Manual - doc]( https://dev.mysql.com/doc/ndb-internals/en/ )
+- MySQL High Availability: Tools for Building Robust Data Centers by Charles Bell
+- Introducing Innodb Cluster: Learning the MySQL High Availability Stack by Charles Bell
+- Pro MySQL NDB Cluster by Jesper Wisborg Krogh and Mikiya Okuno
+- Effective MySQL Backup and Recovery
+- Effective MySQL Replication Techniques in Depth
+
+
+MySQL Internal and Programming
+
+- [MySQL Internals Manual - doc]( https://dev.mysql.com/doc/internals/en/ )
+- [MySQL  8.0.18 Source Code Documentation]( https://dev.mysql.com/doc/dev/mysql-server/latest/ )
+- [MySQL Connector/J 5.1 Developer Guide - doc]( https://dev.mysql.com/doc/connector-j/5.1/en/ )
+- Expert MySQL  by Charles A Bell
+- Understanding MySQL Internals by Sasha Pachev
+- MySQL 技术内幕：InnoDB存储引擎 by  姜承尧 
+- MySQL 内核：InnoDB存储引擎 by  姜承尧
+- MariaDB 原理与实现 by 张金鹏
+
+
+
 
 ### Oracle
 
