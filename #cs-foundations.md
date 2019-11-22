@@ -222,15 +222,16 @@ Courses
 
 System and Command Line
 
-- The Linux Command Line: A Complete Introduction by William E. Shotts, Jr.
+- **The Linux Command Line: A Complete Introduction** by William E. Shotts, Jr.
 - Linux bible by Christopher Negus
-- 鸟哥的Linux私房菜：基础学习篇 (2007, 2nd) by 鸟哥
+- 鸟哥的Linux私房菜：基础学习篇 (2nd, 2007) by 鸟哥
 - Linux pocket guide by Daniel J. Barrett
 - Beginning Linux Programming by Mathew Neil and Richard Stones
-- How Linux Works: What Every Superuser Should Know by Brian Ward
-- Linux for Beginners: An Introduction to the Linux Operating System by Jason Cannon
-- Linux Administration Handbook by Evi Nemeth, Garth Snyder, and Trent Hein
 - Linux Command Line and Shell Scripting Bible by Christine Bresnahan and Richard Blum
+- Linux for Beginners: An Introduction to the Linux Operating System by Jason Cannon
+- How Linux Works: What Every Superuser Should Know by Brian Ward
+- Linux Administration Handbook by Evi Nemeth, Garth Snyder, and Trent Hein
+- **UNIX and Linux System Administration Handbook** by Evi Nemeth, Garth Snyder, Trent R. Hein, Ben Whaley
 
 Vim
 
