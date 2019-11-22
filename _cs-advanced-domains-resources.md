@@ -64,6 +64,12 @@ For SQL
 - SQL pocket guide by Jonathan Gennick
 - The art of SQL by Stéphane Faroult
 
+For NoSQL
+
+- NoSQL for Mere Mortals by Dan Sullivan
+- Professional NoSQL by Shashank Tiwari
+- Seven Databases in Seven Weeks by Luc Perkins, Eric Redmond
+
 Some More
 
 - SQL Antipatterns: Avoiding the Pitfalls of Database Programming (2010) by Bill Karwin
@@ -173,8 +179,25 @@ Tutorials
 
 ### Redis
 
-- Redis in Action by Josiah L. Carlson 
+- Redis in Action (2013) by Josiah L. Carlson
+- Learning Redis by Vinoo Das
+- Redis Essentials by Maxwell Dayvson Da Silva, Hugo Lopes Tavares
+- Redis 4.x Cookbook: Over 80 hand-picked recipes for effective Redis development and administration (2018) by Pengcheng Huang and Zuofei Wang
+- Mastering Redis (2016) by Jeremy Nelson
+- Instant Redis Optimization How-to (2013) by Arun Chinnachamy
+- Instant Redis Persistence (2013) by Matt Palmer
+- The Little Redis Book (Free Book, 2012) by Karl Seguin 
+- Redis Cookbook (2011) by Tiago Macedo and Fred Oliveira
 - Redis设计与实现 by 黄健宏 
+
+Documentations
+
+- [Programming with Redis - doc](https://redis.io/documentation)
+- [Redis modules API - doc](https://redis.io/documentation)
+- [Administration - doc](https://redis.io/documentation)
+- [Redis Cluster tutorial](https://redis.io/topics/cluster-tutorial)
+- [Redis Cluster specification](https://redis.io/topics/cluster-spec)
+- [Redis Internals documentation - doc]( https://redis.io/topics/internals )
 
 <br>
 
