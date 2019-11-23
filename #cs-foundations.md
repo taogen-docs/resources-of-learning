@@ -8,7 +8,7 @@
 
 > If you can't explain it simply, you don't understand it well enough.
 
-Content
+### Content
 
 - <a name="intro_c" href="#intro_t">Introduction to Computer Science</a>
 - <a name="cmath_c" href="#cmath_t">Computer Mathematics</a>
