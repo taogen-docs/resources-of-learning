@@ -1,9 +1,9 @@
 # CS Advanced Domains Resources
 
 > Practice makes perfect.
->
+
 > Your best teacher is your last mistake.
->
+
 > Quality not quantity.
 
 Content

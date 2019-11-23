@@ -1,7 +1,7 @@
 # Software Development and Engineering
 
 > Learn from everyone. Follow no one.
->
+
 > What we think, we become.
 
 Content
