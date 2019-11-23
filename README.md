@@ -1,7 +1,12 @@
 # resources-of-learning
+
+[![GitHub issues](https://img.shields.io/github/issues/tagnja/resources-of-learning)](https://github.com/tagnja/resources-of-learning/issues)
+[![GitHub forks](https://img.shields.io/github/forks/tagnja/resources-of-learning)](https://github.com/tagnja/resources-of-learning/network)
+
+
 Resources of learning. Documentations, books, courses, git repositories and so on.
 
-### Resources List
+## Resources List
 
 General
 
@@ -18,11 +23,11 @@ Directions
 
 *Continuously updating. I hope it will help you!*
 
-### Diagrams
+## Diagrams
 
 - [Computer Science Knowledge Structure Diagram](diagrams/computer-science-knowledge-structure.md)
 
-### Resources From
+## Resources From
 
 <img src="https://www.google.com/favicon.ico" width="30px" align="left" />
 <img src="https://www.quora.com/favicon.ico" width="30px" align="left" />
