@@ -2,6 +2,8 @@
 
 > Learn from everyone. Follow no one.
 
+>  Books serve to show a man that those original thoughts of his aren't very new at all. 
+
 > What we think, we become.
 
 Content
