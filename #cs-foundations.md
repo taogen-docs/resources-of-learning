@@ -2,6 +2,12 @@
 
 # CS Foundations Resources
 
+> High buildings rise from the ground.
+>
+> Once you need less, you will have more.
+>
+> If you can't explain it simply, you don't understand it well enough.
+
 Content
 
 - <a name="intro_c" href="#intro_t">Introduction to Computer Science</a>

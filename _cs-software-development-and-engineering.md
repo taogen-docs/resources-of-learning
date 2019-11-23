@@ -1,5 +1,9 @@
 # Software Development and Engineering
 
+> Learn from everyone. Follow no one.
+>
+> What we think, we become.
+
 Content
 
 - <a name="despat_c" href="#despat_t">Design Patterns</a>

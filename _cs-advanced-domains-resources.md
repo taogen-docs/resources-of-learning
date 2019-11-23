@@ -1,5 +1,11 @@
 # CS Advanced Domains Resources
 
+> Practice makes perfect.
+>
+> Your best teacher is your last mistake.
+>
+> Quality not quantity.
+
 Content
 
 - <a name="webdev_c" href="#webdev_t">Web Development</a>
