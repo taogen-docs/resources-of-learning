@@ -178,10 +178,10 @@ Prime
 
 Must Read
 
-- Structure and Interpretation of Computer Programs (2nd, 1996) by Harold Abelson (**SICP**)
+- **Structure and Interpretation of Computer Programs** (2nd, 1996) by Harold Abelson (**SICP**)
 - Essentials of Programming Languages (2001) by Daniel P. Friedman, Mitchell Wand (**EOPL**)
 - Types and Programming Languages (2002) by Benjamin C. Pierce (**TAPL**)
-- Compilers: Principles, Techniques, and Tools (1986) by  Alfred V. Aho and Monica S. Lam (**龙书**)
+- **Compilers: Principles, Techniques, and Tools** (1986) by  Alfred V. Aho and Monica S. Lam (**龙书**)
 - Modern Compiler Implementation in C (2004) by Andrew W. Appel (**虎书**)
 - Advanced Compiler Design and Implementation (1997) by Steven Muchnick (**鲸书**)
 
@@ -201,9 +201,9 @@ Some More
 Must Read 
 
 - Operating Systems: Three Easy Pieces (2015) by Andrea C. Arpaci-Dusseau and Remzi H. Arpaci-Dusseau
-- **Operating System Concepts** (10th, 2018) by Abraham Silberschatz,  Peter B. Galvin, Greg Gagne 
-- **Operating Systems** (3rd, 2003) by Harvey Deitel,  Paul Deitel, David R. Choffnes 
-- Modern Operating Systems (4th, 2014) by Andrew S. Tanenbaum
+- **Operating System Concepts** (10th, 2018) by Abraham Silberschatz,  Peter B. Galvin, Greg Gagne
+- **Modern Operating Systems** (4th, 2014) by Andrew S. Tanenbaum
+- Operating Systems (3rd, 2003) by Harvey Deitel,  Paul Deitel, David R. Choffnes 
 
 Some More
 
