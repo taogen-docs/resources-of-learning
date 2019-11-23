@@ -6,7 +6,7 @@
 
 > Quality not quantity.
 
-Content
+### Content
 
 - <a name="webdev_c" href="#webdev_t">Web Development</a>
 - <a name="dbms_c" href="#dbms_t">Database Systems and Data Storage</a>

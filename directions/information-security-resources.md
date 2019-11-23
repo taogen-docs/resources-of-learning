@@ -1,6 +1,6 @@
 # Information Security Resources
 
-Content
+### Content
 
 - <a name="introis_c" href="#introis_t">Introduction to Information Security</a>
 - <a name="crypt_c" href="#crypt_t">Cryptography</a>
@@ -76,7 +76,6 @@ Some More
 
 <br>
 <h2><a name="websec_t" href="#websec_c">Web Security</a></h2>
-
 <br>
 
 - The Web Application Hacker's Handbook: Discovering and Exploiting Security Flaws by Dafydd Stuttard, Marcus Pinto
@@ -93,7 +92,6 @@ by Jeremiah Grossman, Seth Fogie, Robert C. Hansen
 
 <br>
 <h2><a name="pene_t" href="#pene_c">Penetration & Pentest</a></h2>
-
 <br>
 
 - Metasploit: The Penetration Tester's Guide by David Kennedy, Jim O'Gorman, Devon Kearns, Mati Aharoni
@@ -115,7 +113,6 @@ by Jeremiah Grossman, Seth Fogie, Robert C. Hansen
 
 <br>
 <h2><a name="mobsec_t" href="#mobsec_c">Mobile Security</a></h2>
-
 <br>
 
 - Mobile SecurityAndroid Security Cookbook by Keith Makan, Scott Alexander-Bown
