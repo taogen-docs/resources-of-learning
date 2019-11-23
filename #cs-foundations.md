@@ -315,7 +315,7 @@ For Programming
 
 ### TCP/IP
 
-- **TCP/IP Illustrated: The Protocols, Vol. 1** (1st, 1994) (2th, 2011) by Richard Stevens
+- **TCP/IP Illustrated: The Protocols, Vol. 1** (1st, 1994) (2nd, 2011) by Richard Stevens
 - TCP/IP Illustrated: The Implementation, Vol. 2 by Richard Stevens
 - TCP/IP Illustrated: TCP for Transactions, HTTP, NNTP and the Unix Domain Protocols, Vol. 3 by Richard Stevens
 - The TCP/IP Guide: A Comprehensive, Illustrated Internet Protocols Reference by Charles Kozierok
