@@ -124,6 +124,10 @@ Courses
 - Data Structures and Algorithm Design Part I 数据结构与算法设计(上) - [edx, Tsinghua](https://www.edx.org/course/shu-ju-jie-gou-yu-suan-fa-she-ji-shang--data-structures-and-algorithm-design-part-i)
 - Data Structures and Algorithm Design Part II 数据结构与算法设计(下) - [edx, Tsinghua](https://www.edx.org/course/shu-ju-jie-gou-yu-suan-fa-she-ji-xia--data-structures-and-algorithm-design-part-ii)
 
+OJ Platforms
+
+- [OJ Platforms List](domains/oj-platforms.md)
+
 Tutorials
 
 - [Techie Delight](https://www.techiedelight.com/)
