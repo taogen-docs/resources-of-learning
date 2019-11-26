@@ -7,15 +7,22 @@
 
 ## Universal OJ
 
+Prime
+
 - [LeetCode]( https://leetcode.com/ )
 - [LintCode]( https://www.lintcode.com/problem/ )
 - [hihoCoder](http://hihocoder.com)
+- [UVA](https://uva.onlinejudge.org/) 全球最大最老牌的OJ之一，题目数量堪称之最。浏览需要FQ。
 
 Advanced
 
 - [codeforces](https://codeforces.com/)
 - [atcoder](https://atcoder.jp/)
 - [topcoder](https://www.topcoder.com/)
+
+Others
+
+- [SPOJ](https://www.spoj.com)
 
 ## Chinese OJ
 
