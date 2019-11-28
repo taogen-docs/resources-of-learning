@@ -8,21 +8,107 @@
 
 ### Content
 
-- <a name="despat_c" href="#despat_t">Design Patterns</a>
-- <a name="archdes_c" href="#archdes_t">Architecture Design</a>
 - <a name="code_c" href="#code_t">Code</a>
 - <a name="test_c" href="#test_t">Test</a>
+- <a name="devops_c" href="#devops_t">DevOps</a>
+- <a name="devtools_c" href="#devtools_t">Development Tools</a>
 - <a name="softeng_c" href="#softeng_t">Software Engineering</a>
+- <a name="sre_c" href="#sre_t">SRE</a>
+- <a name="archdes_c" href="#archdes_t">Architecture Design</a>
 - <a name="agile_c" href="#agile_t">Team & Agile</a>
 - <a name="career_c" href="#career_t">Career</a>
-- <a name="devops_c" href="#devops_t">DevOps</a>
-- <a name="sre_c" href="#sre_t">SRE</a>
-- <a name="devtools_c" href="#devtools_t">Development Tools</a>
 
 <br>
 
-<h2><a name="despat_t" href="#despat_c">Design Patterns</a></h2>
+<h2><a name="code_t" href="#code_c">Code</a></h2>
 <br>
+
+- Clean Code : A Handbook of Agile Software Craftsmanship (2008) by Robert C. Martin, Prentice Hall
+- The Art of Readable Code by Dustin Boswell, Trevor Foucher
+- Clean Architecture by Robert C. Martin
+- 码出高效：Java开发手册 by 杨冠宝, 高海慧
+- 码农翻身 (2018) by 刘欣
+- Code Complete (2nd, 2004) by Steve McConnell
+- The Practice of Programming by Brian W. Kernighan
+- Writing Solid Code by Steve Maguire
+- Hacker's Delight by Henry S. Warren Jr.
+- Think Like a Programmer: An Introduction to Creative Problem Solving by V. Anton Spraul
+
+Refactoring
+
+- Refactoring : Improving the Design of Existing Code (2nd, 2018) by Martin Fowler, Kent Beck 
+- Refactoring to Patterns by Joshua Kerievsky
+- Working Effectively with Legacy Code by Michael C. Feathers
+
+
+
+<br>
+
+<h2><a name="test_t" href="#test_c">Test</a></h2>
+<br>
+
+- Test Driven Development: By Example (2002) by  Kent Beck 
+- Growing Object-Oriented Software, Guided by Tests by Steve Freeman
+- Effective Unit Testing by Lasse Koskela
+- xUnit Test Patterns: Refactoring Test Code by Gerard Meszaros
+- The RSpec Book by David Chelimsky
+- The Art of Unit Testing: With Examples in .NET by Roy Osherove
+
+
+
+<br>
+
+<h2><a name="devops_t" href="#devops_c">DevOps</a></h2>
+<br>
+
+
+Jenkins
+
+- Jenkins 2: Up and Running: Evolve Your Deployment Pipeline for Next Generation Automation by Brent Laster
+- Jenkins: The Definitive Guide by John Smart
+- Learning Continuous Integration with Jenkins by Nikhil Pathania
+
+Container
+
+- Docker in Action
+- Continuous Delivery with Docker and Jenkins by Rafal Leszko
+- Kubernetes in Action by Marko Luksa
+
+
+
+<br>
+
+<h2><a name="devtools_t" href="#devtools_c">Development Tools</a></h2>
+<br>
+
+### Git
+
+- Pro Git by Ben Straub and Scott Chacon
+- Version Control with Git: Powerful Tools and Techniques for Collaborative Software Development by Jon Loeliger
+- Professional Git by Brent Laster
+- Git Pocket Guide: A Working Introduction by Richard E. Silverman
+
+### Maven
+
+- Maven: The Definitive Guide
+- Apache Maven Cookbook by Raghuram Bharathan
+
+
+
+<br>
+<h2><a name="softeng_t" href="#softeng_c">Software Engineering</a></h2>
+<br>
+
+- Software Engineering (10th, 2015) by Ian Sommerville
+- The Essence of Software Engineering by Volker Gruhn and Rüdiger Striemer
+
+### UML
+
+- UML distilled by Martin Fowler
+- Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and Iterative Development by Craig Larman
+
+
+### Design Patterns
 
 - **Design Patterns: Elements of Reusable Object-Oriented Software** (1994) by Erich Gamma, Richard Helm,  Ralph Johnson, John Vlissides 
 - Head First Design Patterns (2004) by Elisabeth Freeman
@@ -32,7 +118,30 @@
 - Domain-Driven Design: Tackling Complexity in the Heart of Software by Eric Evans
 - Patterns of Enterprise Application Architecture by Martin Fowler
 
+
+
 <br>
+
+<h2><a name="sre_t" href="#sre_c">SRE</a></h2>
+<br>
+
+- Site Reliability Engineering: How Google Runs Production Systems
+- The Site Reliability Workbook: Practical Ways to Implement SRE
+- Seeking SRE: Conversations About Running Production Systems at Scale by David N. Blank-Edelman
+- The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations
+- Infrastructure as Code: Managing Servers in the Cloud by Kief Morris
+- Systems Performance: Enterprise and the Cloud by Brendan Gregg
+- Web Operations: Keeping the Data On Time by Jesse Robbins and John Allspaw
+- Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems by Martin Kleppmann
+- Database Reliability Engineering: Designing and Operating Resilient Database Systems by Charity Majors and Laine Campbell
+- Practical Monitoring: Effective Strategies for the Real World by Mike Julian
+- Building Microservices: Designing Fine-Grained Systems by Sam Newman
+- Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services by Brendan Burns
+
+
+
+<br>
+
 <h2><a name="archdes_t" href="#archdes_c">Architecture Design</a></h2>
 <br>
 
@@ -88,61 +197,7 @@ Articles
 - [WEB APPLICATION ARCHITECTURE: THE BASICS](https://www.intellectsoft.net/blog/web-application-architecture/)
 - [Web Application Architecture](https://medium.com/existek/web-application-architecture-da77ea0cb520)
 
-<br>
-<h2><a name="code_t" href="#code_c">Code</a></h2>
-<br>
 
-Programmer
-
-- The Pragmatic Programmer: From Journeyman to Master by Andrew Hunt, David Thomas 
-- Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman (2009) by Dave H. Hoover and Adewale Oshineye
-- The Clean Coder: A Code of Conduct for Professional Programmers by Robert C. Martin
-- Joel on Software by Joel Spolsky
-- Hackers and Painters: Big Ideas from the Computer Age by Paul Graham
-- 97 Things Every Programmer Should Know: Collective Wisdom from the Experts by Kevlin Henney
-- Soft Skills: The Software Developer's Life Manual by John Z. Sonmez
-
-Code
-
-- Clean Code : A Handbook of Agile Software Craftsmanship (2008) by Robert C. Martin, Prentice Hall
-- The Art of Readable Code by Dustin Boswell, Trevor Foucher
-- Clean Architecture by Robert C. Martin
-- 码出高效：Java开发手册 by 杨冠宝, 高海慧
-- 码农翻身 (2018) by 刘欣
-- Code Complete (2nd, 2004) by Steve McConnell
-- The Practice of Programming by Brian W. Kernighan
-- Writing Solid Code by Steve Maguire
-- Hacker's Delight by Henry S. Warren Jr.
-- Think Like a Programmer: An Introduction to Creative Problem Solving by V. Anton Spraul
-
-Refactoring
-
-- Refactoring : Improving the Design of Existing Code (2nd, 2018) by Martin Fowler, Kent Beck 
-- Refactoring to Patterns by Joshua Kerievsky
-- Working Effectively with Legacy Code by Michael C. Feathers
-
-Others
-
-- Release It!: Design and Deploy Production-Ready Software by Michael T. Nygard
-- Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation by Jez Humble
-
-<br>
-<h2><a name="test_t" href="#test_c">Test</a></h2>
-<br>
-
-- Test Driven Development: By Example (2002) by  Kent Beck 
-- Growing Object-Oriented Software, Guided by Tests by Steve Freeman
-- Effective Unit Testing by Lasse Koskela
-- xUnit Test Patterns: Refactoring Test Code by Gerard Meszaros
-- The RSpec Book by David Chelimsky
-- The Art of Unit Testing: With Examples in .NET by Roy Osherove
-
-<br>
-<h2><a name="softeng_t" href="#softeng_c">Software Engineering</a></h2>
-<br>
-
-- Software Engineering (10th, 2015) by Ian Sommerville
-- The Essence of Software Engineering by Volker Gruhn and Rüdiger Striemer
 
 <br>
 <h2><a name="agile_t" href="#agile_c">Team & Agile</a></h2>
@@ -179,9 +234,22 @@ Some More
 - Manage Your Project Portfolio by Johanna Rothman 
 - Rapid Development: Taming Wild Software Schedules by Steve McConnell
 
+
+
 <br>
+
 <h2><a name="career_t" href="#career_c">Career</a></h2>
 <br>
+
+Programmer
+
+- The Pragmatic Programmer: From Journeyman to Master by Andrew Hunt, David Thomas 
+- Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman (2009) by Dave H. Hoover and Adewale Oshineye
+- The Clean Coder: A Code of Conduct for Professional Programmers by Robert C. Martin
+- Joel on Software by Joel Spolsky
+- Hackers and Painters: Big Ideas from the Computer Age by Paul Graham
+- 97 Things Every Programmer Should Know: Collective Wisdom from the Experts by Kevlin Henney
+- Soft Skills: The Software Developer's Life Manual by John Z. Sonmez
 
 For Interview
 
@@ -210,58 +278,7 @@ Some More
 - What Color Is Your Parachute? 2020: A Practical Manual for Job-Hunters and Career-Changers by Richard N. Bolles
 
 
-<br>
-<h2><a name="devops_t" href="#devops_c">DevOps</a></h2>
-<br>
 
-
-Jenkins
-
-- Jenkins 2: Up and Running: Evolve Your Deployment Pipeline for Next Generation Automation by Brent Laster
-- Jenkins: The Definitive Guide by John Smart
-- Learning Continuous Integration with Jenkins by Nikhil Pathania
-
-Container
-
-- Docker in Action
-- Continuous Delivery with Docker and Jenkins by Rafal Leszko
-- Kubernetes in Action by Marko Luksa
-
-<br>
-
-<h2><a name="sre_t" href="#sre_c">SRE</a></h2>
-<br>
-
-- Site Reliability Engineering: How Google Runs Production Systems
-- The Site Reliability Workbook: Practical Ways to Implement SRE
-- Seeking SRE: Conversations About Running Production Systems at Scale by David N. Blank-Edelman
-- The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations
-- Infrastructure as Code: Managing Servers in the Cloud by Kief Morris
-- Systems Performance: Enterprise and the Cloud by Brendan Gregg
-- Web Operations: Keeping the Data On Time by Jesse Robbins and John Allspaw
-- Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems by Martin Kleppmann
-- Database Reliability Engineering: Designing and Operating Resilient Database Systems by Charity Majors and Laine Campbell
-- Practical Monitoring: Effective Strategies for the Real World by Mike Julian
-- Building Microservices: Designing Fine-Grained Systems by Sam Newman
-- Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services by Brendan Burns
-
-<br>
-
-<h2><a name="devtools_t" href="#devtools_c">Development Tools</a></h2>
-<br>
-
-
-### Git
-
-- Pro Git by Ben Straub and Scott Chacon
-- Version Control with Git: Powerful Tools and Techniques for Collaborative Software Development by Jon Loeliger
-- Professional Git by Brent Laster
-- Git Pocket Guide: A Working Introduction by Richard E. Silverman
-
-### Maven
-
-- Maven: The Definitive Guide
-- Apache Maven Cookbook by Raghuram Bharathan
 
 ## Others
 
