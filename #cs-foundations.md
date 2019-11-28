@@ -511,6 +511,17 @@ Reference [Java Resources](directions/java-resources.md)
 - PHP for the Web: Visual QuickStart Guide by Larry Ullman
 - PHP 6 and MySQL 5 for Dynamic Web Sites: Visual Quickpro Guide by Larry Ullman
 
+Web Frameworks
+
+- Laravel
+- Codeigniter
+- Symfony
+- Yii 2
+- Phalcon
+- CakePHP
+- Zend
+- FuelPHP
+
 ### Python
 
 Prime
@@ -551,6 +562,17 @@ Tutorials
 - [awesome-python - GitHub](https://github.com/vinta/awesome-python)
 - [Python Tips](https://pythontips.com/)
 - [Full Stack Python](https://www.fullstackpython.com/)
+
+Web Frameworks
+
+- Django
+- Web2Py
+- Turbo Gears
+- CubicWeb
+- Flask
+- CherryPy
+- Bottle
+- Tornado
 
 ### Android
 
