@@ -426,6 +426,7 @@ Courses
 
 Books
 
+- [Go Documentation - doc](https://golang.org/doc/)
 - The Go Programming Language by Alan A. A. Donovan and Brian W. Kernighan
 - An Introduction to Programming in Go by Caleb Doxsey
 - Go Web Programming by Chang Sau Sheong
@@ -434,10 +435,6 @@ Books
 - Go Programming Blueprints by Mat Ryer
 - Go in Action by William Kennedy, Brian Ketelsen
 - Go in Practice by Matt Butcher
-
-Docs
-
-- [Go Documentation](https://golang.org/doc/)
 
 Tutorials
 
@@ -449,6 +446,9 @@ Tutorials
 
 ### Rust
 
+- [The Rust Programming Language - doc]( https://doc.rust-lang.org/1.30.0/book/first-edition/documentation.html )
+- [Rust Documentation - doc]( https://doc.rust-lang.org/beta/ )
+- [Learn Rust - doc](rust-lang.org/learn)
 - The Rust Programming Language by Carol Nichols and Steve Klabnik
 - Programming Rust: Fast, Safe Systems Development by Jason Orendorff and Jim Blandy
 - Hands-On Concurrency with Rust: Confidently Build Memory-Safe, Parallel, and Efficient Software in Rust by Brian L Troutwine
@@ -457,6 +457,7 @@ Tutorials
 
 ### Lua
 
+- [Lua Documentation - doc]( https://www.lua.org/docs.html )
 - Programming in Lua by Roberto Ierusalimschy
 - Lua Programming Gems by Luiz Henrique de Figueiredo, Waldemar Celes, Roberto Ierusalimschy
 - Beginning Lua programming by Kurt Jung
@@ -465,6 +466,7 @@ Tutorials
 
 ### C#
 
+- [C# documentation - doc]( https://docs.microsoft.com/en-us/dotnet/csharp/ )
 - **C# in Depth** by Jon Skeet
 - Head First C# by Andrew Stellman
 - C# 7.0 in a Nutshell: The Definitive Reference by Joseph Albahari, Ben Albahari
@@ -485,6 +487,7 @@ Reference [Java Resources](directions/java-resources.md)
 
 ### Ruby
 
+- [Ruby Documentation - doc]( https://www.ruby-lang.org/en/documentation/ )
 - The Well-Grounded Rubyist by David A. Black
 - Programming Ruby: The Pragmatic Programmers' Guide by Dave Thomas, Chad Fowler, and Andy Hunt
 - Eloquent Ruby by Russ Olsen
@@ -496,6 +499,7 @@ Reference [Java Resources](directions/java-resources.md)
 
 ### PHP
 
+- [PHP Documentation - doc]( https://www.php.net/docs.php )
 - Learning PHP, MySQL, JavaScript, CSS & HTML5: A Step-by-Step Guide to Creating Dynamic Websites by Robin Nixon
 - Head First PHP and MySQL by Lynn Beighley and Michael Morrison
 - PHP and MySQL Web Development by Luke Welling
@@ -512,6 +516,7 @@ Reference [Java Resources](directions/java-resources.md)
 Prime
 
 - [The Python Tutorial - doc](https://docs.python.org/3/tutorial/)
+- [Python Documentation](https://www.python.org/doc/)
 - Learning Python by David Ascher and MARK LUTZ
 - Learn Python 3 the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code by Zed Shaw
 - A Byte of Python by Swaroop C.H.
@@ -537,10 +542,6 @@ Some More
 - Web Scraping with Python by Ryan Mitchell
 - Python for Data Analysis by Wes McKinney
 
-Docs
-
-- [python documentation](https://www.python.org/doc/)
-
 Tutorials
 
 - [Real Python](https://realpython.com/)
@@ -551,9 +552,21 @@ Tutorials
 - [Python Tips](https://pythontips.com/)
 - [Full Stack Python](https://www.fullstackpython.com/)
 
+### Android
+
+- [Android Documentation - doc](https://developer.android.com/docs)
+- Android Programming: The Big Nerd Ranch Guide by Brian Hardy, Bill Phillips
+- Head First Android Development: A Brain-Friendly Guide by DAVID GRIFFITHS and Dawn Griffiths
+- The Busy Coder's Guide to Advanced Android Development by Mark Murphy
+- Android Programming: Pushing the Limits by Erik Hellman
+- Professional Android 4 Application Development by Reto Meier
+- Learning Android by Marko Gargenta
+- Programming Android: Java Programming for the New Generation of Mobile Devices by Zigurd Mednieks, Laird Dornin, G. Blake Meike, Masumi Nakamura
+
 
 ### Kotlin
 
+- [Kotlin Reference - doc]( https://kotlinlang.org/docs/reference/ )
 - Kotlin in Action by Dmitry Jemerov and Svetlana Isakova
 - The Joy of Kotlin by Pierre Yves Saumont
 - Kotlin for Android Developers by Antonio Leiva
@@ -562,6 +575,9 @@ Tutorials
 
 ### Objective-C
 
+- [Programming with Objective-C - doc]( https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html )
+- [The Objective-C Programming Language - doc]( https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ObjectiveC/Introduction/introObjectiveC.html )
+- [Apple Developer Documentation - doc]( https://developer.apple.com/documentation )
 - Programming in Objective-C by Stephen G. Kochan
 - Objective-C Programming: The Big Nerd Ranch Guide by Aaron Hillegass and Mikey Ward
 - Effective Objective-C 2.0: 52 Specific Ways to Improve Your IOS and OS X Programs by Matt Galloway
@@ -571,6 +587,7 @@ Tutorials
 
 ### Swift
 
+- [Swift Documentation - doc]( https://swift.org/documentation/ )
 - Swift in Depth by Tjeerd in 't Veen
 - IOS 12 Programming for Beginners: An Introductory Guide to IOS App Development with Swift 4.2 and Xcode 10 (3rd, 2018) by Craig Clayton
 - IOS 10 Programming Fundamentals with Swift: Swift, Xcode, and Cocoa Basics by Matt Neuburg
@@ -578,6 +595,7 @@ Tutorials
 
 ### Lisp
 
+- [Lisp Documentation - doc]( https://common-lisp.net/documentation )
 - Practical Common Lisp by Peter Seibel
 - Paradigms of AI Programming: Case Studies in Common Lisp by Peter Norvig
 - Common LISP: A Gentle Introduction to Symbolic Computation by David S. Touretzky
@@ -591,6 +609,7 @@ Tutorials
 
 ### Haskell
 
+- [Haskell Documentation - doc]( https://www.haskell.org/documentation/ )
 - Real World Haskell: Code You Can Believe In by Bryan O'Sullivan
 - Programming in Haskell by Graham Hutton
 - Learn You a Haskell for Great Good! by Miran Lipovača
@@ -603,6 +622,8 @@ Tutorials
 
 ### Perl
 
+- [Perl 5.30.0 documentation]( https://perldoc.perl.org/ )
+- [Perl Docs]( https://www.perl.org/docs.html )
 - Learning Perl by Randal L. Schwartz
 - Beginning Perl by Curtis 'Ovid' Poe
 - Programming Perl by Tom Christiansen
@@ -616,12 +637,27 @@ Tutorials
 
 ### Groovy
 
+- [Groovy Documentation - doc]( https://groovy-lang.org/documentation.html )
 - Groovy in Action by Dierk König, Andrew Glover, Paul King, Guillaume Laforge, Jon Skeet, James Gosling
 - Programming Groovy 2: Dynamic Productivity for the Java Developer by Venkat Subramaniam
 - Making Java Groovy by Kenneth A. Kousen
 - Groovy 2 Cookbook by Andrey Adamovich and Luciano Fiandesio
 - Grails in Action by Glen Smith, Peter Ledbrook
 - The definitive guide to Grails by Graeme Keith Rocher
+
+### Scala
+
+- [Scala Documentation - doc]( https://docs.scala-lang.org/ )
+- Programming in Scala by Bill Venners and Martin Odersky
+- Functional Programming in Scala by Paul Chiusano and Rúnar Bjarnason
+- Scala for the Impatient by Cay S. Horstmann
+- Scala in Depth by Joshua D. Suereth
+- Scala Cookbook: Recipes for Object-Oriented and Functional Programming by Alvin Alexander
+- Programming Scala: Scalability = Functional Programming + Objects by Alex Payne and Dean Wampler
+- Scala in Action by Nilanjan Raychaudhuri
+- Functional Programming, Simplified: (Scala Edition) by Alvin Alexander
+- Learning Scala: Practical Functional Programming for the JVM by Jason Swartz
+- Scala Puzzlers by Andrew Phillips and Nermin Serifovic
 
 <br>
 
