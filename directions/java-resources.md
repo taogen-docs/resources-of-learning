@@ -38,7 +38,8 @@ Master
 - [The Java® Language Specification Java SE 8 Edition - doc](https://docs.oracle.com/javase/specs/jls/se8/html/index.html)
 - **Effective Java** (2nd, 2008) by Joshua Bloch 
 - **Thinking in Java** (4th, 2006) by Eckel, Bruce
-- Modern Java in Action (JDK9) by Raoul-Gabriel Urma, Mario Fusco
+- On Java 8 by Bruce Eckel
+- Modern Java in Action (JDK9) (2nd, 2018) by Raoul-Gabriel Urma, Mario Fusco
 - Java 9 Modularity: Patterns and Practices for Developing Maintainable Applications by Mak, Sander
 - Modern Java Recipes: Simple Solutions to Difficult Problems in Java 8 and 9 by Kousen, Ken
 - Java in a Nutshell by David Flanagan
@@ -62,6 +63,7 @@ JVM Optimization
 - [The Java® Virtual Machine Specification Java SE 7 Edition - doc](https://docs.oracle.com/javase/specs/jvms/se7/html/index.html)
 - **Java Performance: The Definitive Guide** by Oaks, Scott [4.38]
 - **Java Performance** by Hunt, Charlie [4.12]
+- Optimizing Java: Practical Techniques for Improving Jvm Application Performance by Benjamin J. Evans, James Gough [4.37]
 - Java Performance Companion by Hunt, Charlie [3.77]
 - Java Performance Tuning by Shirazi, Jack [3.56]
 - Optimizing Java: Practical Techniques for Improving Jvm Application Performance by Evans, Benjamin J. 
@@ -165,11 +167,11 @@ Persistence Framework
 #### Socket
 
 - TCP/IP Sockets in Java: Practical Guide for Programmers by Kenneth L. Calvert,  Michael J. Donahoo
-- Java Network Programming by Harold, Elliotte Rusty
+- Java Network Programming by Harold, Elliotte Rusty [3.57, 113]
 
 #### NIO 
 
-- Java NIO by Hitchens, Ron
+- Java NIO by Hitchens, Ron [3.72, 18]
 - Netty in Action by Maurer, Norman
 - Netty权威指南 by 李林锋 
 

@@ -11,13 +11,16 @@
   - <a name="vue_c" href="#vue_t">Vue.js</a>
   - <a name="react_c" href="#react_t">React </a>
   - <a name="angular_c" href="#angular_t">AngularJS </a>
-- Cross-Platform Application
+- Cross-Platform Mobile Application
   - <a name="flutter_c" href="#flutter_t">Flutter</a>
   - <a name="elec_c" href="#elec_t">Electron</a>
   - <a name="rn_c" href="#rn_t">React Native</a>
+  - More Cross-Platform Techniques...
 - <a name="miniprog_c" href="#miniprog_t">Mini Program</a>
 - <a name="ts_c" href="#ts_t">TypeScript</a>
 - <a name="node_c" href="#node_t">Node.js</a>
+  - Express
+  - Koa.js
 
 <br>
 <h2><a name="htmlcss_t" href="#htmlcss_c">HTML & CSS</a></h2>
@@ -196,7 +199,7 @@ Courses
 - AngularJS in Action by Brian Ford, Lukas Ruebbelke
 - Professional AngularJS by Diego Netto and Valeri Karpov
 
-## Cross-Platform Application
+## Cross-Platform Mobile Application
 
 <br>
 <h3><a name="flutter_t" href="#flutter_c">Flutter</a></h3>
@@ -218,6 +221,7 @@ Courses
 - Cross-platform Desktop Applications: Using Electron and NW.js by Paul B. Jensen
 
 <br>
+
 <h3><a name="rn_t" href="#rn_c">React Native</a></h3>
 <br>
 
@@ -226,7 +230,18 @@ Courses
 - React Native in Action by Nader Dabit
 - Mastering React Native by Eric Masiello, Jacob Friedmann
 
+### uni-app
+
+- [uni-app Documentation]( https://uniapp.dcloud.io/ )
+
+### Apache Cordova
+
+### Ionic 4
+
+### Quasar 
+
 <br>
+
 <h2><a name="miniprog_t" href="#miniprog_c">Mini Program</a></h2>
 <br>
 
@@ -268,4 +283,4 @@ Express
 - Express in Action: Node Applications with Express and Its Companion Tools by Evan Hahn
 - Web Development with Node and Express: Leveraging the JavaScript Stack by Ethan Brown
 
-
+Koa.js
