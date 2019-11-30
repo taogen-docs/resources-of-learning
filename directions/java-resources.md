@@ -139,13 +139,14 @@ JDBC Connection Pool
 Java EE
 
 - [Java EE Documentation - doc](https://www.oracle.com/technetwork/java/javaee/overview/index.html)
-- Expert One-on-One J2EE Design and Development by Johnson, Rod
-- Restful Java with Jax-RS by Burke, Bill
-- Professional Java EE Design Patterns by Yener, Murat
-- High-Performance Java Persistence by Mihalcea, Vlad
-- Java EE 7 Essentials by Gupta, Arun
-- Core J2EE Patterns: Best Practices and Design Strategies (J2EE核心模式)
+- **Expert One-on-One J2EE Design and Development** by Rod Johnson
+- Professional Java EE Design Patterns by Murat Yener, Alex Theedom
+- Java EE 7 Essentials by Arun Gupta
+- Core J2EE Patterns: Best Practices and Design Strategies by Dan Malks, Deepak Alur, and John Crupi (J2EE核心模式)
 - 深入分析Java Web技术内幕 by 许令波 
+- Restful Java with Jax-RS by Bill Burke
+- High-Performance Java Persistence by Vlad Mihalcea
+
 
 
 Web Frameworks
@@ -154,21 +155,23 @@ Web Frameworks
 - [Spring Framework Current Documentation - doc](https://docs.spring.io/spring/docs/current/spring-framework-reference/)
 - [Spring Boot Current Documentation - doc](https://docs.spring.io/spring-boot/docs/current/reference/html/)
 - **Spring in Action** by Craig Walls
-- Cloud Native Java by Josh Long, Kenny Bastani
-- Spring Boot in Action by Craig Walls
-- Learning Spring Boot 2.0
+- **Expert One-On-One J2EE without EJB** by Rod Johnson. It explains the why behind spring as well as the how to use it.
 - Spring 5 Recipes: A Problem-Solution Approach
-- Spring Microservices in Action by John Carnell
-- Expert One-On-One J2EE without EJB  by by Rod Johnson  
-  It explains the why behind spring as well as the how to use it.
 - **Spring 揭秘** (2009) by 王福强
 - Spring 3.x企业应用开发实战 by  陈雄华 
+- Spring Boot in Action by Craig Walls
+- Learning Spring Boot 2.0
+
+Cloud
+
+- Cloud Native Java: Designing Resilient Systems with Spring Boot, Spring Cloud, and Cloud Foundry by Josh Long, Kenny Bastani
+- Spring Microservices in Action by John Carnell
 
 Tutorials
 
 - [Baeldung - Java, Spring and Web Development Tutorials](https://www.baeldung.com/)
 
-Persistence Framework 
+Persistence Framework
 
 - [MyBatis Documentation](https://mybatis.org/mybatis-3/)
 - Java Persistence with Hibernate: Revised Edition of Hibernate in Action by Bauer, Christian
