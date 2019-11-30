@@ -120,6 +120,22 @@ Servlet
 - [Java Servlet Documentation - doc](https://docs.oracle.com/javaee/7/tutorial/servlets.htm)
 - Head First Servlets and JSP (2nd, 2008) by Bryan Basham
 
+JDBC
+
+- [Java JDBC API](https://docs.oracle.com/javase/8/docs/api/index.html?java/sql/package-summary.html)
+- [JDBC Home Page - Java SE Technologies - Database - doc](https://www.oracle.com/technetwork/java/javase/tech/index-jsp-136101.html)
+- [JDBC Basics Tutorial](https://docs.oracle.com/javase/tutorial/jdbc/basics/index.html)
+- [MySQL Connector/J 5.1 Developer Guide]( https://dev.mysql.com/doc/connector-j/5.1/en/ )
+- JDBC Database Access with Java: A Tutorial and Annotated Reference by Graham Hamilton and Rick Cattell
+- JDBC API Tutorial and Reference by Maydene Fisher
+
+JDBC Connection Pool
+
+- [Apache Druid]( https://druid.apache.org/ )
+- [Apache DBCP]( https://commons.apache.org/proper/commons-dbcp/ )
+- [Tomcat JDBC Connection Pool]( https://tomcat.apache.org/tomcat-7.0-doc/jdbc-pool.html )
+- [c3p0]( https://github.com/swaldman/c3p0 )
+
 Java EE
 
 - [Java EE Documentation - doc](https://www.oracle.com/technetwork/java/javaee/overview/index.html)
@@ -154,6 +170,7 @@ Tutorials
 
 Persistence Framework 
 
+- [MyBatis Documentation](https://mybatis.org/mybatis-3/)
 - Java Persistence with Hibernate: Revised Edition of Hibernate in Action by Bauer, Christian
 
 
