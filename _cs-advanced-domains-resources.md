@@ -444,13 +444,19 @@ More Resources
 
 - [awesome-distributed-systems - GitHub](https://github.com/theanalyst/awesome-distributed-systems)
 
-### Distributed Manage & Integrate
+###  Distributed Collaboration 
 
 - 从PAXOS到ZOOKEEPER分布式一致性原理与实践 by 倪超 
 
 ### Distributed Message
 
-- Java Message Service by Mark Richards / Richard Monson-Haefel / David A. Chappell 
+- Java Message Service by Mark Richards, Richard Monson-Haefel and David A. Chappell
+
+### Distributed Database Cluster Middleware
+
+- [Mycat](http://www.mycat.io/)
+- [TiDB](https://pingcap.com/en/)
+- [alibaba/cobar](https://github.com/alibaba/cobar)
 
 <br>
 
