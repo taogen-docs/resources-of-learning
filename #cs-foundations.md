@@ -4,9 +4,9 @@
 
 > High buildings rise from the ground.
 
-> Once you need less, you will have more.
-
 > If you can't explain it simply, you don't understand it well enough.
+
+> Deeds, not words.
 
 ### Content
 
