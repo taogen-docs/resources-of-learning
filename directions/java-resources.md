@@ -67,6 +67,7 @@ JVM Optimization
 - Java Performance Companion by Hunt, Charlie [3.77]
 - Java Performance Tuning by Shirazi, Jack [3.56]
 - Optimizing Java: Practical Techniques for Improving Jvm Application Performance by Evans, Benjamin J. 
+- Inside the Java 2 Virtual Machine (2nd, 2000) by Bill Venners
 - The Garbage Collection Handbook: The Art of Automatic Memory Management by Jones, Richard
 - 深入理解Java虚拟机（第2版） : JVM高级特性与最佳实践 (2013) by 周志明 (8.9)
 - Java程序性能优化-让你的Java程序更快、更稳定 (2012) by 葛一鸣 (8.1)
