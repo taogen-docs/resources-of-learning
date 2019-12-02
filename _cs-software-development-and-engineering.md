@@ -118,7 +118,9 @@ Container
 - Domain-Driven Design: Tackling Complexity in the Heart of Software by Eric Evans
 - Patterns of Enterprise Application Architecture by Martin Fowler
 
+Tutorials
 
+- [Design Patterns in Java Tutorial - Tutorialspoint](https://www.tutorialspoint.com/design_pattern/index.htm)
 
 <br>
 
