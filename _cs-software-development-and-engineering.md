@@ -110,7 +110,8 @@ Container
 
 ### Design Patterns
 
-- **Design Patterns: Elements of Reusable Object-Oriented Software** (1994) by Erich Gamma, Richard Helm,  Ralph Johnson, John Vlissides 
+- **Design Patterns: Elements of Reusable Object-Oriented Software** (1994) by Erich Gamma, Richard Helm,  Ralph Johnson, John Vlissides
+- **Agile Software Development, Principles, Patterns, and Practices** by Robert C. Martin
 - Head First Design Patterns (2004) by Elisabeth Freeman
 - Head First Object-Oriented Analysis and Design (2006) by Brett D. McLaughlin
 - Object-Oriented Analysis and Design with Applications by Grady Booch
