@@ -228,7 +228,7 @@ Courses
 
 - MIT 6.828: Operating System Engineering - [YouTube](https://www.youtube.com/playlist?list=PLfciLKR3SgqNJKKIKUliWoNBBH1VHL3AP)
 
-### Linux
+### Unix/Linux
 
 System and Command Line
 
@@ -262,15 +262,20 @@ Sed & Awk
 - sed & awk by Dale Dougherty, Arnold Robbins
 - The AWK Programming Language by Alfred V. Aho, Brian W. Kernighan, Peter J. Weinberger
 
+Unix Programming
+
+- **Advanced Programming in the UNIX Environment** (3rd, 2013) by W. Richard Stevens  (**APUE**)
+- **The Design of the UNIX Operating System** (1986) by Maurice J. Bach
+- **The Art of Unix Programming** (2003) by Eric S. Raymond
+- Unix Programmer's Manual
+- UNIX Systems for Modern Architectures (1994) by Schimmel
+
 Linux Programming
 
 - **Linux Kernel Development** (3rd, 2010) by Robert Love
-- **Advanced Programming in the UNIX Environment** (3rd, 2013) by W. Richard Stevens  (**APUE**)
-- **The Art of Unix Programming** (2003) by Eric S. Raymond
 - **The Linux Programming Interface** (2010) by Michael Kerrisk
 - Understanding Unix/Linux Programming by Bruce Molay
 - Linux 环境编程 by 高峰
-- UNIX Systems for Modern Architectures (1994) by Schimmel
 - Autotools: A Practioner's Guide to GNU Autoconf, Automake, and Libtool by John Calcote
 
 Linux Drivers

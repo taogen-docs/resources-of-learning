@@ -116,6 +116,9 @@ Advanced
 - You Don't Know JS: Types & Grammar [4] by Kyle Simpson
 - You Don't Know JS: Async & Performance [5] by Kyle Simpson
 - You Don't Know JS: ES6 & Beyond [6] by Kyle Simpson
+- High Performance JavaScript: Build Faster Web Application Interfaces by Nicholas C. Zakas
+- Even Faster Web Sites: Performance Best Practices for Web Developers by Steve Souders
+- JavaScript Patterns by Stoyan Stefanov
 
 Some More
 
@@ -269,7 +272,6 @@ Courses
 <br>
 
 <h3><a name="node_t" href="#node_c">Node.js</a></h3>
-
 <br>
 
 

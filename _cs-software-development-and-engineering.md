@@ -112,6 +112,7 @@ Container
 
 - **Design Patterns: Elements of Reusable Object-Oriented Software** (1994) by Erich Gamma, Richard Helm,  Ralph Johnson, John Vlissides
 - **Agile Software Development, Principles, Patterns, and Practices** by Robert C. Martin
+- **A Philosophy of Software Design** by John Ousterhout
 - Head First Design Patterns (2004) by Elisabeth Freeman
 - Head First Object-Oriented Analysis and Design (2006) by Brett D. McLaughlin
 - Object-Oriented Analysis and Design with Applications by Grady Booch
@@ -162,6 +163,7 @@ Tutorials
 - Just Enough Software Architecture: A Risk-Driven Approach by George Fairbanks 
 - Software Systems Architecture: Working With Stakeholders Using Viewpoints and Perspectives by Nick Rozanski / Eoin Woods 
 - Building Evolutionary Architectures: Support Constant Change by Neal Ford, Patrick Kua, and Rebecca Parsons
+- 企业IT架构转型之道：阿里巴巴中台战略思想与架构实战 by 钟华
 
 ### Distributed System Architecture
 
@@ -253,6 +255,11 @@ Programmer
 - Hackers and Painters: Big Ideas from the Computer Age by Paul Graham
 - 97 Things Every Programmer Should Know: Collective Wisdom from the Experts by Kevlin Henney
 - Soft Skills: The Software Developer's Life Manual by John Z. Sonmez
+- A Brief History of Hackerdom by Raymond.  Eric S. Raymond 
+- The Cathedral and the Bazaar by Eric S. Raymond 
+- How To Become A Hacker by Eric S. Raymond 
+- Homesteading the Noosphere by Eric S. Raymond 
+- The Magic Cauldron by Eric S. Raymond 
 
 For Interview
 
