@@ -222,7 +222,6 @@ Some More
 - Orange'S:一个操作系统的实现 (2009) by 于渊
 - 操作系统真象还原 (2016) by 郑钢
 - 一个64位操作系统的设计与实现 (2018) by 田宇
-- The UNIX Programming Environment by Brian W. Kernighan
 
 Courses
 
@@ -264,6 +263,7 @@ Sed & Awk
 
 Unix Programming
 
+- The UNIX Programming Environment by Brian W. Kernighan
 - **Advanced Programming in the UNIX Environment** (3rd, 2013) by W. Richard Stevens  (**APUE**)
 - **The Design of the UNIX Operating System** (1986) by Maurice J. Bach
 - **The Art of Unix Programming** (2003) by Eric S. Raymond
