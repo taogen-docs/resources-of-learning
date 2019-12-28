@@ -20,11 +20,11 @@
 - <a name="miniprog_c" href="#miniprog_t">Mini Program</a>
 - <a name="ts_c" href="#ts_t">TypeScript</a>
 - <a name="webgra_c" href="#webgra_t">Web Graphics</a>
-- <a name="fullstack_c" href="#fullstack_t">Full Stack Web Development</a>>
+- <a name="tools_c" href="#tools_t">Tools</a>
+- <a name="fullstack_c" href="#fullstack_t">Full Stack Web Development</a>
   - <a name="node_c" href="#node_t">Node.js</a>
-  - Express
-  - Koa.js
-  - MongoDB
+  - Databases
+  - GraphQL
 
 <br>
 <h2><a name="htmlcss_t" href="#htmlcss_c">HTML & CSS</a></h2>
@@ -194,6 +194,11 @@ Courses
 <br>
 
 - [React Documentation - doc](https://reactjs.org/docs/getting-started.html)
+- [React Hooks](https://reactjs.org/docs/hooks-intro.html)
+- [React Router](https://reacttraining.com/react-router/)
+- [Redux](https://redux.js.org/)
+- [redux-saga](https://github.com/redux-saga/redux-saga)
+- [Ant Design of React / antd](https://ant.design/)
 - Learning React: Functional Web Development with React and Redux by Alex Banks and Eve Porcello
 - The Road to Learn React: Your Journey to Master Plain Yet Pragmatic React. Js by Robin Wieruch
 - React Quickly by Azat Mardan
@@ -251,6 +256,11 @@ Courses
 - React Native in Action by Nader Dabit
 - Mastering React Native by Eric Masiello, Jacob Friedmann
 
+### Progressive web apps / PWA
+
+- [Progressive Web Apps](https://developers.google.com/web/progressive-web-apps)
+- [Progressive web apps - MDN web docs](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
+
 ### Apache Cordova
 
 - [Apache Cordova](https://cordova.apache.org/). Using standard web technologies - HTML5, CSS3, and JavaScript for cross-platform development
@@ -307,6 +317,17 @@ Courses
 
 <br>
 
+<h2><a name="tools_t" href="#tools_c">Tools</a></h2>
+<br>
+
+- [webpack](https://webpack.js.org/)
+- [gulp.js](https://gulpjs.com/)
+- [Polymer Project](https://www.polymer-project.org/)
+- [WebAssembly](https://webassembly.org/)
+- Git
+- Nginx
+- Docker
+
 <h2><a name="fullstack_t" href="#fullstack_c">Full Stack Web Development</a></h2>
 <br>
 
@@ -328,6 +349,12 @@ Express
 - Web Development with Node and Express: Leveraging the JavaScript Stack by Ethan Brown
 
 Koa.js
+
+### Databases
+
+MongoDB
+
+### GraphQL
 
 
 
