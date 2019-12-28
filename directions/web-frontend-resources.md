@@ -5,9 +5,10 @@
 - <a name="htmlcss_c" href="#htmlcss_t">HTML & CSS</a>
   - <a name="webdes_c" href="#webdes_t">Web Design</a>
   - <a name="bootstrap_c" href="#bootstrap_t">BootStrap</a>
+- <a name="ecma_c" href="#ecma_t">ECMAScript</a>
 - <a name="js_c" href="#js_t">JavaScript</a>
   - <a name="jq_c" href="#jq_t">jQuery</a>
-- Modern JS Framework
+- Progressive JS Framework
   - <a name="vue_c" href="#vue_t">Vue.js</a>
   - <a name="react_c" href="#react_t">React </a>
   - <a name="angular_c" href="#angular_t">AngularJS </a>
@@ -20,6 +21,8 @@
 - <a name="ts_c" href="#ts_t">TypeScript</a>
 - Full Stack Web Development
   - <a name="node_c" href="#node_t">Node.js</a>
+  - Express
+  - Koa.js
   - MongoDB
 
 <br>
@@ -91,6 +94,17 @@ Responsible Design
 - Bootstrap Reference Guide: Bootstrap 4 and 3 Cheat Sheets Collection by Jacob Lett
 
 <br>
+
+<h2><a name="ecma_t" href="#ecma_c">ECMAScript</a></h2>
+
+<br>
+
+- [ECMAScript® Language Specification - Standard ECMA-262, 7th Edition / June 2016](https://www.ecma-international.org/ecma-262/7.0/)
+
+- [ECMAScript 6 — New Features](http://es6-features.org)
+
+<br>
+
 <h2><a name="js_t" href="#js_c">JavaScript</a></h2>
 <br>
 
@@ -108,7 +122,7 @@ Prime
 
 Advanced
 
-- JavaScript: The Good Parts by Douglas Crockford
+- **JavaScript: The Good Parts** by Douglas Crockford
 - Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript 
 - You Don't Know JS: Up & Going [1] by Kyle Simpson
 - You Don't Know JS: Scope & Closures [2] by Kyle Simpson
@@ -155,9 +169,10 @@ Courses
 - jQuery: Novice to Ninja by Earle Castledine
 - JavaScript and JQuery: Interactive Front-End Web Development by Jon Duckett
 
-## Modern JS Framework
+## Progressive JS Framework
 
 <br>
+
 <h3><a name="vue_t" href="#vue_c">Vue.js</a></h3>
 <br>
 
@@ -209,7 +224,7 @@ Courses
 <br>
 
 
-- [Flutter Documentation - doc](https://flutter.dev/docs)
+- [Flutter](https://flutter.dev). Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
 - Beginning Flutter: A Hands on Guide to App Development by Marco L Napoli
 - Flutter in Action by Eric Windmill
 
@@ -218,7 +233,7 @@ Courses
 <br>
 
 
-- [Electron Documentation]( https://electronjs.org/docs )
+- [Electron](https://electronjs.org). Build cross platform desktop apps with JavaScript, HTML, and CSS
 - Electron in Action by Steve Kinney
 - Electron: From Beginner to Pro: Learn to Build Cross Platform Desktop Applications Using Github's Electron by Chris Griffith and Leif Wells
 - Cross-platform Desktop Applications: Using Electron and NW.js by Paul B. Jensen
@@ -228,20 +243,30 @@ Courses
 <h3><a name="rn_t" href="#rn_c">React Native</a></h3>
 <br>
 
-- [React Native Docs]( https://facebook.github.io/react-native/docs/getting-started )
+- [React Native Docs](https://facebook.github.io/react-native/docs/getting-started)
 - Learning React Native: Building Native Mobile Apps with JavaScript by Bonnie Eisenman
 - React Native in Action by Nader Dabit
 - Mastering React Native by Eric Masiello, Jacob Friedmann
 
-### uni-app
-
-- [uni-app Documentation]( https://uniapp.dcloud.io/ )
-
 ### Apache Cordova
+
+- [Apache Cordova](https://cordova.apache.org/). Using standard web technologies - HTML5, CSS3, and JavaScript for cross-platform development
 
 ### Ionic 4
 
-### Quasar 
+- [Ionic](https://ionicframework.com/). One codebase. Any platform. Now in **React**.
+
+### Taro
+
+- [Taro](https://taro.aotu.io/). 一套遵循 **React** 语法规范的多端开发解决方案。
+
+### Quasar Framework
+
+- [Quasar Framework](https://quasar.dev/). Build high-performance **VueJS** user interfaces. All Platforms in One Go.
+
+### uni-app
+
+- [uni-app]( https://uniapp.dcloud.io/ ). 一个使用 **Vue.js** 开发所有前端应用的框架。
 
 <br>
 
