@@ -23,22 +23,21 @@
 <h2><a name="code_t" href="#code_c">Code</a></h2>
 <br>
 
-- Clean Code : A Handbook of Agile Software Craftsmanship (2008) by Robert C. Martin, Prentice Hall
+- **Clean Code : A Handbook of Agile Software Craftsmanship** (2008) by Robert C. Martin, Prentice Hall
+- **Code Complete** (2nd, 2004) by Steve McConnell
+- **The Practice of Programming** by Brian W. Kernighan
+- **Hacker's Delight** by Henry S. Warren Jr.
+- Writing Solid Code by Steve Maguire
 - The Art of Readable Code by Dustin Boswell, Trevor Foucher
-- Clean Architecture by Robert C. Martin
+- Think Like a Programmer: An Introduction to Creative Problem Solving by V. Anton Spraul
 - 码出高效：Java开发手册 by 杨冠宝, 高海慧
 - 码农翻身 (2018) by 刘欣
-- Code Complete (2nd, 2004) by Steve McConnell
-- The Practice of Programming by Brian W. Kernighan
-- Writing Solid Code by Steve Maguire
-- Hacker's Delight by Henry S. Warren Jr.
-- Think Like a Programmer: An Introduction to Creative Problem Solving by V. Anton Spraul
 
 Refactoring
 
-- Refactoring : Improving the Design of Existing Code (2nd, 2018) by Martin Fowler, Kent Beck 
-- Refactoring to Patterns by Joshua Kerievsky
-- Working Effectively with Legacy Code by Michael C. Feathers
+- **Refactoring : Improving the Design of Existing Code** (2nd, 2018) by Martin Fowler, Kent Beck 
+- **Refactoring to Patterns** by Joshua Kerievsky
+- **Working Effectively with Legacy Code** by Michael C. Feathers
 
 
 
@@ -47,8 +46,8 @@ Refactoring
 <h2><a name="test_t" href="#test_c">Test</a></h2>
 <br>
 
-- Test Driven Development: By Example (2002) by  Kent Beck 
-- Growing Object-Oriented Software, Guided by Tests by Steve Freeman
+- **Test Driven Development: By Example** (2002) by  Kent Beck 
+- **Growing Object-Oriented Software, Guided by Tests** by Steve Freeman
 - Effective Unit Testing by Lasse Koskela
 - xUnit Test Patterns: Refactoring Test Code by Gerard Meszaros
 - The RSpec Book by David Chelimsky
@@ -129,7 +128,7 @@ Tutorials
 <h2><a name="sre_t" href="#sre_c">SRE</a></h2>
 <br>
 
-- Site Reliability Engineering: How Google Runs Production Systems
+- **Site Reliability Engineering: How Google Runs Production Systems** by Betsy Beyer
 - The Site Reliability Workbook: Practical Ways to Implement SRE
 - Seeking SRE: Conversations About Running Production Systems at Scale by David N. Blank-Edelman
 - The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations
@@ -212,20 +211,19 @@ Articles
 <h2><a name="agile_t" href="#agile_c">Team & Agile</a></h2>
 <br>
 
-- Extreme Programming Explained: Embrace Change by Kent Beck
-- The Mythical Man-Month: Essays on Software Engineering by Jr·Frederick P·Brooks 
-- Agile Software Development, Principles, Patterns, and Practices by Robert C. Martin
-- Scrum and XP from the Trenches by Henrik Kniberg
-- The Art of Agile Development by James Shore, Shane Warden 
+- **Extreme Programming Explained: Embrace Change** by Kent Beck
+- **The Mythical Man-Month: Essays on Software Engineering** by Jr·Frederick P·Brooks 
+- **Peopleware: Productive Projects and Teams** by Tom DeMarco 
+- **Scrum and XP from the Trenches** by Henrik Kniberg
+- **The Goal: A Process of Ongoing Improvement** by Eliyahu M. Goldratt
+- **Lean from the Trenches** by Henrik Kniberg
+- **Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency** by Tom DeMarco
+- **The Software Craftsman: Professionalism, Pragmatism, Pride** by Sandro Mancuso 
+- **Implementing Lean Software Development: From Concept to Cash** by Mary Poppendieck
+- **The Art of Agile Development** by James Shore, Shane Warden 
+- **The Agile Samurai by** Jonathan Rasmusson
 - Learning Agile by Andrew Stellman
 - Ship It! by Jared Richardson
-- The Agile Samurai by Jonathan Rasmusson
-- Lean from the Trenches by Henrik Kniberg
-- Peopleware: Productive Projects and Teams by Tom DeMarco 
-- The Goal: A Process of Ongoing Improvement by Eliyahu M. Goldratt
-- Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency by Tom DeMarco
-- The Software Craftsman: Professionalism, Pragmatism, Pride by Sandro Mancuso 
-- Implementing Lean Software Development: From Concept to Cash by Mary Poppendieck
 
 
 Some More
@@ -252,22 +250,19 @@ Some More
 
 Programmer
 
-- The Pragmatic Programmer: From Journeyman to Master by Andrew Hunt, David Thomas 
-- Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman (2009) by Dave H. Hoover and Adewale Oshineye
-- The Clean Coder: A Code of Conduct for Professional Programmers by Robert C. Martin
-- Joel on Software by Joel Spolsky
-- Hackers and Painters: Big Ideas from the Computer Age by Paul Graham
+- **The Pragmatic Programmer: From Journeyman to Master** (2nd, 2019) by Andrew Hunt, David Thomas 
+- **Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman** (2009) by Dave H. Hoover and Adewale Oshineye
+- **The Clean Coder: A Code of Conduct for Professional Programmers** by Robert C. Martin
+- **Joel on Software** by Joel Spolsky
+- **Hackers and Painters: Big Ideas from the Computer Age** by Paul Graham
+- **Soft Skills: The Software Developer's Life Manual** by John Z. Sonmez
+- **The Cathedral and the Bazaar** by Eric S. Raymond 
 - 97 Things Every Programmer Should Know: Collective Wisdom from the Experts by Kevlin Henney
-- Soft Skills: The Software Developer's Life Manual by John Z. Sonmez
 - A Brief History of Hackerdom by Raymond.  Eric S. Raymond 
-- The Cathedral and the Bazaar by Eric S. Raymond 
-- How To Become A Hacker by Eric S. Raymond 
-- Homesteading the Noosphere by Eric S. Raymond 
-- The Magic Cauldron by Eric S. Raymond 
 
 Tech Leader
 
-- The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change by Camille Fournier
+- **The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change** by Camille Fournier
 -  A Elegant Puzzle: System of Engineering Management by Will Larson
 -  Accelerate: Building and Scaling High-Performance Technology Organizations by Nicole Forsgern
 
