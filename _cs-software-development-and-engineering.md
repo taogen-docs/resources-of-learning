@@ -151,42 +151,46 @@ Tutorials
 
 ### Application Architecture
 
-- Patterns of Enterprise Application Architecture by Martin Fowler
-- Domain-driven design by Eric J. Evans
-- Enterprise Integration Patterns by Gregor Hohpe
+- **Patterns of Enterprise Application Architecture** by Martin Fowler
+- **Domain-Driven Design: Tackling Complexity in the Heart of Software** by Eric Evans
+- **Enterprise Integration Patterns** by Gregor Hohpe
+- **Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems** by Martin Kleppmann
+- **Implementing Domain-Driven Design** by Vaughn Vernon
+- **Clean Architecture** by Robert Cecil Martin
+- Building Evolutionary Architectures: Support Constant Change by Neal Ford, Patrick Kua, and Rebecca Parsons
+- The Art of Scalability: Scalable Web Architecture, Processes, and Organizations for the Modern Enterprise by Martin L. Abbott, Michael T. Fisher
 - Web Application Architecture: Principles, Protocols and Practices by Leon Shklar
-- Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems by Martin Kleppmann
-- Clean Architecture by Robert Cecil Martin
 - Software Architecture: Foundations, Theory, and Practice by Richard N. Taylor
 - Java Application Architecture: Modularity Patterns with Examples Using OSGi by Kirk Knoernschild
-- System Architecture: Strategy and Product Development for Complex Systems by ..
+- System Architecture: Strategy and Product Development for Complex Systems by Bruce Cameron, Daniel Selva, and Edward F. Crawley
 - Just Enough Software Architecture: A Risk-Driven Approach by George Fairbanks 
-- Software Systems Architecture: Working With Stakeholders Using Viewpoints and Perspectives by Nick Rozanski / Eoin Woods 
-- Building Evolutionary Architectures: Support Constant Change by Neal Ford, Patrick Kua, and Rebecca Parsons
+- Software Systems Architecture: Working With Stakeholders Using Viewpoints and Perspectives by Nick Rozanski and Eoin Woods 
+- Building Scalable Web Sites by Cal Henderson
+- Web Scalability for Startup Engineers by Artur Ejsmont
+- Scalability Rules: Principles for Scaling Web Sites by Martin L. Abbott,  Michael T. Fisher
+- Scalability Rules: 50 Principles for Scaling Web Sites by Martin L. Abbott,  Michael T. Fisher
 - 企业IT架构转型之道：阿里巴巴中台战略思想与架构实战 by 钟华
 
 ### Distributed System Architecture
 
 - 大型网站技术架构 by 李智慧
-- 大型网站系统与JAVA中间件实践 by ..
+- 大型网站系统与JAVA中间件实践 by 曾宪杰
 - 分布式服务架构：原理、设计与实战 by 李艳鹏 / 杨彪 
 - 亿级流量网站架构核心技术 by  张开涛 
-- Building Scalable Web Sites by Cal Henderson 
-- Scalability Rules: Principles for Scaling Web Sites by Martin L. Abbott,  Michael T. Fisher
-- Scalability Rules: 50 Principles for Scaling Web Sites by Martin L. Abbott,  Michael T. Fisher
+- 架构修炼之道——亿级网关、平台开放、分布式、微服务、容错等核心技术修炼实践 by 王新栋
 
 ### Microservices Architecture
 
-- Building Microservices by Sam Newman
+- **Building Microservices: Designing Fine-Grained Systems** by Sam Newman
 - Production-Ready Microservices by Susan J. Fowler
 
 ### DevOps Architecture
 
+- **Site Reliability Engineering: How Google Runs Production Systems** by Betsy Beyer
+- **Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation** by Jez Humble, David Farley 
+- **Release It!: Design and Deploy Production-Ready Software** by Michael T.Nygard 
 - 进化 - 运维技术变革与实践探索 by 赵成
-- Site Reliability Engineering: How Google Runs Production Systems by Betsy Beyer
 - The Site Reliability Workbook: Practical Ways to Implement SRE by Betsy Beyer 
-- Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation by Jez Humble / David Farley 
-- Release It!: Design and Deploy Production-Ready Software by Michael T.Nygard 
 - DevOps: A Software Architect's Perspective by Len Bass
 
 
@@ -260,6 +264,12 @@ Programmer
 - How To Become A Hacker by Eric S. Raymond 
 - Homesteading the Noosphere by Eric S. Raymond 
 - The Magic Cauldron by Eric S. Raymond 
+
+Tech Leader
+
+- The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change by Camille Fournier
+-  A Elegant Puzzle: System of Engineering Management by Will Larson
+-  Accelerate: Building and Scaling High-Performance Technology Organizations by Nicole Forsgern
 
 For Interview
 
