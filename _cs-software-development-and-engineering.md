@@ -118,6 +118,7 @@ Container
 - Object-Oriented Software Construction by Bertrand Meyer
 - Domain-Driven Design: Tackling Complexity in the Heart of Software by Eric Evans
 - Patterns of Enterprise Application Architecture by Martin Fowler
+- Beautiful Code: Leading Programmers Explain How They Think by Andy Oram, Greg Wilson
 
 Tutorials
 
@@ -211,17 +212,22 @@ Articles
 <h2><a name="agile_t" href="#agile_c">Team & Agile</a></h2>
 <br>
 
+Must Read
+
 - **Extreme Programming Explained: Embrace Change** by Kent Beck
 - **The Mythical Man-Month: Essays on Software Engineering** by Jr·Frederick P·Brooks 
 - **Peopleware: Productive Projects and Teams** by Tom DeMarco 
 - **Scrum and XP from the Trenches** by Henrik Kniberg
+- **Scrum: The Art of Doing Twice the Work in Half the Time** by Jeff Sutherland
 - **The Goal: A Process of Ongoing Improvement** by Eliyahu M. Goldratt
 - **Lean from the Trenches** by Henrik Kniberg
 - **Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency** by Tom DeMarco
 - **The Software Craftsman: Professionalism, Pragmatism, Pride** by Sandro Mancuso 
 - **Implementing Lean Software Development: From Concept to Cash** by Mary Poppendieck
 - **The Art of Agile Development** by James Shore, Shane Warden 
-- **The Agile Samurai by** Jonathan Rasmusson
+- **The Agile Samurai** by Jonathan Rasmusson
+- Rapid Development: Taming Wild Software Schedules by Steve McConnell
+- Lean thinking  banish waste and creat wealth in your corporation by James P.Womack 
 - Learning Agile by Andrew Stellman
 - Ship It! by Jared Richardson
 
@@ -234,12 +240,11 @@ Some More
 - Agile Project Management with Scrum by Ken Schwaber
 - Succeeding with Agile:Software development using Scrum by Mike Cohn
 - Agile Estimating and Planning by Mike Cohn
-- Lean thinking  banish waste and creat wealth in your corporation by James P.Womack 
 - Kanban: Successful Evolutionary Change for Your Technology Business by David J.Anderson
 - User Stories Applied:For Agile Software Development by Mike Cohn
 - User Story Mapping Building Better Products using Agile Software Design by Jeff Patton
 - Manage Your Project Portfolio by Johanna Rothman 
-- Rapid Development: Taming Wild Software Schedules by Steve McConnell
+
 
 
 
@@ -253,10 +258,15 @@ Programmer
 - **The Pragmatic Programmer: From Journeyman to Master** (2nd, 2019) by Andrew Hunt, David Thomas 
 - **Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman** (2009) by Dave H. Hoover and Adewale Oshineye
 - **The Clean Coder: A Code of Conduct for Professional Programmers** by Robert C. Martin
-- **Joel on Software** by Joel Spolsky
+- **Joel on Software** (3rd, 2004) by Joel Spolsky
+- **More Joel on Software** (2008) by Joel Spolsky
 - **Hackers and Painters: Big Ideas from the Computer Age** by Paul Graham
 - **Soft Skills: The Software Developer's Life Manual** by John Z. Sonmez
 - **The Cathedral and the Bazaar** by Eric S. Raymond 
+- **Coders at Work: Reflections on the Craft of Programming** by Peter Seibel
+- **The Passionate Programmer** by Chad Fowler
+- **Pragmatic Thinking and Learning: Refactor Your Wetware** by Andy Hunt
+- Effective Programming: More Than Writing Code by Jeff Atwood
 - 97 Things Every Programmer Should Know: Collective Wisdom from the Experts by Kevlin Henney
 - A Brief History of Hackerdom by Raymond.  Eric S. Raymond 
 

@@ -50,7 +50,7 @@ Master
 Concurrency Programming
 
 - **Java Concurrency in Practice** (2006) by Goetz, Brian
-- Concurrent Programming in Java: Design Principles and Patterns (2006) by Doug Lea 
+- Concurrent Programming in Java: Design Principles and Patterns (2nd, 1999) by Doug Lea 
 - Java多线程编程实战指南-核心篇 (2017) by 黄文海 (9.8)
 - 图解Java多线程设计模式 (2017) by  [日] 结城浩 (8.5)
 - Java多线程编程实战指南-设计模式篇 (2015) by 黄文海 (8.5)
