@@ -34,7 +34,8 @@ beginner
 
 Master
 
-- Java SE 8 Documentation<br><https://www.oracle.com/technetwork/java/javase/documentation/index.html>   <https://docs.oracle.com/javase/8/>
+- Java SE 8 Documentation [Link 1](https://www.oracle.com/technetwork/java/javase/documentation/index.html)  [Link 2](https://docs.oracle.com/javase/8/)
+- [Java SE White Papers](https://www.oracle.com/technetwork/java/javase/documentation/whitepapers-jsp-139357.html)
 - [The Java® Language Specification Java SE 8 Edition - doc](https://docs.oracle.com/javase/specs/jls/se8/html/index.html)
 - **Effective Java** (2nd, 2008) by Joshua Bloch 
 - **Thinking in Java** (4th, 2006) by Eckel, Bruce
