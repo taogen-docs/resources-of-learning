@@ -393,9 +393,12 @@ Object-Oriented
 - Elegant Objects by Yegor Bugayenko
 - Head First Object-Oriented Analysis and Design: A Brain Friendly Guide to OOA&D by Brett McLaughlin, Gary Pollice, David West
 
+Virtual Machine
+
+> Lisp, Smalltalk, Pascal 
+
+
 <br>
-
-
 <h2><a name="lang_t" href="#lang_c">Programming Languages</a></h2>
 <br>
 
