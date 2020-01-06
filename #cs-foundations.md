@@ -385,7 +385,7 @@ Garbage Collection
 
 Object-Oriented
 
-> C++, Java
+> C++, C#, Java
 
 - Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma, Ralph Johnson, John Vlissides, Richard Helm
 - Object-Oriented Software Construction by Bertrand Meyer
@@ -395,7 +395,7 @@ Object-Oriented
 
 Virtual Machine
 
-> Lisp, Smalltalk, Pascal 
+> Lisp, Smalltalk, Pascal, Java
 
 
 <br>
