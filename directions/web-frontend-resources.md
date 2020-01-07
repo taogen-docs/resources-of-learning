@@ -173,7 +173,6 @@ Courses
 <br>
 
 <h2><a name="ts_t" href="#ts_c">TypeScript</a></h2>
-
 <br>
 
 
@@ -337,6 +336,9 @@ Courses
 <br>
 
 
+- [Node.js Docs](https://nodejs.org/en/docs/)
+- [Node.js Guides - doc](https://nodejs.org/en/docs/guides/)
+- [Node.js v13.5.0 API - doc](https://nodejs.org/api/)
 - Node.js in Action by Marc Harter, Mike Cantelon, Nathan Rajlich, and T. J. Holowaychuk
 - Beginning Node.Js by Basarat Syed
 - Practical Node.js: Building Real-world Scalable Web Apps by Azat Mardan
@@ -347,10 +349,13 @@ Courses
 
 Express
 
+- [Express Getting Started - doc](https://expressjs.com/en/starter/installing.html)
 - Express in Action: Node Applications with Express and Its Companion Tools by Evan Hahn
 - Web Development with Node and Express: Leveraging the JavaScript Stack by Ethan Brown
 
 Koa.js
+
+- [Koa.js - doc](https://koajs.com/)
 
 ### Databases
 
