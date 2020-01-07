@@ -5,9 +5,11 @@
 - <a name="htmlcss_c" href="#htmlcss_t">HTML & CSS</a>
   - <a name="webdes_c" href="#webdes_t">Web Design</a>
   - <a name="bootstrap_c" href="#bootstrap_t">BootStrap</a>
+- Cross-Browser Compatibility
 - <a name="ecma_c" href="#ecma_t">ECMAScript</a>
 - <a name="js_c" href="#js_t">JavaScript</a>
   - <a name="jq_c" href="#jq_t">jQuery</a>
+- <a name="ts_c" href="#ts_t">TypeScript</a>
 - <a name="progjs_c" href="#progjs_t">Progressive JS Framework</a>
   - <a name="vue_c" href="#vue_t">Vue.js</a>
   - <a name="react_c" href="#react_t">React </a>
@@ -18,7 +20,6 @@
   - <a name="rn_c" href="#rn_t">React Native</a>
   - More ...
 - <a name="miniprog_c" href="#miniprog_t">Mini Program</a>
-- <a name="ts_c" href="#ts_t">TypeScript</a>
 - <a name="webgra_c" href="#webgra_t">Web Graphics</a>
 - <a name="tools_c" href="#tools_t">Tools</a>
 - <a name="fullstack_c" href="#fullstack_t">Full Stack Web Development</a>
@@ -171,6 +172,21 @@ Courses
 
 <br>
 
+<h2><a name="ts_t" href="#ts_c">TypeScript</a></h2>
+
+<br>
+
+
+- [TypeScript Documentation - doc]( https://www.typescriptlang.org/docs/home.html )
+- Programming TypeScript: Making Your JavaScript Applications Scale by Boris Cherny
+- Pro TypeScript: Application-Scale JavaScript Development by Steve Fenton
+- Mastering TypeScript - Second Edition by Nathan Rozentals
+- TypeScript Essentials by Christopher Nance
+- Angular 2 Development with TypeScript by Anton Moiseev and Yakov Fain
+- TypeScript Deep Dive by Basarat Ali Syed
+
+<br>
+
 <h2><a name="progjs_t" href="#progjs_c">Progressive JS Framework</a></h2>
 <br>
 
@@ -290,20 +306,6 @@ Courses
 - [微信公共平台 - 小程序]( https://mp.weixin.qq.com/cgi-bin/wx )
 - [QQ 小程序]( https://q.qq.com/#/ )
 - [支付宝小程序 - 开发文档]( https://docs.alipay.com/mini/developer/ )
-
-
-<br>
-<h2><a name="ts_t" href="#ts_c">TypeScript</a></h2>
-<br>
-
-
-- [TypeScript Documentation - doc]( https://www.typescriptlang.org/docs/home.html )
-- Programming TypeScript: Making Your JavaScript Applications Scale by Boris Cherny
-- Pro TypeScript: Application-Scale JavaScript Development by Steve Fenton
-- Mastering TypeScript - Second Edition by Nathan Rozentals
-- TypeScript Essentials by Christopher Nance
-- Angular 2 Development with TypeScript by Anton Moiseev and Yakov Fain
-- TypeScript Deep Dive by Basarat Ali Syed
 
 <br>
 
