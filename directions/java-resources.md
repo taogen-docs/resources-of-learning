@@ -115,12 +115,14 @@ Reference [Web Frontend Resource](web-frontend-resources.md)
 
 #### Java Web
 
-Servlet
+Java Servlet
 
 - [Java Servlet Specification Version 4.0 - doc](https://javaee.github.io/servlet-spec/downloads/servlet-4.0/servlet-4_0_FINAL.pdf)
 - [Java Servet API](https://docs.oracle.com/javaee/7/api/index.html?javax/servlet/package-summary.html)
 - [Java Servlet Documentation - doc](https://docs.oracle.com/javaee/7/tutorial/servlets.htm)
 - Head First Servlets and JSP (2nd, 2008) by Bryan Basham
+- Murach's Java Servlets and JSP (3rd, 2014) by Joel Murach, Andrea Steelman
+- Java Servlet Programming by Jason Hunter, William Crawford
 
 JDBC
 
