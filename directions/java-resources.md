@@ -26,8 +26,9 @@
 
 beginner
 
-- **Core Java** (11th, 2018) Volume I Fundamentals by S, Horstmann 
 - [**The Java™ Tutorials**](https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html)
+- **Core Java** (11th, 2018) Volume I Fundamentals by S, Horstmann 
+- Java: A Beginner's Guide (8th) by Herbert Schildt
 - Head First Java (2nd, 2009) by Kathy Sierra 
 - Java 8 in Action (2014) by Raoul-Gabriel Urma, Mario Fusco
 - Java: The Complete Reference (11th) by Schildt, Herbert
@@ -40,18 +41,35 @@ Master
 - **Effective Java** (2nd, 2008) by Joshua Bloch 
 - **Thinking in Java** (4th, 2006) by Eckel, Bruce
 - On Java 8 by Bruce Eckel
-- Modern Java in Action (JDK9) (2nd, 2018) by Raoul-Gabriel Urma, Mario Fusco
-- Java 9 Modularity: Patterns and Practices for Developing Maintainable Applications by Mak, Sander
-- Modern Java Recipes: Simple Solutions to Difficult Problems in Java 8 and 9 by Kousen, Ken
-- Java in a Nutshell by David Flanagan
+- Java in a Nutshell: A Desktop Quick Reference (7th, 2019) by David Flanagan
 - Java Puzzlers by Joshua Bloch, Neal Gafter
+- Think Java: How to Think Like a Computer Scientist by Allen B. Downey
+- Java Cookbook by Ian F. Darwin
+- Java Network Programming by Elliotte Rusty Harold
 - 阿里巴巴Java开发手册 by 杨冠宝 
 - 码出高效：Java开发手册 by 杨冠宝 
+- Java Generics and Collections: Speed Up the Java Development Process by Maurice Naftalin
+
+Modern Java Features
+
+- Modern Java Recipes: Simple Solutions to Difficult Problems in Java 8 and 9 by Kousen, Ken
+- Modern Java in Action (JDK9) (2nd, 2018) by Raoul-Gabriel Urma, Mario Fusco
+- Java 9 Modularity: Patterns and Practices for Developing Maintainable Applications by Mak, Sander
+- Core Java SE 9 for the Impatient (2nd) by Cay S.Horstmann
+
+JVM Languages
+
+> Scala, Groovy, Closure, and Kotlin
+
+- Kotlin in Action by Dmitry Jemerov, Svetlana Isakova
 
 Concurrency Programming
 
+- The Art of Multiprocessor Programming by Maurice Herlihy, Nir Shavit
+- Java Threads (3rd, 2004) by Scott Oaks, Henry Wong
 - **Java Concurrency in Practice** (2006) by Goetz, Brian
 - Concurrent Programming in Java: Design Principles and Patterns (2nd, 1999) by Doug Lea 
+- Programming Concurrency on the JVM by Venkat Subramaniam
 - Java多线程编程实战指南-核心篇 (2017) by 黄文海 (9.8)
 - 图解Java多线程设计模式 (2017) by  [日] 结城浩 (8.5)
 - Java多线程编程实战指南-设计模式篇 (2015) by 黄文海 (8.5)
@@ -59,7 +77,7 @@ Concurrency Programming
 - Java并发编程的艺术 (2015)  by 方腾飞,  魏鹏, 程晓明 (7.3)
 - Seven Concurrency Models in Seven Weeks: When Threads Unravel (2014) by  Paul Butcher 
 
-JVM Optimization
+JVM Tuning
 
 - [The Java® Virtual Machine Specification Java SE 7 Edition - doc](https://docs.oracle.com/javase/specs/jvms/se7/html/index.html)
 - **Java Performance: The Definitive Guide** by Oaks, Scott [4.38]
@@ -148,10 +166,8 @@ Java EE
 - Java EE 7 Essentials by Arun Gupta
 - Core J2EE Patterns: Best Practices and Design Strategies by Dan Malks, Deepak Alur, and John Crupi (J2EE核心模式)
 - 深入分析Java Web技术内幕 by 许令波 
-- Restful Java with Jax-RS by Bill Burke
-- High-Performance Java Persistence by Vlad Mihalcea
-
-
+- Iron-Clad Java: Building Secure Web Applications by Jim Manico, August Detlefsen
+- Professional Java for Web Applications by Nicholas S. Williams
 
 Web Frameworks
 
@@ -166,19 +182,46 @@ Web Frameworks
 - Spring Boot in Action by Craig Walls
 - Learning Spring Boot 2.0
 
-Cloud
+Java Persistence
 
+- High-Performance Java Persistence by Vlad Mihalcea
+- [MyBatis Documentation](https://mybatis.org/mybatis-3/)
+- Java Persistence with Hibernate: Revised Edition of Hibernate in Action by Bauer, Christian
+
+
+Web Services
+
+
+- Microservices Patterns: With examples in Java by Chris Richardson 
+- Designing Data-Intensive Applications by Martin Kleppmann
+- Release It!: Design and Deploy Production-Ready Software by Michael T. Nygard
+- Microservices From Design to Deployment by Chris Richardson
+- Building Microservices: Designing Fine-Grained Systems by Sam Newman
+- Production-Ready Microservices: Building Standardized Systems Across an Engineering Organization by Susan Fowler
+- Microservices in Action by Morgan Bruce
+- Domain-Driven Design: Tackling Complexity in the Heart of Software by Eric Evans
+- Domain-Driven Design Distilled by Vaughn Vernon
+- Refactoring Databases: Evolutionary Database Design by Scott W. Ambler
+- Migrating to Cloud-Native Application Architectures by Matt Stine
+- Microservices AntiPatterns and Pitfalls by Mark Richards
+- Microservices in Production by Susan Fowler
+- Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation by Jez Humble
+- Migrating to Microservice Databases by Edson Yanaga
 - Cloud Native Java: Designing Resilient Systems with Spring Boot, Spring Cloud, and Cloud Foundry by Josh Long, Kenny Bastani
-- Spring Microservices in Action by John Carnell
+- Microservices for Java Developers A Hands-On Introduction to Frameworks and Containers by Christian Posta
+- Microservice Architecture: Aligning Principles, Practices, and Culture by Irakli Nadareishvili
+- Microservices: Flexible Software Architectures by Eberhard Wolff
+- Java Message Service: Creating Distributed Enterprise Applications by Mark Richards
+- Java Web Services: Up and Running by Martin Kalin
+- Restful Java with Jax-RS by Bill Burke
+- Spring Microservices in Action by John Carnells
+- Restlet in Action: Developing RESTful web APIs in Java by Jerome Louvel, Thierry Templier, Thierry Boileau
+
+
 
 Tutorials
 
 - [Baeldung - Java, Spring and Web Development Tutorials](https://www.baeldung.com/)
-
-Persistence Framework
-
-- [MyBatis Documentation](https://mybatis.org/mybatis-3/)
-- Java Persistence with Hibernate: Revised Edition of Hibernate in Action by Bauer, Christian
 
 
 
