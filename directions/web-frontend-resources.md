@@ -65,7 +65,6 @@ Responsible Design
 <br>
 
 <h3><a name="bootstrap_t" href="#bootstrap_c">Bootstrap</a></h3>
-
 <br>
 
 - [Bootstrap Documentation - doc]( https://getbootstrap.com/docs/4.4/getting-started/introduction/ )
@@ -338,6 +337,8 @@ Courses
 - Git
 - Nginx
 - Docker
+
+<br>
 
 <h2><a name="fullstack_t" href="#fullstack_c">Full Stack Web Development</a></h2>
 <br>
