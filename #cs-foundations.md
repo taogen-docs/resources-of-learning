@@ -727,6 +727,10 @@ Reference [Web Frontend Resources - HTML & CSS](directions/web-frontend-resource
 - [hackr.io - Find the best online Programming Courses & Tutorials](https://hackr.io/)
 - [Exercism.io - Code practice and mentorship for everyone](https://exercism.io/)
 - [PDF Drive - Search and download PDF files for free.](https://www.pdfdrive.com/)
+- [tutorials point - Simply easy learning](https://www.tutorialspoint.com/)
+- [learn everything](https://www.learnpython.org/)
+- [w3schools](https://www.w3schools.com/)
+- [MIT OpenCourseware](https://ocw.mit.edu/)
 
 <br>
 
@@ -735,4 +739,6 @@ Reference [Web Frontend Resources - HTML & CSS](directions/web-frontend-resource
 
 [1] [Essential Programming Books - Goodreads](https://www.goodreads.com/list/show/542.Essential_Programming_Books)
 
-[2] [The 50 Best Websites to Learn Python](https://www.codeconquest.com/blog/the-50-best-websites-to-learn-python/)
+[2] [71 OF THE BEST PLACES TO LEARN TO CODE FOR FREE](https://learntocodewith.me/posts/code-for-free/)
+
+[3] [The 50 Best Websites to Learn Python](https://www.codeconquest.com/blog/the-50-best-websites-to-learn-python/)
