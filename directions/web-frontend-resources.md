@@ -3,12 +3,14 @@
 ### Content
 
 - <a name="htmlcss_c" href="#htmlcss_t">HTML & CSS</a>
-  - <a name="webdes_c" href="#webdes_t">Web Design</a>
+  - HTML & CSS
   - <a name="bootstrap_c" href="#bootstrap_t">BootStrap</a>
-- Cross-Browser Compatibility
+  - <a name="webdes_c" href="#webdes_t">Web Design</a>
+  - Cross-Browser Compatibility
 - <a name="ecma_c" href="#ecma_t">ECMAScript</a>
 - <a name="js_c" href="#js_t">JavaScript</a>
   - <a name="jq_c" href="#jq_t">jQuery</a>
+- <a name="hcj_c" href="#hcj_t">HTML, CSS and JavaScript</a>
 - <a name="ts_c" href="#ts_t">TypeScript</a>
 - <a name="progjs_c" href="#progjs_t">Progressive JS Framework</a>
   - <a name="vue_c" href="#vue_t">Vue.js</a>
@@ -61,6 +63,19 @@ Responsible Design
 - Responsible Responsive Design by Scott Jehl
 
 <br>
+
+<h3><a name="bootstrap_t" href="#bootstrap_c">Bootstrap</a></h3>
+
+<br>
+
+- [Bootstrap Documentation - doc]( https://getbootstrap.com/docs/4.4/getting-started/introduction/ )
+- Bootstrap 4 Quick Start: A Beginner's Guide to Building Responsive Layouts with Bootstrap 4 by Jacob Lett
+- Bootstrap: Responsive Web Development by Jake Spurlock
+- tep By Step Bootstrap 3: A Quick Guide To Responsive Web Development Using Bootstrap 3 by Riwanto Megosinarso
+- Bootstrap Reference Guide: Bootstrap 4 and 3 Cheat Sheets Collection by Jacob Lett
+
+<br>
+
 <h3><a name="webdes_t" href="#webdes_c">Web Design</a></h3>
 <br>
 
@@ -84,16 +99,6 @@ Responsible Design
 - The Elements of User Experience: User-Centered Design for the Web by Jesse James Garrett
 - The Future of the Internet--And How to Stop It by Jonathan L. Zittrain
 - Bulletproof Web Design: Improving flexibility and protecting against worst-case scenarios with XHTML and CSS by Dan Cederholm
-
-<br>
-<h3><a name="bootstrap_t" href="#bootstrap_c">Bootstrap</a></h3>
-<br>
-
-- [Bootstrap Documentation - doc]( https://getbootstrap.com/docs/4.4/getting-started/introduction/ )
-- Bootstrap 4 Quick Start: A Beginner's Guide to Building Responsive Layouts with Bootstrap 4 by Jacob Lett
-- Bootstrap: Responsive Web Development by Jake Spurlock
-- tep By Step Bootstrap 3: A Quick Guide To Responsive Web Development Using Bootstrap 3 by Riwanto Megosinarso
-- Bootstrap Reference Guide: Bootstrap 4 and 3 Cheat Sheets Collection by Jacob Lett
 
 <br>
 
@@ -144,9 +149,6 @@ Some More
 
 Tutorials
 
-- [w3schools](https://www.w3schools.com/)
-- [MDN web docs](https://developer.mozilla.org/en-US/)
-- [Learn JS](https://www.learn-js.org/)
 - [The Modern JavaScript Tutorial](http://javascript.info/)
 - [awesome-javascript - GitHub](https://github.com/sorrycc/awesome-javascript)
 - [freeCodeCamp](https://www.freecodecamp.org/)
@@ -169,6 +171,14 @@ Courses
 - JQuery UI Cookbook by Adam Boduch
 - jQuery: Novice to Ninja by Earle Castledine
 - JavaScript and JQuery: Interactive Front-End Web Development by Jon Duckett
+
+<br>
+<h2><a name="hcj_t" href="#hcj_c">HTML, CSS and JavaScript</a></h2>
+<br>
+
+- [w3schools](https://www.w3schools.com/)
+- [MDN web docs](https://developer.mozilla.org/en-US/)
+- [Learn JS](https://www.learn-js.org/)
 
 <br>
 
