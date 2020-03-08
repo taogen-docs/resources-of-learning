@@ -338,10 +338,11 @@ Must Read
 - Understanding Machine Learning: From Theory to Algorithms by Shai Shalev-Shwartz, Shai Ben-David
 - Machine Learning For Absolute Beginners: A Plain English Introduction by Oliver Theobald
 - Introduction to Machine Learning with Python: A Guide for Data Scientists by Andreas C. Müller, Sarah Guido
+- 机器学习 by 周志华 (西瓜书)
 
 ### Deep Learning
 
-- Deep Learning by Aaron Courville, Ian Goodfellow, and Yoshua Bengio
+- Deep Learning by Aaron Courville, Ian Goodfellow, and Yoshua Bengio (花书)
 - Deep Learning with Python by Francois Chollet
 - Deep Learning: A Practitioner's Approach by Adam Gibson and Josh Patterson
 - Grokking Deep Learning by Andrew W. Trask

@@ -27,7 +27,8 @@
 beginner
 
 - [**The Java™ Tutorials**](https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html)
-- **Core Java** (11th, 2018) Volume I Fundamentals by S, Horstmann 
+- **Core Java** (11th, 2018) Volume I Fundamentals by S, Horstmann
+- The Java Programming Language (4th, 2005) by Ken Arnold, James Gosling, David Holmes
 - Java: A Beginner's Guide (8th) by Herbert Schildt
 - Head First Java (2nd, 2009) by Kathy Sierra 
 - Java 8 in Action (2014) by Raoul-Gabriel Urma, Mario Fusco

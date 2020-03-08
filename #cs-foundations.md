@@ -509,6 +509,7 @@ Reference [Java Resources](directions/java-resources.md)
 ### PHP
 
 - [PHP Documentation - doc]( https://www.php.net/docs.php )
+- [PHP: The Right Way by Josh Lockhart](https://phptherightway.com/)
 - Learning PHP, MySQL, JavaScript, CSS & HTML5: A Step-by-Step Guide to Creating Dynamic Websites by Robin Nixon
 - Head First PHP and MySQL by Lynn Beighley and Michael Morrison
 - PHP and MySQL Web Development by Luke Welling
