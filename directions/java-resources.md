@@ -27,6 +27,7 @@
 beginner
 
 - [**The Java™ Tutorials**](https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html)
+- **The Java Tutorial: A Short Course on the Basics** (6th) by Raymond Gallardo, Scott Hommel, Sowmya Kannan, Joni Gordon, Sharon Biocca Zakhour
 - **Core Java** (11th, 2018) Volume I Fundamentals by S, Horstmann
 - The Java Programming Language (4th, 2005) by Ken Arnold, James Gosling, David Holmes
 - Java: A Beginner's Guide (8th) by Herbert Schildt
