@@ -464,6 +464,11 @@ Tutorials
 - Programming WebAssembly with Rust: Unified Development for Web, Mobile, and Embedded Applications by Kevin Hoffman
 - Rust Programming By Example: Enter the World of Rust by Building Engaging, Concurrent, Reactive, and Robust Applications by Antoni Boucher and Guillaume Gomez
 
+### Julia
+
+- [Julia 1.4 Documentation](https://docs.julialang.org/en/v1/)
+- [Julia learning resources](https://julialang.org/learning/)
+
 ### Lua
 
 - [Lua Documentation - doc]( https://www.lua.org/docs.html )
