@@ -457,7 +457,7 @@ Tutorials
 
 - [The Rust Programming Language - doc]( https://doc.rust-lang.org/1.30.0/book/first-edition/documentation.html )
 - [Rust Documentation - doc]( https://doc.rust-lang.org/beta/ )
-- [Learn Rust - doc](rust-lang.org/learn)
+- [Learn Rust - doc](https://rust-lang.org/learn)
 - The Rust Programming Language by Carol Nichols and Steve Klabnik
 - Programming Rust: Fast, Safe Systems Development by Jason Orendorff and Jim Blandy
 - Hands-On Concurrency with Rust: Confidently Build Memory-Safe, Parallel, and Efficient Software in Rust by Brian L Troutwine
