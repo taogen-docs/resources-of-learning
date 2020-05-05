@@ -419,7 +419,7 @@ Some More
 - More Effective C++ (1996) by Scott Meyers
 - Effective STL (2001) by Scott Meyers
 - Large-Scale C++ Software Design (1996)  by John Lakos
-- Inside the C++ Object Model (1996) by Stanley B·Lippman 
+- Inside the C++ Object Model (1996) by Stanley B. Lippman
 - Accelerated C++: Practical Programming by Example by Andrew Koenig
 - C++ Concurrency in Action: Practical Multithreading by Anthony Williams
 
