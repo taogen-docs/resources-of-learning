@@ -39,7 +39,7 @@ Master
 
 - Java SE 8 Documentation [Link 1](https://www.oracle.com/technetwork/java/javase/documentation/index.html)  [Link 2](https://docs.oracle.com/javase/8/)
 - [Java SE White Papers](https://www.oracle.com/technetwork/java/javase/documentation/whitepapers-jsp-139357.html)
-- [The Java® Language Specification Java SE 8 Edition - doc](https://docs.oracle.com/javase/specs/jls/se8/html/index.html)
+- The Java® Language Specification Java SE 8 Edition - [DOC](https://docs.oracle.com/javase/specs/jls/se8/html/index.html), [PDF](https://docs.oracle.com/javase/specs/jls/se8/jls8.pdf)
 - **Effective Java** (3rd, 2017) by Joshua Bloch 
 - **Thinking in Java** (4th, 2006) by Eckel, Bruce
 - On Java 8 by Bruce Eckel
@@ -81,19 +81,21 @@ Concurrency Programming
 
 JVM Tuning
 
-- [The Java® Virtual Machine Specification Java SE 7 Edition - doc](https://docs.oracle.com/javase/specs/jvms/se7/html/index.html)
-- **Java Performance: The Definitive Guide** by Oaks, Scott [4.38]
-- **Java Performance** by Hunt, Charlie [4.12]
-- Optimizing Java: Practical Techniques for Improving Jvm Application Performance by Benjamin J. Evans, James Gough [4.37]
-- Java Performance Companion by Hunt, Charlie [3.77]
-- Java Performance Tuning by Shirazi, Jack [3.56]
-- Optimizing Java: Practical Techniques for Improving Jvm Application Performance by Evans, Benjamin J. 
+- The Java® Virtual Machine Specification Java SE 7 Edition - [DOC](https://docs.oracle.com/javase/specs/jvms/se7/html/index.html)
+- **The Java® Virtual Machine Specification Java SE 8 Edition** - [DOC](https://docs.oracle.com/javase/specs/jvms/se8/html/index.html), [PDF](https://docs.oracle.com/javase/specs/jvms/se8/jvms8.pdf)
+- The Java® Virtual Machine Specification Java SE 11 Edition - [DOC](https://docs.oracle.com/javase/specs/jvms/se11/html/index.html), [PDF](https://docs.oracle.com/javase/specs/jvms/se11/jvms11.pdf)
+- **Java Performance: The Definitive Guide** (2014) by Scott Oaks [4.38, 200]
+- Java Performance: In-Depth Advice for Tuning and Programming Java 8, 11, and Beyond (2020) by Scott Oaks
+- **Java Performance** (2011) by Charlie Hunt [4.12, 200]
+- Java Performance Companion (2016) by Charlie Hunt [3.77]
+- **Optimizing Java: Practical Techniques for Improving JVM Application Performance** (2018) by Benjamin J. Evans, James Gough [4.37, 46]
+- **The Garbage Collection Handbook: The Art of Automatic Memory Management** by Jones, Richard [4.38, 40]
+- 深入理解Java虚拟机: JVM高级特性与最佳实践 (3rd, 2019) by 周志明
+- 垃圾回收的算法与实现 (2016) by 中村成洋 (8.2)
+- Java Performance Tuning (2nd, 2003) by Jack Shirazi [3.56]
 - Inside the Java 2 Virtual Machine (2nd, 2000) by Bill Venners
-- The Garbage Collection Handbook: The Art of Automatic Memory Management by Jones, Richard
-- 深入理解Java虚拟机（第2版） : JVM高级特性与最佳实践 (2013) by 周志明 (8.9)
 - Java程序性能优化-让你的Java程序更快、更稳定 (2012) by 葛一鸣 (8.1)
 - 实战Java虚拟机 (2015) by 葛一鸣 (8.1)
-- 垃圾回收的算法与实现 (2016) by 中村成洋 (8.2)
 
 
 Reactive Programming
