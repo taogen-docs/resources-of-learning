@@ -67,9 +67,9 @@ JVM Languages
 
 Concurrency Programming
 
+- **Java Concurrency in Practice** (2006) by Goetz, Brian. This book is summative, and insightful, not a fundamental book. Before reading this book, you need to understand the basic concepts of Java concurrency. If you are a beginner for Java concurrency, we recommend you to read "The Java Tutorial: A Short Course on the Basics - chapter 13. Concurrency" that is friendly for a beginner.
 - The Art of Multiprocessor Programming by Maurice Herlihy, Nir Shavit
 - Java Threads (3rd, 2004) by Scott Oaks, Henry Wong
-- **Java Concurrency in Practice** (2006) by Goetz, Brian
 - Concurrent Programming in Java: Design Principles and Patterns (2nd, 1999) by Doug Lea 
 - Programming Concurrency on the JVM by Venkat Subramaniam
 - Java多线程编程实战指南-核心篇 (2017) by 黄文海 (9.8)
