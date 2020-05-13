@@ -53,22 +53,41 @@ Reference [Web Frontend Resources](directions/web-frontend-resources.md)
 <h2><a name="dbms_t" href="#dbms_c">Database Systems and Data Storage</a></h2>
 <br>
 
-Must Read
+### Database Systems
 
 - **Database System Concepts** (6th, 2010) by Sudarshan, Korth
 - Fundamentals of Database System (7th, 2017) by Ramez Elmasri,  Shamkant B. Navathe
-- Database System Implementation by Hector Garcia-Molina, Jeffrey D.Ullman and  Jennifer Widom 
+- Database System Implementation by Hector Garcia-Molina, Jeffrey D.Ullman and  Jennifer Widom
+
+Some More
+
+- Database Management System by Raghu Ramakrishnan, Johannes Gehrke
+- Fundamentals of Relational Database Management Systems by S. Sumathi, S. Esakkirajan
+- Database Systems concepts, languages & architectures by Paolo Atzeni, Stefano Ceri, Stefano Paraboschi, Riccardo Torlone
+- Database Systems: A Practical Approach to Design, Implementation, and Management by Carolyn E. Begg and Thomas M. Connolly
+
+Courses
+
+- [CMU 15-445: Intro to Database Systems](https://15445.courses.cs.cmu.edu/fall2019/)
+- [CMU 15-721: Advanced Database Systems](https://15721.courses.cs.cmu.edu/spring2019/)
+
+For Database Design
+
+- Database Modeling and Design  by Toby J. Teorey
+- Beginning Database Design by Clare Churcher
+- Relational Database Index Design and the Optimizers by Tapio Lahdenmaki
 
 For SQL
 
 - Sams teach yourself SQL in 10 minutes,4th edition by Ben Forta / SQL 必知必会
-- SQL Cookbook by Anthony Molinaro
 - Learning SQL by Alan Beaulieu
+- SQL Cookbook by Anthony Molinaro
+- **SQL Antipatterns: Avoiding the Pitfalls of Database Programming** (2010) by Bill Karwin
 - T-SQL Fundamentals by Itzik Ben-Gan
 - T-SQL Querying by Itzik Ben-Gan
 - SQL Queries for Mere Mortals: A Hands-on Guide to Data Manipulation in SQL by John Viescas
-- SQL pocket guide by Jonathan Gennick
-- The art of SQL by Stéphane Faroult
+- SQL Pocket Guide by Jonathan Gennick
+- The Art of SQL by Stéphane Faroult
 
 For NoSQL
 
@@ -76,28 +95,14 @@ For NoSQL
 - Professional NoSQL by Shashank Tiwari
 - Seven Databases in Seven Weeks by Luc Perkins, Eric Redmond
 
-Some More
-
-- SQL Antipatterns: Avoiding the Pitfalls of Database Programming (2010) by Bill Karwin
-- Database Management System by Raghu Ramakrishnan, Johannes Gehrke
-- Fundamentals of Relational Database Management Systems by S. Sumathi, S. Esakkirajan
-- Database Systems concepts, languages & architectures by Paolo Atzeni, Stefano Ceri, Stefano Paraboschi, Riccardo Torlone
-- Database Systems: A Practical Approach to Design, Implementation, and Management by Carolyn E. Begg and Thomas M. Connolly
-- Database Modeling and Design  by Toby J. Teorey
-- Beginning database design by Clare Churcher
-
-Courses
-
-- [CMU 15-445: Intro to Database Systems](https://15445.courses.cs.cmu.edu/fall2019/)
-- [CMU 15-721: Advanced Database Systems](https://15721.courses.cs.cmu.edu/spring2019/)
-
 ### MySQL
 
 Prime
 
-- [MySQL 5.7 Reference Manual - doc](https://dev.mysql.com/doc/refman/5.7/en/ )
-- [MySQL 5.7 Release Notes - doc]( https://dev.mysql.com/doc/relnotes/mysql/5.7/en/ )
-- [MySQL 8.0 Release Notes - doc]( https://dev.mysql.com/doc/relnotes/mysql/8.0/en/ )
+- MySQL 5.7 Reference Manual. [DOC](https://dev.mysql.com/doc/refman/5.7/en/ ), [PDF](https://downloads.mysql.com/docs/refman-5.7-en.pdf)
+- MySQL 5.7 Release Notes - [DOC]( https://dev.mysql.com/doc/relnotes/mysql/5.7/en/ )
+- MySQL 8.0 Reference Manual. [DOC](https://dev.mysql.com/doc/refman/8.0/en/), [PDF](https://downloads.mysql.com/docs/refman-8.0-en.pdf)
+- MySQL 8.0 Release Notes - [DOC]( https://dev.mysql.com/doc/relnotes/mysql/8.0/en/ )
 - Murach's MySQL by Joel Murach
 - Learning MySQL by Seyed M.M. Tahaghoghi, Hugh E. Williams
 - MySQL Crash Course by Ben Forta
@@ -117,7 +122,9 @@ Optimization
 
 High Availability, Cluster, Backup and Replication
 
-- [MySQL NDB Cluster Internals Manual - doc]( https://dev.mysql.com/doc/ndb-internals/en/ )
+- Reference Guide for InnoDB Cluster. [DOC](https://dev.mysql.com/doc/refman/8.0/en/mysql-innodb-cluster-userguide.html)
+- Reference Guide for MySQL NDB Cluster. [DOC](https://dev.mysql.com/doc/refman/8.0/en/mysql-cluster.html), [PDF](https://downloads.mysql.com/docs/mysql-cluster-excerpt-8.0-en.pdf)
+- MySQL NDB Cluster Internals Manual - [DOC]( https://dev.mysql.com/doc/ndb-internals/en/ )
 - MySQL High Availability: Tools for Building Robust Data Centers by Charles Bell
 - Introducing Innodb Cluster: Learning the MySQL High Availability Stack by Charles Bell
 - Pro MySQL NDB Cluster by Jesper Wisborg Krogh and Mikiya Okuno
@@ -338,11 +345,11 @@ Must Read
 - Understanding Machine Learning: From Theory to Algorithms by Shai Shalev-Shwartz, Shai Ben-David
 - Machine Learning For Absolute Beginners: A Plain English Introduction by Oliver Theobald
 - Introduction to Machine Learning with Python: A Guide for Data Scientists by Andreas C. Müller, Sarah Guido
-- 机器学习 by 周志华 (西瓜书)
+- 机器学习 by 周志华 (**西瓜书**)
 
 ### Deep Learning
 
-- Deep Learning by Aaron Courville, Ian Goodfellow, and Yoshua Bengio (花书)
+- Deep Learning by Aaron Courville, Ian Goodfellow, and Yoshua Bengio (**花书**)
 - Deep Learning with Python by Francois Chollet
 - Deep Learning: A Practitioner's Approach by Adam Gibson and Josh Patterson
 - Grokking Deep Learning by Andrew W. Trask
@@ -369,7 +376,7 @@ Must Read
 - An Introduction to AI Robotics by Robin R. Murphy
 - I, Robot by Isaac Asimov
 
-### Computer vision
+### Computer Vision
 
 - Computer Vision: Algorithms and Applications by Richard Szeliski
 - Computer Vision: Models, Learning, and Inference by Simon J. D. Prince
