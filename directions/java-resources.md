@@ -84,6 +84,7 @@ JVM Tuning
 - The Java® Virtual Machine Specification Java SE 7 Edition - [DOC](https://docs.oracle.com/javase/specs/jvms/se7/html/index.html)
 - **The Java® Virtual Machine Specification Java SE 8 Edition** - [DOC](https://docs.oracle.com/javase/specs/jvms/se8/html/index.html), [PDF](https://docs.oracle.com/javase/specs/jvms/se8/jvms8.pdf)
 - The Java® Virtual Machine Specification Java SE 11 Edition - [DOC](https://docs.oracle.com/javase/specs/jvms/se11/html/index.html), [PDF](https://docs.oracle.com/javase/specs/jvms/se11/jvms11.pdf)
+- **Oracle JRockit: The Definitive Guide** by Marcus Hirt, Marcus Lagergren. A great book to understand JVM internals.
 - **Java Performance: The Definitive Guide** (2014) by Scott Oaks [4.38, 200]
 - Java Performance: In-Depth Advice for Tuning and Programming Java 8, 11, and Beyond (2020) by Scott Oaks
 - **Java Performance** (2011) by Charlie Hunt [4.12, 200]
