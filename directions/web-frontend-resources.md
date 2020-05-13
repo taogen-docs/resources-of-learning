@@ -2,6 +2,7 @@
 
 ### Content
 
+- <a name="guide_c" href="#guide_t">Guidance & Roadmap</a>
 - <a name="htmlcss_c" href="#htmlcss_t">HTML & CSS</a>
   - HTML & CSS
   - <a name="bootstrap_c" href="#bootstrap_t">BootStrap</a>
@@ -30,6 +31,16 @@
   - GraphQL
 
 <br>
+
+<h2><a name="guide_t" href="#guide_c">Guidance & Roadmap</a></h2>
+
+<br>
+
+- [The Best Way to Learn Frontend Web Development](https://www.freecodecamp.org/news/learn-frontend-web-development/)
+- [Frontend Roadmap](https://roadmap.sh/frontend)
+
+<br>
+
 <h2><a name="htmlcss_t" href="#htmlcss_c">HTML & CSS</a></h2>
 <br>
 
