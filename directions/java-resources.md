@@ -24,7 +24,7 @@
 
 ### Java SE
 
-beginner
+#### beginner
 
 - [**The Java™ Tutorials**](https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html)
 - **The Java Tutorial: A Short Course on the Basics** (6th) by Raymond Gallardo, Scott Hommel, Sowmya Kannan, Joni Gordon, Sharon Biocca Zakhour
@@ -35,7 +35,7 @@ beginner
 - Java 8 in Action (2014) by Raoul-Gabriel Urma, Mario Fusco
 - Java: The Complete Reference (11th) by Schildt, Herbert
 
-Master
+#### Master
 
 - Java SE 8 Documentation [Link 1](https://www.oracle.com/technetwork/java/javase/documentation/index.html)  [Link 2](https://docs.oracle.com/javase/8/)
 - [Java SE White Papers](https://www.oracle.com/technetwork/java/javase/documentation/whitepapers-jsp-139357.html)
@@ -52,20 +52,20 @@ Master
 - 码出高效：Java开发手册 by 杨冠宝 
 - Java Generics and Collections: Speed Up the Java Development Process by Maurice Naftalin
 
-Modern Java Features
+#### Modern Java Features
 
 - Modern Java Recipes: Simple Solutions to Difficult Problems in Java 8 and 9 by Kousen, Ken
 - Modern Java in Action (JDK9) (2nd, 2018) by Raoul-Gabriel Urma, Mario Fusco
 - Java 9 Modularity: Patterns and Practices for Developing Maintainable Applications by Mak, Sander
 - Core Java SE 9 for the Impatient (2nd) by Cay S.Horstmann
 
-JVM Languages
+#### JVM Languages
 
 > Scala, Groovy, Closure, and Kotlin
 
 - Kotlin in Action by Dmitry Jemerov, Svetlana Isakova
 
-Concurrency Programming
+#### Concurrency Programming
 
 - **Java Concurrency in Practice** (2006) by Goetz, Brian. This book is summative, and insightful, not a fundamental book. Before reading this book, you need to understand the basic concepts of Java concurrency. If you are a beginner for Java concurrency, we recommend you to read "The Java Tutorial: A Short Course on the Basics - chapter 13. Concurrency" that is friendly for a beginner.
 - The Art of Multiprocessor Programming by Maurice Herlihy, Nir Shavit
@@ -79,12 +79,27 @@ Concurrency Programming
 - Java并发编程的艺术 (2015)  by 方腾飞,  魏鹏, 程晓明 (7.3)
 - Seven Concurrency Models in Seven Weeks: When Threads Unravel (2014) by  Paul Butcher 
 
-JVM Tuning
+#### JVM Tuning
+
+For JVM Specification
 
 - The Java® Virtual Machine Specification Java SE 7 Edition - [DOC](https://docs.oracle.com/javase/specs/jvms/se7/html/index.html)
 - **The Java® Virtual Machine Specification Java SE 8 Edition** - [DOC](https://docs.oracle.com/javase/specs/jvms/se8/html/index.html), [PDF](https://docs.oracle.com/javase/specs/jvms/se8/jvms8.pdf)
 - The Java® Virtual Machine Specification Java SE 11 Edition - [DOC](https://docs.oracle.com/javase/specs/jvms/se11/html/index.html), [PDF](https://docs.oracle.com/javase/specs/jvms/se11/jvms11.pdf)
+
+For HotSpot JVM
+
+- [The HotSpot Group - source code, documentation](https://openjdk.java.net/groups/hotspot/)
+- [Java SE HotSpot at a Glance](https://www.oracle.com/java/technologies/javase-jsp.html)
+
+For JRockit JVM
+
+- [Oracle JRockit Documentation](https://docs.oracle.com/cd/E13150_01/jrockit_jvm/jrockit/webdocs/index.html)
+- [Oracle JRockit - doc](https://docs.oracle.com/cd/E13150_01/jrockit_jvm/jrockit/geninfo/diagnos/aboutjrockit.html)
 - **Oracle JRockit: The Definitive Guide** by Marcus Hirt, Marcus Lagergren. A great book to understand JVM internals.
+
+For JVM Tuning
+
 - **Java Performance: The Definitive Guide** (2014) by Scott Oaks [4.38, 200]
 - Java Performance: In-Depth Advice for Tuning and Programming Java 8, 11, and Beyond (2020) by Scott Oaks
 - **Java Performance** (2011) by Charlie Hunt [4.12, 200]
@@ -98,19 +113,18 @@ JVM Tuning
 - Java程序性能优化-让你的Java程序更快、更稳定 (2012) by 葛一鸣 (8.1)
 - 实战Java虚拟机 (2015) by 葛一鸣 (8.1)
 
-
-Reactive Programming
+#### Reactive Programming
 
 - Reactive Programming with RxJava: Creating Asynchronous, Event-Based Applications by Ben Christensen and Tomasz Nurkiewicz
 - Reactive Programming With Java 9: Build Asynchronous Applications with Rx.Java 2.0, Flow API and Spring WebFlux by Tejaswini Mandar Jog
 - Learning Reactive Programming with Java 8 by Nickolay Tsvetinov
 - Reactive Web Applications: Covers Play, Akka, and Reactive Streams by Manuel Bernhardt
 
-Utility Library
+#### Utility Library
 
 > JSON, XML, Email, Logging, Datetime, IO.
 
-Design Patterns
+#### Design Patterns
 
 - Head First Object-Oriented Analysis and Design by McLaughlin, Brett
 - Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma, Richard Helm
