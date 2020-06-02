@@ -273,6 +273,7 @@ Programmer
 Tech Leader
 
 - **The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change** by Camille Fournier
+- **Extreme Ownership: How U.S. Navy SEALs Lead and Win** by Jocko Willink, Leif Babin
 -  A Elegant Puzzle: System of Engineering Management by Will Larson
 -  Accelerate: Building and Scaling High-Performance Technology Organizations by Nicole Forsgern
 
