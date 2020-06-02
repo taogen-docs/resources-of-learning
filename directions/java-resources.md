@@ -40,6 +40,7 @@
 - Java SE 8 Documentation [Link 1](https://www.oracle.com/technetwork/java/javase/documentation/index.html)  [Link 2](https://docs.oracle.com/javase/8/)
 - [Java SE White Papers](https://www.oracle.com/technetwork/java/javase/documentation/whitepapers-jsp-139357.html)
 - The Java® Language Specification Java SE 8 Edition - [DOC](https://docs.oracle.com/javase/specs/jls/se8/html/index.html), [PDF](https://docs.oracle.com/javase/specs/jls/se8/jls8.pdf)
+- JSR-133: Java Memory Model and Thread Specification (Java 1.5, 2004) - [PDF](https://www.cs.umd.edu/~pugh/java/memoryModel/jsr133.pdf)
 - **Effective Java** (3rd, 2017) by Joshua Bloch 
 - **Thinking in Java** (4th, 2006) by Eckel, Bruce
 - On Java 8 by Bruce Eckel
