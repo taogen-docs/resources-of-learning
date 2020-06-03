@@ -114,7 +114,7 @@ Prime
 
 Optimization
 
-- **High Performance MySQL** (3rd, 2012) by Baron Schwartz
+- **High Performance MySQL** (3rd, 2012) by Baron Schwartz. This 3rd edition of the book mainly based on MySQL 5.1 and 5.5.
 - Effective MySQL Optimizing SQL Statements
 - MySQL性能调优与架构设计 by 简朝阳 
 - Relational Database Index Design and the Optimizers by Tapio Lahdenmaki 
