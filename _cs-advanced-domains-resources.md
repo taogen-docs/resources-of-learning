@@ -15,7 +15,7 @@
 - <a name="graph_c" href="#graph_t">Graphics and Visualization</a>
 - <a name="multimedia_c" href="#multimedia_t">Multimedia</a>
 - <a name="inforetri_c" href="#inforetri_t">Information Retrieval</a>
-- <a name="datamining_c" href="#datamining_t">Data Mining</a>
+- <a name="datamining_c" href="#datamining_t">Big Data & Data Mining</a>
 - <a name="ai_c" href="#ai_t">Artificial Intelligence</a>
 - Embedded System & IoT
 - <a name="distsys_c" href="#distsys_t">Distributed System</a>
@@ -279,7 +279,8 @@ OpenGL
 
 <br>
 
-<h2><a name="datamining_t" href="#datamining_c">Data Mining</a></h2>
+<h2><a name="datamining_t" href="#datamining_c">Big Data and Data Mining</a></h2>
+
 <br>
 
 - The Elements of Statistical Learning by Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie
