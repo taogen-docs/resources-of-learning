@@ -279,7 +279,7 @@ OpenGL
 
 <br>
 
-<h2><a name="datamining_t" href="#datamining_c">Big Data and Data Mining</a></h2>
+<h2><a name="datamining_t" href="#datamining_c">Big Data & Data Mining</a></h2>
 
 <br>
 
