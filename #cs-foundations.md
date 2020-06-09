@@ -1,6 +1,6 @@
 
 
-# CS Foundations Resources
+# CS Fundamentals Resources
 
 > High buildings rise from the ground.
 

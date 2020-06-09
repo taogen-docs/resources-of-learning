@@ -10,7 +10,7 @@ Resources of learning. Documentations, books, courses, git repositories and so o
 
 General
 
-- [CS Foundation Resources](%23cs-foundations.md)
+- [CS Fundamentals Resources](%23cs-foundations.md)
 - [CS Advanced Domains Resources](_cs-advanced-domains-resources.md)
 - [Software Development and Engineering](_cs-software-development-and-engineering.md)
 - [Every Software Engineer Must Read](_software-engineer-must-read.md)
