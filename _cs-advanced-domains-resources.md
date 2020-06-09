@@ -443,7 +443,7 @@ Some More
 - 大型网站系统与Java中间件实践 by 曾宪杰
 - 分布式Java应用：基础与实践 by 林昊 
 
-Papers
+Papers of Distributed Systems
 
 - [Distributed Systems Reading List](https://dancres.github.io/Pages/)
 - [Distributed Systems Reading List - CS Rutgers](https://www.cs.rutgers.edu/~pxk/417/readinglist.html)
@@ -452,15 +452,15 @@ More Resources
 
 - [awesome-distributed-systems - GitHub](https://github.com/theanalyst/awesome-distributed-systems)
 
-###  Distributed Collaboration 
+For Distributed Collaboration
 
 - 从PAXOS到ZOOKEEPER分布式一致性原理与实践 by 倪超 
 
-### Distributed Message
+For Distributed Message
 
 - Java Message Service by Mark Richards, Richard Monson-Haefel and David A. Chappell
 
-### Distributed Database Cluster Middleware
+For Distributed Database Cluster Middleware
 
 - [Mycat](http://www.mycat.io/)
 - [TiDB](https://pingcap.com/en/)
