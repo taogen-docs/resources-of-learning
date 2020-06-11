@@ -212,6 +212,10 @@ Documentations
 - [Redis Cluster specification](https://redis.io/topics/cluster-spec)
 - [Redis Internals documentation - doc]( https://redis.io/topics/internals )
 
+Tutorials
+
+- [Try Redis](http://try.redis.io/)
+
 <br>
 
 <h2><a name="crypt_t" href="#crypt_c">Cryptography</a></h2>
