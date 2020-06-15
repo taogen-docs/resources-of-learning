@@ -1,6 +1,6 @@
 # Resources of Java
 
-> Write once, run away.
+> Write once, run anywhere.
 
 > First, solve the problem. Then, write the code.
 
