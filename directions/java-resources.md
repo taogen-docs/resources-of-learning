@@ -1,5 +1,10 @@
-
 # Resources of Java
+
+> Write once, run away.
+
+> First, solve the problem. Then, write the code.
+
+> Don't Repeat Yourself.
 
 ### Content
 
