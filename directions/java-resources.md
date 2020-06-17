@@ -97,6 +97,8 @@ For HotSpot JVM
 
 - [The HotSpot Group - source code, documentation](https://openjdk.java.net/groups/hotspot/)
 - [Java SE HotSpot at a Glance](https://www.oracle.com/java/technologies/javase-jsp.html)
+- Java HotSpot Virtual Machine Garbage Collection Tuning Guide - [DOC](https://docs.oracle.com/javase/8/docs/technotes/guides/vm/gctuning/index.html)
+- [Java Virtual Machine Technology](https://docs.oracle.com/javase/8/docs/technotes/guides/vm/index.html)
 
 For JRockit JVM
 
