@@ -87,24 +87,13 @@
 
 #### JVM Tuning
 
-For JVM Specification
+JVM Internals
 
 - The Java® Virtual Machine Specification Java SE 7 Edition - [DOC](https://docs.oracle.com/javase/specs/jvms/se7/html/index.html)
 - **The Java® Virtual Machine Specification Java SE 8 Edition** - [DOC](https://docs.oracle.com/javase/specs/jvms/se8/html/index.html), [PDF](https://docs.oracle.com/javase/specs/jvms/se8/jvms8.pdf)
 - The Java® Virtual Machine Specification Java SE 11 Edition - [DOC](https://docs.oracle.com/javase/specs/jvms/se11/html/index.html), [PDF](https://docs.oracle.com/javase/specs/jvms/se11/jvms11.pdf)
-
-For HotSpot JVM
-
-- [The HotSpot Group - source code, documentation](https://openjdk.java.net/groups/hotspot/)
-- [Java SE HotSpot at a Glance](https://www.oracle.com/java/technologies/javase-jsp.html)
-- Java HotSpot Virtual Machine Garbage Collection Tuning Guide - [DOC](https://docs.oracle.com/javase/8/docs/technotes/guides/vm/gctuning/index.html)
-- [Java Virtual Machine Technology](https://docs.oracle.com/javase/8/docs/technotes/guides/vm/index.html)
-
-For JRockit JVM
-
-- [Oracle JRockit Documentation](https://docs.oracle.com/cd/E13150_01/jrockit_jvm/jrockit/webdocs/index.html)
-- [Oracle JRockit - doc](https://docs.oracle.com/cd/E13150_01/jrockit_jvm/jrockit/geninfo/diagnos/aboutjrockit.html)
 - **Oracle JRockit: The Definitive Guide** by Marcus Hirt, Marcus Lagergren. A great book to understand JVM internals.
+- Inside the Java Virtual Machine (2nd, 2000) by Bill Venners
 
 For JVM Tuning
 
@@ -120,6 +109,18 @@ For JVM Tuning
 - Inside the Java 2 Virtual Machine (2nd, 2000) by Bill Venners
 - Java程序性能优化-让你的Java程序更快、更稳定 (2012) by 葛一鸣 (8.1)
 - 实战Java虚拟机 (2015) by 葛一鸣 (8.1)
+
+For HotSpot JVM
+
+- [The HotSpot Group - source code, documentation](https://openjdk.java.net/groups/hotspot/)
+- [Java SE HotSpot at a Glance](https://www.oracle.com/java/technologies/javase-jsp.html)
+- Java HotSpot Virtual Machine Garbage Collection Tuning Guide - [DOC](https://docs.oracle.com/javase/8/docs/technotes/guides/vm/gctuning/index.html)
+- [Java Virtual Machine Technology](https://docs.oracle.com/javase/8/docs/technotes/guides/vm/index.html)
+
+For JRockit JVM
+
+- [Oracle JRockit Documentation](https://docs.oracle.com/cd/E13150_01/jrockit_jvm/jrockit/webdocs/index.html)
+- [Oracle JRockit - doc](https://docs.oracle.com/cd/E13150_01/jrockit_jvm/jrockit/geninfo/diagnos/aboutjrockit.html)
 
 #### Reactive Programming
 
