@@ -197,6 +197,10 @@ Java EE
 - Iron-Clad Java: Building Secure Web Applications by Jim Manico, August Detlefsen
 - Professional Java for Web Applications by Nicholas S. Williams
 
+AOP
+
+- The AspectJ Programming Guide - [DOC](https://www.eclipse.org/aspectj/doc/released/progguide/index.html)
+
 Web Frameworks
 
 - [Spring Framework Reference Documentation 3.2.18 - doc](https://docs.spring.io/spring/docs/3.2.x/spring-framework-reference/html/)
