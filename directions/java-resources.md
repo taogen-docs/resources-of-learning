@@ -206,6 +206,7 @@ Web Frameworks
 - [Spring Framework Reference Documentation 3.2.18 - doc](https://docs.spring.io/spring/docs/3.2.x/spring-framework-reference/html/)
 - [Spring Framework Current Documentation - doc](https://docs.spring.io/spring/docs/current/spring-framework-reference/)
 - [Spring Boot Current Documentation - doc](https://docs.spring.io/spring-boot/docs/current/reference/html/)
+- [Spring Framework libs-release](https://repo.spring.io/libs-release/org/springframework/spring/)
 - **Spring in Action** by Craig Walls
 - **Expert One-On-One J2EE without EJB** by Rod Johnson. It explains the why behind spring as well as the how to use it.
 - Spring 5 Recipes: A Problem-Solution Approach
