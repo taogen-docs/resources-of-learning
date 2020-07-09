@@ -420,52 +420,87 @@ Papers
 <h2><a name="distsys_t" href="#distsys_c">Distributed Systems</a></h2>
 <br>
 
-Must Read
+### Distributed Systems
 
 
-- Designing Data-Intensive Applications by Martin Kleppmann 
-- Distributed Systems For Fun and Profit by Mikito Takada
+- **Designing Data-Intensive Applications** by Martin Kleppmann
+- **Distributed Systems: Principles and Paradigms** by Andrew S. Tanenbaum, Maarten van Steen
+- **Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services** by Brendan Burns
+- **Distributed Systems For Fun and Profit** by Mikito Takada
+- **Distributed Systems: Concepts and Design** by George Coulouris, Jean Dollimore, Tim Kindberg, Gordon Blair
+- **Distributed Algorithms** by Nancy A. Lynch
+- **Distributed Operating Systems: Concepts and Design** by Pradeep K. Sinha 
 - Principles of Transaction Processing by Philip A. Bernstein
-- Distributed Systems: Concepts and Design by George Coulouris, Jean Dollimore, Tim Kindberg, Gordon Blair
 - Introduction to Distributed Algorithms by Gerard Tel
 - Programming Distributed Computing Systems: A Foundational Approach by Carlos A. Varela
 - Distributed Computing: Principles, Algorithms, and Systems by Ajay D. Kshemkalyani
 - Design and Analysis of Distributed Algorithms by Nicola Santoro
 - Introduction to Reliable Distributed Programming by Rachid Guerraoui
 - Elements of Distributed Computing by Vijay K. Garg
-- Distributed Algorithms by Nancy A. Lynch
-- Distributed Systems: Principles and Paradigms by Andrew S. Tanenbaum, Maarten van Steen
 - Fault-Tolerant Message-Passing Distributed Systems: An Algorithmic Approach by Michel Raynal
 - Distributed Algorithms for Message-Passing Systems by Michel Raynal
 - Introduction to Reliable and Secure Distributed Programming by Christian Cachin
-- Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services by Brendan Burns
-
-
-Some More
-- Replication: Theory and Practice by Bernadette Charron-Bost 
-- Distributed Operating Systems: Concepts and Design by Pradeep K. Sinha 
-- 大型网站技术架构：核心原理与案例分析 by 李智慧
-- 大型网站系统与Java中间件实践 by 曾宪杰
-- 分布式Java应用：基础与实践 by 林昊 
+- Replication: Theory and Practice by Bernadette Charron-Bost
 
 Papers of Distributed Systems
 
 - [Distributed Systems Reading List](https://dancres.github.io/Pages/)
 - [Distributed Systems Reading List - CS Rutgers](https://www.cs.rutgers.edu/~pxk/417/readinglist.html)
 
-More Resources
+More Distributed Systems
 
 - [awesome-distributed-systems - GitHub](https://github.com/theanalyst/awesome-distributed-systems)
 
-For Distributed Collaboration
+### Distributed Data Storage
 
-- 从PAXOS到ZOOKEEPER分布式一致性原理与实践 by 倪超 
+- **Principles of Distributed Database Systems** by M. Tamer Ozsu
+- **Database Internals: A deep-dive into how distributed data systems work** by Alex Petrov
+- Distributed Databases: Principles and Systems by Stefano Ceri, G. Pelagatti
+- Distributed Database Systems by Chhanda Ray
 
-For Distributed Message
+For HBase
+
+- HBase in Action by Nick Dimiduk, Amandeep Khurana
+
+### Microservices
+
+- **Building Microservices: Designing Fine-Grained Systems** by Sam Newman
+- **Microservices Patterns: With Examples in Java** by Chris Richardson
+- **Microservice Architecture: Aligning Principles, Practices, and Culture** by Irakli Nadareishvili, Matt McLarty, and Michael Amundsen
+- **The Tao of Microservices** by Richard Rodger
+- **Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith** by Sam Newman
+- **Spring Microservices in Action** by John Carnell
+- **Production-Ready Microservices: Building Standardized Systems Across an Engineering Organization** by Susan Fowler and Susan J. Fowler
+- **Cloud Native Java: Designing Resilient Systems with Spring Boot, Spring Cloud, and Cloud Foundry** by Josh Long and Kenny Bastani
+- Microservices for the Enterprise: Designing, Developing, and Deploying by Kasun Indrasiri, Prabath Siriwardena
+- **大型网站技术架构：核心原理与案例分析** by 李智慧
+- **大规模Web服务开发技术** by 伊藤直也, 田中慎司
+- 大型网站系统与Java中间件实践 by 曾宪杰
+- 分布式Java应用：基础与实践 by 林昊 
+
+Microservices Architecture Design 
+
+- Reference [CS software development and engineering - Architecture Design](_cs-software-development-and-engineering.md#archdes_t)
+
+Middleware - Microservices Collaboration
+
+- [Apache Dubbo](https://dubbo.apache.org/en-us/)
+- [Apache ZooKeeper](https://zookeeper.apache.org/)
+- [Spring Cloud](https://spring.io/projects/spring-cloud)
+- 从PAXOS到ZOOKEEPER分布式一致性原理与实践 by 倪超
+
+Middleware - Microservices Communication
 
 - Java Message Service by Mark Richards, Richard Monson-Haefel and David A. Chappell
+- Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale by Neha Narkhede, Gwen Shapira, Todd Palino
+- I Heart Logs: Event Data, Stream Processing, and Data Integration by Jay Kreps
+- [gRPC](https://grpc.io/)
+- HTTP REST
+- [RabbitMQ](https://www.rabbitmq.com/)
+- [Apache ActiveMQ](http://activemq.apache.org/)
+- [Apache Kafka](https://kafka.apache.org/)
 
-For Distributed Database Cluster Middleware
+Middleware - Database Cluster
 
 - [Mycat](http://www.mycat.io/)
 - [TiDB](https://pingcap.com/en/)
