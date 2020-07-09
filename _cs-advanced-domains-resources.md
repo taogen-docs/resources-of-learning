@@ -18,7 +18,7 @@
 - <a name="datamining_c" href="#datamining_t">Big Data & Data Mining</a>
 - <a name="ai_c" href="#ai_t">Artificial Intelligence</a>
 - Embedded System & IoT
-- <a name="distsys_c" href="#distsys_t">Distributed System</a>
+- <a name="distsys_c" href="#distsys_t">Distributed Systems</a>
 - Cloud Computing
 - <a name="blockchain_c" href="#blockchain_t">Blockchain</a>
 
