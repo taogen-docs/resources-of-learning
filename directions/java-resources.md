@@ -138,6 +138,24 @@ For JRockit JVM
 - Head First Object-Oriented Analysis and Design by McLaughlin, Brett
 - Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma, Richard Helm
 
+### Java Data Access
+
+JDBC
+
+- [Java JDBC API](https://docs.oracle.com/javase/8/docs/api/index.html?java/sql/package-summary.html)
+- [JDBC Home Page - Java SE Technologies - Database - doc](https://www.oracle.com/technetwork/java/javase/tech/index-jsp-136101.html)
+- [JDBC Basics Tutorial](https://docs.oracle.com/javase/tutorial/jdbc/basics/index.html)
+- [MySQL Connector/J 5.1 Developer Guide]( https://dev.mysql.com/doc/connector-j/5.1/en/ )
+- JDBC Database Access with Java: A Tutorial and Annotated Reference by Graham Hamilton and Rick Cattell
+- JDBC API Tutorial and Reference by Maydene Fisher
+
+JDBC Connection Pool
+
+- [Apache Druid]( https://druid.apache.org/ )
+- [Apache DBCP]( https://commons.apache.org/proper/commons-dbcp/ )
+- [Tomcat JDBC Connection Pool]( https://tomcat.apache.org/tomcat-7.0-doc/jdbc-pool.html )
+- [c3p0]( https://github.com/swaldman/c3p0 )
+
 ### Web Development
 
 #### Protocols
@@ -170,21 +188,10 @@ Java Servlet
 - Murach's Java Servlets and JSP (3rd, 2014) by Joel Murach, Andrea Steelman
 - Java Servlet Programming by Jason Hunter, William Crawford
 
-JDBC
+Web Pages / Template Engines
 
-- [Java JDBC API](https://docs.oracle.com/javase/8/docs/api/index.html?java/sql/package-summary.html)
-- [JDBC Home Page - Java SE Technologies - Database - doc](https://www.oracle.com/technetwork/java/javase/tech/index-jsp-136101.html)
-- [JDBC Basics Tutorial](https://docs.oracle.com/javase/tutorial/jdbc/basics/index.html)
-- [MySQL Connector/J 5.1 Developer Guide]( https://dev.mysql.com/doc/connector-j/5.1/en/ )
-- JDBC Database Access with Java: A Tutorial and Annotated Reference by Graham Hamilton and Rick Cattell
-- JDBC API Tutorial and Reference by Maydene Fisher
-
-JDBC Connection Pool
-
-- [Apache Druid]( https://druid.apache.org/ )
-- [Apache DBCP]( https://commons.apache.org/proper/commons-dbcp/ )
-- [Tomcat JDBC Connection Pool]( https://tomcat.apache.org/tomcat-7.0-doc/jdbc-pool.html )
-- [c3p0]( https://github.com/swaldman/c3p0 )
+- JavaServer Pages™ Specification, Version 2.0 - [PDF](https://download.oracle.com/otn-pub/jcp/jsp-2.0-fr-oth-JSpec/jsp-2_0-fr-spec.pdf?AuthParam=1595917930_35dcc58c1a81c992764fad4879b7c6a0)
+- JavaServer Pages™ Specification, Version 2.3 - [PDF](https://download.oracle.com/otn-pub/jcp/jsp-2_3-mrel2-eval-spec/JSP2.3MR.pdf?AuthParam=1595918156_7db710bfcdf74fe939eed64fb7d5e8cd)
 
 Java EE
 
