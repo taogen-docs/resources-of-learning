@@ -214,6 +214,12 @@ Tutorials
 
 - [Try Redis](http://try.redis.io/)
 
+### Search Engines
+
+- [Apache LuceneTM 7.4.0 Documentation](https://lucene.apache.org/core/7_4_0/index.html)
+- [Apache Solr Reference Guide](https://lucene.apache.org/solr/guide/)
+- [Elasticsearch Documentation](https://www.elastic.co/guide/index.html)
+
 <br>
 
 <h2><a name="crypt_t" href="#crypt_c">Cryptography</a></h2>
