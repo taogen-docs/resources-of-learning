@@ -103,11 +103,12 @@ Prime
 - MySQL 5.7 Release Notes - [DOC]( https://dev.mysql.com/doc/relnotes/mysql/5.7/en/ )
 - MySQL 8.0 Reference Manual. [DOC](https://dev.mysql.com/doc/refman/8.0/en/), [PDF](https://downloads.mysql.com/docs/refman-8.0-en.pdf)
 - MySQL 8.0 Release Notes - [DOC]( https://dev.mysql.com/doc/relnotes/mysql/8.0/en/ )
-- Murach's MySQL by Joel Murach
-- Learning MySQL by Seyed M.M. Tahaghoghi, Hugh E. Williams
+- **Murach's MySQL** by Joel Murach
+- **Learning MySQL** by Seyed M.M. Tahaghoghi, Hugh E. Williams
 - MySQL Crash Course by Ben Forta
 - MySQL in a Nutshell by Russell J.T. Dyer
-- MySQL Cookbook by Paul DuBois
+- **MySQL** by Paul DuBois
+- **MySQL Cookbook** by Paul DuBois
 - MySQL Administrator's Bible by Sheeri K. Cabral, Keith Murphy
 - MySQL Stored Procedure Programming: Building High-Performance Web Applications in MySQL by Guy Harrison, Steven Feuerstein
 
