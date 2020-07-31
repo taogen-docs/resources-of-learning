@@ -231,17 +231,31 @@ Courses
 
 System and Command Line
 
-- **The Linux Command Line: A Complete Introduction** by William E. Shotts, Jr.
-- **Linux Pocket Guide** by Daniel J. Barrett
-- **Linux Command Line and Shell Scripting Bible** by Christine Bresnahan and Richard Blum
-- **How Linux Works: What Every Superuser Should Know** by Brian Ward
-- **UNIX and Linux System Administration Handbook** by Evi Nemeth, Garth Snyder, Trent R. Hein, Ben Whaley
+- **The Linux Command Line: A Complete Introduction** (2nd, 2019) by William E. Shotts, Jr.
+- **Linux Pocket Guide** (3rd, 2016) by Daniel J. Barrett
+- **Linux Bible** (10th, 2020) by Christopher Negus
+- Linux Command Line and Shell Scripting Bible (3rd, 2015) by Christine Bresnahan and Richard Blum
+- **UNIX and Linux System Administration Handbook** (5th, 2017) by Evi Nemeth, Garth Snyder, Trent R. Hein, Ben Whaley
+- **Linux in a Nutshell: A Desktop Quick Reference** (6th, 2009) by by Ellen Siever, Stephen Figgins, Robert Love
+- **How Linux Works: What Every Superuser Should Know** (2nd, 2014) by Brian Ward
 - Linux Administration Handbook by Evi Nemeth, Garth Snyder, and Trent Hein
+- Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali (2018) by OccupyTheWeb
+- Modern Linux Administration: How to Become a Cutting-Edge Linux Administrator (2019) by Sam R. Alapati
+- Cybersecurity Ops with bash: Attack, Defend, and Analyze from the Command Line (2019) by Paul Troncone, Carl Albing Ph. D
 - **鸟哥的Linux私房菜：基础学习篇** (4th, 2018) by 鸟哥
 - 鸟哥的Linux私房菜：服务器架设篇 (3th, 2012) by 鸟哥
-- Linux Bible by Christopher Negus
 - Beginning Linux Programming by Mathew Neil and Richard Stones
 - Linux for Beginners: An Introduction to the Linux Operating System by Jason Cannon
+
+Shell
+
+- **Bash Cookbook: Solutions and Examples for Bash Users** (2nd, 2017) by Carl Albing, J.P. Vossen, Cameron Newham
+- **Learning the bash Shell** (3rd, 2005) by Cameron Newham, Bill Rosenblatt
+- **Bash Pocket Reference** (2nd, 2016) by Arnold Robbins
+- **Classic Shell Scripting: Hidden Commands that Unlock the Power of Unix** (2005) by Arnold Robbins, Nelson H. Beebe, Nathan Torkington
+- UNIX Shells by Example by Ellie Quigley
+- Linux Shell Scripting Cookbook by Shantanu Tushar, Sarath Lakshman
+- Expert Shell Scripting by Ron Peters
 
 Vim
 
@@ -249,13 +263,6 @@ Vim
 - Practical Vim: Edit Text at the Speed of Thought by Drew Neil
 - A Byte of Vim by Swaroop C.H.
 - Modern Vim: Craft Your Development Environment with Vim 8 and Neovim by Drew Neil
-
-Shell
-
-- Bash Cookbook: Solutions and Examples for Bash Users by Carl Albing, J.P. Vossen, Cameron Newham
-- UNIX Shells by Example by Ellie Quigley
-- Linux Shell Scripting Cookbook by Shantanu Tushar, Sarath Lakshman
-- Expert Shell Scripting by Ron Peters
 
 Sed & Awk
 
