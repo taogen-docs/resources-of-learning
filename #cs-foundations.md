@@ -744,6 +744,7 @@ Reference [Web Frontend Resources - HTML & CSS](directions/web-frontend-resource
 - [learn everything](https://www.learnpython.org/)
 - [w3schools](https://www.w3schools.com/)
 - [MIT OpenCourseware](https://ocw.mit.edu/)
+- [SlideShare - LinkedIn](https://www.slideshare.net/)
 
 <br>
 
