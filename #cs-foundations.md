@@ -733,6 +733,24 @@ Reference [Web Frontend Resources - HTML & CSS](directions/web-frontend-resource
 
 ### YAML
 
+## Markup Languages
+
+Prime
+
+- Markdown
+
+More Markup Languages
+
+- LaTex
+- Asciidoc
+- KaTeX
+- reStructuredText (rst, reST)
+- Wikipedia Wikitext / Wikicode
+- Creole
+- Textile
+- BBCode
+- Pendown
+
 <br>
 
 ## Others
