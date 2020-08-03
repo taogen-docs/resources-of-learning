@@ -17,8 +17,8 @@
 - <a name="dsa_c" href="#dsa_t">Data Structures and Algorithms</a>
 - <a name="arch_c" href="#arch_t">Computer Architecture</a>
 - <a name="compiler_c" href="#compiler_t">Compiler</a>
-- <a name="os_c" href="#os_t">Operating System</a>
-- <a name="net_c" href="#net_t">Computer Network</a>
+- <a name="os_c" href="#os_t">Operating Systems</a>
+- <a name="net_c" href="#net_t">Computer Networks</a>
 - <a name="lang_c" href="#lang_t">Programming Languages</a>
 - <a name="nonturinglang_c" href="#nonturinglang_t">Non-Turing-Complete Languages</a>
 
@@ -205,7 +205,8 @@ Some More
 
 <br>
 
-<h2><a name="os_t" href="#os_c">Operating System</a></h2>
+<h2><a name="os_t" href="#os_c">Operating Systems</a></h2>
+
 <br>
 
 Must Read 
@@ -308,7 +309,8 @@ Windows Programming
 
 <br>
 
-<h2><a name="net_t" href="#net_c">Computer Network</a></h2>
+<h2><a name="net_t" href="#net_c">Computer Networks</a></h2>
+
 <br>
 
 Must Read
