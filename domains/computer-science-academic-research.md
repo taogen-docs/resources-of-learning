@@ -2,13 +2,13 @@
 
 **Content**
 
-- Paper Databases
+- Papers
 - Conferences
 - Journals
 - Others
 - References
 
-## Paper Databases
+## Papers
 
 ### Paper Databases
 
@@ -42,6 +42,8 @@
 
 ### Paper Searching Engines (title and abstract)
 
+
+
 - [EI (Engineering Index)](https://www.engineeringvillage.com/)
 - [SCI (Science Citation Index)](http://apps.webofknowledge.com/) 
 - [DBLP](https://dblp.org/)
@@ -52,7 +54,9 @@
 
 
 
-### Best Paper List
+### Paper Lists
+
+Best Paper Lists
 
 - [Best Paper Awards in Computer Science (since 1996)](https://jeffhuang.com/best_paper_awards/)
 - [BEST PAPERS - USENIX](https://www.usenix.org/conferences/best-papers)
@@ -61,7 +65,7 @@
 
 ## Conferences
 
-Conferences List
+Conferences Lists
 
 - [List of computer science conferences](https://en.wikipedia.org/wiki/List_of_computer_science_conferences)
 - [CCF推荐国际学术会议和期刊](https://ying-zhang.github.io/misc/2017/ccf-all-in-one/)
@@ -91,9 +95,13 @@ Natural Language Processing
 
 ## Journals
 
+
+
 ## Others
 
 [ResearchGate](https://www.researchgate.net/) - academic social media.
+
+
 
 ## References
 
