@@ -22,11 +22,11 @@
 
 2\. ACM SIGs
 
-- Computer Architecture: [SIGARCH](http://www.sigarch.org/)、[SIGHPC](http://www.sighpc.org/)、[SIGMETRICS](http://www.sigmetrics.org/)、[SIGMICRO](http://www.sigmicro.org/)、[SIGMOBILE](http://www.sigmobile.org/)
+- Computer Architecture: [SIGARCH](http://www.sigarch.org/), [SIGHPC](http://www.sighpc.org/), [SIGMETRICS](http://www.sigmetrics.org/), [SIGMICRO](http://www.sigmicro.org/), [SIGMOBILE](http://www.sigmobile.org/)
 - Computer Network: [SIGCOMM](http://www.sigcomm.org/)
 - Database Systems: [SIGMOD](http://www.sigmod.org/)
 - Operating Systems: [SIGOPS](http://www.sigops.org/)
-- Software Engineering: [SIGPLAN](http://www.sigplan.org/)、[SIGSOFT](http://www.sigsoft.org/)
+- Software Engineering: [SIGPLAN](http://www.sigplan.org/), [SIGSOFT](http://www.sigsoft.org/)
 
 3
 
