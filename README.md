@@ -15,6 +15,7 @@ General
 - [Software Development and Engineering](_cs-software-development-and-engineering.md)
 - [Every Software Engineer Must Read](_software-engineer-must-read.md)
 - [Computer Scientists](computer-scientists.md)
+- [Computer Science Academic Research](domains/computer-science-academic-research.md)
 
 Directions
 
