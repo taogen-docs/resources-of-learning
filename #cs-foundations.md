@@ -42,6 +42,8 @@ Courses
 
 <br>
 
+Books
+
 - Python Programming: An Introduction to Computer Science (3rd, 2016) by John Zelle
 
 Tutorials
@@ -375,8 +377,9 @@ by Pierre-Yves Saumont
 - Real-world Functional Programming: With Examples in F# and C# by Jon Skeet and Tomas Petricek
 - Functional Programming in JavaScript by Luis Atencio
 
-
 Parallel Programming
+
+> Clojure, Go
 
 - An Introduction to Parallel Programming by Peter Pacheco
 - Programming Massively Parallel Processors: A Hands-On Approach by David B. Kirk
