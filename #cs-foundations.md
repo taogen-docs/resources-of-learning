@@ -48,7 +48,8 @@ Books
 
 Tutorials
 
-- [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
+- [Teach Yourself Programming in Ten Years - Peter Norvig](http://norvig.com/21-days.html)
+- [如何掌握所有的程序语言 - Wang Yin](https://www.yinwang.org/blog-cn/2017/07/06/master-pl)
 
 [More Programming Languages](#lang_t)
 
