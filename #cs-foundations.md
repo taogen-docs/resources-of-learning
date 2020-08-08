@@ -746,13 +746,17 @@ Reference [Web Frontend Resources - HTML & CSS](directions/web-frontend-resource
 
 ### YAML
 
+<br>
+
 ## Markup Languages
+
+<br>
 
 Prime
 
 - Markdown
 
-More Markup Languages
+Some More
 
 - LaTex
 - Asciidoc
