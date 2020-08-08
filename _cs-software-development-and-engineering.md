@@ -112,18 +112,19 @@ Container
 - Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and Iterative Development by Craig Larman
 
 
-### Design Patterns
+### Design Patterns & Software Design
 
 - **Design Patterns: Elements of Reusable Object-Oriented Software** (1994) by Erich Gamma, Richard Helm,  Ralph Johnson, John Vlissides
+- Head First Design Patterns (2004) by Elisabeth Freeman
 - **Agile Software Development, Principles, Patterns, and Practices** by Robert C. Martin
 - **A Philosophy of Software Design** by John Ousterhout
-- Head First Design Patterns (2004) by Elisabeth Freeman
+- Beautiful Code: Leading Programmers Explain How They Think by Andy Oram, Greg Wilson
+
+Object-Oriented
+
 - Head First Object-Oriented Analysis and Design (2006) by Brett D. McLaughlin
 - Object-Oriented Analysis and Design with Applications by Grady Booch
 - Object-Oriented Software Construction by Bertrand Meyer
-- Domain-Driven Design: Tackling Complexity in the Heart of Software by Eric Evans
-- Patterns of Enterprise Application Architecture by Martin Fowler
-- Beautiful Code: Leading Programmers Explain How They Think by Andy Oram, Greg Wilson
 
 Tutorials
 

@@ -14,14 +14,17 @@ General
 - [CS Advanced Domains Resources](_cs-advanced-domains-resources.md)
 - [Software Development and Engineering](_cs-software-development-and-engineering.md)
 - [Every Software Engineer Must Read](_software-engineer-must-read.md)
-- [Computer Scientists](computer-scientists.md)
-- [Computer Science Academic Research](domains/computer-science-academic-research.md)
 
 Directions
 
 - [Web Backend - Java Resources](directions/java-resources.md)
 - [Web Frontend Resource](directions/web-frontend-resources.md)
 - [Information Security Resources](directions/information-security-resources.md)
+
+Miscellaneous
+
+- [Computer Scientists](domains/computer-scientists.md)
+- [Computer Science Academic Research](domains/computer-science-academic-research.md)
 
 *Continuously updating. I hope it will help you!*
 

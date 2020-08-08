@@ -11,14 +11,14 @@
 ### Content
 
 - <a name="intro_c" href="#intro_t">Introduction to Computer Science</a>
-- <a name="cmath_c" href="#cmath_t">Computer Mathematics</a>
-- <a name="info_c" href="#info_t">Information Theory</a>
-- <a name="pdesign_c" href="#pdesign_t">C Language and Program Design</a>
+- <a name="pdesign_c" href="#pdesign_t">Introduction to Program Design</a>
 - <a name="dsa_c" href="#dsa_t">Data Structures and Algorithms</a>
+- <a name="cmath_c" href="#cmath_t">Computer Mathematics</a>
 - <a name="arch_c" href="#arch_t">Computer Architecture</a>
 - <a name="compiler_c" href="#compiler_t">Compiler</a>
 - <a name="os_c" href="#os_t">Operating Systems</a>
 - <a name="net_c" href="#net_t">Computer Networks</a>
+- <a name="info_c" href="#info_t">Information Theory</a>
 - <a name="lang_c" href="#lang_t">Programming Languages</a>
 - <a name="nonturinglang_c" href="#nonturinglang_t">Non-Turing-Complete Languages</a>
 
@@ -38,51 +38,17 @@ Courses
 
 <br>
 
-<h2><a name="cmath_t" href="#cmath_c">Computer Mathematics</a></h2>
-<br>
-
-Prime
-
-- **Discrete mathematics and its applications** (7th, 2011) by Kenneth H·Rosen 
-- Elements Of Discrete Mathematics: Solutions Manual by Chung Laung Liu
-- Introduction to Graph Theory (2nd, 2017)  by Douglas B. West
-- Introductory Combinatorics (5th, 2017) by Richard A.Brualdi
-- A Friendly Introduction to Number Theory (4th, 2017) by Joseph H.Silverman 
-- Numerical Recipes (3rd, 2007) by William H. Press
-
-Advanced
-
-- **Concrete Mathematics: A Foundation for Computer Science** (2nd, 1994) by Ronald L. Graham, Donald E. Knuth and Oren Patashnik  
-ACM竞赛必读书之一，几乎包含了所有计算机科学里涉及到的数学问题，里面有众多的经典问题与经典解法，对开拓人的数学思路有极大的帮助。
-- The art of Computer programming volume 1 by Donald Knuth
-
-[More Mathematics](domains/math-resources.md)
-
-
+<h2><a name="pdesign_t" href="#pdesign_c">Introduction to Program Design</a></h2>
 
 <br>
 
-<h2><a name="info_t" href="#info_c">Information Theory</a></h2>
-<br>
+- Python Programming: An Introduction to Computer Science (3rd, 2016) by John Zelle
 
-Must Read
+Tutorials
 
-- The Information: A History, a Theory, a Flood (2003) by James Gleick, Rob Shapiro
-- Information Theory: A Tutorial Introduction (2015) by James V. Stone
-- Elements of Information Theory (2nd, 2006) by Thomas M. Cover and Joy A. Thomas
-- Network Information Theory by (2012) by El Gamal, Abbas and Young-Han Kim
+- [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
 
-<br>
-
-<h2><a name="pdesign_t" href="#pdesign_c">C Language and Program Design</a></h2>
-<br>
-
-Must Read
-
-- **The C Programming Language** (2nd, 1988) by Brian W. Kernighan, Denis M. Ritchie (**TCPL**)
-- Pointers on C (1997) by Kenneth A·Reek 
-- Expert C Programming: Deep C Secrets (1994) by Peter van der Linden 
-- C Traps and Pitfalls (1989) by Andrew Koenig
+[More Programming Languages](#lang_t)
 
 <br>
 
@@ -135,6 +101,29 @@ Tutorials
 
 <br>
 
+<h2><a name="cmath_t" href="#cmath_c">Computer Mathematics</a></h2>
+
+<br>
+
+Prime
+
+- **Discrete mathematics and its applications** (7th, 2011) by Kenneth H·Rosen 
+- Elements Of Discrete Mathematics: Solutions Manual by Chung Laung Liu
+- Introduction to Graph Theory (2nd, 2017)  by Douglas B. West
+- Introductory Combinatorics (5th, 2017) by Richard A.Brualdi
+- A Friendly Introduction to Number Theory (4th, 2017) by Joseph H.Silverman 
+- Numerical Recipes (3rd, 2007) by William H. Press
+
+Advanced
+
+- **Concrete Mathematics: A Foundation for Computer Science** (2nd, 1994) by Ronald L. Graham, Donald E. Knuth and Oren Patashnik  
+  ACM竞赛必读书之一，几乎包含了所有计算机科学里涉及到的数学问题，里面有众多的经典问题与经典解法，对开拓人的数学思路有极大的帮助。
+- The art of Computer programming volume 1 by Donald Knuth
+
+[More Mathematics](domains/math-resources.md)
+
+<br>
+
 <h2><a name="arch_t" href="#arch_c">Computer Architecture</a></h2>
 <br>
 
@@ -166,10 +155,10 @@ Digital Circuits
 
 Assembly Language 
 
-- 汇编语言 (2003) by 王爽 
 - Professional Assembly Language (2005) by Richard Blum 
 - Assembly Language for Intel-Based Computers (1998) by Kip Irvine
 - Assembly Language: Step-By-Step by Jeff Duntemann
+- 汇编语言 (2003) by 王爽 
 
 Courses
 
@@ -194,13 +183,13 @@ Must Read
 - **Compilers: Principles, Techniques, and Tools** (1986) by  Alfred V. Aho and Monica S. Lam (**龙书**)
 - Modern Compiler Implementation in C (2004) by Andrew W. Appel (**虎书**)
 - Advanced Compiler Design and Implementation (1997) by Steven Muchnick (**鲸书**)
+- Concepts, Techniques, and Models of Computer Programming (2004) by Peter Van Roy, Seif Haridi
 
 Some More
 
 - Engineering a Compiler (2003) by Keith Cooper and Linda Torczon 
 - Parsing Techniques (2008) by Dick Grune, Ceriel J.H. Jacobs 
 - 程序员的自我修养 (2009) by 俞甲子, 石凡, 潘爱民 
-- Concepts, Techniques, and Models of Computer Programming by Peter Van Roy, Seif Haridi
 - Language Implementation Patterns: Techniques for Implementing Domain-Specific Languages by Terence Parr
 
 <br>
@@ -354,6 +343,19 @@ For Programming
 
 <br>
 
+<h2><a name="info_t" href="#info_c">Information Theory</a></h2>
+
+<br>
+
+Must Read
+
+- The Information: A History, a Theory, a Flood (2003) by James Gleick, Rob Shapiro
+- Information Theory: A Tutorial Introduction (2015) by James V. Stone
+- Elements of Information Theory (2nd, 2006) by Thomas M. Cover and Joy A. Thomas
+- Network Information Theory by (2012) by El Gamal, Abbas and Young-Han Kim
+
+<br>
+
 ## Programming
 
 <br>
@@ -411,6 +413,13 @@ Virtual Machine
 <br>
 <h2><a name="lang_t" href="#lang_c">Programming Languages</a></h2>
 <br>
+
+### C
+
+- **The C Programming Language** (2nd, 1988) by Brian W. Kernighan, Denis M. Ritchie (**TCPL**)
+- Pointers on C (1997) by Kenneth A·Reek 
+- Expert C Programming: Deep C Secrets (1994) by Peter van der Linden 
+- C Traps and Pitfalls (1989) by Andrew Koenig
 
 ### C++
 
@@ -552,6 +561,7 @@ Prime
 
 - [The Python Tutorial - doc](https://docs.python.org/3/tutorial/)
 - [Python Documentation](https://www.python.org/doc/)
+- [Beginner's Guide to Python](https://wiki.python.org/moin/BeginnersGuide)
 - Learning Python by David Ascher and MARK LUTZ
 - Learn Python 3 the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code by Zed Shaw
 - A Byte of Python by Swaroop C.H.
