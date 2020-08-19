@@ -9,6 +9,7 @@
 ### Content
 
 - <a name="code_c" href="#code_t">Code</a>
+- <a name="designpatterns_c" href="#designpatterns_t">Design Patterns</a>
 - <a name="test_c" href="#test_t">Test</a>
 - <a name="devops_c" href="#devops_t">DevOps</a>
 - <a name="devtools_c" href="#devtools_t">Development Tools</a>
@@ -22,6 +23,8 @@
 
 <h2><a name="code_t" href="#code_c">Code</a></h2>
 <br>
+
+Clean Code
 
 - **Clean Code : A Handbook of Agile Software Craftsmanship** (2008) by Robert C. Martin, Prentice Hall
 - **Code Complete** (2nd, 2004) by Steve McConnell
@@ -40,6 +43,33 @@ Refactoring
 - **Working Effectively with Legacy Code** by Michael C. Feathers
 
 
+
+<br>
+
+<h2><a name="designpatterns_t" href="#designpatterns_c">Design Patterns</a></h2>
+<br>
+
+Design Patterns
+
+- **Design Patterns: Elements of Reusable Object-Oriented Software** (1994) by Erich Gamma, Richard Helm,  Ralph Johnson, John Vlissides
+- Head First Design Patterns (2004) by Elisabeth Freeman
+- **Agile Software Development, Principles, Patterns, and Practices** by Robert C. Martin
+- **A Philosophy of Software Design** by John Ousterhout
+- Beautiful Code: Leading Programmers Explain How They Think by Andy Oram, Greg Wilson
+
+Object-Oriented
+
+- Head First Object-Oriented Analysis and Design (2006) by Brett D. McLaughlin
+- Object-Oriented Analysis and Design with Applications by Grady Booch
+- Object-Oriented Software Construction by Bertrand Meyer
+
+API Design
+
+- The Design of Web APIs by Arnaud Lauret
+
+Tutorials
+
+- [Design Patterns in Java Tutorial - Tutorialspoint](https://www.tutorialspoint.com/design_pattern/index.htm)
 
 <br>
 
@@ -74,9 +104,22 @@ Jenkins
 
 Container
 
-- Docker in Action
-- Continuous Delivery with Docker and Jenkins by Rafal Leszko
-- Kubernetes in Action by Marko Luksa
+- Docker
+  - **Docker in Action** by Jeff Nickoloff
+  - **Docker Deep Dive** by Nigel Poulton
+  - Docker in Practice by Ian Miell, Aidan Hobson Sayers
+  - Docker: Up & Running: Shipping Reliable Containers in Production by Sean P. Kane
+  - Continuous Delivery with Docker and Jenkins by Rafal Leszko
+- Kubernetes 
+  - Kubernetes in Action by Marko Luksa
+  - **The Kubernetes Book** by Nigel Poulton
+  - Kubernetes: Up and Running: Dive into the Future of Infrastructure by Brendan Burns , Joe Beda
+
+Others
+
+- gRPC: Up and Running: Building Cloud Native Applications with Go and Java for Docker and Kubernetes by Kasun Indrasiri and Danesh Kuruppu
+- Prometheus: Up & Running: Infrastructure and Application Performance Monitoring by Brian Brazil 
+- Terraform: Up & Running: Writing Infrastructure as Code by Yevgeniy Brikman 
 
 
 
@@ -103,32 +146,15 @@ Container
 <h2><a name="softeng_t" href="#softeng_c">Software Engineering</a></h2>
 <br>
 
+Software Engineering
+
 - Software Engineering (10th, 2015) by Ian Sommerville
 - The Essence of Software Engineering by Volker Gruhn and Rüdiger Striemer
 
-### UML
+UML
 
 - UML distilled by Martin Fowler
 - Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and Iterative Development by Craig Larman
-
-
-### Design Patterns & Software Design
-
-- **Design Patterns: Elements of Reusable Object-Oriented Software** (1994) by Erich Gamma, Richard Helm,  Ralph Johnson, John Vlissides
-- Head First Design Patterns (2004) by Elisabeth Freeman
-- **Agile Software Development, Principles, Patterns, and Practices** by Robert C. Martin
-- **A Philosophy of Software Design** by John Ousterhout
-- Beautiful Code: Leading Programmers Explain How They Think by Andy Oram, Greg Wilson
-
-Object-Oriented
-
-- Head First Object-Oriented Analysis and Design (2006) by Brett D. McLaughlin
-- Object-Oriented Analysis and Design with Applications by Grady Booch
-- Object-Oriented Software Construction by Bertrand Meyer
-
-Tutorials
-
-- [Design Patterns in Java Tutorial - Tutorialspoint](https://www.tutorialspoint.com/design_pattern/index.htm)
 
 <br>
 
@@ -163,6 +189,8 @@ Tutorials
 - **Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems** by Martin Kleppmann
 - **Implementing Domain-Driven Design** by Vaughn Vernon
 - **Clean Architecture** by Robert Cecil Martin
+- **Thinking in Systems: A Primer** by Donella H. Meadows, Diana Wright
+- Cloud Native Patterns: Designing change-tolerant software by Cornelia Davis
 - Building Evolutionary Architectures: Support Constant Change by Neal Ford, Patrick Kua, and Rebecca Parsons
 - The Art of Scalability: Scalable Web Architecture, Processes, and Organizations for the Modern Enterprise by Martin L. Abbott, Michael T. Fisher
 - Web Application Architecture: Principles, Protocols and Practices by Leon Shklar
@@ -180,6 +208,8 @@ Tutorials
 ### Microservices Architecture
 
 - **Building Microservices: Designing Fine-Grained Systems** by Sam Newman
+- Microservices: Up and Running: A Step-by-Step Guide to Building a Microservice Architecture by Ronnie Mitra and Irakli Nadareishvili
+- Microservices Security in Action by Prabath Siriwardena and Nuwan Dias
 - Production-Ready Microservices by Susan J. Fowler
 - 大型网站技术架构 by 李智慧
 - 大型网站系统与JAVA中间件实践 by 曾宪杰
@@ -283,19 +313,27 @@ Tech Leader
 
 For Interview
 
-- Cracking the Coding Interview: 189 Programming Questions and Solutions (2015) by Gayle Laakmann McDowell
-- Programming Interviews Exposed by Eric Giguere, John Mongan, and Noah Kindler
-- Elements of Programming Interviews: The Insiders' Guide by Adnan Aziz , Tsung-Hsien Lee
-- Elements of Programming Interviews in Java: The Insiders' Guide by Adnan Aziz , Tsung-Hsien Lee
-- Programming Pearl by Jon Bentley
-- Java Programming Interviews Exposed by Noel Markham
-- Coding Interview Questions by Narasimha Karumanchi
-- Dynamic Programming for Coding Interviews by Meenakshi and Kamal Rawat
-- Algorithms for Interviews by Adnan Aziz and Amit Prakash
-- Joe Celko's SQL Puzzles and Answers by Joe Celkos
-- 剑指Offer (2012) by 何海涛 
-- 编程之美 (2008) by 《编程之美》小组
-- 程序员代码面试指南：IT名企算法与数据结构题目最优解 (2015) by 左程云 
+- Common
+  - Programming Interviews Exposed (4th, 2018) by Eric Giguere, John Mongan, and Noah Kindler
+  - Elements of Programming Interviews: The Insiders' Guide by Adnan Aziz , Tsung-Hsien Lee
+  - Coding Interview Questions by Narasimha Karumanchi
+- Algorithms
+  - Cracking the Coding Interview: 189 Programming Questions and Solutions (2015) by Gayle Laakmann McDowell
+  - Programming Pearl by Jon Bentley
+  - Dynamic Programming for Coding Interviews by Meenakshi and Kamal Rawat
+  - Algorithms for Interviews by Adnan Aziz and Amit Prakash
+  - 剑指Offer (2012) by 何海涛 
+  - 编程之美 (2008) by 《编程之美》小组
+  - 程序员代码面试指南：IT名企算法与数据结构题目最优解 (2015) by 左程云
+- System Design
+  - System Design Interview – An insider’s guide by Alex
+- Java
+  - Elements of Programming Interviews in Java: The Insiders' Guide by Adnan Aziz , Tsung-Hsien Lee
+  - Java Programming Interviews Exposed by Noel Markham
+- Python
+  - Elements of Programming Interviews in Python: The Insiders' Guide by Adnan Aziz, Tsung-Hsien Lee, Amit Prakash
+- SQL
+  - Joe Celko's SQL Puzzles and Answers by Joe Celkos
 
 Some More
 
