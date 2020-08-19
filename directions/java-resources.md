@@ -48,6 +48,7 @@
 - JSR-133: Java Memory Model and Thread Specification (Java 1.5, 2004) - [PDF](https://www.cs.umd.edu/~pugh/java/memoryModel/jsr133.pdf)
 - **Effective Java** (3rd, 2017) by Joshua Bloch 
 - **Thinking in Java** (4th, 2006) by Eckel, Bruce
+- Java by Comparison: Become a Java Craftsman in 70 Examples by Simon Harrer, Jörg Lenhard, Linus Dietz
 - On Java 8 by Bruce Eckel
 - Java in a Nutshell: A Desktop Quick Reference (7th, 2019) by David Flanagan
 - Java Puzzlers by Joshua Bloch, Neal Gafter
@@ -57,6 +58,7 @@
 - 阿里巴巴Java开发手册 by 杨冠宝 
 - 码出高效：Java开发手册 by 杨冠宝 
 - Java Generics and Collections: Speed Up the Java Development Process by Maurice Naftalin
+- Java Security by Scott Oaks
 
 #### Modern Java Features
 
@@ -128,15 +130,14 @@ For JRockit JVM
 - Reactive Programming With Java 9: Build Asynchronous Applications with Rx.Java 2.0, Flow API and Spring WebFlux by Tejaswini Mandar Jog
 - Learning Reactive Programming with Java 8 by Nickolay Tsvetinov
 - Reactive Web Applications: Covers Play, Akka, and Reactive Streams by Manuel Bernhardt
+- Why Reactive ? by Konrad Malawski 
+- Hands-On Reactive Programming in Spring 5: Build cloud-ready, reactive systems with Spring 5 and Project Reactor by Oleh Dokuka
 
 #### Utility Library
 
 > JSON, XML, Email, Logging, Datetime, IO.
 
-#### Design Patterns
 
-- Head First Object-Oriented Analysis and Design by McLaughlin, Brett
-- Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma, Richard Helm
 
 ### Java Data Access
 
@@ -296,9 +297,9 @@ Reference [Software Development and Engineering](../_cs-software-development-and
 
 Reference [CS Advanced Domains Resources - Distributed Systems](../_cs-advanced-domains-resources.md#distsys_t)
 
+### Test
 
-
-
+- Java Testing with Spock by Konstantinos Kapelonis
 
 
 ##  III. Source Repositories
