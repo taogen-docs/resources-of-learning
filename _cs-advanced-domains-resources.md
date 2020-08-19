@@ -10,9 +10,8 @@
 
 - <a name="webdev_c" href="#webdev_t">Web Development</a>
 - <a name="dbms_c" href="#dbms_t">Database Systems and Data Storage</a>
-- <a name="crypt_c" href="#crypt_t">Cryptography</a>
 - <a name="infosec_c" href="#infosec_t">Information Security</a>
-- <a name="graph_c" href="#graph_t">Graphics and Visualization</a>
+- <a name="graph_c" href="#graph_t">Computer Graphics and Visualization</a>
 - <a name="multimedia_c" href="#multimedia_t">Multimedia</a>
 - <a name="inforetri_c" href="#inforetri_t">Information Retrieval</a>
 - <a name="datamining_c" href="#datamining_t">Big Data & Data Mining</a>
@@ -220,12 +219,7 @@ Tutorials
 - [Apache Solr Reference Guide](https://lucene.apache.org/solr/guide/)
 - [Elasticsearch Documentation](https://www.elastic.co/guide/index.html)
 
-<br>
 
-<h2><a name="crypt_t" href="#crypt_c">Cryptography</a></h2>
-<br>
-
-Reference [Information Security Resources - Cryptography](directions/information-security-resources.md#crypt_t)
 
 <br>
 
@@ -236,7 +230,8 @@ Reference [Information Security Resources](directions/information-security-resou
 
 <br>
 
-<h2><a name="graph_t" href="#graph_c">Computer Graphics</a></h2>
+<h2><a name="graph_t" href="#graph_c">Computer Graphics and Visualization</a></h2>
+
 <br>
 
 Must Read

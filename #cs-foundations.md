@@ -18,6 +18,7 @@
 - <a name="compiler_c" href="#compiler_t">Compiler</a>
 - <a name="os_c" href="#os_t">Operating Systems</a>
 - <a name="net_c" href="#net_t">Computer Networks</a>
+- <a name="crypt_c" href="#crypt_t">Cryptography</a>
 - <a name="info_c" href="#info_t">Information Theory</a>
 - <a name="lang_c" href="#lang_t">Programming Languages</a>
 - <a name="nonturinglang_c" href="#nonturinglang_t">Non-Turing-Complete Languages</a>
@@ -343,6 +344,29 @@ For Programming
 - [RFC 2616 - Hypertext Transfer Protocol -- HTTP/1.1](https://www.w3.org/Protocols/rfc2616/rfc2616.html)
 - HTTP: The Definitive Guide (2002) by David Gourley,  Brian Totty, Marjorie Sayer, Anshu Aggarwal, Sailu Reddy
 - Learning Http/2: A Practical Guide for Beginners (2017) by Stephen Ludin,  Javier Garza
+
+<br>
+
+<h2><a name="crypt_t" href="#crypt_c">Cryptography</a></h2>
+<br>
+
+Must Read
+
+- The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography (2000) by Simon Singh 
+- Understanding Cryptography: A Textbook for Students and Practitioners (2010) by Christof Paar,  Jan Pelzl
+- Network Security: Private Communication in a Public World (2nd, 2002) by Charlie Kaufman , Radia Perlman
+- Applied Cryptography: Protocols, Algorithms, and Source Code in C (2015) by Bruce Schneier
+- Counter Hack Reloaded: A Step-by-Step Guide to Computer Attacks and Effective Defenses (2nd, 2006) by Edward Skoudis, Tom Liston
+
+Some More
+
+- Cryptography Engineering: Design Principles and Practical Applications by Niels Ferguson,  Bruce Schneier, Tadayoshi Kohno
+- Introduction to Modern Cryptography, Second Edition (Chapman & Hall/CRC Cryptography and Network Security Series) by Jonathan Katz
+- Serious Cryptography: A Practical Introduction to Modern Encryption by Jean-Philippe Aumasson
+- Practical Cryptography by Niels Ferguson,  Bruce Schneier
+- Cryptography and Network Security: Principles and Practice by William Stallings
+- Cryptography: Theory and Practice by Doug Stinson
+- Foundations of cryptography by Oded Goldreich
 
 <br>
 
