@@ -46,7 +46,7 @@ Stories
 <h2><a name="crypt_t" href="#crypt_c">Cryptography</a></h2>
 <br>
 
-Reference [CS Fundamentals Resources - Cryptography](%23cs-foundations#crypt_t.md)
+Reference [CS Fundamentals Resources - Cryptography](../%23cs-foundations.md#crypt_t)
 
 <br>
 <h2><a name="netsec_t" href="#netsec_c">Network Security</a></h2>
