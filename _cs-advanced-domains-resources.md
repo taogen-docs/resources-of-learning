@@ -46,6 +46,7 @@ Reference [Web Frontend Resources](directions/web-frontend-resources.md)
 - Web Performance Tuning by Patrick Killelea
 - Web Animation Using JavaScript: Develop & Design by Julian Shapiro
 - The Web Testing Handbook by Steven Splaine, Stefan P. Jaskiel
+- Algorithms of the Intelligent Web by Douglas McIlwraith, Haralambos Marmanis, Dmitry Babenko
 
 <br>
 
