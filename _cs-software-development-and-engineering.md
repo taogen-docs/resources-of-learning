@@ -16,7 +16,6 @@
 - <a name="softeng_c" href="#softeng_t">Software Engineering</a>
 - <a name="sre_c" href="#sre_t">SRE</a>
 - <a name="archdes_c" href="#archdes_t">Architecture Design</a>
-- <a name="agile_c" href="#agile_t">Team & Agile</a>
 - <a name="career_c" href="#career_t">Career</a>
 
 <br>
@@ -62,6 +61,7 @@ Object-Oriented
 - Head First Object-Oriented Analysis and Design (2006) by Brett D. McLaughlin
 - Object-Oriented Analysis and Design with Applications by Grady Booch
 - Object-Oriented Software Construction by Bertrand Meyer
+- Object Design Style Guide by Matthias Noback
 
 API Design
 
@@ -93,7 +93,6 @@ Tutorials
 DevOps
 
 - **The Practice of Cloud System Administration: Devops and Sre Practices for Web Services**, Volume 2 by Thomas A. Limoncelli, Strata R. Chalup, Christina J. Hogan
-- **The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win** by Gene Kim, Kevin Behr, George Spafford
 
 
 Jenkins
@@ -146,15 +145,54 @@ Others
 <h2><a name="softeng_t" href="#softeng_c">Software Engineering</a></h2>
 <br>
 
-Software Engineering
+### Software Engineering
 
 - Software Engineering (10th, 2015) by Ian Sommerville
 - The Essence of Software Engineering by Volker Gruhn and Rüdiger Striemer
+- Software Engineering at Google: Lessons Learned from Programming Over Time (2020) by Titus Winters, Tom Manshreck, Hyrum Wright
 
 UML
 
 - UML distilled by Martin Fowler
 - Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and Iterative Development by Craig Larman
+
+### Team & Agile
+
+Must Read
+
+- **Extreme Programming Explained: Embrace Change** by Kent Beck
+- **The Mythical Man-Month: Essays on Software Engineering** by Jr·Frederick P·Brooks 
+- **Peopleware: Productive Projects and Teams** by Tom DeMarco 
+- **Scrum and XP from the Trenches** by Henrik Kniberg
+- **Scrum: The Art of Doing Twice the Work in Half the Time** by Jeff Sutherland
+- **The Goal: A Process of Ongoing Improvement** by Eliyahu M. Goldratt
+- **Lean from the Trenches** by Henrik Kniberg
+- **Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency** by Tom DeMarco
+- **The Software Craftsman: Professionalism, Pragmatism, Pride** by Sandro Mancuso 
+- **Implementing Lean Software Development: From Concept to Cash** by Mary Poppendieck
+- **The Art of Agile Development** by James Shore, Shane Warden 
+- **The Agile Samurai** by Jonathan Rasmusson
+- **The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win** by Gene Kim, Kevin Behr, George Spafford
+- **The Unicorn Project** by Gene Kim
+- Timeless Laws of Software Development by Jerry Fitzpatrick
+- Rapid Development: Taming Wild Software Schedules by Steve McConnell
+- Lean thinking  banish waste and creat wealth in your corporation by James P.Womack 
+- Learning Agile by Andrew Stellman
+- Ship It! by Jared Richardson
+
+
+Some More
+
+- Specification by Example by Gojko Adzic
+- Agile Retrospectives：Making Good Teams Great by Esther Derby , Diana Larsen,Ken Schwaber
+- Coaching Agile Teams: A Companion for ScrumMasters,Agile Coaches, and Project Managers in Transition by Lyssa Adkins
+- Agile Project Management with Scrum by Ken Schwaber
+- Succeeding with Agile:Software development using Scrum by Mike Cohn
+- Agile Estimating and Planning by Mike Cohn
+- Kanban: Successful Evolutionary Change for Your Technology Business by David J.Anderson
+- User Stories Applied:For Agile Software Development by Mike Cohn
+- User Story Mapping Building Better Products using Agile Software Design by Jeff Patton
+- Manage Your Project Portfolio by Johanna Rothman 
 
 <br>
 
@@ -190,6 +228,7 @@ UML
 - **Implementing Domain-Driven Design** by Vaughn Vernon
 - **Clean Architecture** by Robert Cecil Martin
 - **Thinking in Systems: A Primer** by Donella H. Meadows, Diana Wright
+- Fundamentals of Software Architecture: An Engineering Approach (2020) by Mark Richards, Neal Ford
 - Cloud Native Patterns: Designing change-tolerant software by Cornelia Davis
 - Building Evolutionary Architectures: Support Constant Change by Neal Ford, Patrick Kua, and Rebecca Parsons
 - The Art of Scalability: Scalable Web Architecture, Processes, and Organizations for the Modern Enterprise by Martin L. Abbott, Michael T. Fisher
@@ -208,6 +247,7 @@ UML
 ### Microservices Architecture
 
 - **Building Microservices: Designing Fine-Grained Systems** by Sam Newman
+- **Monolith to Microservices: Sustaining Productivity While Detangling the System** by Sam Newman
 - Microservices: Up and Running: A Step-by-Step Guide to Building a Microservice Architecture by Ronnie Mitra and Irakli Nadareishvili
 - Microservices Security in Action by Prabath Siriwardena and Nuwan Dias
 - Production-Ready Microservices by Susan J. Fowler
@@ -226,6 +266,11 @@ UML
 - The Site Reliability Workbook: Practical Ways to Implement SRE by Betsy Beyer 
 - DevOps: A Software Architect's Perspective by Len Bass
 
+### Security Architecture
+
+- Practical Cloud Security: A Guide for Secure Design and Deployment by Chris Dotson
+- Secure by Design by Dan Bergh Johnsson, Daniel Deogun, Daniel Sawano
+
 
 ### Architect
 
@@ -238,45 +283,6 @@ Articles
 - [Fundamentals of web application architecture](https://www.peerbits.com/blog/web-application-architecture.html)
 - [WEB APPLICATION ARCHITECTURE: THE BASICS](https://www.intellectsoft.net/blog/web-application-architecture/)
 - [Web Application Architecture](https://medium.com/existek/web-application-architecture-da77ea0cb520)
-
-
-
-<br>
-<h2><a name="agile_t" href="#agile_c">Team & Agile</a></h2>
-<br>
-
-Must Read
-
-- **Extreme Programming Explained: Embrace Change** by Kent Beck
-- **The Mythical Man-Month: Essays on Software Engineering** by Jr·Frederick P·Brooks 
-- **Peopleware: Productive Projects and Teams** by Tom DeMarco 
-- **Scrum and XP from the Trenches** by Henrik Kniberg
-- **Scrum: The Art of Doing Twice the Work in Half the Time** by Jeff Sutherland
-- **The Goal: A Process of Ongoing Improvement** by Eliyahu M. Goldratt
-- **Lean from the Trenches** by Henrik Kniberg
-- **Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency** by Tom DeMarco
-- **The Software Craftsman: Professionalism, Pragmatism, Pride** by Sandro Mancuso 
-- **Implementing Lean Software Development: From Concept to Cash** by Mary Poppendieck
-- **The Art of Agile Development** by James Shore, Shane Warden 
-- **The Agile Samurai** by Jonathan Rasmusson
-- Rapid Development: Taming Wild Software Schedules by Steve McConnell
-- Lean thinking  banish waste and creat wealth in your corporation by James P.Womack 
-- Learning Agile by Andrew Stellman
-- Ship It! by Jared Richardson
-
-
-Some More
-
-- Specification by Example by Gojko Adzic
-- Agile Retrospectives：Making Good Teams Great by Esther Derby , Diana Larsen,Ken Schwaber
-- Coaching Agile Teams: A Companion for ScrumMasters,Agile Coaches, and Project Managers in Transition by Lyssa Adkins
-- Agile Project Management with Scrum by Ken Schwaber
-- Succeeding with Agile:Software development using Scrum by Mike Cohn
-- Agile Estimating and Planning by Mike Cohn
-- Kanban: Successful Evolutionary Change for Your Technology Business by David J.Anderson
-- User Stories Applied:For Agile Software Development by Mike Cohn
-- User Story Mapping Building Better Products using Agile Software Design by Jeff Patton
-- Manage Your Project Portfolio by Johanna Rothman 
 
 
 
