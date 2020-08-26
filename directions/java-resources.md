@@ -116,7 +116,9 @@ For HotSpot JVM
 
 - [Java SE Core Technologies](https://www.oracle.com/java/technologies/javase/javase-core-technologies-apis.html)
 - [Java SE HotSpot at a Glance](https://www.oracle.com/java/technologies/javase-jsp.html)
-- [Java HotSpot Virtual Machine Garbage Collection Tuning Guide](https://docs.oracle.com/javase/8/docs/technotes/guides/vm/gctuning/index.html)
+- **[Java SE 8 HotSpot Virtual Machine Garbage Collection Tuning Guide](https://docs.oracle.com/javase/8/docs/technotes/guides/vm/gctuning/index.html)**
+- **[Java HotSpot VM Options - JDK 7 and earlier](https://www.oracle.com/java/technologies/javase/vmoptions-jsp.html)**
+- **[Java HotSpot VM Options - JDK 8](https://docs.oracle.com/javase/8/docs/technotes/tools/windows/java.html?xd_co_f=22c6aff41dec2d561251589323805186)**
 - [Java Virtual Machine Technology](https://docs.oracle.com/javase/8/docs/technotes/guides/vm/index.html)
 - [The HotSpot Group - source code, documentation](https://openjdk.java.net/groups/hotspot/)
 
