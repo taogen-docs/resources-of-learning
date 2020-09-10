@@ -287,21 +287,109 @@ OpenGL
 
 <br>
 
+Introduction Data, Information
+
+- The Signal and the Noise: Why So Many Predictions Fail—But Some Don't by Nate Silver
+- The Tipping Point: How Little Things Can Make a Big Difference by Malcolm Gladwell
+- Moneyball: The Art of Winning an Unfair Game by Michael Lewis
+- Invisible Women: Data Bias in a World Designed for Men by Caroline Criado Perez
+- The Wisdom of Crowds: Why the Many Are Smarter Than the Few and How Collective Wisdom Shapes Business, Economies, Societies and Nations by James Surowiecki
+- Everybody Lies: Big Data, New Data, and What the Internet Can Tell Us About Who We Really Are by Seth Stephens-Davidowitz 
+- Superforecasting: The Art and Science of Prediction by Philip E. Tetlock
+- The Misbehavior of Markets: A Fractal View of Financial Turbulence by Benoît B. Mandelbrot
+- Quiet: The Power of Introverts in a World That Can't Stop Talking by Susan Cain
+- Big Data: A Revolution That Will Transform How We Live, Work, and Think by Viktor Mayer-Schönberger
+- Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy by Cathy O'Neil
+- The Lady Tasting Tea: How Statistics Revolutionized Science in the Twentieth Century by David Salsburg
+- A Human's Guide to Machine Intelligence: How Algorithms Are Shaping Our Lives and How We Can Stay in Control by Kartik Hosanagar
+- Freakonomics: A Rogue Economist Explores the Hidden Side of Everything by Steven D. Levitt
+- Thinking, Fast and Slow by Daniel Kahneman
+- Predictably Irrational: The Hidden Forces That Shape Our Decisions by Dan Ariely
+- Dataclysm: Who We Are by Christian Rudder
+- Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets by Nassim Nicholas Taleb
+- The Long Tail: Why the Future of Business is Selling Less of More by Chris Anderson
+- The Creative Destruction of Medicine: How the Digital Revolution Will Create Better Health Care by Eric J. Topol
+- Bringing Down the House: The Inside Story of Six M.I.T. Students Who Took Vegas for Millions by Ben Mezrich 
+
+
+Introduction to Data Science
+
+- Data Science from Scratch by Joel Grus
+- Machine Learning: An Introduction Math Guide for Beginners to Understand Data Science Through the Business Applications by Samuel Hack
+- Doing Data Science: Straight Talk from the Frontline by Cathy O'Neil and Rachel Schutt
+- Data Science for Business: What you need to know about data mining and data-analytic thinking by Foster Provost
+- How to Lie with Statistics by Darrell Huff
+- Algorithms to Live By: What Computers Can Teach Us About Solving Human Problems by Brian Christian
+- The Ethical Algorithm: The Science of Socially Aware Algorithm Design by Michael Kearns
+- Think Like a Data Scientist: Tackle the data science process step-by-step by Brian Godsey
+- Hello World: Being Human in the Age of Algorithms by Hannah Fry
+- Data Smart: Using Data Science to Transform Information into Insight by John W. Foreman
+- Naked Statistics: Stripping the Dread from the Data by Charles Wheelan
+
+Statistical Learning
+
 - The Elements of Statistical Learning by Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie
+- An Introduction to Statistical Learning: With Applications in R by Gareth James, Trevor Hastie, Robert Tibshirani, Daniela Witten
+- Advanced R by Hadley Wickham 
+- An Introduction to Applied Multivariate Analysis with R by Brian S. Everitt
+- R in Action by Robert Kabacoff
+- R for Everyone: Advanced Analytics and Graphics by Jared P. Lander
+- The R Book by Michael J. Crawley
+- R for Data Science: Import, Tidy, Transform, Visualize, and Model Data by Hadley Wickham
+- Statistics in Plain English by Timothy C. Urdan
+- What is a P-Value Anyway? 34 Stories to Help You Actually Understand Statistics by Andrew J. Vickers
+- All of Statistics: A Concise Course in Statistical Inference by Larry Wasserman
+- Regression Modeling Strategies: With Applications to Linear Models, Logistic Regression, and Survival Analysis by Frank E. Harrell Jr.
+
+
+Data Mining 
+
+> It is the process of extracting a specific pattern from large datasets. It's based on mathematical and scientific methods to identify patterns or trends. it's generally used for the process of extracting, cleaning, learning and predicting from data.
+
+- Introduction to Data Mining by Vipin Kumar
+- Introduction to Data Mining by Pang-Ning Tan
 - Data Mining: Concepts and Techniques by Jiawei Han
 - Mining of Massive Datasets by Anand Rajaraman and Jeffrey Ullman
 - Data Mining and Analysis: Fundamental Concepts and Algorithms by Mohammed J. Zaki and Wagner Meira
-- Introduction to Data Mining by Vipin Kumar, Michael Steinbach
-- An Introduction to Statistical Learning: With Applications in R by Gareth James, Trevor Hastie, Robert Tibshirani, Daniela Witten
-- Data Science from Scratch by Joel Grus
-- Data Smart: Using Data Science to Transform Information into Insight by John W. Foreman
 - Data Mining with Rattle and R: The Art of Excavating Data for Knowledge Discovery by Graham J. Williams
 - Bayesian Methods for Hackers: Probabilistic Programming and Bayesian Inference by Cameron Davidson-Pilon
-- Doing Data Science: Straight Talk from the Frontline by Cathy O'Neil and Rachel Schutt
 - Data Mining with R: Learning with Case Studies by Luis Torgo
-- R for Everyone: Advanced Analytics and Graphics by Jared P. Lander
 - Data Mining Techniques: For Marketing, Sales, and Customer Relationship Management by Michael J. A. Berry, Gordon S. Linoff
 - Mining the Social Web: Data Mining Facebook, Twitter, LinkedIn, Instagram, GitHub, and More by Matthew A. Russell and Mikhail Klassen
+- Data Mining: Practical Machine Learning Tools and Techniques by Ian H. Witten
+
+
+Data Analysis
+
+> It is the process of ordering and organizing raw data in order to determine useful insights and decisions.
+
+- Data Analysis with Open Source Tools: A Hands-On Guide for Programmers and Data Scientists by Philipp K. Janert
+- Multivariate Data Analysis by Joseph F. Hair Jr.
+- Bayesian Data Analysis by Andrew Gelman
+- Web Analytics 2.0: The Art of Online Accountability & Science of Customer Centricity by Avinash Kaushik
+- Data Analysis Using Regression and Multilevel/Hierarchical Models by Andrew Gelman
+- Python for Data Analysis by Wes McKinney
+- Competing on Analytics: Updated, with a New Introduction: The New Science of Winning by Thomas H. Davenport
+- Forecasting: principles and practice by Rob J Hyndman
+- Presenting Data Effectively: Communicating Your Findings for Maximum Impact by Stephanie D.H. Evergreen
+
+
+Data Analysis - Information Graphics
+
+- The Visual Display of Quantitative Information by Edward R. Tufte
+- The Functional Art: An Introduction to Information Graphics and Visualization by Alberto Cairo
+- Visualize This: The FlowingData Guide to Design, Visualization, and Statistics by Nathan Yau
+- Beautiful Visualization: Looking at Data through the Eyes of Experts by Julie Steele
+- Say It with Charts: The Executive's Guide to Visual Communication by Gene Zelazny
+- Bayes Theorem: A Visual Introduction For Beginners by Dan Morris
+- Decision Trees and Random Forests: A Visual Introduction For Beginners: A Simple Guide to Machine Learning with Decision Trees by Chris Smith
+- The Truthful Art: Data, Charts, and Maps for Communication by Alberto Cairo
+
+OLAP (Online Analytical Processing)
+
+- [ClickHouse - a fast open-source OLAP database management system](https://clickhouse.tech/)
+- [Apache Druid - a high performance real-time analytics database](https://druid.apache.org/)
+- [Apache Pinot - Realtime distributed OLAP datastore](https://pinot.apache.org/)
 
 Hadoop
 
@@ -310,22 +398,22 @@ Hadoop
 - Hadoop Operations by Eric Sammer
 - Hadoop in Practice by Alex Holmes
 - Professional Hadoop Solutions by Alexey Yakubovich, Boris Lublinsky, and Kevin T. Smith
-- MapReduce Design Patterns: Building Effective Algorithms and Analytics for Hadoop and Other Systems by Adam Shook and Donald Miner
 - Programming Pig by Alan Gates
 - Data Analytics with Hadoop: An Introduction for Data Scientists by Benjamin Bengfort and Jenny Kim
 - Expert Hadoop Administration: Managing, Tuning, and Securing Spark, YARN, and HDFS by Sam R. Alapati
 - Hadoop Application Architectures: Designing Real-World Big Data Applications by Gwen Shapira, Ted Malaska Jonathan S Mark Grover
-- HBase: The Definitive Guide by Lars George
 - Hadoop Security: Protecting Your Big Data Platform by Ben Spivey and Joey Echeverria
 - Architecting Modern Data Platforms: A Guide to Enterprise Hadoop at Scale by Jan Kunigk, Ian Buss, Paul Wilkinson, Lars George
 
-Others
+Hive, HBase, Spark and so on
 
 - Programming Hive by Dean Wampler, Edward Capriolo, and Jason Rutherglen
 - MapReduce Design Patterns: Building Effective Algorithms and Analytics for Hadoop and Other Systems by Adam Shook and Donald Miner
 - HBase: The Definitive Guide by Lars George
 - Learning Spark: Lightning-Fast Big Data Analysis by Holden Karau, Andy Konwinski, Patrick Wendell, Matei Zaharia
 - Spark: The Definitive Guide: Big Data Processing Made Simple by Bill Chambers. Matei Zaharia
+- Learning Spark by Mark Hamstra
+- MapReduce Design Patterns: Building Effective Algorithms and Analytics for Hadoop and Other Systems by Adam Shook and Donald Miner
 
 <br>
 
@@ -350,6 +438,7 @@ Must Read
 - Understanding Machine Learning: From Theory to Algorithms by Shai Shalev-Shwartz, Shai Ben-David
 - Machine Learning For Absolute Beginners: A Plain English Introduction by Oliver Theobald
 - Introduction to Machine Learning with Python: A Guide for Data Scientists by Andreas C. Müller, Sarah Guido
+- The Hundred-Page Machine Learning Book by Andriy Burkov
 - 机器学习 by 周志华 (**西瓜书**)
 
 ### Deep Learning
@@ -544,3 +633,7 @@ Bitcoin
 [2] [What is the best book on building distributed systems? - Quora](https://www.quora.com/What-is-the-best-book-on-building-distributed-systems)
 
 [3] [Blockchain and Related Technologies - Goodreads](https://www.goodreads.com/list/show/121555.Blockchain_and_Related_Technologies)
+
+[4] [Data Science - Learning About Data - Goodreads](https://www.goodreads.com/list/show/33337.Data_Science_Learning_About_Data)
+
+[5] [Data, Information & Analytics - Goodreads](https://www.goodreads.com/list/show/74233.Data_Information_Analytics)
