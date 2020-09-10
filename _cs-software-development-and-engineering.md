@@ -179,6 +179,7 @@ Must Read
 - Lean thinking  banish waste and creat wealth in your corporation by James P.Womack 
 - Learning Agile by Andrew Stellman
 - Ship It! by Jared Richardson
+- Working with Coders: A Guide to Software Development for the Perplexed Non-Techie by Patrick Gleeson
 
 
 Some More
