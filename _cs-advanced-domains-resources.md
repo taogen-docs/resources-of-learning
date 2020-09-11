@@ -14,12 +14,13 @@
 - <a name="graph_c" href="#graph_t">Computer Graphics and Visualization</a>
 - <a name="multimedia_c" href="#multimedia_t">Multimedia</a>
 - <a name="inforetri_c" href="#inforetri_t">Information Retrieval</a>
-- <a name="datamining_c" href="#datamining_t">Big Data & Data Mining</a>
+- <a name="datamining_c" href="#datamining_t">Big Data and Data Mining</a>
 - <a name="ai_c" href="#ai_t">Artificial Intelligence</a>
-- Embedded System & IoT & 5G
 - <a name="distsys_c" href="#distsys_t">Distributed Systems</a>
-- Cloud Computing
 - <a name="blockchain_c" href="#blockchain_t">Blockchain</a>
+- Cloud Computing
+- Edge Computing
+- Embedded System and IoT and 5G
 
 <br>
 
@@ -283,11 +284,11 @@ OpenGL
 
 <br>
 
-<h2><a name="datamining_t" href="#datamining_c">Big Data & Data Mining</a></h2>
+<h2><a name="datamining_t" href="#datamining_c">Big Data and Data Mining</a></h2>
 
 <br>
 
-Introduction Data, Information
+### Introduction to Big Data and Information
 
 - The Signal and the Noise: Why So Many Predictions Fail—But Some Don't by Nate Silver
 - The Tipping Point: How Little Things Can Make a Big Difference by Malcolm Gladwell
@@ -311,8 +312,7 @@ Introduction Data, Information
 - The Creative Destruction of Medicine: How the Digital Revolution Will Create Better Health Care by Eric J. Topol
 - Bringing Down the House: The Inside Story of Six M.I.T. Students Who Took Vegas for Millions by Ben Mezrich 
 
-
-Introduction to Data Science
+### Introduction to Data Science
 
 - Data Science from Scratch by Joel Grus
 - Machine Learning: An Introduction Math Guide for Beginners to Understand Data Science Through the Business Applications by Samuel Hack
@@ -326,7 +326,7 @@ Introduction to Data Science
 - Data Smart: Using Data Science to Transform Information into Insight by John W. Foreman
 - Naked Statistics: Stripping the Dread from the Data by Charles Wheelan
 
-Statistical Learning
+### Statistical Learning
 
 - The Elements of Statistical Learning by Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie
 - An Introduction to Statistical Learning: With Applications in R by Gareth James, Trevor Hastie, Robert Tibshirani, Daniela Witten
@@ -341,8 +341,7 @@ Statistical Learning
 - All of Statistics: A Concise Course in Statistical Inference by Larry Wasserman
 - Regression Modeling Strategies: With Applications to Linear Models, Logistic Regression, and Survival Analysis by Frank E. Harrell Jr.
 
-
-Data Mining 
+### Data Mining 
 
 > It is the process of extracting a specific pattern from large datasets. It's based on mathematical and scientific methods to identify patterns or trends. it's generally used for the process of extracting, cleaning, learning and predicting from data.
 
@@ -358,8 +357,7 @@ Data Mining
 - Mining the Social Web: Data Mining Facebook, Twitter, LinkedIn, Instagram, GitHub, and More by Matthew A. Russell and Mikhail Klassen
 - Data Mining: Practical Machine Learning Tools and Techniques by Ian H. Witten
 
-
-Data Analysis
+### Data Analysis
 
 > It is the process of ordering and organizing raw data in order to determine useful insights and decisions.
 
@@ -373,8 +371,7 @@ Data Analysis
 - Forecasting: principles and practice by Rob J Hyndman
 - Presenting Data Effectively: Communicating Your Findings for Maximum Impact by Stephanie D.H. Evergreen
 
-
-Data Analysis - Information Graphics
+### Data Analysis - Information Graphics
 
 - The Visual Display of Quantitative Information by Edward R. Tufte
 - The Functional Art: An Introduction to Information Graphics and Visualization by Alberto Cairo
@@ -385,13 +382,13 @@ Data Analysis - Information Graphics
 - Decision Trees and Random Forests: A Visual Introduction For Beginners: A Simple Guide to Machine Learning with Decision Trees by Chris Smith
 - The Truthful Art: Data, Charts, and Maps for Communication by Alberto Cairo
 
-OLAP (Online Analytical Processing)
+### OLAP (Online Analytical Processing)
 
 - [ClickHouse - a fast open-source OLAP database management system](https://clickhouse.tech/)
 - [Apache Druid - a high performance real-time analytics database](https://druid.apache.org/)
 - [Apache Pinot - Realtime distributed OLAP datastore](https://pinot.apache.org/)
 
-Hadoop
+### Hadoop
 
 - Hadoop: The Definitive Guide by Tom White, Doug Cutting 
 - Hadoop in Action by Chuck Lam
@@ -405,7 +402,7 @@ Hadoop
 - Hadoop Security: Protecting Your Big Data Platform by Ben Spivey and Joey Echeverria
 - Architecting Modern Data Platforms: A Guide to Enterprise Hadoop at Scale by Jan Kunigk, Ian Buss, Paul Wilkinson, Lars George
 
-Hive, HBase, Spark and so on
+### Hive, HBase, Spark and so on
 
 - Programming Hive by Dean Wampler, Edward Capriolo, and Jason Rutherglen
 - MapReduce Design Patterns: Building Effective Algorithms and Analytics for Hadoop and Other Systems by Adam Shook and Donald Miner
@@ -420,7 +417,7 @@ Hive, HBase, Spark and so on
 <h2><a name="ai_t" href="#ai_c">Artificial Intelligence</a></h2>
 <br>
 
-Must Read
+### Introduction to Artificial Intelligence
 
 - Introduction to Artificial Intelligence by Philip C. Jackson
 - Artificial Intelligence: A Modern Approach by Stuart Russell, Peter Norvig
