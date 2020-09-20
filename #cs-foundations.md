@@ -31,6 +31,7 @@
 Books
 
 - Computer Science: An Overview (13th, 2018) by Glenn Brookshear and Dennis Brylow
+- Things a Computer Scientist Rarely Talks About by Donald Ervin Knuth
 
 Courses
 
