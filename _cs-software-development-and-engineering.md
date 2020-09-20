@@ -164,6 +164,12 @@ Others
 - The Essence of Software Engineering by Volker Gruhn and Rüdiger Striemer
 - Become an Effective Software Engineering Manager: How to Be the Leader Your Development Team Needs by Dr. Stanier, James
 
+### Software Development
+
+- **The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win** by Gene Kim, Kevin Behr, George Spafford
+- **The Unicorn Project** by Gene Kim
+- Code Ahead: Volume 1 (2018) by Yegor Bugayenko
+
 ### Team & Agile
 
 Must Read
@@ -180,8 +186,6 @@ Must Read
 - **Implementing Lean Software Development: From Concept to Cash** by Mary Poppendieck
 - **The Art of Agile Development** by James Shore, Shane Warden 
 - **The Agile Samurai** by Jonathan Rasmusson
-- **The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win** by Gene Kim, Kevin Behr, George Spafford
-- **The Unicorn Project** by Gene Kim
 - Timeless Laws of Software Development by Jerry Fitzpatrick
 - Rapid Development: Taming Wild Software Schedules by Steve McConnell
 - Lean thinking  banish waste and creat wealth in your corporation by James P.Womack 
