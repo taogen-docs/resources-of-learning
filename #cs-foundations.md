@@ -177,7 +177,16 @@ Courses
 Prime
 
 - How to Design Programs: An Introduction to Programming and Computing (2018) by Matthias Felleisen
-- The Little Schemer (4th, 1995) by Daniel P. Friedman
+
+The Little Schemer Series
+
+- **The Little Schemer** (4th, 1995) by Daniel P. Friedman. Formerly known as *The Little LISPer*.
+- The Seasoned Schemer (2nd, 1995) by Daniel P. Friedman, Matthias Felleisen
+- The Reasoned Schemer (2nd, 2018) by Daniel P. Friedman, William E. Byrd, Oleg Kiselyov
+- The Little Prover (2015) by Daniel P. Friedman, Carl Eastlund
+- The Little Typer (2018) by Daniel P. Friedman, David Thrane Christiansen, Robert Harper
+- The Little MLer (1997) by Matthias Felleisen, Daniel P. Friedman
+- A Little Java, A Few Patterns (1997) by Matthias Felleisen, Daniel P. Friedman
 
 Must Read
 
