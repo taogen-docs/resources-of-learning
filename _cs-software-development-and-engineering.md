@@ -29,6 +29,9 @@ Clean Code
 - **Code Complete** (2nd, 2004) by Steve McConnell
 - **The Practice of Programming** by Brian W. Kernighan
 - **Hacker's Delight** by Henry S. Warren Jr.
+- Write Great Code: Volume 1: Understanding the Machine by Randall Hyde
+- Write Great Code: Volume 2: Thinking Low-Level, Writing High-Level by Randall Hyde
+- Write Great Code, Volume 3: Engineering Software by Randall Hyde
 - Writing Solid Code by Steve Maguire
 - The Art of Readable Code by Dustin Boswell, Trevor Foucher
 - Think Like a Programmer: An Introduction to Creative Problem Solving by V. Anton Spraul
@@ -56,6 +59,11 @@ Design Patterns
 - **A Philosophy of Software Design** by John Ousterhout
 - Beautiful Code: Leading Programmers Explain How They Think by Andy Oram, Greg Wilson
 
+UML
+
+- UML distilled by Martin Fowler
+- Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and Iterative Development by Craig Larman
+
 Object-Oriented
 
 - Head First Object-Oriented Analysis and Design (2006) by Brett D. McLaughlin
@@ -78,6 +86,7 @@ Tutorials
 
 - **Test Driven Development: By Example** (2002) by  Kent Beck 
 - **Growing Object-Oriented Software, Guided by Tests** by Steve Freeman
+- Unit Testing: Principles, Practices, and Patterns by Vladimir Khorikov
 - Effective Unit Testing by Lasse Koskela
 - xUnit Test Patterns: Refactoring Test Code by Gerard Meszaros
 - The RSpec Book by David Chelimsky
@@ -147,14 +156,13 @@ Others
 
 ### Software Engineering
 
-- Software Engineering (10th, 2015) by Ian Sommerville
+- **Software Engineering** (10th, 2015) by Ian Sommerville
+- **Software Engineering at Google: Lessons Learned from Programming Over Time** (2020) by Titus Winters, Tom Manshreck, Hyrum Wright
+- **Managing Humans: Biting and Humorous Tales of a Software Engineering Manager** by Michael Lopp
+- Software Engineering: A Practitioner's Approach by Roger S. Pressman
+- The Essentials of Modern Software Engineering by Ivar Jacobson, Harold "Bud" Lawson, Pan-Wei Ng, Paul E. McMahon, Michael Goedicke
 - The Essence of Software Engineering by Volker Gruhn and Rüdiger Striemer
-- Software Engineering at Google: Lessons Learned from Programming Over Time (2020) by Titus Winters, Tom Manshreck, Hyrum Wright
-
-UML
-
-- UML distilled by Martin Fowler
-- Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and Iterative Development by Craig Larman
+- Become an Effective Software Engineering Manager: How to Be the Leader Your Development Team Needs by Dr. Stanier, James
 
 ### Team & Agile
 
@@ -315,8 +323,13 @@ Tech Leader
 
 - **The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change** by Camille Fournier
 - **Extreme Ownership: How U.S. Navy SEALs Lead and Win** by Jocko Willink, Leif Babin
--  A Elegant Puzzle: System of Engineering Management by Will Larson
--  Accelerate: Building and Scaling High-Performance Technology Organizations by Nicole Forsgern
+- A Elegant Puzzle: System of Engineering Management by Will Larson
+- Accelerate: Building and Scaling High-Performance Technology Organizations by Nicole Forsgern
+- Start with Why: How Great Leaders Inspire Everyone to Take Action by Simon Sinek
+
+Open Source Organization
+
+- Working in Public: The Making and Maintenance of Open Source Software by Nadia Eghbal
 
 For Interview
 
