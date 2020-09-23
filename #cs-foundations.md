@@ -810,14 +810,31 @@ Some More
 
 <br>
 
+Resources
+
 - [hackr.io - Find the best online Programming Courses & Tutorials](https://hackr.io/)
 - [Exercism.io - Code practice and mentorship for everyone](https://exercism.io/)
 - [PDF Drive - Search and download PDF files for free.](https://www.pdfdrive.com/)
+- [SlideShare - LinkedIn](https://www.slideshare.net/)
+
+Tutorials
+
 - [tutorials point - Simply easy learning](https://www.tutorialspoint.com/)
 - [learn everything](https://www.learnpython.org/)
 - [w3schools](https://www.w3schools.com/)
+- [Learn X in Y minutes](https://learnxinyminutes.com/)
+- 菜鸟教程
+
+Courses
+
 - [MIT OpenCourseware](https://ocw.mit.edu/)
-- [SlideShare - LinkedIn](https://www.slideshare.net/)
+- [edx](https://www.edx.org/)
+- [Coursera](https://www.coursera.org/)
+- Udacity
+- YouTube
+- Bilibili
+- 阿里云大学
+- 尚硅谷
 
 <br>
 
