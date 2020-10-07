@@ -130,8 +130,8 @@ Responsible Design
 Prime
 
 - DOM Scripting: Web Design with JavaScript and the Document Object Model by Jeremy Keith
-- ⭐**JavaScript: The Definitive Guide** (7th, 2020) by David Flanagan
-- **Professional JavaScript for Web Developers** (4th, 2019) by Nicholas C. Zakas
+- ⭐**JavaScript: The Definitive Guide** (7th, 2020) by David Flanagan (**犀牛书**)
+- **Professional JavaScript for Web Developers** (4th, 2019) by Nicholas C. Zakas (**红宝书**)
 
 You Don't Know JS Series⭐
 
