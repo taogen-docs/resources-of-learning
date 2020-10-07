@@ -154,7 +154,7 @@ Advanced
 - Closure: The Definitive Guide by Michael Bolin
 - Test-Driven JavaScript Development by Christian Johansen
 
-Object-Oriented, Functioal and Async Programming with JS
+Object-Oriented, Functional and Async Programming with JS
 
 - Principles of Object-Oriented Programming in JavaScript by Nicholas C. Zakas
 - Introducing functional programming with Underscore.js by Michael Fogus
@@ -163,7 +163,7 @@ Object-Oriented, Functioal and Async Programming with JS
 
 Design Patterns
 
-- Learning Javascript Design Patterns by Addy Osmani
+- Learning JavaScript Design Patterns by Addy Osmani
 - ⭐**JavaScript Patterns** (2010) by Stoyan Stefanov
 - Pro JavaScript Design Patterns by Ross Harmes
 - Designing Web Interfaces: Principles and Patterns for Rich Interactions by Bill Scott
