@@ -44,27 +44,28 @@
 <h2><a name="htmlcss_t" href="#htmlcss_c">HTML & CSS</a></h2>
 <br>
 
-- Head First HTML and CSS by Elisabeth Freeman and Eric Freeman
-- HTML & CSS: Design and Build Web Sites by Jon Duckett
-- Web Design with HTML, CSS, JavaScript and JQuery Set by Jon Duckett
+- ⭐**Head First HTML and CSS** (2nd, 2012) by Elisabeth Freeman and Eric Freeman
+- ⭐**HTML & CSS: Design and Build Web Sites** (2011) by Jon Duckett
+- Web Design with HTML, CSS, JavaScript and JQuery Set (2014) by Jon Duckett
 - Learning Web Design by Jennifer Niederst Robbins
 
 HTML
 
-- HTML5: The Missing Manual by Matthew MacDonald
-- HTML5 in Action by Rob Crowther (Goodreads Author), Joe Lennon, Ash Blue
-- HTML5: The Definitive Guide by Chuck Musciano, Bill Kennedy, Estelle Weyl
+- **HTML5: The Missing Manual** (2nd, 2014) by Matthew MacDonald
+- HTML5 in Action by Rob Crowther, Joe Lennon, Ash Blue
+- **HTML5: The Definitive Guide** (7th, 2013) by Chuck Musciano, Bill Kennedy, Estelle Weyl
 
 CSS
 
-- CSS: The Definitive Guide: Visual Presentation for the Web by Eric A. Meyer and Estelle Weyl
-- CSS Secrets: Better Solutions to Everyday Web Design Problems by Lea Verou
-- CSS: The Missing Manual by David McFarland
-- Cascading Style Sheets: The Definitive Guide by Eric A. Meyer
-- CSS Mastery: Advanced Web Standards Solutions by Andy Budd
-- CSS Pocket Reference: Visual Presentation for the Web by Eric A. Meyer
+- ⭐**CSS: The Definitive Guide: Visual Presentation for the Web** (4th, 2017) by Eric A. Meyer and Estelle Weyl
+- **CSS Secrets: Better Solutions to Everyday Web Design Problems** (2015) by Lea Verou
+- ⭐**CSS: The Missing Manual** (4th, 2015) by David McFarland
+- ⭐**Cascading Style Sheets: The Definitive Guide** (2000) by Eric A. Meyer
+- ⭐**CSS Mastery: Advanced Web Standards Solutions** (2nd, 2009) by Andy Budd
+- **CSS Pocket Reference: Visual Presentation for the Web** (5th, 2018) by Eric A. Meyer
 - CSS in Depth by Keith J. Grant
 - The Book of CSS3: A Developer's Guide to the Future of Web Design by Peter Gasston
+- CSS Cookbook by Christopher Schmitt
 
 Responsible Design 
 
@@ -127,35 +128,57 @@ Responsible Design
 Prime
 
 - DOM Scripting: Web Design with JavaScript and the Document Object Model by Jeremy Keith
-- **JavaScript: The Definitive Guide** by David Flanagan
-- Professional JavaScript for Web Developers by Nicholas C. Zakas
-- Eloquent JavaScript: A Modern Introduction to Programming by Marijn Haverbeke
-- Secrets of the JavaScript Ninja by Bear Bibeault and John Resig by Bear Bibeault and John Resig
-- Maintainable JavaScript by Nicholas C. Zakas
-- Understanding ECMAScript 6: The Definitive Guide for JavaScript Developers by Nicholas C. Zakas
-- DOM Enlightenment by Cody Lindley
-- Introducing functional programming with Underscore.js by Michael Fogus
+- ⭐**JavaScript: The Definitive Guide** (7th, 2020) by David Flanagan
+- **Professional JavaScript for Web Developers** (4th, 2019) by Nicholas C. Zakas
 
-Advanced
+You Don't Know JS Series⭐
 
-- **JavaScript: The Good Parts** by Douglas Crockford
-- Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript 
 - You Don't Know JS: Up & Going [1] by Kyle Simpson
 - You Don't Know JS: Scope & Closures [2] by Kyle Simpson
 - You Don't Know JS: this & Object Prototypes [3] by Kyle Simpson
 - You Don't Know JS: Types & Grammar [4] by Kyle Simpson
 - You Don't Know JS: Async & Performance [5] by Kyle Simpson
 - You Don't Know JS: ES6 & Beyond [6] by Kyle Simpson
-- High Performance JavaScript: Build Faster Web Application Interfaces by Nicholas C. Zakas
+
+Advanced
+
+- ⭐**JavaScript: The Good Parts** (2008) by Douglas Crockford
+- ⭐**Secrets of the JavaScript Ninja** (2013) by Bear Bibeault and John Resig by Bear Bibeault and John Resig
+- ⭐**Eloquent JavaScript: A Modern Introduction to Programming** (3rd, 2018) by Marijn Haverbeke
+- **Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript** (2012) by David Herman
+- Maintainable JavaScript by Nicholas C. Zakas
+- Understanding ECMAScript 6: The Definitive Guide for JavaScript Developers by Nicholas C. Zakas
+- DOM Enlightenment by Cody Lindley
+- Pro JavaScript Techniques by John Resig
+- JavaScript Web Applications by Alex MacCaw
+- Closure: The Definitive Guide by Michael Bolin
+- Test-Driven JavaScript Development by Christian Johansen
+
+Object-Oriented, Functioal and Async Programming with JS
+
+- Principles of Object-Oriented Programming in JavaScript by Nicholas C. Zakas
+- Introducing functional programming with Underscore.js by Michael Fogus
+- Async JavaScript by Trevor Burnham
+- RxJS in Action by Daniels, Paul P., Atencio, Luis
+
+Design Patterns
+
+- Learning Javascript Design Patterns by Addy Osmani
+- ⭐**JavaScript Patterns** (2010) by Stoyan Stefanov
+- Pro JavaScript Design Patterns by Ross Harmes
+- Designing Web Interfaces: Principles and Patterns for Rich Interactions by Bill Scott
+
+
+Performance
+
+- **High Performance JavaScript: Build Faster Web Application Interfaces** (2010) by Nicholas C. Zakas
 - Even Faster Web Sites: Performance Best Practices for Web Developers by Steve Souders
-- JavaScript Patterns by Stoyan Stefanov
 
 Some More
 
-- Designing Web Interfaces: Principles and Patterns for Rich Interactions by Bill Scott
 - Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems by Steve Krug
 - RESTful Web Services by Leonard Richardson
-- RxJS in Action by Daniels, Paul P., Atencio, Luis
+
 
 Tutorials
 
@@ -203,6 +226,7 @@ Courses
 - TypeScript Essentials by Christopher Nance
 - Angular 2 Development with TypeScript by Anton Moiseev and Yakov Fain
 - TypeScript Deep Dive by Basarat Ali Syed
+- Effective TypeScript: 62 Specific Ways to Improve Your TypeScript by Dan Vanderkam 
 
 <br>
 
