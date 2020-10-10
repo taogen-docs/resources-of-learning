@@ -145,7 +145,7 @@ You Don't Know JS Series⭐
 Advanced
 
 - ⭐**JavaScript: The Good Parts** (2008) by Douglas Crockford
-- ⭐**Secrets of the JavaScript Ninja** (2013) by Bear Bibeault and John Resig by Bear Bibeault and John Resig
+- ⭐**Secrets of the JavaScript Ninja** (2013) by Bear Bibeault and John Resig
 - ⭐**Eloquent JavaScript: A Modern Introduction to Programming** (3rd, 2018) by Marijn Haverbeke
 - **Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript** (2012) by David Herman
 - Maintainable JavaScript by Nicholas C. Zakas
