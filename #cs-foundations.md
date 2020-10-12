@@ -60,12 +60,17 @@ Tutorials
 <h2><a name="dsa_t" href="#dsa_c">Data Structures and Algorithms</a></h2>
 <br>
 
+> Computer science should be called computing science, for the same reason why surgery is not called knife science.
+>
+> -- Edsger W. Dijkstra
+
 Prime
 
 - **Algorithms** (4th, 2011) by Robert Sedgewick
 - Data Structures and Algorithm Analysis in C (2nd, 1996) by Mark Allen Weiss 
 - Data Structures and Algorithm Analysis in Java (3rd, 2011) by Mark A. Weiss 
-- Data Structures and Algorithm Analysis in C++ (3rd, 2011) by Clifford A. Shaffer 
+- Data Structures and Algorithm Analysis in C++ (3rd, 2011) by Clifford A. Shaffer
+- **Algorithms + Data Structures = Programs** (1976) by Niklaus Wirth
 
 Advanced
 
