@@ -195,8 +195,8 @@ Java Servlet
 
 Web Pages / Template Engines
 
-- JavaServer Pages™ Specification, Version 2.0 - [PDF](https://download.oracle.com/otn-pub/jcp/jsp-2.0-fr-oth-JSpec/jsp-2_0-fr-spec.pdf?AuthParam=1595917930_35dcc58c1a81c992764fad4879b7c6a0)
-- JavaServer Pages™ Specification, Version 2.3 - [PDF](https://download.oracle.com/otn-pub/jcp/jsp-2_3-mrel2-eval-spec/JSP2.3MR.pdf?AuthParam=1595918156_7db710bfcdf74fe939eed64fb7d5e8cd)
+- JavaServer Pages™ Specification, Version 2.0 - [PDF](https://download.oracle.com/otn-pub/jcp/jsp-2.0-fr-oth-JSpec/jsp-2_0-fr-spec.pdf)
+- JavaServer Pages™ Specification, Version 2.3 - [PDF](https://download.oracle.com/otn-pub/jcp/jsp-2_3-mrel2-eval-spec/JSP2.3MR.pdf)
 
 Java EE
 
@@ -208,6 +208,12 @@ Java EE
 - 深入分析Java Web技术内幕 by 许令波 
 - Iron-Clad Java: Building Secure Web Applications by Jim Manico, August Detlefsen
 - Professional Java for Web Applications by Nicholas S. Williams
+
+IoC/DI
+
+- [Inversion of control - Wikipedia](https://en.wikipedia.org/wiki/Inversion_of_control)
+- [The Dependency Inversion Principle - Robert C. Martin](https://web.archive.org/web/20041221102842/http://www.objectmentor.com/resources/articles/dip.pdf)
+- [Inversion of Control Containers and the Dependency Injection pattern - Martin Fowler](https://martinfowler.com/articles/injection.html)
 
 AOP
 
@@ -351,7 +357,7 @@ for JSON
 
 - [gson](https://github.com/google/gson)
 
-for Build
+for Building
 
 - [maven](https://github.com/apache/maven)
 
@@ -359,19 +365,19 @@ for Build
 
 - [bazel](https://github.com/bazelbuild/bazel)
 
-for Deploy
+for Deployment
 
 - [docker-ce](https://github.com/docker/docker-ce)
 - [kubernetes](https://github.com/kubernetes/kubernetes)
 - [jenkins](https://github.com/jenkinsci/jenkins)
 
-for Test
+for Testing
 
 - [junit4](https://github.com/junit-team/junit4)
 - [testng](https://github.com/cbeust/testng)
 - [selenium](https://github.com/SeleniumHQ/selenium)
 
-for HTTP Client
+for HTTP Clients
 
 - [retrofit](https://github.com/square/retrofit)
 - [okhttp](https://github.com/square/okhttp)
