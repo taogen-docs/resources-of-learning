@@ -227,6 +227,7 @@ Must Read
 Some More
 
 - Operating Systems Design and Implementation (3rd, 2006) by Andrew S. Tanenbaum,  Albert S. Woodhull 
+- Principles of Computer System Design: An Introduction by Jerome H. Saltzer
 - Systems Performance (2013) by Brendan Gregg 
 - Orange'S:一个操作系统的实现 (2009) by 于渊
 - 操作系统真象还原 (2016) by 郑钢
