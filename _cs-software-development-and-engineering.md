@@ -69,7 +69,7 @@ Object-Oriented
 - Head First Object-Oriented Analysis and Design (2006) by Brett D. McLaughlin
 - Object-Oriented Analysis and Design with Applications by Grady Booch
 - Object-Oriented Software Construction by Bertrand Meyer
-- Object Design Style Guide by Matthias Noback
+- Object Design Style Guide (2020) by Matthias Noback
 
 API Design
 
@@ -176,7 +176,8 @@ Must Read
 
 - **Extreme Programming Explained: Embrace Change** by Kent Beck
 - **The Mythical Man-Month: Essays on Software Engineering** by Jr·Frederick P·Brooks 
-- **Peopleware: Productive Projects and Teams** by Tom DeMarco 
+- **Peopleware: Productive Projects and Teams** by Tom DeMarco
+- **Clean Agile: Back to Basics** (2019) by Robert C. Martin
 - **Scrum and XP from the Trenches** by Henrik Kniberg
 - **Scrum: The Art of Doing Twice the Work in Half the Time** by Jeff Sutherland
 - **The Goal: A Process of Ongoing Improvement** by Eliyahu M. Goldratt
@@ -234,18 +235,20 @@ Some More
 
 ### Application Architecture
 
-- **Patterns of Enterprise Application Architecture** by Martin Fowler
-- **Domain-Driven Design: Tackling Complexity in the Heart of Software** by Eric Evans
-- **Enterprise Integration Patterns** by Gregor Hohpe
-- **Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems** by Martin Kleppmann
-- **Implementing Domain-Driven Design** by Vaughn Vernon
-- **Clean Architecture** by Robert Cecil Martin
-- **Thinking in Systems: A Primer** by Donella H. Meadows, Diana Wright
-- Fundamentals of Software Architecture: An Engineering Approach (2020) by Mark Richards, Neal Ford
-- Cloud Native Patterns: Designing change-tolerant software by Cornelia Davis
-- Building Evolutionary Architectures: Support Constant Change by Neal Ford, Patrick Kua, and Rebecca Parsons
-- The Art of Scalability: Scalable Web Architecture, Processes, and Organizations for the Modern Enterprise by Martin L. Abbott, Michael T. Fisher
-- Web Application Architecture: Principles, Protocols and Practices by Leon Shklar
+- **Patterns of Enterprise Application Architecture** (2002) by Martin Fowler
+- **Domain-Driven Design: Tackling Complexity in the Heart of Software** (2003) by Eric Evans
+- **Enterprise Integration Patterns** (2003) by Gregor Hohpe
+- **Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems** (2017) by Martin Kleppmann
+- **Implementing Domain-Driven Design** (2013) by Vaughn Vernon
+- **Clean Architecture** (2017) by Robert Cecil Martin
+- **Thinking in Systems: A Primer** (2008) by Donella H. Meadows, Diana Wright
+- **Information Architecture: For the Web and Beyond. Designing Large-scale Web Sites** (4th, 2015) by Louis Rosenfeld , Peter Morville
+- Domain-Driven Design Distilled (2016) by Vaughn Vernon
+- The Design of Design: Essays from a Computer Scientist (2010) by Frederick P. Brooks Jr
+- Pattern-Oriented Software Architecture Volume 1~5 (1996) by Frank Buschmann, Hans Rohnert
+- Building Evolutionary Architectures: Support Constant Change (2017) by Neal Ford, Patrick Kua, and Rebecca Parsons
+- The Art of Scalability: Scalable Web Architecture, Processes, and Organizations for the Modern Enterprise (2015) by Martin L. Abbott, Michael T. Fisher
+- Web Application Architecture: Principles, Protocols and Practices (2009) by Leon Shklar
 - Software Architecture: Foundations, Theory, and Practice by Richard N. Taylor
 - Java Application Architecture: Modularity Patterns with Examples Using OSGi by Kirk Knoernschild
 - System Architecture: Strategy and Product Development for Complex Systems by Bruce Cameron, Daniel Selva, and Edward F. Crawley
@@ -257,10 +260,22 @@ Some More
 - Scalability Rules: 50 Principles for Scaling Web Sites by Martin L. Abbott,  Michael T. Fisher
 - 企业IT架构转型之道：阿里巴巴中台战略思想与架构实战 by 钟华
 
+New Books
+
+- Fundamentals of Software Architecture: An Engineering Approach (2020) by Mark Richards, Neal Ford
+- Technology Strategy Patterns: Architecture as Strategy (2018) by Eben Hewitt
+- The Software Architect Elevator: Redefining the Architect's Role in the Digital Enterprise (2020) by Gregor Hohpe
+- Architecture Patterns with Python: Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices (2020) by Harry Percival and Bob Gregory
+- Cloud Native Patterns: Designing change-tolerant software (2019) by Cornelia Davis
+- Cloud Native Transformation: Practical Patterns for Innovation (2019) by Pini Reznik , Jamie Dobson
+- Kubernetes Patterns: Reusable Elements for Designing Cloud-Native Applications (2019) by Bilgin Ibryam and Roland Huß
+- Cloud Native Infrastructure: Patterns for Scalable Infrastructure and Applications in a Dynamic Environment (2017) by Justin Garrison and Kris Nova
+- Cloud Native: Using Containers, Functions, and Data to Build Next-Generation Applications (2019) by Boris Scholl , Trent Swanson
+
 ### Microservices Architecture
 
-- **Building Microservices: Designing Fine-Grained Systems** by Sam Newman
-- **Monolith to Microservices: Sustaining Productivity While Detangling the System** by Sam Newman
+- **Building Microservices: Designing Fine-Grained Systems** (2015) by Sam Newman
+- **Monolith to Microservices: Sustaining Productivity While Detangling the System** (2019) by Sam Newman
 - Microservices: Up and Running: A Step-by-Step Guide to Building a Microservice Architecture by Ronnie Mitra and Irakli Nadareishvili
 - Microservices Security in Action by Prabath Siriwardena and Nuwan Dias
 - Production-Ready Microservices by Susan J. Fowler
@@ -319,6 +334,7 @@ Programmer
 - **The Passionate Programmer** by Chad Fowler
 - **Pragmatic Thinking and Learning: Refactor Your Wetware** by Andy Hunt
 - **Never Split the Difference** by Chris Voss, Tahl Raz
+- Programming Beyond Practices: Be More Than Just a Code Monkey by Gregory T. Brown
 - Effective Programming: More Than Writing Code by Jeff Atwood
 - 97 Things Every Programmer Should Know: Collective Wisdom from the Experts by Kevlin Henney
 - A Brief History of Hackerdom by Raymond.  Eric S. Raymond 
