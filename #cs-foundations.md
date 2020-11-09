@@ -608,14 +608,15 @@ Prime
 - [The Python Tutorial - doc](https://docs.python.org/3/tutorial/)
 - [Python Documentation](https://www.python.org/doc/)
 - [Beginner's Guide to Python](https://wiki.python.org/moin/BeginnersGuide)
-- Learning Python by David Ascher and MARK LUTZ
+- **Learning Python** (5th, 2013) by David Ascher and MARK LUTZ
 - Learn Python 3 the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code by Zed Shaw
 - A Byte of Python by Swaroop C.H.
-- Automate the Boring Stuff with Python: Practical Programming for Total Beginners by Al Sweigart
-- Python Crash Course: A Hands-On, Project-Based Introduction to Programming by Eric Matthes
-- Think Python: An Introduction to Software Design by Allen B. Downey
-- Dive into Python by Mark Pilgrim
+- **Automate the Boring Stuff with Python: Practical Programming for Total Beginners** by Al Sweigart
+- **Python Crash Course: A Hands-On, Project-Based Introduction to Programming** by Eric Matthes
+- **Think Python: An Introduction to Software Design** by Allen B. Downey
+- **Dive into Python** by Mark Pilgrim
 - Python Essential Reference by David M. Beazley
+- Introducing Python: Modern Computing in Simple Packages (2nd, 2019) by Bill Lubanovic
 
 Advanced
 
@@ -627,12 +628,19 @@ Advanced
 - Expert Python Programming by Tarek Ziadé
 - Effective Python: 59 Specific Ways to Write Better Python by Brett Slatkin
 - High Performance Python: Practical Performant Programming for Humans by Ian Ozsvald and Micha Gorelick
+- **Programming Python: Powerful Object-Oriented Programming** by Mark Lutz
 
 Some More
 
 - Python Tricks: A Buffet of Awesome Python Features by Dan Bader
 - Web Scraping with Python by Ryan Mitchell
-- Python for Data Analysis by Wes McKinney
+- Data Science
+  - Python for Data Analysis by Wes McKinney
+  - Intro to Python for Computer Science and Data Science by Paul Deitel, Harvey Deitel
+- AI
+  - Introduction to Machine Learning with Python: A Guide for Data Scientists by Andreas C. Müller and Sarah Guido
+  - Deep Learning with Python by François Chollet
+  - Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems by Aurélien Géron
 
 Tutorials
 
