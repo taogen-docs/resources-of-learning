@@ -474,6 +474,7 @@ Must Read
 - **The C++ Programming Language** (4th, 2013) by Bjarne Stroustrup
 - The C++ Standard Library  (2nd, 2012) by Nikolai Josuttis
 - Effective C++ (3rd, 2005) by Scott Meyers
+- [C++ reference - DOC](https://en.cppreference.com/w/)
 
 Some More
 
@@ -484,6 +485,7 @@ Some More
 - Inside the C++ Object Model (1996) by Stanley B. Lippman
 - Accelerated C++: Practical Programming by Example by Andrew Koenig
 - C++ Concurrency in Action: Practical Multithreading by Anthony Williams
+- Professional C++ by Marc Gregoire, Nicholas A. Solter, Scott J. Kleper
 
 Courses
 
