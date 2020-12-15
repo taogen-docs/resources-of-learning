@@ -27,14 +27,13 @@
 <h2><a name="webdev_t" href="#webdev_c">Web Development</a></h2>
 <br>
 
-Must Read
-
-- Oauth 2 in Action by Justin Richer
-- Bulletproof SSL and TLS: The Complete Guide to Deploying Secure Servers and Web Applications by Ivan Ristic
-
 ### Web Frontend
 
 Reference [Web Frontend Resources](directions/web-frontend-resources.md)
+
+### Web Backend
+
+Reference [Web Backend - Java Resources](directions/java-resources.md)
 
 ### Web Performance
 
@@ -48,6 +47,15 @@ Reference [Web Frontend Resources](directions/web-frontend-resources.md)
 - Web Animation Using JavaScript: Develop & Design by Julian Shapiro
 - The Web Testing Handbook by Steven Splaine, Stefan P. Jaskiel
 - Algorithms of the Intelligent Web by Douglas McIlwraith, Haralambos Marmanis, Dmitry Babenko
+
+Website Performance
+
+- Professional Website Performance: Optimizing the Front End and the Back End by Peter Smith
+
+Others
+
+- Oauth 2 in Action by Justin Richer
+- Bulletproof SSL and TLS: The Complete Guide to Deploying Secure Servers and Web Applications by Ivan Ristic
 
 <br>
 
@@ -104,12 +112,12 @@ Prime
 - MySQL 5.7 Release Notes - [DOC]( https://dev.mysql.com/doc/relnotes/mysql/5.7/en/ )
 - MySQL 8.0 Reference Manual. [DOC](https://dev.mysql.com/doc/refman/8.0/en/), [PDF](https://downloads.mysql.com/docs/refman-8.0-en.pdf)
 - MySQL 8.0 Release Notes - [DOC]( https://dev.mysql.com/doc/relnotes/mysql/8.0/en/ )
-- **Murach's MySQL** by Joel Murach
+- **Murach's MySQL** (3rd, 2019) by Joel Murach
 - **Learning MySQL** by Seyed M.M. Tahaghoghi, Hugh E. Williams
 - MySQL Crash Course by Ben Forta
 - MySQL in a Nutshell by Russell J.T. Dyer
 - **MySQL** by Paul DuBois
-- **MySQL Cookbook** by Paul DuBois
+- **MySQL Cookbook** (3rd, 2014) by Paul DuBois
 - MySQL Administrator's Bible by Sheeri K. Cabral, Keith Murphy
 - MySQL Stored Procedure Programming: Building High-Performance Web Applications in MySQL by Guy Harrison, Steven Feuerstein
 
@@ -120,14 +128,21 @@ Optimization
 - Effective MySQL Optimizing SQL Statements
 - MySQL性能调优与架构设计 by 简朝阳 
 - Relational Database Index Design and the Optimizers by Tapio Lahdenmaki 
-- MySQL Troubleshooting: What To Do When Queries Don't Work by Sevta Smirnova 
+- MySQL Troubleshooting: What To Do When Queries Don't Work by Sevta Smirnova
+
+Optimization New Books
+
+- MySQL 8 Query Performance Tuning: A Systematic Method for Improving Execution Speeds (2020) by Jesper Wisborg Krogh
+- MySQL 8 Cookbook: Over 150 recipes for high-performance database querying and administration (2018) by Karthik Appigatla
+- MySQL 8 Administrator's Guide: Effective guide to administering high-performance MySQL 8 solutions (2018) by Chintan Mehta , Ankit Bhavsar
+- Advanced MySQL 8: Discover the full potential of MySQL and ensure high performance of your database (2019) by Eric Vanier , Birju Shah
 
 High Availability, Cluster, Backup and Replication
 
 - Reference Guide for InnoDB Cluster. [DOC](https://dev.mysql.com/doc/refman/8.0/en/mysql-innodb-cluster-userguide.html)
 - Reference Guide for MySQL NDB Cluster. [DOC](https://dev.mysql.com/doc/refman/8.0/en/mysql-cluster.html), [PDF](https://downloads.mysql.com/docs/mysql-cluster-excerpt-8.0-en.pdf)
 - MySQL NDB Cluster Internals Manual - [DOC]( https://dev.mysql.com/doc/ndb-internals/en/ )
-- MySQL High Availability: Tools for Building Robust Data Centers by Charles Bell
+- MySQL High Availability: Tools for Building Robust Data Centers (2nd, 2014) by Charles Bell
 - Introducing Innodb Cluster: Learning the MySQL High Availability Stack by Charles Bell
 - Pro MySQL NDB Cluster by Jesper Wisborg Krogh and Mikiya Okuno
 - Effective MySQL Backup and Recovery
