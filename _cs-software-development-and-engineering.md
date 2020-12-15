@@ -99,10 +99,42 @@ Tutorials
 <h2><a name="devops_t" href="#devops_c">DevOps</a></h2>
 <br>
 
-DevOps
+Must Read
 
-- **The Practice of Cloud System Administration: Devops and Sre Practices for Web Services**, Volume 2 by Thomas A. Limoncelli, Strata R. Chalup, Christina J. Hogan
 
+- **The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win** by Gene Kim, Kevin Behr, George Spafford
+- **Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation** by Jez Humble 
+- **The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations** (2016) by Gene Kim , Patrick Debois
+- **Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations** (2018) by Nicole Forsgren PhD , Jez Humble
+- **The Unicorn Project** by Gene Kim
+- **Release It!: Design and Deploy Production-Ready Software** by Michael T.Nygard 
+- **The Goal: A Process of Ongoing Improvement** by Eliyahu M. Goldratt
+- Beyond the Goal: Eliyahu Goldratt Speaks on the Theory of Constraints by Eliyahu M. Goldratt
+- **It's Not Luck** by Eliyahu M. Goldratt
+- Making Work Visible: Exposing Time Theft to Optimize Work & flow by Dominica Degrandis
+
+Some More
+
+- Web Operations: Keeping the Data on Time by John Allspaw
+- The Art Of Business Value by Mark Schwartz 
+- The Visible Ops Handbook: Starting ITIL in 4 Practical Steps by Kevin Behr
+- Infrastructure as Code: Managing Servers in the Cloud by Kief Morris 
+- Effective Devops: Building a Culture of Collaboration, Affinity, and Tooling at Scale by Jennifer Davis
+- Beyond The Phoenix Project: The Origins and Evolution Of DevOps by Gene Kim
+- The DevOps 2.0 Toolkit: Automating the Continuous Deployment Pipeline with Containerized Microservices by Viktor Farcic
+- Web Operations: Keeping the Data on Time by John Allspaw
+- A Seat at the Table by Mark Schwartz
+- Devops for the Modern Enterprise: Winning Practices to Transform Legacy It Organizations by Mirco Hering
+- Securing DevOps: Security in the Cloud by Julien Vehent
+- 进化 - 运维技术变革与实践探索 by 赵成
+- DevOps: A Software Architect's Perspective by Len Bass
+- The Practice of Cloud System Administration: Devops and Sre Practices for Web Services, Volume 2 by Thomas A. Limoncelli, Strata R. Chalup, Christina J. Hogan
+
+Complexity theory and systems thinking
+
+- **Antifragile: Things that Gain from Disorder** by Nassim Nicholas Taleb
+- Drift into Failure: From Hunting Broken Components to Understanding Complex Systems by Sidney Dekker
+- The Logical Thinking Process: A Systems Approach to Complex Problem Solving by H. William Dettmer
 
 Jenkins
 
@@ -193,6 +225,18 @@ Must Read
 - Learning Agile by Andrew Stellman
 - Ship It! by Jared Richardson
 - Working with Coders: A Guide to Software Development for the Perplexed Non-Techie by Patrick Gleeson
+
+Organization Management
+
+- **Toyota Kata: Managing People for Improvement, Adaptiveness and Superior Results** by Mike Rother
+- **Lean Enterprise: How High Performance Organizations Innovate at Scale** by Jez Humble
+- Fearless Change: Patterns for Introducing New Ideas by Mary Lynn Manns
+
+Business
+
+- **The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses** by Eric Ries
+- **Kanban: Successful Evolutionary Change for Your Technology Business** by David J. Anderson
+- Necessary But Not Sufficient: A Theory Of Constraints Business Novel by Eliyahu M. Goldratt
 
 
 Some More
@@ -285,14 +329,6 @@ New Books
 - 亿级流量网站架构核心技术 by  张开涛 
 - 架构修炼之道——亿级网关、平台开放、分布式、微服务、容错等核心技术修炼实践 by 王新栋
 
-### DevOps Architecture
-
-- **Site Reliability Engineering: How Google Runs Production Systems** by Betsy Beyer
-- **Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation** by Jez Humble, David Farley 
-- **Release It!: Design and Deploy Production-Ready Software** by Michael T.Nygard 
-- 进化 - 运维技术变革与实践探索 by 赵成
-- The Site Reliability Workbook: Practical Ways to Implement SRE by Betsy Beyer 
-- DevOps: A Software Architect's Perspective by Len Bass
 
 ### Security Architecture
 
