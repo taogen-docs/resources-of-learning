@@ -29,6 +29,7 @@
   - <a name="node_c" href="#node_t">Node.js</a>
   - Databases
   - GraphQL
+- <a name="performance_c" href="#performance_t">Performance</a>
 
 <br>
 
@@ -156,12 +157,30 @@ Advanced
 - Closure: The Definitive Guide by Michael Bolin
 - Test-Driven JavaScript Development by Christian Johansen
 
-Object-Oriented, Functional and Async Programming with JS
+Functional Programming in JavaScript
+
+- **Functional Programming in JavaScript:** How to improve your JavaScript programs using functional techniques by Luis Atencio
+- Introducing functional programming with Underscore.js by Michael Fogus
+- Functional-Light JavaScript: Pragmatic, Balanced FP in JavaScript by Kyle Simpson , Brian MacDonald
+- Composing Software: An Exploration of Functional Programming and Object Composition in JavaScript by Eric Elliott
+
+Functional Programming with JavaScript and React Series
+
+- Discover Functional JavaScript: An overview of Functional and Object Oriented Programming in JavaScript [1] by Cristian Salcescu
+- Functional React: Quick start with React Hooks, Redux and MobX [2] by Cristian Salcescu
+- Functional Architecture with React and Redux [3] by Cristian Salcescu
+- Functional Programming in JavaScript [4] by Cristian Salcescu
+- Microblog React Project [5] by Cristian Salcescu
+
+Object-Oriented Programming in JavaScript
 
 - Principles of Object-Oriented Programming in JavaScript by Nicholas C. Zakas
-- Introducing functional programming with Underscore.js by Michael Fogus
+
+Reactive (Async) Programming in JavaScript
+
 - Async JavaScript by Trevor Burnham
 - RxJS in Action by Daniels, Paul P., Atencio, Luis
+
 
 Design Patterns
 
@@ -169,12 +188,6 @@ Design Patterns
 - ⭐**JavaScript Patterns** (2010) by Stoyan Stefanov
 - Pro JavaScript Design Patterns by Ross Harmes
 - Designing Web Interfaces: Principles and Patterns for Rich Interactions by Bill Scott
-
-
-Performance
-
-- **High Performance JavaScript: Build Faster Web Application Interfaces** (2010) by Nicholas C. Zakas
-- Even Faster Web Sites: Performance Best Practices for Web Developers by Steve Souders
 
 Some More
 
@@ -214,6 +227,7 @@ Courses
 - [w3schools](https://www.w3schools.com/)
 - [MDN web docs](https://developer.mozilla.org/en-US/)
 - [Learn JS](https://www.learn-js.org/)
+- [Web Dev](https://web.dev/)
 
 <br>
 
@@ -222,13 +236,13 @@ Courses
 
 
 - [TypeScript Documentation - doc]( https://www.typescriptlang.org/docs/home.html )
-- Programming TypeScript: Making Your JavaScript Applications Scale by Boris Cherny
-- Pro TypeScript: Application-Scale JavaScript Development by Steve Fenton
-- Mastering TypeScript - Second Edition by Nathan Rozentals
+- **Programming TypeScript: Making Your JavaScript Applications Scale** (2019) by Boris Cherny
+- **Effective TypeScript: 62 Specific Ways to Improve Your TypeScript** (2019) by Dan Vanderkam 
+- **Pro TypeScript: Application-Scale JavaScript Development** (2017) by Steve Fenton
+- Mastering TypeScript by Nathan Rozentals
 - TypeScript Essentials by Christopher Nance
 - Angular 2 Development with TypeScript by Anton Moiseev and Yakov Fain
 - TypeScript Deep Dive by Basarat Ali Syed
-- Effective TypeScript: 62 Specific Ways to Improve Your TypeScript by Dan Vanderkam 
 
 <br>
 
@@ -238,11 +252,8 @@ Courses
 <h3><a name="vue_t" href="#vue_c">Vue.js</a></h3>
 <br>
 
-- [Vue.js Documentation - doc](https://vuejs.org/v2/guide/)
-- [Vue CLI - doc]( https://cli.vuejs.org/ )
-- [Vuex - doc]( https://vuex.vuejs.org/ )
-- [Vue Router - doc]( https://router.vuejs.org/ )
-- [Vue.js Cookbook - doc]( https://vuejs.org/v2/cookbook/ )
+- [Vue.js 3 Documentation - doc](https://v3.vuejs.org/guide/introduction.html)
+- [Vue.js v2.x Documentation - doc](https://vuejs.org/v2/guide/)
 - Vue.js in Action by Benjamin Listwon and Erik Hanchett
 - Learning Vue.Js 2 by Olga Filipova
 - Fullstack Vue: The Complete Guide to Vue.js by Ari Lerner, Hassan Djirdeh, and Nate Murray
@@ -250,24 +261,38 @@ Courses
 - Testing Vue. Js Applications by Edd Yerburgh
 - The Majesty of Vue.js by Alex Kyriakidis, Kostas Maniatis, Evan You
 
+Vue.js v2.x Ecosystem
+
+- [Vue CLI - doc](https://cli.vuejs.org/)
+- [Vuex - doc](https://vuex.vuejs.org/)
+- [Vue Router - doc](https://router.vuejs.org/)
+- [Vue.js Cookbook - doc](https://vuejs.org/v2/cookbook/)
+
 <br>
 <h3><a name="react_t" href="#react_c">React </a></h3>
 <br>
 
 - [React Documentation - doc](https://reactjs.org/docs/getting-started.html)
+- **Learning React: Functional Web Development with React and Redux** (2017) by Alex Banks and Eve Porcello
+- **The Road to React: Your journey to master plain yet pragmatic React.js** (2018) by Robin Wieruch
+- **Learning React: Modern Patterns for Developing React Apps** (2020) by Alex Banks and Eve Porcello
+- Learning React: A Hands-On Guide to Building Web Applications Using React and Redux (2018) by Kirupa Chinnathambi
+- Pro React 16 by Adam Freeman
+- React Quickly by Azat Mardan
+- Fullstack React: The Complete Guide to ReactJS and Friends by Anthony Accomazzo, Ari Lerner, David Guttman, Nate Murray, Clay Allsopp, Tyler McGinnis
+- React Design Patterns and Best Practices by Michele Bertoli
+- React in Action by Mark Tielens Thomas
+- React: Up and Running by Stoyan Stefanov
+
+React Ecosystem
+
 - [React Hooks](https://reactjs.org/docs/hooks-intro.html)
 - [React Router](https://reacttraining.com/react-router/)
 - [Redux](https://redux.js.org/)
 - [redux-saga](https://github.com/redux-saga/redux-saga)
 - [Ant Design of React / antd](https://ant.design/)
-- Learning React: Functional Web Development with React and Redux by Alex Banks and Eve Porcello
-- The Road to Learn React: Your Journey to Master Plain Yet Pragmatic React. Js by Robin Wieruch
-- React Quickly by Azat Mardan
-- Learning React: A Hands-On Guide to Building Web Applications Using React and Redux by Kirupa Chinnathambi
-- Fullstack React: The Complete Guide to ReactJS and Friends by Anthony Accomazzo, Ari Lerner, David Guttman, Nate Murray, Clay Allsopp, Tyler McGinnis
-- React Design Patterns and Best Practices by Michele Bertoli
-- React in Action by Mark Tielens Thomas
-- React: Up and Running by Stoyan Stefanov
+- Learning Redux: Write maintainable, consistent, and easy-to-test web applications by Daniel Bugl
+- Learn React Hooks: Build and refactor modern React.js applications using Hooks by Daniel Bugl
 
 <br>
 <h3><a name="angular_t" href="#angular_c">AngularJS</a></h3>
@@ -287,8 +312,12 @@ Courses
 <br>
 
 <h2><a name="crossplat_t" href="#crossplat_c">Cross-Platform Mobile Application</a></h3>
-
 <br>
+
+### Cross-Platform Applications
+
+- JavaScript Everywhere: Building Cross-Platform Applications with GraphQL, React, React Native, and Electron by Adam D. Scott 
+
 <h3><a name="flutter_t" href="#flutter_c">Flutter</a></h3>
 <br>
 
@@ -367,10 +396,15 @@ Courses
 <h2><a name="tools_t" href="#tools_c">Tools</a></h2>
 <br>
 
-- [webpack](https://webpack.js.org/)
+- [npm](https://www.npmjs.com/)
+- [Yarn](https://yarnpkg.com/)
+- [Webpack](https://webpack.js.org/)
+- [Babel](https://babeljs.io/)
 - [gulp.js](https://gulpjs.com/)
 - [Polymer Project](https://www.polymer-project.org/)
 - [WebAssembly](https://webassembly.org/)
+- ESLint
+- Visual Studio Code
 - Git
 - Nginx
 - Docker
@@ -395,6 +429,8 @@ Courses
 - Professional Node.Js: Building JavaScript Based Scalable Software by Pedro Teixeira
 - Learning Node by Shelley Powers
 
+### Frameworks Of Node.js
+
 Express
 
 - [Express Getting Started - doc](https://expressjs.com/en/starter/installing.html)
@@ -411,7 +447,42 @@ MongoDB
 
 ### GraphQL
 
+- [GraphQL](https://graphql.org/). A query language for your API.
+- **The Road to GraphQL: Your journey to master pragmatic GraphQL in JavaScript with React.js and Node.js** by Robin Wieruch 
+- Learning GraphQL: Declarative Data Fetching for Modern Web Apps by Eve Porcello and Alex Banks
+- Craft GraphQL APIs in Elixir with Absinthe: Flexible, Robust Services for Queries, Mutations, and Subscriptions by Bruce Williams and Ben Wilson 
 
+### Full Stack
+
+- Hands-On Full-Stack Web Development with GraphQL and React: Build scalable full-stack applications while learning to solve complex problems with GraphQL by Sebastian Grebe
+
+### Serverless
+
+- Full Stack Serverless: Modern Application Development with React, AWS, and GraphQL by Nader Dabit 
+
+<br>
+
+<h2><a name="performance_t" href="#performance_c">Performance</a></h2>
+
+<br>
+
+JavaScript Performance
+
+- **High Performance JavaScript: Build Faster Web Application Interfaces** (2010) by Nicholas C. Zakas
+
+Website Performance
+
+- **High Performance Browser Networking: What Every Web Developer Should Know about Networking and Web Performance** (2013) by Ilya Grigorik
+- **High Performance Web Sites: Essential Knowledge for Front-End Engineers** (2007) by Steve Souders
+- **Even Faster Web Sites: Performance Best Practices for Web Developers** (2009) by Steve Souders
+- Web Performance Tuning (2nd, 2002) by Patrick Killelea
+- High Performance Images: Shrink, Load, and Deliver Images (2016) for Speed by Colin Bendell, Tim Kadlec
+- Professional Website Performance: Optimizing the Front End and the Back End by Peter Smith
+- Web Performance in Action by Jeremy Wagner
+- Designing for Performance: Weighing Aesthetics and Speed by Lara Hogan
+- High Performance Responsive Design by Tom Barker
+- The Web Testing Handbook by Steven Splaine, Stefan P. Jaskiel
+- Algorithms of the Intelligent Web by Douglas McIlwraith, Haralambos Marmanis, Dmitry Babenko
 
 ## References
 
