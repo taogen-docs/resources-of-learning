@@ -44,7 +44,9 @@ Refactoring
 - **Refactoring to Patterns** by Joshua Kerievsky
 - **Working Effectively with Legacy Code** by Michael C. Feathers
 
+Performance
 
+- Every Computer Performance Book: How to Avoid and Solve Performance Problems on The Computers You Work With by Bob Wescott, Anna Macijeski
 
 <br>
 
