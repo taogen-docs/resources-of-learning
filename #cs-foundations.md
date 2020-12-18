@@ -399,7 +399,7 @@ Must Read
 
 <br>
 
-## Programming
+## Programming Paradigms
 
 <br>
 
