@@ -72,6 +72,9 @@
 > Scala, Groovy, Closure, and Kotlin
 
 - Kotlin in Action by Dmitry Jemerov, Svetlana Isakova
+- Programming in Scala by Martin Odersky
+- Functional Programming in Scala by Rúnar Bjarnason
+- Groovy in Action by Dierk König
 
 #### Concurrency Programming
 
