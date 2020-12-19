@@ -13,16 +13,17 @@
 - <a name="hcj_c" href="#hcj_t">HTML, CSS and JavaScript</a>
 - <a name="ecma_c" href="#ecma_t">ECMAScript</a>
 - *<a name="ts_c" href="#ts_t">TypeScript</a>
-- <a name="progjs_c" href="#progjs_t">Progressive JS Framework</a>
+- <a name="progjs_c" href="#progjs_t">Progressive JS Frameworks</a>
   - <a name="vue_c" href="#vue_t">Vue.js</a>
   - <a name="react_c" href="#react_t">React </a>
   - <a name="angular_c" href="#angular_t">AngularJS </a>
-- <a name="crossplat_c" href="#crossplat_t">Cross-Platform Mobile Application</a>
+- <a name="crossplat_c" href="#crossplat_t">Cross-Platform Mobile Applications</a>
   - <a name="flutter_c" href="#flutter_t">Flutter</a>
-  - <a name="elec_c" href="#elec_t">Electron</a>
   - <a name="rn_c" href="#rn_t">React Native</a>
   - *PWA
   - More ...
+- Cross Platform Desktop Applications
+  - <a name="elec_c" href="#elec_t">Electron</a>
 - <a name="miniprog_c" href="#miniprog_t">Mini Program</a>
 - <a name="webgra_c" href="#webgra_t">Web Graphics</a>
 - <a name="tools_c" href="#tools_t">Tools</a>
@@ -259,7 +260,8 @@ Courses
 
 <br>
 
-<h2><a name="progjs_t" href="#progjs_c">Progressive JS Framework</a></h2>
+<h2><a name="progjs_t" href="#progjs_c">Progressive JS Frameworks</a></h2>
+
 <br>
 
 <h3><a name="vue_t" href="#vue_c">Vue.js</a></h3>
@@ -324,30 +326,25 @@ React Ecosystem
 
 <br>
 
-<h2><a name="crossplat_t" href="#crossplat_c">Cross-Platform Mobile Application</a></h3>
+<h2><a name="crossplat_t" href="#crossplat_c">Cross-Platform Mobile Applications</a></h3>
+
 <br>
+
 
 ### Cross-Platform Applications
 
 - JavaScript Everywhere: Building Cross-Platform Applications with GraphQL, React, React Native, and Electron by Adam D. Scott 
 
+<br>
+
 <h3><a name="flutter_t" href="#flutter_c">Flutter</a></h3>
+
 <br>
 
 
 - [Flutter](https://flutter.dev). Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
 - Beginning Flutter: A Hands on Guide to App Development by Marco L Napoli
 - Flutter in Action by Eric Windmill
-
-<br>
-<h3><a name="elec_t" href="#elec_c">Electron</a></h3>
-<br>
-
-
-- [Electron](https://electronjs.org). Build cross platform desktop apps with JavaScript, HTML, and CSS
-- Electron in Action by Steve Kinney
-- Electron: From Beginner to Pro: Learn to Build Cross Platform Desktop Applications Using Github's Electron by Chris Griffith and Leif Wells
-- Cross-platform Desktop Applications: Using Electron and NW.js by Paul B. Jensen
 
 <br>
 
@@ -383,6 +380,38 @@ React Ecosystem
 ### uni-app
 
 - [uni-app]( https://uniapp.dcloud.io/ ). 一个使用 **Vue.js** 开发所有前端应用的框架。
+
+<br>
+
+## Cross-Platform Desktop Applications
+
+<br>
+
+<h3><a name="elec_t" href="#elec_c">Electron</a></h3>
+
+<br>
+
+
+- [Electron](https://electronjs.org). Build cross platform desktop apps with JavaScript, HTML, and CSS
+- Electron in Action by Steve Kinney
+- Electron: From Beginner to Pro: Learn to Build Cross Platform Desktop Applications Using Github's Electron by Chris Griffith and Leif Wells
+- Cross-platform Desktop Applications: Using Electron and NW.js by Paul B. Jensen
+
+### NW.js
+
+- [NW.js](https://nwjs.io/). (previously known as node-webkit) lets you call all Node.js modules directly from DOM and enables a new way of writing applications with all Web technologies.
+
+### AppJS
+
+- [AppJS](http://appjs.com/). Build Desktop Applications for Linux, Windows and Mac using HTML, CSS and Javascript.
+
+### Meteor
+
+- [Meteor](https://www.meteor.com/). An open source platform for web, mobile, and desktop used by over half a million developers around the globe to make shipping javascript applications simple, efficient, and scalable.
+
+### Proton Native
+
+- [Proton Native](https://proton-native.js.org/#/). Create desktop applications through a React syntax, on all platforms.
 
 <br>
 
