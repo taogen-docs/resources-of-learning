@@ -495,7 +495,7 @@ Courses
 - C++ 内存管理机制 by 侯捷
 - C++ Startup 揭秘 by 侯捷
 
-### Go
+### Go [📈](https://www.tiobe.com/tiobe-index/go/)
 
 Books
 
@@ -542,6 +542,10 @@ Tutorials
 - Lua Quick Start Guide: The Easiest Way to Learn Lua Programming by Gabor Szauer
 - Lua 5.2 Reference Manual by Luiz Henrique de Figueiredo, Roberto Ierusalimschy, and Waldemar Celes
 
+### Visual Basic
+
+- [Visual Basic language reference](https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/visual-basic-language-reference)
+
 ### C#
 
 - [C# documentation - doc]( https://docs.microsoft.com/en-us/dotnet/csharp/ )
@@ -554,7 +558,7 @@ Tutorials
 - Effective C#: 50 Specific Ways to Improve Your C# (3rd, 2016) by Bill Wagner
 - More Effective C#: 50 Specific Ways to Improve Your C# (2nd, 2017)by Bill Wagner
 
-### JavaScript
+### JavaScript 📈
 
 Reference [Web Frontend Resources - JavaScript](directions/web-frontend-resources.md#js_t)
 
@@ -563,7 +567,7 @@ Reference [Web Frontend Resources - JavaScript](directions/web-frontend-resource
 
 Reference [Java Resources](directions/java-resources.md)
 
-### Ruby
+### Ruby 📉
 
 - [Ruby Documentation - doc]( https://www.ruby-lang.org/en/documentation/ )
 - The Well-Grounded Rubyist by David A. Black
@@ -575,7 +579,7 @@ Reference [Java Resources](directions/java-resources.md)
 - Agile Web Development with Rails: A Pragmatic Guide by Dave Thomas
 - Practical Object Oriented Design in Ruby by Sandi Metz
 
-### PHP
+### PHP 📉
 
 - [PHP Documentation - doc]( https://www.php.net/docs.php )
 - [PHP: The Right Way by Josh Lockhart](https://phptherightway.com/)
@@ -601,7 +605,7 @@ Web Frameworks
 - Zend
 - FuelPHP
 
-### Python
+### Python 📈
 
 Prime
 
@@ -675,7 +679,7 @@ Web Frameworks
 - Programming Android: Java Programming for the New Generation of Mobile Devices by Zigurd Mednieks, Laird Dornin, G. Blake Meike, Masumi Nakamura
 
 
-### Kotlin
+### Kotlin 📈
 
 - [Kotlin Reference - doc]( https://kotlinlang.org/docs/reference/ )
 - Kotlin in Action by Dmitry Jemerov and Svetlana Isakova
@@ -769,6 +773,20 @@ Web Frameworks
 - Functional Programming, Simplified: (Scala Edition) by Alvin Alexander
 - Learning Scala: Practical Functional Programming for the JVM by Jason Swartz
 - Scala Puzzlers by Andrew Phillips and Nermin Serifovic
+
+### Erlang
+
+- [Erlang GETTING STARTED - doc](https://www.erlang.org/)
+
+### R
+
+- [R Getting Started - doc](https://www.r-project.org/)
+
+### Others
+
+Programming Languages Ranking
+
+- [TIOBE](https://www.tiobe.com/tiobe-index/)
 
 <br>
 
