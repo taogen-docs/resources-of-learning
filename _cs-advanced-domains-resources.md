@@ -17,10 +17,11 @@
 - <a name="datamining_c" href="#datamining_t">Big Data and Data Mining</a>
 - <a name="ai_c" href="#ai_t">Artificial Intelligence</a>
 - <a name="distsys_c" href="#distsys_t">Distributed Systems</a>
-- <a name="blockchain_c" href="#blockchain_t">Blockchain</a>
+- <a name="blockchain_c" href="#blockchain_t">Blockchain and Cryptocurrency</a>
 - Cloud Computing and Serverless
 - Edge Computing
 - Embedded System, IoT and 5G
+- Virtual Reality (VR) and Augmented Reality (AR)
 - <a name="lowcode_c" href="#lowcode_t">Low-Code and No-Code</a>
 - Remote Work (Work From Home)
 
