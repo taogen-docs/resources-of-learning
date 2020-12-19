@@ -325,9 +325,8 @@ Reference [CS Advanced Domains Resources - Distributed Systems](../_cs-advanced-
 **Web Frameworks**
 
 - [spring-framework](https://github.com/spring-projects/spring-framework.git)  
-
 - [spring-boot](https://github.com/spring-projects/spring-boot)
-
+- [Dagger 2](https://dagger.dev/). Dagger is a fully static, compile-time dependency injection framework for Java, Kotlin, and Android.
 - Flyweight
   - [blade](https://github.com/lets-blade/blade)  Lightning fast and elegant mvc framework for Java8
   - [Google Guice](https://github.com/google/guice) a lightweight dependency injection framework
