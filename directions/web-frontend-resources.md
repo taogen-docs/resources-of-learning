@@ -141,7 +141,6 @@ Advanced
 
 - ⭐**JavaScript: The Good Parts** (2008) by Douglas Crockford
 - ⭐You Don't Know JS Series
-
   - You Don't Know JS: Up & Going [1] by Kyle Simpson
   - You Don't Know JS: Scope & Closures [2] by Kyle Simpson
   - You Don't Know JS: this & Object Prototypes [3] by Kyle Simpson
