@@ -8,11 +8,11 @@
   - <a name="bootstrap_c" href="#bootstrap_t">BootStrap</a>
   - <a name="webdes_c" href="#webdes_t">Web Design</a>
   - Cross-Browser Compatibility
-- <a name="ecma_c" href="#ecma_t">ECMAScript</a>
 - <a name="js_c" href="#js_t">JavaScript</a>
   - <a name="jq_c" href="#jq_t">jQuery</a>
 - <a name="hcj_c" href="#hcj_t">HTML, CSS and JavaScript</a>
-- <a name="ts_c" href="#ts_t">TypeScript</a>
+- <a name="ecma_c" href="#ecma_t">ECMAScript</a>
+- *<a name="ts_c" href="#ts_t">TypeScript</a>
 - <a name="progjs_c" href="#progjs_t">Progressive JS Framework</a>
   - <a name="vue_c" href="#vue_t">Vue.js</a>
   - <a name="react_c" href="#react_t">React </a>
@@ -21,12 +21,16 @@
   - <a name="flutter_c" href="#flutter_t">Flutter</a>
   - <a name="elec_c" href="#elec_t">Electron</a>
   - <a name="rn_c" href="#rn_t">React Native</a>
+  - *PWA
   - More ...
 - <a name="miniprog_c" href="#miniprog_t">Mini Program</a>
 - <a name="webgra_c" href="#webgra_t">Web Graphics</a>
 - <a name="tools_c" href="#tools_t">Tools</a>
+  - *Snowpack
+  - *WebAssembly
 - <a name="fullstack_c" href="#fullstack_t">Full Stack Web Development</a>
   - <a name="node_c" href="#node_t">Node.js</a>
+  - *Deno
   - Databases
   - GraphQL
 - <a name="performance_c" href="#performance_t">Performance</a>
@@ -116,46 +120,44 @@ Responsible Design
 
 <br>
 
-<h2><a name="ecma_t" href="#ecma_c">ECMAScript</a></h2>
-<br>
-
-- [ECMAScript® Language Specification - Standard ECMA-262, 7th Edition / June 2016](https://www.ecma-international.org/ecma-262/7.0/)
-
-- [ECMAScript 6 — New Features](http://es6-features.org)
-
-<br>
-
 <h2><a name="js_t" href="#js_c">JavaScript</a></h2>
 <br>
 
 Prime
 
 - DOM Scripting: Web Design with JavaScript and the Document Object Model by Jeremy Keith
+- A Smarter Way to Learn JavaScript: The new approach that uses technology to cut your effort in half by Mark Myers 
 - ⭐**JavaScript: The Definitive Guide** (7th, 2020) by David Flanagan (**犀牛书**)
 - **Professional JavaScript for Web Developers** (4th, 2019) by Nicholas C. Zakas (**红宝书**)
+- Beginning JavaScript by Jeremy McPeak 
 
-You Don't Know JS Series⭐
+Intermediate
 
-- You Don't Know JS: Up & Going [1] by Kyle Simpson
-- You Don't Know JS: Scope & Closures [2] by Kyle Simpson
-- You Don't Know JS: this & Object Prototypes [3] by Kyle Simpson
-- You Don't Know JS: Types & Grammar [4] by Kyle Simpson
-- You Don't Know JS: Async & Performance [5] by Kyle Simpson
-- You Don't Know JS: ES6 & Beyond [6] by Kyle Simpson
+- ⭐**Eloquent JavaScript: A Modern Introduction to Programming** (3rd, 2018) by Marijn Haverbeke
+- Speaking JavaScript: An In-Depth Guide for Programmers by Axel Rauschmayer
 
 Advanced
 
 - ⭐**JavaScript: The Good Parts** (2008) by Douglas Crockford
+- ⭐You Don't Know JS Series
+
+  - You Don't Know JS: Up & Going [1] by Kyle Simpson
+  - You Don't Know JS: Scope & Closures [2] by Kyle Simpson
+  - You Don't Know JS: this & Object Prototypes [3] by Kyle Simpson
+  - You Don't Know JS: Types & Grammar [4] by Kyle Simpson
+  - You Don't Know JS: Async & Performance [5] by Kyle Simpson
+  - You Don't Know JS: ES6 & Beyond [6] by Kyle Simpson
 - ⭐**Secrets of the JavaScript Ninja** (2013) by Bear Bibeault and John Resig
-- ⭐**Eloquent JavaScript: A Modern Introduction to Programming** (3rd, 2018) by Marijn Haverbeke
 - **Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript** (2012) by David Herman
+- JavaScript Allongé, the "Six" Edition by Reginald Braithwaite
 - Maintainable JavaScript by Nicholas C. Zakas
 - Understanding ECMAScript 6: The Definitive Guide for JavaScript Developers by Nicholas C. Zakas
-- DOM Enlightenment by Cody Lindley
+- Dom Enlightenment: Exploring JavaScript and the Modern Dom by Cody Lindley
 - Pro JavaScript Techniques by John Resig
 - JavaScript Web Applications by Alex MacCaw
 - Closure: The Definitive Guide by Michael Bolin
 - Test-Driven JavaScript Development by Christian Johansen
+- Testable JavaScript: Ensuring Reliable Code by Mark Ethan Trostler
 
 Functional Programming in JavaScript
 
@@ -174,6 +176,7 @@ Functional Programming with JavaScript and React Series
 
 Object-Oriented Programming in JavaScript
 
+- Object-Oriented JavaScript: Create scalable, reusable high-quality JavaScript applications, and libraries by Stoyan Stefanov
 - Principles of Object-Oriented Programming in JavaScript by Nicholas C. Zakas
 
 Reactive (Async) Programming in JavaScript
@@ -228,6 +231,16 @@ Courses
 - [MDN web docs](https://developer.mozilla.org/en-US/)
 - [Learn JS](https://www.learn-js.org/)
 - [Web Dev](https://web.dev/)
+
+<br>
+
+<h2><a name="ecma_t" href="#ecma_c">ECMAScript</a></h2>
+
+<br>
+
+- [Standard ECMA-262 ECMAScript® 2020 Language Specification 11th edition (June 2020)](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
+- [ECMAScript® Language Specification - Standard ECMA-262, 7th Edition / June 2016](https://www.ecma-international.org/ecma-262/7.0/)
+- [ECMAScript 6 — New Features](http://es6-features.org)
 
 <br>
 
@@ -398,11 +411,12 @@ React Ecosystem
 
 - [npm](https://www.npmjs.com/)
 - [Yarn](https://yarnpkg.com/)
+- **[Snowpack](https://www.snowpack.dev/)**
 - [Webpack](https://webpack.js.org/)
 - [Babel](https://babeljs.io/)
 - [gulp.js](https://gulpjs.com/)
 - [Polymer Project](https://www.polymer-project.org/)
-- [WebAssembly](https://webassembly.org/)
+- **[WebAssembly](https://webassembly.org/)**
 - ESLint
 - Visual Studio Code
 - Git
@@ -422,6 +436,7 @@ React Ecosystem
 - [Node.js Guides - doc](https://nodejs.org/en/docs/guides/)
 - [Node.js v13.5.0 API - doc](https://nodejs.org/api/)
 - Node.js in Action by Marc Harter, Mike Cantelon, Nathan Rajlich, and T. J. Holowaychuk
+- Programming JavaScript Applications: Robust Web Architecture With Node, HTML5, and Modern JS Libraries by Eric Elliott
 - Beginning Node.Js by Basarat Syed
 - Practical Node.js: Building Real-world Scalable Web Apps by Azat Mardan
 - Node.js Design Patterns by Mario Casciaro
@@ -440,6 +455,10 @@ Express
 Koa.js
 
 - [Koa.js - doc](https://koajs.com/)
+
+### Deno
+
+- [Deno](https://deno.land/). A **secure** runtime for **JavaScript** and **TypeScript**.
 
 ### Databases
 
