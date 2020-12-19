@@ -18,9 +18,11 @@
 - <a name="ai_c" href="#ai_t">Artificial Intelligence</a>
 - <a name="distsys_c" href="#distsys_t">Distributed Systems</a>
 - <a name="blockchain_c" href="#blockchain_t">Blockchain</a>
-- Cloud Computing
+- Cloud Computing and Serverless
 - Edge Computing
-- Embedded System and IoT and 5G
+- Embedded System, IoT and 5G
+- <a name="lowcode_c" href="#lowcode_t">Low-Code and No-Code</a>
+- Remote Work (Work From Home)
 
 <br>
 
@@ -618,6 +620,15 @@ Bitcoin
 - Digital Gold: Bitcoin and the Inside Story of the Misfits and Millionaires Trying to Reinvent Money by Nathaniel Popper
 - The End of Money: The story of bitcoin, cryptocurrencies and the blockchain revolution by New Scientist
 - The Age of Cryptocurrency: How Bitcoin and Digital Money Are Challenging the Global Economic Order by Paul Vigna
+
+<br>
+
+<h2><a name="lowcode_t" href="#lowcode_c">Low-Code and No-Code</h2></a>
+
+<br>
+
+- [Amazon Honeycode](https://www.honeycode.aws/)
+- [Google AppSheet](https://www.appsheet.com/)
 
 <br>
 
