@@ -430,7 +430,25 @@ Some More
 
 <br>
 
+### Office Equipment
+
+Ergonomic Chair
+
+- [Best Chair For Programmers 2020](https://www.pinwords.com/best-chair-for-programmers/)
+- [Best chair for programmers](https://medium.com/@pelock/best-chair-for-programmers-cb2e2f1cfc3a)
+- [Best Chair For Programmers, Software Engineers, and Coding – 2020](https://codedelay.com/best-chair-for-programmers/)
+- [Best Chair for Programmers](https://www.softwarehow.com/best-chair-for-programmers/)
+
+Adjustable Standing Desk
+
+- [Why Programmers and Coders Need FlexiSpot Standing Desk](https://www.flexispot.com/spine-care-center/why-programmers-and-coders-need-flexispot-standing-desk/)
+- [The Best Standing Desks for Programmers](http://codingsupply.com/best-standing-desks-programmers/)
+- [5 Great Standing Up Desks for Engineers](https://blog.bliley.com/great-standing-up-desks-engineers)
+- [9 Best Adjustable Standing Desks For 2020](https://www.btod.com/blog/best-standing-desk)
+
 ### Medicine
+
+Common
 
 - Murtagh’s Patient Education 7e
 
@@ -452,6 +470,8 @@ Websites
 - Nutrition: Concepts and Controversies by Frances Sizer, Ellie Whitney
 
 ### Exercise
+
+Common
 
 - **Boundless: Upgrade Your Brain, Optimize Your Body & Defy Aging** (2020) by Ben Greenfield 
 - **Bigger Leaner Stronger: The Simple Science of Building the Ultimate Male Body** by Michael Matthews
