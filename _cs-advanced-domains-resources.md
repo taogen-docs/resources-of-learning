@@ -23,7 +23,6 @@
 - Embedded System, IoT and 5G
 - Virtual Reality (VR) and Augmented Reality (AR)
 - <a name="lowcode_c" href="#lowcode_t">Low-Code and No-Code</a>
-- Remote Work (Work From Home)
 
 <br>
 
