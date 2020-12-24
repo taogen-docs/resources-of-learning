@@ -17,6 +17,7 @@
 - <a name="sre_c" href="#sre_t">SRE</a>
 - <a name="archdes_c" href="#archdes_t">Architecture Design</a>
 - <a name="career_c" href="#career_t">Career</a>
+- <a name="law_c" href="#law_t">Law</a>
 - <a name="health_c" href="#health_t">Health</a>
 - Remote Work (Work From Home)
 
@@ -424,6 +425,31 @@ Some More
 - Cracking the PM Interview: How to Land a Product Manager Job in Technology
   by Gayle Laakmann McDowell and Jackie Bavaro
 - What Color Is Your Parachute? 2020: A Practical Manual for Job-Hunters and Career-Changers by Richard N. Bolles
+
+<br>
+
+<h2><a name="law_t" href="#law_c">Law
+
+<br>
+
+### Criminal Law
+
+- [中华人民共和国刑法（2017年修正）](http://xingfa.org/)
+
+### Labor Law
+
+- [中华人民共和国劳动法](http://www.gov.cn/banshi/2005-05/25/content_905.htm)
+- [中华人民共和国劳动法（2018年修正）](http://www.dh.gov.cn/fzjzj/Web/_F0_0_28D00828VJ46HTWA9NS3I0M2H4.htm)
+
+### Contract Law
+
+- [中华人民共和国劳动合同法](http://www.gov.cn/jrzg/2007-06/29/content_667720.htm)
+- [中华人民共和国合同法](http://www.gov.cn/banshi/2005-07/11/content_13695.htm)
+
+Noncompete Agreement
+
+- [What Is a Noncompete Agreement?](https://www.thebalancecareers.com/what-is-a-non-compete-agreement-2062045)
+- [Understanding Noncompete Agreements](https://www.nolo.com/legal-encyclopedia/understanding-noncompete-agreements.html)
 
 <br>
 
