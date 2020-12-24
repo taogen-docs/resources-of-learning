@@ -428,7 +428,7 @@ Some More
 
 <br>
 
-<h2><a name="law_t" href="#law_c">Law
+<h2><a name="law_t" href="#law_c">Law</a></h2>
 
 <br>
 
