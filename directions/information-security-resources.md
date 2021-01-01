@@ -12,8 +12,10 @@
 - <a name="mobsec_c" href="#mobsec_t">Mobile Security</a>
 - <a name="reveng_c" href="#reveng_t">Reverse Engineering</a>
 - <a name="socialeng_c" href="#socialeng_t">Social Engineering</a>
+- <a name="seceng_c" href="#seceng_t">Security Engineering and Architecture</a>
 
 <br>
+
 <h2><a name="introis_t" href="#introis_c">Introduction to Information Security</a></h2>
 <br>
 
@@ -57,9 +59,11 @@ Reference [CS Fundamentals Resources - Cryptography](../%23cs-foundations.md#cry
 - Network Security Assessment by Chris McNab
 - Cryptography and Network Security: Principles and Practice by William Stallings
 - The Practice of Network Security Monitoring: Understanding Incident Detection and Response by Richard Bejtlich
-
+- Network Security: Private Communication in a Public World (2nd, 2002) by Charlie Kaufman , Radia Perlman
+- Attacking Network Protocols: A Hacker's Guide to Capture, Analysis, and Exploitation by James Forshaw
 
 <br>
+
 <h2><a name="websec_t" href="#websec_c">Web Security</a></h2>
 <br>
 
@@ -93,6 +97,8 @@ by Jeremiah Grossman, Seth Fogie, Robert C. Hansen
 <h2><a name="softsec_t" href="#softsec_c">Software Security</a></h2>
 <br>
 
+- The Shellcoder's Handbook: Discovering and Exploiting Security Holes by Jack Koziol, Chris Anley, John Heasman
+- Counter Hack Reloaded: A Step-by-Step Guide to Computer Attacks and Effective Defenses (2nd, 2006) by Edward Skoudis, Tom Liston
 - A Bug Hunter's Diary: A Guided Tour Through the Wilds of Software Security by Tobias Klein
 - 0day安全：软件漏洞分析技术 by 王清
 
@@ -132,7 +138,16 @@ by Jeremiah Grossman, Seth Fogie, Robert C. Hansen
 - The Art of Deception: Controlling the Human Element of Security by Kevin D. Mitnick, William L. Simon, Steve Wozniak
 - The Art of Intrusion by Kevin Mitnick
 
+<br>
 
+<h2><a name="seceng_t" href="#seceng_c">Security Engineering and Architecture</a></h2>
+
+<br>
+
+- Practical Cybersecurity Architecture: A guide to creating and implementing robust designs for cybersecurity architects (2020) by Ed Moyle and Diana Kelley
+- Security Engineering: A Guide to Building Dependable Distributed Systems by Ross J. Anderson
+- Practical Cloud Security: A Guide for Secure Design and Deployment by Chris Dotson
+- Secure by Design by Dan Bergh Johnsson, Daniel Deogun, Daniel Sawano
 
 ## References
 

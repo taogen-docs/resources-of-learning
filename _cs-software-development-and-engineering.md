@@ -337,8 +337,7 @@ New Books
 
 ### Security Architecture
 
-- Practical Cloud Security: A Guide for Secure Design and Deployment by Chris Dotson
-- Secure by Design by Dan Bergh Johnsson, Daniel Deogun, Daniel Sawano
+Reference [information-security-resources - Security Engineering and Architecture](directions/information-security-resources.md#seceng_t)
 
 
 ### Architect
