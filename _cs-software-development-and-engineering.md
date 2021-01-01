@@ -450,6 +450,22 @@ Noncompete Agreement
 - [What Is a Noncompete Agreement?](https://www.thebalancecareers.com/what-is-a-non-compete-agreement-2062045)
 - [Understanding Noncompete Agreements](https://www.nolo.com/legal-encyclopedia/understanding-noncompete-agreements.html)
 
+### Cybersecurity Law
+
+- [中华人民共和国网络安全法](http://www.gov.cn/xinwen/2016-11/07/content_5129723.htm)
+- [中华人民共和国计算机信息网络国际联网管理暂行规定实施办法](http://www.scio.gov.cn/wlcb/zcfg/Document/306999/306999.htm)
+- [数据安全管理办法（征求意见稿）](http://www.moj.gov.cn/news/content/2019-05/28/zlk_235861.html)
+
+Robots.txt
+
+- [Robotstxt.org](https://www.robotstxt.org/)
+- [Introduction to robots.txt](https://developers.google.com/search/docs/advanced/robots/intro#:~:text=txt%20file%3F-,A%20robots.,web%20page%20out%20of%20Google.)
+
+### Socialist Market Economy Law
+
+- [中华人民共和国反不正当竞争法](http://gkml.samr.gov.cn/nsjg/fgs/201906/t20190625_302771.html)
+- [中华人民共和国反垄断法](http://www.gov.cn/flfg/2007-08/30/content_732591.htm)
+
 <br>
 
 <h2><a name="health_t" href="#health_c">Health</h2></a>
