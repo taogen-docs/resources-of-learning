@@ -361,6 +361,10 @@ For Programming
 - HTTP: The Definitive Guide (2002) by David Gourley,  Brian Totty, Marjorie Sayer, Anshu Aggarwal, Sailu Reddy
 - Learning Http/2: A Practical Guide for Beginners (2017) by Stephen Ludin,  Javier Garza
 
+### Network Security
+
+Reference [information-security-resources - Network Security](directions/information-security-resources.md#netsec_t)
+
 <br>
 
 <h2><a name="crypt_t" href="#crypt_c">Cryptography</a></h2>
@@ -368,21 +372,29 @@ For Programming
 
 Must Read
 
-- The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography (2000) by Simon Singh 
+- **The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography** (2000) by Simon Singh
+- **Applied Cryptography: Protocols, Algorithms, and Source Code in C** (2015) by Bruce Schneier
+- **Practical Cryptography** by Niels Ferguson,  Bruce Schneier
+- **Cryptography Engineering: Design Principles and Practical Applications** by Niels Ferguson,  Bruce Schneier, Tadayoshi Kohno
 - Understanding Cryptography: A Textbook for Students and Practitioners (2010) by Christof Paar,  Jan Pelzl
-- Network Security: Private Communication in a Public World (2nd, 2002) by Charlie Kaufman , Radia Perlman
-- Applied Cryptography: Protocols, Algorithms, and Source Code in C (2015) by Bruce Schneier
-- Counter Hack Reloaded: A Step-by-Step Guide to Computer Attacks and Effective Defenses (2nd, 2006) by Edward Skoudis, Tom Liston
+- Introduction to Modern Cryptography, Second Edition (Chapman & Hall/CRC Cryptography and Network Security Series) by Jonathan Katz
+- Serious Cryptography: A Practical Introduction to Modern Encryption by Jean-Philippe Aumasson
+- Top Secret: A Handbook of Codes, Ciphers and Secret Writing by Paul B. Janeczko, Jenna Lareau
+- Handbook of Applied Cryptography by Alfred J. Menezes, Scott A. Vanstone, Paul C. van Oorschot
+- Introduction to Modern Cryptography: Principles and Protocols by Jonathan Katz, Yehuda Lindell
 
 Some More
 
-- Cryptography Engineering: Design Principles and Practical Applications by Niels Ferguson,  Bruce Schneier, Tadayoshi Kohno
-- Introduction to Modern Cryptography, Second Edition (Chapman & Hall/CRC Cryptography and Network Security Series) by Jonathan Katz
-- Serious Cryptography: A Practical Introduction to Modern Encryption by Jean-Philippe Aumasson
-- Practical Cryptography by Niels Ferguson,  Bruce Schneier
-- Cryptography and Network Security: Principles and Practice by William Stallings
+- The Mathematics of Secrets: Cryptography from Caesar Ciphers to Digital Encryption
+by Joshua Holden
+- Cryptanalysis: A Study of Ciphers and Their Solution by Helen Fouche Gaines
+- Can You Crack the Code?: A Fascinating History of Ciphers and Cryptography by Ella Schwartz 
+- Cracking Codes with Python: An Introduction to Building and Breaking Ciphers by Al Sweigart 
+- An Introduction to Mathematical Cryptography by Jeffrey Hoffstein, Jill Pipher, J.H. Silverman
 - Cryptography: Theory and Practice by Doug Stinson
 - Foundations of cryptography by Oded Goldreich
+- The Design of Rijndael: AES - The Advanced Encryption Standard by Joan Daemen, Vincent Rijmen
+- Elementary Cryptanalysis 2nd edition by Abraham Sinkov, Todd Feil
 
 <br>
 
