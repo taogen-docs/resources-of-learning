@@ -22,6 +22,7 @@
 - Edge Computing
 - Embedded System, IoT and 5G
 - Virtual Reality (VR) and Augmented Reality (AR)
+- <a name="quantcomp_c" href="#quantcomp_t">Quantum Computing</a>
 - <a name="lowcode_c" href="#lowcode_t">Low-Code and No-Code</a>
 
 <br>
@@ -620,6 +621,41 @@ Bitcoin
 - Digital Gold: Bitcoin and the Inside Story of the Misfits and Millionaires Trying to Reinvent Money by Nathaniel Popper
 - The End of Money: The story of bitcoin, cryptocurrencies and the blockchain revolution by New Scientist
 - The Age of Cryptocurrency: How Bitcoin and Digital Money Are Challenging the Global Economic Order by Paul Vigna
+
+
+
+<br>
+
+<h2><a name="quantcomp_t" href="#quantcomp_c">Quantum Computing</a></h2>
+
+<br>
+
+Quantum Computing
+
+- **Quantum Computing: An Applied Approach** by Jack D. Hidary
+- **Quantum Computing for Everyone** by Chris Bernhardt
+- **Quantum Computing Since Democritus** by Scott Aaronson
+- Mathematics of Quantum Computing: An Introduction by Wolfgang Scherer
+- Programming Quantum Computers: Essential Algorithms and Code Samples by Eric R. Johnston , Nic Harrigan
+- Quantum Computing for Computer Scientists by Noson S. Yanofsky, Mirco A. Mannucci
+- Problems and Solutions in Quantum Computing and Quantum Information by Willi-Hans Steeb, Yorick Hardy
+- Dancing with Qubits: How quantum computing works and how it can change the world by Robert S. Sutor
+- Quantum: Computing Nouveau: The Technological Step Change That Could Foster Scientific Discovery, Break Blockchains, and Trigger a Global Cybersecurity Arms Race by Jason Schenker
+- Quantum Computer Systems: Research for Noisy Intermediate-Scale Quantum Computers by Yongshan Ding and Chong T. Frederic
+- Learn Quantum Computing with Python and IBM Quantum Experience: A hands-on introduction to quantum computing and writing your own quantum programs with Python by Robert Loredo
+
+For Quantum Physics
+
+- QUANTUM PHYSICS for Beginners in 90 Minutes without Math: All the major ideas of quantum mechanics, from quanta to entanglement, in simple language by Modern Science
+- My First Book of Quantum Physics by Sheddad Kaid-Salah Ferron, Eduard Altarriba
+- Introduction to Quantum Mechanics by David J. Griffiths
+- Something Deeply Hidden: Quantum Worlds and the Emergence of Spacetime by Sean Carroll 
+- Reality Is Not What It Seems: The Journey to Quantum Gravity by Carlo Rovelli , Simon Carnell
+- How to Teach Quantum Physics to Your Dog by Chad Orzel
+- What Is Real?: The Unfinished Quest for the Meaning of Quantum Physics by Adam Becker
+- Quantum Mechanics: The Theoretical Minimum by Leonard Susskind, Art Friedman
+- Quantum Enigma: Physics Encounters Consciousness by Bruce Rosenblum and Fred Kuttner
+- The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory by Brian Greene, Erik Davies
 
 <br>
 
