@@ -638,6 +638,7 @@ Advanced
 
 - Python Cookbook: Recipes for Mastering Python 3 by Brian K. Jones and David M. Beazley
 - **Fluent Python** by Luciano Ramalho
+- CPython Internals: Your Guide to the Python 3 Interpreter by Anthony Shaw
 - Classic Computer Science Problems in Python (2019) by David Kopec
 - The Hitchhiker's Guide to Python: Best Practices for Development by Kenneth Reitz, Tanya Schlusser
 - Pro Python by Marty Alchin
