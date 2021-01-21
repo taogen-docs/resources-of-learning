@@ -231,6 +231,7 @@ Courses
 - [MDN web docs](https://developer.mozilla.org/en-US/)
 - [Learn JS](https://www.learn-js.org/)
 - [Web Dev](https://web.dev/)
+- [Full Stack open](https://fullstackopen.com/en/)
 
 <br>
 
