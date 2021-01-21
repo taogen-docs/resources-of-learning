@@ -308,6 +308,10 @@ Docs
 - [Linux Kernel Documentation](https://www.kernel.org/doc/)
 - [LWN.net](https://lwn.net/)
 
+Papers
+
+- The UNIX Time-Sharing System - [PDF](https://dsf.berkeley.edu/cs262/unix.pdf)
+
 ### Windows
 
 Windows Programming

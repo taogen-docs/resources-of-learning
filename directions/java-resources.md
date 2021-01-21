@@ -296,7 +296,11 @@ Tutorials
 - Netty in Action by Maurer, Norman
 - Netty权威指南 by 李林锋 
 
+### Web Security
 
+Spring Security
+
+- Spring Security in Action (2020) by Laurentiu Spilca
 
 ### Data Storage
 
