@@ -269,6 +269,9 @@ Shell
 
 Vim
 
+- [Vim documentation](https://www.vim.org/docs.php)
+- [Vim help files](https://vimhelp.org/) (also accessible via the `:help` command)
+- [Vim Cheat Sheet](https://vim.rtorr.com/)
 - Learning the vi and Vim Editors by Arnold Robbins and Linda Lamb
 - Practical Vim: Edit Text at the Speed of Thought by Drew Neil
 - A Byte of Vim by Swaroop C.H.
