@@ -11,9 +11,7 @@
 - <a name="webdev_c" href="#webdev_t">Web Development</a>
 - <a name="dbms_c" href="#dbms_t">Database Systems and Data Storage</a>
 - <a name="infosec_c" href="#infosec_t">Information Security</a>
-- <a name="graph_c" href="#graph_t">Computer Graphics and Visualization</a>
-- <a name="multimedia_c" href="#multimedia_t">Multimedia</a>
-- <a name="inforetri_c" href="#inforetri_t">Information Retrieval</a>
+- <a name="inforetri_c" href="#inforetri_t">Information Retrieval and Search Engines</a>
 - <a name="datamining_c" href="#datamining_t">Big Data and Data Mining</a>
 - <a name="ai_c" href="#ai_t">Artificial Intelligence</a>
 - <a name="distsys_c" href="#distsys_t">Distributed Systems</a>
@@ -233,45 +231,8 @@ Reference [Information Security Resources](directions/information-security-resou
 
 <br>
 
-<h2><a name="graph_t" href="#graph_c">Computer Graphics and Visualization</a></h2>
+<h2><a name="inforetri_t" href="#inforetri_c">Information Retrieval and Search Engines</a></h2>
 
-<br>
-
-Must Read
-
-
-- Interactive Computer Graphics: A Top-Down Approach with WebGL (7th, 2014) by Edward Angel and Dave Shreiner
-- Mathematics for Computer Graphics by John Vince
-- Mathematics for 3D Game Programming and Computer Graphics (3rd, 2011) by Eric Lengyel
-- 3D math primer for graphics and game development by Fletcher Dunn
-- Computer Graphics: Principles and Practice (3rd, 2013) by John F. Hughes, van Dam, Andries
-- Computer Graphics Principles and Practice in C: Principles & Practice in C by James D. Foley, Andries van Dam, Steven K. Feiner, F. Hughes John
-- Fundamentals of Computer Graphics by Peter Shirley
-- Foundations of 3D Computer Graphics by Steven J. Gortler
-- Physically Based Rendering: From Theory to Implementation by Greg Humphreys and Matt Pharr
-- Real-Time Rendering by Tomas Akenine-Möller, Eric Haines
-
-OpenGL
-
-- Computer Graphics with OpenGL by Donald Hearn, M. Pauline Baker
-- OpenGL SuperBible: Comprehensive Tutorial and Reference by Graham Sellers, Nicholas Haemel, Richard S. Wright Jr.
-- OpenGL(R) Reference Manual: The Official Reference Document to OpenGL, Version 1.2 by OpenGL Architecture Review Board
-- OpenGL 4 Shading Language Cookbook by David Wolff
-- OpenGL Programming Guide: The Official Guide to Learning OpenGL, Version 4.3 by Dave Shreiner, Graham Sellers, John Kessenich
-
-<br>
-
-<h2><a name="multimedia_t" href="#multimedia_c">Multimedia</a></h2>
-<br>
-
-- Multimedia Learning by Richard E. Mayer
-- Fundamentals of multimedia by Ze-Nian Li
-- Multimedia: Making it Work by Tay Vaughan
-- EPublishing with InDesign CS6: Design and Produce Digital Publications for Tablets, Ereaders, Smartphones, and More by Pariah S. Burke
-
-<br>
-
-<h2><a name="inforetri_t" href="#inforetri_c">Information Retrieval</a></h2>
 <br>
 
 - Introduction to information retrieval by Christopher D. Manning, Hinrich Schütze, and Prabhakar Raghavan

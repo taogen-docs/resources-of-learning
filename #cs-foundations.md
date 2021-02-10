@@ -12,16 +12,28 @@
 
 - <a name="intro_c" href="#intro_t">Introduction to Computer Science</a>
 - <a name="pdesign_c" href="#pdesign_t">Introduction to Program Design</a>
-- <a name="dsa_c" href="#dsa_t">Data Structures and Algorithms</a>
-- <a name="cmath_c" href="#cmath_t">Computer Mathematics</a>
-- <a name="arch_c" href="#arch_t">Computer Architecture</a>
-- <a name="compiler_c" href="#compiler_t">Compiler</a>
-- <a name="os_c" href="#os_t">Operating Systems</a>
-- <a name="net_c" href="#net_t">Computer Networks</a>
-- <a name="crypt_c" href="#crypt_t">Cryptography</a>
-- <a name="info_c" href="#info_t">Information Theory</a>
-- <a name="lang_c" href="#lang_t">Programming Languages</a>
-- <a name="nonturinglang_c" href="#nonturinglang_t">Non-Turing-Complete Languages</a>
+- Logic
+  - <a name="dsa_c" href="#dsa_t">Data Structures and Algorithms</a>
+  - <a name="cmath_c" href="#cmath_t">Computer Mathematics</a>
+  - Automata Theory
+  - Computational Complexity Theory
+- Hardware
+  - Analog Circuits / Analogue electronics
+  - Digital Circuits
+  - Microcomputer Principles
+  - <a name="arch_c" href="#arch_t">Computer Architecture</a>
+- Software
+  - Assembly Language
+  - <a name="compiler_c" href="#compiler_t">Compiler</a>
+  - <a name="os_c" href="#os_t">Operating Systems</a>
+  - <a name="lang_c" href="#lang_t">Programming Languages</a>
+  - <a name="nonturinglang_c" href="#nonturinglang_t">Non-Turing-Complete Languages</a>
+- Information
+  - <a name="net_c" href="#net_t">Computer Networks</a>
+  - <a name="crypt_c" href="#crypt_t">Cryptography</a>
+  - <a name="info_c" href="#info_t">Information Theory</a>
+  - <a name="graph_c" href="#graph_t">Computer Graphics and Visualization</a>
+  - <a name="multimedia_c" href="#multimedia_t">Multimedia</a>
 
 <br>
 
@@ -132,6 +144,21 @@ Advanced
 
 [More Mathematics](domains/math-resources.md)
 
+## Automata Theory
+
+## Computation Theory
+
+- Introduction to the Theory of Computation by Michael Sipser
+
+## Analog Circuits / Analogue electronics
+
+## Digital Circuits
+
+- Digital Fundamentals (9th, 2005) by Thomas L. Floyd 
+- Digital Integrated Circuits: A Design Perspective (2016) by Jan M. Rabaey
+
+## Microcomputer Principles
+
 <br>
 
 <h2><a name="arch_t" href="#arch_c">Computer Architecture</a></h2>
@@ -154,26 +181,17 @@ Some More
 - Computer Organization and Architecture: Designing for Performance (9th, 2012) by William Stallings 
 - Structured Computer Organization (6th, 2012) by Andrew S. Tanenbaum, Todd Austin 
 
-Computation
+Courses
 
-- Introduction to the Theory of Computation by Michael Sipser
+- Build a Modern Computer from First Principles: From Nand to Tetris - [Coursera](https://www.coursera.org/learn/build-a-computer)
+- Build a Modern Computer from First Principles: Nand to Tetris Part II - [Coursera](https://www.coursera.org/learn/nand2tetris2)
 
-Digital Circuits
-
-- Digital Fundamentals (9th, 2005) by Thomas L. Floyd 
-- Digital Integrated Circuits: A Design Perspective (2016) by Jan M. Rabaey
-
-Assembly Language 
+## Assembly Language 
 
 - Professional Assembly Language (2005) by Richard Blum 
 - Assembly Language for Intel-Based Computers (1998) by Kip Irvine
 - Assembly Language: Step-By-Step by Jeff Duntemann
 - 汇编语言 (2003) by 王爽 
-
-Courses
-
-- Build a Modern Computer from First Principles: From Nand to Tetris - [Coursera](https://www.coursera.org/learn/build-a-computer)
-- Build a Modern Computer from First Principles: Nand to Tetris Part II - [Coursera](https://www.coursera.org/learn/nand2tetris2)
 
 <br>
 
@@ -325,104 +343,12 @@ Windows Programming
 
 <br>
 
-<h2><a name="net_t" href="#net_c">Computer Networks</a></h2>
-
-<br>
-
-Must Read
-
-- **Computer Networking: A Top Down Approach** (7th, 2016) by Kurose, Ross  
-  Best for a beginner. You will fall in love with this book once you get hold of it :P. No prerequisites required. It is written marvelously for anyone to get interested in networking)
-- Computer Networks (5th, 2010) by Andrew S. Tanenbaum and David J. Wetherall 
-  Good but dry. Well formed contents, should have some basic understanding of data communications before reading this book.
-
-Some More
-
-- Data Communications and Networking by Behrouz A. Forouzan
-- Computer Networks: A System Approach Larry L. Peterson and Bruce S. Davie
-- Data and Computer Communications by William Stallings
-
-For Packet Analysis
-
-- Practical Packet Analysis: Using Wireshark to Solve Real-World Network Problems by Chris Sanders
-- Wireshark 101: Essential Skills for Network Analysis by Gerald Combs, Laura Chappell
-- Wireshark 网络分析就这么简单 by 林沛满 
-- wireshark 网络分析的艺术 by 林沛满
-
-For Programming
-
-- **Unix Network Programming Vol 1** (3rd, 2003) Sockets API - Richard Stevens
-- **Unix Network Programming Vol 2** (2nd, 1998) Inter process Communication - Richard Stevens
-
-### TCP/IP
-
-- **TCP/IP Illustrated: The Protocols, Vol. 1** (1st, 1994) (2nd, 2011) by Richard Stevens
-- TCP/IP Illustrated: The Implementation, Vol. 2 by Richard Stevens
-- TCP/IP Illustrated: TCP for Transactions, HTTP, NNTP and the Unix Domain Protocols, Vol. 3 by Richard Stevens
-- The TCP/IP Guide: A Comprehensive, Illustrated Internet Protocols Reference by Charles Kozierok
-- Internetworking with TCP/IP Vol.1: Principles, Protocols, and Architecture by Douglas E. Comer
-
-### HTTP
-
-- [RFC 2616 - Hypertext Transfer Protocol -- HTTP/1.1](https://www.w3.org/Protocols/rfc2616/rfc2616.html)
-- HTTP: The Definitive Guide (2002) by David Gourley,  Brian Totty, Marjorie Sayer, Anshu Aggarwal, Sailu Reddy
-- Learning Http/2: A Practical Guide for Beginners (2017) by Stephen Ludin,  Javier Garza
-
-### Network Security
-
-Reference [information-security-resources - Network Security](directions/information-security-resources.md#netsec_t)
-
-<br>
-
-<h2><a name="crypt_t" href="#crypt_c">Cryptography</a></h2>
-<br>
-
-Must Read
-
-- **The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography** (2000) by Simon Singh
-- **Applied Cryptography: Protocols, Algorithms, and Source Code in C** (2015) by Bruce Schneier
-- **Practical Cryptography** by Niels Ferguson,  Bruce Schneier
-- **Cryptography Engineering: Design Principles and Practical Applications** by Niels Ferguson,  Bruce Schneier, Tadayoshi Kohno
-- Understanding Cryptography: A Textbook for Students and Practitioners (2010) by Christof Paar,  Jan Pelzl
-- Introduction to Modern Cryptography, Second Edition (Chapman & Hall/CRC Cryptography and Network Security Series) by Jonathan Katz
-- Serious Cryptography: A Practical Introduction to Modern Encryption by Jean-Philippe Aumasson
-- Top Secret: A Handbook of Codes, Ciphers and Secret Writing by Paul B. Janeczko, Jenna Lareau
-- Handbook of Applied Cryptography by Alfred J. Menezes, Scott A. Vanstone, Paul C. van Oorschot
-- Introduction to Modern Cryptography: Principles and Protocols by Jonathan Katz, Yehuda Lindell
-
-Some More
-
-- The Mathematics of Secrets: Cryptography from Caesar Ciphers to Digital Encryption
-by Joshua Holden
-- Cryptanalysis: A Study of Ciphers and Their Solution by Helen Fouche Gaines
-- Can You Crack the Code?: A Fascinating History of Ciphers and Cryptography by Ella Schwartz 
-- Cracking Codes with Python: An Introduction to Building and Breaking Ciphers by Al Sweigart 
-- An Introduction to Mathematical Cryptography by Jeffrey Hoffstein, Jill Pipher, J.H. Silverman
-- Cryptography: Theory and Practice by Doug Stinson
-- Foundations of cryptography by Oded Goldreich
-- The Design of Rijndael: AES - The Advanced Encryption Standard by Joan Daemen, Vincent Rijmen
-- Elementary Cryptanalysis 2nd edition by Abraham Sinkov, Todd Feil
-
-<br>
-
-<h2><a name="info_t" href="#info_c">Information Theory</a></h2>
-
-<br>
-
-Must Read
-
-- The Information: A History, a Theory, a Flood (2003) by James Gleick, Rob Shapiro
-- Information Theory: A Tutorial Introduction (2015) by James V. Stone
-- Elements of Information Theory (2nd, 2006) by Thomas M. Cover and Joy A. Thomas
-- Network Information Theory by (2012) by El Gamal, Abbas and Young-Han Kim
-
-<br>
-
 ## Programming Paradigms
 
 <br>
 
 Functional Programming
+
 > Haskell, Scala, Clojure
 
 - Introduction to Functional Programming by Richard S. Bird, Philip Wadler
@@ -433,7 +359,7 @@ Functional Programming
 - Functional Programming, Simplified  (Scala Edition) by Alvin Alexander
 - Programming Clojure by Stuart Halloway, Susannah Davidson Pfalzer
 - Functional Programming In Java: How Functional Techniques Improve Your Java Programs
-by Pierre-Yves Saumont
+  by Pierre-Yves Saumont
 - Real-world Functional Programming: With Examples in F# and C# by Jon Skeet and Tomas Petricek
 - Functional Programming in JavaScript by Luis Atencio
 
@@ -474,7 +400,9 @@ Virtual Machine
 
 
 <br>
+
 <h2><a name="lang_t" href="#lang_c">Programming Languages</a></h2>
+
 <br>
 
 ### C
@@ -811,6 +739,7 @@ Programming Languages Ranking
 <br>
 
 <h2><a name="nonturinglang_t" href="#nonturinglang_c">Non-Turing-Complete Languages</a></h2>
+
 <br>
 
 ### SQL
@@ -857,6 +786,138 @@ Some More
 - Textile
 - BBCode
 - Pendown
+
+<br>
+
+<h2><a name="net_t" href="#net_c">Computer Networks</a></h2>
+
+<br>
+
+Must Read
+
+- **Computer Networking: A Top Down Approach** (7th, 2016) by Kurose, Ross  
+  Best for a beginner. You will fall in love with this book once you get hold of it :P. No prerequisites required. It is written marvelously for anyone to get interested in networking)
+- Computer Networks (5th, 2010) by Andrew S. Tanenbaum and David J. Wetherall 
+  Good but dry. Well formed contents, should have some basic understanding of data communications before reading this book.
+
+Some More
+
+- Data Communications and Networking by Behrouz A. Forouzan
+- Computer Networks: A System Approach Larry L. Peterson and Bruce S. Davie
+- Data and Computer Communications by William Stallings
+
+For Packet Analysis
+
+- Practical Packet Analysis: Using Wireshark to Solve Real-World Network Problems by Chris Sanders
+- Wireshark 101: Essential Skills for Network Analysis by Gerald Combs, Laura Chappell
+- Wireshark 网络分析就这么简单 by 林沛满 
+- wireshark 网络分析的艺术 by 林沛满
+
+For Programming
+
+- **Unix Network Programming Vol 1** (3rd, 2003) Sockets API - Richard Stevens
+- **Unix Network Programming Vol 2** (2nd, 1998) Inter process Communication - Richard Stevens
+
+### TCP/IP
+
+- **TCP/IP Illustrated: The Protocols, Vol. 1** (1st, 1994) (2nd, 2011) by Richard Stevens
+- TCP/IP Illustrated: The Implementation, Vol. 2 by Richard Stevens
+- TCP/IP Illustrated: TCP for Transactions, HTTP, NNTP and the Unix Domain Protocols, Vol. 3 by Richard Stevens
+- The TCP/IP Guide: A Comprehensive, Illustrated Internet Protocols Reference by Charles Kozierok
+- Internetworking with TCP/IP Vol.1: Principles, Protocols, and Architecture by Douglas E. Comer
+
+### HTTP
+
+- [RFC 2616 - Hypertext Transfer Protocol -- HTTP/1.1](https://www.w3.org/Protocols/rfc2616/rfc2616.html)
+- HTTP: The Definitive Guide (2002) by David Gourley,  Brian Totty, Marjorie Sayer, Anshu Aggarwal, Sailu Reddy
+- Learning Http/2: A Practical Guide for Beginners (2017) by Stephen Ludin,  Javier Garza
+
+### Network Security
+
+Reference [information-security-resources - Network Security](directions/information-security-resources.md#netsec_t)
+
+<br>
+
+<h2><a name="crypt_t" href="#crypt_c">Cryptography</a></h2>
+<br>
+
+Must Read
+
+- **The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography** (2000) by Simon Singh
+- **Applied Cryptography: Protocols, Algorithms, and Source Code in C** (2015) by Bruce Schneier
+- **Practical Cryptography** by Niels Ferguson,  Bruce Schneier
+- **Cryptography Engineering: Design Principles and Practical Applications** by Niels Ferguson,  Bruce Schneier, Tadayoshi Kohno
+- Understanding Cryptography: A Textbook for Students and Practitioners (2010) by Christof Paar,  Jan Pelzl
+- Introduction to Modern Cryptography, Second Edition (Chapman & Hall/CRC Cryptography and Network Security Series) by Jonathan Katz
+- Serious Cryptography: A Practical Introduction to Modern Encryption by Jean-Philippe Aumasson
+- Top Secret: A Handbook of Codes, Ciphers and Secret Writing by Paul B. Janeczko, Jenna Lareau
+- Handbook of Applied Cryptography by Alfred J. Menezes, Scott A. Vanstone, Paul C. van Oorschot
+- Introduction to Modern Cryptography: Principles and Protocols by Jonathan Katz, Yehuda Lindell
+
+Some More
+
+- The Mathematics of Secrets: Cryptography from Caesar Ciphers to Digital Encryption
+by Joshua Holden
+- Cryptanalysis: A Study of Ciphers and Their Solution by Helen Fouche Gaines
+- Can You Crack the Code?: A Fascinating History of Ciphers and Cryptography by Ella Schwartz 
+- Cracking Codes with Python: An Introduction to Building and Breaking Ciphers by Al Sweigart 
+- An Introduction to Mathematical Cryptography by Jeffrey Hoffstein, Jill Pipher, J.H. Silverman
+- Cryptography: Theory and Practice by Doug Stinson
+- Foundations of cryptography by Oded Goldreich
+- The Design of Rijndael: AES - The Advanced Encryption Standard by Joan Daemen, Vincent Rijmen
+- Elementary Cryptanalysis 2nd edition by Abraham Sinkov, Todd Feil
+
+<br>
+
+<h2><a name="info_t" href="#info_c">Information Theory</a></h2>
+
+<br>
+
+Must Read
+
+- The Information: A History, a Theory, a Flood (2003) by James Gleick, Rob Shapiro
+- Information Theory: A Tutorial Introduction (2015) by James V. Stone
+- Elements of Information Theory (2nd, 2006) by Thomas M. Cover and Joy A. Thomas
+- Network Information Theory by (2012) by El Gamal, Abbas and Young-Han Kim
+
+<br>
+
+<h2><a name="graph_t" href="#graph_c">Computer Graphics and Visualization</a></h2>
+
+<br>
+
+Must Read
+
+
+- Interactive Computer Graphics: A Top-Down Approach with WebGL (7th, 2014) by Edward Angel and Dave Shreiner
+- Mathematics for Computer Graphics by John Vince
+- Mathematics for 3D Game Programming and Computer Graphics (3rd, 2011) by Eric Lengyel
+- 3D math primer for graphics and game development by Fletcher Dunn
+- Computer Graphics: Principles and Practice (3rd, 2013) by John F. Hughes, van Dam, Andries
+- Computer Graphics Principles and Practice in C: Principles & Practice in C by James D. Foley, Andries van Dam, Steven K. Feiner, F. Hughes John
+- Fundamentals of Computer Graphics by Peter Shirley
+- Foundations of 3D Computer Graphics by Steven J. Gortler
+- Physically Based Rendering: From Theory to Implementation by Greg Humphreys and Matt Pharr
+- Real-Time Rendering by Tomas Akenine-Möller, Eric Haines
+
+OpenGL
+
+- Computer Graphics with OpenGL by Donald Hearn, M. Pauline Baker
+- OpenGL SuperBible: Comprehensive Tutorial and Reference by Graham Sellers, Nicholas Haemel, Richard S. Wright Jr.
+- OpenGL(R) Reference Manual: The Official Reference Document to OpenGL, Version 1.2 by OpenGL Architecture Review Board
+- OpenGL 4 Shading Language Cookbook by David Wolff
+- OpenGL Programming Guide: The Official Guide to Learning OpenGL, Version 4.3 by Dave Shreiner, Graham Sellers, John Kessenich
+
+<br>
+
+<h2><a name="multimedia_t" href="#multimedia_c">Multimedia</a></h2>
+
+<br>
+
+- Multimedia Learning by Richard E. Mayer
+- Fundamentals of multimedia by Ze-Nian Li
+- Multimedia: Making it Work by Tay Vaughan
+- EPublishing with InDesign CS6: Design and Produce Digital Publications for Tablets, Ereaders, Smartphones, and More by Pariah S. Burke
 
 <br>
 
