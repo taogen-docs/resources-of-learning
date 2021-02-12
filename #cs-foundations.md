@@ -17,14 +17,14 @@
   - <a name="dsa_c" href="#dsa_t">Data Structures and Algorithms</a>
   - <a name="cmath_c" href="#cmath_t">Computer Mathematics</a>
   - Automata Theory
-  - Computational Complexity Theory
+  - <a name="cpttr_c" href="#cpttr_t">Computational Complexity Theory</a>
 - Part III: Hardware
   - Analog Circuits / Analogue electronics
-  - Digital Circuits
+  - <a name="dgcc_c" href="#dgcc_t">Digital Circuits</a>
   - Microcomputer Principles
   - <a name="arch_c" href="#arch_t">Computer Architecture</a>
 - Part IV: Software
-  - Assembly Language
+  - <a name="aslang_c" href="#aslang_t">Assembly Language</a>
   - <a name="compiler_c" href="#compiler_t">Compiler</a>
   - <a name="os_c" href="#os_t">Operating Systems</a>
   - <a name="lang_c" href="#lang_t">Programming Languages</a>
@@ -34,6 +34,8 @@
   - <a name="info_c" href="#info_t">Information Theory</a>
   - <a name="graph_c" href="#graph_t">Computer Graphics and Visualization</a>
   - <a name="multimedia_c" href="#multimedia_t">Multimedia</a>
+
+<br>
 
 ## Part I: Introduction
 
@@ -150,9 +152,15 @@ Advanced
 
 [More Mathematics](domains/math-resources.md)
 
+<br>
+
 ## Automata Theory
 
-## Computation Theory
+<br>
+
+<h2><a name="cpttr_t" href="#cpttr_c">Computation Theory</a></h2>
+
+<br>
 
 - Introduction to the Theory of Computation by Michael Sipser
 
@@ -166,7 +174,9 @@ Advanced
 
 <br>
 
-## Digital Circuits
+<h2><a name="dgcc_t" href="#dgcc_c">Digital Circuits</a></h2>
+
+<br>
 
 - Digital Fundamentals (9th, 2005) by Thomas L. Floyd 
 - Digital Integrated Circuits: A Design Perspective (2016) by Jan M. Rabaey
@@ -208,7 +218,7 @@ Courses
 
 <br>
 
-## Assembly Language 
+<h2><a name="aslang_t" href="#aslang_c">Assembly Language </a></h2>
 
 <br>
 
