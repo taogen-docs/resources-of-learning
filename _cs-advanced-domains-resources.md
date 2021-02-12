@@ -10,8 +10,8 @@
 
 - <a name="webdev_c" href="#webdev_t">Web Development</a>
 - <a name="dbms_c" href="#dbms_t">Database Systems and Data Storage</a>
-- <a name="infosec_c" href="#infosec_t">Information Security</a>
 - <a name="inforetri_c" href="#inforetri_t">Information Retrieval and Search Engines</a>
+- <a name="infosec_c" href="#infosec_t">Information Security</a>
 - <a name="datamining_c" href="#datamining_t">Big Data and Data Mining</a>
 - <a name="ai_c" href="#ai_t">Artificial Intelligence</a>
 - <a name="distsys_c" href="#distsys_t">Distributed Systems</a>
@@ -21,7 +21,6 @@
 - Embedded System, IoT and 5G
 - Virtual Reality (VR) and Augmented Reality (AR)
 - <a name="quantcomp_c" href="#quantcomp_t">Quantum Computing</a>
-- <a name="lowcode_c" href="#lowcode_t">Low-Code and No-Code</a>
 
 <br>
 
@@ -214,26 +213,13 @@ Tutorials
 
 - [Try Redis](http://try.redis.io/)
 
-### Search Engines
-
-- [Apache LuceneTM 7.4.0 Documentation](https://lucene.apache.org/core/7_4_0/index.html)
-- [Apache Solr Reference Guide](https://lucene.apache.org/solr/guide/)
-- [Elasticsearch Documentation](https://www.elastic.co/guide/index.html)
-
-
-
-<br>
-
-<h2><a name="infosec_t" href="#infosec_c">Information Security</a></h2>
-<br>
-
-Reference [Information Security Resources](directions/information-security-resources.md)
-
 <br>
 
 <h2><a name="inforetri_t" href="#inforetri_c">Information Retrieval and Search Engines</a></h2>
 
 <br>
+
+### Information Retrieval
 
 - Introduction to information retrieval by Christopher D. Manning, Hinrich Schütze, and Prabhakar Raghavan
 - Information Retrieval: Implementing and Evaluating Search Engines by Charles L. A. Clarke, Gordon Cormack, and Stefan Büttcher
@@ -243,6 +229,20 @@ Reference [Information Security Resources](directions/information-security-resou
 - Information Retrieval: Data Structures and Algorithms by William B. Frakes, Ricardo Baeza-Yates
 - Google's Pagerank and Beyond: The Science of Search Engine Rankings by Amy N. Langville, Carl D. Meyer
 - Modern Information Retrieval by Berthier Ribeiro-Neto
+
+### Search Engines
+
+- [Apache LuceneTM 7.4.0 Documentation](https://lucene.apache.org/core/7_4_0/index.html)
+- [Apache Solr Reference Guide](https://lucene.apache.org/solr/guide/)
+- [Elasticsearch Documentation](https://www.elastic.co/guide/index.html)
+
+<br>
+
+<h2><a name="infosec_t" href="#infosec_c">Information Security</a></h2>
+
+<br>
+
+Reference [Information Security Resources](directions/information-security-resources.md)
 
 <br>
 
@@ -556,10 +556,11 @@ Middleware - Database Cluster
 
 <br>
 
-<h2><a name="blockchain_t" href="#blockchain_c">Blockchain</a></h2>
+<h2><a name="blockchain_t" href="#blockchain_c">Blockchain and Cryptocurrency</a></h2>
+
 <br>
 
-Must Read
+### Blockchain
 
 - The Internet of Money by Andreas M. Antonopoulos
 - Mastering Ethereum: Building Smart Contracts and Dapps by Andreas M Antonopoulos
@@ -569,7 +570,7 @@ Must Read
 - Ethereum: Blockchains, Digital Assets, Smart Contracts, Decentralized Autonomous Organizations by Henning Diedrich
 - The Business Blockchain: Promise, Practice, and Application of the Next Internet Technology by William Mougayar
 
-Bitcoin
+### Bitcoin
 
 - Mastering Bitcoin: Unlocking Digital Cryptocurrencies by Andreas Antonopoulos
 - Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction by Arvind Narayanan
@@ -617,15 +618,6 @@ For Quantum Physics
 - Quantum Mechanics: The Theoretical Minimum by Leonard Susskind, Art Friedman
 - Quantum Enigma: Physics Encounters Consciousness by Bruce Rosenblum and Fred Kuttner
 - The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory by Brian Greene, Erik Davies
-
-<br>
-
-<h2><a name="lowcode_t" href="#lowcode_c">Low-Code and No-Code</h2></a>
-
-<br>
-
-- [Amazon Honeycode](https://www.honeycode.aws/)
-- [Google AppSheet](https://www.appsheet.com/)
 
 <br>
 
