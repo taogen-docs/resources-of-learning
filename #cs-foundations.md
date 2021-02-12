@@ -10,29 +10,32 @@
 
 ### Content
 
-- <a name="intro_c" href="#intro_t">Introduction to Computer Science</a>
-- <a name="pdesign_c" href="#pdesign_t">Introduction to Program Design</a>
-- Part I: Logic
+- Part I: Introduction
+  - <a name="intro_c" href="#intro_t">Introduction to Computer Science</a>
+  - <a name="pdesign_c" href="#pdesign_t">Introduction to Program Design</a>
+- Part II: Logic
   - <a name="dsa_c" href="#dsa_t">Data Structures and Algorithms</a>
   - <a name="cmath_c" href="#cmath_t">Computer Mathematics</a>
   - Automata Theory
   - Computational Complexity Theory
-- Part II: Hardware
+- Part III: Hardware
   - Analog Circuits / Analogue electronics
   - Digital Circuits
   - Microcomputer Principles
   - <a name="arch_c" href="#arch_t">Computer Architecture</a>
-- Part III: Software
+- Part IV: Software
   - Assembly Language
   - <a name="compiler_c" href="#compiler_t">Compiler</a>
   - <a name="os_c" href="#os_t">Operating Systems</a>
   - <a name="lang_c" href="#lang_t">Programming Languages</a>
-- Part IV: Information
+- Part V: Information
   - <a name="net_c" href="#net_t">Computer Networks</a>
   - <a name="crypt_c" href="#crypt_t">Cryptography</a>
   - <a name="info_c" href="#info_t">Information Theory</a>
   - <a name="graph_c" href="#graph_t">Computer Graphics and Visualization</a>
   - <a name="multimedia_c" href="#multimedia_t">Multimedia</a>
+
+## Part I: Introduction
 
 <br>
 
@@ -64,7 +67,11 @@ Tutorials
 - [Teach Yourself Programming in Ten Years - Peter Norvig](http://norvig.com/21-days.html)
 - [如何掌握所有的程序语言 - Wang Yin](https://www.yinwang.org/blog-cn/2017/07/06/master-pl)
 
-[More Programming Languages](#lang_t)
+[More Programming Languages](domains/programming-language-resources.md/#lang_t)
+
+<br>
+
+## Part II: Logic
 
 <br>
 
@@ -149,12 +156,22 @@ Advanced
 
 - Introduction to the Theory of Computation by Michael Sipser
 
+<br>
+
+## Part III: Hardware
+
+<br>
+
 ## Analog Circuits / Analogue electronics
+
+<br>
 
 ## Digital Circuits
 
 - Digital Fundamentals (9th, 2005) by Thomas L. Floyd 
 - Digital Integrated Circuits: A Design Perspective (2016) by Jan M. Rabaey
+
+<br>
 
 ## Microcomputer Principles
 
@@ -185,7 +202,15 @@ Courses
 - Build a Modern Computer from First Principles: From Nand to Tetris - [Coursera](https://www.coursera.org/learn/build-a-computer)
 - Build a Modern Computer from First Principles: Nand to Tetris Part II - [Coursera](https://www.coursera.org/learn/nand2tetris2)
 
+<br>
+
+## Part IV: Software
+
+<br>
+
 ## Assembly Language 
+
+<br>
 
 - Professional Assembly Language (2005) by Richard Blum 
 - Assembly Language for Intel-Based Computers (1998) by Kip Irvine
@@ -347,6 +372,10 @@ Windows Programming
 <br>
 
 Reference [Programming Language Resources](domains/programming-language-resources.md)
+
+<br>
+
+## Part V: Information
 
 <br>
 
