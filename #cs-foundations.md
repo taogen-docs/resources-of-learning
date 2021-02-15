@@ -29,6 +29,7 @@
   - <a name="os_c" href="#os_t">Operating Systems</a>
   - <a name="lang_c" href="#lang_t">Programming Languages</a>
 - Part V: Information
+  - Communication Engineering
   - <a name="net_c" href="#net_t">Computer Networks</a>
   - <a name="crypt_c" href="#crypt_t">Cryptography</a>
   - <a name="info_c" href="#info_t">Information Theory</a>
@@ -284,6 +285,10 @@ Some More
 - Orange'S:一个操作系统的实现 (2009) by 于渊
 - 操作系统真象还原 (2016) by 郑钢
 - 一个64位操作系统的设计与实现 (2018) by 田宇
+
+Distributed Operating Systems
+
+- Distributed Operating Systems: Concepts and Design by Pradeep K. Sinha 
 
 Courses
 

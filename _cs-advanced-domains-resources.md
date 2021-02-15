@@ -470,14 +470,19 @@ Papers
 
 ### Distributed Systems
 
+Must Read
 
+
+- **Distributed Systems: Principles and Paradigms** (3.01 edition, 2017) by Andrew S. Tanenbaum, Maarten van Steen. A good overview of distributed systems that goes to enough depth to spark interest. Might be too much for beginners, but a good intermediate level reference.
 - **Designing Data-Intensive Applications** by Martin Kleppmann
-- **Distributed Systems: Principles and Paradigms** by Andrew S. Tanenbaum, Maarten van Steen
-- **Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services** by Brendan Burns
-- **Distributed Systems For Fun and Profit** by Mikito Takada
-- **Distributed Systems: Concepts and Design** by George Coulouris, Jean Dollimore, Tim Kindberg, Gordon Blair
-- **Distributed Algorithms** by Nancy A. Lynch
-- **Distributed Operating Systems: Concepts and Design** by Pradeep K. Sinha 
+- **Distributed Systems For Fun and Profit** by Mikito Takada. Great intro book to distributed systems theory, with plenty of references to learn more once you're done.
+- Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services by Brendan Burns. Patterns and Paradigms for container architecture. Useful but shallow.
+
+Some More
+
+
+- Distributed Systems: Concepts and Design by George Coulouris, Jean Dollimore, Tim Kindberg, Gordon Blair
+- Distributed Algorithms by Nancy A. Lynch
 - Principles of Transaction Processing by Philip A. Bernstein
 - Introduction to Distributed Algorithms by Gerard Tel
 - Programming Distributed Computing Systems: A Foundational Approach by Carlos A. Varela
@@ -501,8 +506,8 @@ More Distributed Systems
 
 ### Distributed Data Storage
 
-- **Principles of Distributed Database Systems** by M. Tamer Ozsu
 - **Database Internals: A deep-dive into how distributed data systems work** by Alex Petrov
+- Principles of Distributed Database Systems by M. Tamer Ozsu
 - Distributed Databases: Principles and Systems by Stefano Ceri, G. Pelagatti
 - Distributed Database Systems by Chhanda Ray
 
@@ -537,7 +542,7 @@ Middleware - Microservices Collaboration
 - [Spring Cloud](https://spring.io/projects/spring-cloud)
 - 从PAXOS到ZOOKEEPER分布式一致性原理与实践 by 倪超
 
-Middleware - Microservices Communication
+Middleware - Microservices Communication (RPC/Message/HTTP)
 
 - Java Message Service by Mark Richards, Richard Monson-Haefel and David A. Chappell
 - Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale by Neha Narkhede, Gwen Shapira, Todd Palino
