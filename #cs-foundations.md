@@ -550,10 +550,12 @@ Courses
 - [MIT OpenCourseware](https://ocw.mit.edu/)
 - [edx](https://www.edx.org/)
 - [Coursera](https://www.coursera.org/)
+- [Stanford Online Courses](https://online.stanford.edu/free-courses)
 - Udacity
 - YouTube
 - Bilibili
 - 阿里云大学
+- 慕课网
 - 尚硅谷
 
 <br>
