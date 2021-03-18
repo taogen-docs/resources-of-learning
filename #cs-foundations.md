@@ -19,7 +19,7 @@
   - Automata Theory
   - <a name="cpttr_c" href="#cpttr_t">Computational Complexity Theory</a>
 - Part III: Hardware
-  - Analog Circuits / Analogue electronics
+  - <a name="anlg_cct_c" href="#anlg_cct_t">Analog Circuits</a>
   - <a name="dgcc_c" href="#dgcc_t">Digital Circuits</a>
   - Microcomputer Principles
   - <a name="arch_c" href="#arch_t">Computer Architecture</a>
@@ -171,7 +171,42 @@ Advanced
 
 <br>
 
-## Analog Circuits / Analogue electronics
+<h2><a name="anlg_cct_t" href="#anlg_cct_c">Analog Circuits / Analogue electronics</a></h2>
+
+<br>
+
+Prime
+
+- **Microelectronic Circuits** (2019) by Sedra and Smith. The best book for analog circuits for beginners.
+- **Electronic Devices and Circuit Theory** (2012) by Robert and Louis
+- Electronic Devices (2018) by Thomas L. Floyd
+- Fundamentals of Microelectronics by Behzad Razavi
+- Foundations of Analog and Digital Electronic Circuits by Anant Agarwal, Jeffrey Lang
+
+Must Read
+
+- **Analysis and Design of Analog Integrated Circuits** (5th, 2009) by Paul R. Gray, Paul J. Hurst, Stephen H. Lewis
+- **CMOS Analog Circuit Design** (2011) by Phillip E. Allen, Douglas R. Holberg
+- **Design of Analog CMOS Integrated Circuits** (2nd, 2017) by Behzad Razavi
+- Analog Integrated Circuit Design (2011) by David A. Johns, Kenneth W. Martin
+- CMOS: Circuit Design, Layout, and Simulation (4th, 2019) by R. Jacob Baker. Online [CMOSedu.com](http://cmosedu.com/)
+
+Others
+
+- Analog Design Essentials by Willy M. C. Sansen
+- Microelectronic Circuits by Adel Sedra Kenneth C. Smith
+- Analog Integrated Circuit Design by T.C.Carusone D.A.Johns K.Martin
+- The Art of Analog Layout by Alan Hastings
+
+For Electronics and Electric Circuits
+
+- **The Art of Electronics** (3rd, 2015) by Paul Horowitz
+- **Practical Electronics for Inventors** (4th, 2016) by Paul Scherz
+- **Fundamentals of Electric Circuits** (6th, 2016) by Charles K. Alexander, Matthew N.O. Sadiku
+- Electric Circuits (11th, 2018) by James W. Nilsson by James W. Nilsson
+- Circuit Analysis For Dummies by John Santiago
+- Introductory Circuit Analysis by Robert L. Boylestad
+- Engineering Circuit Analysis by William H. Hayt Jr., Steven M. Durbin, Jack E. Kemmerly
 
 <br>
 
