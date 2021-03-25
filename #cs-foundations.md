@@ -177,8 +177,8 @@ Advanced
 
 Prime
 
-- **Microelectronic Circuits** (2019) by Sedra and Smith. The best book for analog circuits for beginners.
-- **Electronic Devices and Circuit Theory** (2012) by Robert and Louis
+- **Microelectronic Circuits** (8th, 2019) by by Adel S. Sedra, Kenneth C. Smith. The best book for analog circuits for beginners.
+- **Electronic Devices and Circuit Theory** (11th, 2012) by Robert and Louis
 - Electronic Devices (2018) by Thomas L. Floyd
 - Fundamentals of Microelectronics by Behzad Razavi
 - Foundations of Analog and Digital Electronic Circuits by Anant Agarwal, Jeffrey Lang
@@ -186,9 +186,9 @@ Prime
 Must Read
 
 - **Analysis and Design of Analog Integrated Circuits** (5th, 2009) by Paul R. Gray, Paul J. Hurst, Stephen H. Lewis
-- **CMOS Analog Circuit Design** (2011) by Phillip E. Allen, Douglas R. Holberg
+- **CMOS Analog Circuit Design** (3rd, 2011) by Phillip E. Allen, Douglas R. Holberg
 - **Design of Analog CMOS Integrated Circuits** (2nd, 2017) by Behzad Razavi
-- Analog Integrated Circuit Design (2011) by David A. Johns, Kenneth W. Martin
+- Analog Integrated Circuit Design (2nd, 2011) by David A. Johns, Kenneth W. Martin
 - CMOS: Circuit Design, Layout, and Simulation (4th, 2019) by R. Jacob Baker. Online [CMOSedu.com](http://cmosedu.com/)
 
 Others
@@ -214,8 +214,9 @@ For Electronics and Electric Circuits
 
 <br>
 
-- Digital Fundamentals (9th, 2005) by Thomas L. Floyd 
+- **Digital Fundamentals** (9th, 2005) by Thomas L. Floyd 
 - Digital Integrated Circuits: A Design Perspective (2016) by Jan M. Rabaey
+- Digital Design and Computer Architecture by David Money Harris, Sarah L. Harris
 
 <br>
 
@@ -426,6 +427,14 @@ Reference [Programming Language Resources](domains/programming-language-resource
 <br>
 
 ## Part V: Information
+
+<br>
+
+## Communication Engineering
+
+<br>
+
+
 
 <br>
 

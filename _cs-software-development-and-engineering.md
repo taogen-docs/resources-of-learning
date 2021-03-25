@@ -64,6 +64,7 @@ Design Patterns
 - **Agile Software Development, Principles, Patterns, and Practices** by Robert C. Martin
 - **A Philosophy of Software Design** by John Ousterhout
 - Beautiful Code: Leading Programmers Explain How They Think by Andy Oram, Greg Wilson
+- Software Design for Flexibility: How to Avoid Programming Yourself Into a Corner (2021) by Chris Hanson, Gerald Jay Sussman
 
 UML
 
@@ -159,7 +160,14 @@ Container
 - Kubernetes 
   - Kubernetes in Action by Marko Luksa
   - **The Kubernetes Book** by Nigel Poulton
-  - Kubernetes: Up and Running: Dive into the Future of Infrastructure by Brendan Burns , Joe Beda
+  - Kubernetes: Up and Running: Dive into the Future of Infrastructure (2nd, 2019) by Brendan Burns , Joe Beda
+  - Production Kubernetes: Building Successful Application Platforms (2021) by Josh Rosso, Rich Lander, Alex Brand, John Harris
+  - Kubernetes Patterns: Reusable Elements for Designing Cloud-Native Applications (2019)  by Bilgin Ibryam, Roland Huß
+  - Kubernetes Best Practices: Blueprints for Building Successful Applications on Kubernetes (2019) by Brendan Burns, Eddie Villalba, Dave Strebel, Lachlan Evenson
+  - Programming Kubernetes: Developing Cloud-Native Applications (2019) by Michael Hausenblas, Stefan Schimanski
+  - Cloud Native DevOps with Kubernetes: Building, Deploying, and Scaling Modern Applications in the Cloud (2019) by John Arundel, Justin Domingus
+  - Kubernetes Operators: Automating the Container Orchestration Platform (2020) by Jason Dobies, Joshua Wood
+  - Managing Kubernetes: Operating Kubernetes Clusters in the Real World (2018) by Brendan Burns, Craig Tracey 
 
 Others
 
@@ -350,7 +358,9 @@ Reference [information-security-resources - Security Engineering and Architectur
 
 ### Architect
 
-- Essential Skills for Software Architects by Dave Hendricksen 
+- 12 Essential Skills for Software Architects (2011) by Dave Hendricksen 
+- 12 More Essential Skills for Software Architects (2014) by Dave Hendricksen
+- Solutions Architect's Handbook: Kick-start your solutions architect career by learning architecture design principles and strategies (2020) by Saurabh Shrivastava, Neelanjali Srivastav, Kamal Arora
 
 
 Articles
