@@ -499,38 +499,50 @@ Robots.txt
 
 ### Office Equipment
 
-Ergonomic Chair
+#### Ergonomic Chair
+
+Products
+
+- Aeron by herman miller 赫曼·米勒
+- 网易严选人体工学椅
+- 西昊 M18
+- Steelcase
+- F3A PLUS
+- F8
+- Commander
+
+Articles
 
 - [Best Chair For Programmers 2020](https://www.pinwords.com/best-chair-for-programmers/)
 - [Best chair for programmers](https://medium.com/@pelock/best-chair-for-programmers-cb2e2f1cfc3a)
 - [Best Chair For Programmers, Software Engineers, and Coding – 2020](https://codedelay.com/best-chair-for-programmers/)
 - [Best Chair for Programmers](https://www.softwarehow.com/best-chair-for-programmers/)
 
-Adjustable Standing Desk
+#### Adjustable Standing Desk
+
+Products
+
+- Terra by NextDesk
+- 乐歌 - E2/E2S/E5
+- 宜家 IKEA - BEKANT 贝肯特, SKARSTA 斯卡斯塔, IDASEN 伊朵森
+- 网易严选升降桌
+
+Articles
 
 - [Why Programmers and Coders Need FlexiSpot Standing Desk](https://www.flexispot.com/spine-care-center/why-programmers-and-coders-need-flexispot-standing-desk/)
 - [The Best Standing Desks for Programmers](http://codingsupply.com/best-standing-desks-programmers/)
 - [5 Great Standing Up Desks for Engineers](https://blog.bliley.com/great-standing-up-desks-engineers)
 - [9 Best Adjustable Standing Desks For 2020](https://www.btod.com/blog/best-standing-desk)
 
-### Medicine
+#### Healthy Monitor
 
-Common
+- [The Best Monitor For Biohackers: Less Eyestrain And Better Cognition](https://www.alexfergus.com/blog/the-best-monitor-for-biohackers)
 
-- Murtagh’s Patient Education 7e
+#### Ergonomic Keyboard
 
-For Back
+#### Ergonomic Mouse
 
-- Treat Your Own Back by Robin McKenzie
-- Low back disorders (2nd, 2007) by Stuart McGill
-- Pain-Free Posture Handbook: 40 Dynamic Easy Exercises to Look and Feel Your Best by Lora Pavilack, Nikki Alstedter, Elizabeth Wisniewski
-- **Back Mechanic** (2015) by Stuart McGill
-- **True to Form: How to Use Foundation Training for Sustained Pain Relief and Everyday Fitness** (2016) by Eric K. Goodman (or Foundation: Redefine Your Core, Conquer Back Pain, and Move with Confidence (2011) by Eric Goodman, Peter Park, Lance Armstrong)
 
-Websites
-
-- [默沙东诊疗手册](https://www.msdmanuals.cn/)
-- [丁香医生](https://dxy.com/)
 
 ### Diet
 
@@ -567,6 +579,25 @@ Meditation
 - Practicing Mindfulness: 75 Essential Meditations to Reduce Stress, Improve Mental Health, and Find Peace in the Everyday by Matthew Sockolov
 
 ### Sleep
+
+### Medicine
+
+Common
+
+- Murtagh’s Patient Education 7e
+
+For Back
+
+- Treat Your Own Back by Robin McKenzie
+- Low back disorders (2nd, 2007) by Stuart McGill
+- Pain-Free Posture Handbook: 40 Dynamic Easy Exercises to Look and Feel Your Best by Lora Pavilack, Nikki Alstedter, Elizabeth Wisniewski
+- **Back Mechanic** (2015) by Stuart McGill
+- **True to Form: How to Use Foundation Training for Sustained Pain Relief and Everyday Fitness** (2016) by Eric K. Goodman (or Foundation: Redefine Your Core, Conquer Back Pain, and Move with Confidence (2011) by Eric Goodman, Peter Park, Lance Armstrong)
+
+Websites
+
+- [默沙东诊疗手册](https://www.msdmanuals.cn/)
+- [丁香医生](https://dxy.com/)
 
 
 ## Others
