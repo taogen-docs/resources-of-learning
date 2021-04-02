@@ -422,15 +422,27 @@ Others
 
 ****
 
-**Management system**
+**Management system scaffolds**
 
-- [BootDo](https://www.oschina.net/p/bootdo) 基于 Springboot 和 Mybatis 的后台管理系统
-- [Guns](https://www.oschina.net/p/guns) 基于SpringBoot,更简洁的后台管理系统
+Recommended
+
+- [BootDo](https://gitee.com/lcg0124/bootdo) 基于 Springboot 和 Mybatis 的后台管理系统
+- [hope-boot](https://github.com/hope-for/hope-boot) (or hope-plus)
+- [RuoYi](https://gitee.com/y_project/RuoYi)
+- [RuoYi-Vue](https://gitee.com/y_project/RuoYi-Vue)
+- [Guns](https://gitee.com/stylefeng/guns) 基于SpringBoot,更简洁的后台管理系统
+- [Jeecg-boot](https://gitee.com/jeecg/jeecg-boot)
+- Cloud
+  - [pig](https://gitee.com/log4j/pig)
+  - [iBase4J](https://gitee.com/iBase4J/iBase4J)
+  - [RuoYi-Cloud](https://gitee.com/y_project/RuoYi-Cloud)
+
+Others
+
+- JeePlus
 - [FEBS](https://www.oschina.net/p/febs) 基于 Spring Boot 的权限管理系统
 - [cms](https://github.com/cms-dev/cms.git)  content management system
 - [crud](https://github.com/zhblue/crud)  万能快速原型系统
-- JeePlus
-- [hope-plus](https://github.com/java-aodeng/hope-plus)
 - [MCMS](https://github.com/ming-soft/MCMS)  Java快速开发平台
 - [funiture](https://github.com/kanwangzjm/funiture)  企业级权限管理系统
 
