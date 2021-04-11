@@ -55,6 +55,10 @@ Courses
 - Crash Course Computer Science. Watching on [YouTube](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) or [Bilibili](https://www.bilibili.com/video/av21376839)
 - CS50's Computer Science for Business Professionals - [edx, Harvard](https://www.edx.org/course/cs50s-computer-science-business-harvardx-cs50b)
 
+Guidance
+
+- [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+
 <br>
 
 <h2><a name="pdesign_t" href="#pdesign_c">Introduction to Program Design</a></h2>
@@ -65,7 +69,7 @@ Books
 
 - Python Programming: An Introduction to Computer Science (3rd, 2016) by John Zelle
 
-Tutorials
+Guidance
 
 - [Teach Yourself Programming in Ten Years - Peter Norvig](http://norvig.com/21-days.html)
 - [如何掌握所有的程序语言 - Wang Yin](https://www.yinwang.org/blog-cn/2017/07/06/master-pl)
