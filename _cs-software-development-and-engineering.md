@@ -396,7 +396,6 @@ Programmer
 - Effective Programming: More Than Writing Code by Jeff Atwood
 - 97 Things Every Programmer Should Know: Collective Wisdom from the Experts by Kevlin Henney
 - A Brief History of Hackerdom by Raymond.  Eric S. Raymond 
-- **Pragmatic Thinking and Learning: Refactor Your Wetware** by Andy Hunt
 - The Productive Programmer by Neal Ford 
 
 Tech Leader
