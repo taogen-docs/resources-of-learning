@@ -14,7 +14,13 @@
 
 ### C
 
+Primary
+
 - **The C Programming Language** (2nd, 1988) by Brian W. Kernighan, Denis M. Ritchie (**TCPL**)
+- C Primer Plus (6th, 2013) by Stephen Prata
+
+Advanced
+
 - Pointers on C (1997) by Kenneth A·Reek 
 - Expert C Programming: Deep C Secrets (1994) by Peter van der Linden 
 - C Traps and Pitfalls (1989) by Andrew Koenig
@@ -175,6 +181,7 @@ Prime
 - **Dive into Python** by Mark Pilgrim
 - Python Essential Reference by David M. Beazley
 - Introducing Python: Modern Computing in Simple Packages (2nd, 2019) by Bill Lubanovic
+- Core Python Programming by Wesley J. Chun
 
 Advanced
 
