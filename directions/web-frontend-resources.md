@@ -11,7 +11,6 @@
 - <a name="js_c" href="#js_t">JavaScript</a>
   - <a name="jq_c" href="#jq_t">jQuery</a>
 - <a name="hcj_c" href="#hcj_t">HTML, CSS and JavaScript</a>
-- <a name="ecma_c" href="#ecma_t">ECMAScript</a>
 - *<a name="ts_c" href="#ts_t">TypeScript</a>
 - <a name="progjs_c" href="#progjs_t">Progressive JS Frameworks</a>
   - <a name="vue_c" href="#vue_t">Vue.js</a>
@@ -124,13 +123,22 @@ Responsible Design
 <h2><a name="js_t" href="#js_c">JavaScript</a></h2>
 <br>
 
-Prime
+ECMAScript
+
+- [Standard ECMA-262 ECMAScript® 2020 Language Specification 11th edition (June 2020)](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
+- [ECMAScript® Language Specification - Standard ECMA-262, 7th Edition / June 2016](https://www.ecma-international.org/ecma-262/7.0/)
+- [ECMAScript 6 — New Features](http://es6-features.org)
+- Understanding Ecmascript 6: The Definitive Guide for JavaScript Developers by Nicholas C. Zakas
+
+Primary
 
 - DOM Scripting: Web Design with JavaScript and the Document Object Model by Jeremy Keith
 - A Smarter Way to Learn JavaScript: The new approach that uses technology to cut your effort in half by Mark Myers 
 - ⭐**JavaScript: The Definitive Guide** (7th, 2020) by David Flanagan (**犀牛书**)
 - **Professional JavaScript for Web Developers** (4th, 2019) by Nicholas C. Zakas (**红宝书**)
 - Beginning JavaScript by Jeremy McPeak 
+- JavaScript: the first 20 years by Allen Wirfs-Brock and Brendan Eich - [Link](https://dl.acm.org/doi/abs/10.1145/3386327)
+  Nobody knows JavaScript better than me. 
 
 Intermediate
 
@@ -210,6 +218,7 @@ Courses
 - [JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour - YouTube](https://www.youtube.com/watch?v=W6NZfCO5SIk)
 
 <br>
+
 <h3><a name="jq_t" href="#jq_c">jQuery</a></h3>
 <br>
 
@@ -232,16 +241,6 @@ Courses
 - [Learn JS](https://www.learn-js.org/)
 - [Web Dev](https://web.dev/)
 - [Full Stack open](https://fullstackopen.com/en/)
-
-<br>
-
-<h2><a name="ecma_t" href="#ecma_c">ECMAScript</a></h2>
-
-<br>
-
-- [Standard ECMA-262 ECMAScript® 2020 Language Specification 11th edition (June 2020)](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
-- [ECMAScript® Language Specification - Standard ECMA-262, 7th Edition / June 2016](https://www.ecma-international.org/ecma-262/7.0/)
-- [ECMAScript 6 — New Features](http://es6-features.org)
 
 <br>
 
@@ -418,8 +417,15 @@ React Ecosystem
 <h2><a name="miniprog_t" href="#miniprog_c">Mini Program</a></h2>
 <br>
 
+Weixin
+
 
 - [微信公共平台 - 小程序]( https://mp.weixin.qq.com/cgi-bin/wx )
+- 微信小程序开发入门与实践 by 雷磊
+
+Others
+
+
 - [QQ 小程序]( https://q.qq.com/#/ )
 - [支付宝小程序 - 开发文档]( https://docs.alipay.com/mini/developer/ )
 

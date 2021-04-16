@@ -324,6 +324,15 @@ Some More
 - Scalability Rules: Principles for Scaling Web Sites by Martin L. Abbott,  Michael T. Fisher
 - Scalability Rules: 50 Principles for Scaling Web Sites by Martin L. Abbott,  Michael T. Fisher
 - 企业IT架构转型之道：阿里巴巴中台战略思想与架构实战 by 钟华
+- 大型网站技术架构 by 李智慧
+- 大型网站系统与JAVA中间件实践 by 曾宪杰
+- 分布式服务架构：原理、设计与实战 by 李艳鹏 / 杨彪 
+- 亿级流量网站架构核心技术 by  张开涛 
+- 架构修炼之道：亿级网关、平台开放、分布式、微服务、容错等核心技术修炼实践 by 王新栋
+- 从零开始学架构 by 李运华
+- 业务架构•应用架构•数据架构实战 by 温昱
+- 软件架构设计：程序员向架构师转型必备 by 温昱
+- 软件架构设计：大型网站技术架构与业务架构融合之道 by 余春龙
 
 New Books
 
@@ -344,11 +353,6 @@ New Books
 - Microservices: Up and Running: A Step-by-Step Guide to Building a Microservice Architecture by Ronnie Mitra and Irakli Nadareishvili
 - Microservices Security in Action by Prabath Siriwardena and Nuwan Dias
 - Production-Ready Microservices by Susan J. Fowler
-- 大型网站技术架构 by 李智慧
-- 大型网站系统与JAVA中间件实践 by 曾宪杰
-- 分布式服务架构：原理、设计与实战 by 李艳鹏 / 杨彪 
-- 亿级流量网站架构核心技术 by  张开涛 
-- 架构修炼之道——亿级网关、平台开放、分布式、微服务、容错等核心技术修炼实践 by 王新栋
 
 
 ### Security Architecture

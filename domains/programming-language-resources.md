@@ -27,25 +27,76 @@ Advanced
 
 ### C++
 
-Must Read
+**Primary**
+
+Introductory, no previous programming experience
+
+- **C++ Primer** (5th, 2012) by Josée Lajoie and Stanley B. Lippman
+- Programming: Principles and Practice Using C++ by Bjarne Stroustrup
+
+Introductory, with previous programming experience
 
 - A Tour of C++ by Bjarne Stroustrup
-- C++ Primer (5th, 2012) by Josée Lajoie and Stanley B. Lippman
-- **The C++ Programming Language** (4th, 2013) by Bjarne Stroustrup
+- Accelerated C++: Practical Programming by Example by Andrew Koenig
+- Essential C++ by Stanley B. Lippman
+
+Best practices
+
+- **Effective C++** (3rd, 2005) by Scott Meyers
+- Effective Modern C++ (2014) by Scott Meyers
+- Effective STL (2001) by Scott Meyers
+
+**Intermediate**
+
+- More Effective C++ (1996) by Scott Meyers
+- Exceptional C++: 47 Engineering Puzzles, Programming Problems, and Solutions by Herb Sutter
+- More Exceptional C++ by Herb Sutter
+- Exceptional C++ Style: 40 New Engineering Puzzles, Programming Problems, and Solutions by Herb Sutter
+- C++ Coding Standards: 101 Rules, Guidelines, and Best Practices by Herb Sutter, Andrei Alexandrescu
+- C++ Templates: The Complete Guide by David Vandevoorde, Nicolai M. Josuttis
+- C++ 17 The Complete Guide by Nicolai M. Josuttis
+- C++ In Action: Industrial Strength Programming Techniques by Bartosz Milewski
+- Functional Programming in C++ by Ivan Čukić
+- Professional C++ by Marc Gregoire, Nicholas A. Solter, Scott J. Kleper
+
+**Advanced**
+
+- Modern C++ Design: Generic Programming and Design Patterns Applied by Andrei Alexandrescu, Scott Meyers, John Vlissides
+- C++ Template Metaprogramming: Concepts, Tools, and Techniques from Boost and Beyond by David Abrahams, Aleksey Gurtovoy
+- C++ Concurrency in Action: Practical Multithreading by Anthony Williams
+- Advanced C++ Metaprogramming by Davide Di Gennaro
+- Large-Scale C++ Volume I: Process and Architecture by John S. Lakos
 - The C++ Standard Library  (2nd, 2012) by Nikolai Josuttis
-- Effective C++ (3rd, 2005) by Scott Meyers
+- STL源码剖析 by 侯捷
+- C++ Network Programming, Volume I: Mastering Complexity with ACE and Patterns
+  by Douglas C. Schmidt, Stephen D. Huston
+- C++ Network Programming, Volume 2: Systematic Reuse with Ace and Frameworks
+  by Douglas C. Schmidt, Stephen D. Huston
+
+Reference Style - All Levels
+
+- **The C++ Programming Language** (4th, 2013) by Bjarne Stroustrup
+
+  [Where do I find the current C or C++ standard documents?](https://stackoverflow.com/questions/81656/where-do-i-find-the-current-c-or-c-standard-documents)
+
+- C++ Standard Library: A Tutorial and Reference by Nicolai M. Josuttis
+
+- Standard C++ Iostreams and Locales: Advanced Programmer's Guide and Reference by Klaus Kreft
+
 - [C++ reference - DOC](https://en.cppreference.com/w/)
 
-Some More
+Classics / Older
 
-- Effective Modern C++ (2014) by Scott Meyers
-- More Effective C++ (1996) by Scott Meyers
-- Effective STL (2001) by Scott Meyers
+- The Design and Evolution of C++ by Bjarne Stroustrup
+- Ruminations on C++: A Decade of Programming Insight and Experience by Andrew Koenig, Barbara E. Moo
+- Advanced C++ Programming Styles and Idioms by James O. Coplien
 - Large-Scale C++ Software Design (1996)  by John Lakos
-- Inside the C++ Object Model (1996) by Stanley B. Lippman
-- Accelerated C++: Practical Programming by Example by Andrew Koenig
-- C++ Concurrency in Action: Practical Multithreading by Anthony Williams
-- Professional C++ by Marc Gregoire, Nicholas A. Solter, Scott J. Kleper
+- **Inside the C++ Object Model** (1996) by Stanley B. Lippman
+- Thinking in C++, Vol. 1: Introduction to Standard C++ (2nd, 2000)  by Bruce Eckel 
+- Thinking in C++, Volume 2: Practical Programming by Bruce Eckel and Chuck Allison
+- Scientific and Engineering C++: An Introduction with Advanced Techniques and Examples by John J. Barton
+- Generic Programming and the STL: Using and Extending the C++ Standard Template Library by Matthew H. Austern
+
 
 Courses
 
@@ -407,6 +458,10 @@ Some More
 
 <br>
 
+General
+
+- 代码的未来 by [日] 松本行弘
+
 Functional Programming
 
 > Haskell, Scala, Clojure
@@ -457,3 +512,7 @@ Object-Oriented
 Virtual Machine
 
 > Lisp, Smalltalk, Pascal, Java
+
+## References
+
+[1] [The Definitive C++ Book Guide and List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
