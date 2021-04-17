@@ -486,6 +486,10 @@ For Programming
 - HTTP: The Definitive Guide (2002) by David Gourley,  Brian Totty, Marjorie Sayer, Anshu Aggarwal, Sailu Reddy
 - Learning Http/2: A Practical Guide for Beginners (2017) by Stephen Ludin,  Javier Garza
 
+HTTPS
+
+- Bulletproof SSL and TLS: The Complete Guide to Deploying Secure Servers and Web Applications by Ivan Ristic
+
 ### Network Security
 
 Reference [information-security-resources - Network Security](directions/information-security-resources.md#netsec_t)
