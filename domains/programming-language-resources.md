@@ -127,6 +127,15 @@ Tutorials
 - [Go by Example](https://gobyexample.com/)
 - [gotraining - GitHub](https://github.com/ardanlabs/gotraining/tree/master/topics/go)
 - [awesome-go - GitHub](https://github.com/avelino/awesome-go)
+- [project-layout - Standard Go Project Layout](https://github.com/golang-standards/project-layout)
+
+Guidance
+
+- [golang-developer-roadmap - GitHub](https://github.com/Alikhll/golang-developer-roadmap)
+
+Projects
+
+- [Projects - go Wiki](https://github.com/golang/go/wiki/Projects)
 
 ### Rust
 
@@ -233,6 +242,9 @@ Prime
 - Python Essential Reference by David M. Beazley
 - Introducing Python: Modern Computing in Simple Packages (2nd, 2019) by Bill Lubanovic
 - Core Python Programming by Wesley J. Chun
+- Python Basics: A Practical Introduction to Python 3 (2021) by David Amos, Dan Bader
+- Python Tricks: A Buffet of Awesome Python Features (2017) by Dan Bader
+- The Quick Python Book (3rd, 2018) by Naomi Ceder
 
 Advanced
 
@@ -246,6 +258,26 @@ Advanced
 - Effective Python: 59 Specific Ways to Write Better Python by Brett Slatkin
 - High Performance Python: Practical Performant Programming for Humans by Ian Ozsvald and Micha Gorelick
 - **Programming Python: Powerful Object-Oriented Programming** by Mark Lutz
+- Cython: A Guide for Python Programmers (2015) by Kurt W Smith
+
+New Books
+
+- Python Workout: 50 ten-minute exercises (2020) by Reuven M. Lerner
+- Tiny Python Projects: 21 small fun projects for Python beginners designed to build programming skill, teach new algorithms and techniques, and introduce software testing (2020) by Ken Youens-Clark 
+- Classic Computer Science Problems in Python (2019) by David Kopec 
+- Beyond the Basic Stuff with Python: Best Practices for Writing Clean Code (2020) by Al Sweigart
+- Python for Excel: A Modern Environment for Automation and Data Analysis (2021) by Felix Zumstein
+- Architecture Patterns with Python: Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices (2020) by Harry Percival, Bob Gregory
+- Python for DevOps: Learn Ruthlessly Effective Automation (2020) by Noah Gift, Kennedy Behrman, Alfredo Deza, Grig Gheorghiu
+- Using Asyncio in Python: Understanding Python's Asynchronous Programming Features (2020) by Caleb Hattingh 
+- Mastering Large Datasets with Python: Parallelize and Distribute Your Python Code (2020) by John T. Wolohan 
+- Practices of the Python Pro (2020) by Dane Hillard
+- Real-World Python: A Hacker's Guide to Solving Problems with Code (2020) by Lee Vaughan
+- Python One-Liners: Write Concise, Eloquent Python Like a Professional (2020) by Christian Mayer
+- Cracking Codes with Python: An Introduction to Building and Breaking Ciphers (2018) by Al Sweigart
+- Impractical Python Projects: Playful Programming Activities to Make You Smarter (2018) by Lee Vaughan
+- Serious Python: Black-Belt Advice on Deployment, Scalability, Testing, and More (2018) by Julien Danjou
+
 
 Some More
 
@@ -258,6 +290,7 @@ Some More
   - Introduction to Machine Learning with Python: A Guide for Data Scientists by Andreas C. Müller and Sarah Guido
   - Deep Learning with Python by François Chollet
   - Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems by Aurélien Géron
+  - Natural Language Processing in Action: Understanding, analyzing, and generating text with Python (2019) by Hobson Lane, Hannes Hapke, Cole Howard
 
 Tutorials
 

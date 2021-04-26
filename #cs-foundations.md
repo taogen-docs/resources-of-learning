@@ -69,6 +69,7 @@ Guidance
 Books
 
 - Python Programming: An Introduction to Computer Science (3rd, 2016) by John Zelle
+- Think Like a Programmer: An Introduction to Creative Problem Solving (2012) by V. Anton Spraul
 
 Guidance
 
@@ -105,6 +106,7 @@ Advanced
 - **Introduction to Algorithms** (3rd, 2009) by Charles E. Leiserson, Clifford Stein, Ronald Rivest, and Thomas H. Cormen (**CLRS**: authors abbreviation)
 - **Algorithms** (2006) by Sanjoy Dasgupta
 - **The Art of Computer Programming** Volumes 1-4 by Donald.E.Knuth (**TAOCP**)
+- Classic Computer Science Problems in Java by David Kopec
 
 For Interview
 
@@ -149,6 +151,7 @@ Prime
 - Introductory Combinatorics (5th, 2017) by Richard A.Brualdi
 - A Friendly Introduction to Number Theory (4th, 2017) by Joseph H.Silverman 
 - Numerical Recipes (3rd, 2007) by William H. Press
+- Math for Programmers (2019) by Paul Orland
 
 Advanced
 
@@ -237,6 +240,8 @@ Prime
 - Code: The Hidden Language of Computer Hardware and Software (1999) by Charles Petzold
 - The Elements of Computing Systems: Building a Modern Computer from First Principles (2005) by Noam Nisan, Shimon Schocken 
 - Introduction to Computing Systems: From Bits and Gates to C and Beyond (2003) by Yale N. Patt and Sanjay J. Patel (**ICS**)
+- How Computers Really Work: A Hands-On Guide to the Inner Workings of the Machine (2020) by Matthew Justice
+- The Secret Life of Programs: Understand Computers -- Craft Better Code (2019) by Jonathan E. Steinhart
 
 Must Read
 

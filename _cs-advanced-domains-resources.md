@@ -16,7 +16,7 @@
 - <a name="ai_c" href="#ai_t">Artificial Intelligence</a>
 - <a name="distsys_c" href="#distsys_t">Distributed Systems</a>
 - <a name="blockchain_c" href="#blockchain_t">Blockchain and Cryptocurrency</a>
-- Cloud Computing and Serverless
+- <a name="cloudcpt_c" href="#cloudcpt_t">Cloud Computing and Serverless</a>
 - Edge Computing
 - Embedded System, IoT and 5G
 - Virtual Reality (VR) and Augmented Reality (AR)
@@ -374,6 +374,18 @@ Reference [Information Security Resources](directions/information-security-resou
 - Learning Spark by Mark Hamstra
 - MapReduce Design Patterns: Building Effective Algorithms and Analytics for Hadoop and Other Systems by Adam Shook and Donald Miner
 
+Big Data Engineering
+
+- The Self-Service Data Roadmap: Democratize Data and Reduce Time to Insight (2002) by Sandeep Uttamchandani
+- Designing Cloud Data Platforms by Danil Zburivsky, Lynda Partner
+- Data Governance: The Definitive Guide: People, Processes, and Tools to Operationalize Data Trustworthiness (2021) by Evren Eryurek, Uri Gilad, Valliappa Lakshmanan, Anita Kibunguchy-Grant, Jessi Ashdown
+- Data Management at Scale: Best Practices for Enterprise Architecture (2020) by Piethein Strengholt
+- The Self-Service Data Roadmap: Democratize Data and Reduce Time to Insight (2020) by Sandeep Uttamchandani 
+- Big Data: Principles and best practices of scalable realtime data systems (2015) by Nathan Marz, James Warren
+- Foundations for Architecting Data Solutions: Managing Successful Data Projects (2018) by Ted Malaska, Jonathan Seidman
+- The Enterprise Big Data Lake: Delivering the Promise of Big Data and Data Science (2019) by Alex Gorelik
+- Data Pipelines Pocket Reference: Moving and Processing Data for Analytics (2021) by James Densmore
+
 <br>
 
 <h2><a name="ai_t" href="#ai_c">Artificial Intelligence</a></h2>
@@ -545,13 +557,20 @@ Middleware - Microservices Collaboration
 Middleware - Microservices Communication (RPC/Message/HTTP)
 
 - Java Message Service by Mark Richards, Richard Monson-Haefel and David A. Chappell
-- Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale by Neha Narkhede, Gwen Shapira, Todd Palino
 - I Heart Logs: Event Data, Stream Processing, and Data Integration by Jay Kreps
 - [gRPC](https://grpc.io/)
 - HTTP REST
 - [RabbitMQ](https://www.rabbitmq.com/)
 - [Apache ActiveMQ](http://activemq.apache.org/)
-- [Apache Kafka](https://kafka.apache.org/)
+- Kafka
+  - [Apache Kafka](https://kafka.apache.org/)
+  - Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale by Neha Narkhede, Gwen Shapira, Todd Palino
+  - Kafka Streams in Action: Real-time apps and microservices with the Kafka Streams API (2018) by Bill Bejeck
+  - Kafka in Action (2020) by Dylan Scott
+  - Event Streams in Action: Real-time event systems with Kafka and Kinesis (2019) by Alexander Dean, Valentin Crettaz
+  - Mastering Kafka Streams and ksqlDB: Building Real-Time Data Systems by Example (2021) by Mitch Seymour
+  - Streaming Data: Understanding the real-time pipeline (2017) by Andrew Psaltis
+  - Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing (2018) by Tyler Akidau, Slava Chernyak, Reuven Lax
 
 Middleware - Database Cluster
 
@@ -589,7 +608,14 @@ Middleware - Database Cluster
 - The End of Money: The story of bitcoin, cryptocurrencies and the blockchain revolution by New Scientist
 - The Age of Cryptocurrency: How Bitcoin and Digital Money Are Challenging the Global Economic Order by Paul Vigna
 
+<br>
 
+<h2><a name="cloudcpt_t" href="#cloudcpt_c">Cloud Computing and Serverless</a></h2>
+
+<br>
+
+- Data Pipelines with Apache Airflow (2021) by Bas P. Harenslak, Julian Rutger de Ruiter
+- Architecting Modern Data Platforms: A Guide to Enterprise Hadoop at Scale (2019) by Jan Kunigk, Ian Buss, Paul Wilkinson, Lars George
 
 <br>
 

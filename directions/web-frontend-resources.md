@@ -12,10 +12,12 @@
   - <a name="jq_c" href="#jq_t">jQuery</a>
 - <a name="hcj_c" href="#hcj_t">HTML, CSS and JavaScript</a>
 - *<a name="ts_c" href="#ts_t">TypeScript</a>
+- <a name="webcpnt_c" href="#webcpnt_t">Web Components</a>
 - <a name="progjs_c" href="#progjs_t">Progressive JS Frameworks</a>
   - <a name="vue_c" href="#vue_t">Vue.js</a>
   - <a name="react_c" href="#react_t">React </a>
   - <a name="angular_c" href="#angular_t">AngularJS </a>
+- <a name="mdweb_c" href="#mdweb_t">Modern Web Frontend</a>
 - <a name="crossplat_c" href="#crossplat_t">Cross-Platform Mobile Applications</a>
   - <a name="flutter_c" href="#flutter_t">Flutter</a>
   - <a name="rn_c" href="#rn_t">React Native</a>
@@ -61,6 +63,8 @@ HTML
 - **HTML5: The Missing Manual** (2nd, 2014) by Matthew MacDonald
 - HTML5 in Action by Rob Crowther, Joe Lennon, Ash Blue
 - **HTML5: The Definitive Guide** (7th, 2013) by Chuck Musciano, Bill Kennedy, Estelle Weyl
+- [HTML - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [HTML Tutorial - w3schools](https://www.w3schools.com/html/default.asp)
 
 CSS
 
@@ -73,6 +77,8 @@ CSS
 - CSS in Depth by Keith J. Grant
 - The Book of CSS3: A Developer's Guide to the Future of Web Design by Peter Gasston
 - CSS Cookbook by Christopher Schmitt
+- [CSS - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [CSS Tutorial - w3schools](https://www.w3schools.com/css/default.asp)
 
 Responsible Design 
 
@@ -133,7 +139,9 @@ ECMAScript
 Primary
 
 - DOM Scripting: Web Design with JavaScript and the Document Object Model by Jeremy Keith
-- A Smarter Way to Learn JavaScript: The new approach that uses technology to cut your effort in half by Mark Myers 
+- A Smarter Way to Learn JavaScript: The new approach that uses technology to cut your effort in half by Mark Myers
+- [JavaScript - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [JavaScript - w3schools](https://www.w3schools.com/js/default.asp)
 - ⭐**JavaScript: The Definitive Guide** (7th, 2020) by David Flanagan (**犀牛书**)
 - **Professional JavaScript for Web Developers** (4th, 2019) by Nicholas C. Zakas (**红宝书**)
 - Beginning JavaScript by Jeremy McPeak 
@@ -144,6 +152,7 @@ Intermediate
 
 - ⭐**Eloquent JavaScript: A Modern Introduction to Programming** (3rd, 2018) by Marijn Haverbeke
 - Speaking JavaScript: An In-Depth Guide for Programmers by Axel Rauschmayer
+- The Joy of JavaScript by Luis Atencio
 
 Advanced
 
@@ -259,6 +268,14 @@ Courses
 
 <br>
 
+<h2><a name="webcpnt_t" href="#webcpnt_c">Web Components</a></h2>
+
+<br>
+
+- Web Components in Action (2019) by Ben Farrell
+
+<br>
+
 <h2><a name="progjs_t" href="#progjs_c">Progressive JS Frameworks</a></h2>
 
 <br>
@@ -322,6 +339,15 @@ React Ecosystem
 - AngularJS by Example by Chandermani
 - AngularJS in Action by Brian Ford, Lukas Ruebbelke
 - Professional AngularJS by Diego Netto and Valeri Karpov
+
+<br>
+
+<h2><a name="mdweb_t" href="#mdweb_c">Modern Web Frontend</a></h2>
+
+<br>
+
+- Micro Frontends in Action (2020) by Michael Geers
+- Frontend Architecture for Design Systems: A Modern Blueprint for Scalable and Sustainable Websites (2016) by Micah Godbolt
 
 <br>
 

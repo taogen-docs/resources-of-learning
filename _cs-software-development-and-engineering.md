@@ -39,6 +39,7 @@ Clean Code
 - Writing Solid Code by Steve Maguire
 - The Art of Readable Code by Dustin Boswell, Trevor Foucher
 - Think Like a Programmer: An Introduction to Creative Problem Solving by V. Anton Spraul
+- Seriously Good Software: Code that works, survives, and wins (2020) by Marco Faella
 - 码出高效：Java开发手册 by 杨冠宝, 高海慧
 - 码农翻身 (2018) by 刘欣
 
@@ -76,11 +77,14 @@ Object-Oriented
 - Head First Object-Oriented Analysis and Design (2006) by Brett D. McLaughlin
 - Object-Oriented Analysis and Design with Applications by Grady Booch
 - Object-Oriented Software Construction by Bertrand Meyer
-- Object Design Style Guide (2020) by Matthias Noback
+- Object Design Style Guide: Powerful techniques for creating flexible, readable, and maintainable object-oriented code in any OO language, from Python to PHP (2020) by Matthias Noback
+- Dependency Injection Principles, Practices, and Patterns (2019) by Mark Seemann, Steven van Deursen
+- The Object-Oriented Thought Process (5th, 2019) by Matt Weisfeld
 
 API Design
 
 - The Design of Web APIs by Arnaud Lauret
+- API Security in Action by Neil Madden
 
 Tutorials
 
@@ -136,6 +140,7 @@ Some More
 - 进化 - 运维技术变革与实践探索 by 赵成
 - DevOps: A Software Architect's Perspective by Len Bass
 - The Practice of Cloud System Administration: Devops and Sre Practices for Web Services, Volume 2 by Thomas A. Limoncelli, Strata R. Chalup, Christina J. Hogan
+- Operations Anti-Patterns, DevOps Solutions (2020) by Jeffery D. Smith
 
 Complexity theory and systems thinking
 
@@ -345,6 +350,11 @@ New Books
 - Kubernetes Patterns: Reusable Elements for Designing Cloud-Native Applications (2019) by Bilgin Ibryam and Roland Huß
 - Cloud Native Infrastructure: Patterns for Scalable Infrastructure and Applications in a Dynamic Environment (2017) by Justin Garrison and Kris Nova
 - Cloud Native: Using Containers, Functions, and Data to Build Next-Generation Applications (2019) by Boris Scholl , Trent Swanson
+- Chaos Engineering: Site reliability through controlled disruption (2021) by Mikolaj Pawlikowski 
+- Chaos Engineering: System Resiliency in Practice (2020) by Casey Rosenthal and Nora Jones
+- Learning Chaos Engineering: Discovering and Overcoming System Weaknesses Through Experimentation (2019) by Russ Miles 
+- Flow Architectures: The Future of Streaming and Event-Driven Integration (2021) by James Urquhart
+- Building Event-Driven Microservices: Leveraging Organizational Data at Scale (2020) by Adam Bellemare
 
 ### Microservices Architecture
 
@@ -353,6 +363,7 @@ New Books
 - Microservices: Up and Running: A Step-by-Step Guide to Building a Microservice Architecture by Ronnie Mitra and Irakli Nadareishvili
 - Microservices Security in Action by Prabath Siriwardena and Nuwan Dias
 - Production-Ready Microservices by Susan J. Fowler
+- Bootstrapping Microservices with Docker, Kubernetes, and Terraform: A project-based guide (2021) by Ashley Davis
 
 
 ### Security Architecture
@@ -429,7 +440,7 @@ For Interview
   - 编程之美 (2008) by 《编程之美》小组
   - 程序员代码面试指南：IT名企算法与数据结构题目最优解 (2015) by 左程云
 - System Design
-  - System Design Interview – An insider’s guide by Alex
+  - System Design Interview – An insider’s guide by Alex Xu
 - Java
   - Elements of Programming Interviews in Java: The Insiders' Guide by Adnan Aziz , Tsung-Hsien Lee
   - Java Programming Interviews Exposed by Noel Markham
