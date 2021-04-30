@@ -495,6 +495,19 @@ General
 
 - 代码的未来 by [日] 松本行弘
 
+Object-Oriented Programming (OOP)
+
+> C++, C#, Java
+
+- Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma, Ralph Johnson, John Vlissides, Richard Helm
+- Object-Oriented Software Construction by Bertrand Meyer
+- The Object-Oriented Thought Process (5th, 2019) by Matt Weisfeld
+- Elegant Objects by Yegor Bugayenko
+- Head First Object-Oriented Analysis and Design: A Brain Friendly Guide to OOA&D (2006) by Brett McLaughlin, Gary Pollice, David West
+- Object-Oriented Analysis and Design with Applications by Grady Booch
+- Object Design Style Guide: Powerful techniques for creating flexible, readable, and maintainable object-oriented code in any OO language, from Python to PHP (2020) by Matthias Noback
+- OOP Concepts Booster : Take Your Coding Skills to the Next Level by Rakesh Singh
+
 Functional Programming
 
 > Haskell, Scala, Clojure
@@ -531,16 +544,6 @@ Garbage Collection
 - Java Performance Companion by Charlie Hunt, Poonam Bajaj, Bengt Rutisson, Monica Beckwith, John Cuthbertson
 - Java Performance Tuning by Jack Shirazi
 - 垃圾回收的算法与实现 by 中村成洋, 相川光 
-
-Object-Oriented
-
-> C++, C#, Java
-
-- Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma, Ralph Johnson, John Vlissides, Richard Helm
-- Object-Oriented Software Construction by Bertrand Meyer
-- The Object-Oriented Thought Process by Matt Weisfeld
-- Elegant Objects by Yegor Bugayenko
-- Head First Object-Oriented Analysis and Design: A Brain Friendly Guide to OOA&D by Brett McLaughlin, Gary Pollice, David West
 
 Virtual Machine
 

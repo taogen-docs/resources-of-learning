@@ -72,15 +72,6 @@ UML
 - UML distilled by Martin Fowler
 - Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and Iterative Development by Craig Larman
 
-Object-Oriented
-
-- Head First Object-Oriented Analysis and Design (2006) by Brett D. McLaughlin
-- Object-Oriented Analysis and Design with Applications by Grady Booch
-- Object-Oriented Software Construction by Bertrand Meyer
-- Object Design Style Guide: Powerful techniques for creating flexible, readable, and maintainable object-oriented code in any OO language, from Python to PHP (2020) by Matthias Noback
-- Dependency Injection Principles, Practices, and Patterns (2019) by Mark Seemann, Steven van Deursen
-- The Object-Oriented Thought Process (5th, 2019) by Matt Weisfeld
-
 API Design
 
 - The Design of Web APIs by Arnaud Lauret

@@ -80,6 +80,7 @@ For SQL
 - SQL Queries for Mere Mortals: A Hands-on Guide to Data Manipulation in SQL by John Viescas
 - SQL Pocket Guide by Jonathan Gennick
 - The Art of SQL by Stéphane Faroult
+- SQL Performance Explained by Markus Winand
 
 For NoSQL
 

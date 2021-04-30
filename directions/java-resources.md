@@ -53,12 +53,13 @@
 - Java in a Nutshell: A Desktop Quick Reference (7th, 2019) by David Flanagan
 - Java Puzzlers by Joshua Bloch, Neal Gafter
 - Think Java: How to Think Like a Computer Scientist by Allen B. Downey
-- Java Cookbook by Ian F. Darwin
+- Java Cookbook: Problems and Solutions for Java Developers (4th, 2020)  by Ian F. Darwin
 - Java Network Programming by Elliotte Rusty Harold
 - 阿里巴巴Java开发手册 by 杨冠宝 
 - 码出高效：Java开发手册 by 杨冠宝 
 - Java Generics and Collections: Speed Up the Java Development Process by Maurice Naftalin
 - Java Security by Scott Oaks
+- Bitter Java by Bruce A. Tate
 
 #### Modern Java Features
 
@@ -66,15 +67,6 @@
 - Modern Java in Action (JDK9) (2nd, 2018) by Raoul-Gabriel Urma, Mario Fusco
 - Java 9 Modularity: Patterns and Practices for Developing Maintainable Applications by Mak, Sander
 - Core Java SE 9 for the Impatient (2nd) by Cay S.Horstmann
-
-#### JVM Languages
-
-> Scala, Groovy, Closure, and Kotlin
-
-- Kotlin in Action by Dmitry Jemerov, Svetlana Isakova
-- Programming in Scala by Martin Odersky
-- Functional Programming in Scala by Rúnar Bjarnason
-- Groovy in Action by Dierk König
 
 #### Concurrency Programming
 
@@ -89,6 +81,24 @@
 - 实战Java高并发程序设计 (2015) by 葛一鸣, 郭超 (8.3)
 - Java并发编程的艺术 (2015)  by 方腾飞,  魏鹏, 程晓明 (7.3)
 - Seven Concurrency Models in Seven Weeks: When Threads Unravel (2014) by  Paul Butcher 
+
+#### Functional Programming
+
+- Mastering Lambdas: Java Programming in a Multicore World by Maurice Naftalin
+- Java 8 Lambdas: Pragmatic Functional Programming by Richard Warburton
+
+#### Object-Oriented Programming
+
+Reference [Programming Language Resources - Programming Paradigms](../domains/programming-language-resources.md#pgmprd_t)
+
+#### JVM Languages
+
+> Scala, Groovy, Closure, and Kotlin
+
+- Kotlin in Action by Dmitry Jemerov, Svetlana Isakova
+- Programming in Scala by Martin Odersky
+- Functional Programming in Scala by Rúnar Bjarnason
+- Groovy in Action by Dierk König
 
 #### JVM Tuning
 
@@ -211,36 +221,56 @@ Java EE
 - 深入分析Java Web技术内幕 by 许令波 
 - Iron-Clad Java: Building Secure Web Applications by Jim Manico, August Detlefsen
 - Professional Java for Web Applications by Nicholas S. Williams
+- Pro JPA 2 in Java EE 8: An In-Depth Guide to Java Persistence APIs by Mike Keith
+- Real World Java EE Patterns--Rethinking Best Practices by Adam Bien
+- The Java EE Architect's Handbook: How to be a successful application architect for Java EE applications by Derek C. Ashmore
+- Effective Enterprise Java by Ted Neward
+
+Java Persistence
+
+- High-Performance Java Persistence by Vlad Mihalcea
+- MyBatis
+  - [MyBatis Documentation](https://mybatis.org/mybatis-3/)
+  - MyBatis Plus Documentation - [HTML](https://baomidou.com/guide/)
+- Hibernate
+  - Java Persistence with Hibernate: Revised Edition of Hibernate in Action by Bauer, Christian
+- Spring Data
+  - Spring Data JPA - Reference Documentation - [HTML](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#reference)
+  - Spring Data: Modern Data Access for Enterprise Java by Mark Pollack, Oliver Gierke, Thomas Risberg
+  - Understanding JPA 2.2: Java Persistence API by Antonio Goncalves
 
 IoC/DI
 
 - [Inversion of control - Wikipedia](https://en.wikipedia.org/wiki/Inversion_of_control)
 - [The Dependency Inversion Principle - Robert C. Martin](https://web.archive.org/web/20041221102842/http://www.objectmentor.com/resources/articles/dip.pdf)
 - [Inversion of Control Containers and the Dependency Injection pattern - Martin Fowler](https://martinfowler.com/articles/injection.html)
+- Dependency Injection Principles, Practices, and Patterns (2019) by Mark Seemann, Steven van Deursen
 
 AOP
 
 - The AspectJ Programming Guide - [DOC](https://www.eclipse.org/aspectj/doc/released/progguide/index.html)
+- AspectJ in Action: Enterprise AOP with Spring Applications (2nd, 2009) by Ramnivas Laddad and Rod Johnson
+- AspectJ Cookbook: Aspect Oriented Solutions to Real-World Problems by Russ Miles
 
 Web Frameworks
 
-- [Spring Framework Reference Documentation 3.2.18 - doc](https://docs.spring.io/spring/docs/3.2.x/spring-framework-reference/html/)
-- [Spring Framework Current Documentation - doc](https://docs.spring.io/spring/docs/current/spring-framework-reference/)
-- [Spring Boot Current Documentation - doc](https://docs.spring.io/spring-boot/docs/current/reference/html/)
-- [Spring Framework libs-release](https://repo.spring.io/libs-release/org/springframework/spring/)
-- **Spring in Action** by Craig Walls
-- **Expert One-On-One J2EE without EJB** by Rod Johnson. It explains the why behind spring as well as the how to use it.
-- Spring 5 Recipes: A Problem-Solution Approach
-- **Spring 揭秘** (2009) by 王福强
-- Spring 3.x企业应用开发实战 by  陈雄华 
-- Spring Boot in Action by Craig Walls
-- Learning Spring Boot 2.0
-
-Java Persistence
-
-- High-Performance Java Persistence by Vlad Mihalcea
-- [MyBatis Documentation](https://mybatis.org/mybatis-3/)
-- Java Persistence with Hibernate: Revised Edition of Hibernate in Action by Bauer, Christian
+- Spring Framework
+  - [Spring Framework Reference Documentation 3.2.18 - doc](https://docs.spring.io/spring/docs/3.2.x/spring-framework-reference/html/)
+  - [Spring Framework Current Documentation - doc](https://docs.spring.io/spring/docs/current/spring-framework-reference/)
+  - [Spring Framework libs-release](https://repo.spring.io/libs-release/org/springframework/spring/)
+  - **Spring in Action** by Craig Walls
+  - **Expert One-On-One J2EE without EJB** by Rod Johnson. It explains the why behind spring as well as the how to use it.
+  - Spring 5 Recipes: A Problem-Solution Approach
+  - **Spring 揭秘** (2009) by 王福强
+  - Spring 3.x企业应用开发实战 by  陈雄华 
+- Spring Boot
+  - [Spring Boot Current Documentation - doc](https://docs.spring.io/spring-boot/docs/current/reference/html/)
+  - Spring Boot in Action by Craig Walls
+  - Learning Spring Boot 2.0
+  - Spring Boot Persistence Best Practices: Optimize Java Persistence Performance in Spring Boot Applications (2020) by Anghel Leonard
+- Spring Cloud
+  - Spring Cloud Documentation, Current Version - [HTML](https://docs.spring.io/spring-cloud/docs/current/reference/htmlsingle), [PDF](https://docs.spring.io/spring-cloud/docs/current/reference/pdf/spring-cloud.pdf)
+  - Spring Microservices in Action by John Carnells
 
 
 Web Services
@@ -268,7 +298,6 @@ Web Services
 - Java Message Service: Creating Distributed Enterprise Applications by Mark Richards
 - Java Web Services: Up and Running by Martin Kalin
 - Restful Java with Jax-RS by Bill Burke
-- Spring Microservices in Action by John Carnells
 - Restlet in Action: Developing RESTful web APIs in Java by Jerome Louvel, Thierry Templier, Thierry Boileau
 
 
@@ -557,7 +586,7 @@ Others
 
 [1] [What are the best programming blogs? - Quora](https://www.quora.com/What-are-the-best-programming-blogs)
 
-
+[2] [Mastering Java - Goodreads](https://www.goodreads.com/list/show/119445.Mastering_Java_)
 
 
 --END--
