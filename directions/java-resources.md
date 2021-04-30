@@ -10,6 +10,9 @@
 
 - I. Guidance & Roadmap
 - II. Books & Documentations
+  - Java SE
+  - Java Data Access
+  - Java Web
 - III. Source Repositories
 - IV. Blog & Community
 - V. Others
@@ -82,6 +85,23 @@
 - Java并发编程的艺术 (2015)  by 方腾飞,  魏鹏, 程晓明 (7.3)
 - Seven Concurrency Models in Seven Weeks: When Threads Unravel (2014) by  Paul Butcher 
 
+#### Network Programming
+
+TCP/IP
+
+- Unix Network Programming by W.Richard Stevens
+
+Socket
+
+- TCP/IP Sockets in Java: Practical Guide for Programmers by Kenneth L. Calvert,  Michael J. Donahoo
+- Java Network Programming by Harold, Elliotte Rusty [3.57, 113]
+
+NIO 
+
+- Java NIO by Hitchens, Ron [3.72, 18]
+- Netty in Action by Maurer, Norman
+- Netty权威指南 by 李林锋 
+
 #### Functional Programming
 
 - Mastering Lambdas: Java Programming in a Multicore World by Maurice Naftalin
@@ -90,6 +110,15 @@
 #### Object-Oriented Programming
 
 Reference [Programming Language Resources - Programming Paradigms](../domains/programming-language-resources.md#pgmprd_t)
+
+#### Reactive Programming
+
+- Reactive Programming with RxJava: Creating Asynchronous, Event-Based Applications by Ben Christensen and Tomasz Nurkiewicz
+- Reactive Programming With Java 9: Build Asynchronous Applications with Rx.Java 2.0, Flow API and Spring WebFlux by Tejaswini Mandar Jog
+- Learning Reactive Programming with Java 8 by Nickolay Tsvetinov
+- Reactive Web Applications: Covers Play, Akka, and Reactive Streams by Manuel Bernhardt
+- Why Reactive ? by Konrad Malawski 
+- Hands-On Reactive Programming in Spring 5: Build cloud-ready, reactive systems with Spring 5 and Project Reactor by Oleh Dokuka
 
 #### JVM Languages
 
@@ -141,20 +170,13 @@ For JRockit JVM
 - [Oracle JRockit Documentation](https://docs.oracle.com/cd/E13150_01/jrockit_jvm/jrockit/webdocs/index.html)
 - [Oracle JRockit - doc](https://docs.oracle.com/cd/E13150_01/jrockit_jvm/jrockit/geninfo/diagnos/aboutjrockit.html)
 
-#### Reactive Programming
-
-- Reactive Programming with RxJava: Creating Asynchronous, Event-Based Applications by Ben Christensen and Tomasz Nurkiewicz
-- Reactive Programming With Java 9: Build Asynchronous Applications with Rx.Java 2.0, Flow API and Spring WebFlux by Tejaswini Mandar Jog
-- Learning Reactive Programming with Java 8 by Nickolay Tsvetinov
-- Reactive Web Applications: Covers Play, Akka, and Reactive Streams by Manuel Bernhardt
-- Why Reactive ? by Konrad Malawski 
-- Hands-On Reactive Programming in Spring 5: Build cloud-ready, reactive systems with Spring 5 and Project Reactor by Oleh Dokuka
-
 #### Utility Library
 
 > JSON, XML, Email, Logging, Datetime, IO.
 
+Unit Test
 
+- Java Testing with Spock by Konstantinos Kapelonis
 
 ### Java Data Access
 
@@ -174,7 +196,21 @@ JDBC Connection Pool
 - [Tomcat JDBC Connection Pool]( https://tomcat.apache.org/tomcat-7.0-doc/jdbc-pool.html )
 - [c3p0]( https://github.com/swaldman/c3p0 )
 
-### Web Development
+Java Persistence
+
+- High-Performance Java Persistence by Vlad Mihalcea
+- Pro JPA 2 in Java EE 8: An In-Depth Guide to Java Persistence APIs by Mike Keith
+- MyBatis
+  - [MyBatis Documentation](https://mybatis.org/mybatis-3/)
+  - MyBatis Plus Documentation - [HTML](https://baomidou.com/guide/)
+- Hibernate
+  - Java Persistence with Hibernate: Revised Edition of Hibernate in Action by Bauer, Christian
+- Spring Data
+  - Spring Data JPA - Reference Documentation - [HTML](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#reference)
+  - Spring Data: Modern Data Access for Enterprise Java by Mark Pollack, Oliver Gierke, Thomas Risberg
+  - Understanding JPA 2.2: Java Persistence API by Antonio Goncalves
+
+### Java Web
 
 #### Protocols
 
@@ -186,14 +222,6 @@ JDBC Connection Pool
 
 - 深入理解Nginx by  陶辉 
 - How Tomcat Works: A Guide to Developing Your Own Java Servlet Container by Budi Kurniawan, Paul Deck 
-
-#### Web Security
-
-Reference [Information Security - Web Security](information-security-resources.md#websec_t)
-
-#### Web Frontend
-
-Reference [Web Frontend Resource](web-frontend-resources.md)
 
 #### Java Web
 
@@ -221,23 +249,9 @@ Java EE
 - 深入分析Java Web技术内幕 by 许令波 
 - Iron-Clad Java: Building Secure Web Applications by Jim Manico, August Detlefsen
 - Professional Java for Web Applications by Nicholas S. Williams
-- Pro JPA 2 in Java EE 8: An In-Depth Guide to Java Persistence APIs by Mike Keith
 - Real World Java EE Patterns--Rethinking Best Practices by Adam Bien
 - The Java EE Architect's Handbook: How to be a successful application architect for Java EE applications by Derek C. Ashmore
 - Effective Enterprise Java by Ted Neward
-
-Java Persistence
-
-- High-Performance Java Persistence by Vlad Mihalcea
-- MyBatis
-  - [MyBatis Documentation](https://mybatis.org/mybatis-3/)
-  - MyBatis Plus Documentation - [HTML](https://baomidou.com/guide/)
-- Hibernate
-  - Java Persistence with Hibernate: Revised Edition of Hibernate in Action by Bauer, Christian
-- Spring Data
-  - Spring Data JPA - Reference Documentation - [HTML](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#reference)
-  - Spring Data: Modern Data Access for Enterprise Java by Mark Pollack, Oliver Gierke, Thomas Risberg
-  - Understanding JPA 2.2: Java Persistence API by Antonio Goncalves
 
 IoC/DI
 
@@ -272,6 +286,10 @@ Web Frameworks
   - Spring Cloud Documentation, Current Version - [HTML](https://docs.spring.io/spring-cloud/docs/current/reference/htmlsingle), [PDF](https://docs.spring.io/spring-cloud/docs/current/reference/pdf/spring-cloud.pdf)
   - Spring Microservices in Action by John Carnells
 
+Web Security
+
+- Spring Security
+  - Spring Security in Action (2020) by Laurentiu Spilca
 
 Web Services
 
@@ -300,36 +318,17 @@ Web Services
 - Restful Java with Jax-RS by Bill Burke
 - Restlet in Action: Developing RESTful web APIs in Java by Jerome Louvel, Thierry Templier, Thierry Boileau
 
-
-
 Tutorials
 
 - [Baeldung - Java, Spring and Web Development Tutorials](https://www.baeldung.com/)
 
-
-
-### Network Programming
-
-#### TCP/IP
-
-- Unix Network Programming by W.Richard Stevens
-
-#### Socket
-
-- TCP/IP Sockets in Java: Practical Guide for Programmers by Kenneth L. Calvert,  Michael J. Donahoo
-- Java Network Programming by Harold, Elliotte Rusty [3.57, 113]
-
-#### NIO 
-
-- Java NIO by Hitchens, Ron [3.72, 18]
-- Netty in Action by Maurer, Norman
-- Netty权威指南 by 李林锋 
-
 ### Web Security
 
-Spring Security
+Reference [Information Security - Web Security](information-security-resources.md#websec_t)
 
-- Spring Security in Action (2020) by Laurentiu Spilca
+### Web Frontend
+
+Reference [Web Frontend Resource](web-frontend-resources.md)
 
 ### Data Storage
 
@@ -342,10 +341,6 @@ Reference [Software Development and Engineering](../_cs-software-development-and
 ### Distributed System
 
 Reference [CS Advanced Domains Resources - Distributed Systems](../_cs-advanced-domains-resources.md#distsys_t)
-
-### Test
-
-- Java Testing with Spock by Konstantinos Kapelonis
 
 
 ##  III. Source Repositories

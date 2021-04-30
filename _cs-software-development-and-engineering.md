@@ -8,19 +8,26 @@
 
 ### Content
 
-- <a name="code_c" href="#code_t">Code</a>
-- <a name="designpatterns_c" href="#designpatterns_t">Design Patterns</a>
-- <a name="test_c" href="#test_t">Test</a>
-- <a name="devops_c" href="#devops_t">DevOps</a>
-- <a name="devtools_c" href="#devtools_t">Development Tools</a>
-- <a name="lowcode_c" href="#lowcode_t">Low-Code and No-Code</a>
-- <a name="softeng_c" href="#softeng_t">Software Engineering</a>
-- <a name="sre_c" href="#sre_t">SRE</a>
-- <a name="archdes_c" href="#archdes_t">Architecture Design</a>
-- <a name="career_c" href="#career_t">Career</a>
-- <a name="law_c" href="#law_t">Law</a>
-- <a name="health_c" href="#health_t">Health</a>
-- Remote Work (Work From Home)
+- Part I: Software Development
+  - <a name="code_c" href="#code_t">Code</a>
+  - <a name="devtools_c" href="#devtools_t">Development Tools</a>
+  - <a name="lowcode_c" href="#lowcode_t">Low-Code and No-Code</a>
+- Part II: Software Design
+  - <a name="designpatterns_c" href="#designpatterns_t">Design Patterns</a>
+  - <a name="archdes_c" href="#archdes_t">Architecture Design</a>
+- Part III: Software Operations & Maintenance
+  - <a name="devops_c" href="#devops_t">DevOps</a>
+  - <a name="sre_c" href="#sre_t">SRE</a>
+- Part IV: Software Engineering & Project Management
+  - <a name="softeng_c" href="#softeng_t">Software Engineering</a>
+  - <a name="test_c" href="#test_t">Software Test</a>
+- Part V: Others
+  - <a name="career_c" href="#career_t">Career</a>
+  - <a name="law_c" href="#law_t">Law</a>
+  - <a name="health_c" href="#health_t">Health</a>
+  - Remote Work (Work From Home)
+
+## Part I: Software Development
 
 <br>
 
@@ -55,127 +62,8 @@ Performance
 
 <br>
 
-<h2><a name="designpatterns_t" href="#designpatterns_c">Design Patterns</a></h2>
-<br>
-
-Design Patterns
-
-- **Design Patterns: Elements of Reusable Object-Oriented Software** (1994) by Erich Gamma, Richard Helm,  Ralph Johnson, John Vlissides
-- Head First Design Patterns (2004) by Elisabeth Freeman
-- **Agile Software Development, Principles, Patterns, and Practices** by Robert C. Martin
-- **A Philosophy of Software Design** by John Ousterhout
-- Beautiful Code: Leading Programmers Explain How They Think by Andy Oram, Greg Wilson
-- Software Design for Flexibility: How to Avoid Programming Yourself Into a Corner (2021) by Chris Hanson, Gerald Jay Sussman
-
-UML
-
-- UML distilled by Martin Fowler
-- Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and Iterative Development by Craig Larman
-
-API Design
-
-- The Design of Web APIs by Arnaud Lauret
-- API Security in Action by Neil Madden
-
-Tutorials
-
-- [Design Patterns in Java Tutorial - Tutorialspoint](https://www.tutorialspoint.com/design_pattern/index.htm)
-
-<br>
-
-<h2><a name="test_t" href="#test_c">Test</a></h2>
-<br>
-
-- **Test Driven Development: By Example** (2002) by  Kent Beck 
-- **Growing Object-Oriented Software, Guided by Tests** by Steve Freeman
-- Unit Testing: Principles, Practices, and Patterns by Vladimir Khorikov
-- Effective Unit Testing by Lasse Koskela
-- xUnit Test Patterns: Refactoring Test Code by Gerard Meszaros
-- The RSpec Book by David Chelimsky
-- The Art of Unit Testing: With Examples in .NET by Roy Osherove
-
-
-
-<br>
-
-<h2><a name="devops_t" href="#devops_c">DevOps</a></h2>
-<br>
-
-Must Read
-
-
-- **The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win** by Gene Kim, Kevin Behr, George Spafford
-- **Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation** by Jez Humble 
-- **The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations** (2016) by Gene Kim , Patrick Debois
-- **Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations** (2018) by Nicole Forsgren PhD , Jez Humble
-- **The Unicorn Project** by Gene Kim
-- **Release It!: Design and Deploy Production-Ready Software** by Michael T.Nygard 
-- **The Goal: A Process of Ongoing Improvement** by Eliyahu M. Goldratt
-- Beyond the Goal: Eliyahu Goldratt Speaks on the Theory of Constraints by Eliyahu M. Goldratt
-- **It's Not Luck** by Eliyahu M. Goldratt
-- Making Work Visible: Exposing Time Theft to Optimize Work & flow by Dominica Degrandis
-
-Some More
-
-- Web Operations: Keeping the Data on Time by John Allspaw
-- The Art Of Business Value by Mark Schwartz 
-- The Visible Ops Handbook: Starting ITIL in 4 Practical Steps by Kevin Behr
-- Infrastructure as Code: Managing Servers in the Cloud by Kief Morris 
-- Effective Devops: Building a Culture of Collaboration, Affinity, and Tooling at Scale by Jennifer Davis
-- Beyond The Phoenix Project: The Origins and Evolution Of DevOps by Gene Kim
-- The DevOps 2.0 Toolkit: Automating the Continuous Deployment Pipeline with Containerized Microservices by Viktor Farcic
-- Web Operations: Keeping the Data on Time by John Allspaw
-- A Seat at the Table by Mark Schwartz
-- Devops for the Modern Enterprise: Winning Practices to Transform Legacy It Organizations by Mirco Hering
-- Securing DevOps: Security in the Cloud by Julien Vehent
-- 进化 - 运维技术变革与实践探索 by 赵成
-- DevOps: A Software Architect's Perspective by Len Bass
-- The Practice of Cloud System Administration: Devops and Sre Practices for Web Services, Volume 2 by Thomas A. Limoncelli, Strata R. Chalup, Christina J. Hogan
-- Operations Anti-Patterns, DevOps Solutions (2020) by Jeffery D. Smith
-
-Complexity theory and systems thinking
-
-- **Antifragile: Things that Gain from Disorder** by Nassim Nicholas Taleb
-- Drift into Failure: From Hunting Broken Components to Understanding Complex Systems by Sidney Dekker
-- The Logical Thinking Process: A Systems Approach to Complex Problem Solving by H. William Dettmer
-
-Jenkins
-
-- Jenkins 2: Up and Running: Evolve Your Deployment Pipeline for Next Generation Automation by Brent Laster
-- Jenkins: The Definitive Guide by John Smart
-- Learning Continuous Integration with Jenkins by Nikhil Pathania
-
-Container
-
-- Docker
-  - **Docker in Action** by Jeff Nickoloff
-  - **Docker Deep Dive** by Nigel Poulton
-  - Docker in Practice by Ian Miell, Aidan Hobson Sayers
-  - Docker: Up & Running: Shipping Reliable Containers in Production by Sean P. Kane
-  - Continuous Delivery with Docker and Jenkins by Rafal Leszko
-- Kubernetes 
-  - Kubernetes in Action by Marko Luksa
-  - **The Kubernetes Book** by Nigel Poulton
-  - Kubernetes: Up and Running: Dive into the Future of Infrastructure (2nd, 2019) by Brendan Burns , Joe Beda
-  - Production Kubernetes: Building Successful Application Platforms (2021) by Josh Rosso, Rich Lander, Alex Brand, John Harris
-  - Kubernetes Patterns: Reusable Elements for Designing Cloud-Native Applications (2019)  by Bilgin Ibryam, Roland Huß
-  - Kubernetes Best Practices: Blueprints for Building Successful Applications on Kubernetes (2019) by Brendan Burns, Eddie Villalba, Dave Strebel, Lachlan Evenson
-  - Programming Kubernetes: Developing Cloud-Native Applications (2019) by Michael Hausenblas, Stefan Schimanski
-  - Cloud Native DevOps with Kubernetes: Building, Deploying, and Scaling Modern Applications in the Cloud (2019) by John Arundel, Justin Domingus
-  - Kubernetes Operators: Automating the Container Orchestration Platform (2020) by Jason Dobies, Joshua Wood
-  - Managing Kubernetes: Operating Kubernetes Clusters in the Real World (2018) by Brendan Burns, Craig Tracey 
-
-Others
-
-- gRPC: Up and Running: Building Cloud Native Applications with Go and Java for Docker and Kubernetes by Kasun Indrasiri and Danesh Kuruppu
-- Prometheus: Up & Running: Infrastructure and Application Performance Monitoring by Brian Brazil 
-- Terraform: Up & Running: Writing Infrastructure as Code by Yevgeniy Brikman 
-
-
-
-<br>
-
 <h2><a name="devtools_t" href="#devtools_c">Development Tools</a></h2>
+
 <br>
 
 ### Git
@@ -200,99 +88,50 @@ Others
 - [Google AppSheet](https://www.appsheet.com/)
 
 <br>
-<h2><a name="softeng_t" href="#softeng_c">Software Engineering</a></h2>
-<br>
 
-### Software Engineering
-
-- **Software Engineering** (10th, 2015) by Ian Sommerville
-- **Software Engineering at Google: Lessons Learned from Programming Over Time** (2020) by Titus Winters, Tom Manshreck, Hyrum Wright
-- **Managing Humans: Biting and Humorous Tales of a Software Engineering Manager** by Michael Lopp
-- Software Engineering: A Practitioner's Approach by Roger S. Pressman
-- The Essentials of Modern Software Engineering by Ivar Jacobson, Harold "Bud" Lawson, Pan-Wei Ng, Paul E. McMahon, Michael Goedicke
-- The Essence of Software Engineering by Volker Gruhn and Rüdiger Striemer
-- Become an Effective Software Engineering Manager: How to Be the Leader Your Development Team Needs by Dr. Stanier, James
-
-### Software Development
-
-- **The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win** by Gene Kim, Kevin Behr, George Spafford
-- **The Unicorn Project** by Gene Kim
-- Code Ahead: Volume 1 (2018) by Yegor Bugayenko
-
-### Team & Agile
-
-Must Read
-
-- **Extreme Programming Explained: Embrace Change** by Kent Beck
-- **The Mythical Man-Month: Essays on Software Engineering** by Jr·Frederick P·Brooks 
-- **Peopleware: Productive Projects and Teams** by Tom DeMarco
-- **Clean Agile: Back to Basics** (2019) by Robert C. Martin
-- **Scrum and XP from the Trenches** by Henrik Kniberg
-- **Scrum: The Art of Doing Twice the Work in Half the Time** by Jeff Sutherland
-- **The Goal: A Process of Ongoing Improvement** by Eliyahu M. Goldratt
-- **Lean from the Trenches** by Henrik Kniberg
-- **Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency** by Tom DeMarco
-- **The Software Craftsman: Professionalism, Pragmatism, Pride** by Sandro Mancuso 
-- **Implementing Lean Software Development: From Concept to Cash** by Mary Poppendieck
-- **The Art of Agile Development** by James Shore, Shane Warden 
-- **The Agile Samurai** by Jonathan Rasmusson
-- Timeless Laws of Software Development by Jerry Fitzpatrick
-- Rapid Development: Taming Wild Software Schedules by Steve McConnell
-- Lean thinking  banish waste and creat wealth in your corporation by James P.Womack 
-- Learning Agile by Andrew Stellman
-- Ship It! by Jared Richardson
-- Working with Coders: A Guide to Software Development for the Perplexed Non-Techie by Patrick Gleeson
-
-Organization Management
-
-- **Toyota Kata: Managing People for Improvement, Adaptiveness and Superior Results** by Mike Rother
-- **Lean Enterprise: How High Performance Organizations Innovate at Scale** by Jez Humble
-- Fearless Change: Patterns for Introducing New Ideas by Mary Lynn Manns
-
-Business
-
-- **The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses** by Eric Ries
-- **Kanban: Successful Evolutionary Change for Your Technology Business** by David J. Anderson
-- Necessary But Not Sufficient: A Theory Of Constraints Business Novel by Eliyahu M. Goldratt
-
-
-Some More
-
-- Specification by Example by Gojko Adzic
-- Agile Retrospectives：Making Good Teams Great by Esther Derby , Diana Larsen,Ken Schwaber
-- Coaching Agile Teams: A Companion for ScrumMasters,Agile Coaches, and Project Managers in Transition by Lyssa Adkins
-- Agile Project Management with Scrum by Ken Schwaber
-- Succeeding with Agile:Software development using Scrum by Mike Cohn
-- Agile Estimating and Planning by Mike Cohn
-- Kanban: Successful Evolutionary Change for Your Technology Business by David J.Anderson
-- User Stories Applied:For Agile Software Development by Mike Cohn
-- User Story Mapping Building Better Products using Agile Software Design by Jeff Patton
-- Manage Your Project Portfolio by Johanna Rothman 
+## Part II: Software Design
 
 <br>
 
-<h2><a name="sre_t" href="#sre_c">SRE</a></h2>
+<h2><a name="designpatterns_t" href="#designpatterns_c">Design Patterns</a></h2>
 <br>
 
-- **Site Reliability Engineering: How Google Runs Production Systems** by Betsy Beyer
-- The Site Reliability Workbook: Practical Ways to Implement SRE
-- Seeking SRE: Conversations About Running Production Systems at Scale by David N. Blank-Edelman
-- The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations
-- Infrastructure as Code: Managing Servers in the Cloud by Kief Morris
-- Systems Performance: Enterprise and the Cloud by Brendan Gregg
-- Web Operations: Keeping the Data On Time by Jesse Robbins and John Allspaw
-- Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems by Martin Kleppmann
-- Database Reliability Engineering: Designing and Operating Resilient Database Systems by Charity Majors and Laine Campbell
-- Practical Monitoring: Effective Strategies for the Real World by Mike Julian
-- Building Microservices: Designing Fine-Grained Systems by Sam Newman
-- Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services by Brendan Burns
+Design Patterns
 
+- **Design Patterns: Elements of Reusable Object-Oriented Software** (1994) by Erich Gamma, Richard Helm,  Ralph Johnson, John Vlissides
+- Head First Design Patterns (2004) by Elisabeth Freeman
+- **Agile Software Development, Principles, Patterns, and Practices** by Robert C. Martin
 
+UML
+
+- UML distilled by Martin Fowler
+- Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and Iterative Development by Craig Larman
+
+OOP
+
+Reference [programming-language-resources - Programming Paradigms](domains/programming-language-resources.md#pgmprd_c)
+
+API Design
+
+- The Design of Web APIs by Arnaud Lauret
+- API Security in Action by Neil Madden
+
+Tutorials
+
+- [Design Patterns in Java Tutorial - Tutorialspoint](https://www.tutorialspoint.com/design_pattern/index.htm)
 
 <br>
 
 <h2><a name="archdes_t" href="#archdes_c">Architecture Design</a></h2>
+
 <br>
+
+### Software Design
+
+- **A Philosophy of Software Design** by John Ousterhout
+- **Thinking in Systems: A Primer** (2008) by Donella H. Meadows, Diana Wright
+- Beautiful Code: Leading Programmers Explain How They Think by Andy Oram, Greg Wilson
+- Software Design for Flexibility: How to Avoid Programming Yourself Into a Corner (2021) by Chris Hanson, Gerald Jay Sussman
 
 ### Application Architecture
 
@@ -302,7 +141,6 @@ Some More
 - **Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems** (2017) by Martin Kleppmann
 - **Implementing Domain-Driven Design** (2013) by Vaughn Vernon
 - **Clean Architecture** (2017) by Robert Cecil Martin
-- **Thinking in Systems: A Primer** (2008) by Donella H. Meadows, Diana Wright
 - **Information Architecture: For the Web and Beyond. Designing Large-scale Web Sites** (4th, 2015) by Louis Rosenfeld , Peter Morville
 - Domain-Driven Design Distilled (2016) by Vaughn Vernon
 - The Design of Design: Essays from a Computer Scientist (2010) by Frederick P. Brooks Jr
@@ -376,7 +214,198 @@ Articles
 - [WEB APPLICATION ARCHITECTURE: THE BASICS](https://www.intellectsoft.net/blog/web-application-architecture/)
 - [Web Application Architecture](https://medium.com/existek/web-application-architecture-da77ea0cb520)
 
+<br>
 
+## Part III: Software Operations & Maintenance
+
+<br>
+
+<h2><a name="devops_t" href="#devops_c">DevOps</a></h2>
+
+<br>
+
+Must Read
+
+
+- **The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win** by Gene Kim, Kevin Behr, George Spafford
+- **Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation** by Jez Humble 
+- **The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations** (2016) by Gene Kim , Patrick Debois
+- **Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations** (2018) by Nicole Forsgren PhD , Jez Humble
+- **The Unicorn Project** by Gene Kim
+- **Release It!: Design and Deploy Production-Ready Software** by Michael T.Nygard 
+- **The Goal: A Process of Ongoing Improvement** by Eliyahu M. Goldratt
+- Beyond the Goal: Eliyahu Goldratt Speaks on the Theory of Constraints by Eliyahu M. Goldratt
+- **It's Not Luck** by Eliyahu M. Goldratt
+- Making Work Visible: Exposing Time Theft to Optimize Work & flow by Dominica Degrandis
+
+Some More
+
+- Web Operations: Keeping the Data on Time by John Allspaw
+- The Art Of Business Value by Mark Schwartz 
+- The Visible Ops Handbook: Starting ITIL in 4 Practical Steps by Kevin Behr
+- Infrastructure as Code: Managing Servers in the Cloud by Kief Morris 
+- Effective Devops: Building a Culture of Collaboration, Affinity, and Tooling at Scale by Jennifer Davis
+- Beyond The Phoenix Project: The Origins and Evolution Of DevOps by Gene Kim
+- The DevOps 2.0 Toolkit: Automating the Continuous Deployment Pipeline with Containerized Microservices by Viktor Farcic
+- Web Operations: Keeping the Data on Time by John Allspaw
+- A Seat at the Table by Mark Schwartz
+- Devops for the Modern Enterprise: Winning Practices to Transform Legacy It Organizations by Mirco Hering
+- Securing DevOps: Security in the Cloud by Julien Vehent
+- 进化 - 运维技术变革与实践探索 by 赵成
+- DevOps: A Software Architect's Perspective by Len Bass
+- The Practice of Cloud System Administration: Devops and Sre Practices for Web Services, Volume 2 by Thomas A. Limoncelli, Strata R. Chalup, Christina J. Hogan
+- Operations Anti-Patterns, DevOps Solutions (2020) by Jeffery D. Smith
+
+Complexity theory and systems thinking
+
+- **Antifragile: Things that Gain from Disorder** by Nassim Nicholas Taleb
+- Drift into Failure: From Hunting Broken Components to Understanding Complex Systems by Sidney Dekker
+- The Logical Thinking Process: A Systems Approach to Complex Problem Solving by H. William Dettmer
+
+Jenkins
+
+- Jenkins 2: Up and Running: Evolve Your Deployment Pipeline for Next Generation Automation by Brent Laster
+- Jenkins: The Definitive Guide by John Smart
+- Learning Continuous Integration with Jenkins by Nikhil Pathania
+
+Container
+
+- Docker
+  - **Docker in Action** by Jeff Nickoloff
+  - **Docker Deep Dive** by Nigel Poulton
+  - Docker in Practice by Ian Miell, Aidan Hobson Sayers
+  - Docker: Up & Running: Shipping Reliable Containers in Production by Sean P. Kane
+  - Continuous Delivery with Docker and Jenkins by Rafal Leszko
+- Kubernetes 
+  - Kubernetes in Action by Marko Luksa
+  - **The Kubernetes Book** by Nigel Poulton
+  - Kubernetes: Up and Running: Dive into the Future of Infrastructure (2nd, 2019) by Brendan Burns , Joe Beda
+  - Production Kubernetes: Building Successful Application Platforms (2021) by Josh Rosso, Rich Lander, Alex Brand, John Harris
+  - Kubernetes Patterns: Reusable Elements for Designing Cloud-Native Applications (2019)  by Bilgin Ibryam, Roland Huß
+  - Kubernetes Best Practices: Blueprints for Building Successful Applications on Kubernetes (2019) by Brendan Burns, Eddie Villalba, Dave Strebel, Lachlan Evenson
+  - Programming Kubernetes: Developing Cloud-Native Applications (2019) by Michael Hausenblas, Stefan Schimanski
+  - Cloud Native DevOps with Kubernetes: Building, Deploying, and Scaling Modern Applications in the Cloud (2019) by John Arundel, Justin Domingus
+  - Kubernetes Operators: Automating the Container Orchestration Platform (2020) by Jason Dobies, Joshua Wood
+  - Managing Kubernetes: Operating Kubernetes Clusters in the Real World (2018) by Brendan Burns, Craig Tracey 
+
+Others
+
+- gRPC: Up and Running: Building Cloud Native Applications with Go and Java for Docker and Kubernetes by Kasun Indrasiri and Danesh Kuruppu
+- Prometheus: Up & Running: Infrastructure and Application Performance Monitoring by Brian Brazil 
+- Terraform: Up & Running: Writing Infrastructure as Code by Yevgeniy Brikman 
+
+<br>
+
+<h2><a name="sre_t" href="#sre_c">SRE</a></h2>
+
+<br>
+
+- **Site Reliability Engineering: How Google Runs Production Systems** by Betsy Beyer
+- The Site Reliability Workbook: Practical Ways to Implement SRE
+- Seeking SRE: Conversations About Running Production Systems at Scale by David N. Blank-Edelman
+- The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations
+- Infrastructure as Code: Managing Servers in the Cloud by Kief Morris
+- Systems Performance: Enterprise and the Cloud by Brendan Gregg
+- Web Operations: Keeping the Data On Time by Jesse Robbins and John Allspaw
+- Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems by Martin Kleppmann
+- Database Reliability Engineering: Designing and Operating Resilient Database Systems by Charity Majors and Laine Campbell
+- Practical Monitoring: Effective Strategies for the Real World by Mike Julian
+- Building Microservices: Designing Fine-Grained Systems by Sam Newman
+- Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services by Brendan Burns
+
+<br>
+
+## Part IV: Software Engineering & Project Management
+
+<br>
+
+<h2><a name="softeng_t" href="#softeng_c">Software Engineering</a></h2>
+
+<br>
+
+### Software Engineering
+
+- **Software Engineering** (10th, 2015) by Ian Sommerville
+- **Software Engineering at Google: Lessons Learned from Programming Over Time** (2020) by Titus Winters, Tom Manshreck, Hyrum Wright
+- **Managing Humans: Biting and Humorous Tales of a Software Engineering Manager** by Michael Lopp
+- Software Engineering: A Practitioner's Approach by Roger S. Pressman
+- The Essentials of Modern Software Engineering by Ivar Jacobson, Harold "Bud" Lawson, Pan-Wei Ng, Paul E. McMahon, Michael Goedicke
+- The Essence of Software Engineering by Volker Gruhn and Rüdiger Striemer
+- Become an Effective Software Engineering Manager: How to Be the Leader Your Development Team Needs by Dr. Stanier, James
+
+### Software Development
+
+- **The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win** by Gene Kim, Kevin Behr, George Spafford
+- **The Unicorn Project** by Gene Kim
+- Code Ahead: Volume 1 (2018) by Yegor Bugayenko
+
+### Team & Agile
+
+Must Read
+
+- **Extreme Programming Explained: Embrace Change** by Kent Beck
+- **The Mythical Man-Month: Essays on Software Engineering** by Jr·Frederick P·Brooks 
+- **Peopleware: Productive Projects and Teams** by Tom DeMarco
+- **Clean Agile: Back to Basics** (2019) by Robert C. Martin
+- **Scrum and XP from the Trenches** by Henrik Kniberg
+- **Scrum: The Art of Doing Twice the Work in Half the Time** by Jeff Sutherland
+- **The Goal: A Process of Ongoing Improvement** by Eliyahu M. Goldratt
+- **Lean from the Trenches** by Henrik Kniberg
+- **Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency** by Tom DeMarco
+- **The Software Craftsman: Professionalism, Pragmatism, Pride** by Sandro Mancuso 
+- **Implementing Lean Software Development: From Concept to Cash** by Mary Poppendieck
+- **The Art of Agile Development** by James Shore, Shane Warden 
+- **The Agile Samurai** by Jonathan Rasmusson
+- Timeless Laws of Software Development by Jerry Fitzpatrick
+- Rapid Development: Taming Wild Software Schedules by Steve McConnell
+- Lean thinking  banish waste and creat wealth in your corporation by James P.Womack 
+- Learning Agile by Andrew Stellman
+- Ship It! by Jared Richardson
+- Working with Coders: A Guide to Software Development for the Perplexed Non-Techie by Patrick Gleeson
+
+Organization Management
+
+- **Toyota Kata: Managing People for Improvement, Adaptiveness and Superior Results** by Mike Rother
+- **Lean Enterprise: How High Performance Organizations Innovate at Scale** by Jez Humble
+- Fearless Change: Patterns for Introducing New Ideas by Mary Lynn Manns
+
+Business
+
+- **The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses** by Eric Ries
+- **Kanban: Successful Evolutionary Change for Your Technology Business** by David J. Anderson
+- Necessary But Not Sufficient: A Theory Of Constraints Business Novel by Eliyahu M. Goldratt
+
+
+Some More
+
+- Specification by Example by Gojko Adzic
+- Agile Retrospectives：Making Good Teams Great by Esther Derby , Diana Larsen,Ken Schwaber
+- Coaching Agile Teams: A Companion for ScrumMasters,Agile Coaches, and Project Managers in Transition by Lyssa Adkins
+- Agile Project Management with Scrum by Ken Schwaber
+- Succeeding with Agile:Software development using Scrum by Mike Cohn
+- Agile Estimating and Planning by Mike Cohn
+- Kanban: Successful Evolutionary Change for Your Technology Business by David J.Anderson
+- User Stories Applied:For Agile Software Development by Mike Cohn
+- User Story Mapping Building Better Products using Agile Software Design by Jeff Patton
+- Manage Your Project Portfolio by Johanna Rothman 
+
+<br>
+
+<h2><a name="test_t" href="#test_c">Software Test</a></h2>
+
+<br>
+
+- **Test Driven Development: By Example** (2002) by  Kent Beck 
+- **Growing Object-Oriented Software, Guided by Tests** by Steve Freeman
+- Unit Testing: Principles, Practices, and Patterns by Vladimir Khorikov
+- Effective Unit Testing by Lasse Koskela
+- xUnit Test Patterns: Refactoring Test Code by Gerard Meszaros
+- The RSpec Book by David Chelimsky
+- The Art of Unit Testing: With Examples in .NET by Roy Osherove
+
+<br>
+
+## Part V: Others
 
 
 <br>
