@@ -587,6 +587,7 @@ Middleware - Database Cluster
 
 ### Blockchain
 
+- [Blockchain - Wikipedia](https://en.wikipedia.org/wiki/Blockchain)
 - The Internet of Money by Andreas M. Antonopoulos
 - Mastering Ethereum: Building Smart Contracts and Dapps by Andreas M Antonopoulos
 - Blockchain Basics: A Non-Technical Introduction in 25 Steps by Daniel Drescher
@@ -595,8 +596,11 @@ Middleware - Database Cluster
 - Ethereum: Blockchains, Digital Assets, Smart Contracts, Decentralized Autonomous Organizations by Henning Diedrich
 - The Business Blockchain: Promise, Practice, and Application of the Next Internet Technology by William Mougayar
 
-### Bitcoin
+### Cryptocurrencies
 
+#### Bitcoin
+
+- Bitcoin: A Peer-to-Peer Electronic Cash System [PDF](https://bitcoin.org/bitcoin.pdf)
 - Mastering Bitcoin: Unlocking Digital Cryptocurrencies by Andreas Antonopoulos
 - Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction by Arvind Narayanan
 - Programming Bitcoin: Learn How to Program Bitcoin from Scratch by Jimmy Song
@@ -608,6 +612,25 @@ Middleware - Database Cluster
 - Digital Gold: Bitcoin and the Inside Story of the Misfits and Millionaires Trying to Reinvent Money by Nathaniel Popper
 - The End of Money: The story of bitcoin, cryptocurrencies and the blockchain revolution by New Scientist
 - The Age of Cryptocurrency: How Bitcoin and Digital Money Are Challenging the Global Economic Order by Paul Vigna
+
+#### Ethereum
+
+- [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
+- [Ethereum wiki - GitHub](https://github.com/ethereum/wiki/wiki)
+
+### Decentralized Finance (DeFi)
+
+- [Decentralized finance - Wikipedia](https://en.wikipedia.org/wiki/Decentralized_finance)
+- [Decentralized finance - Ethereum](https://ethereum.org/en/defi/)
+- [Top DeFi Tokens by Market Capitalization](https://coinmarketcap.com/view/defi/)
+- [DeFi: The Ultimate Beginner's Guide to Decentralized Finance](https://decrypt.co/resources/defi-ultimate-beginners-guide-decentralized-finance)
+
+### Non-fungible token (NFT)
+
+- [Non-fungible token - Wikipedia](https://en.wikipedia.org/wiki/Non-fungible_token#:~:text=A%20non%2Dfungible%20token%20(NFT,other%20types%20of%20digital%20files.)
+- [Non-fungible tokens - Ethereum](https://ethereum.org/en/nft/)
+- [NFTs, explained](https://www.theverge.com/22310188/nft-explainer-what-is-blockchain-crypto-art-faq)
+- [What You Need To Know About Non-Fungible Tokens](https://www.forbes.com/advisor/investing/nft-non-fungible-token/)
 
 <br>
 
