@@ -627,7 +627,7 @@ Middleware - Database Cluster
 
 ### Non-fungible token (NFT)
 
-- [Non-fungible token - Wikipedia](https://en.wikipedia.org/wiki/Non-fungible_token#:~:text=A%20non%2Dfungible%20token%20(NFT,other%20types%20of%20digital%20files.)
+- [Non-fungible token - Wikipedia](https://en.wikipedia.org/wiki/Non-fungible_token)
 - [Non-fungible tokens - Ethereum](https://ethereum.org/en/nft/)
 - [NFTs, explained](https://www.theverge.com/22310188/nft-explainer-what-is-blockchain-crypto-art-faq)
 - [What You Need To Know About Non-Fungible Tokens](https://www.forbes.com/advisor/investing/nft-non-fungible-token/)
