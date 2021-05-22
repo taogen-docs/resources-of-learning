@@ -477,6 +477,11 @@ Others
 - [shopweb](https://github.com/mission008/shopweb.git)  仿淘宝的B2C商城项目
 - [miaosha](https://github.com/qiurunze123/miaosha)  秒杀系统设计与实现
 
+**Education System**
+
+- [roncoo-education](https://gitee.com/roncoocom/roncoo-education)
+- [roncoo-education-web](https://gitee.com/roncoocom/roncoo-education-web)
+
 **IM**
 
 - [wildfirechat](https://github.com/wildfirechat/server)
@@ -497,9 +502,11 @@ Others
 - [spring-boot-examples](https://github.com/ityouknow/spring-boot-examples)
 - [tutorials](https://github.com/eugenp/tutorials) The "REST With Spring" Course
 
+**Some More**
 
-
-
+- [GitHub Trending](https://github.com/trending)
+- [Gitee Most Valuable Project](https://gitee.com/gvp)
+- [Gitee Trending](https://gitee.com/explore)
 
 ## IV. Blog & Community
 
