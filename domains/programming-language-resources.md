@@ -282,7 +282,12 @@ New Books
 Some More
 
 - Python Tricks: A Buffet of Awesome Python Features by Dan Bader
-- Web Scraping with Python by Ryan Mitchell
+- Crawler
+  - **Web Scraping with Python** (2018) by Ryan Mitchell
+  - Getting Structured Data from the Internet: Running Web Crawlers/Scrapers on a Big Data Production Scale (2020) by Jay M. Patel 
+  - Practical Web Scraping for Data Science: Best Practices and Examples with Python (2018) by Seppe vanden Broucke and Bart Baesens 
+  - Mining the Social Web: Data Mining Facebook, Twitter, LinkedIn, Instagram, GitHub, and More (3rd, 2019) by Matthew A. Russell and Mikhail Klassen
+  - Mining Social Media: Finding Stories in Internet Data Illustrated Edition by Lam Thuy Vo
 - Data Science
   - Python for Data Analysis by Wes McKinney
   - Intro to Python for Computer Science and Data Science by Paul Deitel, Harvey Deitel
