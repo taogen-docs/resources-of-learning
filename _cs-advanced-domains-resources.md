@@ -588,35 +588,54 @@ Middleware - Database Cluster
 ### Blockchain
 
 - [Blockchain - Wikipedia](https://en.wikipedia.org/wiki/Blockchain)
-- The Internet of Money by Andreas M. Antonopoulos
-- Mastering Ethereum: Building Smart Contracts and Dapps by Andreas M Antonopoulos
-- Blockchain Basics: A Non-Technical Introduction in 25 Steps by Daniel Drescher
-- Blockchain Bubble or Revolution: The Present and Future of Blockchain and Cryptocurrencies by Neel Mehta
+- **Blockchain Basics: A Non-Technical Introduction in 25 Steps** by Daniel Drescher
+- **Blockchain Bubble or Revolution: The Present and Future of Blockchain and Cryptocurrencies** by Neel Mehta
 - Blockchain: Blueprint for a New Economy by Melanie Swan
-- Ethereum: Blockchains, Digital Assets, Smart Contracts, Decentralized Autonomous Organizations by Henning Diedrich
 - The Business Blockchain: Promise, Practice, and Application of the Next Internet Technology by William Mougayar
 
 ### Cryptocurrencies
 
+#### General
+
+- [Coin Center - Education](https://www.coincenter.org/education/)
+- [Blockchain and Money - MIT Course](https://ocw.mit.edu/courses/sloan-school-of-management/15-s12-blockchain-and-money-fall-2018/index.htm)
+
 #### Bitcoin
 
-- Bitcoin: A Peer-to-Peer Electronic Cash System [PDF](https://bitcoin.org/bitcoin.pdf)
-- Mastering Bitcoin: Unlocking Digital Cryptocurrencies by Andreas Antonopoulos
+Must Read
+
+- **Bitcoin: A Peer-to-Peer Electronic Cash System** [PDF](https://bitcoin.org/bitcoin.pdf)
+- **The Internet of Money** by Andreas M. Antonopoulos
+- **The Bitcoin Standard: The Decentralized Alternative to Central Banking** (2018) by Saifedean Ammous 
+- **Mastering Bitcoin: Unlocking Digital Cryptocurrencies** by Andreas Antonopoulos
+- **Cryptoassets: The Innovative Investor's Guide to Bitcoin and Beyond** by Chris Burniske
+- **Digital Gold: Bitcoin and the Inside Story of the Misfits and Millionaires Trying to Reinvent Money** by Nathaniel Popper
 - Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction by Arvind Narayanan
 - Programming Bitcoin: Learn How to Program Bitcoin from Scratch by Jimmy Song
+- Attack of the 50 Foot Blockchain: Bitcoin, Blockchain, Ethereum & Smart Contracts by David Gerard
+- The Book of Satoshi: The Collected Writings of Bitcoin Creator Satoshi Nakamoto by Phil Champagne
+- The Age of Cryptocurrency: How Bitcoin and Digital Money Are Challenging the Global Economic Order by Paul Vigna
+- Inventing Bitcoin: The Technology Behind The First Truly Scarce and Decentralized Money Explained by Yan Pritzker
+- 21 Lessons: What I've Learned from Falling Down the Bitcoin Rabbit Hole by Gigi
+
+Some More
+
 - Decentralized Applications: Harnessing Bitcoin's Blockchain Technology by Siraj Raval
 - Blockchain Revolution: How the Technology Behind Bitcoin Is Changing Money, Business, and the World by Don Tapscott
-- Attack of the 50 Foot Blockchain: Bitcoin, Blockchain, Ethereum & Smart Contracts by David Gerard
-- Cryptoassets: The Innovative Investor's Guide to Bitcoin and Beyond by Chris Burniske
-- The Book of Satoshi: The Collected Writings of Bitcoin Creator Satoshi Nakamoto by Phil Champagne
-- Digital Gold: Bitcoin and the Inside Story of the Misfits and Millionaires Trying to Reinvent Money by Nathaniel Popper
 - The End of Money: The story of bitcoin, cryptocurrencies and the blockchain revolution by New Scientist
-- The Age of Cryptocurrency: How Bitcoin and Digital Money Are Challenging the Global Economic Order by Paul Vigna
+- Bitcoin Clarity: The Complete Beginners Guide to Understanding by Kiara Bickers
+- Bitcoin: Sovereignty through mathematics by Knut Svanholm
+
+Resources
+
+- https://bitcoin-resources.com/
 
 #### Ethereum
 
 - [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
 - [Ethereum wiki - GitHub](https://github.com/ethereum/wiki/wiki)
+- Mastering Ethereum: Building Smart Contracts and Dapps by Andreas M Antonopoulos
+- Ethereum: Blockchains, Digital Assets, Smart Contracts, Decentralized Autonomous Organizations by Henning Diedrich
 
 ### Decentralized Finance (DeFi)
 
