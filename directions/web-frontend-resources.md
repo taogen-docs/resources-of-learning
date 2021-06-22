@@ -17,6 +17,7 @@
   - <a name="vue_c" href="#vue_t">Vue.js</a>
   - <a name="react_c" href="#react_t">React </a>
   - <a name="angular_c" href="#angular_t">AngularJS </a>
+  - Svelte
 - <a name="mdweb_c" href="#mdweb_t">Modern Web Frontend</a>
 - <a name="crossplat_c" href="#crossplat_t">Cross-Platform Mobile Applications</a>
   - <a name="flutter_c" href="#flutter_t">Flutter</a>

@@ -605,6 +605,8 @@ Middleware - Database Cluster
 Must Read
 
 - **Bitcoin: A Peer-to-Peer Electronic Cash System** [PDF](https://bitcoin.org/bitcoin.pdf)
+- [Bitcoin Core - GitHub](https://github.com/bitcoin/bitcoin)
+- [Bitcoin - Wikipedia](https://en.wikipedia.org/wiki/Bitcoin)
 - **The Internet of Money** by Andreas M. Antonopoulos
 - **The Bitcoin Standard: The Decentralized Alternative to Central Banking** (2018) by Saifedean Ammous 
 - **Mastering Bitcoin: Unlocking Digital Cryptocurrencies** by Andreas Antonopoulos
@@ -634,6 +636,7 @@ Resources
 
 - [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
 - [Ethereum wiki - GitHub](https://github.com/ethereum/wiki/wiki)
+- [Ethereum - Wikipedia](https://en.wikipedia.org/wiki/Ethereum)
 - Mastering Ethereum: Building Smart Contracts and Dapps by Andreas M Antonopoulos
 - Ethereum: Blockchains, Digital Assets, Smart Contracts, Decentralized Autonomous Organizations by Henning Diedrich
 
