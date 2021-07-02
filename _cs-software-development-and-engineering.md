@@ -75,8 +75,18 @@ Performance
 
 ### Maven
 
+- [Maven Users Centre](https://maven.apache.org/users/index.html)
+  - Maven in 5 Minutes \- Learn how to use Maven in 5 minutes. [DOC](https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html)
+  - Getting Started Tutorial - An in depth tutorial once you've learned the basics. [DOC](https://maven.apache.org/guides/getting-started/index.html)
+  - POM Reference. [DOC](https://maven.apache.org/pom.html)
+  - Settings Reference. [DOC](https://maven.apache.org/settings.html)
+- [Plugin Developers Centre](https://maven.apache.org/plugin-developers/index.html)
+- [Maven Central Repository](https://maven.apache.org/repository/index.html)
 - Maven: The Definitive Guide
 - Apache Maven Cookbook by Raghuram Bharathan
+- Apache Maven 3.0 Cookbook by Srirangan
+- Maven by Example by Sonatype company. [DOC](https://books.sonatype.com/mvnex-book/reference/index.html), [PDF](https://books.sonatype.com/mvnex-book/pdf/mvnex-pdf.pdf)
+- Maven: The Complete Reference by Sonatype company. [DOC](https://books.sonatype.com/mvnref-book/reference/index.html), [PDF](https://books.sonatype.com/mvnref-book/pdf/mvnref-pdf.pdf)
 
 <br>
 
