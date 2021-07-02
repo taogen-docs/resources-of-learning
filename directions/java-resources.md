@@ -170,6 +170,20 @@ For JRockit JVM
 - [Oracle JRockit Documentation](https://docs.oracle.com/cd/E13150_01/jrockit_jvm/jrockit/webdocs/index.html)
 - [Oracle JRockit - doc](https://docs.oracle.com/cd/E13150_01/jrockit_jvm/jrockit/geninfo/diagnos/aboutjrockit.html)
 
+#### JNI
+
+- [Java Native Interface 6.0 Specification, Java 8](https://docs.oracle.com/javase/8/docs/technotes/guides/jni/spec/jniTOC.html)
+- [Java Native Interface Specification, Java 11](https://docs.oracle.com/en/java/javase/11/docs/specs/jni/index.html)
+
+#### JMX
+
+- [Java Management Extensions, Java 8](https://docs.oracle.com/javase/8/docs/technotes/guides/jmx/index.html)
+
+#### Java RMI
+
+- [Java™ Remote Method Invocation API, Java 7](https://docs.oracle.com/javase/7/docs/technotes/guides/rmi/)
+- [RMI Whitepaper: Java Remote Method Invocation Distributed Computing for Java](https://www.oracle.com/java/technologies/javase/remote-method-invocation-distributed-computing.html)
+
 #### Utility Library
 
 > JSON, XML, Email, Logging, Datetime, IO.
