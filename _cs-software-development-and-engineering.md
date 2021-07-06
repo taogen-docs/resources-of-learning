@@ -543,9 +543,7 @@ Robots.txt
 - [996.ICU](https://996.icu/#/zh_CN)
 - [955.WLB](https://github.com/formulahendry/955.WLB)
 
-### Office Equipment
-
-#### Office Ergonomics
+### Office Equipment (Office Ergonomics)
 
 #### Ergonomic Chair
 
@@ -586,11 +584,28 @@ Articles
 
 - [The Best Monitor For Biohackers: Less Eyestrain And Better Cognition](https://www.alexfergus.com/blog/the-best-monitor-for-biohackers)
 
+Products
+
+- Dell UltraSharp Series. E.g. Dell UltraSharp U2520D
+
 #### Ergonomic Keyboard
+
+Products
+
+- Logitech ERGO K860, $129, [Details](https://www.logitech.com/en-us/products/keyboards/k860-split-ergonomic.920-009166.html) (Best overall)
+- Microsoft Sculpt Ergonomic Keyboard For Business, $60+,  [Details](https://www.microsoft.com/en-ww/accessories/business/sculpt-ergonomic-keyboard-for-business?activetab=overview%3aprimaryr2)
+- Microsoft Sculpt Ergonomic Desktop Keyboard & Mouse, $129, [Details](https://www.microsoft.com/en-ww/accessories/products/keyboards/sculpt-ergonomic-desktop?activetab=overview%3aprimaryr2)
+- Microsoft Surface Ergonomic Keyboard, $129
+- Microsoft Ergonomic Keyboard, $49 (Best budget pick)
 
 #### Ergonomic Mouse
 
+Products
 
+- Logitech MX Vertical, $99, [Details](https://www.logitech.com/en-us/products/mice/mx-vertical-ergonomic-mouse.910-005447.html)
+- Logitech MX ERGO, $89, [Details](https://www.logitech.com/en-us/products/mice/mx-ergo-wireless-trackball-mouse.html)
+- Evoluent VerticalMouse 4 Wired, $89, [Details](https://evoluent.com/products/vm4r/)
+- Microsoft Sculpt Ergonomic Mouse, $48+, [Details](https://www.microsoft.com/en-ww/accessories/products/mice/sculpt-ergonomic-mouse?activetab=overview%3aprimaryr2)
 
 ### Diet
 
