@@ -564,7 +564,7 @@ Middleware - Microservices Communication (RPC/Message/HTTP)
 - [RabbitMQ](https://www.rabbitmq.com/)
 - [Apache ActiveMQ](http://activemq.apache.org/)
 - Kafka
-  - [Apache Kafka](https://kafka.apache.org/)
+  - Apache Kafka documentation. [DOC](https://kafka.apache.org/)
   - Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale by Neha Narkhede, Gwen Shapira, Todd Palino
   - Kafka Streams in Action: Real-time apps and microservices with the Kafka Streams API (2018) by Bill Bejeck
   - Kafka in Action (2020) by Dylan Scott
