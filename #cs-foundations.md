@@ -597,8 +597,9 @@ Resources
 
 Tutorials
 
-- [tutorials point - Simply easy learning](https://www.tutorialspoint.com/)
-- [learn everything](https://www.learnpython.org/)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/)
+- [tutorials point - Simply easy learning](https://www.tutorialspoint.com/tutorialslibrary.htm)
+- [learn prgramming](https://www.learnpython.org/)
 - [w3schools](https://www.w3schools.com/)
 - [Learn X in Y minutes](https://learnxinyminutes.com/)
 - 菜鸟教程
