@@ -470,6 +470,7 @@ Recommended
 - [RuoYi-Vue](https://gitee.com/y_project/RuoYi-Vue)
 - [Guns](https://gitee.com/stylefeng/guns) 基于SpringBoot,更简洁的后台管理系统
 - [Jeecg-boot](https://gitee.com/jeecg/jeecg-boot)
+- [erupt](https://github.com/erupts/erupt)
 - Cloud
   - [pig](https://gitee.com/log4j/pig)
   - [iBase4J](https://gitee.com/iBase4J/iBase4J)

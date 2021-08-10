@@ -94,8 +94,9 @@ Performance
 
 <br>
 
-- [Amazon Honeycode](https://www.honeycode.aws/)
-- [Google AppSheet](https://www.appsheet.com/)
+- [Amazon Honeycode](https://www.honeycode.aws/). Build a better way to work.
+- [Google AppSheet](https://www.appsheet.com/). The intelligent no‑code platform.
+- [Axelor](https://www.axelor.com/). Open Source Low-code Platform for Business Process Apps. [GitHub](https://github.com/axelor)
 
 <br>
 
