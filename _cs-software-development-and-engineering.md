@@ -350,6 +350,19 @@ Others
 - The Essence of Software Engineering by Volker Gruhn and Rüdiger Striemer
 - Become an Effective Software Engineering Manager: How to Be the Leader Your Development Team Needs by Dr. Stanier, James
 
+### Software Requirements
+
+- Software Requirements: Practical Techniques for Gathering and Managing Requirements Throughout the Product Development Cycle
+(3rd, 2021) by Karl Wiegers
+- User Story Mapping: Discover the Whole Story, Build the Right Product by Jeff Patton, Peter Economy
+- User Stories Applied: For Agile Software Development by Mike Cohn, Kent Beck
+- Mastering the Requirements Process: Getting Requirements Right by Suzanne Robertson, James Robertson
+
+### Estimating and Planning
+
+- Agile Estimating and Planning by Mike Cohn
+- Software Estimation: Demystifying the Black Art by Steve McConnell
+
 ### Software Development
 
 - **The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win** by Gene Kim, Kevin Behr, George Spafford
@@ -413,12 +426,20 @@ Some More
 <br>
 
 - Righting Software (2019) by Juval Löwy
+- The Deadline: A Novel about Project Management by Tom DeMarco 
 
 <br>
 
 <h2><a name="test_t" href="#test_c">Software Test</a></h2>
 
 <br>
+
+Use Cases
+
+- Writing Effective Use Cases by Alistair Cockburn
+
+Unit Testing
+
 
 - **Test Driven Development: By Example** (2002) by  Kent Beck 
 - **Growing Object-Oriented Software, Guided by Tests** by Steve Freeman
