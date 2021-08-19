@@ -20,6 +20,7 @@
 - Edge Computing
 - Embedded System, IoT and 5G
 - Virtual Reality (VR) and Augmented Reality (AR)
+- <a name="gamedev_c" href="#gamedev_t">Game Development</a>
 - <a name="quantcomp_c" href="#quantcomp_t">Quantum Computing</a>
 
 <br>
@@ -662,6 +663,85 @@ Resources
 
 - Data Pipelines with Apache Airflow (2021) by Bas P. Harenslak, Julian Rutger de Ruiter
 - Architecting Modern Data Platforms: A Guide to Enterprise Hadoop at Scale (2019) by Jan Kunigk, Ian Buss, Paul Wilkinson, Lars George
+
+<br>
+
+<h2><a name="gamedev_t" href="#gamedev_c">Game Development</a></h2>
+
+<br>
+
+### Guidance
+
+- [Best Game Development Roadmap-2021](https://www.codelivly.com/game-development-roadmap-2021/)
+- [The 2020 Game Developer Roadmap](https://www.programming-hero.com/blog/the-2020-game-developer-roadmap.html)
+
+### Game Engines
+
+> A game engine, also known as a game architecture, game framework, is a software development environment designed for game developers. There are many game engines available such as GameMaker, Godot, OpenGL, Unity, Unreal Engine, etc.
+
+#### Unity and C#
+
+> the most user-friendly gaming engine for beginners
+
+- [Unity User Manual 2021.2](https://docs.unity3d.com/2021.2/Documentation/Manual/index.html)
+- Developing 2D Games with Unity: Independent Game Programming with C# by Jared Halpern
+- Unity in Action by Joseph Hocking
+- Unity Game Development Cookbook: Essentials for Every Game by Paris Buttfield-Addison, Jon Manning, Tim Nugent
+- Learning C# by Developing Games with Unity 2020: An enjoyable and intuitive approach to getting started with C# programming and Unity, 5th Edition by Harrison Ferrone
+
+#### Unreal Engine and C++
+
+- Unreal Engine 4 Game Development in 24 Hours, Sams Teach Yourself by Aram Cookson, Tim Johnson, Clinton Crumpler
+- Unreal Engine Physics Essentials by Katax Emperore, Devin Sherry
+
+#### Gamemaker and JavaScript, C++ or C#
+
+### Game Design
+
+> Game Mechanics are the basic actions, processes, visuals, and control mechanisms that are used to “gamify” an activity.
+
+- The Art of Game Design: A Book of Lenses by Jesse Schell
+- A Theory of Fun for Game Design by Raph Koster
+- Rules of Play: Game Design Fundamentals by Katie Salen, Eric Zimmerman
+- Game Design Workshop: A Playcentric Approach to Creating Innovative Games by Tracy Fullerton
+- Level Up!: The Guide to Great Video Game Design by Scott Rogers
+- Game Feel: A Game Designer's Guide to Virtual Sensation y Steve Swink
+- Fundamentals of Game Design by Ernest Adams, Andrew Rollings
+- Game Mechanics: Advanced Game Design by Ernest Adams, Joris Dormans
+- Game Programming Patterns by Robert Nystrom
+- Advanced Game Design: A Systems Approach by Michael Sellers
+
+
+### Game Physics and Animation
+
+> Interactive experiences
+
+- Game Physics Engine Development: How to Build a Robust Commercial-Grade Physics Engine for your Game by Ian Millington
+- Game Physics by David H. Eberly
+- Game Engine Architecture by Jason Gregory
+- Physics for Game Developers by David M. Bourg
+- Foundations of Game Engine Development, Volume 1: Mathematics by Eric Lengyel
+- Foundations of Game Engine Development, Volume 2: Rendering by Eric Lengyel
+- Real-Time Collision Detection by Christer Ericson
+- Real-Time Rendering by Tomas Akenine-Möller, Eric Haines
+- Planning Algorithms by Steven M. LaValle
+- Physically Based Rendering: From Theory to Implementation by Matt Pharr
+- The Ray Tracer Challenge by Jamis Buck 
+
+### Math for Game Programming
+
+> Algebra and Linear Algebra, Trigonometry, Calculus, Discrete Mathematics
+
+- Mathematics for 3D Game Programming and Computer Graphics by Eric Lengyel
+
+
+### Developing Games
+
+> 3D and 2D games
+>
+> virtual reality or argumented reality games
+>
+> Multi-player Game
 
 <br>
 
