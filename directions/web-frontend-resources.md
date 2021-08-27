@@ -1,5 +1,9 @@
 # Web Frontend Resources
 
+> JavaScript - the world's most-used programming language.
+
+> Every great programmer was once a novice.
+
 ### Content
 
 - <a name="guide_c" href="#guide_t">Guidance & Roadmap</a>

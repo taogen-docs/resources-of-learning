@@ -418,6 +418,10 @@ Papers
 
 - The UNIX Time-Sharing System - [PDF](https://dsf.berkeley.edu/cs262/unix.pdf)
 
+Tutorials
+
+- [nixCraft](https://www.cyberciti.biz/)
+
 ### Windows
 
 Windows Programming
