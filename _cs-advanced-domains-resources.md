@@ -8,20 +8,26 @@
 
 ### Content
 
-- <a name="webdev_c" href="#webdev_t">Web Development</a>
-- <a name="dbms_c" href="#dbms_t">Database Systems and Data Storage</a>
-- <a name="inforetri_c" href="#inforetri_t">Information Retrieval and Search Engines</a>
-- <a name="infosec_c" href="#infosec_t">Information Security</a>
-- <a name="datamining_c" href="#datamining_t">Big Data and Data Mining</a>
-- <a name="ai_c" href="#ai_t">Artificial Intelligence</a>
-- <a name="distsys_c" href="#distsys_t">Distributed Systems</a>
-- <a name="blockchain_c" href="#blockchain_t">Blockchain and Cryptocurrency</a>
-- <a name="cloudcpt_c" href="#cloudcpt_t">Cloud Computing and Serverless</a>
-- Edge Computing
-- Embedded System, IoT and 5G
-- Virtual Reality (VR) and Augmented Reality (AR)
-- <a name="gamedev_c" href="#gamedev_t">Game Development</a>
-- <a name="quantcomp_c" href="#quantcomp_t">Quantum Computing</a>
+- Part I: Developments
+  - <a name="webdev_c" href="#webdev_t">Web Development</a>
+  - <a name="gamedev_c" href="#gamedev_t">Game Development</a>
+  - Mobile Application Development
+  - Embedded Development
+- Part II: Infrastructures
+  - <a name="dbms_c" href="#dbms_t">Database Systems and Data Storage</a>
+  - <a name="inforetri_c" href="#inforetri_t">Information Retrieval and Search Engines</a>
+  - <a name="infosec_c" href="#infosec_t">Information Security</a>
+  - <a name="distsys_c" href="#distsys_t">Distributed Systems</a>
+  - <a name="cloudcpt_c" href="#cloudcpt_t">Cloud Computing and Serverless</a>
+  - <a name="datamining_c" href="#datamining_t">Big Data and Data Mining</a>
+  - Crawler and  Anti-Crawler
+- Part III: The Future
+  - <a name="ai_c" href="#ai_t">Artificial Intelligence</a>
+  - <a name="blockchain_c" href="#blockchain_t">Blockchain and Cryptocurrency</a>
+  - Edge Computing
+  - IoT and 5G
+  - Virtual Reality (VR) and Augmented Reality (AR)
+  - <a name="quantcomp_c" href="#quantcomp_t">Quantum Computing</a>
 
 <br>
 
@@ -40,6 +46,85 @@ Others
 
 - Oauth 2 in Action by Justin Richer
 - Bulletproof SSL and TLS: The Complete Guide to Deploying Secure Servers and Web Applications by Ivan Ristic
+
+<br>
+
+<h2><a name="gamedev_t" href="#gamedev_c">Game Development</a></h2>
+
+<br>
+
+### Guidance
+
+- [Best Game Development Roadmap-2021](https://www.codelivly.com/game-development-roadmap-2021/)
+- [The 2020 Game Developer Roadmap](https://www.programming-hero.com/blog/the-2020-game-developer-roadmap.html)
+
+### Game Engines
+
+> A game engine, also known as a game architecture, game framework, is a software development environment designed for game developers. There are many game engines available such as GameMaker, Godot, OpenGL, Unity, Unreal Engine, etc.
+
+#### Unity and C#
+
+> the most user-friendly gaming engine for beginners
+
+- [Unity User Manual 2021.2](https://docs.unity3d.com/2021.2/Documentation/Manual/index.html)
+- Developing 2D Games with Unity: Independent Game Programming with C# by Jared Halpern
+- Unity in Action by Joseph Hocking
+- Unity Game Development Cookbook: Essentials for Every Game by Paris Buttfield-Addison, Jon Manning, Tim Nugent
+- Learning C# by Developing Games with Unity 2020: An enjoyable and intuitive approach to getting started with C# programming and Unity, 5th Edition by Harrison Ferrone
+
+#### Unreal Engine and C++
+
+- Unreal Engine 4 Game Development in 24 Hours, Sams Teach Yourself by Aram Cookson, Tim Johnson, Clinton Crumpler
+- Unreal Engine Physics Essentials by Katax Emperore, Devin Sherry
+
+#### Gamemaker and JavaScript, C++ or C#
+
+### Game Design
+
+> Game Mechanics are the basic actions, processes, visuals, and control mechanisms that are used to “gamify” an activity.
+
+- The Art of Game Design: A Book of Lenses by Jesse Schell
+- A Theory of Fun for Game Design by Raph Koster
+- Rules of Play: Game Design Fundamentals by Katie Salen, Eric Zimmerman
+- Game Design Workshop: A Playcentric Approach to Creating Innovative Games by Tracy Fullerton
+- Level Up!: The Guide to Great Video Game Design by Scott Rogers
+- Game Feel: A Game Designer's Guide to Virtual Sensation y Steve Swink
+- Fundamentals of Game Design by Ernest Adams, Andrew Rollings
+- Game Mechanics: Advanced Game Design by Ernest Adams, Joris Dormans
+- Game Programming Patterns by Robert Nystrom
+- Advanced Game Design: A Systems Approach by Michael Sellers
+
+
+### Game Physics and Animation
+
+> Interactive experiences
+
+- Game Physics Engine Development: How to Build a Robust Commercial-Grade Physics Engine for your Game by Ian Millington
+- Game Physics by David H. Eberly
+- Game Engine Architecture by Jason Gregory
+- Physics for Game Developers by David M. Bourg
+- Foundations of Game Engine Development, Volume 1: Mathematics by Eric Lengyel
+- Foundations of Game Engine Development, Volume 2: Rendering by Eric Lengyel
+- Real-Time Collision Detection by Christer Ericson
+- Real-Time Rendering by Tomas Akenine-Möller, Eric Haines
+- Planning Algorithms by Steven M. LaValle
+- Physically Based Rendering: From Theory to Implementation by Matt Pharr
+- The Ray Tracer Challenge by Jamis Buck 
+
+### Math for Game Programming
+
+> Algebra and Linear Algebra, Trigonometry, Calculus, Discrete Mathematics
+
+- Mathematics for 3D Game Programming and Computer Graphics by Eric Lengyel
+
+
+### Developing Games
+
+> 3D and 2D games
+>
+> virtual reality or argumented reality games
+>
+> Multi-player Game
 
 <br>
 
@@ -248,6 +333,121 @@ Reference [Information Security Resources](directions/information-security-resou
 
 <br>
 
+<h2><a name="distsys_t" href="#distsys_c">Distributed Systems</a></h2>
+<br>
+
+### Distributed Systems
+
+Must Read
+
+
+- **Distributed Systems: Principles and Paradigms** (3.01 edition, 2017) by Andrew S. Tanenbaum, Maarten van Steen. A good overview of distributed systems that goes to enough depth to spark interest. Might be too much for beginners, but a good intermediate level reference.
+- **Designing Data-Intensive Applications** by Martin Kleppmann
+- **Distributed Systems For Fun and Profit** by Mikito Takada. Great intro book to distributed systems theory, with plenty of references to learn more once you're done.
+- Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services by Brendan Burns. Patterns and Paradigms for container architecture. Useful but shallow.
+
+Some More
+
+
+- Distributed Systems: Concepts and Design by George Coulouris, Jean Dollimore, Tim Kindberg, Gordon Blair
+- Distributed Algorithms by Nancy A. Lynch
+- Principles of Transaction Processing by Philip A. Bernstein
+- Introduction to Distributed Algorithms by Gerard Tel
+- Programming Distributed Computing Systems: A Foundational Approach by Carlos A. Varela
+- Distributed Computing: Principles, Algorithms, and Systems by Ajay D. Kshemkalyani
+- Design and Analysis of Distributed Algorithms by Nicola Santoro
+- Introduction to Reliable Distributed Programming by Rachid Guerraoui
+- Elements of Distributed Computing by Vijay K. Garg
+- Fault-Tolerant Message-Passing Distributed Systems: An Algorithmic Approach by Michel Raynal
+- Distributed Algorithms for Message-Passing Systems by Michel Raynal
+- Introduction to Reliable and Secure Distributed Programming by Christian Cachin
+- Replication: Theory and Practice by Bernadette Charron-Bost
+
+Papers of Distributed Systems
+
+- [Distributed Systems Reading List](https://dancres.github.io/Pages/)
+- [Distributed Systems Reading List - CS Rutgers](https://www.cs.rutgers.edu/~pxk/417/readinglist.html)
+
+More Distributed Systems
+
+- [awesome-distributed-systems - GitHub](https://github.com/theanalyst/awesome-distributed-systems)
+
+### Distributed Data Storage
+
+- **Database Internals: A deep-dive into how distributed data systems work** by Alex Petrov
+- Principles of Distributed Database Systems by M. Tamer Ozsu
+- Distributed Databases: Principles and Systems by Stefano Ceri, G. Pelagatti
+- Distributed Database Systems by Chhanda Ray
+
+For HBase
+
+- HBase in Action by Nick Dimiduk, Amandeep Khurana
+
+### Microservices
+
+- **Building Microservices: Designing Fine-Grained Systems** by Sam Newman
+- **Microservices Patterns: With Examples in Java** by Chris Richardson
+- **Microservice Architecture: Aligning Principles, Practices, and Culture** by Irakli Nadareishvili, Matt McLarty, and Michael Amundsen
+- **The Tao of Microservices** by Richard Rodger
+- **Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith** by Sam Newman
+- **Spring Microservices in Action** by John Carnell
+- **Production-Ready Microservices: Building Standardized Systems Across an Engineering Organization** by Susan Fowler and Susan J. Fowler
+- **Cloud Native Java: Designing Resilient Systems with Spring Boot, Spring Cloud, and Cloud Foundry** by Josh Long and Kenny Bastani
+- Microservices for the Enterprise: Designing, Developing, and Deploying by Kasun Indrasiri, Prabath Siriwardena
+- **大型网站技术架构：核心原理与案例分析** by 李智慧
+- **大规模Web服务开发技术** by 伊藤直也, 田中慎司
+- 大型网站系统与Java中间件实践 by 曾宪杰
+- 分布式Java应用：基础与实践 by 林昊 
+
+Microservices Architecture Design 
+
+- Reference [CS software development and engineering - Architecture Design](_cs-software-development-and-engineering.md#archdes_t)
+
+Middleware - Microservices Collaboration
+
+- [Apache Dubbo](https://dubbo.apache.org/en-us/)
+- [Apache ZooKeeper](https://zookeeper.apache.org/)
+- [Spring Cloud](https://spring.io/projects/spring-cloud)
+- 从PAXOS到ZOOKEEPER分布式一致性原理与实践 by 倪超
+
+Middleware - Microservices Communication (RPC/Message/HTTP)
+
+- Java Message Service by Mark Richards, Richard Monson-Haefel and David A. Chappell
+- I Heart Logs: Event Data, Stream Processing, and Data Integration by Jay Kreps
+- [gRPC](https://grpc.io/)
+- HTTP REST
+- [RabbitMQ](https://www.rabbitmq.com/)
+- [Apache ActiveMQ](http://activemq.apache.org/)
+- Kafka
+  - Apache Kafka documentation. [DOC](https://kafka.apache.org/)
+  - Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale by Neha Narkhede, Gwen Shapira, Todd Palino
+  - Kafka Streams in Action: Real-time apps and microservices with the Kafka Streams API (2018) by Bill Bejeck
+  - Kafka in Action (2020) by Dylan Scott
+  - Event Streams in Action: Real-time event systems with Kafka and Kinesis (2019) by Alexander Dean, Valentin Crettaz
+  - Mastering Kafka Streams and ksqlDB: Building Real-Time Data Systems by Example (2021) by Mitch Seymour
+  - Streaming Data: Understanding the real-time pipeline (2017) by Andrew Psaltis
+  - Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing (2018) by Tyler Akidau, Slava Chernyak, Reuven Lax
+
+Middleware - Database Cluster
+
+- [Mycat](http://www.mycat.io/)
+- [TiDB](https://pingcap.com/en/)
+- [alibaba/cobar](https://github.com/alibaba/cobar)
+
+<br>
+
+<h2><a name="cloudcpt_t" href="#cloudcpt_c">Cloud Computing and Serverless</a></h2>
+
+<br>
+
+- Data Pipelines with Apache Airflow (2021) by Bas P. Harenslak, Julian Rutger de Ruiter
+- Architecting Modern Data Platforms: A Guide to Enterprise Hadoop at Scale (2019) by Jan Kunigk, Ian Buss, Paul Wilkinson, Lars George
+
+
+
+
+<br>
+
 <h2><a name="datamining_t" href="#datamining_c">Big Data and Data Mining</a></h2>
 
 <br>
@@ -376,7 +576,7 @@ Reference [Information Security Resources](directions/information-security-resou
 - Learning Spark by Mark Hamstra
 - MapReduce Design Patterns: Building Effective Algorithms and Analytics for Hadoop and Other Systems by Adam Shook and Donald Miner
 
-Big Data Engineering
+### Big Data Engineering
 
 - The Self-Service Data Roadmap: Democratize Data and Reduce Time to Insight (2002) by Sandeep Uttamchandani
 - Designing Cloud Data Platforms by Danil Zburivsky, Lynda Partner
@@ -477,108 +677,7 @@ Papers
 - [Artificial Intelligence - Elsevier](https://www.journals.elsevier.com/artificial-intelligence)
 - [Top Papers in Machine Learning - Papers With Code](https://paperswithcode.com/greatest)
 
-<br>
 
-<h2><a name="distsys_t" href="#distsys_c">Distributed Systems</a></h2>
-<br>
-
-### Distributed Systems
-
-Must Read
-
-
-- **Distributed Systems: Principles and Paradigms** (3.01 edition, 2017) by Andrew S. Tanenbaum, Maarten van Steen. A good overview of distributed systems that goes to enough depth to spark interest. Might be too much for beginners, but a good intermediate level reference.
-- **Designing Data-Intensive Applications** by Martin Kleppmann
-- **Distributed Systems For Fun and Profit** by Mikito Takada. Great intro book to distributed systems theory, with plenty of references to learn more once you're done.
-- Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services by Brendan Burns. Patterns and Paradigms for container architecture. Useful but shallow.
-
-Some More
-
-
-- Distributed Systems: Concepts and Design by George Coulouris, Jean Dollimore, Tim Kindberg, Gordon Blair
-- Distributed Algorithms by Nancy A. Lynch
-- Principles of Transaction Processing by Philip A. Bernstein
-- Introduction to Distributed Algorithms by Gerard Tel
-- Programming Distributed Computing Systems: A Foundational Approach by Carlos A. Varela
-- Distributed Computing: Principles, Algorithms, and Systems by Ajay D. Kshemkalyani
-- Design and Analysis of Distributed Algorithms by Nicola Santoro
-- Introduction to Reliable Distributed Programming by Rachid Guerraoui
-- Elements of Distributed Computing by Vijay K. Garg
-- Fault-Tolerant Message-Passing Distributed Systems: An Algorithmic Approach by Michel Raynal
-- Distributed Algorithms for Message-Passing Systems by Michel Raynal
-- Introduction to Reliable and Secure Distributed Programming by Christian Cachin
-- Replication: Theory and Practice by Bernadette Charron-Bost
-
-Papers of Distributed Systems
-
-- [Distributed Systems Reading List](https://dancres.github.io/Pages/)
-- [Distributed Systems Reading List - CS Rutgers](https://www.cs.rutgers.edu/~pxk/417/readinglist.html)
-
-More Distributed Systems
-
-- [awesome-distributed-systems - GitHub](https://github.com/theanalyst/awesome-distributed-systems)
-
-### Distributed Data Storage
-
-- **Database Internals: A deep-dive into how distributed data systems work** by Alex Petrov
-- Principles of Distributed Database Systems by M. Tamer Ozsu
-- Distributed Databases: Principles and Systems by Stefano Ceri, G. Pelagatti
-- Distributed Database Systems by Chhanda Ray
-
-For HBase
-
-- HBase in Action by Nick Dimiduk, Amandeep Khurana
-
-### Microservices
-
-- **Building Microservices: Designing Fine-Grained Systems** by Sam Newman
-- **Microservices Patterns: With Examples in Java** by Chris Richardson
-- **Microservice Architecture: Aligning Principles, Practices, and Culture** by Irakli Nadareishvili, Matt McLarty, and Michael Amundsen
-- **The Tao of Microservices** by Richard Rodger
-- **Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith** by Sam Newman
-- **Spring Microservices in Action** by John Carnell
-- **Production-Ready Microservices: Building Standardized Systems Across an Engineering Organization** by Susan Fowler and Susan J. Fowler
-- **Cloud Native Java: Designing Resilient Systems with Spring Boot, Spring Cloud, and Cloud Foundry** by Josh Long and Kenny Bastani
-- Microservices for the Enterprise: Designing, Developing, and Deploying by Kasun Indrasiri, Prabath Siriwardena
-- **大型网站技术架构：核心原理与案例分析** by 李智慧
-- **大规模Web服务开发技术** by 伊藤直也, 田中慎司
-- 大型网站系统与Java中间件实践 by 曾宪杰
-- 分布式Java应用：基础与实践 by 林昊 
-
-Microservices Architecture Design 
-
-- Reference [CS software development and engineering - Architecture Design](_cs-software-development-and-engineering.md#archdes_t)
-
-Middleware - Microservices Collaboration
-
-- [Apache Dubbo](https://dubbo.apache.org/en-us/)
-- [Apache ZooKeeper](https://zookeeper.apache.org/)
-- [Spring Cloud](https://spring.io/projects/spring-cloud)
-- 从PAXOS到ZOOKEEPER分布式一致性原理与实践 by 倪超
-
-Middleware - Microservices Communication (RPC/Message/HTTP)
-
-- Java Message Service by Mark Richards, Richard Monson-Haefel and David A. Chappell
-- I Heart Logs: Event Data, Stream Processing, and Data Integration by Jay Kreps
-- [gRPC](https://grpc.io/)
-- HTTP REST
-- [RabbitMQ](https://www.rabbitmq.com/)
-- [Apache ActiveMQ](http://activemq.apache.org/)
-- Kafka
-  - Apache Kafka documentation. [DOC](https://kafka.apache.org/)
-  - Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale by Neha Narkhede, Gwen Shapira, Todd Palino
-  - Kafka Streams in Action: Real-time apps and microservices with the Kafka Streams API (2018) by Bill Bejeck
-  - Kafka in Action (2020) by Dylan Scott
-  - Event Streams in Action: Real-time event systems with Kafka and Kinesis (2019) by Alexander Dean, Valentin Crettaz
-  - Mastering Kafka Streams and ksqlDB: Building Real-Time Data Systems by Example (2021) by Mitch Seymour
-  - Streaming Data: Understanding the real-time pipeline (2017) by Andrew Psaltis
-  - Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing (2018) by Tyler Akidau, Slava Chernyak, Reuven Lax
-
-Middleware - Database Cluster
-
-- [Mycat](http://www.mycat.io/)
-- [TiDB](https://pingcap.com/en/)
-- [alibaba/cobar](https://github.com/alibaba/cobar)
 
 <br>
 
@@ -655,93 +754,6 @@ Resources
 - [NFTs, explained](https://www.theverge.com/22310188/nft-explainer-what-is-blockchain-crypto-art-faq)
 - [What You Need To Know About Non-Fungible Tokens](https://www.forbes.com/advisor/investing/nft-non-fungible-token/)
 
-<br>
-
-<h2><a name="cloudcpt_t" href="#cloudcpt_c">Cloud Computing and Serverless</a></h2>
-
-<br>
-
-- Data Pipelines with Apache Airflow (2021) by Bas P. Harenslak, Julian Rutger de Ruiter
-- Architecting Modern Data Platforms: A Guide to Enterprise Hadoop at Scale (2019) by Jan Kunigk, Ian Buss, Paul Wilkinson, Lars George
-
-<br>
-
-<h2><a name="gamedev_t" href="#gamedev_c">Game Development</a></h2>
-
-<br>
-
-### Guidance
-
-- [Best Game Development Roadmap-2021](https://www.codelivly.com/game-development-roadmap-2021/)
-- [The 2020 Game Developer Roadmap](https://www.programming-hero.com/blog/the-2020-game-developer-roadmap.html)
-
-### Game Engines
-
-> A game engine, also known as a game architecture, game framework, is a software development environment designed for game developers. There are many game engines available such as GameMaker, Godot, OpenGL, Unity, Unreal Engine, etc.
-
-#### Unity and C#
-
-> the most user-friendly gaming engine for beginners
-
-- [Unity User Manual 2021.2](https://docs.unity3d.com/2021.2/Documentation/Manual/index.html)
-- Developing 2D Games with Unity: Independent Game Programming with C# by Jared Halpern
-- Unity in Action by Joseph Hocking
-- Unity Game Development Cookbook: Essentials for Every Game by Paris Buttfield-Addison, Jon Manning, Tim Nugent
-- Learning C# by Developing Games with Unity 2020: An enjoyable and intuitive approach to getting started with C# programming and Unity, 5th Edition by Harrison Ferrone
-
-#### Unreal Engine and C++
-
-- Unreal Engine 4 Game Development in 24 Hours, Sams Teach Yourself by Aram Cookson, Tim Johnson, Clinton Crumpler
-- Unreal Engine Physics Essentials by Katax Emperore, Devin Sherry
-
-#### Gamemaker and JavaScript, C++ or C#
-
-### Game Design
-
-> Game Mechanics are the basic actions, processes, visuals, and control mechanisms that are used to “gamify” an activity.
-
-- The Art of Game Design: A Book of Lenses by Jesse Schell
-- A Theory of Fun for Game Design by Raph Koster
-- Rules of Play: Game Design Fundamentals by Katie Salen, Eric Zimmerman
-- Game Design Workshop: A Playcentric Approach to Creating Innovative Games by Tracy Fullerton
-- Level Up!: The Guide to Great Video Game Design by Scott Rogers
-- Game Feel: A Game Designer's Guide to Virtual Sensation y Steve Swink
-- Fundamentals of Game Design by Ernest Adams, Andrew Rollings
-- Game Mechanics: Advanced Game Design by Ernest Adams, Joris Dormans
-- Game Programming Patterns by Robert Nystrom
-- Advanced Game Design: A Systems Approach by Michael Sellers
-
-
-### Game Physics and Animation
-
-> Interactive experiences
-
-- Game Physics Engine Development: How to Build a Robust Commercial-Grade Physics Engine for your Game by Ian Millington
-- Game Physics by David H. Eberly
-- Game Engine Architecture by Jason Gregory
-- Physics for Game Developers by David M. Bourg
-- Foundations of Game Engine Development, Volume 1: Mathematics by Eric Lengyel
-- Foundations of Game Engine Development, Volume 2: Rendering by Eric Lengyel
-- Real-Time Collision Detection by Christer Ericson
-- Real-Time Rendering by Tomas Akenine-Möller, Eric Haines
-- Planning Algorithms by Steven M. LaValle
-- Physically Based Rendering: From Theory to Implementation by Matt Pharr
-- The Ray Tracer Challenge by Jamis Buck 
-
-### Math for Game Programming
-
-> Algebra and Linear Algebra, Trigonometry, Calculus, Discrete Mathematics
-
-- Mathematics for 3D Game Programming and Computer Graphics by Eric Lengyel
-
-
-### Developing Games
-
-> 3D and 2D games
->
-> virtual reality or argumented reality games
->
-> Multi-player Game
 
 <br>
 
