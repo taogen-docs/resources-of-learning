@@ -21,7 +21,7 @@
 - Part IV: Software Engineering & Project Management
   - <a name="softeng_c" href="#softeng_t">Software Engineering</a>
   - <a name="agile_c" href="#agile_t">Team and Agile</a>
-  - <a name="test_c" href="#test_t">Software Testting and Quality Assurance</a>
+  - <a name="test_c" href="#test_t">Software Testing and Quality Assurance</a>
 - Part V: Others
   - <a name="career_c" href="#career_t">Career</a>
   - <a name="law_c" href="#law_t">Law</a>
@@ -428,7 +428,7 @@ Some More
 
 <br>
 
-<h2><a name="test_t" href="#test_c">Software Test and Quality Assurance</a></h2>
+<h2><a name="test_t" href="#test_c">Software Testing and Quality Assurance</a></h2>
 
 <br>
 
