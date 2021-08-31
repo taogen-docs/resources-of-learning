@@ -20,7 +20,8 @@
   - <a name="sre_c" href="#sre_t">SRE</a>
 - Part IV: Software Engineering & Project Management
   - <a name="softeng_c" href="#softeng_t">Software Engineering</a>
-  - <a name="test_c" href="#test_t">Software Test</a>
+  - <a name="agile_c" href="#agile_t">Team and Agile</a>
+  - <a name="test_c" href="#test_t">Software Testting and Quality Assurance</a>
 - Part V: Others
   - <a name="career_c" href="#career_t">Career</a>
   - <a name="law_c" href="#law_t">Law</a>
@@ -344,7 +345,6 @@ Others
 
 - **Software Engineering** (10th, 2015) by Ian Sommerville
 - **Software Engineering at Google: Lessons Learned from Programming Over Time** (2020) by Titus Winters, Tom Manshreck, Hyrum Wright
-- **Managing Humans: Biting and Humorous Tales of a Software Engineering Manager** by Michael Lopp
 - Software Engineering: A Practitioner's Approach by Roger S. Pressman
 - The Essentials of Modern Software Engineering by Ivar Jacobson, Harold "Bud" Lawson, Pan-Wei Ng, Paul E. McMahon, Michael Goedicke
 - The Essence of Software Engineering by Volker Gruhn and Rüdiger Striemer
@@ -369,7 +369,7 @@ Others
 - **The Unicorn Project** by Gene Kim
 - Code Ahead: Volume 1 (2018) by Yegor Bugayenko
 
-### Team & Agile
+<h2><a name="agile_t" href="#agile_c">Team and Agile</a></h2>
 
 Must Read
 
@@ -386,12 +386,19 @@ Must Read
 - **Implementing Lean Software Development: From Concept to Cash** by Mary Poppendieck
 - **The Art of Agile Development** by James Shore, Shane Warden 
 - **The Agile Samurai** by Jonathan Rasmusson
+- **Managing Humans: Biting and Humorous Tales of a Software Engineering Manager** by Michael Lopp
+- **The Five Dysfunctions of a Team: A Leadership Fable** by Patrick Lencioni
 - Timeless Laws of Software Development by Jerry Fitzpatrick
 - Rapid Development: Taming Wild Software Schedules by Steve McConnell
 - Lean thinking  banish waste and creat wealth in your corporation by James P.Womack 
 - Learning Agile by Andrew Stellman
 - Ship It! by Jared Richardson
 - Working with Coders: A Guide to Software Development for the Perplexed Non-Techie by Patrick Gleeson
+
+Project Management
+
+- Righting Software (2019) by Juval Löwy
+- The Deadline: A Novel about Project Management by Tom DeMarco 
 
 Organization Management
 
@@ -421,31 +428,37 @@ Some More
 
 <br>
 
-## Project Management
+<h2><a name="test_t" href="#test_c">Software Test and Quality Assurance</a></h2>
 
 <br>
 
-- Righting Software (2019) by Juval Löwy
-- The Deadline: A Novel about Project Management by Tom DeMarco 
+### Software Testing
 
-<br>
+- **Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing** by Elisabeth Hendrickson
+- **Lessons Learned in Software Testing: A Context-Driven Approach** by Cem Kaner, James Marcus Bach, Bret Pettichord
+- Software Testing (2nd, 2005) by Ron Patton
+- Agile Testing: A Practical Guide for Testers and Agile Teams by Lisa Crispin, Janet Gregory
+- How Google Tests Software by James A. Whittaker, Jason Arbon, Jeff Carollo
+- Testing Computer Software by Cem Kaner, Jack Falk, Hung Q. Nguyen
+- **Perfect Software And Other Illusions About Testing** by Gerald Weinberg
+- A Practitioner's Guide to Software Test Design by Lee Copeland
 
-<h2><a name="test_t" href="#test_c">Software Test</a></h2>
+### Quality Assurance
 
-<br>
+- Leading Quality: How Great Leaders Deliver High-Quality Software and Accelerate Growth by Ronald Cummings-John, Owais Peer
 
-Use Cases
+### Use Cases
 
 - Writing Effective Use Cases by Alistair Cockburn
 
-Unit Testing
+### Unit Testing
 
 
 - **Test Driven Development: By Example** (2002) by  Kent Beck 
 - **Growing Object-Oriented Software, Guided by Tests** by Steve Freeman
 - Unit Testing: Principles, Practices, and Patterns by Vladimir Khorikov
 - Effective Unit Testing by Lasse Koskela
-- xUnit Test Patterns: Refactoring Test Code by Gerard Meszaros
+- xUnit Test Patterns: Refactoring Test Code by Gerard Meszaros (.NET)
 - The RSpec Book by David Chelimsky
 - The Art of Unit Testing: With Examples in .NET by Roy Osherove
 
