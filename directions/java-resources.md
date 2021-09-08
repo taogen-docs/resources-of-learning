@@ -332,10 +332,6 @@ Web Services
 - Restful Java with Jax-RS by Bill Burke
 - Restlet in Action: Developing RESTful web APIs in Java by Jerome Louvel, Thierry Templier, Thierry Boileau
 
-Tutorials
-
-- [Baeldung - Java, Spring and Web Development Tutorials](https://www.baeldung.com/)
-
 ### Web Security
 
 Reference [Information Security - Web Security](information-security-resources.md#websec_t)
@@ -355,6 +351,11 @@ Reference [Software Development and Engineering](../_cs-software-development-and
 ### Distributed System
 
 Reference [CS Advanced Domains Resources - Distributed Systems](../_cs-advanced-domains-resources.md#distsys_t)
+
+## Java Tutorials
+
+- [Baeldung - Java, Spring and Web Development Tutorials](https://www.baeldung.com/)
+- [memory not found](https://memorynotfound.com/)
 
 
 ##  III. Source Repositories
@@ -475,6 +476,7 @@ Recommended
   - [pig](https://gitee.com/log4j/pig)
   - [iBase4J](https://gitee.com/iBase4J/iBase4J)
   - [RuoYi-Cloud](https://gitee.com/y_project/RuoYi-Cloud)
+  - [BladeX](https://gitee.com/smallc/SpringBlade)
 
 Others
 
