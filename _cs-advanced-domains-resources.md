@@ -27,6 +27,7 @@
   - Edge Computing
   - IoT and 5G
   - Virtual Reality (VR) and Augmented Reality (AR)
+  - Metaverse
   - <a name="quantcomp_c" href="#quantcomp_t">Quantum Computing</a>
 
 <br>
