@@ -33,7 +33,7 @@
 
 ## Donald Knuth
 
-1938
+1938, the father of the analysis of algorithms
 
 - The Art of Computer Programming (1968) by Donald Knuth
 - Concrete Mathematics (1988) by Donald Knuth
