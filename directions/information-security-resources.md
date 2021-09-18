@@ -19,29 +19,40 @@
 <h2><a name="introis_t" href="#introis_c">Introduction to Information Security</a></h2>
 <br>
 
-- Principles of Information Security by Michael E. Whitman, Herbert J. Mattord
-- Security Engineering: A Guide to Building Dependable Distributed Systems by Ross J. Anderson
-- CISSP All-in-One Exam Guide by Shon Harris
-- Halte aux hackers by Stuart McClure, Joel Scambray, George Kurtz
-- Security in Computing by Charles P. Pfleeger, Shari Lawrence Pfleeger
+- **The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data** by Kevin D. Mitnick, Robert Vamosi
+- **Hacking: The Art of Exploitation** by Jon Erickson [4.16, 2187]
+- **Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World** by Bruce Schneier [4.01, 3421]
+- **Ghost in the Wires: My Adventures as the World’s Most Wanted Hacker** by Kevin Mitnick [3.9, 24244]
+- **Kingpin: How One Hacker Took Over the Billion-Dollar Cybercrime Underground** by Kevin Poulsen [3.95, 7441]
+- Hacking Exposed 7: Network Security Secrets and Solutions by Stuart McClure, Joel Scambray
+- The Cyber Effect: A Pioneering Cyberpsychologist Explains How Human Behavior Changes Online by Mary Aiken
+- CISSP All-in-One Exam Guide by Shon Harris [4.07, 845]
+- Penetration Testing: A Hands-On Introduction to Hacking by Georgia Weidman [4.19, 299]
+- Silence on the Wire: A Field Guide to Passive Reconnaissance and Indirect Attacks by Michal Zalewski [4.21, 415]
+- Writing Secure Code by David Le Blanc and Michael Howard [4.01, 371]
+- Halte aux hackers by Stuart McClure, Joel Scambray, George Kurtz [3.79, 1021]
+- Spam Nation: The Inside Story of Organized Cybercrime-from Global Epidemic to Your Front Door by Brian Krebs [3.74, 2399]
+- Cult of the Dead Cow: How the Original Hacking Supergroup Might Just Save the World by Joseph Menn
+
+Some more
+
+- Principles of Information Security by Michael E. Whitman, Herbert J. Mattord [3.47, 190]
+- Security in Computing by Charles P. Pfleeger, Shari Lawrence Pfleeger [3.76, 184]
 - CISO Desk Reference Guide: A practical guide for CISOs by Bill Bonney, Gary Hayslip, and Matt Stamper
-- Penetration Testing: A Hands-On Introduction to Hacking by Georgia Weidman
-- Hacking: The Art of Exploitation by Jon Erickson
-- Silence on the Wire: A Field Guide to Passive Reconnaissance and Indirect Attacks by Michal Zalewski
-- Protecting Your Internet Identity: Are You Naked Online by Ted Claypoole and Theresa Payton
-- Writing Secure Code by David Le Blanc and Michael Howard
-- Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World by Bruce Schneier
-
-Stories
-
-- Ghost in the Wires: My Adventures as the World’s Most Wanted Hacker by Kevin Mitnick
-- Hacking the Hacker: Learn From the Experts Who Take Down Hackers by Roger Grimes
-- Kingpin: How One Hacker Took Over the Billion-Dollar Cybercrime Underground by Kevin Poulsen
+- Hacking the Hacker: Learn From the Experts Who Take Down Hackers by Roger Grimes [3.66, 70]
+- Protecting Your Internet Identity: Are You Naked Online by Ted Claypoole and Theresa Payton [3.92, 24]
 - Future Crimes: Inside the Digital Underground and the Battle for Our Connected World by Marc Goodman
-- Hacked Again: It Can Happen To Anyone, Even A Cybersecurity Expert by Scott Schober
-- Spam Nation: The Inside Story of Organized Cybercrime-from Global Epidemic to Your Front Door by Brian Krebs
+- Hacked Again: It Can Happen To Anyone, Even A Cybersecurity Expert by Scott Schober [3.95, 92]
 - Borderless Behavior Analytics: Who’s inside? What’re they doing? by Saryu Nayyar
-- The Hacked World Order: How Nations Fight, Trade, Maneuver, and Manipulate in the Digital Age by Adam Segal
+- The Hacked World Order: How Nations Fight, Trade, Maneuver, and Manipulate in the Digital Age by Adam Segal [3.72, 255]
+
+Insider Threat
+
+- The CERT Guide to Insider Threats: How to Prevent, Detect, and Respond to Information Technology Crimes by Dawn M. Cappelli, Andrew P. Moore, Randall F. Trzeciak
+
+Threat Modeling
+
+- Threat Modeling: Designing for Security by Adam Shostack 
 
 <br>
 
@@ -54,12 +65,12 @@ Reference [CS Fundamentals Resources - Cryptography](../%23cs-foundations.md#cry
 <h2><a name="netsec_t" href="#netsec_c">Network Security</a></h2>
 <br>
 
+- **Cryptography and Network Security: Principles and Practice** by William Stallings
+- **Network Security: Private Communication in a Public World** (2nd, 2002) by Charlie Kaufman , Radia Perlman
 - Network Security: A Beginner's Guide by Eric Maiwald
 - Hacking Wireless Networks - The ultimate hands-on guide by Andreas Kolokithas
 - Network Security Assessment by Chris McNab
-- Cryptography and Network Security: Principles and Practice by William Stallings
 - The Practice of Network Security Monitoring: Understanding Incident Detection and Response by Richard Bejtlich
-- Network Security: Private Communication in a Public World (2nd, 2002) by Charlie Kaufman , Radia Perlman
 - Attacking Network Protocols: A Hacker's Guide to Capture, Analysis, and Exploitation by James Forshaw
 
 <br>
@@ -67,14 +78,14 @@ Reference [CS Fundamentals Resources - Cryptography](../%23cs-foundations.md#cry
 <h2><a name="websec_t" href="#websec_c">Web Security</a></h2>
 <br>
 
-- The Web Application Hacker's Handbook: Discovering and Exploiting Security Flaws by Dafydd Stuttard, Marcus Pinto
+- **The Web Application Hacker's Handbook: Discovering and Exploiting Security Flaws** by Dafydd Stuttard, Marcus Pinto
+- **The Tangled Web: a Guide to Securing Modern Web Applications** by Michal Zalewski
 - Web Application Security, A Beginner's Guide  by Bryan Sullivan and Vincent Liu
 - Web Security Testing Cookbook: Systematic Techniques to Find Problems Fast by Ben Walther and Paco Hope
-- The Tangled Web: a Guide to Securing Modern Web Applications by Michal Zalewski
 - Identity and Data Security for Web Development: Best Practices by Jonathan LeBlanc, Tim Messerschmidt
 - SQL Injection Attacks and Defense by Justin Clarke
 - Xss Attacks: Cross Site Scripting Exploits and Defense
-by Jeremiah Grossman, Seth Fogie, Robert C. Hansen
+  by Jeremiah Grossman, Seth Fogie, Robert C. Hansen
 - 白帽子讲Web安全 (2012) by 吴翰清
 - 白帽子讲浏览器安全 (2016) by 钱文祥
 - Web安全深度剖析 by 张炳帅
@@ -83,9 +94,9 @@ by Jeremiah Grossman, Seth Fogie, Robert C. Hansen
 <h2><a name="pene_t" href="#pene_c">Penetration & Pentest</a></h2>
 <br>
 
-- Metasploit: The Penetration Tester's Guide by David Kennedy, Jim O'Gorman, Devon Kearns, Mati Aharoni
-- Gray Hat Hacking: The Ethical Hacker's Handbook by Shon Harris, Chris Eagle, Allen Harper
-- Black Hat Python: Python Programming for Hackers and Pentesters by Justin Seitz
+- **Metasploit: The Penetration Tester's Guide** by David Kennedy, Jim O'Gorman, Devon Kearns, Mati Aharoni
+- **Gray Hat Hacking: The Ethical Hacker's Handbook** by Shon Harris, Chris Eagle, Allen Harper
+- **Black Hat Python: Python Programming for Hackers and Pentesters** by Justin Seitz
 
 <br>
 <h2><a name="ossec_t" href="#ossec_c">Operating System Security</a></h2>
@@ -117,11 +128,11 @@ by Jeremiah Grossman, Seth Fogie, Robert C. Hansen
 <h2><a name="reveng_t" href="#reveng_c">Reverse Engineering</a></h2>
 <br>
 
+- **Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software** by Michael Sikorski
+- **Reversing: Secrets of Reverse Engineering** by Eldad Eilam
 - Reverse Engineering for Beginners by Dennis Yurichev
-- Reversing: Secrets of Reverse Engineering by Eldad Eilam
 - Practical Reverse Engineering: X86, X64, ARM, Windows Kernel, Reversing Tools, and Obfuscation by Alexandre Gazet, Bruce Dang, and Elias Bachaalany
 - The IDA Pro book by Chris Eagle
-- Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software by Michael Sikorski
 - Hacking the Xbox: An Introduction to Reverse Engineering by Andrew Huang
 - Practical Binary Analysis: Build Your Own Linux Tools for Binary Instrumentation, Analysis, and Disassembly by Dennis Andriesse
 - The Art of Memory Forensics: Detecting Malware and Threats in Windows, Linux, and Mac Memory by Michael Hale Ligh, Andrew Case, Jamie Levy, Aaron Walters
@@ -134,9 +145,10 @@ by Jeremiah Grossman, Seth Fogie, Robert C. Hansen
 <h2><a name="socialeng_t" href="#socialeng_c">Social Engineering</a></h2>
 <br>
 
-- Social Engineering: The Art of Human Hacking by Christopher Hadnagy, Paul Wilson
-- The Art of Deception: Controlling the Human Element of Security by Kevin D. Mitnick, William L. Simon, Steve Wozniak
-- The Art of Intrusion by Kevin Mitnick
+- **Social Engineering: The Art of Human Hacking** by Christopher Hadnagy, Paul Wilson
+- **The Art of Deception: Controlling the Human Element** of Security by Kevin D. Mitnick, William L. Simon, Steve Wozniak
+- **The Art of Intrusion** by Kevin Mitnick
+- Social Engineering: The Science of Human Hacking by Christopher Hadnagy
 
 <br>
 
@@ -145,7 +157,8 @@ by Jeremiah Grossman, Seth Fogie, Robert C. Hansen
 <br>
 
 - Practical Cybersecurity Architecture: A guide to creating and implementing robust designs for cybersecurity architects (2020) by Ed Moyle and Diana Kelley
-- Security Engineering: A Guide to Building Dependable Distributed Systems by Ross J. Anderson
+- Security Engineering: A Guide to Building Dependable Distributed Systems by Ross J. Anderson [4.2, 631]
+- Blue Team Handbook: Incident Response Edition: A condensed field guide for the Cyber Security Incident Responder. by Don Murdoch
 - Practical Cloud Security: A Guide for Secure Design and Deployment by Chris Dotson
 - Secure by Design by Dan Bergh Johnsson, Daniel Deogun, Daniel Sawano
 

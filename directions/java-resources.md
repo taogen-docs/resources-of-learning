@@ -120,6 +120,11 @@ Reference [Programming Language Resources - Programming Paradigms](../domains/pr
 - Why Reactive ? by Konrad Malawski 
 - Hands-On Reactive Programming in Spring 5: Build cloud-ready, reactive systems with Spring 5 and Project Reactor by Oleh Dokuka
 
+#### Security
+
+- Java Security (2nd, 2001)by Scott Oaks
+- Beginning Cryptography with Java by David Hook
+
 #### JVM Languages
 
 > Scala, Groovy, Closure, and Kotlin
@@ -300,11 +305,6 @@ Web Frameworks
   - Spring Cloud Documentation, Current Version - [HTML](https://docs.spring.io/spring-cloud/docs/current/reference/htmlsingle), [PDF](https://docs.spring.io/spring-cloud/docs/current/reference/pdf/spring-cloud.pdf)
   - Spring Microservices in Action by John Carnells
 
-Web Security
-
-- Spring Security
-  - Spring Security in Action (2020) by Laurentiu Spilca
-
 Web Services
 
 
@@ -334,7 +334,11 @@ Web Services
 
 ### Web Security
 
-Reference [Information Security - Web Security](information-security-resources.md#websec_t)
+- Iron-Clad Java: Building Secure Web Applications by Jim Manico, August Detlefsen
+- Spring Security
+  - Spring Security in Action (2020) by Laurentiu Spilca
+
+For more, see [Information Security - Web Security](information-security-resources.md#websec_t)
 
 ### Web Frontend
 
