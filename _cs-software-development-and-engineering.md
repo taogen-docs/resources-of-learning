@@ -406,6 +406,19 @@ Organization Management
 - **Lean Enterprise: How High Performance Organizations Innovate at Scale** by Jez Humble
 - Fearless Change: Patterns for Introducing New Ideas by Mary Lynn Manns
 
+Tech Leader
+
+- **The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change** by Camille Fournier
+- **Extreme Ownership: How U.S. Navy SEALs Lead and Win** by Jocko Willink, Leif Babin
+- Staff Engineer: Leadership beyond the management track by Will Larson
+- **An Elegant Puzzle: System of Engineering Management** by Will Larson
+- Accelerate: Building and Scaling High-Performance Technology Organizations by Nicole Forsgern
+- Start with Why: How Great Leaders Inspire Everyone to Take Action by Simon Sinek
+
+Open Source Organization
+
+- Working in Public: The Making and Maintenance of Open Source Software by Nadia Eghbal
+
 Business
 
 - **The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses** by Eric Ries
@@ -491,18 +504,6 @@ Programmer
 - 97 Things Every Programmer Should Know: Collective Wisdom from the Experts by Kevlin Henney
 - A Brief History of Hackerdom by Raymond.  Eric S. Raymond 
 - The Productive Programmer by Neal Ford 
-
-Tech Leader
-
-- **The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change** by Camille Fournier
-- **Extreme Ownership: How U.S. Navy SEALs Lead and Win** by Jocko Willink, Leif Babin
-- A Elegant Puzzle: System of Engineering Management by Will Larson
-- Accelerate: Building and Scaling High-Performance Technology Organizations by Nicole Forsgern
-- Start with Why: How Great Leaders Inspire Everyone to Take Action by Simon Sinek
-
-Open Source Organization
-
-- Working in Public: The Making and Maintenance of Open Source Software by Nadia Eghbal
 
 For Interview
 
