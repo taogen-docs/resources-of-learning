@@ -127,6 +127,8 @@ Others
 >
 > Multi-player Game
 
+- Game Programming Patterns by Robert Nystrom
+
 <br>
 
 <h2><a name="dbms_t" href="#dbms_c">Database Systems and Data Storage</a></h2>
