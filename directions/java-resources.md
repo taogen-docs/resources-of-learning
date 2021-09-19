@@ -142,22 +142,30 @@ JVM Internals
 - **The Java® Virtual Machine Specification Java SE 8 Edition** - [DOC](https://docs.oracle.com/javase/specs/jvms/se8/html/index.html), [PDF](https://docs.oracle.com/javase/specs/jvms/se8/jvms8.pdf)
 - The Java® Virtual Machine Specification Java SE 11 Edition - [DOC](https://docs.oracle.com/javase/specs/jvms/se11/html/index.html), [PDF](https://docs.oracle.com/javase/specs/jvms/se11/jvms11.pdf)
 - **Oracle JRockit: The Definitive Guide** by Marcus Hirt, Marcus Lagergren. A great book to understand JVM internals.
-- Inside the Java Virtual Machine (2nd, 2000) by Bill Venners
+- Inside the Java 2 Virtual Machine (2nd, 2000) by Bill Venners
+- 深入理解Java虚拟机: JVM高级特性与最佳实践 (3rd, 2019) by 周志明
+- Garbage Collection
+  - **The Garbage Collection Handbook: The Art of Automatic Memory Management** by Jones, Richard [4.38, 40]
+  - 垃圾回收的算法与实现 (2016) by 中村成洋 (8.2)
+- Others
+  - [Java Objects Inside Out](https://shipilev.net/jvm/objects-inside-out/) by Aleksey Shipilёv
 
 For JVM Tuning
 
 - **Java Performance: The Definitive Guide** (2014) by Scott Oaks [4.38, 200]
-- Java Performance: In-Depth Advice for Tuning and Programming Java 8, 11, and Beyond (2020) by Scott Oaks
+- **Java Performance: In-Depth Advice for Tuning and Programming Java 8, 11, and Beyond** (2020) by Scott Oaks
 - **Java Performance** (2011) by Charlie Hunt [4.12, 200]
 - Java Performance Companion (2016) by Charlie Hunt [3.77]
 - **Optimizing Java: Practical Techniques for Improving JVM Application Performance** (2018) by Benjamin J. Evans, James Gough [4.37, 46]
-- **The Garbage Collection Handbook: The Art of Automatic Memory Management** by Jones, Richard [4.38, 40]
-- 深入理解Java虚拟机: JVM高级特性与最佳实践 (3rd, 2019) by 周志明
-- 垃圾回收的算法与实现 (2016) by 中村成洋 (8.2)
 - Java Performance Tuning (2nd, 2003) by Jack Shirazi [3.56]
-- Inside the Java 2 Virtual Machine (2nd, 2000) by Bill Venners
 - Java程序性能优化-让你的Java程序更快、更稳定 (2012) by 葛一鸣 (8.1)
 - 实战Java虚拟机 (2015) by 葛一鸣 (8.1)
+- Java Performance and Scalability: A Quantitative Approach by Henry H. Liu
+- System Performance Analysis
+  - Systems Performance: Enterprise and the Cloud (2nd, 2020) by Brendan Gregg
+  - BPF Performance Tools by Brendan Gregg
+  - Linux Observability with Bpf: Advanced Programming for Performance Analysis and Networking by David Calavera, Lorenzo Fontana
+  - Software Performance and Scalability: A Quantitative Approach by Henry H. Liu
 
 For HotSpot JVM
 
