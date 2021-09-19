@@ -302,6 +302,7 @@ Must Read
 - Modern Compiler Implementation in C (2004) by Andrew W. Appel (**虎书**)
 - Advanced Compiler Design and Implementation (1997) by Steven Muchnick (**鲸书**)
 - Concepts, Techniques, and Models of Computer Programming (2004) by Peter Van Roy, Seif Haridi
+- Crafting Interpreters (2021) by Robert Nystrom 
 
 Some More
 
@@ -309,6 +310,18 @@ Some More
 - Parsing Techniques (2008) by Dick Grune, Ceriel J.H. Jacobs 
 - 程序员的自我修养 (2009) by 俞甲子, 石凡, 潘爱民 
 - Language Implementation Patterns: Techniques for Implementing Domain-Specific Languages by Terence Parr
+- Writing Compilers and Interpreters: A Software Engineering Approach by Ronald Mak
+
+Programming Language Design
+
+- Programming Language Pragmatics (4th, 2015) by Michael L. Scott
+- Purely Functional Data Structures by Chris Okasaki
+- The Art of the Metaobject Protocol by Gregor Kiczales, Jim Des Rivieres, Daniel G. Bobrow
+- The Design and Evolution of C++ by Bjarne Stroustrup
+- Build Your Own Lisp by Daniel Holden
+- Algorithms Plus Data Structures Equals Programs by Niklaus Wirth
+- Writing An Interpreter In Go by Thorsten Ball
+- The Garbage Collection Handbook: The Art of Automatic Memory Management by Richard Jones
 
 <br>
 
