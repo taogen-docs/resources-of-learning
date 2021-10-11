@@ -61,6 +61,10 @@ Performance
 
 - Every Computer Performance Book: How to Avoid and Solve Performance Problems on The Computers You Work With by Bob Wescott, Anna Macijeski
 
+Debugging
+
+- Debugging: The 9 Indispensable Rules for Finding Even the Most Elusive Software and Hardware Problems by David J Agans
+
 <br>
 
 <h2><a name="devtools_t" href="#devtools_c">Development Tools</a></h2>
@@ -398,7 +402,8 @@ Must Read
 Project Management
 
 - Righting Software (2019) by Juval Löwy
-- The Deadline: A Novel about Project Management by Tom DeMarco 
+- The Deadline: A Novel about Project Management by Tom DeMarco
+- Team Geek: A Software Developer's Guide to Working Well with Others by Brian W. Fitzpatrick, Ben Collins-Sussman
 
 Organization Management
 
@@ -412,8 +417,10 @@ Tech Leader
 - **Extreme Ownership: How U.S. Navy SEALs Lead and Win** by Jocko Willink, Leif Babin
 - Staff Engineer: Leadership beyond the management track by Will Larson
 - **An Elegant Puzzle: System of Engineering Management** by Will Larson
+- **Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered** by Austin Kleon
 - Accelerate: Building and Scaling High-Performance Technology Organizations by Nicole Forsgern
 - Start with Why: How Great Leaders Inspire Everyone to Take Action by Simon Sinek
+- The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact by Edmond Lau
 
 Open Source Organization
 
@@ -499,11 +506,17 @@ Programmer
 - **The Passionate Programmer** by Chad Fowler
 - **Pragmatic Thinking and Learning: Refactor Your Wetware** by Andy Hunt
 - **Never Split the Difference** by Chris Voss, Tahl Raz
+- **Managing Oneself** by Peter F. Drucker
+- **High Output Management** by Andrew S. Grove
 - Programming Beyond Practices: Be More Than Just a Code Monkey by Gregory T. Brown
 - Effective Programming: More Than Writing Code by Jeff Atwood
 - 97 Things Every Programmer Should Know: Collective Wisdom from the Experts by Kevlin Henney
 - A Brief History of Hackerdom by Raymond.  Eric S. Raymond 
 - The Productive Programmer by Neal Ford 
+
+Some more
+
+- Out of Their Minds: The Lives and Discoveries of 15 Great Computer Scientists by Dennis E. Shasha, Cathy A. Lazere
 
 For Interview
 
@@ -712,8 +725,9 @@ Websites
 - [默沙东诊疗手册](https://www.msdmanuals.cn/)
 - [丁香医生](https://dxy.com/)
 
-
 ## Others
 
+Writing
+
 - The Elements of Style by William Strunk Jr
-- The Visual Display of Quantitative Information by Edward R. Tufte
+- The Only Grammar Book You'll Ever Need: A One-Stop Source for Every Writing Assignment by Susan Thurman

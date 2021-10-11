@@ -70,6 +70,7 @@ Books
 
 - Python Programming: An Introduction to Computer Science (3rd, 2016) by John Zelle
 - Think Like a Programmer: An Introduction to Creative Problem Solving (2012) by V. Anton Spraul
+- How to Design Programs: An Introduction to Programming and Computing by Matthias Felleisen, Robert Bruce Findler, Matthew Flatt
 
 Guidance
 
@@ -116,8 +117,12 @@ For Interview
 - 编程之美 (2008) by 《编程之美》小组
 - 程序员代码面试指南：IT名企算法与数据结构题目最优解 (2015) by 左程云 
 
-For ACM
+For Programming Contest
 
+- Guide to Competitive Programming: Learning and Improving Algorithms Through Contests (2nd, 2020) by Antti Laaksonen
+- Competitive Programmer's Handbook (2020) by Antti Laaksenon
+- Programming Challenges: The Programming Contest Training Manual (2003) by Steven S Skiena
+- Competitive Programming 3 (3rd, 2013) by Steven Halim, Felix Halim
 - 挑战程序设计竞赛 (2013) by 秋叶拓哉
 - 算法竞赛入门经典（2nd, 2014）by  刘汝佳 
 - 信息学奥赛一本通 (2013) by 董永建
@@ -171,7 +176,9 @@ Advanced
 
 <br>
 
-- Introduction to the Theory of Computation by Michael Sipser
+- Introduction to the Theory of Computation (3rd, 2012) by Michael Sipser
+- Computational Complexity: A Modern Approach (2009) by Sanjeev Arora, Boaz Barak
+- The Nature of Computation (2011) by Cristopher Moore, Stephan Mertens
 
 <br>
 
@@ -372,6 +379,7 @@ System and Command Line
 - 鸟哥的Linux私房菜：服务器架设篇 (3th, 2012) by 鸟哥
 - Beginning Linux Programming by Mathew Neil and Richard Stones
 - Linux for Beginners: An Introduction to the Linux Operating System by Jason Cannon
+- **Harley Hahn's Guide to Unix and Linux** by Harley Hahn
 
 Shell
 
@@ -644,3 +652,9 @@ Courses
 [2] [71 OF THE BEST PLACES TO LEARN TO CODE FOR FREE](https://learntocodewith.me/posts/code-for-free/)
 
 [3] [The 50 Best Websites to Learn Python](https://www.codeconquest.com/blog/the-50-best-websites-to-learn-python/)
+
+[4] [How-to-be-a-good-programmer](https://github.com/niudai/How-to-be-a-good-programmer)
+
+[5] [程序员必读书单 1.0](http://lucida.me/blog/developer-reading-list/)
+
+[6] [程序员必读书单 1.0 -- 六年后的回顾](http://lucida.me/blog/developer-reading-list-retro/)

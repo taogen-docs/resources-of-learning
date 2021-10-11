@@ -108,26 +108,39 @@ Responsible Design
 <h3><a name="webdes_t" href="#webdes_c">Web Design</a></h3>
 <br>
 
+Must Read
 
-- Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability by Steve Krug
+
+- **Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability** by Steve Krug
+- **The Design of Everyday Things** by Donald A. Norman
+- **100 Things Every Designer Needs to Know about People** by Susan M. Weinschenk
+- **Hooked: How to Build Habit-Forming Products** by Nir Eyal
+- **Thinking with Type** by Ellen Lupton
+- **The Non-Designer's Design Book** by Robin P. Williams
 - Letting Go of the Words: Writing Web Content that Works by Janice G. Redish
-- The Zen of CSS Design: Visual Enlightenment for the Web by Dave Shea, Molly E. Holzschlag
 - Design Basics Index by Jim Krause
 - Designing With Web Standards by Jeffrey Zeldman
+- Designing for Emotion by Aarron Walter
+- The Principles of Beautiful Web Design by Jason Beaird
+- Universal Principles of Design: 100 Ways to Enhance Usability, Influence Perception, Increase Appeal, Make Better Design Decisions, and Teach Through Design by William Lidwell, Jill Butler, Kritina Holden
+- Mobile First by Luke Wroblewski
+- Design Is a Job by Mike Monteiro
+- Designing with the Mind in Mind: Simple Guide to Understanding User Interface Design Rules by Jeff Johnson
+- About Face: The Essentials of Interaction Design (4th, 2014) by Alan Cooper , Robert Reimann
+- Information Architecture for the World Wide Web: Designing Large-Scale Web Sites by Peter Morville
+- The Elements of User Experience: User-Centered Design for the Web by Jesse James Garrett
+- Bulletproof Web Design: Improving flexibility and protecting against worst-case scenarios with XHTML and CSS by Dan Cederholm
+
+Some More
+
+
+- The Zen of CSS Design: Visual Enlightenment for the Web by Dave Shea, Molly E. Holzschlag
 - HTML5 for Web Designers by Jeremy Keith
 - CSS3 For Web Designers by Dan Cederholm
-- Mobile First by Luke Wroblewski
-- Designing for Emotion by Aarron Walter
-- Information Architecture for the World Wide Web: Designing Large-Scale Web Sites by Peter Morville
 - Web Standards Solutions: The Markup and Style Handbook by Dan Cederholm
-- The Principles of Beautiful Web Design by Jason Beaird
-- Thinking with Type by Ellen Lupton
-- Design Is a Job by Mike Monteiro
 - The Web Designer's Idea Book: The Ultimate Guide To Themes, Trends Styles In Website Design by Patrick McNeil
 - The Elements of Content Strategy by Erin Kissane
-- The Elements of User Experience: User-Centered Design for the Web by Jesse James Garrett
 - The Future of the Internet--And How to Stop It by Jonathan L. Zittrain
-- Bulletproof Web Design: Improving flexibility and protecting against worst-case scenarios with XHTML and CSS by Dan Cederholm
 
 <br>
 
