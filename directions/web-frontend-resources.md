@@ -175,7 +175,7 @@ Intermediate
 Advanced
 
 - ⭐**JavaScript: The Good Parts** (2008) by Douglas Crockford
-- ⭐You Don't Know JS Series
+- ⭐You Don't Know JS Series [GitHub](https://github.com/getify/You-Dont-Know-JS)
   - You Don't Know JS: Up & Going [1] by Kyle Simpson
   - You Don't Know JS: Scope & Closures [2] by Kyle Simpson
   - You Don't Know JS: this & Object Prototypes [3] by Kyle Simpson
@@ -184,6 +184,7 @@ Advanced
   - You Don't Know JS: ES6 & Beyond [6] by Kyle Simpson
 - ⭐**Secrets of the JavaScript Ninja** (2013) by Bear Bibeault and John Resig
 - **Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript** (2012) by David Herman
+- How Javascript Works by Douglas Crockford
 - JavaScript Allongé, the "Six" Edition by Reginald Braithwaite
 - Maintainable JavaScript by Nicholas C. Zakas
 - Understanding ECMAScript 6: The Definitive Guide for JavaScript Developers by Nicholas C. Zakas
