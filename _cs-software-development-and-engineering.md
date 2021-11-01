@@ -589,6 +589,8 @@ Noncompete Agreement
 - [中华人民共和国网络安全法](http://www.gov.cn/xinwen/2016-11/07/content_5129723.htm)
 - [中华人民共和国计算机信息网络国际联网管理暂行规定实施办法](http://www.scio.gov.cn/wlcb/zcfg/Document/306999/306999.htm)
 - [数据安全管理办法（征求意见稿）](http://www.moj.gov.cn/news/content/2019-05/28/zlk_235861.html)
+- [中华人民共和国个人信息保护法 - 全国人民代表大会](http://www.npc.gov.cn/npc/c30834/202108/a8c4e3672c74491a80b53a172bb753fe.shtml)
+- [《中华人民共和国个人信息保护法》全文公布（附权威解读）](http://dsj.guizhou.gov.cn/zwgk/xxgkml/zcwj/zcfg/202108/t20210823_69698584.html)
 
 Robots.txt
 
