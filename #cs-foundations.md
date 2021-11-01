@@ -276,9 +276,18 @@ Courses
 
 <br>
 
-- Professional Assembly Language (2005) by Richard Blum 
-- Assembly Language for Intel-Based Computers (1998) by Kip Irvine
-- Assembly Language: Step-By-Step by Jeff Duntemann
+> A lot of modern Assembly Language classes use AL as a sort of “introduction to computer architecture”, rather than treating it as a useful programming language. That’s one path, and certainly valuable, but you might be better off finding a book from the 70s or early 80s, when actually writing in AL was one of the few high-performance alternatives around.
+>
+> Modern architectures (ARM, MIPS, x86) make it really annoying to try to learn their assembly languages, since architectures are no longer “aimed” at assembly programmers. The instruction sets are easy for a compiler to deal with, but awkward and poorly documented for humans.
+
+- Micro Cookbook, Volume 1, FUNDAMENTALS (1982) by Don Lancaster
+- Professional Assembly Language (2005) by Richard Blum [64, 4.06]
+- Assembly Language for Intel-Based Computers (1998) by Kip Irvine [76, 4.12]
+- **Assembly Language: Step-By-Step** (2009) by Jeff Duntemann [165, 4.24]
+- The Art of Assembly Language (2nd, 2010) by Randall Hyde [101, 3.77]
+- Assembly Language for x86 Processors by Kip R. Irvine [82, 3.98]
+- Programming from the Ground Up by Jonathan Bartlett [67, 4.15]
+- ARM Assembly Language Programming & Architecture by Muhammad Ali Mazidi, Sarmad Naimi, Sepehr Naimi, Janice Mazidi
 - 汇编语言 (2003) by 王爽 
 
 <br>
@@ -345,7 +354,7 @@ Must Read
 
 Some More
 
-- Operating Systems Design and Implementation (3rd, 2006) by Andrew S. Tanenbaum,  Albert S. Woodhull 
+- **Operating Systems Design and Implementation** (3rd, 2006) by Andrew S. Tanenbaum,  Albert S. Woodhull 
 - Principles of Computer System Design: An Introduction by Jerome H. Saltzer
 - Systems Performance (2013) by Brendan Gregg 
 - Orange'S:一个操作系统的实现 (2009) by 于渊
