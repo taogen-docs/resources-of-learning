@@ -47,6 +47,7 @@
 
 - Java SE 8 Documentation [Link 1](https://www.oracle.com/technetwork/java/javase/documentation/index.html)  [Link 2](https://docs.oracle.com/javase/8/)
 - [Java SE White Papers](https://www.oracle.com/technetwork/java/javase/documentation/whitepapers-jsp-139357.html)
+  - [The Java Language Environment](https://www.oracle.com/java/technologies/language-environment.html)
 - The Java® Language Specification Java SE 8 Edition - [DOC](https://docs.oracle.com/javase/specs/jls/se8/html/index.html), [PDF](https://docs.oracle.com/javase/specs/jls/se8/jls8.pdf)
 - JSR-133: Java Memory Model and Thread Specification (Java 1.5, 2004) - [PDF](https://www.cs.umd.edu/~pugh/java/memoryModel/jsr133.pdf)
 - **Effective Java** (3rd, 2017) by Joshua Bloch 
@@ -73,17 +74,25 @@
 
 #### Concurrency Programming
 
+Must Read
+
 - **Java Concurrency in Practice** (2006) by Goetz, Brian. This book is summative, and insightful, not a fundamental book. Before reading this book, you need to understand the basic concepts of Java concurrency. If you are a beginner for Java concurrency, we recommend you to read "The Java Tutorial: A Short Course on the Basics - chapter 13. Concurrency" that is friendly for a beginner.
 - The Art of Multiprocessor Programming by Maurice Herlihy, Nir Shavit
-- Java Threads (3rd, 2004) by Scott Oaks, Henry Wong
+- Java Threads: Understanding and Mastering Concurrent Programming (3rd, 2004) by Scott Oaks, Henry Wong
 - Concurrent Programming in Java: Design Principles and Patterns (2nd, 1999) by Doug Lea 
-- Programming Concurrency on the JVM by Venkat Subramaniam
+- Programming Concurrency on the JVM: Mastering Synchronization, STM, and Actors
+by Venkat Subramaniam
+- Seven Concurrency Models in Seven Weeks: When Threads Unravel (2014) by  Paul Butcher 
+- Top 100 Java Multi-threading Interview Questions by Knowledge Powerhouse
+
+Some More
+
+
 - Java多线程编程实战指南-核心篇 (2017) by 黄文海 (9.8)
 - 图解Java多线程设计模式 (2017) by  [日] 结城浩 (8.5)
 - Java多线程编程实战指南-设计模式篇 (2015) by 黄文海 (8.5)
 - 实战Java高并发程序设计 (2015) by 葛一鸣, 郭超 (8.3)
 - Java并发编程的艺术 (2015)  by 方腾飞,  魏鹏, 程晓明 (7.3)
-- Seven Concurrency Models in Seven Weeks: When Threads Unravel (2014) by  Paul Butcher 
 
 #### Network Programming
 

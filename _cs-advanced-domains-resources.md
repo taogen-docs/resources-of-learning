@@ -12,6 +12,7 @@
   - <a name="webdev_c" href="#webdev_t">Web Development</a>
   - <a name="gamedev_c" href="#gamedev_t">Game Development</a>
   - Mobile Application Development
+  - Desktop Application Development
   - Embedded Development
 - Part II: Infrastructures
   - <a name="dbms_c" href="#dbms_t">Database Systems and Data Storage</a>
@@ -29,6 +30,7 @@
   - Virtual Reality (VR) and Augmented Reality (AR)
   - Metaverse
   - <a name="quantcomp_c" href="#quantcomp_t">Quantum Computing</a>
+  - Web 3.0
 
 <br>
 
@@ -155,7 +157,7 @@ Courses
 For Database Design
 
 - Database Modeling and Design  by Toby J. Teorey
-- Beginning Database Design by Clare Churcher
+- **Beginning Database Design** by Clare Churcher
 - Relational Database Index Design and the Optimizers by Tapio Lahdenmaki
 
 For SQL
@@ -370,6 +372,10 @@ Papers of Distributed Systems
 
 - [Distributed Systems Reading List](https://dancres.github.io/Pages/)
 - [Distributed Systems Reading List - CS Rutgers](https://www.cs.rutgers.edu/~pxk/417/readinglist.html)
+
+Courses
+
+- [Distributed Systems lecture series](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB) by Martin Kleppmann
 
 More Distributed Systems
 
@@ -790,6 +796,14 @@ For Quantum Physics
 - Quantum Mechanics: The Theoretical Minimum by Leonard Susskind, Art Friedman
 - Quantum Enigma: Physics Encounters Consciousness by Bruce Rosenblum and Fred Kuttner
 - The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory by Brian Greene, Erik Davies
+
+<br>
+
+## Web 3.0
+
+<br>
+
+- [What Is Web 3.0 & Why It Matters](https://medium.com/fabric-ventures/what-is-web-3-0-why-it-matters-934eb07f3d2b)
 
 <br>
 
