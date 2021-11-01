@@ -71,6 +71,13 @@ Debugging
 
 <br>
 
+### AI code completion tool
+
+- [GitHub Copilot](https://copilot.github.com/) by GitHub and OpenAI
+- [tabnine](https://www.tabnine.com/)
+- [kite](https://www.kite.com/)
+- [OpenAI Codex](https://openai.com/blog/openai-codex/)
+
 ### Git
 
 - Pro Git by Ben Straub and Scott Chacon
