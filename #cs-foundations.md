@@ -404,11 +404,18 @@ Vim
 
 - [Vim documentation](https://www.vim.org/docs.php)
 - [Vim help files](https://vimhelp.org/) (also accessible via the `:help` command)
+- `$vimtutor`
 - [Vim Cheat Sheet](https://vim.rtorr.com/)
+- [vim-galore](https://github.com/mhinz/vim-galore). Everything you need to know about Vim.
 - Learning the vi and Vim Editors by Arnold Robbins and Linda Lamb
 - Practical Vim: Edit Text at the Speed of Thought by Drew Neil
 - A Byte of Vim by Swaroop C.H.
 - Modern Vim: Craft Your Development Environment with Vim 8 and Neovim by Drew Neil
+- Advanced
+  - Learn Vimscript the Hard Way by Steve Losh
+- Vim Tools
+  - IDEA Plugins: IdeaVim, IdeaVimExtension, AceJump
+  - Chrome Plugins: cVim
 
 Sed & Awk
 
