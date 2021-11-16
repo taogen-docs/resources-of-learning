@@ -333,6 +333,10 @@ Web Frameworks
 
 - [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
 
+#### Android Studio
+
+- [Android Studio User Guide](https://developer.android.com/studio/intro)
+
 
 ### Kotlin 📈
 
