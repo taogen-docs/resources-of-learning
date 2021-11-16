@@ -245,6 +245,10 @@ Courses
 - [Learn JavaScript - Full Course for Beginners - YouTube](https://www.youtube.com/watch?v=PkZNo7MFNFg)
 - [JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour - YouTube](https://www.youtube.com/watch?v=W6NZfCO5SIk)
 
+Quizzes
+
+- [JS Is Weird](https://jsisweird.com/)
+
 <br>
 
 <h3><a name="jq_t" href="#jq_c">jQuery</a></h3>

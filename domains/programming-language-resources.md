@@ -329,6 +329,10 @@ Web Frameworks
 - Learning Android by Marko Gargenta
 - Programming Android: Java Programming for the New Generation of Mobile Devices by Zigurd Mednieks, Laird Dornin, G. Blake Meike, Masumi Nakamura
 
+#### Android in Kotlin
+
+- [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
+
 
 ### Kotlin 📈
 
