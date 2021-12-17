@@ -157,6 +157,7 @@ Prime
 - A Friendly Introduction to Number Theory (4th, 2017) by Joseph H.Silverman 
 - Numerical Recipes (3rd, 2007) by William H. Press
 - Math for Programmers (2019) by Paul Orland
+- Software Foundations [HTML](https://softwarefoundations.cis.upenn.edu/)
 
 Advanced
 
@@ -318,7 +319,8 @@ Must Read
 - Modern Compiler Implementation in C (2004) by Andrew W. Appel (**虎书**)
 - Advanced Compiler Design and Implementation (1997) by Steven Muchnick (**鲸书**)
 - Concepts, Techniques, and Models of Computer Programming (2004) by Peter Van Roy, Seif Haridi
-- Crafting Interpreters (2021) by Robert Nystrom 
+- Crafting Interpreters (2021) by Robert Nystrom
+- My First Language Frontend with LLVM Tutorial [HTML](https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html)
 
 Some More
 
@@ -327,6 +329,7 @@ Some More
 - 程序员的自我修养 (2009) by 俞甲子, 石凡, 潘爱民 
 - Language Implementation Patterns: Techniques for Implementing Domain-Specific Languages by Terence Parr
 - Writing Compilers and Interpreters: A Software Engineering Approach by Ronald Mak
+- Practical Foundations for Programming Languages by Robert Harper
 
 Programming Language Design
 
@@ -356,7 +359,8 @@ Some More
 
 - **Operating Systems Design and Implementation** (3rd, 2006) by Andrew S. Tanenbaum,  Albert S. Woodhull 
 - Principles of Computer System Design: An Introduction by Jerome H. Saltzer
-- Systems Performance (2013) by Brendan Gregg 
+- Systems Performance (2013) by Brendan Gregg
+- Operating Systems: Principles and Practice (2nd, 2015) by Thomas Anderson, Michael Dahlin
 - Orange'S:一个操作系统的实现 (2009) by 于渊
 - 操作系统真象还原 (2016) by 郑钢
 - 一个64位操作系统的设计与实现 (2018) by 田宇
@@ -674,3 +678,5 @@ Courses
 [5] [程序员必读书单 1.0](http://lucida.me/blog/developer-reading-list/)
 
 [6] [程序员必读书单 1.0 -- 六年后的回顾](http://lucida.me/blog/developer-reading-list-retro/)
+
+[7] [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)

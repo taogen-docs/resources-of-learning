@@ -141,6 +141,7 @@ Others
 - **Database System Concepts** (6th, 2010) by Sudarshan, Korth
 - Fundamentals of Database System (7th, 2017) by Ramez Elmasri,  Shamkant B. Navathe
 - Database System Implementation by Hector Garcia-Molina, Jeffrey D.Ullman and  Jennifer Widom
+- Architecture of a Database System by James Hamilton, Joseph M. Hellerstein, and Michael Stonebraker [PDF](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf)
 
 Some More
 
@@ -350,6 +351,7 @@ Must Read
 - **Designing Data-Intensive Applications** by Martin Kleppmann
 - **Distributed Systems For Fun and Profit** by Mikito Takada. Great intro book to distributed systems theory, with plenty of references to learn more once you're done.
 - Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services by Brendan Burns. Patterns and Paradigms for container architecture. Useful but shallow.
+- Patterns of Distributed Systems by Unmesh Joshi [HTML](https://martinfowler.com/articles/patterns-of-distributed-systems/)
 
 Some More
 
@@ -632,6 +634,7 @@ Middleware - Database Cluster
 - Fundamentals of Deep Learning: Designing Next-Generation Machine Intelligence Algorithms by Nicholas Locascio and Nikhil Buduma
 - The Deep Learning Revolution by Terry Sejnowski
 - Deep Learning Cookbook: Practical Recipes to Get Started Quickly by Douwe Osinga
+- Dive into Deep Learning [HTML](https://d2l.ai/)
 
 ### Reinforcement Learning
 
