@@ -304,25 +304,41 @@ AOP
 
 Web Frameworks
 
-- Spring Framework
-  - [Spring Framework Reference Documentation 3.2.18 - doc](https://docs.spring.io/spring/docs/3.2.x/spring-framework-reference/html/)
-  - [Spring Framework Current Documentation - doc](https://docs.spring.io/spring/docs/current/spring-framework-reference/)
-  - [Spring Framework libs-release](https://repo.spring.io/libs-release/org/springframework/spring/)
-  - **Spring in Action** by Craig Walls
-  - **Expert One-On-One J2EE without EJB** by Rod Johnson. It explains the why behind spring as well as the how to use it.
-  - Spring 5 Recipes: A Problem-Solution Approach
-  - **Spring 揭秘** (2009) by 王福强
-  - Spring 3.x企业应用开发实战 by  陈雄华 
-- Spring Boot
-  - [Spring Boot Current Documentation - doc](https://docs.spring.io/spring-boot/docs/current/reference/html/)
-  - Spring Boot in Action by Craig Walls
-  - Learning Spring Boot 2.0
-  - Spring Boot Persistence Best Practices: Optimize Java Persistence Performance in Spring Boot Applications (2020) by Anghel Leonard
-- Spring Cloud
-  - Spring Cloud Documentation, Current Version - [HTML](https://docs.spring.io/spring-cloud/docs/current/reference/htmlsingle), [PDF](https://docs.spring.io/spring-cloud/docs/current/reference/pdf/spring-cloud.pdf)
-  - Spring Microservices in Action by John Carnells
+Spring Framework
 
-Web Services
+>  The Spring Framework simplifies Java development.
+
+- [Spring Framework Reference Documentation 3.2.18 - doc](https://docs.spring.io/spring/docs/3.2.x/spring-framework-reference/html/)
+- [Spring Framework Current Documentation - doc](https://docs.spring.io/spring/docs/current/spring-framework-reference/)
+- [Spring Framework libs-release](https://repo.spring.io/libs-release/org/springframework/spring/)
+- **Spring in Action** by Craig Walls
+- **Expert One-On-One J2EE without EJB** by Rod Johnson. It explains the why behind spring as well as the how to use it.
+- Spring 5 Recipes: A Problem-Solution Approach
+- **Spring 揭秘** (2009) by 王福强
+- Spring 3.x企业应用开发实战 by  陈雄华 
+
+Spring Boot
+
+> Spring Boot removes the friction and boilerplate code involved with developing a REST-based service.
+
+- [Spring Boot Current Documentation - doc](https://docs.spring.io/spring-boot/docs/current/reference/html/)
+- Spring Boot in Action by Craig Walls
+- Learning Spring Boot 2.0
+- Spring Boot Persistence Best Practices: Optimize Java Persistence Performance in Spring Boot Applications (2020) by Anghel Leonard
+
+### Web Services
+
+Spring Cloud
+
+> Microservices are nothing but an extension of RESTful web services with the main objective being to break up your code into small, distributed, and independent services for better management.
+>
+> Spring Cloud provides a suite of tools for the discovery, routing, and deployment of microservices to the enterprise and the cloud.
+
+- Spring Cloud Documentation, Current Version - [HTML](https://docs.spring.io/spring-cloud/docs/current/reference/htmlsingle), [PDF](https://docs.spring.io/spring-cloud/docs/current/reference/pdf/spring-cloud.pdf)
+- Cloud Native Java: Designing Resilient Systems with Spring Boot, Spring Cloud, and Cloud Foundry by Josh Long, Kenny Bastani
+- Spring Microservices in Action by John Carnells
+
+Others
 
 
 - Microservices Patterns: With examples in Java by Chris Richardson 
@@ -340,7 +356,6 @@ Web Services
 - Microservices in Production by Susan Fowler
 - Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation by Jez Humble
 - Migrating to Microservice Databases by Edson Yanaga
-- Cloud Native Java: Designing Resilient Systems with Spring Boot, Spring Cloud, and Cloud Foundry by Josh Long, Kenny Bastani
 - Microservices for Java Developers A Hands-On Introduction to Frameworks and Containers by Christian Posta
 - Microservice Architecture: Aligning Principles, Practices, and Culture by Irakli Nadareishvili
 - Microservices: Flexible Software Architectures by Eberhard Wolff
