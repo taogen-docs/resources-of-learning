@@ -602,6 +602,10 @@ Robots.txt
 - [中华人民共和国反不正当竞争法](http://gkml.samr.gov.cn/nsjg/fgs/201906/t20190625_302771.html)
 - [中华人民共和国反垄断法](http://www.gov.cn/flfg/2007-08/30/content_732591.htm)
 
+### Other Laws
+
+- [互联网用户公众账号信息服务管理规定](http://www.cac.gov.cn/2021-01/22/c_1612887880656609.htm)
+
 <br>
 
 <h2><a name="health_t" href="#health_c">Health</h2></a>

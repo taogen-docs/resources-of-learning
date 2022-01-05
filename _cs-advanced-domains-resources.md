@@ -717,6 +717,7 @@ Papers
 Must Read
 
 - **Bitcoin: A Peer-to-Peer Electronic Cash System** [PDF](https://bitcoin.org/bitcoin.pdf)
+- The Bitcoin Lightning Network: Scalable Off-Chain Instant Payments [PDF](https://lightning.network/lightning-network-paper.pdf)
 - [Bitcoin Core - GitHub](https://github.com/bitcoin/bitcoin)
 - [Bitcoin - Wikipedia](https://en.wikipedia.org/wiki/Bitcoin)
 - **The Internet of Money** by Andreas M. Antonopoulos
