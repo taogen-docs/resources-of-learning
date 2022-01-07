@@ -130,6 +130,7 @@ Others
 > Multi-player Game
 
 - Game Programming Patterns by Robert Nystrom
+- BASIC Computer Games by David H. Ahl
 
 <br>
 
@@ -699,18 +700,56 @@ Papers
 
 ### Blockchain
 
+#### Introduction to Blockchain
+
 - [Blockchain - Wikipedia](https://en.wikipedia.org/wiki/Blockchain)
 - **Blockchain Basics: A Non-Technical Introduction in 25 Steps** by Daniel Drescher
 - **Blockchain Bubble or Revolution: The Present and Future of Blockchain and Cryptocurrencies** by Neel Mehta
 - Blockchain: Blueprint for a New Economy by Melanie Swan
 - The Business Blockchain: Promise, Practice, and Application of the Next Internet Technology by William Mougayar
+- Blockchain Wars: The Future of Big Tech Monopolies and the Blockchain Internet by Evan McFarland
+- The Sovereign Individual: Mastering the Transition to the Information Age by James Dale Davidson, William Rees-Mogg
+- The Price of Tomorrow: Why Deflation is the Key to an Abundant Future by Jeff Booth
+- The Creature from Jekyll Island: A Second Look at the Federal Reserve by G. Edward Griffin
+- Blockchain For Dummies by Tiana Laurence
+- Financial Services Revolution: How Blockchain is Transforming Money, Markets, and Banking by Alex Tapscott
+- Irrational Exuberance by Robert J. Shiller
+- The Infinite Machine: How an Army of Crypto-hackers Is Building the Next Internet with Ethereum by Camila Russo
+
+#### Techniques of Blockchain
+
+- Mastering Blockchain: Distributed Ledgers, Decentralization and Smart Contracts Explained by Imran Bashir
+- Mastering Blockchain: A deep dive into distributed ledgers, consensus protocols, smart contracts, DApps, cryptocurrencies, Ethereum, and more by Imran Bashir
+- Mastering Blockchain: Unlocking the Power of Cryptocurrencies, Smart Contracts, and Decentralized Applications by Lorne Lantz, Daniel Cawrey
+
+Lightning Network (Layer 2)
+
+- Mastering the Lightning Network: A Second Layer Blockchain Protocol for Instant Bitcoin Payments by Andreas M. Antonopoulos, Olaoluwa Osuntokun, Ren Pickhardt
 
 ### Cryptocurrencies
 
-#### General
+#### Introduction to Cryptocurrencies
 
 - [Coin Center - Education](https://www.coincenter.org/education/)
 - [Blockchain and Money - MIT Course](https://ocw.mit.edu/courses/sloan-school-of-management/15-s12-blockchain-and-money-fall-2018/index.htm)
+- The Fiat Standard: The Debt Slavery Alternative to Human Civilization by Saifedean Ammous
+- Layered Money: From Gold and Dollars to Bitcoin and Central Bank Digital Currencies by Nik Bhatia
+- Blockchain Bubble or Revolution: The Present and Future of Blockchain and Cryptocurrencies by Neel Mehta, Aditya Agashe, Parth Detroja 
+- The Basics of Bitcoins and Blockchains: An Introduction to Cryptocurrencies and the Technology that Powers Them by Antony Lewis
+- Narrative Economics: How Stories Go Viral and Drive Major Economic Events by Robert J. Shiller
+- Kings of Crypto: One Startup's Quest to Take Cryptocurrency Out of Silicon Valley and Onto Wall Street by Jeff John Roberts
+
+#### Crypto Mining
+
+- Cryptocurrency Mining For Dummies by Peter Kent, Tyler Bain
+- Cryptocurrency Mining: A Complete Beginners Guide to Mining Cryptocurrencies, Including Bitcoin, Litecoin, Ethereum, Altcoin, Monero, and Others by Crypto Tech Academy
+
+#### Crypto Investing
+
+- Cryptocurrency Investing For Dummies by Kiana Danial
+- The Only Bitcoin Investing Book You’ll Ever Need: An Absolute Beginner’s Guide to the Cryptocurrency Which Is Changing the World and Your Finances in 2021 & Beyond by Freeman Publications
+- The Everything Guide to Investing in Cryptocurrency: From Bitcoin to Ripple, the Safe and Secure Way to Buy, Trade, and Mine Digital Currencies by Ryan Derousseau
+- Cryptoassets: The Innovative Investor's Guide to Bitcoin and Beyond by Chris Burniske, Jack Tatar
 
 #### Bitcoin
 
@@ -723,6 +762,7 @@ Must Read
 - **The Internet of Money** by Andreas M. Antonopoulos
 - **The Bitcoin Standard: The Decentralized Alternative to Central Banking** (2018) by Saifedean Ammous 
 - **Mastering Bitcoin: Unlocking Digital Cryptocurrencies** by Andreas Antonopoulos
+- Mastering Bitcoin: Programming the Open Blockchain (2nd, 2017) by Andreas Antonopoulos
 - **Cryptoassets: The Innovative Investor's Guide to Bitcoin and Beyond** by Chris Burniske
 - **Digital Gold: Bitcoin and the Inside Story of the Misfits and Millionaires Trying to Reinvent Money** by Nathaniel Popper
 - Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction by Arvind Narayanan
@@ -732,6 +772,7 @@ Must Read
 - The Age of Cryptocurrency: How Bitcoin and Digital Money Are Challenging the Global Economic Order by Paul Vigna
 - Inventing Bitcoin: The Technology Behind The First Truly Scarce and Decentralized Money Explained by Yan Pritzker
 - 21 Lessons: What I've Learned from Falling Down the Bitcoin Rabbit Hole by Gigi
+
 
 Some More
 
@@ -752,6 +793,24 @@ Resources
 - [Ethereum - Wikipedia](https://en.wikipedia.org/wiki/Ethereum)
 - Mastering Ethereum: Building Smart Contracts and Dapps by Andreas M Antonopoulos
 - Ethereum: Blockchains, Digital Assets, Smart Contracts, Decentralized Autonomous Organizations by Henning Diedrich
+- Out of the Ether: The Amazing Story of Ethereum and the $55 Million Heist that Almost Destroyed It All by Matthew Leising
+- Ethereum For Dummies by Michael G. Solomon
+
+Programming
+
+- Solidity Programming Essentials: A beginner's guide to build smart contracts for Ethereum and blockchain by Ritesh Modi
+- Learn Ethereum: Build your own decentralized applications with Ethereum and smart contracts by Xun Wu, Zhihong Zou, Dongying Song
+- Mastering Blockchain Programming with Solidity: Write production-ready smart contracts for Ethereum blockchain with Solidity by Jitendra Chittoda
+- Beginning Ethereum Smart Contracts Programming: With Examples in Python, Solidity, and JavaScript by Wei-Meng Lee
+- Beginning Ethereum and Solidity with React: Complete Guide to becoming a Blockchain Developer by Greg Lim
+
+Smart Contract
+
+- Hands-On Smart Contract Development with Solidity and Ethereum: From Fundamentals to Deployment by Kevin Solorio, Randall Kanna, Dave Hoover
+
+DApps
+
+- Building Ethereum DApps: Decentralized Applications on the Ethereum Blockchain by Roberto Infante
 
 ### Decentralized Finance (DeFi)
 
@@ -759,14 +818,45 @@ Resources
 - [Decentralized finance - Ethereum](https://ethereum.org/en/defi/)
 - [Top DeFi Tokens by Market Capitalization](https://coinmarketcap.com/view/defi/)
 - [DeFi: The Ultimate Beginner's Guide to Decentralized Finance](https://decrypt.co/resources/defi-ultimate-beginners-guide-decentralized-finance)
+- How to DeFi: Beginner by Coin Gecko, Darren Lau, Sze Jin Teh
+- How to DeFi: Advanced by Coin Gecko, Lucius Fang, Benjamin Hor, Erina Azmi, Win Win Khor
+- DeFi and the Future of Finance by Ashwin Ramachandran, Campbell Harvey, and Joey Santoro
 
-### Non-fungible token (NFT)
+### Non-fungible token (NFT) and Metaverse
+
+NFT
 
 - [Non-fungible token - Wikipedia](https://en.wikipedia.org/wiki/Non-fungible_token)
 - [Non-fungible tokens - Ethereum](https://ethereum.org/en/nft/)
 - [NFTs, explained](https://www.theverge.com/22310188/nft-explainer-what-is-blockchain-crypto-art-faq)
 - [What You Need To Know About Non-Fungible Tokens](https://www.forbes.com/advisor/investing/nft-non-fungible-token/)
+- Token Economy: How the Web3 reinvents the Internet (Token Economy: How the Web3 reinvents the internet by Shermin Voshmgir
+- The NFT Handbook: How to Create, Sell and Buy Non-Fungible Tokens by Matt Fortnow, QuHarrison Terry, Kendrick Nguyen
+- The NFT Revolution 2021: 2 in 1 Basic guide for beginners + Crypto art & Real Estate Edition. Create, buy, sell and make a profit with non-fungible tokens by Crypto Dukedom
+- NFTs for Beginners: Making Money with Non-Fungible Tokens by Oliver J. Rich
+- Nfts for Dummies by Tiana Laurence
+- NFT Investing for Beginners: The Easy Investing Guide to Create, Buy and Sell with Digital Crypto Art and Collectibles. NFT (Non-Fungible Token) by Kevin W. Allen
 
+Metaverse
+
+- Metaverse Investing Beginners Guide To Crypto Art, NFT’s, & Digital Assets in the Metaverse: The Future of Cryptocurreny, Digital Art, (Non Fungible Token) and Blockchain Gaming by The Meta-Verse
+- The Metaverse: Prepare Now For the Next Big Thing! by Terry Winters
+
+### Decentralized Autonomous Organizations (DAOs)
+
+- [Decentralized autonomous organization - Wikipedia](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization)
+- [Decentralized autonomous organizations - Ethereum](https://ethereum.org/en/dao/)
+- [Decentralized Autonomous Organization (DAO)](https://www.investopedia.com/tech/what-dao/)
+- [What Are DAOs And Why You Should Pay Attention](https://www.forbes.com/sites/cathyhackl/2021/06/01/what-are-daos-and-why-you-should-pay-attention/)
+
+<br>
+
+## Web 3.0
+
+<br>
+
+- [What Is Web 3.0 & Why It Matters](https://medium.com/fabric-ventures/what-is-web-3-0-why-it-matters-934eb07f3d2b)
+- The Spatial Web: How Web 3.0 Will Connect Humans, Machines, and AI to Transform the World by Gabriel Rene, Dan Mapes, Jay Samit
 
 <br>
 
@@ -801,13 +891,7 @@ For Quantum Physics
 - Quantum Enigma: Physics Encounters Consciousness by Bruce Rosenblum and Fred Kuttner
 - The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory by Brian Greene, Erik Davies
 
-<br>
 
-## Web 3.0
-
-<br>
-
-- [What Is Web 3.0 & Why It Matters](https://medium.com/fabric-ventures/what-is-web-3-0-why-it-matters-934eb07f3d2b)
 
 <br>
 
