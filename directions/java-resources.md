@@ -335,26 +335,28 @@ Spring Cloud
 > Spring Cloud provides a suite of tools for the discovery, routing, and deployment of microservices to the enterprise and the cloud.
 
 - Spring Cloud Documentation, Current Version - [HTML](https://docs.spring.io/spring-cloud/docs/current/reference/htmlsingle), [PDF](https://docs.spring.io/spring-cloud/docs/current/reference/pdf/spring-cloud.pdf)
-- Cloud Native Java: Designing Resilient Systems with Spring Boot, Spring Cloud, and Cloud Foundry by Josh Long, Kenny Bastani
-- Spring Microservices in Action by John Carnells
+- **Cloud Native Java: Designing Resilient Systems with Spring Boot, Spring Cloud, and Cloud Foundry** (2017) by Josh Long, Kenny Bastani
+- **Spring Microservices in Action** (2nd, 2021) by John Carnells
+- Spring Boot: Up and Running: Building Cloud Native Java and Kotlin Applications (2021) by Mark Heckler
+
+Microservices
+
+- **Microservices Patterns: With examples in Java** (2018) by Chris Richardson 
+- **Building Microservices: Designing Fine-Grained Systems** (2nd, 2021) by Sam Newman
+- **Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith** (2019) by Sam Newman
+- Microservices in Action by Morgan Bruce
 
 Others
 
 
-- Microservices Patterns: With examples in Java by Chris Richardson 
 - Designing Data-Intensive Applications by Martin Kleppmann
 - Release It!: Design and Deploy Production-Ready Software by Michael T. Nygard
 - Microservices From Design to Deployment by Chris Richardson
-- Building Microservices: Designing Fine-Grained Systems by Sam Newman
 - Production-Ready Microservices: Building Standardized Systems Across an Engineering Organization by Susan Fowler
-- Microservices in Action by Morgan Bruce
-- Domain-Driven Design: Tackling Complexity in the Heart of Software by Eric Evans
-- Domain-Driven Design Distilled by Vaughn Vernon
 - Refactoring Databases: Evolutionary Database Design by Scott W. Ambler
 - Migrating to Cloud-Native Application Architectures by Matt Stine
 - Microservices AntiPatterns and Pitfalls by Mark Richards
 - Microservices in Production by Susan Fowler
-- Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation by Jez Humble
 - Migrating to Microservice Databases by Edson Yanaga
 - Microservices for Java Developers A Hands-On Introduction to Frameworks and Containers by Christian Posta
 - Microservice Architecture: Aligning Principles, Practices, and Culture by Irakli Nadareishvili
