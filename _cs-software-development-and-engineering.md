@@ -142,6 +142,19 @@ FaaS Providers
 
 > Software as a service (or SaaS) is a way of delivering applications over the Internet—as a service. Instead of installing and maintaining software, you simply access it via the Internet, freeing yourself from complex software and hardware management.
 
+Top SaaS Companies
+
+- Adobe
+- Atlassian
+- Freshworks
+- Google
+- Microsoft
+- Salesforce
+- SAP
+- ServiceNow
+- Zoho
+- Zoom
+
 ### Platform as a service (PaaS)
 
 > Platform as a service (PaaS) is a cloud computing model where a third-party provider delivers hardware and software tools to users over the internet.
