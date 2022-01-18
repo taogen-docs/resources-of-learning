@@ -21,7 +21,11 @@
   - <a name="vue_c" href="#vue_t">Vue.js</a>
   - <a name="react_c" href="#react_t">React </a>
   - <a name="angular_c" href="#angular_t">AngularJS </a>
+- <a name="ltwt_c" href="#ltwt_t">Lightweight JS Frameworks</a>
   - Svelte
+  - Preact
+  - SolidJS
+
 - <a name="mdweb_c" href="#mdweb_t">Modern Web Frontend</a>
 - <a name="crossplat_c" href="#crossplat_t">Cross-Platform Mobile Applications</a>
   - <a name="flutter_c" href="#flutter_t">Flutter</a>
@@ -38,6 +42,7 @@
 - <a name="fullstack_c" href="#fullstack_t">Full Stack Web Development</a>
   - <a name="node_c" href="#node_t">Node.js</a>
   - *Deno
+  - Remix
   - Databases
   - GraphQL
 - <a name="performance_c" href="#performance_t">Performance</a>
@@ -362,6 +367,18 @@ React Ecosystem
 - AngularJS by Example by Chandermani
 - AngularJS in Action by Brian Ford, Lukas Ruebbelke
 - Professional AngularJS by Diego Netto and Valeri Karpov
+
+<br>
+
+<h2><a name="ltwt_t" href="#ltwt_c">Lightweight JS Frameworks</a></h2>
+
+<br>
+
+Svelte
+
+Preact
+
+SolidJS
 
 <br>
 
