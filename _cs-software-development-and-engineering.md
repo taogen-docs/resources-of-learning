@@ -12,6 +12,7 @@
   - <a name="code_c" href="#code_t">Code</a>
   - <a name="devtools_c" href="#devtools_t">Development Tools</a>
   - <a name="lowcode_c" href="#lowcode_t">Low-Code and No-Code</a>
+  - <a name="xaas_c" href="#xaas_t">Everything as a Service</a>
 - Part II: Software Design
   - <a name="designpatterns_c" href="#designpatterns_t">Design Patterns</a>
   - <a name="archdes_c" href="#archdes_t">Architecture Design</a>
@@ -109,6 +110,67 @@ Debugging
 - [Amazon Honeycode](https://www.honeycode.aws/). Build a better way to work.
 - [Google AppSheet](https://www.appsheet.com/). The intelligent no‑code platform.
 - [Axelor](https://www.axelor.com/). Open Source Low-code Platform for Business Process Apps. [GitHub](https://github.com/axelor)
+
+<br>
+
+<h2><a name="xaas_t" href="#xaas_c">Everything as a Service</a></h2>
+
+<br>
+
+### Artificial intelligence as a Service (AIaaS)
+
+> Artificial Intelligence as a Service (AIaaS) is the third party offering of artificial intelligence (AI) outsourcing. AI as a service allows individuals and companies to experiment with AI for various purposes without large initial investment and with lower risk.
+
+### Function as a Service (FaaS)
+
+> FaaS (Function-as-a-Service) is a type of cloud-computing service that allows you to execute code in response to events without the complex infrastructure typically associated with building and launching microservices applications.
+
+FaaS Providers
+
+- [AWS Lambda](https://aws.amazon.com/lambda/)
+- Google Cloud Functions
+- Azure Cloud Functions
+- Cloudflare Workers
+- Twilio Functions
+- Iron.io
+- Netlify Functions
+- IBM Cloud Functions
+- Alibaba Functions
+- Oracle Functions
+
+### Software as a service (SaaS)
+
+> Software as a service (or SaaS) is a way of delivering applications over the Internet—as a service. Instead of installing and maintaining software, you simply access it via the Internet, freeing yourself from complex software and hardware management.
+
+### Platform as a service (PaaS)
+
+> Platform as a service (PaaS) is a cloud computing model where a third-party provider delivers hardware and software tools to users over the internet.
+>
+> PaaS frees developers from having to install in-house hardware and software to develop or run a new application.
+
+PaaS Providers
+
+- Microsoft Azure
+- Amazon Web Services
+- Google Cloud
+- IBM Cloud
+- Oracle Cloud Infrastructure
+- Alibaba Cloud
+
+### Infrastructure as a service (IaaS)
+
+> Infrastructure as a service (IaaS) is a standardized, highly automated offering in which computing resources owned by a service provider, complemented by storage and networking capabilities, are offered to customers on demand. Resources are scalable and elastic in near real time and metered by use. 
+
+IaaS Providers
+
+- Alibaba Elastic Compute Service
+- Amazon EC2
+- Azure Virtual Machines
+- DigitalOcean Droplets
+- Google Compute Engine
+- IBM Cloud Private
+- Linode
+- Synology Virtual Machine Manager
 
 <br>
 
