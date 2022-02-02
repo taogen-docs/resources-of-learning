@@ -731,13 +731,30 @@ Articles
 - [5 Great Standing Up Desks for Engineers](https://blog.bliley.com/great-standing-up-desks-engineers)
 - [9 Best Adjustable Standing Desks For 2020](https://www.btod.com/blog/best-standing-desk)
 
-#### Healthy Monitor
+#### Computer Monitors
 
 - [The Best Monitor For Biohackers: Less Eyestrain And Better Cognition](https://www.alexfergus.com/blog/the-best-monitor-for-biohackers)
 
 Products
 
 - Dell UltraSharp Series. E.g. Dell UltraSharp U2520D
+
+Monitor Settings
+
+- [Best Monitor Settings for Eyes](https://www.eyeque.com/knowledge-center/best-monitor-settings-for-eyes/)
+
+#### Monitor Light Bars
+
+屏幕挂灯
+
+> Screen light bar contributes to eye strain reduction by avoiding screen reflection, which minimizes glare and dazzle.
+
+Products
+
+- Yeelight LED Monitor Light Bar Pro
+- BenQ (明基) Monitor Lamp, ScreenBar plus, ScreenBar Halo
+- 小米 米家显示器挂灯 1S
+- Baseus (倍思) Monitor Light Bar
 
 #### Ergonomic Keyboard
 
