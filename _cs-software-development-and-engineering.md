@@ -36,6 +36,10 @@
 <h2><a name="code_t" href="#code_c">Code</a></h2>
 <br>
 
+> Any fool can write code that a computer can understand. Good programmers write code that humans can understand. 
+>
+> -- Martin Fowler
+
 Clean Code
 
 - **Clean Code : A Handbook of Agile Software Craftsmanship** (2008) by Robert C. Martin, Prentice Hall
@@ -457,7 +461,11 @@ Others
 
 <h2><a name="agile_t" href="#agile_c">Team and Agile</a></h2>
 
-Must Read
+> If you can’t measure it you can’t improve it.
+
+> Management is doing things right; leadership is doing the right things.
+
+Team and Agile
 
 - **Extreme Programming Explained: Embrace Change** by Kent Beck
 - **The Mythical Man-Month: Essays on Software Engineering** by Jr·Frederick P·Brooks 
