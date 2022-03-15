@@ -16,8 +16,8 @@
 - Part II: Logic
   - <a name="dsa_c" href="#dsa_t">Data Structures and Algorithms</a>
   - <a name="cmath_c" href="#cmath_t">Computer Mathematics</a>
-  - Automata Theory
-  - <a name="cpttr_c" href="#cpttr_t">Computational Complexity Theory</a>
+  - <a name="automata_c" href="#automata_t">Formal Languages and Automata Theory</a>
+  - <a name="cpttr_c" href="#cpttr_t">ComputationTheory</a>
 - Part III: Hardware
   - <a name="anlg_cct_c" href="#anlg_cct_t">Analog Circuits</a>
   - <a name="dgcc_c" href="#dgcc_t">Digital Circuits</a>
@@ -109,6 +109,11 @@ Advanced
 - **The Art of Computer Programming** Volumes 1-4 by Donald.E.Knuth (**TAOCP**)
 - Classic Computer Science Problems in Java by David Kopec
 
+Others
+
+- Purely functional data structure by Chris Okasaki
+- Pearls of Functional Algorithm Design by Richard S. Bird
+
 For Interview
 
 - Cracking the Coding Interview: 189 Programming Questions and Solutions (2015) by Gayle Laakmann McDowell  程序员面试金典
@@ -137,6 +142,10 @@ OJ Platforms
 
 - [OJ Platforms List](domains/oj-platforms.md)
 
+Mathematical/Computer Programming Problems
+
+- [Project Euler](https://projecteuler.net/about)
+
 Tutorials
 
 - [Techie Delight](https://www.techiedelight.com/)
@@ -147,6 +156,18 @@ Tutorials
 <h2><a name="cmath_t" href="#cmath_c">Computer Mathematics</a></h2>
 
 <br>
+
+Guidance
+
+- [You Don’t Need Math Skills To Be A Good Developer But You Do Need Them To Be A Great One](https://skorks.com/2010/03/you-dont-need-math-skills-to-be-a-good-developer-but-you-do-need-them-to-be-a-great-one/)
+- [How much math you need for programming](https://lispmachine.wordpress.com/2014/12/05/how-much-math-you-need-for-programming/)
+- [Math for Programmers: What Type of Mathematics is Most Important for Coding & Programming](https://www.knoyo.com/blog/math-for-programmers-what-type-of-mathematics-is-most-important-for-coding-amp-programming)
+- [What Kind of Math is Used in Computer Programming?](https://www.effortlessmath.com/blog/what-kind-of-math-is-used-in-computer-programming/)
+- [作为一个程序员，数学对你到底有多重要](https://xuwenhao.com/%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%A8%8B%E5%BA%8F%E5%91%98-%E6%95%B0%E5%AD%A6%E5%AF%B9%E4%BD%A0%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E9%87%8D%E8%A6%81-f8bffc41a01)
+
+General
+
+- Math for Programmers by Paul Orland
 
 Prime
 
@@ -165,11 +186,29 @@ Advanced
   ACM竞赛必读书之一，几乎包含了所有计算机科学里涉及到的数学问题，里面有众多的经典问题与经典解法，对开拓人的数学思路有极大的帮助。
 - The art of Computer programming volume 1 by Donald Knuth
 
+Courses
+
+- [Discrete Mathematics and Probability Theory](https://www.eecs70.org/)
+- [Probability and Random Processes](https://inst.eecs.berkeley.edu/~ee126/fa20/index.html)
+
+- [Introduction to Computational Thinking: Math from computation, math with computation](https://computationalthinking.mit.edu/Spring21/)
+- [18.330: Introduction to Numerical Analysis](https://github.com/mitmath/18330) + [Fundamentals of Numerical Computation](https://fncbook.github.io/fnc/frontmatter.html)
+
+- [Introduction to Numerical Methods](https://ocw.mit.edu/courses/mathematics/18-335j-introduction-to-numerical-methods-spring-2019/index.htm)
+
 [More Mathematics](domains/math-resources.md)
+
 
 <br>
 
-## Automata Theory
+<h2><a name="automata_t" href="#automata_c">Formal Languages and Automata Theory</a></h2>
+
+<br>
+
+- An Introduction to Formal Language and Automata (6th, 2016) by Peter Linz
+- Formal Languages and Automata Theory by C. K. Nagpal
+- Introduction to Automata Theory, Languages, and Computation by John E. Hopcroft, Rajeev Motwani, Jeffrey D. Ullman
+
 
 <br>
 
@@ -180,6 +219,7 @@ Advanced
 - Introduction to the Theory of Computation (3rd, 2012) by Michael Sipser
 - Computational Complexity: A Modern Approach (2009) by Sanjeev Arora, Boaz Barak
 - The Nature of Computation (2011) by Cristopher Moore, Stephan Mertens
+- Theory of Computation: Formal Languages, Automata, and Complexity by J. Glenn Brookshear
 
 <br>
 
@@ -330,6 +370,14 @@ Some More
 - Language Implementation Patterns: Techniques for Implementing Domain-Specific Languages by Terence Parr
 - Writing Compilers and Interpreters: A Software Engineering Approach by Ronald Mak
 - Practical Foundations for Programming Languages by Robert Harper
+- The Definitive ANTLR 4 Reference by Terence Parr
+- Domain-Specific Languages by Martin Fowler
+- Crafting Interpreters by Robert Nystrom [link](https://craftinginterpreters.com/). learn by doing
+- Optimizing Compilers for Modern Architectures: A Dependence-Based Approach by Randy Allen, Ken Kennedy
+
+Papers
+
+- On the translation of languages from left to right by Donald Knuth [link](https://www.sciencedirect.com/science/article/pii/S0019995865904262)
 
 Programming Language Design
 
@@ -587,6 +635,10 @@ Must Read
 - Information Theory: A Tutorial Introduction (2015) by James V. Stone
 - Elements of Information Theory (2nd, 2006) by Thomas M. Cover and Joy A. Thomas
 - Network Information Theory by (2012) by El Gamal, Abbas and Young-Han Kim
+
+Courses
+
+- [Information and Entropy](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-050j-information-and-entropy-spring-2008/index.htm)
 
 <br>
 

@@ -338,6 +338,7 @@ Spring Cloud
 - **Cloud Native Java: Designing Resilient Systems with Spring Boot, Spring Cloud, and Cloud Foundry** (2017) by Josh Long, Kenny Bastani
 - **Spring Microservices in Action** (2nd, 2021) by John Carnells
 - Spring Boot: Up and Running: Building Cloud Native Java and Kotlin Applications (2021) by Mark Heckler
+- Cloud Native Spring in Action (2022) by Thomas Vitale
 
 Microservices
 
