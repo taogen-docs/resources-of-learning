@@ -507,6 +507,9 @@ Some More
 General
 
 - 代码的未来 by [日] 松本行弘
+- 松本行弘的程序世界 by [日] 松本行弘
+- Metaprogramming Ruby by Paolo Perrotta
+- 冒号课堂：编程范式与OOP思想 by 郑晖
 
 Object-Oriented Programming (OOP)
 
