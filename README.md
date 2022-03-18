@@ -25,6 +25,7 @@ Miscellaneous
 
 - [Computer Scientists](domains/computer-scientists.md)
 - [Computer Science Academic Research](domains/computer-science-academic-research.md)
+- [Rank List](domains/rank-list.md)
 
 *Continuously updating. I hope it will help you!*
 
@@ -44,7 +45,6 @@ Miscellaneous
 <img src="https://www.v2ex.com/favicon.ico" width="30px" align="left" />
 <img src="https://news.ycombinator.com/favicon.ico" width="30px" align="left"  />
 <img src="https://www.reddit.com/favicon.ico" width="30px" align="left" />
-
 
 
 
