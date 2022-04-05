@@ -21,7 +21,7 @@
   - <a name="distsys_c" href="#distsys_t">Distributed Systems</a>
   - <a name="cloudcpt_c" href="#cloudcpt_t">Cloud Computing and Serverless</a>
   - <a name="datamining_c" href="#datamining_t">Big Data and Data Mining</a>
-  - Crawler and  Anti-Crawler
+  - <a name="crawler_c" href="#crawler_t">Crawler and  Anti-Crawler</a>
 - Part III: The Future
   - <a name="ai_c" href="#ai_t">Artificial Intelligence</a>
   - <a name="blockchain_c" href="#blockchain_t">Blockchain and Cryptocurrency</a>
@@ -600,6 +600,28 @@ Middleware - Database Cluster
 - Foundations for Architecting Data Solutions: Managing Successful Data Projects (2018) by Ted Malaska, Jonathan Seidman
 - The Enterprise Big Data Lake: Delivering the Promise of Big Data and Data Science (2019) by Alex Gorelik
 - Data Pipelines Pocket Reference: Moving and Processing Data for Analytics (2021) by James Densmore
+
+<br>
+
+<h2><a name="crawler_t" href="#crawler_c">Crawler and Anti-Crawler</a></h2>
+
+<br>
+
+General
+
+- **Web Scraping with Python** (2018) by Ryan Mitchell
+- Getting Structured Data from the Internet: Running Web Crawlers/Scrapers on a Big Data Production Scale (2020) by Jay M. Patel 
+- Practical Web Scraping for Data Science: Best Practices and Examples with Python (2018) by Seppe vanden Broucke and Bart Baesens 
+- Mining the Social Web: Data Mining Facebook, Twitter, LinkedIn, Instagram, GitHub, and More (3rd, 2019) by Matthew A. Russell and Mikhail Klassen
+- Mining Social Media: Finding Stories in Internet Data Illustrated Edition by Lam Thuy Vo
+- Python 3网络爬虫开发实战 by 崔庆才
+
+JS
+
+- 反爬虫AST原理与还原混淆实战 by 李岳阳、卓斌
+
+Android
+
 
 <br>
 
