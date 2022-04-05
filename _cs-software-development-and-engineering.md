@@ -65,6 +65,7 @@ Refactoring
 Performance
 
 - Every Computer Performance Book: How to Avoid and Solve Performance Problems on The Computers You Work With by Bob Wescott, Anna Macijeski
+- Code Optimization: Effective Memory Usage by Kris Kaspersky
 
 Debugging
 
@@ -274,6 +275,7 @@ Tutorials
 - 业务架构•应用架构•数据架构实战 (2021) by 温昱
 - 软件架构设计：程序员向架构师转型必备 (2012) by 温昱
 - 软件架构设计：大型网站技术架构与业务架构融合之道 (2019) by 余春龙
+- 凤凰架构：构建可靠的大型分布式系统 (2021) by 周志明
 
 New Books (2019~2021)
 
@@ -332,6 +334,8 @@ Articles
 
 <br>
 
+### DevOps
+
 Must Read
 
 
@@ -376,27 +380,31 @@ Jenkins
 - Jenkins: The Definitive Guide by John Smart
 - Learning Continuous Integration with Jenkins by Nikhil Pathania
 
-Container
+### Container
 
-- Docker
-  - **Docker in Action** by Jeff Nickoloff
-  - **Docker Deep Dive** by Nigel Poulton
-  - Docker in Practice by Ian Miell, Aidan Hobson Sayers
-  - Docker: Up & Running: Shipping Reliable Containers in Production by Sean P. Kane
-  - Continuous Delivery with Docker and Jenkins by Rafal Leszko
-- Kubernetes 
-  - Kubernetes in Action by Marko Luksa
-  - **The Kubernetes Book** by Nigel Poulton
-  - Kubernetes: Up and Running: Dive into the Future of Infrastructure (2nd, 2019) by Brendan Burns , Joe Beda
-  - Production Kubernetes: Building Successful Application Platforms (2021) by Josh Rosso, Rich Lander, Alex Brand, John Harris
-  - Kubernetes Patterns: Reusable Elements for Designing Cloud-Native Applications (2019)  by Bilgin Ibryam, Roland Huß
-  - Kubernetes Best Practices: Blueprints for Building Successful Applications on Kubernetes (2019) by Brendan Burns, Eddie Villalba, Dave Strebel, Lachlan Evenson
-  - Programming Kubernetes: Developing Cloud-Native Applications (2019) by Michael Hausenblas, Stefan Schimanski
-  - Cloud Native DevOps with Kubernetes: Building, Deploying, and Scaling Modern Applications in the Cloud (2019) by John Arundel, Justin Domingus
-  - Kubernetes Operators: Automating the Container Orchestration Platform (2020) by Jason Dobies, Joshua Wood
-  - Managing Kubernetes: Operating Kubernetes Clusters in the Real World (2018) by Brendan Burns, Craig Tracey 
+Docker
 
-Others
+- **Docker in Action** by Jeff Nickoloff
+- **Docker Deep Dive** by Nigel Poulton
+- **The Docker Book: Containerization is the new virtualization** (2014) by James Turnbull 
+- Docker in Practice by Ian Miell, Aidan Hobson Sayers
+- Docker: Up & Running: Shipping Reliable Containers in Production by Sean P. Kane
+- Continuous Delivery with Docker and Jenkins by Rafal Leszko
+
+Kubernetes 
+
+- Kubernetes in Action by Marko Luksa
+- **The Kubernetes Book** by Nigel Poulton
+- Kubernetes: Up and Running: Dive into the Future of Infrastructure (2nd, 2019) by Brendan Burns , Joe Beda
+- Production Kubernetes: Building Successful Application Platforms (2021) by Josh Rosso, Rich Lander, Alex Brand, John Harris
+- Kubernetes Patterns: Reusable Elements for Designing Cloud-Native Applications (2019)  by Bilgin Ibryam, Roland Huß
+- Kubernetes Best Practices: Blueprints for Building Successful Applications on Kubernetes (2019) by Brendan Burns, Eddie Villalba, Dave Strebel, Lachlan Evenson
+- Programming Kubernetes: Developing Cloud-Native Applications (2019) by Michael Hausenblas, Stefan Schimanski
+- Cloud Native DevOps with Kubernetes: Building, Deploying, and Scaling Modern Applications in the Cloud (2019) by John Arundel, Justin Domingus
+- Kubernetes Operators: Automating the Container Orchestration Platform (2020) by Jason Dobies, Joshua Wood
+- Managing Kubernetes: Operating Kubernetes Clusters in the Real World (2018) by Brendan Burns, Craig Tracey 
+
+### Others
 
 - gRPC: Up and Running: Building Cloud Native Applications with Go and Java for Docker and Kubernetes by Kasun Indrasiri and Danesh Kuruppu
 - Prometheus: Up & Running: Infrastructure and Application Performance Monitoring by Brian Brazil 
@@ -458,6 +466,7 @@ Others
 - **The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win** by Gene Kim, Kevin Behr, George Spafford
 - **The Unicorn Project** by Gene Kim
 - Code Ahead: Volume 1 (2018) by Yegor Bugayenko
+- 201 Principles of Software Development by Alan M. Davis
 
 <h2><a name="agile_t" href="#agile_c">Team and Agile</a></h2>
 

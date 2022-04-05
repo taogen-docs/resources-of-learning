@@ -153,6 +153,11 @@ Projects
 - [Julia 1.4 Documentation](https://docs.julialang.org/en/v1/)
 - [Julia learning resources](https://julialang.org/learning/)
 
+### D
+
+- **D** is a general-purpose programming language with static typing, systems-level access, and C-like syntax. With the D Programming Language, write fast, read fast, and run fast.
+- The D Programming Language by Andrei Alexandrescu
+
 ### Lua
 
 - [Lua Documentation - doc]( https://www.lua.org/docs.html )
@@ -250,6 +255,7 @@ Advanced
 
 - Python Cookbook: Recipes for Mastering Python 3 by Brian K. Jones and David M. Beazley
 - **Fluent Python** by Luciano Ramalho
+- The Hacker's Guide to Python by Julien Danjou
 - CPython Internals: Your Guide to the Python 3 Interpreter by Anthony Shaw
 - Classic Computer Science Problems in Python (2019) by David Kopec
 - The Hitchhiker's Guide to Python: Best Practices for Development by Kenneth Reitz, Tanya Schlusser
@@ -510,6 +516,9 @@ General
 - 松本行弘的程序世界 by [日] 松本行弘
 - Metaprogramming Ruby by Paolo Perrotta
 - 冒号课堂：编程范式与OOP思想 by 郑晖
+- 代码之髓 by [日] 西尾泰和
+- Concepts of Programming Languages by Robert W. Sebesta
+- Seven More Languages in Seven Weeks by Bruce A. Tate, Ian Dees, Frederic Daoud
 
 Object-Oriented Programming (OOP)
 
@@ -523,6 +532,7 @@ Object-Oriented Programming (OOP)
 - Object-Oriented Analysis and Design with Applications by Grady Booch
 - Object Design Style Guide: Powerful techniques for creating flexible, readable, and maintainable object-oriented code in any OO language, from Python to PHP (2020) by Matthias Noback
 - OOP Concepts Booster : Take Your Coding Skills to the Next Level by Rakesh Singh
+- 面向对象是怎样工作的 by [日]平泽章
 
 Functional Programming
 
@@ -544,12 +554,7 @@ Parallel Programming
 
 > Clojure, Go
 
-- An Introduction to Parallel Programming by Peter Pacheco
-- Programming Massively Parallel Processors: A Hands-On Approach by David B. Kirk
-- Is Parallel Programming Hard, And, If So, What Can You Do About It? by Paul E. McKenney 
-- Seven Concurrency Models in Seven Weeks: When Threads Unravel by Paul Butcher
-- Structured Parallel Programming: Patterns for Efficient Computation by Michael McCool
-- Introduction to High Performance Computing for Scientists and Engineers by Georg Hager, Gerhard Wellein
+Reference [CS Fundamentals Resources - Parallel](../\#cs-foundations.md#parallel)
 
 Garbage Collection
 

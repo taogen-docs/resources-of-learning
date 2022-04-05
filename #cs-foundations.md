@@ -27,6 +27,7 @@
   - <a name="aslang_c" href="#aslang_t">Assembly Language</a>
   - <a name="compiler_c" href="#compiler_t">Compiler</a>
   - <a name="os_c" href="#os_t">Operating Systems</a>
+  - <a name="parallel_c" href="#parallel_t">Parallel</a>
   - <a name="lang_c" href="#lang_t">Programming Languages</a>
 - Part V: Information
   - Communication Engineering
@@ -50,6 +51,11 @@ Books
 - Computer Science: An Overview (13th, 2018) by Glenn Brookshear and Dennis Brylow
 - Things a Computer Scientist Rarely Talks About by Donald Ervin Knuth
 - Algorithms to Live By: The Computer Science of Human Decisions by Brian Christian
+- Digitized: The Science of Computers and How It Shapes Our World by Peter J. Bentley
+- Computer: A History of the Information Machine by Martin Campbell-Kelly, William Aspray
+- 计算机是怎样跑起来的 by [日] 矢泽久雄
+- 程序是怎样跑起来的 by [日] 矢泽久雄
+- 网络是怎样连接的 by [日] 户根勤
 
 Courses
 
@@ -68,9 +74,14 @@ Guidance
 
 Books
 
+- Learning to Program by Steven Foote
 - Python Programming: An Introduction to Computer Science (3rd, 2016) by John Zelle
 - Think Like a Programmer: An Introduction to Creative Problem Solving (2012) by V. Anton Spraul
 - How to Design Programs: An Introduction to Programming and Computing by Matthias Felleisen, Robert Bruce Findler, Matthew Flatt
+
+Advanced
+
+- A Discipline of Programming by Edsger W. Dijkstra
 
 Guidance
 
@@ -99,6 +110,7 @@ Prime
 - Data Structures and Algorithm Analysis in Java (3rd, 2011) by Mark A. Weiss 
 - Data Structures and Algorithm Analysis in C++ (3rd, 2011) by Clifford A. Shaffer
 - **Algorithms + Data Structures = Programs** (1976) by Niklaus Wirth
+- 我的第一本算法书 by [日]石田保辉, 宮崎修一
 
 Advanced
 
@@ -220,6 +232,7 @@ Courses
 - Computational Complexity: A Modern Approach (2009) by Sanjeev Arora, Boaz Barak
 - The Nature of Computation (2011) by Cristopher Moore, Stephan Mertens
 - Theory of Computation: Formal Languages, Automata, and Complexity by J. Glenn Brookshear
+- Understanding Computation: From Simple Machines to Impossible Programs by Tom Stuart
 
 <br>
 
@@ -290,6 +303,9 @@ Prime
 - Introduction to Computing Systems: From Bits and Gates to C and Beyond (2003) by Yale N. Patt and Sanjay J. Patel (**ICS**)
 - How Computers Really Work: A Hands-On Guide to the Inner Workings of the Machine (2020) by Matthew Justice
 - The Secret Life of Programs: Understand Computers -- Craft Better Code (2019) by Jonathan E. Steinhart
+- Engines of Logic: Mathematicians & the Origin of the Computer by Martin D. Davis
+- 支撑处理器的技术:永无止境地追求速度的世界 by [日] Hisa Ando
+- 穿越计算机的迷雾 by 李忠
 
 Must Read
 
@@ -521,6 +537,29 @@ Windows Programming
 
 <br>
 
+<h2><a name="parallel_t" href="#parallel_c">Parallel</a></h2>
+
+<br>
+
+Parallel Computer Architecture
+
+- Parallel Computer Architecture: A Hardware/Software Approach by David Culler
+- Fundamentals of Parallel Multicore Architecture by Yan Solihin
+- A Primer On Memory Consistency And Cache Coherence by Daniel J. Sorin, Mark D. Hill, David A. Wood
+- The Art of Multiprocessor Programming by Maurice Herlihy, Nir Shavit
+
+Parallel  Programming
+
+- An Introduction to Parallel Programming by Peter Pacheco
+- Programming Massively Parallel Processors: A Hands-On Approach by David B. Kirk
+- Is Parallel Programming Hard, And, If So, What Can You Do About It? by Paul E. McKenney 
+- Seven Concurrency Models in Seven Weeks: When Threads Unravel by Paul Butcher
+- Structured Parallel Programming: Patterns for Efficient Computation by Michael McCool
+- Introduction to High Performance Computing for Scientists and Engineers by Georg Hager, Gerhard Wellein
+- Programming with Posix Threads by David R. Butenhof
+
+<br>
+
 <h2><a name="lang_t" href="#lang_c">Programming Languages</a></h2>
 
 <br>
@@ -577,12 +616,14 @@ For Programming
 - TCP/IP Illustrated: TCP for Transactions, HTTP, NNTP and the Unix Domain Protocols, Vol. 3 by Richard Stevens
 - The TCP/IP Guide: A Comprehensive, Illustrated Internet Protocols Reference by Charles Kozierok
 - Internetworking with TCP/IP Vol.1: Principles, Protocols, and Architecture by Douglas E. Comer
+- 图解TCP/IP by [日]竹下隆史, 村山公保, 荒井透, 苅田幸雄
 
 ### HTTP
 
 - [RFC 2616 - Hypertext Transfer Protocol -- HTTP/1.1](https://www.w3.org/Protocols/rfc2616/rfc2616.html)
 - HTTP: The Definitive Guide (2002) by David Gourley,  Brian Totty, Marjorie Sayer, Anshu Aggarwal, Sailu Reddy
 - Learning Http/2: A Practical Guide for Beginners (2017) by Stephen Ludin,  Javier Garza
+- 图解HTTP by [日] 上野宣
 
 HTTPS
 
@@ -603,6 +644,7 @@ Must Read
 - **Applied Cryptography: Protocols, Algorithms, and Source Code in C** (2015) by Bruce Schneier
 - **Practical Cryptography** by Niels Ferguson,  Bruce Schneier
 - **Cryptography Engineering: Design Principles and Practical Applications** by Niels Ferguson,  Bruce Schneier, Tadayoshi Kohno
+- 图解密码技术 by [日] 结城浩
 - Understanding Cryptography: A Textbook for Students and Practitioners (2010) by Christof Paar,  Jan Pelzl
 - Introduction to Modern Cryptography, Second Edition (Chapman & Hall/CRC Cryptography and Network Security Series) by Jonathan Katz
 - Serious Cryptography: A Practical Introduction to Modern Encryption by Jean-Philippe Aumasson

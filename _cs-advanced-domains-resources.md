@@ -236,6 +236,7 @@ MySQL Internal and Programming
 - MySQL 技术内幕：InnoDB存储引擎 by  姜承尧 
 - MySQL 内核：InnoDB存储引擎 by  姜承尧
 - MariaDB 原理与实现 by 张金鹏
+- MySQL是怎样运行的：从根儿上理解 MySQL by 小孩子4919
 
 
 
@@ -353,6 +354,7 @@ Must Read
 - **Distributed Systems For Fun and Profit** by Mikito Takada. Great intro book to distributed systems theory, with plenty of references to learn more once you're done.
 - Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services by Brendan Burns. Patterns and Paradigms for container architecture. Useful but shallow.
 - Patterns of Distributed Systems by Unmesh Joshi [HTML](https://martinfowler.com/articles/patterns-of-distributed-systems/)
+- 从PAXOS到ZOOKEEPER分布式一致性原理与实践 by 倪超
 
 Some More
 
@@ -420,7 +422,6 @@ Middleware - Microservices Collaboration
 - [Apache Dubbo](https://dubbo.apache.org/en-us/)
 - [Apache ZooKeeper](https://zookeeper.apache.org/)
 - [Spring Cloud](https://spring.io/projects/spring-cloud)
-- 从PAXOS到ZOOKEEPER分布式一致性原理与实践 by 倪超
 
 Middleware - Microservices Communication (RPC/Message/HTTP)
 

@@ -130,6 +130,7 @@ Reference [CS Fundamentals Resources - Cryptography](../%23cs-foundations.md#cry
 
 - **Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software** by Michael Sikorski
 - **Reversing: Secrets of Reverse Engineering** by Eldad Eilam
+- 有趣的二进制：软件安全与逆向分析 by [日] 爱甲健二
 - Reverse Engineering for Beginners by Dennis Yurichev
 - Practical Reverse Engineering: X86, X64, ARM, Windows Kernel, Reversing Tools, and Obfuscation by Alexandre Gazet, Bruce Dang, and Elias Bachaalany
 - The IDA Pro book by Chris Eagle
@@ -161,6 +162,7 @@ Reference [CS Fundamentals Resources - Cryptography](../%23cs-foundations.md#cry
 - Blue Team Handbook: Incident Response Edition: A condensed field guide for the Cyber Security Incident Responder. by Don Murdoch
 - Practical Cloud Security: A Guide for Secure Design and Deployment by Chris Dotson
 - Secure by Design by Dan Bergh Johnsson, Daniel Deogun, Daniel Sawano
+- Building Secure and Reliable Systems: Best Practices for Designing, Implementing, and Maintaining Systems (2020) by Heather Adkins, Betsy Beyer, Paul Blankinship, Piotr Lewandowski, Ana Oprea, Adam Stubblefield
 
 ## References
 
