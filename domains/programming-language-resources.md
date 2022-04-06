@@ -550,7 +550,7 @@ Parallel Programming
 
 > Clojure, Go
 
-Reference [CS Fundamentals Resources - Parallel](../\#cs-foundations.md#parallel)
+Reference [CS Fundamentals Resources - Parallel](../%23cs-foundations.md#parallel)
 
 Garbage Collection
 
