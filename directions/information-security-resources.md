@@ -2,6 +2,7 @@
 
 ### Content
 
+- <a name="guide_c" href="#guide_t">Guidance and Roadmap</a>
 - <a name="introis_c" href="#introis_t">Introduction to Information Security</a>
 - <a name="crypt_c" href="#crypt_t">Cryptography</a>
 - <a name="netsec_c" href="#netsec_t">Network Security</a>
@@ -13,6 +14,16 @@
 - <a name="reveng_c" href="#reveng_t">Reverse Engineering</a>
 - <a name="socialeng_c" href="#socialeng_t">Social Engineering</a>
 - <a name="seceng_c" href="#seceng_t">Security Engineering and Architecture</a>
+
+<br>
+
+<h2><a name="guide_t" href="#guide_c">Guidance and Roadmap</a></h2>
+
+<br>
+
+- Ethical Hacking Roadmap – A Beginners Guide - [LINK](https://www.codelivly.com/ethical-hacking-roadmap-a-beginners-guide/)
+- The Roadmap to become an Ethical hacker - [LINK](https://medium.com/@turkishhoodie010/the-roadmap-to-become-an-ethical-hacker-b0d58129a7dc)
+- [hacker-roadmap - GitHub](https://github.com/sundowndev/hacker-roadmap). A collection of hacking tools, resources and references to practice ethical hacking.
 
 <br>
 
@@ -52,7 +63,7 @@ Insider Threat
 
 Threat Modeling
 
-- Threat Modeling: Designing for Security by Adam Shostack 
+- Threat Modeling: Designing for Security by Adam Shostack
 
 <br>
 
