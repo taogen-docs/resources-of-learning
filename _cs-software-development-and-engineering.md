@@ -632,7 +632,8 @@ For Interview
   - 编程之美 (2008) by 《编程之美》小组
   - 程序员代码面试指南：IT名企算法与数据结构题目最优解 (2015) by 左程云
 - System Design
-  - System Design Interview – An insider’s guide by Alex Xu
+  - System Design Interview – An insider’s guide Volume 1 (2020) by Alex Xu. [Preview](https://systeminterview.com/)
+  - System Design Interview – An Insider's Guide: Volume 2 (2022) by Alex Xu and Sahn Lam
 - Java
   - Elements of Programming Interviews in Java: The Insiders' Guide by Adnan Aziz , Tsung-Hsien Lee
   - Java Programming Interviews Exposed by Noel Markham

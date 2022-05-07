@@ -381,6 +381,7 @@ Papers of Distributed Systems
 Courses
 
 - [Distributed Systems lecture series](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB) by Martin Kleppmann
+- [MIT 6.824: Distributed Systems](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
 
 More Distributed Systems
 
@@ -880,6 +881,35 @@ Metaverse
 
 - [What Is Web 3.0 & Why It Matters](https://medium.com/fabric-ventures/what-is-web-3-0-why-it-matters-934eb07f3d2b)
 - The Spatial Web: How Web 3.0 Will Connect Humans, Machines, and AI to Transform the World by Gabriel Rene, Dan Mapes, Jay Samit
+
+<br>
+
+## IoT and 5G
+
+<br>
+
+Books
+
+- Exploring Raspberry Pi: Interfacing to the Real World with Embedded Linux by Derek Molloy
+- IoT and Edge Computing for Architects: Implementing edge and IoT systems from sensors to clouds with communication systems, analytics, and security (2nd, 2020) by Perry Lea
+- Hands-On Industrial Internet of Things: Create a powerful Industrial IoT infrastructure using Industry 4.0 by Giacomo Veneri, Antonio Capasso
+- Precision: Principles, Practices and Solutions for the Internet of Things by Timothy Chou
+- IoT Fundamentals: Networking Technologies, Protocols, and Use Cases for the Internet of Things by David Hanes, Gonzalo Salgueiro, Patrick Grossetete
+- Hands-On Artificial Intelligence for IoT: Expert machine learning and deep learning techniques for developing smarter IoT systems by Amita Kapoor
+- The IoT Hacker's Handbook: A Practical Guide to Hacking the Internet of Things by Aditya Gupta
+- Practical Internet of Things Security by Brian Russell, Drew Van Duren
+- The Amazon Way on IoT: 10 Principles for Every Leader from the World's Leading Internet of Things Strategies by John Rossman
+- Enterprise Iot: Strategies and Best Practices for Connected Products and Services by Dirk Slama, Frank Puhlmann, Jim Morrish
+- Getting Started with the Internet of Things: Connecting Sensors and Microcontrollers to the Cloud by Cuno Pfister
+- Precision: Principles, Practices and Solutions for the Internet of Things by Timothy Chou
+- Programming the Internet of Things: An Introduction to Building Integrated, Device-To-Cloud Iot Solutions by Andy King
+- IoT Inc.: How Your Company Can Use the Internet of Things to Win in the Outcome Economy by Bruce Sinclair 
+- The IoT Hacker's Handbook: A Practical Guide to Hacking the Internet of Things by Aditya Gupta 
+- Everyware: The Dawning Age of Ubiquitous Computing by Adam Greenfield
+
+Protocols
+
+- [The Matter smart home protocol](https://csa-iot.org/all-solutions/matter/)
 
 <br>
 
