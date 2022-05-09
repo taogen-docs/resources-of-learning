@@ -62,6 +62,21 @@ Refactoring
 - **Refactoring to Patterns** by Joshua Kerievsky
 - **Working Effectively with Legacy Code** by Michael C. Feathers
 
+Test-Driven Development (TDD)
+
+- **Test Driven Development: By Example** (2002) by  Kent Beck 
+- Agile Java: Crafting Code with Test-Driven Development by Jeff Langr
+
+Unit Testing
+
+
+- **Growing Object-Oriented Software, Guided by Tests** by Steve Freeman
+- Unit Testing: Principles, Practices, and Patterns by Vladimir Khorikov
+- Effective Unit Testing by Lasse Koskela
+- xUnit Test Patterns: Refactoring Test Code by Gerard Meszaros (.NET)
+- The RSpec Book by David Chelimsky
+- The Art of Unit Testing: With Examples in .NET by Roy Osherove
+
 Performance
 
 - Every Computer Performance Book: How to Avoid and Solve Performance Problems on The Computers You Work With by Bob Wescott, Anna Macijeski
@@ -241,7 +256,7 @@ Tutorials
 - **Patterns of Enterprise Application Architecture** (2002) by Martin Fowler
 - **Domain-Driven Design: Tackling Complexity in the Heart of Software** (2003) by Eric Evans
 - **Enterprise Integration Patterns** (2003) by Gregor Hohpe
-- **Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems** (2017) by Martin Kleppmann
+- **Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems** (2017) by Martin Kleppmann (DDIA)
 - **Implementing Domain-Driven Design** (2013) by Vaughn Vernon
 - **Clean Architecture** (2017) by Robert Cecil Martin
 - **Information Architecture: For the Web and Beyond. Designing Large-scale Web Sites** (4th, 2015) by Louis Rosenfeld , Peter Morville
@@ -465,6 +480,7 @@ Kubernetes
 
 - **The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win** by Gene Kim, Kevin Behr, George Spafford
 - **The Unicorn Project** by Gene Kim
+- Code That Fits in Your Head: Heuristics for Software Engineering by Mark Seemann
 - Code Ahead: Volume 1 (2018) by Yegor Bugayenko
 - 201 Principles of Software Development by Alan M. Davis
 
@@ -570,17 +586,6 @@ Some More
 
 - Writing Effective Use Cases by Alistair Cockburn
 
-### Unit Testing
-
-
-- **Test Driven Development: By Example** (2002) by  Kent Beck 
-- **Growing Object-Oriented Software, Guided by Tests** by Steve Freeman
-- Unit Testing: Principles, Practices, and Patterns by Vladimir Khorikov
-- Effective Unit Testing by Lasse Koskela
-- xUnit Test Patterns: Refactoring Test Code by Gerard Meszaros (.NET)
-- The RSpec Book by David Chelimsky
-- The Art of Unit Testing: With Examples in .NET by Roy Osherove
-
 <br>
 
 ## Part V: Others
@@ -596,6 +601,7 @@ Programmer
 - **The Pragmatic Programmer: From Journeyman to Master** (2nd, 2019) by Andrew Hunt, David Thomas 
 - **Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman** (2009) by Dave H. Hoover and Adewale Oshineye
 - **The Clean Coder: A Code of Conduct for Professional Programmers** by Robert C. Martin
+- Clean Craftsmanship: Disciplines, Standards, and Ethics (2021) by Robert C. Martin
 - **Joel on Software** (3rd, 2004) by Joel Spolsky
 - **More Joel on Software** (2008) by Joel Spolsky
 - **Hackers and Painters: Big Ideas from the Computer Age** by Paul Graham
@@ -634,6 +640,7 @@ For Interview
 - System Design
   - System Design Interview – An insider’s guide Volume 1 (2020) by Alex Xu. [Preview](https://systeminterview.com/)
   - System Design Interview – An Insider's Guide: Volume 2 (2022) by Alex Xu and Sahn Lam
+  - Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems (2017) by Martin Kleppmann (DDIA)
 - Java
   - Elements of Programming Interviews in Java: The Insiders' Guide by Adnan Aziz , Tsung-Hsien Lee
   - Java Programming Interviews Exposed by Noel Markham
