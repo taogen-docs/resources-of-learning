@@ -139,10 +139,12 @@ Others
 
 ### Database Systems
 
-- **Database System Concepts** (6th, 2010) by Sudarshan, Korth
+- **Database System Concepts** (7th, 2019) by Sudarshan, Korth
 - Fundamentals of Database System (7th, 2017) by Ramez Elmasri,  Shamkant B. Navathe
 - Database System Implementation by Hector Garcia-Molina, Jeffrey D.Ullman and  Jennifer Widom
 - Architecture of a Database System by James Hamilton, Joseph M. Hellerstein, and Michael Stonebraker [PDF](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf)
+- Database Systems: Design, Implementation, & Management (13th, 2018) by Carlos Coronel, Steven Morris
+- Database Management Systems (3rd, 2002) by Raghu Ramakrishnan, Johannes Gehrke
 
 Some More
 
@@ -159,7 +161,10 @@ Courses
 For Database Design
 
 - Database Modeling and Design  by Toby J. Teorey
-- **Beginning Database Design** by Clare Churcher
+- **Beginning Database Design** (2nd, 2012) by Clare Churcher
+- **Database Design for Mere Mortals: A Hands-On Guide to Relational Database Design** (4th, 2020) by Michael J. Hernandez
+- Beginning Database Design Solutions (2008) by Rod Stephens
+- Database Design and Relational Theory: Normal Forms and All That Jazz (2nd, 2019) by C.J. Date
 - Relational Database Index Design and the Optimizers by Tapio Lahdenmaki
 
 For SQL
@@ -170,7 +175,7 @@ For SQL
 - **SQL Antipatterns: Avoiding the Pitfalls of Database Programming** (2010) by Bill Karwin
 - T-SQL Fundamentals by Itzik Ben-Gan
 - T-SQL Querying by Itzik Ben-Gan
-- SQL Queries for Mere Mortals: A Hands-on Guide to Data Manipulation in SQL by John Viescas
+- **SQL Queries for Mere Mortals: A Hands-on Guide to Data Manipulation in SQL** by John Viescas
 - SQL Pocket Guide by Jonathan Gennick
 - The Art of SQL by Stéphane Faroult
 - SQL Performance Explained by Markus Winand
@@ -190,10 +195,10 @@ Prime
 - MySQL 8.0 Reference Manual. [DOC](https://dev.mysql.com/doc/refman/8.0/en/), [PDF](https://downloads.mysql.com/docs/refman-8.0-en.pdf)
 - MySQL 8.0 Release Notes - [DOC]( https://dev.mysql.com/doc/relnotes/mysql/8.0/en/ )
 - **Murach's MySQL** (3rd, 2019) by Joel Murach
-- **Learning MySQL** by Seyed M.M. Tahaghoghi, Hugh E. Williams
+- **Learning MySQL** (2nd, 2021) by Seyed M.M. Tahaghoghi, Hugh E. Williams
 - MySQL Crash Course by Ben Forta
 - MySQL in a Nutshell by Russell J.T. Dyer
-- **MySQL** by Paul DuBois
+- **MySQL** (2013) by Paul DuBois
 - **MySQL Cookbook** (3rd, 2014) by Paul DuBois
 - MySQL Administrator's Bible by Sheeri K. Cabral, Keith Murphy
 - MySQL Stored Procedure Programming: Building High-Performance Web Applications in MySQL by Guy Harrison, Steven Feuerstein
@@ -201,14 +206,12 @@ Prime
 
 Optimization
 
-- **High Performance MySQL** (3rd, 2012) by Baron Schwartz. This 3rd edition of the book mainly based on MySQL 5.1 and 5.5.
-- Effective MySQL Optimizing SQL Statements
+- **High Performance MySQL** by Baron Schwartz (3rd, 2012, This 3rd edition of the book mainly based on MySQL 5.1 and 5.5.) (4th, 2021) 
+- Efficient MySQL Performance: Best Practices and Techniques (2022) by Daniel Nichter
+- Effective MySQL Optimizing SQL Statements by Ronald Bradford
 - MySQL性能调优与架构设计 by 简朝阳 
 - Relational Database Index Design and the Optimizers by Tapio Lahdenmaki 
 - MySQL Troubleshooting: What To Do When Queries Don't Work by Sevta Smirnova
-
-Optimization New Books
-
 - MySQL 8 Query Performance Tuning: A Systematic Method for Improving Execution Speeds (2020) by Jesper Wisborg Krogh
 - MySQL 8 Cookbook: Over 150 recipes for high-performance database querying and administration (2018) by Karthik Appigatla
 - MySQL 8 Administrator's Guide: Effective guide to administering high-performance MySQL 8 solutions (2018) by Chintan Mehta , Ankit Bhavsar
@@ -220,9 +223,10 @@ High Availability, Cluster, Backup and Replication
 - Reference Guide for MySQL NDB Cluster. [DOC](https://dev.mysql.com/doc/refman/8.0/en/mysql-cluster.html), [PDF](https://downloads.mysql.com/docs/mysql-cluster-excerpt-8.0-en.pdf)
 - MySQL NDB Cluster Internals Manual - [DOC]( https://dev.mysql.com/doc/ndb-internals/en/ )
 - MySQL High Availability: Tools for Building Robust Data Centers (2nd, 2014) by Charles Bell
-- Introducing Innodb Cluster: Learning the MySQL High Availability Stack by Charles Bell
+- Introducing Innodb Cluster: Learning the MySQL High Availability Stack (2018) by Charles Bell
+- High Availability MySQL Cookbook by Alex Davies
 - Pro MySQL NDB Cluster by Jesper Wisborg Krogh and Mikiya Okuno
-- Effective MySQL Backup and Recovery
+- Effective MySQL Backup and Recovery by Ronald Bradford
 - Effective MySQL Replication Techniques in Depth
 
 
@@ -255,7 +259,7 @@ Prime
 
 PL/SQL
 
-- **Oracle PL/SQL Programming** by Steven Feuerstein, Bill Pribyl
+- **Oracle PL/SQL Programming** (6th, 2014) by Steven Feuerstein, Bill Pribyl
 - Oracle Database 12c Pl/SQL Advanced Programming Techniques by Michael McLaughlin, John M. Harper
 - Mastering Oracle SQL by Alan Beaulieu and Mishra Sanjay
 - Murach's Oracle SQL and PL/SQL for Developers by Joel Murach
@@ -275,6 +279,7 @@ Advanced
 - Expert one-on-one Oracle by Thomas Kyte
 - Troubleshooting Oracle Performance by Christian Antognini
 - Expert Oracle Database Architecture by Thomas Kyte
+- **Oracle Database 12c Release 2 Performance Tuning Tips & Techniques** (2017) by Richard Niemiec
 - **Oracle Database 11g Release 2 Performance Tuning Tips & Techniques** by Richard Niemiec
 - Optimizing Oracle Performance: A Practitioner's Guide to Optimizing Response Time (2003) by Cary Millsap, Jeff Holt
 - Oracle High Availability, Disaster Recovery, and Cloud Services: Explore RAC, Data Guard, and Cloud Technology by Ravi Kumar 
@@ -349,7 +354,7 @@ Reference [Information Security Resources](directions/information-security-resou
 Must Read
 
 
-- **Distributed Systems: Principles and Paradigms** (3.01 edition, 2017) by Andrew S. Tanenbaum, Maarten van Steen. A good overview of distributed systems that goes to enough depth to spark interest. Might be too much for beginners, but a good intermediate level reference.
+- **Distributed Systems: Principles and Paradigms** (3rd, 2017) by Andrew S. Tanenbaum, Maarten van Steen. A good overview of distributed systems that goes to enough depth to spark interest. Might be too much for beginners, but a good intermediate level reference.
 - **Designing Data-Intensive Applications** by Martin Kleppmann
 - **Distributed Systems For Fun and Profit** by Mikito Takada. Great intro book to distributed systems theory, with plenty of references to learn more once you're done.
 - Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services by Brendan Burns. Patterns and Paradigms for container architecture. Useful but shallow.
@@ -389,7 +394,7 @@ More Distributed Systems
 
 ### Distributed Data Storage
 
-- **Database Internals: A deep-dive into how distributed data systems work** by Alex Petrov
+- **Database Internals: A deep-dive into how distributed data systems work** (2019) by Alex Petrov
 - Principles of Distributed Database Systems by M. Tamer Ozsu
 - Distributed Databases: Principles and Systems by Stefano Ceri, G. Pelagatti
 - Distributed Database Systems by Chhanda Ray

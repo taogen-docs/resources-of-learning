@@ -257,6 +257,9 @@ Tutorials
 - **Domain-Driven Design: Tackling Complexity in the Heart of Software** (2003) by Eric Evans
 - **Enterprise Integration Patterns** (2003) by Gregor Hohpe
 - **Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems** (2017) by Martin Kleppmann (DDIA)
+- Web Scalability for Startup Engineers (2015) by Artur Ejsmont
+- System Design Interview – An insider’s guide Volume 1 (2020) by Alex Xu. [Preview](https://systeminterview.com/)
+- System Design Interview – An Insider's Guide: Volume 2 (2022) by Alex Xu and Sahn Lam
 - **Implementing Domain-Driven Design** (2013) by Vaughn Vernon
 - **Clean Architecture** (2017) by Robert Cecil Martin
 - **Information Architecture: For the Web and Beyond. Designing Large-scale Web Sites** (4th, 2015) by Louis Rosenfeld , Peter Morville
