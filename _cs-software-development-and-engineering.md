@@ -489,6 +489,8 @@ Kubernetes
 
 <h2><a name="agile_t" href="#agile_c">Team and Agile</a></h2>
 
+> Project management triangle: Time, cost and quality – Pick two.
+
 > If you can’t measure it you can’t improve it.
 
 > Management is doing things right; leadership is doing the right things.
