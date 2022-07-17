@@ -187,7 +187,7 @@ Advanced
   - You Don't Know JS: Types & Grammar [4] by Kyle Simpson
   - You Don't Know JS: Async & Performance [5] by Kyle Simpson
   - You Don't Know JS: ES6 & Beyond [6] by Kyle Simpson
-- ⭐**Secrets of the JavaScript Ninja** (2013) by Bear Bibeault and John Resig
+- ⭐**Secrets of the JavaScript Ninja** (2nd, 2016) by Bear Bibeault and John Resig
 - **Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript** (2012) by David Herman
 - How Javascript Works by Douglas Crockford
 - JavaScript Allongé, the "Six" Edition by Reginald Braithwaite
@@ -202,7 +202,7 @@ Advanced
 
 Functional Programming in JavaScript
 
-- **Functional Programming in JavaScript:** How to improve your JavaScript programs using functional techniques by Luis Atencio
+- **Functional Programming in JavaScript: How to improve your JavaScript programs using functional techniques** by Luis Atencio
 - Introducing functional programming with Underscore.js by Michael Fogus
 - Functional-Light JavaScript: Pragmatic, Balanced FP in JavaScript by Kyle Simpson , Brian MacDonald
 - Composing Software: An Exploration of Functional Programming and Object Composition in JavaScript by Eric Elliott
@@ -288,7 +288,7 @@ Quizzes
 - [TypeScript Documentation - doc]( https://www.typescriptlang.org/docs/home.html )
 - **Programming TypeScript: Making Your JavaScript Applications Scale** (2019) by Boris Cherny
 - **Effective TypeScript: 62 Specific Ways to Improve Your TypeScript** (2019) by Dan Vanderkam 
-- **Pro TypeScript: Application-Scale JavaScript Development** (2017) by Steve Fenton
+- **Pro TypeScript: Application-Scale JavaScript Development** (2nd, 2017) by Steve Fenton
 - Mastering TypeScript by Nathan Rozentals
 - TypeScript Essentials by Christopher Nance
 - Angular 2 Development with TypeScript by Anton Moiseev and Yakov Fain
@@ -332,9 +332,12 @@ Vue.js v2.x Ecosystem
 <br>
 
 - [React Documentation - doc](https://reactjs.org/docs/getting-started.html)
-- **Learning React: Functional Web Development with React and Redux** (2017) by Alex Banks and Eve Porcello
 - **The Road to React: Your journey to master plain yet pragmatic React.js** (2018) by Robin Wieruch
-- **Learning React: Modern Patterns for Developing React Apps** (2020) by Alex Banks and Eve Porcello
+- **Learning React: Modern Patterns for Developing React Apps** (2nd, 2020) by Alex Banks and Eve Porcello
+- **Learning React: Functional Web Development with React and Redux** (2017) by Alex Banks and Eve Porcello
+- React Cookbook: Recipes for Mastering the React Framework by David Griffiths, Dawn Griffiths
+- React Explained: Your Step-by-Step Guide to React (2020) by Zac Gordon
+- React Hooks in Action: With Suspense and Concurrent Mode by John Larsen
 - Learning React: A Hands-On Guide to Building Web Applications Using React and Redux (2018) by Kirupa Chinnathambi
 - Pro React 16 by Adam Freeman
 - React Quickly by Azat Mardan
