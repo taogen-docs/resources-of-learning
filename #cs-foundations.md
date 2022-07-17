@@ -105,6 +105,7 @@ Guidance
 
 Prime
 
+- Grokking Algorithms An Illustrated Guide For Programmers and Other Curious People (2016) by Aditya Y. Bhargava
 - **Algorithms** (4th, 2011) by Robert Sedgewick
 - Mark A. Weiss
   - Data Structures and Algorithm Analysis in C (2nd, 1996) by Mark A. Weiss

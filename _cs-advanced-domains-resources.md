@@ -636,6 +636,7 @@ Android
 
 ### Introduction to Artificial Intelligence
 
+- Grokking Artificial Intelligence Algorithms: Understand and apply the core algorithms of deep learning and artificial intelligence in this friendly illustrated guide including exercises and examples (2020) by Rishal Hurbans
 - Introduction to Artificial Intelligence by Philip C. Jackson
 - Artificial Intelligence: A Modern Approach by Stuart Russell, Peter Norvig
 - The Elements of Statistical Learning: Data Mining, Inference, and Prediction by Trevor Hastie, Robert Tibshirani, Jerome Friedman
@@ -643,6 +644,7 @@ Android
 
 ### Machine Learning
 
+- Grokking Machine Learning (2021) by Luis G. Serrano
 - Machine Learning by Tom M. Mitchell
 - Machine Learning in Action by Peter Harrington
 - The Hundred-Page Machine Learning Book by Andriy Burkov
@@ -657,6 +659,7 @@ Android
 
 ### Deep Learning
 
+- Grokking Deep Learning (2019) by Andrew W. Trask
 - Deep Learning by Aaron Courville, Ian Goodfellow, and Yoshua Bengio (**花书**)
 - Deep Learning with Python by Francois Chollet
 - Deep Learning: A Practitioner's Approach by Adam Gibson and Josh Patterson
@@ -672,6 +675,12 @@ Android
 - Deep Reinforcement Learning Hands-On: Apply modern RL methods, with deep Q-networks, value iteration, policy gradients, TRPO, AlphaGo Zero and more by Maxim Lapan
 - Algorithms for Reinforcement Learning by Csaba Szepesvari
 - Hands-On Reinforcement Learning with Python: Master reinforcement and deep reinforcement learning using OpenAI Gym and TensorFlow by Sudharsan Ravichandiran
+
+### Deep Reinforcement Learning
+
+> Deep reinforcement learning is a subfield of machine learning that combines reinforcement learning and deep learning.
+
+- Grokking Deep Reinforcement Learning (2020) by Miguel Morales
 
 ### Robotics
 
