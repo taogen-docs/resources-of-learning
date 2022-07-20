@@ -105,20 +105,31 @@ Guidance
 
 Prime
 
+- Grokking Algorithms An Illustrated Guide For Programmers and Other Curious People (2016) by Aditya Y. Bhargava
 - **Algorithms** (4th, 2011) by Robert Sedgewick
-- Data Structures and Algorithm Analysis in C (2nd, 1996) by Mark Allen Weiss 
-- Data Structures and Algorithm Analysis in Java (3rd, 2011) by Mark A. Weiss 
+- Mark A. Weiss
+  - Data Structures and Algorithm Analysis in C (2nd, 1996) by Mark A. Weiss
+  - Data Structures and Algorithm Analysis in Java (3rd, 2011) by Mark A. Weiss
+  - Data Structures and Algorithm Analysis in C++ (4th, 2013) by Mark A. Weiss
 - Data Structures and Algorithm Analysis in C++ (3rd, 2011) by Clifford A. Shaffer
 - **Algorithms + Data Structures = Programs** (1976) by Niklaus Wirth
+- A Common-Sense Guide to Data Structures and Algorithms: Level Up Your Core Programming Skills (2nd, 2020) by Jay Wengrow
 - 我的第一本算法书 by [日]石田保辉, 宮崎修一
 
 Advanced
 
 - Algorithm Design (2005) by Jon Kleinberg, Éva Tardos 
 - The Algorithm Design Manual (2010) by Steven S Skiena 
-- **Introduction to Algorithms** (3rd, 2009) by Charles E. Leiserson, Clifford Stein, Ronald Rivest, and Thomas H. Cormen (**CLRS**: authors abbreviation)
+- **Introduction to Algorithms** (4th, 2022) by Charles E. Leiserson, Clifford Stein, Ronald Rivest, and Thomas H. Cormen (**CLRS**: authors abbreviation)
 - **Algorithms** (2006) by Sanjoy Dasgupta
 - **The Art of Computer Programming** Volumes 1-4 by Donald.E.Knuth (**TAOCP**)
+  - Vol. 1: Fundamental Algorithms
+  - Vol 2: Seminumerical Algorithms
+  - Vol 3: Sorting and Searching 
+  - Vol 4: Combinatorial Algorithms
+  - Vol 5: Syntactic Algorithms (Planned)
+  - Vol 6: The Theory of Context-Free Languages (Planned)
+  - Vol 7:  Compiler Techniques (Planned)
 - Classic Computer Science Problems in Java by David Kopec
 
 Others
@@ -183,7 +194,7 @@ General
 
 Prime
 
-- **Discrete mathematics and its applications** (7th, 2011) by Kenneth H·Rosen 
+- **Discrete mathematics and its applications** (8th, 2018) by Kenneth H·Rosen 
 - Elements Of Discrete Mathematics: Solutions Manual by Chung Laung Liu
 - Introduction to Graph Theory (2nd, 2017)  by Douglas B. West
 - Introductory Combinatorics (5th, 2017) by Richard A.Brualdi
@@ -283,7 +294,7 @@ For Electronics and Electric Circuits
 
 <br>
 
-- **Digital Fundamentals** (9th, 2005) by Thomas L. Floyd 
+- **Digital Fundamentals** (11th, 2014) by Thomas L. Floyd 
 - Digital Integrated Circuits: A Design Perspective (2016) by Jan M. Rabaey
 - Digital Design and Computer Architecture by David Money Harris, Sarah L. Harris
 
@@ -309,14 +320,17 @@ Prime
 
 Must Read
 
-- **Computer Organization and Design: the Hardware/Software Interface** (5th, 2013) by David A Patterson John L Hennessy and John L. Hennessy
+- **Computer Organization and Design MIPS Edition: the Hardware/Software Interface** (6th, 2020) by David A Patterson John L Hennessy and John L. Hennessy
+- Computer Organization and Design ARM Edition: The Hardware Software Interface (2016) by David A Patterson John L Hennessy and John L. Hennessy
+- Computer Organization and Design RISC-V Edition: The Hardware Software Interface (2nd, 2020) by David A Patterson John L Hennessy and John L. Hennessy
 - **Computer Architecture: A Quantitative Approach** (6th, 2017) by David A Patterson John L Hennessy and John L. Hennessy
 - **Computer Systems: A Programmer‘s Perspective** (3rd, 2015) by Randal E.Bryant, David O'Hallaron (**CSAPP**)
 
 Some More
 
 - Computer Organization and Architecture: Designing for Performance (9th, 2012) by William Stallings 
-- Structured Computer Organization (6th, 2012) by Andrew S. Tanenbaum, Todd Austin 
+- Structured Computer Organization (6th, 2012) by Andrew S. Tanenbaum, Todd Austin
+- Modern Computer Architecture and Organization: Learn x86, ARM, and RISC-V architectures and the design of smartphones, PCs, and cloud servers (2nd, 2022) by Jim Ledin
 
 Courses
 
@@ -371,7 +385,7 @@ Must Read
 - **Structure and Interpretation of Computer Programs** (2nd, 1996) by Harold Abelson (**SICP**)
 - Essentials of Programming Languages (2001) by Daniel P. Friedman, Mitchell Wand (**EOPL**)
 - Types and Programming Languages (2002) by Benjamin C. Pierce (**TAPL**)
-- **Compilers: Principles, Techniques, and Tools** (1986) by  Alfred V. Aho and Monica S. Lam (**龙书**)
+- **Compilers: Principles, Techniques, and Tools** (2nd, 2006) by  Alfred V. Aho and Monica S. Lam (**龙书**)
 - Modern Compiler Implementation in C (2004) by Andrew W. Appel (**虎书**)
 - Advanced Compiler Design and Implementation (1997) by Steven Muchnick (**鲸书**)
 - Concepts, Techniques, and Models of Computer Programming (2004) by Peter Van Roy, Seif Haridi
@@ -414,7 +428,7 @@ Programming Language Design
 
 Must Read 
 
-- Operating Systems: Three Easy Pieces (2015) by Andrea C. Arpaci-Dusseau and Remzi H. Arpaci-Dusseau
+- **Operating Systems: Three Easy Pieces** (2015) by Andrea C. Arpaci-Dusseau and Remzi H. Arpaci-Dusseau
 - **Operating System Concepts** (10th, 2018) by Abraham Silberschatz,  Peter B. Galvin, Greg Gagne
 - **Modern Operating Systems** (4th, 2014) by Andrew S. Tanenbaum
 - Operating Systems (3rd, 2003) by Harvey Deitel,  Paul Deitel, David R. Choffnes 
@@ -447,7 +461,7 @@ System and Command Line
 - Linux Command Line and Shell Scripting Bible (3rd, 2015) by Christine Bresnahan and Richard Blum
 - **UNIX and Linux System Administration Handbook** (5th, 2017) by Evi Nemeth, Garth Snyder, Trent R. Hein, Ben Whaley
 - **Linux in a Nutshell: A Desktop Quick Reference** (6th, 2009) by by Ellen Siever, Stephen Figgins, Robert Love
-- **How Linux Works: What Every Superuser Should Know** (2nd, 2014) by Brian Ward
+- **How Linux Works: What Every Superuser Should Know** (3rd, 2021) by Brian Ward
 - Linux Administration Handbook by Evi Nemeth, Garth Snyder, and Trent Hein
 - Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali (2018) by OccupyTheWeb
 - Modern Linux Administration: How to Become a Cutting-Edge Linux Administrator (2019) by Sam R. Alapati
@@ -456,7 +470,7 @@ System and Command Line
 - 鸟哥的Linux私房菜：服务器架设篇 (3th, 2012) by 鸟哥
 - Beginning Linux Programming by Mathew Neil and Richard Stones
 - Linux for Beginners: An Introduction to the Linux Operating System by Jason Cannon
-- **Harley Hahn's Guide to Unix and Linux** by Harley Hahn
+- **Harley Hahn's Guide to Unix and Linux** (2008) by Harley Hahn
 
 Shell
 
@@ -532,6 +546,7 @@ Tutorials
 Windows Programming
 
 - **Windows Internals** (7th, 2017) by Russinovich and Solomon
+- Troubleshooting with the Windows Sysinternals Tools (2nd, 2016) by Mark E. Russinovich, Aaron Margosis
 - Programming Windows (5th, 1998) by Charles Petzold 
 - Programming Applications for Microsoft Windows (1999) by Jeffrey Richter 
 
@@ -642,8 +657,8 @@ Must Read
 
 - **The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography** (2000) by Simon Singh
 - **Applied Cryptography: Protocols, Algorithms, and Source Code in C** (2015) by Bruce Schneier
-- **Practical Cryptography** by Niels Ferguson,  Bruce Schneier
-- **Cryptography Engineering: Design Principles and Practical Applications** by Niels Ferguson,  Bruce Schneier, Tadayoshi Kohno
+- **Practical Cryptography** (2003) by Niels Ferguson,  Bruce Schneier
+- **Cryptography Engineering: Design Principles and Practical Applications** (2010)by Niels Ferguson,  Bruce Schneier, Tadayoshi Kohno
 - 图解密码技术 by [日] 结城浩
 - Understanding Cryptography: A Textbook for Students and Practitioners (2010) by Christof Paar,  Jan Pelzl
 - Introduction to Modern Cryptography, Second Edition (Chapman & Hall/CRC Cryptography and Network Security Series) by Jonathan Katz

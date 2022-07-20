@@ -240,9 +240,9 @@ Prime
 - **Learning Python** (5th, 2013) by David Ascher and MARK LUTZ
 - Learn Python 3 the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code by Zed Shaw
 - A Byte of Python by Swaroop C.H.
-- **Automate the Boring Stuff with Python: Practical Programming for Total Beginners** by Al Sweigart
-- **Python Crash Course: A Hands-On, Project-Based Introduction to Programming** by Eric Matthes
-- **Think Python: An Introduction to Software Design** by Allen B. Downey
+- **Automate the Boring Stuff with Python: Practical Programming for Total Beginners** (2nd, 2019) by Al Sweigart
+- **Python Crash Course: A Hands-On, Project-Based Introduction to Programming** (2nd, 2019) by Eric Matthes
+- **Think Python** (2nd, 2016) by Allen B. Downey
 - **Dive into Python** by Mark Pilgrim
 - Python Essential Reference by David M. Beazley
 - Introducing Python: Modern Computing in Simple Packages (2nd, 2019) by Bill Lubanovic
@@ -254,7 +254,7 @@ Prime
 Advanced
 
 - Python Cookbook: Recipes for Mastering Python 3 by Brian K. Jones and David M. Beazley
-- **Fluent Python** by Luciano Ramalho
+- **Fluent Python** (2nd, 2022) by Luciano Ramalho
 - The Hacker's Guide to Python by Julien Danjou
 - CPython Internals: Your Guide to the Python 3 Interpreter by Anthony Shaw
 - Classic Computer Science Problems in Python (2019) by David Kopec
@@ -263,7 +263,7 @@ Advanced
 - Expert Python Programming by Tarek Ziadé
 - Effective Python: 59 Specific Ways to Write Better Python by Brett Slatkin
 - High Performance Python: Practical Performant Programming for Humans by Ian Ozsvald and Micha Gorelick
-- **Programming Python: Powerful Object-Oriented Programming** by Mark Lutz
+- **Programming Python: Powerful Object-Oriented Programming** (4th. 2011) by Mark Lutz
 - Cython: A Guide for Python Programmers (2015) by Kurt W Smith
 
 New Books

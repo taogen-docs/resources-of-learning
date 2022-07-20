@@ -35,8 +35,8 @@
 #### beginner
 
 - [**The Java™ Tutorials**](https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html)
-- **The Java Tutorial: A Short Course on the Basics** (6th) by Raymond Gallardo, Scott Hommel, Sowmya Kannan, Joni Gordon, Sharon Biocca Zakhour
-- **Core Java** (11th, 2018) Volume I Fundamentals by S, Horstmann
+- **The Java Tutorial: A Short Course on the Basics** (6th, 2014) by Raymond Gallardo, Scott Hommel, Sowmya Kannan, Joni Gordon, Sharon Biocca Zakhour
+- **Core Java** (12th, 2021) Volume I Fundamentals by S, Horstmann
 - The Java Programming Language (4th, 2005) by Ken Arnold, James Gosling, David Holmes
 - Java: A Beginner's Guide (8th) by Herbert Schildt
 - Head First Java (2nd, 2009) by Kathy Sierra 
@@ -162,7 +162,7 @@ JVM Internals
 For JVM Tuning
 
 - **Java Performance: The Definitive Guide** (2014) by Scott Oaks [4.38, 200]
-- **Java Performance: In-Depth Advice for Tuning and Programming Java 8, 11, and Beyond** (2020) by Scott Oaks
+- **Java Performance: In-Depth Advice for Tuning and Programming Java 8, 11, and Beyond** (2nd, 2020) by Scott Oaks
 - **Java Performance** (2011) by Charlie Hunt [4.12, 200]
 - Java Performance Companion (2016) by Charlie Hunt [3.77]
 - **Optimizing Java: Practical Techniques for Improving JVM Application Performance** (2018) by Benjamin J. Evans, James Gough [4.37, 46]
@@ -311,7 +311,7 @@ Spring Framework
 - [Spring Framework Reference Documentation 3.2.18 - doc](https://docs.spring.io/spring/docs/3.2.x/spring-framework-reference/html/)
 - [Spring Framework Current Documentation - doc](https://docs.spring.io/spring/docs/current/spring-framework-reference/)
 - [Spring Framework libs-release](https://repo.spring.io/libs-release/org/springframework/spring/)
-- **Spring in Action** by Craig Walls
+- **Spring in Action** (6h, 2022) by Craig Walls
 - **Expert One-On-One J2EE without EJB** by Rod Johnson. It explains the why behind spring as well as the how to use it.
 - Spring 5 Recipes: A Problem-Solution Approach
 - **Spring 揭秘** (2009) by 王福强
@@ -323,6 +323,7 @@ Spring Boot
 
 - [Spring Boot Current Documentation - doc](https://docs.spring.io/spring-boot/docs/current/reference/html/)
 - Spring Boot in Action by Craig Walls
+- Spring Boot: Up and Running: Building Cloud Native Java and Kotlin Applications by Mark Heckler
 - Learning Spring Boot 2.0
 - Spring Boot Persistence Best Practices: Optimize Java Persistence Performance in Spring Boot Applications (2020) by Anghel Leonard
 
