@@ -19,6 +19,8 @@ Content
 
 Phonetics
 
+>  the International *Phonetic* Alphabet (IPA)
+
 - English Pronunciation in Use Elementary by Mark Hancock
 - English Pronunciation in Use Intermediate by Mark Hancock
 - English Pronunciation in Use Advanced by Mark Hancock
@@ -60,5 +62,4 @@ Writing
 - The Elements of Style (4h, 2019) by William Strunk Jr. , E. B. White, et al
 
 Spoken
-
 

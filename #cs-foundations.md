@@ -1,5 +1,3 @@
-
-
 # CS Fundamentals Resources
 
 > High buildings rise from the ground.
@@ -521,6 +519,10 @@ Linux Programming
 - Linux 环境编程 by 高峰
 - Autotools: A Practioner's Guide to GNU Autoconf, Automake, and Libtool by John Calcote
 
+Linux Insides
+
+- [linux-insides - GitHub](https://github.com/0xAX/linux-insides)
+
 Linux Drivers
 
 - Linux Device Drivers by Alessandro Rubini, Greg Kroah-Hartman, and Jonathan Corbet
@@ -748,6 +750,7 @@ Resources
 - [Exercism.io - Code practice and mentorship for everyone](https://exercism.io/)
 - [PDF Drive - Search and download PDF files for free.](https://www.pdfdrive.com/)
 - [SlideShare - LinkedIn](https://www.slideshare.net/)
+- [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation). 中国程序员容易发音错误的单词
 
 Tutorials
 
@@ -760,16 +763,38 @@ Tutorials
 
 Courses
 
-- [MIT OpenCourseware](https://ocw.mit.edu/)
-- [edx](https://www.edx.org/)
-- [Coursera](https://www.coursera.org/)
-- [Stanford Online Courses](https://online.stanford.edu/free-courses)
-- Udacity
-- YouTube
-- Bilibili
-- 阿里云大学
-- 慕课网
-- 尚硅谷
+- Free
+  - [Coursera](https://www.coursera.org/)
+  - [Codecademy](https://www.codecademy.com/)
+  - [edx](https://www.edx.org/)
+  - [MIT OpenCourseware](https://ocw.mit.edu/)
+  - [Stanford Online Courses](https://online.stanford.edu/free-courses)
+- Commercial
+  - Udemy
+  - Pluralsight
+  - Udacity
+  - Skillsoft
+- Others
+  - YouTube
+  - Bilibili
+  - 阿里云大学
+  - 慕课网
+  - 尚硅谷
+
+
+Course Collections
+
+- [cs-video-courses - GitHub](https://github.com/Developer-Y/cs-video-courses)
+
+Practices
+
+- [app-ideas](https://github.com/florinpop17/app-ideas)
+- [50projects50days](https://github.com/bradtraversy/50projects50days)
+
+Finding technology trends
+
+- Stack Overflow Developer Survey
+- Search: top technology trends + software development/web development/Java development + in <year>
 
 <br>
 
