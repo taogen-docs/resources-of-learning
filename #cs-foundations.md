@@ -171,6 +171,7 @@ Tutorials
 
 - [Techie Delight](https://www.techiedelight.com/)
 - [geeks for geeks](https://www.geeksforgeeks.org/)
+- [Scaler Topics](https://www.scaler.com/topics/)
 
 <br>
 
