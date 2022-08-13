@@ -38,6 +38,7 @@
 - Hacking Exposed 7: Network Security Secrets and Solutions by Stuart McClure, Joel Scambray
 - The Cyber Effect: A Pioneering Cyberpsychologist Explains How Human Behavior Changes Online by Mary Aiken
 - CISSP All-in-One Exam Guide by Shon Harris [4.07, 845]
+- Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali (2018) by OccupyTheWeb
 - Penetration Testing: A Hands-On Introduction to Hacking by Georgia Weidman [4.19, 299]
 - Silence on the Wire: A Field Guide to Passive Reconnaissance and Indirect Attacks by Michal Zalewski [4.21, 415]
 - Writing Secure Code by David Le Blanc and Michael Howard [4.01, 371]

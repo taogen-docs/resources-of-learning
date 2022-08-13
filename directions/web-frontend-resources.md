@@ -22,10 +22,10 @@
   - <a name="react_c" href="#react_t">React </a>
   - <a name="angular_c" href="#angular_t">AngularJS </a>
 - <a name="ltwt_c" href="#ltwt_t">Lightweight JS Frameworks</a>
+  - Phoenix Framework
   - Svelte
   - Preact
   - SolidJS
-
 - <a name="mdweb_c" href="#mdweb_t">Modern Web Frontend</a>
 - <a name="crossplat_c" href="#crossplat_t">Cross-Platform Mobile Applications</a>
   - <a name="flutter_c" href="#flutter_t">Flutter</a>
@@ -356,6 +356,10 @@ React Ecosystem
 - Learning Redux: Write maintainable, consistent, and easy-to-test web applications by Daniel Bugl
 - Learn React Hooks: Build and refactor modern React.js applications using Hooks by Daniel Bugl
 
+React Interview Questions
+
+- [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)
+
 <br>
 <h3><a name="angular_t" href="#angular_c">AngularJS</a></h3>
 <br>
@@ -377,11 +381,21 @@ React Ecosystem
 
 <br>
 
+Phoenix Framework
+
+- [Phoenix Framework](https://www.phoenixframework.org/). Peace of mind from prototype to production
+
 Svelte
+
+- [Svelte](https://svelte.dev/). Cybernetically enhanced web apps. Write less code, no virtual DOM, truly reactive.
 
 Preact
 
+- [Preact](https://preactjs.com/). Fast 3kB alternative to React with the same modern API.
+
 SolidJS
+
+- [SolidJS](https://www.solidjs.com/). Simple and performant reactivity for building user interfaces.
 
 <br>
 

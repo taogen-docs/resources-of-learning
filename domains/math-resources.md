@@ -15,13 +15,24 @@
 - Mathematical Analysis by Tom M. Apostol 
 - 数学分析八讲 by 辛钦
 - 数学分析中的典型问题与方法 by 裴礼文
-- Principles of Mathematical Analysis by Walter Rudin 
+- Principles of Mathematical Analysis by Walter Rudin
+
+Courses
+
+- [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
+- [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
+- [Essence of calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 
 ### Linear Algebra
 
 - Linear Algebra Done Right by Sheldon Axler
 - Introduction to Linear Algebra by Gilbert Strang
 - Linear Algebra And Its Applications by Gilbert Strang
+
+Courses
+
+- [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm)
+- [Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 ### Mathematical Statistics and Statistical Theory
 

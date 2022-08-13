@@ -47,8 +47,8 @@ Clean Code
 
 - **Clean Code : A Handbook of Agile Software Craftsmanship** (2008) by Robert C. Martin, Prentice Hall
 - **Code Complete** (2nd, 2004) by Steve McConnell
-- **The Practice of Programming** by Brian W. Kernighan
-- **Hacker's Delight** by Henry S. Warren Jr.
+- **The Practice of Programming** (1999) by Brian W. Kernighan
+- **Hacker's Delight** (2nd, 2012) by Henry S. Warren Jr.
 - Write Great Code: Volume 1: Understanding the Machine by Randall Hyde
 - Write Great Code: Volume 2: Thinking Low-Level, Writing High-Level by Randall Hyde
 - Write Great Code, Volume 3: Engineering Software by Randall Hyde
@@ -61,9 +61,9 @@ Clean Code
 
 Refactoring
 
-- **Refactoring : Improving the Design of Existing Code** (2nd, 2018) by Martin Fowler, Kent Beck 
-- **Refactoring to Patterns** by Joshua Kerievsky
-- **Working Effectively with Legacy Code** by Michael C. Feathers
+- **Refactoring: Improving the Design of Existing Code** (2nd, 2018) by Martin Fowler, Kent Beck 
+- **Refactoring to Patterns** (2004) by Joshua Kerievsky
+- **Working Effectively with Legacy Code** (2004) by Michael C. Feathers
 
 Test-Driven Development (TDD)
 
@@ -73,7 +73,7 @@ Test-Driven Development (TDD)
 Unit Testing
 
 
-- **Growing Object-Oriented Software, Guided by Tests** by Steve Freeman
+- **Growing Object-Oriented Software, Guided by Tests** (2009) by Steve Freeman
 - Unit Testing: Principles, Practices, and Patterns by Vladimir Khorikov
 - Effective Unit Testing by Lasse Koskela
 - xUnit Test Patterns: Refactoring Test Code by Gerard Meszaros (.NET)
@@ -221,7 +221,7 @@ Design Patterns
 
 - **Design Patterns: Elements of Reusable Object-Oriented Software** (1994) by Erich Gamma, Richard Helm,  Ralph Johnson, John Vlissides
 - Head First Design Patterns (2004) by Elisabeth Freeman
-- **Agile Software Development, Principles, Patterns, and Practices** by Robert C. Martin
+- **Agile Software Development, Principles, Patterns, and Practices** (2002) by Robert C. Martin
 
 UML
 
@@ -317,7 +317,7 @@ New Books (2019~2021)
 
 ### Microservices Architecture
 
-- **Building Microservices: Designing Fine-Grained Systems** (2015) by Sam Newman
+- **Building Microservices: Designing Fine-Grained Systems** (2nd, 2021) by Sam Newman
 - **Monolith to Microservices: Sustaining Productivity While Detangling the System** (2019) by Sam Newman
 - Microservices: Up and Running: A Step-by-Step Guide to Building a Microservice Architecture (2020) by Ronnie Mitra and Irakli Nadareishvili
 - Microservices Security in Action (2021) by Prabath Siriwardena and Nuwan Dias
@@ -360,15 +360,15 @@ Articles
 Must Read
 
 
-- **The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win** by Gene Kim, Kevin Behr, George Spafford
-- **Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation** by Jez Humble 
-- **The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations** (2016) by Gene Kim , Patrick Debois
+- **The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win** (2013) by Gene Kim, Kevin Behr, George Spafford
+- **Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation** (2010) by Jez Humble 
+- **The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations** (2nd, 2021) by Gene Kim , Patrick Debois
 - **Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations** (2018) by Nicole Forsgren PhD , Jez Humble
-- **The Unicorn Project** by Gene Kim
-- **Release It!: Design and Deploy Production-Ready Software** by Michael T.Nygard 
-- **The Goal: A Process of Ongoing Improvement** by Eliyahu M. Goldratt
+- **The Unicorn Project** (2019) by Gene Kim
+- **Release It!: Design and Deploy Production-Ready Software** (2018) by Michael T.Nygard 
+- **The Goal: A Process of Ongoing Improvement** (2014) by Eliyahu M. Goldratt
 - Beyond the Goal: Eliyahu Goldratt Speaks on the Theory of Constraints by Eliyahu M. Goldratt
-- **It's Not Luck** by Eliyahu M. Goldratt
+- **It's Not Luck** (2011) by Eliyahu M. Goldratt
 - Making Work Visible: Exposing Time Theft to Optimize Work & flow by Dominica Degrandis
 
 Some More
@@ -391,7 +391,7 @@ Some More
 
 Complexity theory and systems thinking
 
-- **Antifragile: Things that Gain from Disorder** by Nassim Nicholas Taleb
+- **Antifragile: Things that Gain from Disorder** (2012) by Nassim Nicholas Taleb
 - Drift into Failure: From Hunting Broken Components to Understanding Complex Systems by Sidney Dekker
 - The Logical Thinking Process: A Systems Approach to Complex Problem Solving by H. William Dettmer
 
@@ -405,8 +405,8 @@ Jenkins
 
 Docker
 
-- **Docker in Action** by Jeff Nickoloff
-- **Docker Deep Dive** by Nigel Poulton
+- **Docker in Action** (2nd, 2019) by Jeff Nickoloff
+- **Docker Deep Dive** (2016) by Nigel Poulton
 - **The Docker Book: Containerization is the new virtualization** (2014) by James Turnbull 
 - Docker in Practice by Ian Miell, Aidan Hobson Sayers
 - Docker: Up & Running: Shipping Reliable Containers in Production by Sean P. Kane
@@ -415,7 +415,7 @@ Docker
 Kubernetes 
 
 - Kubernetes in Action by Marko Luksa
-- **The Kubernetes Book** by Nigel Poulton
+- **The Kubernetes Book** (2021) by Nigel Poulton
 - Kubernetes: Up and Running: Dive into the Future of Infrastructure (2nd, 2019) by Brendan Burns , Joe Beda
 - Production Kubernetes: Building Successful Application Platforms (2021) by Josh Rosso, Rich Lander, Alex Brand, John Harris
 - Kubernetes Patterns: Reusable Elements for Designing Cloud-Native Applications (2019)  by Bilgin Ibryam, Roland Huß
@@ -437,7 +437,7 @@ Kubernetes
 
 <br>
 
-- **Site Reliability Engineering: How Google Runs Production Systems** by Betsy Beyer
+- **Site Reliability Engineering: How Google Runs Production Systems** (2016) by Betsy Beyer
 - The Site Reliability Workbook: Practical Ways to Implement SRE
 - Seeking SRE: Conversations About Running Production Systems at Scale by David N. Blank-Edelman
 - The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations
@@ -500,21 +500,22 @@ Kubernetes
 
 Team and Agile
 
-- **Extreme Programming Explained: Embrace Change** by Kent Beck
-- **The Mythical Man-Month: Essays on Software Engineering** by Jr·Frederick P·Brooks 
-- **Peopleware: Productive Projects and Teams** by Tom DeMarco
+- **Extreme Programming Explained: Embrace Change** (2nd, 2004) by Kent Beck
+- **The Mythical Man-Month: Essays on Software Engineering** (Anniversary Edition 2nd, 1996) by Jr·Frederick P·Brooks 
+- **Peopleware: Productive Projects and Teams** (2013) by Tom DeMarco
 - **Clean Agile: Back to Basics** (2019) by Robert C. Martin
-- **Scrum and XP from the Trenches** by Henrik Kniberg
-- **Scrum: The Art of Doing Twice the Work in Half the Time** by Jeff Sutherland
-- **The Goal: A Process of Ongoing Improvement** by Eliyahu M. Goldratt
-- **Lean from the Trenches** by Henrik Kniberg
-- **Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency** by Tom DeMarco
-- **The Software Craftsman: Professionalism, Pragmatism, Pride** by Sandro Mancuso 
-- **Implementing Lean Software Development: From Concept to Cash** by Mary Poppendieck
-- **The Art of Agile Development** by James Shore, Shane Warden 
-- **The Agile Samurai** by Jonathan Rasmusson
-- **Managing Humans: Biting and Humorous Tales of a Software Engineering Manager** by Michael Lopp
-- **The Five Dysfunctions of a Team: A Leadership Fable** by Patrick Lencioni
+- **Scrum and XP from the Trenches** (2nd, 2015) by Henrik Kniberg
+- **Scrum: The Art of Doing Twice the Work in Half the Time** (2014) by Jeff Sutherland
+- **The Goal: A Process of Ongoing Improvement** (3rd, 2004) by Eliyahu M. Goldratt
+- **Lean from the Trenches** (2011) by Henrik Kniberg
+- **Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency** (2001) by Tom DeMarco
+- **The Software Craftsman: Professionalism, Pragmatism, Pride** (2014) by Sandro Mancuso 
+- **Implementing Lean Software Development: From Concept to Cash** (2006) by Mary Poppendieck
+- **The Art of Agile Development** (2nd, 2021) by James Shore, Shane Warden 
+- **The Agile Samurai** (2013) by Jonathan Rasmusson
+- **Managing Humans: Biting and Humorous Tales of a Software Engineering Manager** (2016) by Michael Lopp
+- **The Five Dysfunctions of a Team: A Leadership Fable** (2011) by Patrick Lencioni
+- Lean Software Development: An Agile Toolkit by Mary Poppendieck, Tom Poppendieck, Ken Schwaber
 - Timeless Laws of Software Development by Jerry Fitzpatrick
 - Rapid Development: Taming Wild Software Schedules by Steve McConnell
 - Lean thinking  banish waste and creat wealth in your corporation by James P.Womack 
@@ -530,17 +531,17 @@ Project Management
 
 Organization Management
 
-- **Toyota Kata: Managing People for Improvement, Adaptiveness and Superior Results** by Mike Rother
-- **Lean Enterprise: How High Performance Organizations Innovate at Scale** by Jez Humble
+- **Toyota Kata: Managing People for Improvement, Adaptiveness and Superior Results** (2009) by Mike Rother
+- **Lean Enterprise: How High Performance Organizations Innovate at Scale** (2020) by Jez Humble
 - Fearless Change: Patterns for Introducing New Ideas by Mary Lynn Manns
 
 Tech Leader
 
-- **The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change** by Camille Fournier
-- **Extreme Ownership: How U.S. Navy SEALs Lead and Win** by Jocko Willink, Leif Babin
+- **The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change** (2017) by Camille Fournier
+- **Extreme Ownership: How U.S. Navy SEALs Lead and Win** (2019) by Jocko Willink, Leif Babin
 - Staff Engineer: Leadership beyond the management track by Will Larson
-- **An Elegant Puzzle: System of Engineering Management** by Will Larson
-- **Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered** by Austin Kleon
+- **An Elegant Puzzle: System of Engineering Management** (2019) by Will Larson
+- **Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered** (2014) by Austin Kleon
 - Accelerate: Building and Scaling High-Performance Technology Organizations by Nicole Forsgern
 - Start with Why: How Great Leaders Inspire Everyone to Take Action by Simon Sinek
 - The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact by Edmond Lau
@@ -551,8 +552,8 @@ Open Source Organization
 
 Business
 
-- **The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses** by Eric Ries
-- **Kanban: Successful Evolutionary Change for Your Technology Business** by David J. Anderson
+- **The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses** (2011) by Eric Ries
+- **Kanban: Successful Evolutionary Change for Your Technology Business** (2013) by David J. Anderson
 - Necessary But Not Sufficient: A Theory Of Constraints Business Novel by Eliyahu M. Goldratt
 
 
@@ -577,13 +578,13 @@ Some More
 
 ### Software Testing
 
-- **Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing** by Elisabeth Hendrickson
-- **Lessons Learned in Software Testing: A Context-Driven Approach** by Cem Kaner, James Marcus Bach, Bret Pettichord
+- **Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing** (2013) by Elisabeth Hendrickson
+- **Lessons Learned in Software Testing: A Context-Driven Approach** (2001) by Cem Kaner, James Marcus Bach, Bret Pettichord
 - Software Testing (2nd, 2005) by Ron Patton
 - Agile Testing: A Practical Guide for Testers and Agile Teams by Lisa Crispin, Janet Gregory
 - How Google Tests Software by James A. Whittaker, Jason Arbon, Jeff Carollo
 - Testing Computer Software by Cem Kaner, Jack Falk, Hung Q. Nguyen
-- **Perfect Software And Other Illusions About Testing** by Gerald Weinberg
+- **Perfect Software And Other Illusions About Testing** (2011) by Gerald Weinberg
 - A Practitioner's Guide to Software Test Design by Lee Copeland
 
 ### Quality Assurance
@@ -608,24 +609,25 @@ Programmer
 
 - **The Pragmatic Programmer: From Journeyman to Master** (2nd, 2019) by Andrew Hunt, David Thomas 
 - **Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman** (2009) by Dave H. Hoover and Adewale Oshineye
-- **The Clean Coder: A Code of Conduct for Professional Programmers** by Robert C. Martin
+- **The Clean Coder: A Code of Conduct for Professional Programmers** (2011) by Robert C. Martin
 - Clean Craftsmanship: Disciplines, Standards, and Ethics (2021) by Robert C. Martin
 - **Joel on Software** (3rd, 2004) by Joel Spolsky
 - **More Joel on Software** (2008) by Joel Spolsky
-- **Hackers and Painters: Big Ideas from the Computer Age** by Paul Graham
-- **Soft Skills: The Software Developer's Life Manual** by John Z. Sonmez
-- **The Cathedral and the Bazaar** by Eric S. Raymond 
-- **Coders at Work: Reflections on the Craft of Programming** by Peter Seibel
-- **The Passionate Programmer** by Chad Fowler
-- **Pragmatic Thinking and Learning: Refactor Your Wetware** by Andy Hunt
-- **Never Split the Difference** by Chris Voss, Tahl Raz
-- **Managing Oneself** by Peter F. Drucker
-- **High Output Management** by Andrew S. Grove
+- **Hackers and Painters: Big Ideas from the Computer Age** (2008) by Paul Graham
+- **Soft Skills: The Software Developer's Life Manual** (2020) by John Z. Sonmez
+- **The Cathedral and the Bazaar** (2001) by Eric S. Raymond 
+- **Coders at Work: Reflections on the Craft of Programming** (2009) by Peter Seibel
+- **The Passionate Programmer** (2009) by Chad Fowler
+- **Pragmatic Thinking and Learning: Refactor Your Wetware** (2008) by Andy Hunt
+- **Never Split the Difference** (2016) by Chris Voss, Tahl Raz
+- **Managing Oneself** (2008) by Peter F. Drucker
+- **High Output Management** (2015) by Andrew S. Grove
 - Programming Beyond Practices: Be More Than Just a Code Monkey by Gregory T. Brown
 - Effective Programming: More Than Writing Code by Jeff Atwood
 - 97 Things Every Programmer Should Know: Collective Wisdom from the Experts by Kevlin Henney
 - A Brief History of Hackerdom by Raymond.  Eric S. Raymond 
 - The Productive Programmer by Neal Ford 
+- Engineers Survival Guide: Advice, tactics, and tricks After a decade of working at Facebook, Snapchat, and Microsoft by Merih Taze
 
 Some more
 
