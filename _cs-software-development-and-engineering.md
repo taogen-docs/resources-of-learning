@@ -36,9 +36,12 @@
 <h2><a name="code_t" href="#code_c">Code</a></h2>
 <br>
 
-> Any fool can write code that a computer can understand. Good programmers write code that humans can understand. 
+> Any fool can write code that a computer can understand. Good programmers write code that humans can understand. -- Martin Fowler
 >
-> -- Martin Fowler
+
+> First, solve the problem. Then, write the code.
+
+> Make it work, make it right, make it fast. -- Kent Beck
 
 Clean Code
 
