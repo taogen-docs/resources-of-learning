@@ -744,13 +744,13 @@ OpenGL
 
 <br>
 
-Resources
+1\. Learning Materials
+
+Resources Searching
 
 - [hackr.io - Find the best online Programming Courses & Tutorials](https://hackr.io/)
-- [Exercism.io - Code practice and mentorship for everyone](https://exercism.io/)
 - [PDF Drive - Search and download PDF files for free.](https://www.pdfdrive.com/)
 - [SlideShare - LinkedIn](https://www.slideshare.net/)
-- [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation). 中国程序员容易发音错误的单词
 
 Tutorials
 
@@ -786,15 +786,26 @@ Course Collections
 
 - [cs-video-courses - GitHub](https://github.com/Developer-Y/cs-video-courses)
 
-Practices
+2\. Code Practice and Creating Projects
 
+- [Exercism.io - Code practice and mentorship for everyone](https://exercism.io/)
 - [app-ideas](https://github.com/florinpop17/app-ideas)
 - [50projects50days](https://github.com/bradtraversy/50projects50days)
+
+3\. Inspiration and Fun
+
+Talks
+
+- [Programming Talks](https://github.com/hellerve/programming-talks)
 
 Finding technology trends
 
 - Stack Overflow Developer Survey
-- Search: top technology trends + software development/web development/Java development + in <year>
+- Search: top technology trends + software development/web development/Java development + in `<year>`
+
+Uncategorized
+
+- [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation). 中国程序员容易发音错误的单词
 
 <br>
 
