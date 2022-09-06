@@ -336,14 +336,20 @@ Spring Cloud
 > Spring Cloud provides a suite of tools for the discovery, routing, and deployment of microservices to the enterprise and the cloud.
 
 - Spring Cloud Documentation, Current Version - [HTML](https://docs.spring.io/spring-cloud/docs/current/reference/htmlsingle), [PDF](https://docs.spring.io/spring-cloud/docs/current/reference/pdf/spring-cloud.pdf)
-- **Cloud Native Java: Designing Resilient Systems with Spring Boot, Spring Cloud, and Cloud Foundry** (2017) by Josh Long, Kenny Bastani
+- [Spring Getting Started Guides - Spring](https://spring.io/guides)
+- [Spring Cloud Tutorial - Baeldung](https://www.baeldung.com/spring-cloud-series)
+- [The Beginner’s Guide To Spring Cloud - Ryan Baxter - YouTube](https://www.youtube.com/watch?v=aO3W-lYnw-o)
+- [Spring Cloud Samples - GitHub](https://github.com/spring-cloud-samples)
+- **Microservices Patterns: With examples in Java** (2018) by Chris Richardson
+- **Cloud Native Java: Designing Resilient Systems with Spring Boot, Spring Cloud, and Cloud Foundry** (2017) by Josh Long, Kenny Bastani. (Some content is outdated. Expect a new version.)
 - **Spring Microservices in Action** (2nd, 2021) by John Carnells
-- Spring Boot: Up and Running: Building Cloud Native Java and Kotlin Applications (2021) by Mark Heckler
-- Cloud Native Spring in Action (2022) by Thomas Vitale
+- Microservices with Spring Boot and Spring Cloud (2nd, 2021) by Magnus Larsson
+- Hands-On Microservices with Spring Boot and Spring Cloud (2019) by Magnus Larsson
+- Modernizing Enterprise Java: A Concise Cloud Native Guide for Developers (2021) by Markus Eisele, Natale Vinto
+- Cloud Native Spring in Action: with Spring Boot and Kubernetes (2022) by Thomas Vitale. (It was not published yet. But it's comming soon.)
 
 Microservices
 
-- **Microservices Patterns: With examples in Java** (2018) by Chris Richardson 
 - **Building Microservices: Designing Fine-Grained Systems** (2nd, 2021) by Sam Newman
 - **Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith** (2019) by Sam Newman
 - Microservices in Action by Morgan Bruce
