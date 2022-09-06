@@ -1,6 +1,6 @@
 # Resources of Java
 
-> Write once, run anywhere.
+> Java - Write once, run anywhere.
 
 > First, solve the problem. Then, write the code.
 
@@ -610,6 +610,7 @@ Social
 
 Knowledge Summary
 
+- [Java 全栈知识体系](https://www.pdai.tech/)
 - [Java工程师成神之路 - github](https://github.com/hollischuang/toBeTopJavaer)
 - [advanced-java - github](https://github.com/doocs/advanced-java)   Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识。
 - [JavaGuide - github](https://github.com/Snailclimb/JavaGuide) 涵盖大部分Java程序员所需要掌握的核心知识。
@@ -627,6 +628,7 @@ Resource Collections
 
 Tutorials
 
+- [Baeldung](https://www.baeldung.com/)
 - [bugstack 虫洞栈](https://bugstack.cn/)
 
 Online Course Websites
