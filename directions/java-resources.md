@@ -329,6 +329,14 @@ Spring Boot
 
 ### Web Services
 
+Microservices
+
+> Microservices are more than writing the code.
+
+- **Building Microservices: Designing Fine-Grained Systems** (2nd, 2021) by Sam Newman
+- **Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith** (2019) by Sam Newman
+- Microservices in Action by Morgan Bruce
+
 Spring Cloud
 
 > Microservices are nothing but an extension of RESTful web services with the main objective being to break up your code into small, distributed, and independent services for better management.
@@ -347,12 +355,6 @@ Spring Cloud
 - Hands-On Microservices with Spring Boot and Spring Cloud (2019) by Magnus Larsson
 - Modernizing Enterprise Java: A Concise Cloud Native Guide for Developers (2021) by Markus Eisele, Natale Vinto
 - Cloud Native Spring in Action: with Spring Boot and Kubernetes (2022) by Thomas Vitale. (It was not published yet. But it's comming soon.)
-
-Microservices
-
-- **Building Microservices: Designing Fine-Grained Systems** (2nd, 2021) by Sam Newman
-- **Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith** (2019) by Sam Newman
-- Microservices in Action by Morgan Bruce
 
 Others
 

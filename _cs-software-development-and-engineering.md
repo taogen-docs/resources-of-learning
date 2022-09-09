@@ -12,7 +12,7 @@
   - <a name="code_c" href="#code_t">Code</a>
   - <a name="devtools_c" href="#devtools_t">Development Tools</a>
   - <a name="lowcode_c" href="#lowcode_t">Low-Code and No-Code</a>
-  - <a name="xaas_c" href="#xaas_t">Everything as a Service</a>
+  - <a name="xaas_c" href="#xaas_t">Anything as a Service</a>
 - Part II: Software Design
   - <a name="designpatterns_c" href="#designpatterns_t">Design Patterns</a>
   - <a name="archdes_c" href="#archdes_t">Architecture Design</a>
@@ -136,13 +136,50 @@ Debugging
 
 <br>
 
-<h2><a name="xaas_t" href="#xaas_c">Everything as a Service</a></h2>
+<h2><a name="xaas_t" href="#xaas_c">Anything as a Service (XaaS)</a></h2>
 
 <br>
 
-### Artificial intelligence as a Service (AIaaS)
+![XaaS](images/xaas.png)
 
-> Artificial Intelligence as a Service (AIaaS) is the third party offering of artificial intelligence (AI) outsourcing. AI as a service allows individuals and companies to experiment with AI for various purposes without large initial investment and with lower risk.
+### Infrastructure as a service (IaaS)
+
+> Infrastructure as a Service (IaaS)—The vendor provides the infrastructure that lets you access computing resources such as servers, storage, and networks. In this model, the user is responsible for everything related to the maintenance of the infrastructure and the scalability of the application.
+
+IaaS Providers
+
+- Alibaba Elastic Compute Service
+- Amazon EC2
+- Azure Virtual Machines
+- DigitalOcean Droplets
+- Google Compute Engine
+- IBM Cloud Private
+- Linode
+- Synology Virtual Machine Manager
+
+### Container as a Service (CaaS)
+
+> An intermediate model between the IaaS and the PaaS, it refers to a form of container-based virtualization. Unlike an IaaS model, where a developer manages the virtual machine to which the service is deployed, with CaaS, you deploy your microservices in a lightweight, portable virtual container (such as Docker) to a cloud provider. The cloud provider runs the virtual server the container is running on, as well as the provider’s comprehensive tools for building, deploying, monitoring, and scaling containers.
+
+CaaS Providers
+
+- Google Container Engine (GKE)
+- Amazon’s Elastic Container Service (ECS)
+
+### Platform as a service (PaaS)
+
+> Platform as a service (PaaS) is a cloud computing model where a third-party provider delivers hardware and software tools to users over the internet. PaaS frees developers from having to install in-house hardware and software to develop or run a new application.
+>
+> This model provides a platform and an environment that allow users to focus on the development, execution, and maintenance of the application. The applications can be created with tools that are provided by the vendor (for example, operating system, database management systems, technical support, storage, hosting, network, and more). Users do not need to invest in a physical infrastructure, nor spend time managing it, allowing them to concentrate exclusively on the development of applications.
+
+PaaS Providers
+
+- Microsoft Azure
+- Amazon Web Services
+- Google Cloud
+- IBM Cloud
+- Oracle Cloud Infrastructure
+- Alibaba Cloud
 
 ### Function as a Service (FaaS)
 
@@ -161,6 +198,12 @@ FaaS Providers
 - Alibaba Functions
 - Oracle Functions
 
+NOTE If you’re not careful, FaaS-based platforms can lock your code into a cloud vendor platform because your code is deployed to a vendor-specific runtime engine. With a FaaS-based model, you might be writing your service using a general programming language (Java, Python, JavaScript, and so on), but you’re still tying yourself to the underlying vendor’s APIs and runtime engine that your function will be deployed to.
+
+### Artificial intelligence as a Service (AIaaS)
+
+> Artificial Intelligence as a Service (AIaaS) is the third party offering of artificial intelligence (AI) outsourcing. AI as a service allows individuals and companies to experiment with AI for various purposes without large initial investment and with lower risk.
+
 ### Software as a service (SaaS)
 
 > Software as a service (or SaaS) is a way of delivering applications over the Internet—as a service. Instead of installing and maintaining software, you simply access it via the Internet, freeing yourself from complex software and hardware management.
@@ -177,36 +220,6 @@ Top SaaS Companies
 - ServiceNow
 - Zoho
 - Zoom
-
-### Platform as a service (PaaS)
-
-> Platform as a service (PaaS) is a cloud computing model where a third-party provider delivers hardware and software tools to users over the internet.
->
-> PaaS frees developers from having to install in-house hardware and software to develop or run a new application.
-
-PaaS Providers
-
-- Microsoft Azure
-- Amazon Web Services
-- Google Cloud
-- IBM Cloud
-- Oracle Cloud Infrastructure
-- Alibaba Cloud
-
-### Infrastructure as a service (IaaS)
-
-> Infrastructure as a service (IaaS) is a standardized, highly automated offering in which computing resources owned by a service provider, complemented by storage and networking capabilities, are offered to customers on demand. Resources are scalable and elastic in near real time and metered by use. 
-
-IaaS Providers
-
-- Alibaba Elastic Compute Service
-- Amazon EC2
-- Azure Virtual Machines
-- DigitalOcean Droplets
-- Google Compute Engine
-- IBM Cloud Private
-- Linode
-- Synology Virtual Machine Manager
 
 <br>
 
