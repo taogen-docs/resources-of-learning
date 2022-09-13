@@ -332,6 +332,8 @@ Spring Boot
 Microservices
 
 > Microservices are more than writing the code.
+>
+> Microservices are more than the business logic. You need to think about the environment where you’ll run the services and how the services will scale and be resilient.
 
 - **Building Microservices: Designing Fine-Grained Systems** (2nd, 2021) by Sam Newman
 - **Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith** (2019) by Sam Newman
