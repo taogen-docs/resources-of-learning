@@ -383,6 +383,7 @@ Must Read
 - Beyond the Goal: Eliyahu Goldratt Speaks on the Theory of Constraints by Eliyahu M. Goldratt
 - **It's Not Luck** (2011) by Eliyahu M. Goldratt
 - Making Work Visible: Exposing Time Theft to Optimize Work & flow by Dominica Degrandis
+- Python for DevOps: Learn Ruthlessly Effective Automation by Noah Gift
 
 Some More
 
@@ -414,6 +415,13 @@ Jenkins
 - Jenkins: The Definitive Guide by John Smart
 - Learning Continuous Integration with Jenkins by Nikhil Pathania
 
+### Infrastructure as Code (IaC)
+
+- Infrastructure as Code: Dynamic Systems for the Cloud Age (2nd, 2021) by Kief Morris
+- Terraform: Up & Running: Writing Infrastructure as Code (3rd, 2022) by Yevgeniy Brikman
+- Infrastructure as Code, Patterns and Practices: With Examples in Python and Terraform (2022) by Rosemary Wang
+- Infrastructure as Code (IAC) Cookbook by Pierre Pomes and Stephane Jourdan
+
 ### Container
 
 Docker
@@ -442,7 +450,6 @@ Kubernetes
 
 - gRPC: Up and Running: Building Cloud Native Applications with Go and Java for Docker and Kubernetes by Kasun Indrasiri and Danesh Kuruppu
 - Prometheus: Up & Running: Infrastructure and Application Performance Monitoring by Brian Brazil 
-- Terraform: Up & Running: Writing Infrastructure as Code by Yevgeniy Brikman 
 
 <br>
 
