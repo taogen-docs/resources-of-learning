@@ -522,6 +522,10 @@ Others
 - [WebGL](https://get.webgl.org/). 2D and 3D graphics for the web.
 - [WebGL - MDN web docs](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API)
 
+3D Libraries
+
+- [Three.js](https://threejs.org/). a cross-browser JavaScript library and application programming interface used to create and display animated 3D computer graphics in a web browser using WebGL.
+
 <br>
 
 <h2><a name="tools_t" href="#tools_c">Tools</a></h2>
