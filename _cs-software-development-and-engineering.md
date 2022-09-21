@@ -706,6 +706,12 @@ Some More
 
 <br>
 
+> The more corrupt the state, the more numerous the laws. -- Tacitus
+
+> Law and Justice are not always the same. -- Gloria Strinem
+
+> There are not enough jails, not enough police, not enough courts, to enforce a law not supported by the people. -- Hubert Humphrey
+
 ### Constitution
 
 > A constitution is the aggregate of fundamental principles or established precedents that constitute the legal basis of a polity, organization or other type of entity and commonly determine how that entity is to be governed.
