@@ -655,29 +655,40 @@ Some more
 
 For Interview
 
-- Common
+- General Guidance
   - Programming Interviews Exposed (4th, 2018) by Eric Giguere, John Mongan, and Noah Kindler
   - Elements of Programming Interviews: The Insiders' Guide by Adnan Aziz , Tsung-Hsien Lee
-  - Coding Interview Questions by Narasimha Karumanchi
-- Algorithms
+  - [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
+- Coding Interview (Algorithms)
   - Cracking the Coding Interview: 189 Programming Questions and Solutions (2015) by Gayle Laakmann McDowell
   - Programming Pearl by Jon Bentley
   - Dynamic Programming for Coding Interviews by Meenakshi and Kamal Rawat
   - Algorithms for Interviews by Adnan Aziz and Amit Prakash
+  - Coding Interview Questions by Narasimha Karumanchi
   - 剑指Offer (2012) by 何海涛 
   - 编程之美 (2008) by 《编程之美》小组
   - 程序员代码面试指南：IT名企算法与数据结构题目最优解 (2015) by 左程云
-- System Design
+- System Design Interview
   - System Design Interview – An insider’s guide Volume 1 (2020) by Alex Xu. [Preview](https://systeminterview.com/)
   - System Design Interview – An Insider's Guide: Volume 2 (2022) by Alex Xu and Sahn Lam
   - Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems (2017) by Martin Kleppmann (DDIA)
-- Java
-  - Elements of Programming Interviews in Java: The Insiders' Guide by Adnan Aziz , Tsung-Hsien Lee
-  - Java Programming Interviews Exposed by Noel Markham
-- Python
-  - Elements of Programming Interviews in Python: The Insiders' Guide by Adnan Aziz, Tsung-Hsien Lee, Amit Prakash
-- SQL
-  - Joe Celko's SQL Puzzles and Answers by Joe Celkos
+- Technical Interview
+  - Java
+    - Elements of Programming Interviews in Java: The Insiders' Guide by Adnan Aziz , Tsung-Hsien Lee
+    - Java Programming Interviews Exposed by Noel Markham
+  - Python
+    - Elements of Programming Interviews in Python: The Insiders' Guide by Adnan Aziz, Tsung-Hsien Lee, Amit Prakash
+  - SQL
+    - Joe Celko's SQL Puzzles and Answers by Joe Celkos
+- Behavioral Interview
+  - [10 Behavioral Interview Questions for Software Engineers](https://www.indeed.com/career-advice/interviewing/software-engineer-behavioral-interview-questions)
+  - [The 30 most common Software Engineer behavioral interview questions](https://www.techinterviewhandbook.org/behavioral-interview-questions/)
+  - [Top 8 Behavioral Interview Questions for Software Engineers](https://betterprogramming.pub/top-8-behavioral-interview-questions-for-software-engineers-6dcc404bb7b3)
+  - [Behavioral Interview Questions for Software Developers](https://www.interviewkickstart.com/blog/behavioral-interview-questions-software-engineer-and-developer)
+- Salary and Offer Negotiation
+  - [How to negotiate for a higher salary](https://www.michaelpage.com.sg/advice/career-advice/salary-and-negotiation/how-negotiate-higher-salary)
+  - [15 Rules for Negotiating a Job Offer](https://hbr.org/2014/04/15-rules-for-negotiating-a-job-offer)
+
 
 Some More
 
