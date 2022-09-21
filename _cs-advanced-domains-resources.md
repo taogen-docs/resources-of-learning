@@ -628,6 +628,11 @@ JS
 
 Android
 
+Robots.txt
+
+- [Robotstxt.org](https://www.robotstxt.org/)
+- [Introduction to robots.txt](https://developers.google.com/search/docs/crawling-indexing/robots/intro)
+
 
 <br>
 
