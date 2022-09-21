@@ -708,6 +708,8 @@ Some More
 
 ### Constitution
 
+> A constitution is the aggregate of fundamental principles or established precedents that constitute the legal basis of a polity, organization or other type of entity and commonly determine how that entity is to be governed.
+
 - [中华人民共和国宪法](http://www.npc.gov.cn/npc/c505/201803/e87e5cd7c1ce46ef866f4ec8e2d709ea.shtml)
 - [The Constitution of the United States: A Transcription](https://www.archives.gov/founding-docs/constitution-transcript)
 
@@ -766,6 +768,12 @@ Cybersecurity Laws
 Others
 
 - [互联网用户公众账号信息服务管理规定](http://www.cac.gov.cn/2021-01/22/c_1612887880656609.htm)
+
+### Collection of Legal Terms
+
+Civil Code
+
+- [中华人民共和国民法典](http://www.npc.gov.cn/npc/c30834/202006/75ba6483b8344591abd07917e1d25cc8.shtml)
 
 <br>
 
