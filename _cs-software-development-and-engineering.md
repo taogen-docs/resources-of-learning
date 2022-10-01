@@ -18,6 +18,7 @@
   - <a name="archdes_c" href="#archdes_t">Architecture Design</a>
 - Part III: Software Operations & Maintenance
   - <a name="devops_c" href="#devops_t">DevOps</a>
+  - <a name="pe_c" href="#pe_t">Platform Engineering</a>
   - <a name="sre_c" href="#sre_t">SRE</a>
 - Part IV: Software Engineering & Project Management
   - <a name="softeng_c" href="#softeng_t">Software Engineering</a>
@@ -450,6 +451,18 @@ Kubernetes
 
 - gRPC: Up and Running: Building Cloud Native Applications with Go and Java for Docker and Kubernetes by Kasun Indrasiri and Danesh Kuruppu
 - Prometheus: Up & Running: Infrastructure and Application Performance Monitoring by Brian Brazil 
+
+<br>
+
+<h2><a name="pe_t" href="#pe_c">Platform Engineering</a></h2>
+
+<br>
+
+> DevOps is dead, long live Platform Engineering.
+
+> Platform engineering is the discipline of designing and building toolchains and workflows that enable self-service capabilities for software engineering organizations in the cloud-native era. Platform engineers provide an integrated product most often referred to as an “Internal Developer Platform” covering the operational necessities of the entire lifecycle of an application.
+
+- [Platform Engineering](https://platformengineering.org/)
 
 <br>
 
