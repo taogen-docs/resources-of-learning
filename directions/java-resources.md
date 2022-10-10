@@ -212,6 +212,9 @@ For JRockit JVM
 
 Unit Test
 
+- JUnit in Action (34d, 2020) by Catalin Tudose
+- Practical Unit Testing with JUnit and Mockito by Tomek Kaczanowski
+- Testing Java Microservices: Using Arquillian, Hoverfly, AssertJ, JUnit, Selenium, and Mockito by Alex Soto Bueno, Andy Gumbrecht and Jason Porter
 - Java Testing with Spock by Konstantinos Kapelonis
 
 ### Java Data Access

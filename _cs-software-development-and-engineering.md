@@ -418,6 +418,8 @@ Jenkins
 
 ### Infrastructure as Code (IaC)
 
+> Infrastructure as code (IaC) means to manage your IT infrastructure using configuration files.
+
 - Infrastructure as Code: Dynamic Systems for the Cloud Age (2nd, 2021) by Kief Morris
 - Terraform: Up & Running: Writing Infrastructure as Code (3rd, 2022) by Yevgeniy Brikman
 - Infrastructure as Code, Patterns and Practices: With Examples in Python and Terraform (2022) by Rosemary Wang
@@ -561,6 +563,7 @@ Project Management
 - Righting Software (2019) by Juval Löwy
 - The Deadline: A Novel about Project Management by Tom DeMarco
 - Team Geek: A Software Developer's Guide to Working Well with Others by Brian W. Fitzpatrick, Ben Collins-Sussman
+- The Art of Project Management by Scott Berkun
 
 Organization Management
 
@@ -619,6 +622,7 @@ Some More
 - Testing Computer Software by Cem Kaner, Jack Falk, Hung Q. Nguyen
 - **Perfect Software And Other Illusions About Testing** (2011) by Gerald Weinberg
 - A Practitioner's Guide to Software Test Design by Lee Copeland
+- Effective Software Testing: A developer's guide by Mauricio Aniche
 
 ### Quality Assurance
 

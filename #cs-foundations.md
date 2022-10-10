@@ -646,6 +646,33 @@ HTTPS
 
 - Bulletproof SSL and TLS: The Complete Guide to Deploying Secure Servers and Web Applications by Ivan Ristic
 
+### Network Tools
+
+HTTP Reverse proxy
+
+- [Nginx](https://www.nginx.com/)
+
+HTTP Forwarding proxy
+
+- [Squid](http://www.squid-cache.org/)
+- [Privoxy](https://www.privoxy.org/)
+
+TCP/UDP port redirector
+
+- ssh
+- [iptables](https://linux.die.net/man/8/iptables)
+- firewall (CentOS)
+- [redir](https://github.com/troglobit/redir)
+- [rinetd](https://github.com/samhocevar/rinetd)
+- [ncat](https://nmap.org/ncat/)
+- socat
+- portmap
+
+Expose a local server to the Internet
+
+- [frp](https://github.com/fatedier/frp)
+- [ngrok](https://ngrok.com/)
+
 ### Network Security
 
 Reference [information-security-resources - Network Security](directions/information-security-resources.md#netsec_t)
@@ -764,16 +791,16 @@ Tutorials
 Courses
 
 - Free
-  - [Coursera](https://www.coursera.org/)
-  - [Codecademy](https://www.codecademy.com/)
   - [edx](https://www.edx.org/)
   - [MIT OpenCourseware](https://ocw.mit.edu/)
   - [Stanford Online Courses](https://online.stanford.edu/free-courses)
 - Commercial
-  - Udemy
-  - Pluralsight
-  - Udacity
-  - Skillsoft
+  - [Coursera](https://www.coursera.org/)
+  - [Codecademy](https://www.codecademy.com/)
+  - [Udemy](https://www.udemy.com/)
+  - [Pluralsight](https://www.pluralsight.com/)
+  - [Udacity](https://www.udacity.com/)
+  - [Skillsoft](https://www.skillsoft.com/)
 - Others
   - YouTube
   - Bilibili
@@ -802,6 +829,7 @@ Finding technology trends
 
 - Stack Overflow Developer Survey
 - Search: top technology trends + software development/web development/Java development + in `<year>`
+- Hype Cycle for the Future of Applications [Mark O'Neill](https://twitter.com/TheMarkONeill/)
 
 Uncategorized
 
