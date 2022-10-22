@@ -734,6 +734,7 @@ Some More
 > A constitution is the aggregate of fundamental principles or established precedents that constitute the legal basis of a polity, organization or other type of entity and commonly determine how that entity is to be governed.
 
 - [中华人民共和国宪法](http://www.npc.gov.cn/npc/c505/201803/e87e5cd7c1ce46ef866f4ec8e2d709ea.shtml)
+- [中国共产党章程](https://www.12371.cn/special/zggcdzc/zggcdzcqw/)
 - [The Constitution of the United States: A Transcription](https://www.archives.gov/founding-docs/constitution-transcript)
 
 ### Criminal Law
