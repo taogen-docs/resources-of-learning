@@ -63,6 +63,7 @@ Courses
 Guidance
 
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+- [CS自学指南](https://csdiy.wiki/)
 
 <br>
 
