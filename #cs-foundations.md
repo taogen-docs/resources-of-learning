@@ -782,6 +782,10 @@ Resources Searching
 - [hackr.io - Find the best online Programming Courses & Tutorials](https://hackr.io/)
 - [PDF Drive - Search and download PDF files for free.](https://www.pdfdrive.com/)
 - [SlideShare - LinkedIn](https://www.slideshare.net/)
+- [Linuxtopia](https://www.linuxtopia.org/index.html)
+- [FreeComputerBooks.com](https://freecomputerbooks.com/)
+- [OnlineProgrammingBooks.com](https://www.onlineprogrammingbooks.com/)
+- [FreeTechBooks](https://www.freetechbooks.com/)
 
 Tutorials
 
