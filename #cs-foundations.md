@@ -63,6 +63,7 @@ Courses
 Guidance
 
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+- [CS自学指南](https://csdiy.wiki/)
 
 <br>
 
@@ -184,6 +185,7 @@ Guidance
 - [How much math you need for programming](https://lispmachine.wordpress.com/2014/12/05/how-much-math-you-need-for-programming/)
 - [Math for Programmers: What Type of Mathematics is Most Important for Coding & Programming](https://www.knoyo.com/blog/math-for-programmers-what-type-of-mathematics-is-most-important-for-coding-amp-programming)
 - [What Kind of Math is Used in Computer Programming?](https://www.effortlessmath.com/blog/what-kind-of-math-is-used-in-computer-programming/)
+- [Mathematics for the adventurous self-learner](https://www.neilwithdata.com/mathematics-self-learner)
 - [作为一个程序员，数学对你到底有多重要](https://xuwenhao.com/%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%A8%8B%E5%BA%8F%E5%91%98-%E6%95%B0%E5%AD%A6%E5%AF%B9%E4%BD%A0%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E9%87%8D%E8%A6%81-f8bffc41a01)
 
 General

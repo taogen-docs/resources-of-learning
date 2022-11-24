@@ -237,9 +237,15 @@ Prime
 - [The Python Tutorial - doc](https://docs.python.org/3/tutorial/)
 - [Python Documentation](https://www.python.org/doc/)
 - [Beginner's Guide to Python](https://wiki.python.org/moin/BeginnersGuide)
+- [Learn Python in Y minutes](https://learnxinyminutes.com/docs/python/)
+- [Python Tutorial - w3c schools](https://www.w3schools.com/python/default.asp)
+- [Python Tutorial - tutorialspoint](https://www.tutorialspoint.com/python/)
+- [Python Tutorial](https://www.pythontutorial.net/)
+- [learnpython.org](https://www.learnpython.org/)
+- [Real Python](https://realpython.com/)
 - **Learning Python** (5th, 2013) by David Ascher and MARK LUTZ
 - Learn Python 3 the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code by Zed Shaw
-- A Byte of Python by Swaroop C.H.
+- A Byte of Python by Swaroop C.H. [LINK](https://python.swaroopch.com/)
 - **Automate the Boring Stuff with Python: Practical Programming for Total Beginners** (2nd, 2019) by Al Sweigart
 - **Python Crash Course: A Hands-On, Project-Based Introduction to Programming** (2nd, 2019) by Eric Matthes
 - **Think Python** (2nd, 2016) by Allen B. Downey
@@ -299,11 +305,8 @@ Some More
   - Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems by Aurélien Géron
   - Natural Language Processing in Action: Understanding, analyzing, and generating text with Python (2019) by Hobson Lane, Hannes Hapke, Cole Howard
 
-Tutorials
+Resources
 
-- [Real Python](https://realpython.com/)
-- [Python Tutorial - tutorialspoint](https://www.tutorialspoint.com/python/)
-- [learnpython.org](https://www.learnpython.org/)
 - [Python Challenge](http://www.pythonchallenge.com/)
 - [awesome-python - GitHub](https://github.com/vinta/awesome-python)
 - [Python Tips](https://pythontips.com/)
