@@ -478,6 +478,8 @@ Shell
 - **Learning the bash Shell** (3rd, 2005) by Cameron Newham, Bill Rosenblatt
 - **Bash Pocket Reference** (2nd, 2016) by Arnold Robbins
 - **Classic Shell Scripting: Hidden Commands that Unlock the Power of Unix** (2005) by Arnold Robbins, Nelson H. Beebe, Nathan Torkington
+- Advanced Bash-Scripting Guide: An in-depth exploration of the art of shell scripting by Mendel Cooper [LINK1](https://tldp.org/LDP/abs/html/index.html), [LINK 2](https://www.linuxtopia.org/online_books/advanced_bash_scripting_guide/)
+- Shell Scripting: How to Automate Command Line Tasks Using Bash Scripting and Shell Programming by Jason Cannon
 - UNIX Shells by Example by Ellie Quigley
 - Linux Shell Scripting Cookbook by Shantanu Tushar, Sarath Lakshman
 - Expert Shell Scripting by Ron Peters
@@ -780,6 +782,10 @@ Resources Searching
 - [hackr.io - Find the best online Programming Courses & Tutorials](https://hackr.io/)
 - [PDF Drive - Search and download PDF files for free.](https://www.pdfdrive.com/)
 - [SlideShare - LinkedIn](https://www.slideshare.net/)
+- [Linuxtopia](https://www.linuxtopia.org/index.html)
+- [FreeComputerBooks.com](https://freecomputerbooks.com/)
+- [OnlineProgrammingBooks.com](https://www.onlineprogrammingbooks.com/)
+- [FreeTechBooks](https://www.freetechbooks.com/)
 
 Tutorials
 

@@ -550,6 +550,7 @@ Team and Agile
 - **The Agile Samurai** (2013) by Jonathan Rasmusson
 - **Managing Humans: Biting and Humorous Tales of a Software Engineering Manager** (2016) by Michael Lopp
 - **The Five Dysfunctions of a Team: A Leadership Fable** (2011) by Patrick Lencioni
+- The Nature of Software Development: Keep It Simple, Make It Valuable, Build It Piece by Piece (2015) by Ron Jeffries 
 - Lean Software Development: An Agile Toolkit by Mary Poppendieck, Tom Poppendieck, Ken Schwaber
 - Timeless Laws of Software Development by Jerry Fitzpatrick
 - Rapid Development: Taming Wild Software Schedules by Steve McConnell
@@ -579,6 +580,7 @@ Tech Leader
 - **An Elegant Puzzle: System of Engineering Management** (2019) by Will Larson
 - **Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered** (2014) by Austin Kleon
 - Accelerate: Building and Scaling High-Performance Technology Organizations by Nicole Forsgern
+- The Truth about Leadership: The No-fads, Heart-of-the-Matter Facts You Need to Know (2010) by James M. Kouzes 
 - Start with Why: How Great Leaders Inspire Everyone to Take Action by Simon Sinek
 - The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact by Edmond Lau
 
