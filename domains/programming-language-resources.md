@@ -451,6 +451,8 @@ Web Frameworks
 Programming Languages Ranking
 
 - [TIOBE](https://www.tiobe.com/tiobe-index/)
+- [Programming-Language-Benchmarks-Visualization](https://github.com/GoodManWEN/Programming-Language-Benchmarks-Visualization)
+- [The Computer Language Benchmarks Game](https://benchmarksgame-team.pages.debian.net/benchmarksgame/index.html)
 
 <br>
 
