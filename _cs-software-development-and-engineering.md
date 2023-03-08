@@ -895,6 +895,21 @@ Products
 - Evoluent VerticalMouse 4 Wired, $89, [Details](https://evoluent.com/products/vm4r/)
 - Microsoft Sculpt Ergonomic Mouse, $48+, [Details](https://www.microsoft.com/en-ww/accessories/products/mice/sculpt-ergonomic-mouse?activetab=overview%3aprimaryr2)
 
+**Other Mouse**
+
+Small or Normal Size
+
+- Razer Orochi V2 ($45/￥299, 108\*60\*38mm, 60g) - Ultra-Lightweight Wireless **Gaming** Mouse
+- Logitech MX Anywhere 2
+- Logitech MX Anywhere 3 ($77/￥519, 100\*65mm, 99g) - Master it, anywhere with MX Anywhere 3 – a **compact** **performance** mouse designed for **mobile work** – from the home office, to the cafe, to the airport lounge.
+- Logitech G304 ($35/￥249, 116\*62\*38mm, 99g) - Lightspeed Wireless **Gaming** Mouse
+- Logitech G PRO Wireless (GPW) ($80/￥520, 125\*63\*40mm, 80g) - PRO Wireless was designed to be the ultimate **gaming** mouse for esports professionals.
+
+Large Size
+
+- Logitech MX Master 2S ($70/￥429)
+- Logitech MX Master 3S  ($99/￥619, 125\*84\*51mm, 141g) - High-precision Sensor, Speed-adaptive Scroll Wheel, Thumb Scroll Wheel, Easy-Switch up to 3 Devices.
+
 ### Diet
 
 - Nutrition: Concepts and Controversies by Frances Sizer, Ellie Whitney
