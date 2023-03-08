@@ -838,7 +838,10 @@ Finding technology trends
 
 - Stack Overflow Developer Survey
 - Search: top technology trends + software development/web development/Java development + in `<year>`
-- Hype Cycle for the Future of Applications [Mark O'Neill](https://twitter.com/TheMarkONeill/)
+- Gartner Hype Cycle (Twitter search from:[Mark O'Neill](https://twitter.com/TheMarkONeill/))
+  - for the Future of Applications
+  - for Emerging Tech
+  - for Software Engineering
 
 Uncategorized
 
