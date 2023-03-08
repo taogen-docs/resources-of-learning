@@ -273,11 +273,17 @@ Quizzes
 <h2><a name="hcj_t" href="#hcj_c">HTML, CSS and JavaScript</a></h2>
 <br>
 
+Resources
+
 - [w3schools](https://www.w3schools.com/)
 - [MDN web docs](https://developer.mozilla.org/en-US/)
 - [Learn JS](https://www.learn-js.org/)
 - [Web Dev](https://web.dev/)
 - [Full Stack open](https://fullstackopen.com/en/)
+
+Rank
+
+- [The best of JavaScript, HTML and CSS](https://bestofjs.org/)
 
 <br>
 
@@ -327,6 +333,10 @@ Vue.js v2.x Ecosystem
 - [Vue Router - doc](https://router.vuejs.org/)
 - [Vue.js Cookbook - doc](https://vuejs.org/v2/cookbook/)
 
+Vue.js Admin Dashboard Templates
+
+- [vue-admin-template](https://github.com/PanJiaChen/vue-admin-template)
+
 <br>
 <h3><a name="react_t" href="#react_c">React </a></h3>
 <br>
@@ -359,6 +369,11 @@ React Ecosystem
 React Interview Questions
 
 - [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)
+
+React Admin Dashboard Templates
+
+- [ant-design-pro](https://github.com/ant-design/ant-design-pro)
+- [react-admin](https://github.com/marmelab/react-admin)
 
 <br>
 <h3><a name="angular_t" href="#angular_c">AngularJS</a></h3>
