@@ -154,10 +154,16 @@ Some More
 
 ECMAScript
 
-- [Standard ECMA-262 ECMAScript® 2020 Language Specification 11th edition (June 2020)](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
-- [ECMAScript® Language Specification - Standard ECMA-262, 7th Edition / June 2016](https://www.ecma-international.org/ecma-262/7.0/)
-- [ECMAScript 6 — New Features](http://es6-features.org)
-- Understanding Ecmascript 6: The Definitive Guide for JavaScript Developers by Nicholas C. Zakas
+> Since 2015, major versions have been published every June.
+
+- [ECMAScript - Wikipedia](https://en.wikipedia.org/wiki/ECMAScript)
+- [ECMAScript version history - Wikipedia](https://en.wikipedia.org/wiki/ECMAScript_version_history)
+- Current version
+  - [ECMAScript 2022](https://262.ecma-international.org/)
+- ES2015 (ES6)
+  - [ECMAScript 6 — New Features](http://es6-features.org)
+  - Understanding Ecmascript 6: The Definitive Guide for JavaScript Developers by Nicholas C. Zakas
+
 
 Primary
 
