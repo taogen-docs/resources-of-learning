@@ -810,6 +810,9 @@ Courses
   - [Pluralsight](https://www.pluralsight.com/)
   - [Udacity](https://www.udacity.com/)
   - [Skillsoft](https://www.skillsoft.com/)
+  - [Linkedin Learning](https://www.linkedin.com/learning/)
+  - [Skillshare](https://www.skillshare.com/en/)
+  - [Showwcase](https://www.showwcase.com/)
 - Others
   - YouTube
   - Bilibili
