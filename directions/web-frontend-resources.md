@@ -319,6 +319,7 @@ Rank
 
 - [Vue.js 3 Documentation - doc](https://v3.vuejs.org/guide/introduction.html)
 - [Vue.js v2.x Documentation - doc](https://vuejs.org/v2/guide/)
+- [Vue.js Roadmap](https://roadmap.sh/vue)
 - Vue.js in Action by Benjamin Listwon and Erik Hanchett
 - Learning Vue.Js 2 by Olga Filipova
 - Fullstack Vue: The Complete Guide to Vue.js by Ari Lerner, Hassan Djirdeh, and Nate Murray
@@ -342,6 +343,7 @@ Vue.js Admin Dashboard Templates
 <br>
 
 - [React Documentation - doc](https://reactjs.org/docs/getting-started.html)
+- [React Roadmap](https://roadmap.sh/react)
 - **The Road to React: Your journey to master plain yet pragmatic React.js** (2018) by Robin Wieruch
 - **Learning React: Modern Patterns for Developing React Apps** (2nd, 2020) by Alex Banks and Eve Porcello
 - **Learning React: Functional Web Development with React and Redux** (2017) by Alex Banks and Eve Porcello
@@ -546,17 +548,39 @@ Others
 <h2><a name="tools_t" href="#tools_c">Tools</a></h2>
 <br>
 
+Basic
+
+- Git
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
+
+Package Management
+
 - [npm](https://www.npmjs.com/)
 - [Yarn](https://yarnpkg.com/)
-- **[Snowpack](https://www.snowpack.dev/)**
-- [Webpack](https://webpack.js.org/)
+- [pnpm](https://pnpm.io/)
+
+Build Tools
+
+- Linters and Formatters
+  - [Prettier](https://prettier.io/)
+  - [ESLint](https://eslint.org/)
+- Task Runners
+  - [npm scripts](https://docs.npmjs.com/cli/v9/using-npm/scripts)
+- Module Bundlers
+  - **[Vite](https://vitejs.dev/)**
+  - **[esbuild](https://esbuild.github.io/)**
+  - [Webpack](https://webpack.js.org/)
+  - Rollup
+  - Parcel
+  - [Snowpack](https://www.snowpack.dev/)
+
+Others
+
 - [Babel](https://babeljs.io/)
 - [gulp.js](https://gulpjs.com/)
 - [Polymer Project](https://www.polymer-project.org/)
-- **[WebAssembly](https://webassembly.org/)**
-- ESLint
-- Visual Studio Code
-- Git
+- [WebAssembly](https://webassembly.org/)
 - Nginx
 - Docker
 
@@ -583,15 +607,23 @@ Others
 
 ### Frameworks Of Node.js
 
-Express
+#### Express.js
 
 - [Express Getting Started - doc](https://expressjs.com/en/starter/installing.html)
 - Express in Action: Node Applications with Express and Its Companion Tools by Evan Hahn
 - Web Development with Node and Express: Leveraging the JavaScript Stack by Ethan Brown
 
-Koa.js
+#### Next.js
 
-- [Koa.js - doc](https://koajs.com/)
+- [Next.js](https://nextjs.org/) - The React Framework for the Web.
+
+#### Koa.js
+
+- [Koa.js](https://koajs.com/) - Next generation web framework for node.js.
+
+#### Nest.js
+
+- [Nest.js](https://nestjs.com/) - A progressive Node.js framework for building efficient, reliable and scalable server-side applications.
 
 ### Deno
 
