@@ -153,6 +153,7 @@ JVM Internals
 - **Oracle JRockit: The Definitive Guide** by Marcus Hirt, Marcus Lagergren. A great book to understand JVM internals.
 - Inside the Java 2 Virtual Machine (2nd, 2000) by Bill Venners
 - 深入理解Java虚拟机: JVM高级特性与最佳实践 (3rd, 2019) by 周志明
+- 深入理解JVM字节码 by 张亚
 - Garbage Collection
   - **The Garbage Collection Handbook: The Art of Automatic Memory Management** by Jones, Richard [4.38, 40]
   - 垃圾回收的算法与实现 (2016) by 中村成洋 (8.2)
