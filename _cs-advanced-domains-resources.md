@@ -687,6 +687,41 @@ Robots.txt
 
 - Grokking Deep Reinforcement Learning (2020) by Miguel Morales
 
+### Prompt Engineering, Text Generation & Large Language Models (LLMs)
+
+> ChatGPT uses a specific type of reinforcement learning called "Reinforcement Learning from Human Feedback (RLHF)", at a high level it is an example of a Large Language Model (LLM).
+
+Articles
+
+- [Prompt engineering - Wikipedia](https://en.wikipedia.org/wiki/Prompt_engineering)
+- [What is a Large Language Model (LLM)?](https://www.mlq.ai/what-is-a-large-language-model-llm/)
+- [A Complete Introduction to Prompt Engineering For Large Language Models](https://www.mihaileric.com/posts/a-complete-introduction-to-prompt-engineering/)
+- [Prompt Engineering 101: Introduction and resources](https://amatriain.net/blog/PromptEngineering)
+- [Prompt Engineering, Text Generation & Large Language Models](https://cobusgreyling.medium.com/prompt-engineering-text-generation-large-language-models-3d90c527c6d5)
+
+Books
+
+- The Art of Asking ChatGPT for High-Quality Answers: A Complete Guide to Prompt Engineering Techniques by Ibrahim John
+- The Art of Prompt Engineering with chatGPT: A Hands-On Guide for using chatGPT by Nathan Hunter
+- THE POWER OF PROMPT ENGINEERING: HOW TO UNLOCK THE POTENTIAL OF AI LANGUAGE MODELS by Ramandeep Singh
+- The ChatGPT Millionaire: Making Money Online has never been this EASY by Neil Dagger
+
+Resources
+
+- [Awesome-Prompt-Engineering - GitHub](https://github.com/promptslab/Awesome-Prompt-Engineering)
+- [Prompt-Engineering-Guide - GitHub](https://github.com/dair-ai/Prompt-Engineering-Guide)
+- [PromptPapers - GitHub](https://github.com/thunlp/PromptPapers)
+- [PromptKG - GitHub](https://github.com/zjunlp/PromptKG)
+
+Papers
+
+- [Large Language Models Are Human-Level Prompt Engineers](https://arxiv.org/abs/2211.01910)
+- [Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm](https://arxiv.org/abs/2102.07350)
+
+#### Open AI
+
+- [Open AI API](https://platform.openai.com/overview)
+
 ### Robotics
 
 - Life 3.0: Being Human in the Age of Artificial Intelligence by Max Tegmark
