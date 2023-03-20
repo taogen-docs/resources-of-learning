@@ -671,6 +671,7 @@ Programmer
 Some more
 
 - Out of Their Minds: The Lives and Discoveries of 15 Great Computer Scientists by Dennis E. Shasha, Cathy A. Lazere
+- The Prime Guide For Next Gen Developer: The book is everything you need in a typical career path of a software engineer or developer by Ankur Tyagi
 
 For Interview
 
