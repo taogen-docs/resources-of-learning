@@ -4,9 +4,12 @@
 
 > Every great programmer was once a novice.
 
+> The only constant is change. Keep learning and keep your knowledge up to date.
+
 ### Content
 
 - <a name="guide_c" href="#guide_t">Guidance & Roadmap</a>
+- <a name="intro_web_c" href="#intro_web_t">Introduction to web development</a>
 - <a name="htmlcss_c" href="#htmlcss_t">HTML & CSS</a>
   - HTML & CSS
   - <a name="bootstrap_c" href="#bootstrap_t">BootStrap</a>
@@ -58,6 +61,15 @@
 
 <br>
 
+<h2><a name="intro_web_t" href="#intro_web_c">Introduction to web development</a></h2>
+
+<br>
+
+- [Getting started with the web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
+- [The web and web standards](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/The_web_and_web_standards)
+
+<br>
+
 <h2><a name="htmlcss_t" href="#htmlcss_c">HTML & CSS</a></h2>
 <br>
 
@@ -74,6 +86,7 @@ HTML
 - HTML5 in Action by Rob Crowther, Joe Lennon, Ash Blue
 - **HTML5: The Definitive Guide** (7th, 2013) by Chuck Musciano, Bill Kennedy, Estelle Weyl
 - [HTML - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [HTML Living Standard](https://html.spec.whatwg.org/multipage/) - It describes exactly how HTML (all the HTML elements, and their associated APIs, and other surrounding technologies) should be implemented.
 - [HTML Tutorial - w3schools](https://www.w3schools.com/html/default.asp)
 
 CSS
