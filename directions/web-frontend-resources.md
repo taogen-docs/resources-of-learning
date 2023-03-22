@@ -15,6 +15,7 @@
   - <a name="bootstrap_c" href="#bootstrap_t">BootStrap</a>
   - <a name="webdes_c" href="#webdes_t">Web Design</a>
   - Cross-Browser Compatibility
+  - <a name="assets_c" href="#assets_t">Assets</a>
 - <a name="js_c" href="#js_t">JavaScript</a>
   - <a name="jq_c" href="#jq_t">jQuery</a>
 - <a name="hcj_c" href="#hcj_t">HTML, CSS and JavaScript</a>
@@ -160,6 +161,16 @@ Some More
 - The Web Designer's Idea Book: The Ultimate Guide To Themes, Trends Styles In Website Design by Patrick McNeil
 - The Elements of Content Strategy by Erin Kissane
 - The Future of the Internet--And How to Stop It by Jonathan L. Zittrain
+
+<h3><a name="assets_t" href="#assets_c">Assets</a></h3>
+
+Image
+
+- [Google Images](https://www.google.com/) with "creative common licenses"
+
+Font
+
+- [Google Font](https://fonts.google.com/)
 
 <br>
 
@@ -568,11 +579,39 @@ Others
 <h2><a name="tools_t" href="#tools_c">Tools</a></h2>
 <br>
 
-Basic
+Text Editor
+
+- [Visual Studio Code](https://code.visualstudio.com/)
+- Notepad++
+- Sublime Text
+- GUN Emacs
+- VIM
+
+IDE
+
+- WebStorm
+- Dreamweaver
+
+Web Browser & DevTools
+
+- Google Chrome and [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
+- Firefox
+- Safari
+- Microsoft Edge
+
+Graphics Editor
+
+- [GIMP](https://www.gimp.org/)
+- [Figma](https://www.figma.com/)
+- [Paint.NET](https://www.getpaint.net/)
+- [Photoshop](https://www.adobe.com/products/photoshop.html)
+- [Sketch](https://www.sketch.com/)
+- [XD](https://www.adobe.com/products/xd.html)
+
+Version Control
 
 - Git
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
+- GitHub or GitLab
 
 Package Management
 
