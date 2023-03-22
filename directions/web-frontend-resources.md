@@ -67,6 +67,7 @@
 
 - [Getting started with the web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
 - [The web and web standards](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/The_web_and_web_standards)
+- [History of the World Wide Web - Wikipedia](https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web)
 
 <br>
 
@@ -103,7 +104,7 @@ CSS
 - [CSS - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [CSS Tutorial - w3schools](https://www.w3schools.com/css/default.asp)
 
-Responsible Design 
+Responsive Design 
 
 - Responsive Web Design by Ethan Marcotte
 - Learning Responsive Web Design: A Beginner's Guide by Clarissa Peterson
@@ -586,18 +587,19 @@ Build Tools
   - [ESLint](https://eslint.org/)
 - Task Runners
   - [npm scripts](https://docs.npmjs.com/cli/v9/using-npm/scripts)
+  - gulp.js
+  - Grunt
 - Module Bundlers
   - **[Vite](https://vitejs.dev/)**
   - **[esbuild](https://esbuild.github.io/)**
   - [Webpack](https://webpack.js.org/)
   - Rollup
-  - Parcel
+  - Parcel.js
   - [Snowpack](https://www.snowpack.dev/)
 
 Others
 
 - [Babel](https://babeljs.io/)
-- [gulp.js](https://gulpjs.com/)
 - [Polymer Project](https://www.polymer-project.org/)
 - [WebAssembly](https://webassembly.org/)
 - Nginx
