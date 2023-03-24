@@ -87,6 +87,7 @@ HTML
 - **HTML5: The Missing Manual** (2nd, 2014) by Matthew MacDonald
 - HTML5 in Action by Rob Crowther, Joe Lennon, Ash Blue
 - **HTML5: The Definitive Guide** (7th, 2013) by Chuck Musciano, Bill Kennedy, Estelle Weyl
+- [HTML 4.01 Reference Specification](https://www.w3.org/TR/html401/)
 - [HTML - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [HTML Living Standard](https://html.spec.whatwg.org/multipage/) - It describes exactly how HTML (all the HTML elements, and their associated APIs, and other surrounding technologies) should be implemented.
 - [HTML Tutorial - w3schools](https://www.w3schools.com/html/default.asp)
