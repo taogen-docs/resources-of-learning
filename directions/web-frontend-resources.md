@@ -4,14 +4,18 @@
 
 > Every great programmer was once a novice.
 
+> The only constant is change. Keep learning and keep your knowledge up to date.
+
 ### Content
 
 - <a name="guide_c" href="#guide_t">Guidance & Roadmap</a>
+- <a name="intro_web_c" href="#intro_web_t">Introduction to web development</a>
 - <a name="htmlcss_c" href="#htmlcss_t">HTML & CSS</a>
   - HTML & CSS
   - <a name="bootstrap_c" href="#bootstrap_t">BootStrap</a>
   - <a name="webdes_c" href="#webdes_t">Web Design</a>
   - Cross-Browser Compatibility
+  - <a name="assets_c" href="#assets_t">Assets</a>
 - <a name="js_c" href="#js_t">JavaScript</a>
   - <a name="jq_c" href="#jq_t">jQuery</a>
 - <a name="hcj_c" href="#hcj_t">HTML, CSS and JavaScript</a>
@@ -58,6 +62,16 @@
 
 <br>
 
+<h2><a name="intro_web_t" href="#intro_web_c">Introduction to web development</a></h2>
+
+<br>
+
+- [Getting started with the web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
+- [The web and web standards](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/The_web_and_web_standards)
+- [History of the World Wide Web - Wikipedia](https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web)
+
+<br>
+
 <h2><a name="htmlcss_t" href="#htmlcss_c">HTML & CSS</a></h2>
 <br>
 
@@ -73,7 +87,9 @@ HTML
 - **HTML5: The Missing Manual** (2nd, 2014) by Matthew MacDonald
 - HTML5 in Action by Rob Crowther, Joe Lennon, Ash Blue
 - **HTML5: The Definitive Guide** (7th, 2013) by Chuck Musciano, Bill Kennedy, Estelle Weyl
+- [HTML 4.01 Reference Specification](https://www.w3.org/TR/html401/)
 - [HTML - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [HTML Living Standard](https://html.spec.whatwg.org/multipage/) - It describes exactly how HTML (all the HTML elements, and their associated APIs, and other surrounding technologies) should be implemented.
 - [HTML Tutorial - w3schools](https://www.w3schools.com/html/default.asp)
 
 CSS
@@ -90,7 +106,7 @@ CSS
 - [CSS - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [CSS Tutorial - w3schools](https://www.w3schools.com/css/default.asp)
 
-Responsible Design 
+Responsive Design 
 
 - Responsive Web Design by Ethan Marcotte
 - Learning Responsive Web Design: A Beginner's Guide by Clarissa Peterson
@@ -146,6 +162,16 @@ Some More
 - The Web Designer's Idea Book: The Ultimate Guide To Themes, Trends Styles In Website Design by Patrick McNeil
 - The Elements of Content Strategy by Erin Kissane
 - The Future of the Internet--And How to Stop It by Jonathan L. Zittrain
+
+<h3><a name="assets_t" href="#assets_c">Assets</a></h3>
+
+Image
+
+- [Google Images](https://www.google.com/) with "creative common licenses"
+
+Font
+
+- [Google Font](https://fonts.google.com/)
 
 <br>
 
@@ -554,11 +580,39 @@ Others
 <h2><a name="tools_t" href="#tools_c">Tools</a></h2>
 <br>
 
-Basic
+Text Editor
+
+- [Visual Studio Code](https://code.visualstudio.com/)
+- Notepad++
+- Sublime Text
+- GUN Emacs
+- VIM
+
+IDE
+
+- WebStorm
+- Dreamweaver
+
+Web Browser & DevTools
+
+- Google Chrome and [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
+- Firefox
+- Safari
+- Microsoft Edge
+
+Graphics Editor
+
+- [GIMP](https://www.gimp.org/)
+- [Figma](https://www.figma.com/)
+- [Paint.NET](https://www.getpaint.net/)
+- [Photoshop](https://www.adobe.com/products/photoshop.html)
+- [Sketch](https://www.sketch.com/)
+- [XD](https://www.adobe.com/products/xd.html)
+
+Version Control
 
 - Git
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
+- GitHub or GitLab
 
 Package Management
 
@@ -573,18 +627,19 @@ Build Tools
   - [ESLint](https://eslint.org/)
 - Task Runners
   - [npm scripts](https://docs.npmjs.com/cli/v9/using-npm/scripts)
+  - gulp.js
+  - Grunt
 - Module Bundlers
   - **[Vite](https://vitejs.dev/)**
   - **[esbuild](https://esbuild.github.io/)**
   - [Webpack](https://webpack.js.org/)
   - Rollup
-  - Parcel
+  - Parcel.js
   - [Snowpack](https://www.snowpack.dev/)
 
 Others
 
 - [Babel](https://babeljs.io/)
-- [gulp.js](https://gulpjs.com/)
 - [Polymer Project](https://www.polymer-project.org/)
 - [WebAssembly](https://webassembly.org/)
 - Nginx
