@@ -717,6 +717,7 @@ Papers
 
 - [Large Language Models Are Human-Level Prompt Engineers](https://arxiv.org/abs/2211.01910)
 - [Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm](https://arxiv.org/abs/2102.07350)
+- [GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models](https://arxiv.org/abs/2303.10130#), 17 Mar 2023
 
 #### Open AI
 

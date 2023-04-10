@@ -417,6 +417,8 @@ Web Frameworks
 ### Groovy
 
 - [Groovy Documentation - doc]( https://groovy-lang.org/documentation.html )
+- [Learn Groovy in Y minutes](https://learnxinyminutes.com/docs/groovy/)
+- [Refcard Groovy A Rapid-Development JVM Language - DZone](https://dzone.com/refcardz/groovy). a cheat sheet.
 - Groovy in Action by Dierk König, Andrew Glover, Paul King, Guillaume Laforge, Jon Skeet, James Gosling
 - Programming Groovy 2: Dynamic Productivity for the Java Developer by Venkat Subramaniam
 - Making Java Groovy by Kenneth A. Kousen
