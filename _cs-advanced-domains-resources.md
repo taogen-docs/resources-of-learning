@@ -143,9 +143,9 @@ Others
 
 - audio: pcm
 - video: YUV, RGB
-- capture embedded devices
 - capture on mobiles
 - capture on PCs
+- capture on embedded devices
 
 ### Encoding and decoding
 
