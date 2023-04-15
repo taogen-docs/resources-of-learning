@@ -263,6 +263,8 @@ Audio analysis (AI)
 - mpv
 - vlc
 - SRS
+- GStreamer
+- ZLMediaKit
 
 <br>
 
