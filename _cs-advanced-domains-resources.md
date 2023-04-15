@@ -14,6 +14,7 @@
   - Mobile Application Development
   - Desktop Application Development
   - Embedded Development
+  - <a name="audio_and_video_dev_c" href="#audio_and_video_dev_t">Audio and Video Development</a>
 - Part II: Infrastructures
   - <a name="dbms_c" href="#dbms_t">Database Systems and Data Storage</a>
   - <a name="inforetri_c" href="#inforetri_t">Information Retrieval and Search Engines</a>
@@ -131,6 +132,137 @@ Others
 
 - Game Programming Patterns by Robert Nystrom
 - BASIC Computer Games by David H. Ahl
+
+<br>
+
+<h2><a name="audio_and_video_dev_t" href="#audio_and_video_dev_c">Audio and Video Development</a></h2>
+
+<br>
+
+### Capture
+
+- audio: pcm
+- video: YUV, RGB
+- capture embedded devices
+- capture on mobiles
+- capture on PCs
+
+### Encoding and decoding
+
+Video
+
+- ISO-MPEG/ITU-T: H264(AVC), H265(HEVC), H266(VVC)
+- AOM: VP8, VP9, AV1
+- AVS2, AVS3
+
+Audio
+
+- G7xx, AAC, MP3, Opus, PCM
+- G72x, ilbc
+
+Libraries and frameworks
+
+- x264, x265, libaac, libhevc, FD-AAC
+
+### Encapsulation formats
+
+- MPEG-PS, MPEG-TS, MP4, FLV, WebM
+- MVK, TS, RMVB, MP3, ogg
+
+### Streaming Media Transmission
+
+On-demand
+
+- HTTP/HTTPS, HLS, DASH, HTTP-HLV
+
+Live Broadcast
+
+- RTP/RTCP, RTMP, RTSP, HLS, HTTP-FLV, DASH
+
+Other
+
+- SIP/SDP, WebSocket, SRT, QUIC, CDN, WebRTC
+
+Advanced
+
+- P2P
+  - TURN
+  - STUN
+- Reliable UDP
+- Packet retransmission
+  - ARQ
+- Congestion control
+  - BBR, GCC, PCC
+- Error correction
+  - FEC
+- jitter-Buffer
+
+Libraries and frameworks
+
+- Live555
+- libRTMP
+- Nginx-RTMP
+- flv.js\hls.js
+- pjsip
+
+### Players
+
+Process
+
+- Transmission protocol parsing
+- Video stream IO (pull stream)
+- Decapsulation
+- Decode
+- Audio and video synchronization
+- Rendering
+  - mobile
+  - PC
+  - OpenGL, OpenGL ES, Direct3D, SDL
+
+Concepts
+
+- IBP frame
+- SPS, PPS, VPS
+- PTS, DTS
+- SEI
+
+Render libraries and frameworks
+
+- Open CV, OPenGL, OpenGL ES (Android), Canvas, Direct 3D, metal, vulcan
+
+Second open technology
+
+### Processing and analysis
+
+Video processing
+
+- Traditional image processing: sharpening, denoising, contrast, brightness, anti-shake
+- Filters, watermarks, cropping, compositing, transcoding
+
+Video analysis (AI)
+
+- Motion detection, face detection and recognition, license plate recognition, people flow statistics
+- Classification, detection, segmentation
+
+Audio processing
+
+- Voice enhancement, echo cancellation, noise reduction, voice changer
+
+Audio analysis (AI)
+
+- Speech recognition, speech synthesis, semantic understanding
+
+### Engineering
+
+- FFMEPG
+- WebRTC
+  - Janus
+  - Licode
+  - MediaSoup
+- ijkplayer
+- mpv
+- vlc
+- SRS
 
 <br>
 
