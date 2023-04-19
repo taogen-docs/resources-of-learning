@@ -431,6 +431,7 @@ Must Read
 - **Operating Systems: Three Easy Pieces** (2015) by Andrea C. Arpaci-Dusseau and Remzi H. Arpaci-Dusseau
 - **Operating System Concepts** (10th, 2018) by Abraham Silberschatz,  Peter B. Galvin, Greg Gagne
 - **Modern Operating Systems** (4th, 2014) by Andrew S. Tanenbaum
+- Applied Operating Systems Concepts by Abraham Silberschatz, Peter Baer Galvin, Greg Gagne
 - Operating Systems (3rd, 2003) by Harvey Deitel,  Paul Deitel, David R. Choffnes 
 
 Some More
@@ -525,7 +526,10 @@ Linux Programming
 
 Linux Insides
 
-- [linux-insides - GitHub](https://github.com/0xAX/linux-insides)
+- [linux-insides - GitHub](https://github.com/0xAX/linux-insides). linux kernel 2.2
+- Understanding the Linux Kernel by Daniel P. Bovet, Marco Cesati. linux kernel 2.2
+- Linux内核完全注释 by 赵炯 [ebook](http://www.oldlinux.org/book.html)
+- Linux内核源代码情景分析 by 毛德操, 胡希明. linux kernel 2.4
 
 Linux Drivers
 
