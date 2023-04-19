@@ -119,6 +119,7 @@ Books
 - Go Programming Blueprints by Mat Ryer
 - Go in Action by William Kennedy, Brian Ketelsen
 - Go in Practice by Matt Butcher
+- 100 Go Mistakes and How to Avoid Them (2022) by Teiva Harsanyi
 
 Tutorials
 
