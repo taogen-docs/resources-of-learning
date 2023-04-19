@@ -31,5 +31,6 @@ Games
 
 ## Project Lists
 
-1. [Computer Science Projects](https://www.geeksforgeeks.org/computer-science-projects/)
+1. [50projects50days](https://github.com/bradtraversy/50projects50days)
+2. [Computer Science Projects](https://www.geeksforgeeks.org/computer-science-projects/)
 

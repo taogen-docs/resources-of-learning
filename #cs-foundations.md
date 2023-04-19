@@ -843,8 +843,8 @@ Course Collections
 2\. Code Practice and Creating Projects
 
 - [Exercism.io - Code practice and mentorship for everyone](https://exercism.io/)
-- [app-ideas](https://github.com/florinpop17/app-ideas)
-- [50projects50days](https://github.com/bradtraversy/50projects50days)
+- [Toy coding project ideas](domains/toy-coding-project-ideas.md)
+- [Building your own application ideas](domains/building-your-own-application-ideas.md)
 
 3\. Inspiration and Fun
 
