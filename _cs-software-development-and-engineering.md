@@ -846,6 +846,31 @@ Civil Code
 
 </details>
 
+### Congress in China
+
+<details>
+    <summary>Click to expand!</summary>
+
+[National Congress of the Communist Party of China](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%85%A8%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%A4%A7%E4%BC%9A)
+
+- Time: Every five years. The first one was in 1954.
+- Exercise of powers: To hear and review the report of the Central Committee; to review the report of the Central Discipline Inspection Committee; to discuss and decide on major Party issues; to amend the Party's Constitution; **to elect the Central Committee**; to elect the Central Discipline Inspection Committee.
+
+[Plenary Session of the Central Committee of the Communist Party of China](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E4%B8%AD%E5%A4%AE%E5%A7%94%E5%91%98%E4%BC%9A)
+
+- Exercise of powers: Convenes National Congress of the Communist Party of China and decides on the quota and election methods of the delegates to the National Congress; **elects the central leadership and the General Secretary of the Central Committee**; hears and discusses reports on the work of the Central Political Bureau; discusses and decides on major issues concerning the overall development of the Party and the State; **discusses and decides on the recommended candidates for the State President and Vice President, and the recommended candidates for the Standing Committee of the National People's Congress, the State Council, the National Committee of the Chinese People's Political Consultative Conference, the Central Military Commission, etc.**; decides on the replacement of members of the Central Committee; discusses and Decide other major issues and matters in the Party's governance and management of the Party.
+
+[National People's Congress](https://zh.wikipedia.org/wiki/%E5%85%A8%E5%9B%BD%E4%BA%BA%E6%B0%91%E4%BB%A3%E8%A1%A8%E5%A4%A7%E4%BC%9A)
+
+- Time: Once a year in March.
+- Exercise of powers: Amend the Constitution; supervise the implementation of the Constitution; legislative power; power of appointment and dismissal (**Elects the President, Vice-President, Premier of the State Council, and Chairman of the Central Military Commission of the People's Republic of China**, etc.); power to decide on important matters; supervisory power.
+
+[National Committee of the Chinese People's Political Consultative Conference](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E6%94%BF%E6%B2%BB%E5%8D%8F%E5%95%86%E4%BC%9A%E8%AE%AE%E5%85%A8%E5%9B%BD%E5%A7%94%E5%91%98%E4%BC%9A)
+
+- Time: Once a year in March.
+- Exercise of powers: To amend the Constitution of the Chinese People's Political Consultative Conference and supervise its implementation; Electing the chairman, vice chairman, secretary-general and standing members of the National Committee; To listen to and consider reports on the work of the Standing Committee; Discussing the major work guidelines and tasks of the Committee and making resolutions; **Participating in discussions on major national policies and making suggestions and criticisms.**
+
+</details>
 
 
 <br>
