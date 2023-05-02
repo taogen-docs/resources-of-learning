@@ -87,6 +87,17 @@ Guidance
 - [Teach Yourself Programming in Ten Years - Peter Norvig](http://norvig.com/21-days.html)
 - [如何掌握所有的程序语言 - Wang Yin](https://www.yinwang.org/blog-cn/2017/07/06/master-pl)
 
+Courses
+
+- [MIT-Missing-Semester](https://missing.csail.mit.edu/)
+
+Playground
+
+- [Programming language coding problems](domains/programming-language-coding-problems.md)
+- [Toy coding project ideas](domains/toy-coding-project-ideas.md)
+- [Building your own application ideas](domains/building-your-own-application-ideas.md)
+- [Free services for building applications](domains/free-services-for-building-applications.md)
+
 [More Programming Languages](domains/programming-language-resources.md/#lang_t)
 
 <br>
@@ -832,8 +843,8 @@ Course Collections
 2\. Code Practice and Creating Projects
 
 - [Exercism.io - Code practice and mentorship for everyone](https://exercism.io/)
-- [app-ideas](https://github.com/florinpop17/app-ideas)
-- [50projects50days](https://github.com/bradtraversy/50projects50days)
+- [Toy coding project ideas](domains/toy-coding-project-ideas.md)
+- [Building your own application ideas](domains/building-your-own-application-ideas.md)
 
 3\. Inspiration and Fun
 

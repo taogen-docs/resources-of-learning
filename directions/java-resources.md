@@ -64,6 +64,7 @@
 - Java Generics and Collections: Speed Up the Java Development Process by Maurice Naftalin
 - Java Security by Scott Oaks
 - Bitter Java by Bruce A. Tate
+- 100 Java Mistakes and How to Avoid Them (2023) by Tagir Valeev
 
 #### Modern Java Features
 
