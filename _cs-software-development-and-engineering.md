@@ -261,12 +261,19 @@ Tutorials
 
 <br>
 
-### Software Design
+### Software Design, OOD
 
+- Grokking the Object Oriented Design Interview
 - **A Philosophy of Software Design** (2019) by John Ousterhout
 - **Thinking in Systems: A Primer** (2008) by Donella H. Meadows, Diana Wright
 - Beautiful Code: Leading Programmers Explain How They Think (2007) by Andy Oram, Greg Wilson
 - Software Design for Flexibility: How to Avoid Programming Yourself Into a Corner (2021) by Chris Hanson, Gerald Jay Sussman
+- [system-design-primer](https://github.com/donnemartin/system-design-primer)
+
+### System Design
+
+- Grokking the System Design Interview
+- Alex Yu - System Design Interview_ An Insider’s Guide
 
 ### Application Architecture
 
@@ -684,6 +691,7 @@ For Interview
   - Elements of Programming Interviews: The Insiders' Guide by Adnan Aziz , Tsung-Hsien Lee
   - [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
 - Coding Interview (Algorithms)
+  - Complete 300 questions on [LeetCode](https://leetcode.com/).
   - Cracking the Coding Interview: 189 Programming Questions and Solutions (2015) by Gayle Laakmann McDowell
   - Programming Pearl by Jon Bentley
   - Dynamic Programming for Coding Interviews by Meenakshi and Kamal Rawat
@@ -692,7 +700,11 @@ For Interview
   - 剑指Offer (2012) by 何海涛 
   - 编程之美 (2008) by 《编程之美》小组
   - 程序员代码面试指南：IT名企算法与数据结构题目最优解 (2015) by 左程云
+- Software Design, OOD
+  - Grokking the Object Oriented Design Interview
+  - [system-design-primer](https://github.com/donnemartin/system-design-primer)
 - System Design Interview
+  - Grokking the System Design Interview
   - System Design Interview – An insider’s guide Volume 1 (2020) by Alex Xu. [Preview](https://systeminterview.com/)
   - System Design Interview – An Insider's Guide: Volume 2 (2022) by Alex Xu and Sahn Lam
   - Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems (2017) by Martin Kleppmann (DDIA)
@@ -705,10 +717,20 @@ For Interview
   - SQL
     - Joe Celko's SQL Puzzles and Answers by Joe Celkos
 - Behavioral Interview
-  - [10 Behavioral Interview Questions for Software Engineers](https://www.indeed.com/career-advice/interviewing/software-engineer-behavioral-interview-questions)
-  - [The 30 most common Software Engineer behavioral interview questions](https://www.techinterviewhandbook.org/behavioral-interview-questions/)
-  - [Top 8 Behavioral Interview Questions for Software Engineers](https://betterprogramming.pub/top-8-behavioral-interview-questions-for-software-engineers-6dcc404bb7b3)
-  - [Behavioral Interview Questions for Software Developers](https://www.interviewkickstart.com/blog/behavioral-interview-questions-software-engineer-and-developer)
+  - Articles
+    - [10 Behavioral Interview Questions for Software Engineers](https://www.indeed.com/career-advice/interviewing/software-engineer-behavioral-interview-questions)
+    - [The 30 most common Software Engineer behavioral interview questions](https://www.techinterviewhandbook.org/behavioral-interview-questions/)
+    - [Top 8 Behavioral Interview Questions for Software Engineers](https://betterprogramming.pub/top-8-behavioral-interview-questions-for-software-engineers-6dcc404bb7b3)
+    - [Behavioral Interview Questions for Software Developers](https://www.interviewkickstart.com/blog/behavioral-interview-questions-software-engineer-and-developer)
+    - [一亩三分地](https://www.1point3acres.com/bbs/google_search.php?q=behavior question)
+    - [一亩三分地 Behavior questions合集](https://www.1point3acres.com/bbs/thread-529217-1-1.html)
+    - [自我介绍类型Behavioral-based interviewing Competency-Based Interviewing](https://chenyilong.notion.site/Behavioral-based-interviewing-Competency-Based-Interviewing-a728c50a5ba244188e1c66e28d34dd1c)
+    - [主观面试Behavioral-based interviewing Competency-Based Interviewing](https://chenyilong.notion.site/Behavioral-based-interviewing-Competency-Based-Interviewing-e6d18711a4114bc1926820fc537b5af4)
+  - Podcast
+    - [softskills](https://softskills.audio/)
+    - [Soft Skills Engineering](https://podcasts.google.com/feed/aHR0cHM6Ly9zb2Z0c2tpbGxzLmF1ZGlvL2ZlZWQueG1s?sa=X&ved=0CAMQ4aUDahgKEwiA2Mv__tL3AhUAAAAAHQAAAAAQ4xo)
+  - YouTube
+    - [DanCroitor](https://www.youtube.com/watch?v=IyPJFHFUpbQ&ab_channel=DanCroitor)
 - Salary and Offer Negotiation
   - [How to negotiate for a higher salary](https://www.michaelpage.com.sg/advice/career-advice/salary-and-negotiation/how-negotiate-higher-salary)
   - [15 Rules for Negotiating a Job Offer](https://hbr.org/2014/04/15-rules-for-negotiating-a-job-offer)
