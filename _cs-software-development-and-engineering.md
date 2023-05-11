@@ -828,6 +828,73 @@ Civil Code
 
 - [中华人民共和国民法典](http://www.npc.gov.cn/npc/c30834/202006/75ba6483b8344591abd07917e1d25cc8.shtml)
 
+### Common crimes and penalties in China
+
+<details>
+    <summary>Click to expand!</summary>
+
+**按法律**
+
+治安管理处罚法
+
+- 第六十六条：【卖淫嫖娼】卖淫、嫖娼的，处十日以上十五日以下拘留，可以并处五千元以下罚款；情节较轻的，处五日以下拘留或者五百元以下罚款。
+- 第七十二条：【吸毒】有下列行为之一的，处十日以上十五日以下拘留，可以并处二千元以下罚款；情节较轻的，处五日以下拘留或者五百元以下罚款。
+
+刑法
+
+- 第一百零五条：[【颠覆国家政权罪、煽动颠覆国家政权罪】](https://zh.wikipedia.org/zh-sg/%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83%E7%BD%AA) 组织、策划、实施颠覆国家政权、推翻社会主义制度的，对首要分子或者罪行重大的，处无期徒刑或者十年以上有期徒刑;对积极参加的，处三年以上十年以下有期徒刑;对其他参加的，处三年以下有期徒刑、拘役、管制或者剥夺政治权利。
+- 第二百零一条：【逃税罪】纳税人采取欺骗、隐瞒手段进行虚假纳税申报或者不申报，逃避缴纳税款数额较大并且占应纳税额百分之十以上的，处三年以下有期徒刑或者拘役，并处罚金;数额巨大并且占应纳税额百分之三十以上的，处三年以上七年以下有期徒刑，并处罚金。
+- 第二百三十二条：【故意杀人罪】故意杀人的，处死刑、无期徒刑或者十年以上有期徒刑;情节较轻的，处三年以上十年以下有期徒刑。
+- 第二百三十三条：【过失致人死亡罪】过失致人死亡的，处三年以上七年以下有期徒刑;情节较轻的，处三年以下有期徒刑。本法另有规定的，依照规定。
+- 第二百三十六条：【强奸罪】以暴力、胁迫或者其他手段强奸妇女的，处三年以上十年以下有期徒刑。奸淫不满十四周岁的幼女的，以强奸论，从重处罚。
+- 第二百六十六条：【诈骗罪】诈骗公私财物，数额较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金;数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金;数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。本法另有规定的，依照规定。
+- 第二百七十四条：【敲诈勒索罪】敲诈勒索公私财物，数额较大或者多次敲诈勒索的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金;数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金;数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑，并处罚金。
+- 第二百八十五条：【非法侵入计算机信息系统罪;非法获取计算机信息系统数据、非法控制计算机信息系统罪;提供侵入、非法控制计算机信息系统程序、工具罪】违反国家规定，侵入国家事务、国防建设、尖端科学技术领域的计算机信息系统的，处三年以下有期徒刑或者拘役。
+- 第二百八十六条：【破坏计算机信息系统罪;网络服务渎职罪】违反国家规定，对计算机信息系统功能进行删除、修改、增加、干扰，造成计算机信息系统不能正常运行，后果严重的，处五年以下有期徒刑或者拘役;后果特别严重的，处五年以上有期徒刑。
+- 第三百八十三条：【贪污罪】 对犯贪污罪的，根据情节轻重，分别依照下列规定处罚。
+- 第二百九十三条：[【寻衅滋事罪】](https://zh.wikipedia.org/wiki/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B%E7%BD%AA) 有下列寻衅滋事行为之一，破坏社会秩序的，处五年以下有期徒刑、拘役或者管制。
+
+计算机信息网络国际联网管理暂行规定实施办法
+
+- 第七条：【使用非法信道国际联网】我国境内的计算机信息网络直接进行国际联网，必须使用邮电部国家公用电信网提供的国际出入口信道。 任何单位和个人不得自行建立或者使用其他信道进行国际联网。
+
+**按人物类型**
+
+官员/权贵：贪污。如：任志強。
+
+中产/富人：嫖娼，强奸幼女，逃税，吸毒。如：黄海波，吴亦凡，李云迪，王全安，李易峰。范冰冰，薇娅。柯震东，房祖名，宋东野。
+
+平民/白领：嫖娼，寻衅滋事，颠覆国家政权罪，破坏计算机信息系统（删库），非法侵入、获取、控制计算机信息系统（黑灰产），诈骗，敲诈勒索。如：阮晓寰。
+
+</details>
+
+### Congress in China
+
+<details>
+    <summary>Click to expand!</summary>
+
+[National Congress of the Communist Party of China](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%85%A8%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%A4%A7%E4%BC%9A)
+
+- Time: Every five years. The first one was in 1954.
+- Exercise of powers: To hear and review the report of the Central Committee; to review the report of the Central Discipline Inspection Committee; to discuss and decide on major Party issues; to amend the Party's Constitution; **to elect the Central Committee**; to elect the Central Discipline Inspection Committee.
+
+[Plenary Session of the Central Committee of the Communist Party of China](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E4%B8%AD%E5%A4%AE%E5%A7%94%E5%91%98%E4%BC%9A)
+
+- Exercise of powers: Convenes National Congress of the Communist Party of China and decides on the quota and election methods of the delegates to the National Congress; **elects the central leadership and the General Secretary of the Central Committee**; hears and discusses reports on the work of the Central Political Bureau; discusses and decides on major issues concerning the overall development of the Party and the State; **discusses and decides on the recommended candidates for the State President and Vice President, and the recommended candidates for the Standing Committee of the National People's Congress, the State Council, the National Committee of the Chinese People's Political Consultative Conference, the Central Military Commission, etc.**; decides on the replacement of members of the Central Committee; discusses and Decide other major issues and matters in the Party's governance and management of the Party.
+
+[National People's Congress](https://zh.wikipedia.org/wiki/%E5%85%A8%E5%9B%BD%E4%BA%BA%E6%B0%91%E4%BB%A3%E8%A1%A8%E5%A4%A7%E4%BC%9A)
+
+- Time: Once a year in March.
+- Exercise of powers: Amend the Constitution; supervise the implementation of the Constitution; legislative power; power of appointment and dismissal (**Elects the President, Vice-President, Premier of the State Council, and Chairman of the Central Military Commission of the People's Republic of China**, etc.); power to decide on important matters; supervisory power.
+
+[National Committee of the Chinese People's Political Consultative Conference](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E6%94%BF%E6%B2%BB%E5%8D%8F%E5%95%86%E4%BC%9A%E8%AE%AE%E5%85%A8%E5%9B%BD%E5%A7%94%E5%91%98%E4%BC%9A)
+
+- Time: Once a year in March.
+- Exercise of powers: To amend the Constitution of the Chinese People's Political Consultative Conference and supervise its implementation; Electing the chairman, vice chairman, secretary-general and standing members of the National Committee; To listen to and consider reports on the work of the Standing Committee; Discussing the major work guidelines and tasks of the Committee and making resolutions; **Participating in discussions on major national policies and making suggestions and criticisms.**
+
+</details>
+
+
 <br>
 
 <h2><a name="health_t" href="#health_c">Health</h2></a>
