@@ -767,6 +767,12 @@ Robots.txt
 - [Robotstxt.org](https://www.robotstxt.org/)
 - [Introduction to robots.txt](https://developers.google.com/search/docs/crawling-indexing/robots/intro)
 
+**Criminal Law**
+
+- 第二百五十三条之一：【侵犯公民个人信息罪】
+- 第二百八十五条：【非法侵入计算机信息系统罪;非法获取计算机信息系统数据、非法控制计算机信息系统罪;提供侵入、非法控制计算机信息系统程序、工具罪】
+- 第二百八十六条：【破坏计算机信息系统罪】
+- [明确越界网络爬虫行为的刑事处罚边界](https://www.spp.gov.cn/spp/llyj/202202/t20220215_544538.shtml)
 
 <br>
 
