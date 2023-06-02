@@ -99,6 +99,7 @@ Debugging
 ### AI code completion tool
 
 - [GitHub Copilot](https://copilot.github.com/) by GitHub and OpenAI
+- GitHub Copilot Chat
 - [tabnine](https://www.tabnine.com/)
 - [kite](https://www.kite.com/)
 - [OpenAI Codex](https://openai.com/blog/openai-codex/)
@@ -204,6 +205,10 @@ NOTE If you’re not careful, FaaS-based platforms can lock your code into a clo
 ### Artificial intelligence as a Service (AIaaS)
 
 > Artificial Intelligence as a Service (AIaaS) is the third party offering of artificial intelligence (AI) outsourcing. AI as a service allows individuals and companies to experiment with AI for various purposes without large initial investment and with lower risk.
+
+AIaaS Providers
+
+- [OpenAI](https://platform.openai.com/overview)
 
 ### Software as a service (SaaS)
 
