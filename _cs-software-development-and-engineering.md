@@ -576,6 +576,7 @@ Project Management
 - The Deadline: A Novel about Project Management by Tom DeMarco
 - Team Geek: A Software Developer's Guide to Working Well with Others by Brian W. Fitzpatrick, Ben Collins-Sussman
 - The Art of Project Management by Scott Berkun
+- A Guide to the Project Management Body of Knowledge (PMBOK® Guide) (7th, 2021) by Project Management Institute
 
 Organization Management
 
@@ -705,7 +706,7 @@ For Interview
   - [system-design-primer](https://github.com/donnemartin/system-design-primer)
 - System Design Interview
   - Grokking the System Design Interview
-  - System Design Interview – An insider’s guide Volume 1 (2020) by Alex Xu. [Preview](https://systeminterview.com/)
+  - System Design Interview – An insider’s guide Volume 1 (2020) by Alex Xu. ~~[Preview](https://systeminterview.com/)~~
   - System Design Interview – An Insider's Guide: Volume 2 (2022) by Alex Xu and Sahn Lam
   - Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems (2017) by Martin Kleppmann (DDIA)
 - Technical Interview
@@ -722,7 +723,7 @@ For Interview
     - [The 30 most common Software Engineer behavioral interview questions](https://www.techinterviewhandbook.org/behavioral-interview-questions/)
     - [Top 8 Behavioral Interview Questions for Software Engineers](https://betterprogramming.pub/top-8-behavioral-interview-questions-for-software-engineers-6dcc404bb7b3)
     - [Behavioral Interview Questions for Software Developers](https://www.interviewkickstart.com/blog/behavioral-interview-questions-software-engineer-and-developer)
-    - [一亩三分地](https://www.1point3acres.com/bbs/google_search.php?q=behavior question)
+    - [behavior question - 一亩三分地](https://www.1point3acres.com/bbs/google_search.php?q=behavior%20question)
     - [一亩三分地 Behavior questions合集](https://www.1point3acres.com/bbs/thread-529217-1-1.html)
     - [自我介绍类型Behavioral-based interviewing Competency-Based Interviewing](https://chenyilong.notion.site/Behavioral-based-interviewing-Competency-Based-Interviewing-a728c50a5ba244188e1c66e28d34dd1c)
     - [主观面试Behavioral-based interviewing Competency-Based Interviewing](https://chenyilong.notion.site/Behavioral-based-interviewing-Competency-Based-Interviewing-e6d18711a4114bc1926820fc537b5af4)
