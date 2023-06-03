@@ -661,7 +661,19 @@ Some More
 <h2><a name="career_t" href="#career_c">Career</a></h2>
 <br>
 
-Programmer
+### Career
+
+- The Complete Software Developer's Career Guide: How to Learn Programming Languages Quickly, Ace Your Programming Interview, and Land Your Software Developer Dream Job by John Z. Sonmez
+- The Google Resume: How to Prepare for a Career and Land a Job at Apple, Microsoft, Google, Or Any Top Tech Company by Gayle Laakmann McDowell
+- Cracking the Tech Career: Insider Advice on Landing a Job at Google, Microsoft, Apple, or any Top Tech Company by Gayle Laakmann McDowell
+- Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead by Laszlo Bock 
+- Cracking the PM Interview: How to Land a Product Manager Job in Technology
+  by Gayle Laakmann McDowell and Jackie Bavaro
+- What Color Is Your Parachute? 2020: A Practical Manual for Job-Hunters and Career-Changers by Richard N. Bolles
+
+### Programmer
+
+> The best programmers are not necessarily the ones who know the most about programming, but the ones who are passionate about it.
 
 - **The Pragmatic Programmer: From Journeyman to Master** (2nd, 2019) by Andrew Hunt, David Thomas 
 - **Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman** (2009) by Dave H. Hoover and Adewale Oshineye
@@ -690,67 +702,62 @@ Some more
 - Out of Their Minds: The Lives and Discoveries of 15 Great Computer Scientists by Dennis E. Shasha, Cathy A. Lazere
 - The Prime Guide For Next Gen Developer: The book is everything you need in a typical career path of a software engineer or developer by Ankur Tyagi
 
-For Interview
+### Job Interview
 
-- General Guidance
-  - Programming Interviews Exposed (4th, 2018) by Eric Giguere, John Mongan, and Noah Kindler
-  - Elements of Programming Interviews: The Insiders' Guide by Adnan Aziz , Tsung-Hsien Lee
-  - [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
-- Coding Interview (Algorithms)
-  - Complete 300 questions on [LeetCode](https://leetcode.com/).
-  - Cracking the Coding Interview: 189 Programming Questions and Solutions (2015) by Gayle Laakmann McDowell
-  - Programming Pearl by Jon Bentley
-  - Dynamic Programming for Coding Interviews by Meenakshi and Kamal Rawat
-  - Algorithms for Interviews by Adnan Aziz and Amit Prakash
-  - Coding Interview Questions by Narasimha Karumanchi
-  - 剑指Offer (2012) by 何海涛 
-  - 编程之美 (2008) by 《编程之美》小组
-  - 程序员代码面试指南：IT名企算法与数据结构题目最优解 (2015) by 左程云
-- Software Design, OOD
-  - Grokking the Object Oriented Design Interview
-  - [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- System Design Interview
-  - Grokking the System Design Interview
-  - System Design Interview – An insider’s guide Volume 1 (2020) by Alex Xu. ~~[Preview](https://systeminterview.com/)~~
-  - System Design Interview – An Insider's Guide: Volume 2 (2022) by Alex Xu and Sahn Lam
-  - Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems (2017) by Martin Kleppmann (DDIA)
-- Technical Interview
-  - Java
-    - Elements of Programming Interviews in Java: The Insiders' Guide by Adnan Aziz , Tsung-Hsien Lee
-    - Java Programming Interviews Exposed by Noel Markham
-  - Python
-    - Elements of Programming Interviews in Python: The Insiders' Guide by Adnan Aziz, Tsung-Hsien Lee, Amit Prakash
-  - SQL
-    - Joe Celko's SQL Puzzles and Answers by Joe Celkos
-- Behavioral Interview
-  - Articles
-    - [10 Behavioral Interview Questions for Software Engineers](https://www.indeed.com/career-advice/interviewing/software-engineer-behavioral-interview-questions)
-    - [The 30 most common Software Engineer behavioral interview questions](https://www.techinterviewhandbook.org/behavioral-interview-questions/)
-    - [Top 8 Behavioral Interview Questions for Software Engineers](https://betterprogramming.pub/top-8-behavioral-interview-questions-for-software-engineers-6dcc404bb7b3)
-    - [Behavioral Interview Questions for Software Developers](https://www.interviewkickstart.com/blog/behavioral-interview-questions-software-engineer-and-developer)
-    - [behavior question - 一亩三分地](https://www.1point3acres.com/bbs/google_search.php?q=behavior%20question)
-    - [一亩三分地 Behavior questions合集](https://www.1point3acres.com/bbs/thread-529217-1-1.html)
-    - [自我介绍类型Behavioral-based interviewing Competency-Based Interviewing](https://chenyilong.notion.site/Behavioral-based-interviewing-Competency-Based-Interviewing-a728c50a5ba244188e1c66e28d34dd1c)
-    - [主观面试Behavioral-based interviewing Competency-Based Interviewing](https://chenyilong.notion.site/Behavioral-based-interviewing-Competency-Based-Interviewing-e6d18711a4114bc1926820fc537b5af4)
-  - Podcast
-    - [softskills](https://softskills.audio/)
-    - [Soft Skills Engineering](https://podcasts.google.com/feed/aHR0cHM6Ly9zb2Z0c2tpbGxzLmF1ZGlvL2ZlZWQueG1s?sa=X&ved=0CAMQ4aUDahgKEwiA2Mv__tL3AhUAAAAAHQAAAAAQ4xo)
-  - YouTube
-    - [DanCroitor](https://www.youtube.com/watch?v=IyPJFHFUpbQ&ab_channel=DanCroitor)
-- Salary and Offer Negotiation
-  - [How to negotiate for a higher salary](https://www.michaelpage.com.sg/advice/career-advice/salary-and-negotiation/how-negotiate-higher-salary)
-  - [15 Rules for Negotiating a Job Offer](https://hbr.org/2014/04/15-rules-for-negotiating-a-job-offer)
+General Guidance
+- Programming Interviews Exposed (4th, 2018) by Eric Giguere, John Mongan, and Noah Kindler
+- Elements of Programming Interviews: The Insiders' Guide by Adnan Aziz , Tsung-Hsien Lee
+- [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
 
+Coding Interview (Algorithms)
+- Complete 300 questions on [LeetCode](https://leetcode.com/).
+- Cracking the Coding Interview: 189 Programming Questions and Solutions (2015) by Gayle Laakmann McDowell
+- Programming Pearl by Jon Bentley
+- Dynamic Programming for Coding Interviews by Meenakshi and Kamal Rawat
+- Algorithms for Interviews by Adnan Aziz and Amit Prakash
+- Coding Interview Questions by Narasimha Karumanchi
+- 剑指Offer (2012) by 何海涛 
+- 编程之美 (2008) by 《编程之美》小组
+- 程序员代码面试指南：IT名企算法与数据结构题目最优解 (2015) by 左程云
 
-Some More
+Software Design, OOD
+- Grokking the Object Oriented Design Interview
+- [system-design-primer](https://github.com/donnemartin/system-design-primer)
 
-- The Complete Software Developer's Career Guide: How to Learn Programming Languages Quickly, Ace Your Programming Interview, and Land Your Software Developer Dream Job by John Z. Sonmez
-- The Google Resume: How to Prepare for a Career and Land a Job at Apple, Microsoft, Google, Or Any Top Tech Company by Gayle Laakmann McDowell
-- Cracking the Tech Career: Insider Advice on Landing a Job at Google, Microsoft, Apple, or any Top Tech Company by Gayle Laakmann McDowell
-- Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead by Laszlo Bock 
-- Cracking the PM Interview: How to Land a Product Manager Job in Technology
-  by Gayle Laakmann McDowell and Jackie Bavaro
-- What Color Is Your Parachute? 2020: A Practical Manual for Job-Hunters and Career-Changers by Richard N. Bolles
+System Design Interview
+- Grokking the System Design Interview
+- System Design Interview – An insider’s guide Volume 1 (2020) by Alex Xu. ~~[Preview](https://systeminterview.com/)~~
+- System Design Interview – An Insider's Guide: Volume 2 (2022) by Alex Xu and Sahn Lam
+- Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems (2017) by Martin Kleppmann (DDIA)
+
+Technical Interview
+- Java
+  - Elements of Programming Interviews in Java: The Insiders' Guide by Adnan Aziz , Tsung-Hsien Lee
+  - Java Programming Interviews Exposed by Noel Markham
+- Python
+  - Elements of Programming Interviews in Python: The Insiders' Guide by Adnan Aziz, Tsung-Hsien Lee, Amit Prakash
+- SQL
+  - Joe Celko's SQL Puzzles and Answers by Joe Celkos
+
+Behavioral Interview
+- Articles
+  - [10 Behavioral Interview Questions for Software Engineers](https://www.indeed.com/career-advice/interviewing/software-engineer-behavioral-interview-questions)
+  - [The 30 most common Software Engineer behavioral interview questions](https://www.techinterviewhandbook.org/behavioral-interview-questions/)
+  - [Top 8 Behavioral Interview Questions for Software Engineers](https://betterprogramming.pub/top-8-behavioral-interview-questions-for-software-engineers-6dcc404bb7b3)
+  - [Behavioral Interview Questions for Software Developers](https://www.interviewkickstart.com/blog/behavioral-interview-questions-software-engineer-and-developer)
+  - [behavior question - 一亩三分地](https://www.1point3acres.com/bbs/google_search.php?q=behavior%20question)
+  - [一亩三分地 Behavior questions合集](https://www.1point3acres.com/bbs/thread-529217-1-1.html)
+  - [自我介绍类型Behavioral-based interviewing Competency-Based Interviewing](https://chenyilong.notion.site/Behavioral-based-interviewing-Competency-Based-Interviewing-a728c50a5ba244188e1c66e28d34dd1c)
+  - [主观面试Behavioral-based interviewing Competency-Based Interviewing](https://chenyilong.notion.site/Behavioral-based-interviewing-Competency-Based-Interviewing-e6d18711a4114bc1926820fc537b5af4)
+- Podcast
+  - [softskills](https://softskills.audio/)
+  - [Soft Skills Engineering](https://podcasts.google.com/feed/aHR0cHM6Ly9zb2Z0c2tpbGxzLmF1ZGlvL2ZlZWQueG1s?sa=X&ved=0CAMQ4aUDahgKEwiA2Mv__tL3AhUAAAAAHQAAAAAQ4xo)
+- YouTube
+  - [DanCroitor](https://www.youtube.com/watch?v=IyPJFHFUpbQ&ab_channel=DanCroitor)
+
+Salary and Offer Negotiation
+- [How to negotiate for a higher salary](https://www.michaelpage.com.sg/advice/career-advice/salary-and-negotiation/how-negotiate-higher-salary)
+- [15 Rules for Negotiating a Job Offer](https://hbr.org/2014/04/15-rules-for-negotiating-a-job-offer)
 
 <br>
 
