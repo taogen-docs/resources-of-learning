@@ -50,13 +50,25 @@ Reference [Web Backend - Java Resources](directions/java-resources.md)
 
 Nginx
 
+- [nginx documentation](http://nginx.org/en/docs/)
+- [The Complete NGINX Cookbook](https://www.nginx.com/resources/library/complete-nginx-cookbook/?utm_source=nginxorg&utm_medium=books&utm_campaign=ebooks) (2019) by Derek DeJonghe
+- [Deploying NGINX Plus as an API Gateway](https://www.nginx.com/resources/library/nginx-api-gateway-deployment/?utm_source=nginxorg&utm_medium=books&utm_campaign=ebooks) (2018) by Liam Crilly
+- [High-Performance Caching with NGINX and NGINX Plus](https://www.nginx.com/resources/library/high-performance-caching-with-nginx-and-nginx-plus/?utm_source=nginxorg&utm_medium=books&utm_campaign=ebooks) (2018) by Owen Garrett
+- [Load Balancing in the Cloud: Practical Solutions with NGINX and AWS](https://www.nginx.com/resources/library/load-balancing-in-the-cloud-aws-nlb-elb-nginx-plus/?utm_source=nginxorg&utm_medium=books&utm_campaign=ebooks) (2018) by Derek DeJonghe
+- [F5 BIG-IP to NGINX Plus: Migration Guide](https://www.nginx.com/resources/library/f5-big-ip-nginx-migration-guide/?utm_source=nginxorg&utm_medium=books&utm_campaign=ebooks) (2018) by Faisal Memon, Alan Murphy
+- [How to Easily and Cost Effectively Replace Cisco ACE](https://www.nginx.com/resources/library/cisco-ace-nginx-migration-guide/?utm_source=nginxorg&utm_medium=books&utm_campaign=ebooks) (2018) by Faisal Memon
+- [ModSecurity 3.0 and NGINX: Quick Start Guide](https://www.nginx.com/resources/library/modsecurity-3-nginx-quick-start-guide/?utm_source=nginxorg&utm_medium=books&utm_campaign=ebooks) (2018) by Faisal Memon, Owen Garrett, Michael Pleshakov
 - Nginx HTTP Server: Harness the power of Nginx to make the most of your infrastructure and serve pages faster than ever before (4th, 2018) by Martin Fjordvald and Clement Nedelcu
 - Mastering NGINX (2nd, 2016) by Dimitri Aivaliotis 
 - NGINX Cookbook: Advanced Recipes for High-Performance Load Balancing (2nd, 2022) by Derek DeJonghe
-- NGINX Unit Cookbook: Recipes for Using a Versatile Open Source Server (2020) by Derek DeJonghe
 - Nginx Essentials: Excel in Nginx quickly by learning to use its most essential features in real-life applications (2015) by Valery Kholodkov
 - NGINX Cookbook: Over 70 recipes for real-world configuration, deployment, and performance (2017) by Tim Butler
 - 深入理解Nginx by  陶辉 
+
+Nginx Unit
+
+- [Learn NGINX Unit with Zero Pain - YouTube](https://www.youtube.com/playlist?list=PLGz_X9w9raXdV3vuPUu0kKBSBjG9rPaUf)
+- NGINX Unit Cookbook: Recipes for Using a Versatile Open Source Server (2020) by Derek DeJonghe
 
 Apache Tomcat
 
