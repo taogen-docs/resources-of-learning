@@ -46,6 +46,22 @@ Reference [Web Frontend Resources](directions/web-frontend-resources.md)
 
 Reference [Web Backend - Java Resources](directions/java-resources.md)
 
+#### Web Servers
+
+Nginx
+
+- Nginx HTTP Server: Harness the power of Nginx to make the most of your infrastructure and serve pages faster than ever before (4th, 2018) by Martin Fjordvald and Clement Nedelcu
+- Mastering NGINX (2nd, 2016) by Dimitri Aivaliotis 
+- NGINX Cookbook: Advanced Recipes for High-Performance Load Balancing (2nd, 2022) by Derek DeJonghe
+- NGINX Unit Cookbook: Recipes for Using a Versatile Open Source Server (2020) by Derek DeJonghe
+- Nginx Essentials: Excel in Nginx quickly by learning to use its most essential features in real-life applications (2015) by Valery Kholodkov
+- NGINX Cookbook: Over 70 recipes for real-world configuration, deployment, and performance (2017) by Tim Butler
+- 深入理解Nginx by  陶辉 
+
+Apache Tomcat
+
+- How Tomcat Works: A Guide to Developing Your Own Java Servlet Container by Budi Kurniawan, Paul Deck 
+
 Others
 
 - Oauth 2 in Action by Justin Richer
