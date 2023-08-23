@@ -551,7 +551,8 @@ For HBase
 - **大型网站技术架构：核心原理与案例分析** by 李智慧
 - **大规模Web服务开发技术** by 伊藤直也, 田中慎司
 - 大型网站系统与Java中间件实践 by 曾宪杰
-- 分布式Java应用：基础与实践 by 林昊 
+- 分布式Java应用：基础与实践 by 林昊
+- 分布式服务框架：原理与实践 by 李林锋
 
 Microservices Architecture Design 
 

@@ -339,6 +339,29 @@ Microservices
 > Microservices are more than writing the code.
 >
 > Microservices are more than the business logic. You need to think about the environment where you’ll run the services and how the services will scale and be resilient.
+>
+> Microservices are nothing but an extension of RESTful web services with the main objective being to break up your code into small, distributed, and independent services for better management.
+
+<details>
+    <summary>理解微服务</summary>
+
+> 简单理解：内存里的函数调用 => 网络接口调用。按模块分割后，交给不同部门各自更新维护，减少代码冲突和升级失败的地图炮。小项目上微服务有反作用。所有微服务组件都是围绕这件事展开的。
+
+> 最关键的是服务本体 RPC 和为了方便大家调用和发布 RPC 的服务发现。然后就是为了保障服务质量的熔断，监控，多 DC 部署等。
+
+> 微服务说到底只是一种思想，关键在与服务怎么规划和拆分。自己设计好服务的拆分，用 REST API，每个服务怎么管理也相对独立。
+
+> 总体思路把控到，然后看看相应的实现组件就行了。1）业务分拆为独立的服务。2）业务之间的交互（服务之间的交互）。3）为了网络容错、发现、追踪问题而扩展的其他东西（异常监控、调用链、预警、熔断之类的，所谓服务治理）。
+
+> 没用微服务，可能只是性能问题，堆硬件就可以了。用上微服务，怎么熔断，怎么监控，怎么发现，怎么容错，怎么通信...
+
+> 没具体需求，你很难学会的。微服务体系说简单点就是为了解决远程调用这一个需求衍生出来的。你首先得有需要远程调用不可的业务，然后业务量大了，你就算不懂“微服务”这个词，最终你为了满足需求，还是会搞定一整套体系。
+
+> 不是你不懂，是你没有场景。
+
+> 微服务更多的开发和架构经验上升华，同时面对微服务带来的变化，必须对公司的组织架构和运维全方面改造升级。
+
+</details>
 
 - **Building Microservices: Designing Fine-Grained Systems** (2nd, 2021) by Sam Newman
 - **Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith** (2019) by Sam Newman
@@ -346,8 +369,6 @@ Microservices
 
 Spring Cloud
 
-> Microservices are nothing but an extension of RESTful web services with the main objective being to break up your code into small, distributed, and independent services for better management.
->
 > Spring Cloud provides a suite of tools for the discovery, routing, and deployment of microservices to the enterprise and the cloud.
 
 - Spring Cloud Documentation, Current Version - [HTML](https://docs.spring.io/spring-cloud/docs/current/reference/htmlsingle), [PDF](https://docs.spring.io/spring-cloud/docs/current/reference/pdf/spring-cloud.pdf)
