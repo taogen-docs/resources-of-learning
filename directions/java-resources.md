@@ -22,6 +22,7 @@
 ## I. Guidance & Roadmap
 
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [java-developer-roadmap](../images/java-developer-roadmap.jpg)
 - [服务端工程师入门与进阶 Java 版](http://xielong.me/2015/04/16/%E6%9C%8D%E5%8A%A1%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%85%A5%E9%97%A8%E4%B8%8E%E8%BF%9B%E9%98%B6Java%E7%89%88/)
 - [服务端技术选型](http://xielong.me/2015/04/17/%E6%9C%8D%E5%8A%A1%E7%AB%AF%E6%8A%80%E6%9C%AF%E9%80%89%E5%9E%8B/)
 - [程序员技术练级攻略 - 酷壳](https://coolshell.cn/articles/4990.html)
@@ -246,6 +247,7 @@ Java Persistence
   - MyBatis Plus Documentation - [HTML](https://baomidou.com/guide/)
 - Hibernate
   - Java Persistence with Hibernate: Revised Edition of Hibernate in Action by Bauer, Christian
+  - Just Hibernate: A Lightweight Introduction to the Hibernate Framework (2014) by Madhusudhan Konda 
 - Spring Data
   - Spring Data JPA - Reference Documentation - [HTML](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#reference)
   - Spring Data: Modern Data Access for Enterprise Java by Mark Pollack, Oliver Gierke, Thomas Risberg
@@ -316,9 +318,15 @@ Spring Framework
 - [Spring Framework Reference Documentation 3.2.18 - doc](https://docs.spring.io/spring/docs/3.2.x/spring-framework-reference/html/)
 - [Spring Framework Current Documentation - doc](https://docs.spring.io/spring/docs/current/spring-framework-reference/)
 - [Spring Framework libs-release](https://repo.spring.io/libs-release/org/springframework/spring/)
+- Spring Start Here (2021) by Laurentiu Spilca
+- Just Spring: A Lightweight Introduction to the Spring Framework (2011) by Madhusudhan Konda
 - **Spring in Action** (6h, 2022) by Craig Walls
+- Expert Spring MVC and Web Flow (2006) by Colin Yates, Seth Ladd
 - **Expert One-On-One J2EE without EJB** by Rod Johnson. It explains the why behind spring as well as the how to use it.
-- Spring 5 Recipes: A Problem-Solution Approach
+- Spring 6 Recipes: A Problem-Solution Approach to Spring Framework by Marten Deinum, Daniel Rubio, Josh Long
+- Spring 5 Recipes: A Problem-Solution Approach by Marten Deinum, Daniel Rubio, Josh Long
+- Professional Java Development with the Spring Framework by Alef Arendsen, Juergen Hoeller, Rod Johnson, Thomas Risberg
+- Pro Spring 5: An In-Depth Guide to the Spring Framework and Its Tools by Chris Schaefer, Clarence Ho, and Rob Harrop
 - **Spring 揭秘** (2009) by 王福强
 - Spring 3.x企业应用开发实战 by  陈雄华 
 
