@@ -467,6 +467,8 @@ Courses
 
 System and Command Line
 
+- [Linux Documentation Project Guides](https://tldp.org/guides.html)
+  - Linux Filesystem Hierarchy by Binh Nguyen [HTML](https://tldp.org/LDP/Linux-Filesystem-Hierarchy/html/), [PDF](https://tldp.org/LDP/Linux-Filesystem-Hierarchy/Linux-Filesystem-Hierarchy.pdf)
 - **The Linux Command Line: A Complete Introduction** (2nd, 2019) by William E. Shotts, Jr.
 - **Linux Pocket Guide** (3rd, 2016) by Daniel J. Barrett
 - **Linux Bible** (10th, 2020) by Christopher Negus
