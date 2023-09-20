@@ -366,6 +366,10 @@ Web Frameworks
 - Learning Cocoa with Objective-C: Developing for the Mac and IOS App Stores by Jon Manning and Paris Buttfield-Addison
 - Learn Objective-C on the Mac by Mark Dalrymple, Scott Knaster
 
+Courses
+
+- [CS193p - Developing Apps for iOS](https://cs193p.sites.stanford.edu/) by Stanford University
+
 ### Swift
 
 - [Swift Documentation - doc]( https://swift.org/documentation/ )
