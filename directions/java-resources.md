@@ -166,15 +166,16 @@ For JVM Tuning
 
 - **Java Performance: The Definitive Guide** (2014) by Scott Oaks [4.38, 200]
 - **Java Performance: In-Depth Advice for Tuning and Programming Java 8, 11, and Beyond** (2nd, 2020) by Scott Oaks
-- **Java Performance** (2011) by Charlie Hunt [4.12, 200]
+- **Java Performance** (2011) by Binu John and Charlie Hunt [4.12, 200]
 - Java Performance Companion (2016) by Charlie Hunt [3.77]
 - **Optimizing Java: Practical Techniques for Improving JVM Application Performance** (2018) by Benjamin J. Evans, James Gough [4.37, 46]
+- **The Well-Grounded Java Developer** (2nd, 2022) by Benjamin Evans, Jason Clark, and Martijn Verburg
 - Java Performance Tuning (2nd, 2003) by Jack Shirazi [3.56]
 - Java程序性能优化-让你的Java程序更快、更稳定 (2012) by 葛一鸣 (8.1)
 - 实战Java虚拟机 (2015) by 葛一鸣 (8.1)
 - Java Performance and Scalability: A Quantitative Approach by Henry H. Liu
 - System Performance Analysis
-  - Systems Performance: Enterprise and the Cloud (2nd, 2020) by Brendan Gregg
+  - **Systems Performance: Enterprise and the Cloud** (2nd, 2020) by Brendan Gregg
   - BPF Performance Tools by Brendan Gregg
   - Linux Observability with Bpf: Advanced Programming for Performance Analysis and Networking by David Calavera, Lorenzo Fontana
   - Software Performance and Scalability: A Quantitative Approach by Henry H. Liu
