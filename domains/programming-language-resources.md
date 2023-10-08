@@ -5,6 +5,8 @@
 - <a name="lang_c" href="#lang_t">Programming Languages</a>
 - <a name="nonturinglang_c" href="#nonturinglang_t">Non-Turing-Complete Languages</a>
 - <a name="pgmprd_c" href="#pgmprd_t">Programming Paradigms</a>
+- <a name="mfp_c" href="#mfp_t">Metaphors for Programming</a>
+- <a name="mfpl_c" href="#mfpl_t">Metaphors for Programming Languages</a>
 
 <br>
 
@@ -578,6 +580,84 @@ Garbage Collection
 Virtual Machine
 
 > Lisp, Smalltalk, Pascal, Java
+
+<br>
+
+<h2><a name="mfp_t" href="#mfp_c">Metaphors for Programming</a></h2>
+
+<br>
+
+**Metaphor 1**
+
+Six months ago I'd never written a single line of code in my life. I applied to the Coding House dev bootcamp, got accepted and will be graduating next month. I feel super confident about my programming skills now and pumped to put them to work.
+
+Learning to code is like learning a foreign language. You start out with a few basic words and phrases. Then you learn some grammar. Then you learn more words and phrases. Then you learn some more grammar. Then you learn some colloquialisms and slang. Then you learn some more words and phrases. Then you learn some more grammar. Rinse and repeat forever (because "fluency" is a nebulous concept).
+
+When you learn to code, it's the exact same thing. You're learning the language to communicate with technology. Unfortunately, your computer is generally less forgiving than the locals. When you don't know how to ask for another drink at the bar, you can usually get by with "biru" in your funny foreigner accent and one finger held up in the air. When you throw some imperfect code at your machine, though, it'll throw an error in your face at best, or just stare condescendingly at you until you find your mistake (an hour later) and fix it.
+
+When you learn to code, like when you learn a foreign language, you have to adapt your way of thinking to this new environment of communication. In Japanese, the verb comes last, so you start to put more thought into receiver of the action in your communication. In Javascript, the code executes logically, in order, line by line from the top, so you also have to think logically, in order, step by step through your code. And of course, there are always exceptions to the rules (async operations woo!).
+
+Probably the most important parallel, though, is the persistence required to get good at a foreign language, or at coding. You're going to fail. A lot. Then you're going to get a little better. Then you're going to fail even more. You have to accept this constant state of not knowing and the possibility of failure if you want to improve. Eventually you'll look back and realize that you're having a conversation with that bartender now and getting her number. Eventually you'll realize you can spin up a server, design a website or make an app, despite how much you thought you sucked at all this and probably should've just given up a long time ago.
+
+So dive in and get your hands dirty! Break your machine, then learn how to put it all back together again. The journey of a thousand miles and all that jazz.
+
+by [Patrick Shaughnessy](https://qr.ae/pKNpiv)
+
+**2. How to explain coding concepts like streams, promises, linting, and declarative programming to a 5-year-old**
+
+I love thinking about coding concepts by comparing them to familiar things we know in life. There are so many analogies out there about coding concepts. Some of them are good while others are confusing, mainly because they focus on partial aspects of a concept while ignoring many others. This article will summarize some of the analogies that I think best fit a few coding concepts in complete ways.
+
+I will start with simple concepts and move on to harder ones. Let’s start with coding itself. Coding can be compared to writing cooking recipes. A recipe in this analogy is the program and the cook is the computer. A recipe is a list of instructions for a cook to follow and a program is a list of instructions for a computer to execute.
+
+This is a very simple analogy given that a recipe is written in a human language and a program is written in a computer language and those are very different languages (unless your recipes have closures and promises!). There are also not a lot of unexpected things to plan for in a recipe while a computer program will have many. Regardless of its simplicity, it is a good way to show how a computer carries out a list of instructions sequentially. It also shows where one instruction line can use any result from executing prior instruction lines.
+
+Some recipes will even have if-statements: if cooking for 2, 4 or 8! Some recipes will have loops: keep beating that mix until…
+
+I also like this analogy because of all the ready items and tools that you can use in your recipes — like the cake mix that you can use to make cupcakes and that specially-shaped pan that makes it so much easier to create cupcakes.
+
+The use of ready items and tools is like including and using a package of code written by others in your own code.
+
+```
+// The making of a cupcake// First steps:
+```
+
+```
+$ npm install cake-mix $ npm install cupcake-pan
+```
+
+NPM is the package manager for Node.js, which a very popular framework for writing JavaScript applications. In this analogy, Node.js is like the kitchen itself. It allows you to execute lines in your recipes by using built-in modules like your oven and sink.
+
+Speaking of unhealthy food, this next analogy is for learning how to code and is compared to eating habits. I particularly LOVE this analogy and what it conveys because it helps me to stay on track in my code learning journey. For me, this began in high school and will continue until my brain reaches its last instruction: die();
+
+by [Samer Buna](https://www.freecodecamp.org/news/hard-coding-concepts-explained-with-simple-real-life-analogies-280635e98e37)
+
+<br>
+
+<h2><a name="mfpl_t" href="#mfpl_c">Metaphors for Programming Languages</a></h2>
+
+<br>
+
+**1. Think of Programming Languages as Workshops**
+
+Python, all the latest power tools, including a few that might not work perfectly, but they're new and nothing is going to cut your hand off or give you tetanus.
+
+C/C++, this is grandpa's barn. All the tools are there, somewhere, but watch out for the black widows and rusted nails sticking up. Oh yeah, everything is hand powered, even the drill and metal lathe.
+
+Rust, the above minus all the old, broken and dirty cruft. Very useful when the power goes out.
+
+FORTRAN, the ultimate high power assembly line. Great for crunching numbers. Heaven help you if you want to do anything else.
+
+Haskell, every CNC machine ever made, clean, works great, totally dust, dirt and grime free. No manuals or displays, however. Those would create side effects.
+
+Erlang, all kinds of little workers in cubicles only able to do one job each. Lots of fun watching stuff being shuttled through old style vacuum transportation tubes.
+
+LISP, a furnace, anvil, crucible, ingot mold, hammer, tongs, pile of coal and pile of scrap metal. Make your own bleeding tools!
+
+Assembly, a hole in the ground containing ore. Get digging, after you make a shovel, of course.
+
+This is actually a lot of fun to do and really points out weaknesses and strengths of different languages.
+
+by [Andrew Olson](https://qr.ae/pKNpgP)
 
 ## References
 

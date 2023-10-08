@@ -431,6 +431,11 @@ Resources
 - [Archived OpenJDK General-Availability Releases](https://jdk.java.net/archive/)
 - [Download Azul Zulu JDKs](https://www.azul.com/downloads/?package=jdk#zulu)
 
+Releases
+
+- [JDK Releases](https://www.java.com/releases/)
+- [JDK Releases - matrix](https://www.java.com/releases/matrix/)
+
 #### Maven
 
 - [Maven Users Centre](https://maven.apache.org/users/index.html)
