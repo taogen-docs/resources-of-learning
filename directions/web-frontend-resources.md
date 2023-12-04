@@ -113,6 +113,10 @@ Responsive Design
 - Responsive Web Design with HTML5 and CSS3 by Ben Frain
 - Responsible Responsive Design by Scott Jehl
 
+UI elements
+
+- [uiverse](https://uiverse.io/). Open-Source UI elements for any project
+
 <br>
 
 <h3><a name="bootstrap_t" href="#bootstrap_c">Bootstrap</a></h3>
