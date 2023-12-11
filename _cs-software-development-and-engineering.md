@@ -960,10 +960,9 @@ Civil Code
 
 [Plenary Session of the Central Committee of the Communist Party of China](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%B8%AD%E5%A4%AE%E5%A7%94%E5%91%98%E4%BC%9A%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%85%A8%E4%BD%93%E4%BC%9A%E8%AE%AE)
 
-- [The Central Committee of the Communist Party of China](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E4%B8%AD%E5%A4%AE%E5%A7%94%E5%91%98%E4%BC%9A)
-  - [Standing Committee of the Political Bureau of the Communist Party of China](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%B8%B8%E5%8A%A1%E5%A7%94%E5%91%98%E4%BC%9A)
-  - [Political Bureau of the Central Committee of the Communist Party of China](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80)
-  - [Secretariat of the Central Committee of the Communist Party of China](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E4%B8%AD%E5%A4%AE%E4%B9%A6%E8%AE%B0%E5%A4%84)
+- [Communist Party of China organization](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E7%BB%84%E7%BB%87)
+- Time: At least once a year.
+- Convened by the Political Bureau of the Central Committee.
 - Exercise of powers: Convenes National Congress of the Communist Party of China and decides on the quota and election methods of the delegates to the National Congress; **elects the central leadership and the General Secretary of the Central Committee**; hears and discusses reports on the work of the Central Political Bureau; discusses and decides on major issues concerning the overall development of the Party and the State; **discusses and decides on the recommended candidates for the State President and Vice President, and the recommended candidates for the Standing Committee of the National People's Congress, the State Council, the National Committee of the Chinese People's Political Consultative Conference, the Central Military Commission, etc.**; decides on the replacement of members of the Central Committee; discusses and Decide other major issues and matters in the Party's governance and management of the Party.
 
 [National Congress of the Communist Party of China](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%85%A8%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%A4%A7%E4%BC%9A)
