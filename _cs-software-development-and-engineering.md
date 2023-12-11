@@ -401,6 +401,7 @@ Some More
 - Devops for the Modern Enterprise: Winning Practices to Transform Legacy It Organizations by Mirco Hering
 - Securing DevOps: Security in the Cloud by Julien Vehent
 - 进化 - 运维技术变革与实践探索 by 赵成
+- [ECS 运维指南之Linux系统诊断 - 阿里云](https://developer.aliyun.com/ebook/448)
 - DevOps: A Software Architect's Perspective by Len Bass
 - The Practice of Cloud System Administration: Devops and Sre Practices for Web Services, Volume 2 by Thomas A. Limoncelli, Strata R. Chalup, Christina J. Hogan
 - Operations Anti-Patterns, DevOps Solutions (2020) by Jeffery D. Smith
@@ -649,21 +650,29 @@ Some More
 ### Career
 
 - The Complete Software Developer's Career Guide: How to Learn Programming Languages Quickly, Ace Your Programming Interview, and Land Your Software Developer Dream Job by John Z. Sonmez
-- The Google Resume: How to Prepare for a Career and Land a Job at Apple, Microsoft, Google, Or Any Top Tech Company by Gayle Laakmann McDowell
 - Cracking the Tech Career: Insider Advice on Landing a Job at Google, Microsoft, Apple, or any Top Tech Company by Gayle Laakmann McDowell
 - Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead by Laszlo Bock 
 - Cracking the PM Interview: How to Land a Product Manager Job in Technology
   by Gayle Laakmann McDowell and Jackie Bavaro
 - What Color Is Your Parachute? 2020: A Practical Manual for Job-Hunters and Career-Changers by Richard N. Bolles
 
+Resume
+
+- The Google Resume: How to Prepare for a Career and Land a Job at Apple, Microsoft, Google, Or Any Top Tech Company by Gayle Laakmann McDowell
+- [用面试官的思维写简历 - 阿里云](https://developer.aliyun.com/ebook/7571)
+
 ### Programmer
 
 > The best programmers are not necessarily the ones who know the most about programming, but the ones who are passionate about it.
 
-- **The Pragmatic Programmer: From Journeyman to Master** (2nd, 2019) by Andrew Hunt, David Thomas 
+- Andrew Hunt
+	- **The Pragmatic Programmer: From Journeyman to Master** (2nd, 2019) by Andrew Hunt, David Thomas
+	- **Pragmatic Thinking and Learning: Refactor Your Wetware** (2008) by Andy Hunt
+	- Practices of an Agile Developer: Working in the Real World by Venkat Subramaniam, Andy Hunt
+- Robert C. Martin
+	- **The Clean Coder: A Code of Conduct for Professional Programmers** (2011) by Robert C. Martin
+	- Clean Craftsmanship: Disciplines, Standards, and Ethics (2021) by Robert C. Martin
 - **Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman** (2009) by Dave H. Hoover and Adewale Oshineye
-- **The Clean Coder: A Code of Conduct for Professional Programmers** (2011) by Robert C. Martin
-- Clean Craftsmanship: Disciplines, Standards, and Ethics (2021) by Robert C. Martin
 - **Joel on Software** (3rd, 2004) by Joel Spolsky
 - **More Joel on Software** (2008) by Joel Spolsky
 - **Hackers and Painters: Big Ideas from the Computer Age** (2008) by Paul Graham
@@ -671,7 +680,6 @@ Some More
 - **The Cathedral and the Bazaar** (2001) by Eric S. Raymond 
 - **Coders at Work: Reflections on the Craft of Programming** (2009) by Peter Seibel
 - **The Passionate Programmer** (2009) by Chad Fowler
-- **Pragmatic Thinking and Learning: Refactor Your Wetware** (2008) by Andy Hunt
 - **Never Split the Difference** (2016) by Chris Voss, Tahl Raz
 - **Managing Oneself** (2008) by Peter F. Drucker
 - **High Output Management** (2015) by Andrew S. Grove
@@ -684,6 +692,8 @@ Some More
 
 Some more
 
+- [阿里工程师的自我修养 - 阿里云](https://developer.aliyun.com/ebook/7392)
+- 技术人的百宝黑皮书 by 阿里云 [2022](https://developer.aliyun.com/ebook/7875), [2021](https://developer.aliyun.com/ebook/7436), [2020](https://developer.aliyun.com/ebook/351)
 - Out of Their Minds: The Lives and Discoveries of 15 Great Computer Scientists by Dennis E. Shasha, Cathy A. Lazere
 - The Prime Guide For Next Gen Developer: The book is everything you need in a typical career path of a software engineer or developer by Ankur Tyagi
 
@@ -710,7 +720,7 @@ Software Design, OOD
 - [system-design-primer](https://github.com/donnemartin/system-design-primer)
 
 System Design Interview
-- Grokking the System Design Interview
+- [Grokking the System Design Interview](https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers)
 - System Design Interview – An insider’s guide Volume 1 (2020) by Alex Xu. ~~[Preview](https://systeminterview.com/)~~
 - System Design Interview – An Insider's Guide: Volume 2 (2022) by Alex Xu and Sahn Lam
 - Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems (2017) by Martin Kleppmann (DDIA)

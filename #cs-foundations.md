@@ -153,7 +153,8 @@ For Interview
 - Programming Pearls (2nd, 1999)  by Jon Bentley 
 - 剑指Offer (2012) by 何海涛 
 - 编程之美 (2008) by 《编程之美》小组
-- 程序员代码面试指南：IT名企算法与数据结构题目最优解 (2015) by 左程云 
+- 程序员代码面试指南：IT名企算法与数据结构题目最优解 (2015) by 左程云
+- [超全算法笔试 模拟题精解合集 - 阿里云](https://developer.aliyun.com/ebook/7015)
 
 For Programming Contest
 
@@ -804,6 +805,7 @@ Resources Searching
 - [FreeComputerBooks.com](https://freecomputerbooks.com/)
 - [OnlineProgrammingBooks.com](https://www.onlineprogrammingbooks.com/)
 - [FreeTechBooks](https://www.freetechbooks.com/)
+- [开发者藏经阁 - 阿里云](https://developer.aliyun.com/ebook/)
 
 Tutorials
 

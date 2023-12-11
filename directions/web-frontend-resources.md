@@ -708,6 +708,7 @@ MongoDB
 ### Full Stack
 
 - Hands-On Full-Stack Web Development with GraphQL and React: Build scalable full-stack applications while learning to solve complex problems with GraphQL by Sebastian Grebe
+- Web全栈工程师的自我修养 by 余果
 
 ### Serverless
 

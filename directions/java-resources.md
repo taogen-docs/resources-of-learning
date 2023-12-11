@@ -421,6 +421,11 @@ Others
 
 For more, see [Information Security - Web Security](information-security-resources.md#websec_t)
 
+### Java Application Performance
+
+- [Java应用提速（速度与激情）- 阿里云](https://developer.aliyun.com/ebook/7850)
+- [JAVA 应用排查全景图 - 阿里云](https://developer.aliyun.com/ebook/7727)
+
 ### Java Tools
 
 #### JDK

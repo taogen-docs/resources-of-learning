@@ -378,6 +378,7 @@ Optimization
 - MySQL 8 Cookbook: Over 150 recipes for high-performance database querying and administration (2018) by Karthik Appigatla
 - MySQL 8 Administrator's Guide: Effective guide to administering high-performance MySQL 8 solutions (2018) by Chintan Mehta , Ankit Bhavsar
 - Advanced MySQL 8: Discover the full potential of MySQL and ensure high performance of your database (2019) by Eric Vanier , Birju Shah
+- [深入MySQL实战：快速理解MySQL核心技术 - 阿里云](https://developer.aliyun.com/ebook/450)
 
 High Availability, Cluster, Backup and Replication
 
