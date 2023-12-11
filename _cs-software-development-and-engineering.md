@@ -850,6 +850,8 @@ Civil Code
 <details>
     <summary>Click to expand!</summary>
 
+<br>
+
 **按法律**
 
 《治安管理处罚法》
@@ -957,6 +959,8 @@ Civil Code
 
 <details>
     <summary>Click to expand!</summary>
+
+<br>
 
 [Plenary Session of the Central Committee of the Communist Party of China](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%B8%AD%E5%A4%AE%E5%A7%94%E5%91%98%E4%BC%9A%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%85%A8%E4%BD%93%E4%BC%9A%E8%AE%AE)
 
