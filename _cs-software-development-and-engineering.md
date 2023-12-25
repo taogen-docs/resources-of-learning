@@ -579,13 +579,28 @@ Tech Leader
 
 - **The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change** (2017) by Camille Fournier
 - **Extreme Ownership: How U.S. Navy SEALs Lead and Win** (2019) by Jocko Willink, Leif Babin
-- Staff Engineer: Leadership beyond the management track by Will Larson
+- **Staff Engineer: Leadership beyond the management track** by Will Larson
 - **An Elegant Puzzle: System of Engineering Management** (2019) by Will Larson
 - **Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered** (2014) by Austin Kleon
 - Accelerate: Building and Scaling High-Performance Technology Organizations by Nicole Forsgern
 - The Truth about Leadership: The No-fads, Heart-of-the-Matter Facts You Need to Know (2010) by James M. Kouzes 
 - Start with Why: How Great Leaders Inspire Everyone to Take Action by Simon Sinek
 - The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact by Edmond Lau
+- The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change by Tanya Reilly
+
+Manager
+
+- Simon Sinek
+  - **Start with Why: How Great Leaders Inspire Everyone to Take Action** by Simon Sinek
+  - **Leaders Eat Last: Why Some Teams Pull Together and Others Don't Paperback** by Simon Sinek
+  - Find Your Why: A Practical Guide for Discovering Purpose for You and Your Team by Simon Sinek, David Mead, Peter Docker
+- Michael Bungay Stanier
+    - **The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever** by Michael Bungay Stanier
+    - The Advice Trap: Be Humble, Stay Curious & Change the Way You Lead Forever by Michael Bungay Stanier
+- **Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity** by Kim Malone Scott
+- **The Making of a Manager: What to Do When Everyone Looks to You** by Julie Zhuo
+- The First 90 Days: Proven Strategies for Getting Up to Speed Faster and Smarter, Updated and Expanded by Michael D. Watkins
+
 
 Open Source Organization
 
