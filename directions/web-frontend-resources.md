@@ -94,11 +94,11 @@ HTML
 
 CSS
 
-- ⭐**CSS: The Definitive Guide: Visual Presentation for the Web** (4th, 2017) by Eric A. Meyer and Estelle Weyl
+- ⭐**CSS: The Definitive Guide: Visual Presentation for the Web** (5th, 2023) by Eric A. Meyer and Estelle Weyl
 - **CSS Secrets: Better Solutions to Everyday Web Design Problems** (2015) by Lea Verou
 - ⭐**CSS: The Missing Manual** (4th, 2015) by David McFarland
 - ⭐**Cascading Style Sheets: The Definitive Guide** (2000) by Eric A. Meyer
-- ⭐**CSS Mastery: Advanced Web Standards Solutions** (2nd, 2009) by Andy Budd
+- ⭐**CSS Mastery: Advanced Web Standards Solutions** (3rd, 2016) by Andy Budd
 - **CSS Pocket Reference: Visual Presentation for the Web** (5th, 2018) by Eric A. Meyer
 - CSS in Depth by Keith J. Grant
 - The Book of CSS3: A Developer's Guide to the Future of Web Design by Peter Gasston
@@ -202,7 +202,7 @@ Primary
 - [JavaScript - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [JavaScript - w3schools](https://www.w3schools.com/js/default.asp)
 - ⭐**JavaScript: The Definitive Guide** (7th, 2020) by David Flanagan (**犀牛书**)
-- **Professional JavaScript for Web Developers** (4th, 2019) by Nicholas C. Zakas (**红宝书**)
+- **Professional JavaScript for Web Developers** (5th, 2023) by Matt Frisbie (**红宝书**)
 - Beginning JavaScript by Jeremy McPeak 
 - JavaScript: the first 20 years by Allen Wirfs-Brock and Brendan Eich - [Link](https://dl.acm.org/doi/abs/10.1145/3386327)
   Nobody knows JavaScript better than me. 
@@ -238,7 +238,7 @@ Advanced
 
 Functional Programming in JavaScript
 
-- **Functional Programming in JavaScript: How to improve your JavaScript programs using functional techniques** by Luis Atencio
+- **Functional Programming in JavaScript: How to improve your JavaScript programs using functional techniques** (2016) by Luis Atencio
 - Introducing functional programming with Underscore.js by Michael Fogus
 - Functional-Light JavaScript: Pragmatic, Balanced FP in JavaScript by Kyle Simpson , Brian MacDonald
 - Composing Software: An Exploration of Functional Programming and Object Composition in JavaScript by Eric Elliott
@@ -264,7 +264,7 @@ Reactive (Async) Programming in JavaScript
 
 Design Patterns
 
-- Learning JavaScript Design Patterns by Addy Osmani
+- Learning JavaScript Design Patterns (2nd, 2023) by Addy Osmani
 - ⭐**JavaScript Patterns** (2010) by Stoyan Stefanov
 - Pro JavaScript Design Patterns by Ross Harmes
 - Designing Web Interfaces: Principles and Patterns for Rich Interactions by Bill Scott
@@ -701,7 +701,7 @@ MongoDB
 ### GraphQL
 
 - [GraphQL](https://graphql.org/). A query language for your API.
-- **The Road to GraphQL: Your journey to master pragmatic GraphQL in JavaScript with React.js and Node.js** by Robin Wieruch 
+- **The Road to GraphQL: Your journey to master pragmatic GraphQL in JavaScript with React.js and Node.js** (2018) by Robin Wieruch 
 - Learning GraphQL: Declarative Data Fetching for Modern Web Apps by Eve Porcello and Alex Banks
 - Craft GraphQL APIs in Elixir with Absinthe: Flexible, Robust Services for Queries, Mutations, and Subscriptions by Bruce Williams and Ben Wilson 
 

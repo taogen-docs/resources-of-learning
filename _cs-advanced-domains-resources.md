@@ -337,7 +337,7 @@ For SQL
 - **SQL Antipatterns: Avoiding the Pitfalls of Database Programming** (2010) by Bill Karwin
 - T-SQL Fundamentals by Itzik Ben-Gan
 - T-SQL Querying by Itzik Ben-Gan
-- **SQL Queries for Mere Mortals: A Hands-on Guide to Data Manipulation in SQL** by John Viescas
+- **SQL Queries for Mere Mortals: A Hands-on Guide to Data Manipulation in SQL** (4th, 2018) by John Viescas
 - SQL Pocket Guide by Jonathan Gennick
 - The Art of SQL by Stéphane Faroult
 - SQL Performance Explained by Markus Winand
@@ -361,14 +361,14 @@ Prime
 - MySQL Crash Course by Ben Forta
 - MySQL in a Nutshell by Russell J.T. Dyer
 - **MySQL** (2013) by Paul DuBois
-- **MySQL Cookbook** (3rd, 2014) by Paul DuBois
+- **MySQL Cookbook** (4rd, 2022) by Sveta Smirnova and Alkin Tezuysal
 - MySQL Administrator's Bible by Sheeri K. Cabral, Keith Murphy
 - MySQL Stored Procedure Programming: Building High-Performance Web Applications in MySQL by Guy Harrison, Steven Feuerstein
 
 
 Optimization
 
-- **High Performance MySQL** by Baron Schwartz (3rd, 2012, This 3rd edition of the book mainly based on MySQL 5.1 and 5.5.) (4th, 2021) 
+- **High Performance MySQL** by Baron Schwartz (4th, 2021) (3rd, 2012, This 3rd edition of the book mainly based on MySQL 5.1 and 5.5.) 
 - Efficient MySQL Performance: Best Practices and Techniques (2022) by Daniel Nichter
 - Effective MySQL Optimizing SQL Statements by Ronald Bradford
 - MySQL性能调优与架构设计 by 简朝阳 
@@ -458,7 +458,7 @@ Tutorials
 Must Read
 
 - [Redis Documentation](https://redis.io/documentation)
-- **The Little Redis Book** (Free Book, 2012) by Karl Seguin 
+- **The Little Redis Book** (Free Book, 2012) by Karl Seguin. [GitHub](https://github.com/karlseguin/the-little-redis-book) 
 - **Redis in Action** (2013) by Josiah L. Carlson
 - **Redis Cookbook** (2011) by Tiago Macedo and Fred Oliveira
 
@@ -517,9 +517,10 @@ Reference [Information Security Resources](directions/information-security-resou
 Must Read
 
 
-- **Distributed Systems: Principles and Paradigms** (3rd, 2017) by Andrew S. Tanenbaum, Maarten van Steen. A good overview of distributed systems that goes to enough depth to spark interest. Might be too much for beginners, but a good intermediate level reference.
-- **Designing Data-Intensive Applications** by Martin Kleppmann
+- **Distributed Systems** (4th, 2023) by Andrew S. Tanenbaum, Maarten van Steen. A good overview of distributed systems that goes to enough depth to spark interest. Might be too much for beginners, but a good intermediate level reference.
+- **Designing Data-Intensive Applications** (2017) by Martin Kleppmann
 - **Distributed Systems For Fun and Profit** by Mikito Takada. Great intro book to distributed systems theory, with plenty of references to learn more once you're done.
+- Understanding Distributed Systems: What every developer should know about large distributed applications (2nd, 2022) by Roberto Vitillo
 - Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services by Brendan Burns. Patterns and Paradigms for container architecture. Useful but shallow.
 - Patterns of Distributed Systems by Unmesh Joshi [HTML](https://martinfowler.com/articles/patterns-of-distributed-systems/)
 - 从PAXOS到ZOOKEEPER分布式一致性原理与实践 by 倪超
@@ -568,14 +569,14 @@ For HBase
 
 ### Microservices
 
-- **Building Microservices: Designing Fine-Grained Systems** by Sam Newman
-- **Microservices Patterns: With Examples in Java** by Chris Richardson
-- **Microservice Architecture: Aligning Principles, Practices, and Culture** by Irakli Nadareishvili, Matt McLarty, and Michael Amundsen
-- **The Tao of Microservices** by Richard Rodger
-- **Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith** by Sam Newman
-- **Spring Microservices in Action** by John Carnell
-- **Production-Ready Microservices: Building Standardized Systems Across an Engineering Organization** by Susan Fowler and Susan J. Fowler
-- **Cloud Native Java: Designing Resilient Systems with Spring Boot, Spring Cloud, and Cloud Foundry** by Josh Long and Kenny Bastani
+- **Building Microservices: Designing Fine-Grained Systems** (2nd, 2021) by Sam Newman
+- **Microservices Patterns: With Examples in Java** (2018) by Chris Richardson
+- **Microservice Architecture: Aligning Principles, Practices, and Culture** (2016) by Irakli Nadareishvili, Matt McLarty, and Michael Amundsen
+- **The Tao of Microservices** (2017) by Richard Rodger
+- **Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith** (2019) by Sam Newman
+- **Spring Microservices in Action** (2nd, 2021) by John Carnell
+- **Production-Ready Microservices: Building Standardized Systems Across an Engineering Organization** (2016) by Susan Fowler and Susan J. Fowler
+- **Cloud Native Java: Designing Resilient Systems with Spring Boot, Spring Cloud, and Cloud Foundry** (2017) by Josh Long and Kenny Bastani
 - Microservices for the Enterprise: Designing, Developing, and Deploying by Kasun Indrasiri, Prabath Siriwardena
 - **大型网站技术架构：核心原理与案例分析** by 李智慧
 - **大规模Web服务开发技术** by 伊藤直也, 田中慎司
@@ -779,7 +780,7 @@ Middleware - Database Cluster
 
 General
 
-- **Web Scraping with Python** (2018) by Ryan Mitchell
+- **Web Scraping with Python** (2nd, 2018) by Ryan Mitchell
 - Getting Structured Data from the Internet: Running Web Crawlers/Scrapers on a Big Data Production Scale (2020) by Jay M. Patel 
 - Practical Web Scraping for Data Science: Best Practices and Examples with Python (2018) by Seppe vanden Broucke and Bart Baesens 
 - Mining the Social Web: Data Mining Facebook, Twitter, LinkedIn, Instagram, GitHub, and More (3rd, 2019) by Matthew A. Russell and Mikhail Klassen
@@ -952,8 +953,8 @@ Papers
 #### Introduction to Blockchain
 
 - [Blockchain - Wikipedia](https://en.wikipedia.org/wiki/Blockchain)
-- **Blockchain Basics: A Non-Technical Introduction in 25 Steps** by Daniel Drescher
-- **Blockchain Bubble or Revolution: The Present and Future of Blockchain and Cryptocurrencies** by Neel Mehta
+- **Blockchain Basics: A Non-Technical Introduction in 25 Steps** (2017) by Daniel Drescher
+- **Blockchain Bubble or Revolution: The Present and Future of Blockchain and Cryptocurrencies** (2019) by Neel Mehta
 - Blockchain: Blueprint for a New Economy by Melanie Swan
 - The Business Blockchain: Promise, Practice, and Application of the Next Internet Technology by William Mougayar
 - Blockchain Wars: The Future of Big Tech Monopolies and the Blockchain Internet by Evan McFarland
@@ -1004,16 +1005,16 @@ Lightning Network (Layer 2)
 
 Must Read
 
-- **Bitcoin: A Peer-to-Peer Electronic Cash System** [PDF](https://bitcoin.org/bitcoin.pdf)
+- **Bitcoin: A Peer-to-Peer Electronic Cash System** by Satoshi Nakamoto [PDF](https://bitcoin.org/bitcoin.pdf)
 - The Bitcoin Lightning Network: Scalable Off-Chain Instant Payments [PDF](https://lightning.network/lightning-network-paper.pdf)
 - [Bitcoin Core - GitHub](https://github.com/bitcoin/bitcoin)
 - [Bitcoin - Wikipedia](https://en.wikipedia.org/wiki/Bitcoin)
-- **The Internet of Money** by Andreas M. Antonopoulos
+- **The Internet of Money** (2016) by Andreas M. Antonopoulos
 - **The Bitcoin Standard: The Decentralized Alternative to Central Banking** (2018) by Saifedean Ammous 
-- **Mastering Bitcoin: Unlocking Digital Cryptocurrencies** by Andreas Antonopoulos
+- **Mastering Bitcoin: Programming the Open Blockchain** (2rd, 2023) by Andreas Antonopoulos
 - Mastering Bitcoin: Programming the Open Blockchain (2nd, 2017) by Andreas Antonopoulos
-- **Cryptoassets: The Innovative Investor's Guide to Bitcoin and Beyond** by Chris Burniske
-- **Digital Gold: Bitcoin and the Inside Story of the Misfits and Millionaires Trying to Reinvent Money** by Nathaniel Popper
+- **Cryptoassets: The Innovative Investor's Guide to Bitcoin and Beyond** (2017) by Chris Burniske
+- **Digital Gold: Bitcoin and the Inside Story of the Misfits and Millionaires Trying to Reinvent Money** (2016) by Nathaniel Popper
 - Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction by Arvind Narayanan
 - Programming Bitcoin: Learn How to Program Bitcoin from Scratch by Jimmy Song
 - Attack of the 50 Foot Blockchain: Bitcoin, Blockchain, Ethereum & Smart Contracts by David Gerard
@@ -1144,9 +1145,9 @@ Protocols
 
 Quantum Computing
 
-- **Quantum Computing: An Applied Approach** by Jack D. Hidary
-- **Quantum Computing for Everyone** by Chris Bernhardt
-- **Quantum Computing Since Democritus** by Scott Aaronson
+- **Quantum Computing: An Applied Approach** (2nd, 2021) by Jack D. Hidary
+- **Quantum Computing for Everyone** (2020) by Chris Bernhardt
+- **Quantum Computing Since Democritus** (2013) by Scott Aaronson
 - Mathematics of Quantum Computing: An Introduction by Wolfgang Scherer
 - Programming Quantum Computers: Essential Algorithms and Code Samples by Eric R. Johnston , Nic Harrigan
 - Quantum Computing for Computer Scientists by Noson S. Yanofsky, Mirco A. Mannucci
