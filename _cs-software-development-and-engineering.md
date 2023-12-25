@@ -57,6 +57,7 @@ Clean Code
 - The Art of Readable Code by Dustin Boswell, Trevor Foucher
 - Think Like a Programmer: An Introduction to Creative Problem Solving by V. Anton Spraul
 - Seriously Good Software: Code that works, survives, and wins (2020) by Marco Faella
+- The Art of Clean Code: Best Practices to Eliminate Complexity and Simplify Your Life (2022) by Christian Mayer
 - 码出高效：Java开发手册 by 杨冠宝, 高海慧
 - 码农翻身 (2018) by 刘欣
 
@@ -254,7 +255,7 @@ Tutorials
 ### Software Design, OOD
 
 - Grokking the Object Oriented Design Interview
-- **A Philosophy of Software Design** (2019) by John Ousterhout
+- **A Philosophy of Software Design** (2nd, 2021) by John Ousterhout
 - **Thinking in Systems: A Primer** (2008) by Donella H. Meadows, Diana Wright
 - Beautiful Code: Leading Programmers Explain How They Think (2007) by Andy Oram, Greg Wilson
 - Software Design for Flexibility: How to Avoid Programming Yourself Into a Corner (2021) by Chris Hanson, Gerald Jay Sussman
@@ -267,31 +268,32 @@ Tutorials
 
 ### Application Architecture
 
-- **Patterns of Enterprise Application Architecture** (2002) by Martin Fowler
+Domain-Driven Design
+
 - **Domain-Driven Design: Tackling Complexity in the Heart of Software** (2003) by Eric Evans
+- **Implementing Domain-Driven Design** (2013) by Vaughn Vernon
+- **Learning Domain-Driven Design: Aligning Software Architecture and Business Strategy** (2021) by Vlad Khononov
+- Domain-Driven Design Distilled (2016) by Vaughn Vernon
+
+
+Application Architecture
+
+- **Patterns of Enterprise Application Architecture** (2002) by Martin Fowler
 - **Enterprise Integration Patterns** (2003) by Gregor Hohpe
 - **Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems** (2017) by Martin Kleppmann (DDIA)
-- Web Scalability for Startup Engineers (2015) by Artur Ejsmont
 - System Design Interview – An insider’s guide Volume 1 (2020) by Alex Xu. [Preview](https://systeminterview.com/)
 - System Design Interview – An Insider's Guide: Volume 2 (2022) by Alex Xu and Sahn Lam
-- **Implementing Domain-Driven Design** (2013) by Vaughn Vernon
 - **Clean Architecture** (2017) by Robert Cecil Martin
 - **Information Architecture: For the Web and Beyond. Designing Large-scale Web Sites** (4th, 2015) by Louis Rosenfeld , Peter Morville
-- Domain-Driven Design Distilled (2016) by Vaughn Vernon
 - The Design of Design: Essays from a Computer Scientist (2010) by Frederick P. Brooks Jr
 - Pattern-Oriented Software Architecture Volume 1~5 (1996) by Frank Buschmann, Hans Rohnert
 - Building Evolutionary Architectures: Support Constant Change (2017) by Neal Ford, Patrick Kua, and Rebecca Parsons
-- The Art of Scalability: Scalable Web Architecture, Processes, and Organizations for the Modern Enterprise (2015) by Martin L. Abbott, Michael T. Fisher
 - Web Application Architecture: Principles, Protocols and Practices (2009) by Leon Shklar
 - Software Architecture: Foundations, Theory, and Practice (2009) by Richard N. Taylor
 - Java Application Architecture: Modularity Patterns with Examples Using OSGi (2012) by Kirk Knoernschild
 - System Architecture: Strategy and Product Development for Complex Systems (2015) by Bruce Cameron, Daniel Selva, and Edward F. Crawley
 - Just Enough Software Architecture: A Risk-Driven Approach (2010) by George Fairbanks 
 - Software Systems Architecture: Working With Stakeholders Using Viewpoints and Perspectives (2011) by Nick Rozanski and Eoin Woods 
-- Building Scalable Web Sites (2006) by Cal Henderson
-- Web Scalability for Startup Engineers (2015) by Artur Ejsmont
-- Scalability Rules: Principles for Scaling Web Sites (2016) by Martin L. Abbott,  Michael T. Fisher
-- Scalability Rules: 50 Principles for Scaling Web Sites (2011) by Martin L. Abbott,  Michael T. Fisher
 - Software Architecture for Developers: Volume 1 - Technical leadership and the balance with agility (2012) by Simon Brown
 - Software Architecture for Developers: Volume 2 - Visualise, document and explore your software architecture (2015) by Simon Brown
 - Software Architecture in Practice (3rd, 2012) by Len Bass, Paul Clements, Rick Kazman
@@ -312,6 +314,15 @@ Tutorials
 - 深入分布式缓存：从原理到实践 (2017) by 于君泽 / 曹洪伟 / 邱硕
 - 聊聊架构 (2017) by 王概凯
 - 构建高性能Web站点 (2012) by 郭欣
+
+Scalability
+
+- Web Scalability for Startup Engineers (2015) by Artur Ejsmont
+- The Art of Scalability: Scalable Web Architecture, Processes, and Organizations for the Modern Enterprise (2015) by Martin L. Abbott, Michael T. Fisher
+- Building Scalable Web Sites (2006) by Cal Henderson
+- Web Scalability for Startup Engineers (2015) by Artur Ejsmont
+- Scalability Rules: Principles for Scaling Web Sites (2016) by Martin L. Abbott,  Michael T. Fisher
+- Scalability Rules: 50 Principles for Scaling Web Sites (2011) by Martin L. Abbott,  Michael T. Fisher
 
 New Books (2019~2021)
 
@@ -375,7 +386,7 @@ Articles
 Must Read
 
 
-- **The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win** (2013) by Gene Kim, Kevin Behr, George Spafford
+- **The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win** (3rd, 2018) by Gene Kim, Kevin Behr, George Spafford
 - **Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation** (2010) by Jez Humble 
 - **The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations** (2nd, 2021) by Gene Kim , Patrick Debois
 - **Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations** (2018) by Nicole Forsgren PhD , Jez Humble
@@ -437,11 +448,12 @@ Docker
 - Docker in Practice by Ian Miell, Aidan Hobson Sayers
 - Docker: Up & Running: Shipping Reliable Containers in Production by Sean P. Kane
 - Continuous Delivery with Docker and Jenkins by Rafal Leszko
+- Docker: A Project-Based Approach to Learning by Jason Cannon
 
 Kubernetes 
 
 - Kubernetes in Action by Marko Luksa
-- **The Kubernetes Book** (2021) by Nigel Poulton
+- **The Kubernetes Book** (2023) by Nigel Poulton
 - Kubernetes: Up and Running: Dive into the Future of Infrastructure (2nd, 2019) by Brendan Burns , Joe Beda
 - Production Kubernetes: Building Successful Application Platforms (2021) by Josh Rosso, Rich Lander, Alex Brand, John Harris
 - Kubernetes Patterns: Reusable Elements for Designing Cloud-Native Applications (2019)  by Bilgin Ibryam, Roland Huß
@@ -475,7 +487,7 @@ Kubernetes
 <br>
 
 - **Site Reliability Engineering: How Google Runs Production Systems** (2016) by Betsy Beyer
-- The Site Reliability Workbook: Practical Ways to Implement SRE
+- **The Site Reliability Workbook: Practical Ways to Implement SRE** (2018) by Betsy Beyer
 - Seeking SRE: Conversations About Running Production Systems at Scale by David N. Blank-Edelman
 - The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations
 - Infrastructure as Code: Managing Servers in the Cloud by Kief Morris
@@ -486,6 +498,7 @@ Kubernetes
 - Practical Monitoring: Effective Strategies for the Real World by Mike Julian
 - Building Microservices: Designing Fine-Grained Systems by Sam Newman
 - Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services by Brendan Burns
+- The Art of Site Reliability Engineering (SRE) with Azure: Building and Deploying Applications That Endure (2022) by Unai Huete Beloki
 
 <br>
 
@@ -584,8 +597,6 @@ Tech Leader
 - **Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered** (2014) by Austin Kleon
 - Accelerate: Building and Scaling High-Performance Technology Organizations by Nicole Forsgern
 - The Truth about Leadership: The No-fads, Heart-of-the-Matter Facts You Need to Know (2010) by James M. Kouzes 
-- Start with Why: How Great Leaders Inspire Everyone to Take Action by Simon Sinek
-- The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact by Edmond Lau
 - The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change by Tanya Reilly
 
 Manager
@@ -698,6 +709,7 @@ Resume
 - **Never Split the Difference** (2016) by Chris Voss, Tahl Raz
 - **Managing Oneself** (2008) by Peter F. Drucker
 - **High Output Management** (2015) by Andrew S. Grove
+- **The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact**  by Edmond Lau 
 - Programming Beyond Practices: Be More Than Just a Code Monkey by Gregory T. Brown
 - Effective Programming: More Than Writing Code by Jeff Atwood
 - 97 Things Every Programmer Should Know: Collective Wisdom from the Experts by Kevlin Henney
