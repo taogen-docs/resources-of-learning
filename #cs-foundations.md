@@ -625,7 +625,7 @@ Reference [Programming Language Resources](domains/programming-language-resource
 
 Must Read
 
-- **Computer Networking: A Top Down Approach** (7th, 2016) by Kurose, Ross  
+- **Computer Networking: A Top Down Approach** (8th, 2022) by Kurose, Ross  
   Best for a beginner. You will fall in love with this book once you get hold of it :P. No prerequisites required. It is written marvelously for anyone to get interested in networking)
 - Computer Networks (5th, 2010) by Andrew S. Tanenbaum and David J. Wetherall 
   Good but dry. Well formed contents, should have some basic understanding of data communications before reading this book.
@@ -655,6 +655,7 @@ For Programming
 - TCP/IP Illustrated: TCP for Transactions, HTTP, NNTP and the Unix Domain Protocols, Vol. 3 by Richard Stevens
 - The TCP/IP Guide: A Comprehensive, Illustrated Internet Protocols Reference by Charles Kozierok
 - Internetworking with TCP/IP Vol.1: Principles, Protocols, and Architecture by Douglas E. Comer
+- TCP/IP Network Administration (3rd, 2002) by Craig Hunt
 - 图解TCP/IP by [日]竹下隆史, 村山公保, 荒井透, 苅田幸雄
 
 ### HTTP
