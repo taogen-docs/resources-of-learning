@@ -595,6 +595,7 @@ Tech Leader
 - **Staff Engineer: Leadership beyond the management track** by Will Larson
 - **An Elegant Puzzle: System of Engineering Management** (2019) by Will Larson
 - **Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered** (2014) by Austin Kleon
+- **The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact**  by Edmond Lau 
 - Accelerate: Building and Scaling High-Performance Technology Organizations by Nicole Forsgern
 - The Truth about Leadership: The No-fads, Heart-of-the-Matter Facts You Need to Know (2010) by James M. Kouzes 
 - The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change by Tanya Reilly
@@ -709,7 +710,6 @@ Resume
 - **Never Split the Difference** (2016) by Chris Voss, Tahl Raz
 - **Managing Oneself** (2008) by Peter F. Drucker
 - **High Output Management** (2015) by Andrew S. Grove
-- **The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact**  by Edmond Lau 
 - Programming Beyond Practices: Be More Than Just a Code Monkey by Gregory T. Brown
 - Effective Programming: More Than Writing Code by Jeff Atwood
 - 97 Things Every Programmer Should Know: Collective Wisdom from the Experts by Kevlin Henney
