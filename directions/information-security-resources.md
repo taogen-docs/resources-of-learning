@@ -68,13 +68,6 @@ Threat Modeling
 
 - Threat Modeling: Designing for Security by Adam Shostack
 
-<br>
-
-<h2><a name="crypt_t" href="#crypt_c">Cryptography</a></h2>
-<br>
-
-Reference [CS Fundamentals Resources - Cryptography](../%23cs-foundations.md#crypt_t)
-
 
 <br>
 <h2><a name="basics_t" href="#basics_c">Basics</a></h2>
@@ -83,6 +76,15 @@ Reference [CS Fundamentals Resources - Cryptography](../%23cs-foundations.md#cry
 - **Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali** (2018) by OccupyTheWeb
 - Getting Started Becoming a Master Hacker: Hacking is the Most Important Skill Set of the 21st Century! (2019) by Occupytheweb
 - Network Basics for Hackers: How Networks Work and How They Break (2023) by Master OccupytheWeb
+
+
+<br>
+
+<h2><a name="crypt_t" href="#crypt_c">Cryptography</a></h2>
+<br>
+
+Reference [CS Fundamentals Resources - Cryptography](../%23cs-foundations.md#crypt_t)
+
 
 <br>
 <h2><a name="netsec_t" href="#netsec_c">Network Security</a></h2>
