@@ -349,6 +349,7 @@ New Books (2019~2021)
 - Microservices Security in Action (2021) by Prabath Siriwardena and Nuwan Dias
 - Production-Ready Microservices (2016) by Susan J. Fowler
 - Bootstrapping Microservices with Docker, Kubernetes, and Terraform: A project-based guide (2021) by Ashley Davis
+- Strategic Monoliths and Microservices: Driving Innovation Using Purposeful Architecture by Vaughn Vernon, Tomasz Jaskula 
 
 
 ### Security Architecture

@@ -4,6 +4,7 @@
 
 - <a name="guide_c" href="#guide_t">Guidance and Roadmap</a>
 - <a name="introis_c" href="#introis_t">Introduction to Information Security</a>
+- <a name="basics_c" href="#basics_t">Basics</a>
 - <a name="crypt_c" href="#crypt_t">Cryptography</a>
 - <a name="netsec_c" href="#netsec_t">Network Security</a>
 - <a name="websec_c" href="#websec_t">Web Security</a>
@@ -31,15 +32,15 @@
 <h2><a name="introis_t" href="#introis_c">Introduction to Information Security</a></h2>
 <br>
 
-- **The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data** by Kevin D. Mitnick, Robert Vamosi
-- **Hacking: The Art of Exploitation** by Jon Erickson [4.16, 2187]
-- **Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World** by Bruce Schneier [4.01, 3421]
-- **Ghost in the Wires: My Adventures as the World’s Most Wanted Hacker** by Kevin Mitnick [3.9, 24244]
-- **Kingpin: How One Hacker Took Over the Billion-Dollar Cybercrime Underground** by Kevin Poulsen [3.95, 7441]
+- Kevin Mitnick
+  - **The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data** (2017) by Kevin D. Mitnick, Robert Vamosi
+  - **Ghost in the Wires: My Adventures as the World’s Most Wanted Hacker** (2011) by Kevin Mitnick [3.9, 24244]
+- **Hacking: The Art of Exploitation** (2nd, 2008) by Jon Erickson [4.16, 2187]
+- **Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World** (2015) by Bruce Schneier [4.01, 3421]
+- **Kingpin: How One Hacker Took Over the Billion-Dollar Cybercrime Underground** (2011) by Kevin Poulsen [3.95, 7441]
 - Hacking Exposed 7: Network Security Secrets and Solutions by Stuart McClure, Joel Scambray
 - The Cyber Effect: A Pioneering Cyberpsychologist Explains How Human Behavior Changes Online by Mary Aiken
 - CISSP All-in-One Exam Guide by Shon Harris [4.07, 845]
-- Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali (2018) by OccupyTheWeb
 - Penetration Testing: A Hands-On Introduction to Hacking by Georgia Weidman [4.19, 299]
 - Silence on the Wire: A Field Guide to Passive Reconnaissance and Indirect Attacks by Michal Zalewski [4.21, 415]
 - Writing Secure Code by David Le Blanc and Michael Howard [4.01, 371]
@@ -74,12 +75,21 @@ Threat Modeling
 
 Reference [CS Fundamentals Resources - Cryptography](../%23cs-foundations.md#crypt_t)
 
+
+<br>
+<h2><a name="basics_t" href="#basics_c">Basics</a></h2>
+<br>
+
+- **Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali** (2018) by OccupyTheWeb
+- Getting Started Becoming a Master Hacker: Hacking is the Most Important Skill Set of the 21st Century! (2019) by Occupytheweb
+- Network Basics for Hackers: How Networks Work and How They Break (2023) by Master OccupytheWeb
+
 <br>
 <h2><a name="netsec_t" href="#netsec_c">Network Security</a></h2>
 <br>
 
-- **Cryptography and Network Security: Principles and Practice** by William Stallings
-- **Network Security: Private Communication in a Public World** (2nd, 2002) by Charlie Kaufman , Radia Perlman
+- **Cryptography and Network Security: Principles and Practice** (8th, 2022) by William Stallings
+- **Network Security: Private Communication in a Public World** (3rd, 2022) by Charlie Kaufman , Radia Perlman
 - Network Security: A Beginner's Guide by Eric Maiwald
 - Hacking Wireless Networks - The ultimate hands-on guide by Andreas Kolokithas
 - Network Security Assessment by Chris McNab
@@ -91,8 +101,10 @@ Reference [CS Fundamentals Resources - Cryptography](../%23cs-foundations.md#cry
 <h2><a name="websec_t" href="#websec_c">Web Security</a></h2>
 <br>
 
-- **The Web Application Hacker's Handbook: Discovering and Exploiting Security Flaws** by Dafydd Stuttard, Marcus Pinto
-- **The Tangled Web: a Guide to Securing Modern Web Applications** by Michal Zalewski
+- **The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws** (2nd, 2011) by Dafydd Stuttard, Marcus Pinto
+- **The Tangled Web: a Guide to Securing Modern Web Applications** (2011) by Michal Zalewski
+- Hacking APIs: Breaking Web Application Programming Interfaces (2022) by Corey J. Ball
+- Bug Bounty Bootcamp: The Guide to Finding and Reporting Web Vulnerabilities (2021) by Vickie Li
 - Web Application Security, A Beginner's Guide  by Bryan Sullivan and Vincent Liu
 - Web Security Testing Cookbook: Systematic Techniques to Find Problems Fast by Ben Walther and Paco Hope
 - Identity and Data Security for Web Development: Best Practices by Jonathan LeBlanc, Tim Messerschmidt
@@ -107,9 +119,16 @@ Reference [CS Fundamentals Resources - Cryptography](../%23cs-foundations.md#cry
 <h2><a name="pene_t" href="#pene_c">Penetration & Pentest</a></h2>
 <br>
 
-- **Metasploit: The Penetration Tester's Guide** by David Kennedy, Jim O'Gorman, Devon Kearns, Mati Aharoni
-- **Gray Hat Hacking: The Ethical Hacker's Handbook** by Shon Harris, Chris Eagle, Allen Harper
-- **Black Hat Python: Python Programming for Hackers and Pentesters** by Justin Seitz
+- **Metasploit: The Penetration Tester's Guide** (2011) by David Kennedy, Jim O'Gorman, Devon Kearns, Mati Aharoni
+- **Gray Hat Hacking: The Ethical Hacker's Handbook** (6th, 2022) by Shon Harris, Chris Eagle, Allen Harper
+- **Black Hat Python: Python Programming for Hackers and Pentesters** (2nd, 2021) by Justin Seitz
+- Hands on Hacking: Become an Expert at Next Gen Penetration Testing and Purple Teaming (2020) by Matthew Hickey, Jennifer Arcuri
+- Nmap Network Scanning: The Official Nmap Project Guide to Network Discovery and Security Scanning by Gordon Fyodor Lyon
+- Rtfm: Red Team Field Manual (2014 )by Ben Clark. The RTFM contains the basic syntax for commonly used Linux and Windows command line tools, but it also encapsulates unique use cases for powerful tools such as Python and Windows PowerShell.
+- Blue Team Field Manual (2017) by Alan J White, Ben Clark. A Cyber Security Incident Response Guide.
+- PTFM: Purple Team Field Manual (2020) by Tim Bryant. A manual for all security professionals and integrates red and blue team methodologies.
+- LFM: Linux Field Manual (2021) by Tim Bryant 
+- Operator Handbook: Red Team + OSINT + Blue Team Reference by Joshua Picolet
 
 <br>
 <h2><a name="ossec_t" href="#ossec_c">Operating System Security</a></h2>
@@ -141,8 +160,8 @@ Reference [CS Fundamentals Resources - Cryptography](../%23cs-foundations.md#cry
 <h2><a name="reveng_t" href="#reveng_c">Reverse Engineering</a></h2>
 <br>
 
-- **Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software** by Michael Sikorski
-- **Reversing: Secrets of Reverse Engineering** by Eldad Eilam
+- **Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software** (2012) by Michael Sikorski
+- **Reversing: Secrets of Reverse Engineering** (2005) by Eldad Eilam
 - 有趣的二进制：软件安全与逆向分析 by [日] 爱甲健二
 - Reverse Engineering for Beginners by Dennis Yurichev
 - Practical Reverse Engineering: X86, X64, ARM, Windows Kernel, Reversing Tools, and Obfuscation by Alexandre Gazet, Bruce Dang, and Elias Bachaalany
@@ -159,9 +178,9 @@ Reference [CS Fundamentals Resources - Cryptography](../%23cs-foundations.md#cry
 <h2><a name="socialeng_t" href="#socialeng_c">Social Engineering</a></h2>
 <br>
 
-- **Social Engineering: The Art of Human Hacking** by Christopher Hadnagy, Paul Wilson
-- **The Art of Deception: Controlling the Human Element** of Security by Kevin D. Mitnick, William L. Simon, Steve Wozniak
-- **The Art of Intrusion** by Kevin Mitnick
+- **Social Engineering: The Science of Human Hacking** (2nd, 2018) by Christopher Hadnagy, Paul Wilson
+- **The Art of Deception: Controlling the Human Element of Security** (2007) by Kevin D. Mitnick, William L. Simon, Steve Wozniak
+- **The Art of Intrusion** (2005) by Kevin Mitnick
 - Social Engineering: The Science of Human Hacking by Christopher Hadnagy
 
 <br>

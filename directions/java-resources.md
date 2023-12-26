@@ -39,10 +39,10 @@
 - **The Java Tutorial: A Short Course on the Basics** (6th, 2014) by Raymond Gallardo, Scott Hommel, Sowmya Kannan, Joni Gordon, Sharon Biocca Zakhour
 - **Core Java** (12th, 2021) Volume I Fundamentals by S, Horstmann
 - The Java Programming Language (4th, 2005) by Ken Arnold, James Gosling, David Holmes
-- Java: A Beginner's Guide (8th) by Herbert Schildt
-- Head First Java (2nd, 2009) by Kathy Sierra 
+- Java: A Beginner's Guide (9th, 2022) by Herbert Schildt
+- Head First Java (3rd, 2022) by Kathy Sierra 
 - Java 8 in Action (2014) by Raoul-Gabriel Urma, Mario Fusco
-- Java: The Complete Reference (11th) by Schildt, Herbert
+- Java: The Complete Reference (12th, 2021) by Schildt, Herbert
 
 #### Master
 
@@ -51,7 +51,7 @@
   - [The Java Language Environment](https://www.oracle.com/java/technologies/language-environment.html)
 - The Java® Language Specification Java SE 8 Edition - [DOC](https://docs.oracle.com/javase/specs/jls/se8/html/index.html), [PDF](https://docs.oracle.com/javase/specs/jls/se8/jls8.pdf)
 - JSR-133: Java Memory Model and Thread Specification (Java 1.5, 2004) - [PDF](https://www.cs.umd.edu/~pugh/java/memoryModel/jsr133.pdf)
-- **Effective Java** (3rd, 2017) by Joshua Bloch 
+- **Effective Java** (3rd, 2017, Cover Java 9) by Joshua Bloch 
 - **Thinking in Java** (4th, 2006) by Eckel, Bruce
 - Java by Comparison: Become a Java Craftsman in 70 Examples by Simon Harrer, Jörg Lenhard, Linus Dietz
 - On Java 8 by Bruce Eckel
@@ -69,10 +69,11 @@
 
 #### Modern Java Features
 
-- Modern Java Recipes: Simple Solutions to Difficult Problems in Java 8 and 9 by Kousen, Ken
-- Modern Java in Action (JDK9) (2nd, 2018) by Raoul-Gabriel Urma, Mario Fusco
+- Core Java SE 9 for the Impatient (3rd, 2022, Cover Java 17) (2nd, 2017, Cover Java 9) (1st, 2013, Cover Java 8) by Cay S.Horstmann
+- Modern Java in Action (2nd, 2018, Cover Java 9) by Raoul-Gabriel Urma, Mario Fusco
+- Modern Java Recipes: Simple Solutions to Difficult Problems in Java 8 and 9 (2017) by Kousen, Ken
 - Java 9 Modularity: Patterns and Practices for Developing Maintainable Applications by Mak, Sander
-- Core Java SE 9 for the Impatient (2nd) by Cay S.Horstmann
+- The Java Module System (2019) by Nicolai Parlog
 
 #### Concurrency Programming
 
@@ -152,7 +153,7 @@ JVM Internals
 - The Java® Virtual Machine Specification Java SE 7 Edition - [DOC](https://docs.oracle.com/javase/specs/jvms/se7/html/index.html)
 - **The Java® Virtual Machine Specification Java SE 8 Edition** - [DOC](https://docs.oracle.com/javase/specs/jvms/se8/html/index.html), [PDF](https://docs.oracle.com/javase/specs/jvms/se8/jvms8.pdf)
 - The Java® Virtual Machine Specification Java SE 11 Edition - [DOC](https://docs.oracle.com/javase/specs/jvms/se11/html/index.html), [PDF](https://docs.oracle.com/javase/specs/jvms/se11/jvms11.pdf)
-- **Oracle JRockit: The Definitive Guide** by Marcus Hirt, Marcus Lagergren. A great book to understand JVM internals.
+- **Oracle JRockit: The Definitive Guide** (2010) by Marcus Hirt, Marcus Lagergren. A great book to understand JVM internals.
 - Inside the Java 2 Virtual Machine (2nd, 2000) by Bill Venners
 - 深入理解Java虚拟机: JVM高级特性与最佳实践 (3rd, 2019) by 周志明
 - 深入理解JVM字节码 by 张亚
@@ -164,12 +165,14 @@ JVM Internals
 
 For JVM Tuning
 
+- JVM Performance Engineering: Inside OpenJDK and the HotSpot Java Virtual Machine (2024) by Monica Beckwith
 - **Java Performance: The Definitive Guide** (2014) by Scott Oaks [4.38, 200]
 - **Java Performance: In-Depth Advice for Tuning and Programming Java 8, 11, and Beyond** (2nd, 2020) by Scott Oaks
 - **Java Performance** (2011) by Binu John and Charlie Hunt [4.12, 200]
 - Java Performance Companion (2016) by Charlie Hunt [3.77]
 - **Optimizing Java: Practical Techniques for Improving JVM Application Performance** (2018) by Benjamin J. Evans, James Gough [4.37, 46]
 - **The Well-Grounded Java Developer** (2nd, 2022) by Benjamin Evans, Jason Clark, and Martijn Verburg
+- Troubleshooting Java Performance: Detecting Anti-Patterns with Open Source Tools (2017) by Erik Ostermueller
 - Java Performance Tuning (2nd, 2003) by Jack Shirazi [3.56]
 - Java程序性能优化-让你的Java程序更快、更稳定 (2012) by 葛一鸣 (8.1)
 - 实战Java虚拟机 (2015) by 葛一鸣 (8.1)
@@ -216,7 +219,7 @@ For JRockit JVM
 
 Unit Test
 
-- JUnit in Action (34d, 2020) by Catalin Tudose
+- JUnit in Action (3rd, 2020) by Catalin Tudose
 - Practical Unit Testing with JUnit and Mockito by Tomek Kaczanowski
 - Testing Java Microservices: Using Arquillian, Hoverfly, AssertJ, JUnit, Selenium, and Mockito by Alex Soto Bueno, Andy Gumbrecht and Jason Porter
 - Java Testing with Spock by Konstantinos Kapelonis
@@ -286,7 +289,7 @@ Web Pages / Template Engines
 Java EE
 
 - [Java EE Documentation - doc](https://www.oracle.com/technetwork/java/javaee/overview/index.html)
-- **Expert One-on-One J2EE Design and Development** by Rod Johnson
+- **Expert One-on-One J2EE Design and Development** (2002) by Rod Johnson
 - Professional Java EE Design Patterns by Murat Yener, Alex Theedom
 - Java EE 7 Essentials by Arun Gupta
 - Core J2EE Patterns: Best Practices and Design Strategies by Dan Malks, Deepak Alur, and John Crupi (J2EE核心模式)
