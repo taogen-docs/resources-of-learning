@@ -762,6 +762,8 @@ Middleware - Database Cluster
 
 ### Big Data Engineering
 
+- Fundamentals of Data Engineering: Plan and Build Robust Data Systems by Joe Reis, Matt Housley
+- Data Pipelines Pocket Reference: Moving and Processing Data for Analytics by James Densmore
 - The Self-Service Data Roadmap: Democratize Data and Reduce Time to Insight (2002) by Sandeep Uttamchandani
 - Designing Cloud Data Platforms by Danil Zburivsky, Lynda Partner
 - Data Governance: The Definitive Guide: People, Processes, and Tools to Operationalize Data Trustworthiness (2021) by Evren Eryurek, Uri Gilad, Valliappa Lakshmanan, Anita Kibunguchy-Grant, Jessi Ashdown
@@ -817,6 +819,7 @@ Robots.txt
 - Artificial Intelligence: A Modern Approach by Stuart Russell, Peter Norvig
 - The Elements of Statistical Learning: Data Mining, Inference, and Prediction by Trevor Hastie, Robert Tibshirani, Jerome Friedman
 - An Introduction to Statistical Learning: With Applications in R by Gareth James, Trevor Hastie, Robert Tibshirani, Daniela Witten
+- AI and Machine Learning for Coders: A Programmer's Guide to Artificial Intelligence by Laurence Moroney 
 
 ### Machine Learning
 
@@ -831,6 +834,8 @@ Robots.txt
 - Machine Learning For Absolute Beginners: A Plain English Introduction by Oliver Theobald
 - Introduction to Machine Learning with Python: A Guide for Data Scientists by Andreas C. Müller, Sarah Guido
 - The Hundred-Page Machine Learning Book by Andriy Burkov
+- Machine Learning Design Patterns: Solutions to Common Challenges in Data Preparation, Model Building, and MLOps by Valliappa Lakshmanan, Sara Robinson, Michael Munn
+- Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications by Chip Huyen
 - 机器学习 by 周志华 (**西瓜书**)
 
 ### Deep Learning
@@ -857,6 +862,10 @@ Robots.txt
 > Deep reinforcement learning is a subfield of machine learning that combines reinforcement learning and deep learning.
 
 - Grokking Deep Reinforcement Learning (2020) by Miguel Morales
+
+### Generative AI
+
+- Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play by David Foster
 
 ### Prompt Engineering, Text Generation & Large Language Models (LLMs)
 

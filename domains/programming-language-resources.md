@@ -304,6 +304,7 @@ Prime
 - A Byte of Python by Swaroop C.H. [LINK](https://python.swaroopch.com/)
 - **Automate the Boring Stuff with Python: Practical Programming for Total Beginners** (3rd, 2024) by Al Sweigart
 - **Python Crash Course: A Hands-On, Project-Based Introduction to Programming** (3rd, 2023) by Eric Matthes
+- **Python Pocket Reference: Python In Your Pocket** (5th, 2014) by Mark Lutz 
 - **Think Python** (2nd, 2016) by Allen B. Downey
 - **Dive into Python 3** (2009) by Mark Pilgrim
 - Python Essential Reference by David M. Beazley
@@ -360,10 +361,19 @@ Some More
   - Python for Data Analysis by Wes McKinney
   - Intro to Python for Computer Science and Data Science by Paul Deitel, Harvey Deitel
 - AI
-  - Introduction to Machine Learning with Python: A Guide for Data Scientists by Andreas C. Müller and Sarah Guido
-  - Deep Learning with Python by François Chollet
-  - Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems by Aurélien Géron
-  - Natural Language Processing in Action: Understanding, analyzing, and generating text with Python (2019) by Hobson Lane, Hannes Hapke, Cole Howard
+  - Machine Learning (TensorFlow)
+    - Introduction to Machine Learning with Python: A Guide for Data Scientists by Andreas C. Müller and Sarah Guido
+    - Machine Learning Pocket Reference: Working with Structured Data in Python (2019) by Matt Harrison 
+    - Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems by Aurélien Géron
+    - TensorFlow 2 Pocket Reference: Building and Deploying Machine Learning Models by KC Tung 
+  - Deep Learning (PyTorch)
+    - Deep Learning with Python by François Chollet
+    - Deep Learning with PyTorch: Build, train, and tune neural networks using Python tools by Eli Stevens, Luca Antiga, Thomas Viehmann
+    - Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD by Jeremy Howard, Sylvain Gugger
+    - PyTorch Pocket Reference: Building and Deploying Deep Learning Models by Joe Papa
+  - NLP (Transformers)
+    - Natural Language Processing in Action: Understanding, analyzing, and generating text with Python (2019) by Hobson Lane, Hannes Hapke, Cole Howard
+    - Natural Language Processing with Transformers by Lewis Tunstall, Leandro von Werra, Thomas Wolf
 
 Resources
 
