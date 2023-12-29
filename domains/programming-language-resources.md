@@ -539,7 +539,7 @@ Programming Languages Ranking
 
 ### SQL
 
-Reference [CS Advanced Domains Resources - Database Systems](_cs-advanced-domains-resources.md#dbms_t)
+Reference [CS Advanced Domains Resources - Database Systems](/_cs-advanced-domains-resources.md#dbms_t)
 
 ### Regular Expression
 
