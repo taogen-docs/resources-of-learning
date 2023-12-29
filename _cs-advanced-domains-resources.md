@@ -476,6 +476,12 @@ Tutorials
 
 - [Try Redis](http://try.redis.io/)
 
+### MongoDB
+
+- [MongoDB Documentation](https://www.mongodb.com/docs/)
+- **MongoDB: The Definitive Guide: Powerful and Scalable Data Storage** (3rd, 2019) by Shannon Bradshaw, Eoin Brazil, Kristina Chodorow
+- MongoDB Applied Design Patterns: Practical Use Cases with the Leading NoSQL Database by Rick Copeland  
+
 <br>
 
 <h2><a name="inforetri_t" href="#inforetri_c">Information Retrieval and Search Engines</a></h2>

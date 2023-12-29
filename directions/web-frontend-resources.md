@@ -661,11 +661,14 @@ Others
 - [Node.js Docs](https://nodejs.org/en/docs/)
 - [Node.js Guides - doc](https://nodejs.org/en/docs/guides/)
 - [Node.js v13.5.0 API - doc](https://nodejs.org/api/)
-- Node.js in Action by Marc Harter, Mike Cantelon, Nathan Rajlich, and T. J. Holowaychuk
+- **Node.js in Action** (2nd, 2017) by Marc Harter, Mike Cantelon, Nathan Rajlich, and T. J. Holowaychuk
+- **Node.js Design Patterns** (3rd, 2020) by Mario Casciaro
+- **Web Development with Node and Express: Leveraging the JavaScript Stack** (2nd, 2019) by Ethan Brown
+- **Beginning Node.js, Express & MongoDB Development** (2019) by Greg Lim 
+- Beginning MERN Stack: Build and Deploy a Full Stack MongoDB, Express, React, Node.js App (2021) by Greg Lim
 - Programming JavaScript Applications: Robust Web Architecture With Node, HTML5, and Modern JS Libraries by Eric Elliott
 - Beginning Node.Js by Basarat Syed
 - Practical Node.js: Building Real-world Scalable Web Apps by Azat Mardan
-- Node.js Design Patterns by Mario Casciaro
 - Node.js in Practice by Alex R. Young, Marc Harter
 - Professional Node.Js: Building JavaScript Based Scalable Software by Pedro Teixeira
 - Learning Node by Shelley Powers
@@ -697,6 +700,8 @@ Others
 ### Databases
 
 MongoDB
+
+Reference [cs-advanced-domains-resource -  MongoDB](/_cs-advanced-domains-resources.md#mongodb)
 
 ### GraphQL
 
