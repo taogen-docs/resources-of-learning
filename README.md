@@ -13,6 +13,7 @@ General
 - [CS Fundamentals Resources](%23cs-foundations.md)
 - [CS Advanced Domains Resources](_cs-advanced-domains-resources.md)
 - [Software Development and Engineering](_cs-software-development-and-engineering.md)
+- [Programming Language Resources](/domains/programming-language-resources.md)
 - [Every Software Engineer Must Read](_software-engineer-must-read.md)
 
 Directions
