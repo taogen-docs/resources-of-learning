@@ -158,6 +158,7 @@ For Interview
 
 For Programming Contest
 
+- [OI Wiki](https://oi-wiki.org/)
 - Guide to Competitive Programming: Learning and Improving Algorithms Through Contests (2nd, 2020) by Antti Laaksonen
 - Competitive Programmer's Handbook (2020) by Antti Laaksenon
 - Programming Challenges: The Programming Contest Training Manual (2003) by Steven S Skiena
