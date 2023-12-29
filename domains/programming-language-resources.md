@@ -38,7 +38,7 @@ Introductory, no previous programming experience
 
 Introductory, with previous programming experience
 
-- A Tour of C++ by Bjarne Stroustrup
+- **A Tour of C++** (3rd, 2022) by Bjarne Stroustrup
 - Accelerated C++: Practical Programming by Example by Andrew Koenig
 - Essential C++ by Stanley B. Lippman
 
@@ -63,17 +63,24 @@ Best practices
 
 **Advanced**
 
-- Modern C++ Design: Generic Programming and Design Patterns Applied by Andrei Alexandrescu, Scott Meyers, John Vlissides
-- C++ Template Metaprogramming: Concepts, Tools, and Techniques from Boost and Beyond by David Abrahams, Aleksey Gurtovoy
-- C++ Concurrency in Action: Practical Multithreading by Anthony Williams
-- Advanced C++ Metaprogramming by Davide Di Gennaro
-- Large-Scale C++ Volume I: Process and Architecture by John S. Lakos
-- The C++ Standard Library  (2nd, 2012) by Nikolai Josuttis
-- STL源码剖析 by 侯捷
-- C++ Network Programming, Volume I: Mastering Complexity with ACE and Patterns
-  by Douglas C. Schmidt, Stephen D. Huston
-- C++ Network Programming, Volume 2: Systematic Reuse with Ace and Frameworks
-  by Douglas C. Schmidt, Stephen D. Huston
+- Dive into
+  - Modern C++ Design: Generic Programming and Design Patterns Applied by Andrei Alexandrescu, Scott Meyers, John Vlissides
+  - C++ Template Metaprogramming: Concepts, Tools, and Techniques from Boost and Beyond by David Abrahams, Aleksey Gurtovoy
+  - Advanced C++ Metaprogramming by Davide Di Gennaro
+  - Large-Scale C++ Volume I: Process and Architecture by John S. Lakos
+  - The C++ Standard Library  (2nd, 2012) by Nikolai Josuttis
+  - STL源码剖析 by 侯捷
+- Concurrency
+  - C++ Concurrency in Action: Practical Multithreading by Anthony Williams
+- Network
+  - C++ Network Programming, Volume I: Mastering Complexity with ACE and Patterns
+    by Douglas C. Schmidt, Stephen D. Huston
+  - C++ Network Programming, Volume 2: Systematic Reuse with Ace and Frameworks
+    by Douglas C. Schmidt, Stephen D. Huston
+- Efficient
+  - C++ High Performance: Master the art of optimizing the functioning of your C++ code (2nd, 2020) by Bjorn Andrist, Viktor Sehr
+  - The Art of Writing Efficient Programs: An advanced programmer's guide to efficient hardware utilization and compiler optimizations using C++ examples by Fedor G. Pikus 
+
 
 Reference Style - All Levels
 
@@ -110,18 +117,30 @@ Courses
 
 ### Go [📈](https://www.tiobe.com/tiobe-index/go/)
 
-Books
+Primary
 
 - [Go Documentation - doc](https://golang.org/doc/)
-- The Go Programming Language by Alan A. A. Donovan and Brian W. Kernighan
+- **The Go Programming Language** (2015) by Alan A. A. Donovan and Brian W. Kernighan
+- **Learning Go: An Idiomatic Approach to Real-World Go Programming** (2nd, 2024) by Jon Bodner
+- **Head First Go** (2019) by Jay McGavren
 - An Introduction to Programming in Go by Caleb Doxsey
-- Go Web Programming by Chang Sau Sheong
 - Introducing Go: Build Reliable, Scalable Programs by Caleb Doxsey
-- Concurrency in Go: Tools and Techniques for Developers by Katherine Cox-Buday
 - Go Programming Blueprints by Mat Ryer
 - Go in Action by William Kennedy, Brian Ketelsen
 - Go in Practice by Matt Butcher
-- 100 Go Mistakes and How to Avoid Them (2022) by Teiva Harsanyi
+
+Advanced
+
+- Concurrency
+  - **Concurrency in Go: Tools and Techniques for Developers** (2017) by Katherine Cox-Buddy
+- Efficient
+  - Efficient Go: Data-Driven Performance Optimization by Bartlomiej Plotka
+  - 100 Go Mistakes and How to Avoid Them (2022) by Teiva Harsanyi
+
+Application Development
+
+- **Cloud Native Go: Building Reliable Services in Unreliable Environments** (2021) by Matthew Titmus
+- Go Web Programming by Chang Sau Sheong
 
 Tutorials
 
@@ -142,14 +161,28 @@ Projects
 
 ### Rust
 
+Primary
+
 - [The Rust Programming Language - doc]( https://doc.rust-lang.org/1.30.0/book/first-edition/documentation.html )
 - [Rust Documentation - doc]( https://doc.rust-lang.org/beta/ )
 - [Learn Rust - doc](https://rust-lang.org/learn)
-- The Rust Programming Language by Carol Nichols and Steve Klabnik
-- Programming Rust: Fast, Safe Systems Development by Jason Orendorff and Jim Blandy
-- Hands-On Concurrency with Rust: Confidently Build Memory-Safe, Parallel, and Efficient Software in Rust by Brian L Troutwine
-- Programming WebAssembly with Rust: Unified Development for Web, Mobile, and Embedded Applications by Kevin Hoffman
+- **The Rust Programming Language** (2nd, 2023) by Carol Nichols and Steve Klabnik
+- **Rust for Rustaceans: Idiomatic Programming for Experienced Developers** (2021) by Jon Gjengset
+- **Programming Rust: Fast, Safe Systems Development** (2021) by Jason Orendorff and Jim Blandy
+- Command-Line Rust: A Project-Based Primer for Writing Rust CLIs by Ken Youens-Clark
 - Rust Programming By Example: Enter the World of Rust by Building Engaging, Concurrent, Reactive, and Robust Applications by Antoni Boucher and Guillaume Gomez
+- Rust in Action by Tim McNamara
+
+Advanced
+
+- Concurrency
+  - **Rust Atomics and Locks: Low-Level Concurrency in Practice** (2023) by Mara Bos
+  - Hands-On Concurrency with Rust: Confidently Build Memory-Safe, Parallel, and Efficient Software in Rust by Brian L Troutwine
+
+Application Development
+
+- **Zero To Production In Rust: An introduction to backend development** (2022) by Luca Palmieri
+- Programming WebAssembly with Rust: Unified Development for Web, Mobile, and Embedded Applications by Kevin Hoffman
 
 ### Julia
 
@@ -176,15 +209,35 @@ Projects
 
 ### C#
 
+Primary
+
 - [C# documentation - doc]( https://docs.microsoft.com/en-us/dotnet/csharp/ )
-- **C# in Depth** by Jon Skeet
-- Head First C# by Andrew Stellman
-- C# 7.0 in a Nutshell: The Definitive Reference by Joseph Albahari, Ben Albahari
-- Pro C# 7: With .NET and .NET Core by Andrew Troelsen and Philip Japikse
-- Professional C# 7 and .NET Core 2.0 by Christian Nagel
-- CLR VIA C# by Jeffrey Richter
-- Effective C#: 50 Specific Ways to Improve Your C# (3rd, 2016) by Bill Wagner
-- More Effective C#: 50 Specific Ways to Improve Your C# (2nd, 2017)by Bill Wagner
+- **Head First C#** (4th, 2021) by Andrew Stellman
+- **Learn C# in One Day and Learn It Well: C# for Beginners with Hands-on Project** by Jamie Chan
+- **The C# Player's Guide** (5th, 2022) by RB Whitaker
+- C# 10 Pocket Reference: Instant Help for C# 10 Programmers (2022) by Joseph Albahari, Ben Albahari
+- C# 12 Pocket Reference: Instant Help for C# 12 Programmers (2023) by Joseph Albahari and Ben Albahari
+- Pro C# 10 with .NET 6: Foundational Principles and Practices in Programming (11th, 2022) by Andrew Troelsen, Phil Japikse
+- Professional C# and .NET (2021) by Christian Nagel
+
+Advanced
+
+- Dive into
+  - **C# in Depth** (4th, 2019) by Jon Skeet. (C# 6 and 7)
+  - C# 10 in a Nutshell: The Definitive Reference (2022) by Joseph Albahari, Ben Albahari
+  - C# 12 in a Nutshell: The Definitive Reference (2023) by Joseph Albahari
+  - CLR VIA C# (4th, 2012) by Jeffrey Richter. (C# 9 and .NET 5)
+- Concurrency
+  - Concurrency in C# Cookbook: Asynchronous, Parallel, and Multithreaded Programming (2nd, 2019) by Stephen Cleary
+  - Concurrency in .NET: Modern patterns of concurrent and parallel programming by Riccardo Terrell
+- Effective
+  - Effective C#: 50 Specific Ways to Improve Your C# (3rd, 2016) by Bill Wagner. (C# 6)
+  - More Effective C#: 50 Specific Ways to Improve Your C# (2nd, 2017) by Bill Wagner (C# 7)
+
+Applications Development
+
+- Programming C# 10: Build Cloud, Web, and Desktop Applications by Ian Griffiths
+- C# 10 and .NET 6 – Modern Cross-Platform Development by Mark J. Price
 
 ### JavaScript 📈
 
@@ -249,10 +302,10 @@ Prime
 - **Learning Python** (5th, 2013) by David Ascher and MARK LUTZ
 - Learn Python 3 the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code by Zed Shaw
 - A Byte of Python by Swaroop C.H. [LINK](https://python.swaroopch.com/)
-- **Automate the Boring Stuff with Python: Practical Programming for Total Beginners** (2nd, 2019) by Al Sweigart
-- **Python Crash Course: A Hands-On, Project-Based Introduction to Programming** (2nd, 2019) by Eric Matthes
+- **Automate the Boring Stuff with Python: Practical Programming for Total Beginners** (3rd, 2024) by Al Sweigart
+- **Python Crash Course: A Hands-On, Project-Based Introduction to Programming** (3rd, 2023) by Eric Matthes
 - **Think Python** (2nd, 2016) by Allen B. Downey
-- **Dive into Python** by Mark Pilgrim
+- **Dive into Python 3** (2009) by Mark Pilgrim
 - Python Essential Reference by David M. Beazley
 - Introducing Python: Modern Computing in Simple Packages (2nd, 2019) by Bill Lubanovic
 - Core Python Programming by Wesley J. Chun
@@ -262,18 +315,22 @@ Prime
 
 Advanced
 
-- Python Cookbook: Recipes for Mastering Python 3 by Brian K. Jones and David M. Beazley
-- **Fluent Python** (2nd, 2022) by Luciano Ramalho
-- The Hacker's Guide to Python by Julien Danjou
-- CPython Internals: Your Guide to the Python 3 Interpreter by Anthony Shaw
-- Classic Computer Science Problems in Python (2019) by David Kopec
-- The Hitchhiker's Guide to Python: Best Practices for Development by Kenneth Reitz, Tanya Schlusser
-- Pro Python by Marty Alchin
-- Expert Python Programming by Tarek Ziadé
-- Effective Python: 59 Specific Ways to Write Better Python by Brett Slatkin
-- High Performance Python: Practical Performant Programming for Humans by Ian Ozsvald and Micha Gorelick
-- **Programming Python: Powerful Object-Oriented Programming** (4th. 2011) by Mark Lutz
-- Cython: A Guide for Python Programmers (2015) by Kurt W Smith
+- Dive into
+  - Python Cookbook: Recipes for Mastering Python 3 by Brian K. Jones and David M. Beazley
+  - **Fluent Python** (2nd, 2022) by Luciano Ramalho
+  - The Hacker's Guide to Python by Julien Danjou
+  - CPython Internals: Your Guide to the Python 3 Interpreter by Anthony Shaw
+  - Cython: A Guide for Python Programmers (2015) by Kurt W Smith
+  - Classic Computer Science Problems in Python (2019) by David Kopec
+  - Pro Python by Marty Alchin
+  - Expert Python Programming by Tarek Ziadé
+- Effective
+  - Effective Python: 59 Specific Ways to Write Better Python by Brett Slatkin
+  - High Performance Python: Practical Performant Programming for Humans by Ian Ozsvald and Micha Gorelick
+  - The Hitchhiker's Guide to Python: Best Practices for Development by Kenneth Reitz, Tanya Schlusser
+- Object-Oriented
+  - **Programming Python: Powerful Object-Oriented Programming** (4th. 2011) by Mark Lutz
+
 
 New Books
 
