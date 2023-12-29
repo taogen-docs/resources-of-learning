@@ -115,6 +115,13 @@ Courses
 - C++ 内存管理机制 by 侯捷
 - C++ Startup 揭秘 by 侯捷
 
+Web Frameworks
+
+- [Crow](https://crowcpp.org/master/) - Fast and easy. Microframework.
+- [Oat++](https://oatpp.io/) - Highly scalable and resource-efficient.
+- [Drogon](https://drogon.org/) - Fast.
+- [POCO](https://pocoproject.org/) - Simple.
+
 ### Go [📈](https://www.tiobe.com/tiobe-index/go/)
 
 Primary
@@ -141,6 +148,14 @@ Application Development
 
 - **Cloud Native Go: Building Reliable Services in Unreliable Environments** (2021) by Matthew Titmus
 - Go Web Programming by Chang Sau Sheong
+
+Web Frameworks
+
+- [Gin](https://gin-gonic.com/)
+- [FastHTTP](https://github.com/valyala/fasthttp)
+- [Echo](https://echo.labstack.com/) - High-performance.
+- [Beego](https://github.com/beego/beego) - High-performance.
+- [Fiber](https://gofiber.io/) - Rapid development.
 
 Tutorials
 
@@ -183,6 +198,13 @@ Application Development
 
 - **Zero To Production In Rust: An introduction to backend development** (2022) by Luca Palmieri
 - Programming WebAssembly with Rust: Unified Development for Web, Mobile, and Embedded Applications by Kevin Hoffman
+
+Web Frameworks
+
+- [Actix](https://actix.rs/)
+- [Rocket](https://rocket.rs/) - Simple.
+- [Axum](https://github.com/tokio-rs/axum) - Ergonomic and modular.
+- [Warp](https://github.com/seanmonstar/warp) - Easy, composable.
 
 ### Julia
 
@@ -239,6 +261,10 @@ Applications Development
 - Programming C# 10: Build Cloud, Web, and Desktop Applications by Ian Griffiths
 - C# 10 and .NET 6 – Modern Cross-Platform Development by Mark J. Price
 
+Web Frameworks
+
+- [ASP.NET Core](https://dotnet.microsoft.com/en-us/apps/aspnet)
+
 ### JavaScript 📈
 
 Reference [Web Frontend Resources - JavaScript](../directions/web-frontend-resources.md#js_t)
@@ -260,6 +286,13 @@ Reference [Java Resources](../directions/java-resources.md)
 - Agile Web Development with Rails: A Pragmatic Guide by Dave Thomas
 - Practical Object Oriented Design in Ruby by Sandi Metz
 
+Web Frameworks
+
+- [Ruby on Rails](https://rubyonrails.org/)
+- [Hanami](https://hanamirb.org/) - Simplicity.
+- [Padrino](https://padrinorb.com/) - Elegant.
+- [Sinatra](https://sinatrarb.com/) - Rapid development.
+
 ### PHP 📉
 
 - [PHP Documentation - doc]( https://www.php.net/docs.php )
@@ -277,14 +310,13 @@ Reference [Java Resources](../directions/java-resources.md)
 
 Web Frameworks
 
-- Laravel
-- Codeigniter
-- Symfony
-- Yii 2
-- Phalcon
-- CakePHP
-- Zend
-- FuelPHP
+- [Laravel](https://laravel.com/) - Elegant.
+- [Symfony](https://symfony.com/) - High performance.
+- [Codeigniter](https://www.codeigniter.com/) - Lightweight.
+- [Yii](https://www.yiiframework.com/) - Fast, secure, and efficient.
+- [Laminas (Zend Framework)](https://getlaminas.org/) - Secured.
+- [Phalcon](https://phalcon.io/en-us) - High performance.
+- [CakePHP](https://cakephp.org/) - Rapid development.
 
 ### Python 📈
 
@@ -384,14 +416,25 @@ Resources
 
 Web Frameworks
 
-- Django
-- Web2Py
-- Turbo Gears
-- CubicWeb
-- Flask
-- CherryPy
-- Bottle
-- Tornado
+- Full Stack
+  - [Django](https://www.djangoproject.com/) - Rapid development.
+  - [Web2Py](http://www.web2py.com/) - Rapid development.
+  - [Pyramid](https://trypyramid.com/) - Scalable. Start small, finish big.
+  - [Turbo Gears](https://turbogears.org/) - Scalable. Start small, finish big.
+- Micro/Lightweight
+  - [Flask](https://flask.palletsprojects.com/)
+  - [CherryPy](https://docs.cherrypy.dev/en/latest/) - Minimalist.
+  - [Bottle](https://bottlepy.org/docs/dev/) - Fast, simple and lightweight.
+  - [Falcon](https://falcon.readthedocs.io/en/stable/) - Fast, minimalist.
+- Asynchronous
+  - [Sanic](https://sanic.dev/en/)
+  - [AIOHTTP](https://docs.aiohttp.org/en/stable/)
+  - [Tornado](https://www.tornadoweb.org/en/stable/)
+- Web API
+  - [FastAPI](https://fastapi.tiangolo.com/)
+- Others
+  - [CubicWeb](https://www.cubicweb.org/)
+
 
 ### Android
 
