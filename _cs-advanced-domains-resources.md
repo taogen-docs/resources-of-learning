@@ -873,6 +873,19 @@ Robots.txt
 
 - Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play by David Foster
 
+Models
+
+- [Hugging Face](https://huggingface.co/)
+- [civitai](https://civitai.com/)
+- [Vercel AI SDK](https://sdk.vercel.ai/docs)
+- [魔搭](https://www.modelscope.cn/models) by Alibaba
+- https://openi.pcl.ac.cn/modelsquare/main (启智)
+- https://www.codewithgpu.com/image
+
+GPU Providers
+
+- [AutoDL](https://www.autodl.com/home)
+
 ### Prompt Engineering, Text Generation & Large Language Models (LLMs)
 
 > ChatGPT uses a specific type of reinforcement learning called "Reinforcement Learning from Human Feedback (RLHF)", at a high level it is an example of a Large Language Model (LLM).
