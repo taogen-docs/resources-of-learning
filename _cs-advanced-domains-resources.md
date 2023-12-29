@@ -873,8 +873,10 @@ Robots.txt
 
 - Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play by David Foster
 
-Models
+Large Language Models (LLM)
 
+- [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
+- [open-llms](https://github.com/eugeneyan/open-llms)
 - [Hugging Face](https://huggingface.co/)
 - [civitai](https://civitai.com/)
 - [Vercel AI SDK](https://sdk.vercel.ai/docs)
