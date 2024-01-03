@@ -517,6 +517,44 @@ Courses
 - Learn You a Haskell for Great Good!: A Beginner's Guide by Miran Lipovača
 - Haskell: The Craft of Functional Programming by Simon Thompson
 
+Web Frameworks
+
+- Full Stack
+	- [Yesod](https://www.yesodweb.com/)
+- API
+	- [Servant](https://www.servant.dev/)
+
+### Clojure
+
+- [Clojure Documentation](https://clojure.org/guides/getting_started)
+- Clojure for the Brave and True: Learn the Ultimate Language and Become a Better Programmer (2015) by Daniel Higginbotham
+- Programming Clojure (3rd, 2018) by Alex Miller, Stuart Halloway, Aaron Bedra
+- Getting Clojure: Build Your Functional Skills One Idea at a Time (2018) by Russ Olsen
+- The Joy of Clojure (2nd, 2014) by Michael Fogus, Chris Houser
+- Living Clojure: An Introduction and Training Plan for Developers (2015) by Carin Meier
+- Elements of Clojure (2019) by Zachary Tellman
+- Clojure Programming: Practical Lisp for the Java World (2012) by Chas Emerick, Christophe Grand, Brian Carper
+- Clojure Applied: From Practice to Practitioner (2015) by Ben Vandgrift, Alex Miller
+- Mastering Clojure Macros: Write Cleaner, Faster, Smarter Code (2014) by Colin Jones
+- Clojure in Action (2nd, 2016) by Amit Rathore, Francis Avila
+
+Web Development
+
+- Web Development with Clojure (3rd, 2021) by Dmitri Sotnikov and Scot Brown
+- Clojure Web Development Essentials (2015) by Ryan Baldwin
+
+Web Frameworks
+
+> The majority of web development in Clojure is done with a collection of libraries chosen by the development team, depending on their preferences and their needs, rather than frameworks.
+
+- [Luminus](https://luminusweb.com/) - micro-framework
+- Coast
+- Biff
+
+Dependency Management
+
+-  [Leiningen](https://leiningen.org/)
+
 ### Perl
 
 - [Perl 5.30.0 documentation]( https://perldoc.perl.org/ )
