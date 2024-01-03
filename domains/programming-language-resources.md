@@ -122,6 +122,11 @@ Web Frameworks
 - [Drogon](https://drogon.org/) - Fast.
 - [POCO](https://pocoproject.org/) - Simple.
 
+Tools
+
+- IDE: CLion, Visual Studio Code
+- Package Management: [Conan](https://conan.io/)
+
 ### Go [📈](https://www.tiobe.com/tiobe-index/go/)
 
 Primary
@@ -149,14 +154,6 @@ Application Development
 - **Cloud Native Go: Building Reliable Services in Unreliable Environments** (2021) by Matthew Titmus
 - Go Web Programming by Chang Sau Sheong
 
-Web Frameworks
-
-- [Gin](https://gin-gonic.com/)
-- [FastHTTP](https://github.com/valyala/fasthttp)
-- [Echo](https://echo.labstack.com/) - High-performance.
-- [Beego](https://github.com/beego/beego) - High-performance.
-- [Fiber](https://gofiber.io/) - Rapid development.
-
 Tutorials
 
 - [go dev](https://go.dev/)
@@ -173,6 +170,19 @@ Guidance
 Projects
 
 - [Projects - go Wiki](https://github.com/golang/go/wiki/Projects)
+
+Web Frameworks
+
+- [Gin](https://gin-gonic.com/)
+- [FastHTTP](https://github.com/valyala/fasthttp)
+- [Echo](https://echo.labstack.com/) - High-performance.
+- [Beego](https://github.com/beego/beego) - High-performance.
+- [Fiber](https://gofiber.io/) - Rapid development.
+
+Tools
+
+- IDE: GoLand, Visual Studio Code
+- Package Management: [Go Modules](https://go.dev/ref/mod)
 
 ### Rust
 
@@ -205,6 +215,12 @@ Web Frameworks
 - [Rocket](https://rocket.rs/) - Simple.
 - [Axum](https://github.com/tokio-rs/axum) - Ergonomic and modular.
 - [Warp](https://github.com/seanmonstar/warp) - Easy, composable.
+
+Tools
+
+- IDE: RustRover, Visual Studio Code
+- Package Management: [Cargo](https://doc.rust-lang.org/cargo)
+
 
 ### Julia
 
@@ -265,6 +281,11 @@ Web Frameworks
 
 - [ASP.NET Core](https://dotnet.microsoft.com/en-us/apps/aspnet)
 
+Tools
+
+- IDE: Rider, Visual Studio Code
+- Package Management: [NuGet](https://www.nuget.org/)
+
 ### JavaScript 📈
 
 Reference [Web Frontend Resources - JavaScript](../directions/web-frontend-resources.md#js_t)
@@ -293,6 +314,11 @@ Web Frameworks
 - [Padrino](https://padrinorb.com/) - Elegant.
 - [Sinatra](https://sinatrarb.com/) - Rapid development.
 
+Tools
+
+- IDE: RubyMine, Visual Studio Code
+- Package Management: [RubyGems](https://rubygems.org/)
+
 ### PHP 📉
 
 - [PHP Documentation - doc]( https://www.php.net/docs.php )
@@ -317,6 +343,11 @@ Web Frameworks
 - [Laminas (Zend Framework)](https://getlaminas.org/) - Secured.
 - [Phalcon](https://phalcon.io/en-us) - High performance.
 - [CakePHP](https://cakephp.org/) - Rapid development.
+
+Tools
+
+- IDE: PhpStorm, Visual Studio Code
+- Package Management: [Composer](https://getcomposer.org/)
 
 ### Python 📈
 
@@ -435,6 +466,10 @@ Web Frameworks
 - Others
   - [CubicWeb](https://www.cubicweb.org/)
 
+Tools
+
+- IDE: PyCharm, Visual Studio Code
+- Package Management: [pip](https://pypi.org/project/pip/)
 
 ### Android
 
@@ -553,7 +588,7 @@ Web Frameworks
 
 Dependency Management
 
--  [Leiningen](https://leiningen.org/)
+- [Leiningen](https://leiningen.org/)
 
 ### Perl
 
