@@ -100,8 +100,14 @@ Debugging
 ### AI code completion tool
 
 - [GitHub Copilot](https://copilot.github.com/) by GitHub and OpenAI
-- GitHub Copilot Chat
-- [tabnine](https://www.tabnine.com/)
+  - Individual: $10 per month or $100 per year
+  - GitHub Copilot Chat
+- [Codeium](https://codeium.com/)
+  - Individual: $0
+  - Teams: $12 per user/month
+- [tabnine](https://www.tabnine.com/) 
+  - Basic code completion: $0
+  - AI code completions: $12 per user/month
 - [kite](https://www.kite.com/)
 - [OpenAI Codex](https://openai.com/blog/openai-codex/)
 
