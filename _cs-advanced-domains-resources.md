@@ -44,7 +44,28 @@ Reference [Web Frontend Resources](directions/web-frontend-resources.md)
 
 ### Web Backend
 
+#### Web Application
+
 Reference [Web Backend - Java Resources](directions/java-resources.md)
+
+#### API Design
+
+- API Design Patterns (2021) by JJ Geewax
+- The Design of Web APIs (2019) by Arnaud Lauret
+
+#### Web Application Security
+
+Web Application Security
+
+- API Security in Action (2020) by Neil Madden
+- Bulletproof SSL and TLS: The Complete Guide to Deploying Secure Servers and Web Applications by Ivan Ristic
+- Web Application Security: Exploitation and Countermeasures for Modern Web Applications by Andrew Hoffman
+
+API Authorization
+
+- OAuth 2 in Action (2017) by Justin Richer, Antonio Sanso
+- OAuth 2.0 Simplified (2018) by Aaron Parecki
+- Solving Identity Management in Modern Applications: Demystifying OAuth 2, OpenID Connect, and SAML 2 (2nd, 2022) by Yvonne Wilson (Author), Abhishek Hingnikar
 
 #### Web Servers
 
@@ -74,10 +95,6 @@ Apache Tomcat
 
 - How Tomcat Works: A Guide to Developing Your Own Java Servlet Container by Budi Kurniawan, Paul Deck 
 
-Others
-
-- Oauth 2 in Action by Justin Richer
-- Bulletproof SSL and TLS: The Complete Guide to Deploying Secure Servers and Web Applications by Ivan Ristic
 
 <br>
 

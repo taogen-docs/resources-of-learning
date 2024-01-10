@@ -420,9 +420,12 @@ Others
 
 - Iron-Clad Java: Building Secure Web Applications by Jim Manico, August Detlefsen
 - Spring Security
-  - Spring Security in Action (2020) by Laurentiu Spilca
+  - Spring Security in Action (2nd, 2024) by Laurentiu Spilca
 
-For more, see [Information Security - Web Security](information-security-resources.md#websec_t)
+For more, see 
+
+- [CS Advanced Domains Resources - Web Application Security](../_cs-advanced-domains-resources.md#Web-Application-Security)
+- [Information Security - Web Security](information-security-resources.md#websec_t)
 
 ### Java Application Performance
 

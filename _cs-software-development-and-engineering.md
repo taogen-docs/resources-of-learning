@@ -243,10 +243,6 @@ OOP
 
 Reference [programming-language-resources - Programming Paradigms](domains/programming-language-resources.md#pgmprd_c)
 
-API Design
-
-- The Design of Web APIs by Arnaud Lauret
-- API Security in Action by Neil Madden
 
 Tutorials
 
@@ -330,6 +326,10 @@ Scalability
 - Scalability Rules: Principles for Scaling Web Sites (2016) by Martin L. Abbott,  Michael T. Fisher
 - Scalability Rules: 50 Principles for Scaling Web Sites (2011) by Martin L. Abbott,  Michael T. Fisher
 
+Security
+
+- Secure By Design (2019) by Daniel Deogun, Dan Bergh Johnsson, Daniel Sawano
+
 New Books (2019~2021)
 
 - Fundamentals of Software Architecture: An Engineering Approach (2020) by Mark Richards, Neal Ford
@@ -349,13 +349,18 @@ New Books (2019~2021)
 
 ### Microservices Architecture
 
+Microservices Architecture
+
 - **Building Microservices: Designing Fine-Grained Systems** (2nd, 2021) by Sam Newman
 - **Monolith to Microservices: Sustaining Productivity While Detangling the System** (2019) by Sam Newman
 - Microservices: Up and Running: A Step-by-Step Guide to Building a Microservice Architecture (2020) by Ronnie Mitra and Irakli Nadareishvili
-- Microservices Security in Action (2021) by Prabath Siriwardena and Nuwan Dias
 - Production-Ready Microservices (2016) by Susan J. Fowler
 - Bootstrapping Microservices with Docker, Kubernetes, and Terraform: A project-based guide (2021) by Ashley Davis
 - Strategic Monoliths and Microservices: Driving Innovation Using Purposeful Architecture by Vaughn Vernon, Tomasz Jaskula 
+
+Microservices Security
+
+- Microservices Security in Action (2021) by Prabath Siriwardena and Nuwan Dias
 
 
 ### Security Architecture
@@ -424,6 +429,11 @@ Some More
 - The Practice of Cloud System Administration: Devops and Sre Practices for Web Services, Volume 2 by Thomas A. Limoncelli, Strata R. Chalup, Christina J. Hogan
 - Operations Anti-Patterns, DevOps Solutions (2020) by Jeffery D. Smith
 
+Cloud Security
+
+- Practical Cloud Security: A Guide for Secure Design and Deployment (2019) by Chris Dotson
+- Securing DevOps: Security in the Cloud (2018) by Julien Vehent
+
 Complexity theory and systems thinking
 
 - **Antifragile: Things that Gain from Disorder** (2012) by Nassim Nicholas Taleb
@@ -470,7 +480,13 @@ Kubernetes
 - Kubernetes Operators: Automating the Container Orchestration Platform (2020) by Jason Dobies, Joshua Wood
 - Managing Kubernetes: Operating Kubernetes Clusters in the Real World (2018) by Brendan Burns, Craig Tracey 
 
-### Others
+Container Security
+
+- Container Security: Fundamental Technology Concepts that Protect Containerized Applications (2020) by Liz Rice
+- Hacking Kubernetes: Threat-Driven Analysis and Defense (2021) by Andrew Martin, Michael Hausenblas
+- Kubernetes Security and Observability: A Holistic Approach to Securing Containers and Cloud Native Applications (2021) by Brendan Creane, Amit Gupta
+
+Others
 
 - gRPC: Up and Running: Building Cloud Native Applications with Go and Java for Docker and Kubernetes by Kasun Indrasiri and Danesh Kuruppu
 - Prometheus: Up & Running: Infrastructure and Application Performance Monitoring by Brian Brazil 
