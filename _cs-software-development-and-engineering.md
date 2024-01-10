@@ -429,6 +429,11 @@ Some More
 - The Practice of Cloud System Administration: Devops and Sre Practices for Web Services, Volume 2 by Thomas A. Limoncelli, Strata R. Chalup, Christina J. Hogan
 - Operations Anti-Patterns, DevOps Solutions (2020) by Jeffery D. Smith
 
+Observability Engineering
+
+- Observability Engineering: Achieving Production Excellence (2022) by Charity Majors, Liz Fong-Jones, George Miranda
+
+
 Cloud Security
 
 - Practical Cloud Security: A Guide for Secure Design and Deployment (2019) by Chris Dotson
@@ -538,9 +543,13 @@ Others
 - **Software Engineering** (10th, 2015) by Ian Sommerville
 - **Software Engineering at Google: Lessons Learned from Programming Over Time** (2020) by Titus Winters, Tom Manshreck, Hyrum Wright
 - Software Engineering: A Practitioner's Approach by Roger S. Pressman
-- The Essentials of Modern Software Engineering by Ivar Jacobson, Harold "Bud" Lawson, Pan-Wei Ng, Paul E. McMahon, Michael Goedicke
 - The Essence of Software Engineering by Volker Gruhn and Rüdiger Striemer
 - Become an Effective Software Engineering Manager: How to Be the Leader Your Development Team Needs by Dr. Stanier, James
+
+Modern Software Engineering
+
+- Modern Software Engineering: Doing What Works to Build Better Software Faster (2021) by David Farley
+- The Essentials of Modern Software Engineering by Ivar Jacobson, Harold "Bud" Lawson, Pan-Wei Ng, Paul E. McMahon, Michael Goedicke
 
 ### Software Requirements
 

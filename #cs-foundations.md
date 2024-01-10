@@ -597,6 +597,7 @@ Parallel  Programming
 - Structured Parallel Programming: Patterns for Efficient Computation by Michael McCool
 - Introduction to High Performance Computing for Scientists and Engineers by Georg Hager, Gerhard Wellein
 - Programming with Posix Threads by David R. Butenhof
+- Parallel and High Performance Computing (2021) by Robert Robey, Yuliana Zamora
 
 <br>
 
