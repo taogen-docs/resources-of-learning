@@ -637,9 +637,16 @@ Middleware - Microservices Communication (RPC/Message/HTTP)
 
 Middleware - Database Cluster
 
-- [Mycat](http://www.mycat.io/)
-- [TiDB](https://pingcap.com/en/)
-- [alibaba/cobar](https://github.com/alibaba/cobar)
+- Data Sharding
+	- [Mycat](http://www.mycat.org.cn/)
+	- [Sharding-JDBC](https://shardingsphere.apache.org/document/4.1.1/en/manual/sharding-jdbc/)
+	- [alibaba/cobar](https://github.com/alibaba/cobar)
+	- [Citus](https://www.citusdata.com/) (for PostgreSQL)
+- PostgreSQL
+- OLAP/OLTP
+	- [Apache Doris](https://doris.apache.org/)
+	- [ClickHouse](https://clickhouse.com/)
+	- [TiDB](https://pingcap.com/en/)
 
 <br>
 
