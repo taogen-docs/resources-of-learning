@@ -635,18 +635,24 @@ Middleware - Microservices Communication (RPC/Message/HTTP)
   - Streaming Data: Understanding the real-time pipeline (2017) by Andrew Psaltis
   - Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing (2018) by Tyler Akidau, Slava Chernyak, Reuven Lax
 
-Middleware - Database Cluster
+Middleware - Database Cluster / Big Data
 
 - Data Sharding
 	- [Mycat](http://www.mycat.org.cn/)
 	- [Sharding-JDBC](https://shardingsphere.apache.org/document/4.1.1/en/manual/sharding-jdbc/)
 	- [alibaba/cobar](https://github.com/alibaba/cobar)
 	- [Citus](https://www.citusdata.com/) (for PostgreSQL)
-- PostgreSQL
-- OLAP/OLTP
+- Databases
+	- PostgreSQL
+	- Oracle
+- Analytical Databases / Data Warehouse / OLAP
 	- [Apache Doris](https://doris.apache.org/)
+	- [StarRocks](https://www.starrocks.io/)
 	- [ClickHouse](https://clickhouse.com/)
-	- [TiDB](https://pingcap.com/en/)
+	- [Greenplum](https://greenplum.org/) (Based on PostgreSQL)
+- OLAP+OLTP
+	- [TiDB](https://pingcap.com/en/) 社区版（加 TiFlash，HTAP）
+	- [OceanBase](https://www.oceanbase.com/) 企业版
 
 <br>
 
