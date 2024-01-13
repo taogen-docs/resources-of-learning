@@ -212,6 +212,7 @@ Intermediate
 - ⭐**Eloquent JavaScript: A Modern Introduction to Programming** (3rd, 2018) by Marijn Haverbeke
 - Speaking JavaScript: An In-Depth Guide for Programmers by Axel Rauschmayer
 - The Joy of JavaScript by Luis Atencio
+- JavaScript Cookbook: Programming the Web (3rd, 2021) by Adam Scott, Matthew MacDonald, Shelley Powers
 
 Advanced
 
@@ -331,6 +332,7 @@ Rank
 - **Programming TypeScript: Making Your JavaScript Applications Scale** (2019) by Boris Cherny
 - **Effective TypeScript: 62 Specific Ways to Improve Your TypeScript** (2019) by Dan Vanderkam 
 - **Pro TypeScript: Application-Scale JavaScript Development** (2nd, 2017) by Steve Fenton
+- Learning TypeScript: Enhance Your Web Development Skills Using Type-Safe JavaScript (2022) by Josh Goldberg
 - Mastering TypeScript by Nathan Rozentals
 - TypeScript Essentials by Christopher Nance
 - Angular 2 Development with TypeScript by Anton Moiseev and Yakov Fain
