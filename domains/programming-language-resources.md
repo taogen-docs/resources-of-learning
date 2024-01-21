@@ -151,6 +151,19 @@ Advanced
 
 Application Development
 
+<details>
+    <summary>关于 Go Web 框架 - Click to expand!</summary>
+不建议用 Go 写 Web ，可以用来完成一些基础设施类工作。Go 这边的 Web 框架，比如 gin 那种，其实都是非常轻量级的，属于 http 增强库，和 spring 全家桶不是一回事。Go 这边我觉得可以认为不具有诞生 springboot 类的土壤。
+
+Go 的 Web 框架基本都是标准库套壳。也可以看看 fiber 这种用 fasthttp 的。
+
+Go 是用来写底层服务的，不适合写应用层面的东西。
+
+gin，其他想要什么组件可以自己加上去。
+
+可以自己试着用用，组合出一套顺手的技术栈。
+</details>
+
 - **Cloud Native Go: Building Reliable Services in Unreliable Environments** (2021) by Matthew Titmus
 - Go Web Programming by Chang Sau Sheong
 
