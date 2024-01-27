@@ -111,6 +111,36 @@ Debugging
 - [kite](https://www.kite.com/)
 - [OpenAI Codex](https://openai.com/blog/openai-codex/)
 
+### Chatbot
+
+#### AI Chatbot
+
+Official Chatbot
+
+|Chatbot|Model|Features|
+|---|---|---|
+|[ChatGPT by Open AI](https://chat.openai.com/)|GPT-3.5, GPT-4 |Best overall|
+|[Microsoft Copilot Pro](https://www.microsoft.com/en-us/store/b/copilotpro)|GPT-4 |Web Search|
+|[Bard by Google](https://bard.google.com/chat)|Gemini Pro|Integration with Google apps|
+|[Claude by Anthropic](https://claude.ai)|Claude|Longest conversation memory|
+
+
+Chatbot wrapper
+
+- [Perplexity AI](https://www.perplexity.ai/)
+- [YouChat](https://you.com/)
+- [Poe](https://poe.com/)
+
+#### AI Models
+
+- Open AI - GPT-4-Turbo
+- Google - Bard (Gemini Pro)
+- Mistral - Mistral Medium
+- Anthropic - Claude
+- Meta - Llama-2
+
+[LMSys Chatbot Arena Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)
+
 ### Git
 
 - Pro Git by Ben Straub and Scott Chacon
