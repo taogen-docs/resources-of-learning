@@ -867,6 +867,7 @@ Finding technology trends
   - for the Future of Applications
   - for Emerging Tech
   - for Software Engineering
+- [Technology Radar by thoughtworks](https://www.thoughtworks.com/radar)
 
 Uncategorized
 
