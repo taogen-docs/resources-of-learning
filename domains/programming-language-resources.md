@@ -141,6 +141,12 @@ Primary
 - Go in Action by William Kennedy, Brian Ketelsen
 - Go in Practice by Matt Butcher
 
+Style Guide
+
+- [The Uber Go Style Guide](https://github.com/uber-go/guide)
+- [Go Code Review Comments](https://go.dev/wiki/CodeReviewComments)
+- [Standard Go Project Layout](https://github.com/golang-standards/project-layout)
+
 Advanced
 
 - Concurrency
