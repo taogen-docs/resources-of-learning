@@ -100,16 +100,19 @@ Debugging
 
 ### AI code completion tool
 
-- [GitHub Copilot](https://copilot.github.com/) by GitHub and OpenAI
-  - Individual: $10 per month or $100 per year
-  - GitHub Copilot Chat
+- [GitHub Copilot](https://copilot.github.com/) + GitHub Copilot Chat by GitHub and OpenAI
+  - Individual: $10/month or $100/year
+  - Organization: 
+    - Copilot Business: $19/user/month
 - [Codeium](https://codeium.com/)
   - Individual: $0
-  - Teams: $12 per user/month
+  - Teams: $12/user/month
+- [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/)
+  - Individual: $0
+  - Professional: $19/user/month
 - [tabnine](https://www.tabnine.com/) 
   - Basic code completion: $0
-  - AI code completions: $12 per user/month
-- [kite](https://www.kite.com/)
+  - AI code completions: $12/user/month
 - [OpenAI Codex](https://openai.com/blog/openai-codex/)
 
 ### Chatbot
@@ -128,9 +131,9 @@ Official Chatbot
 
 Chatbot wrapper
 
-- [Perplexity AI](https://www.perplexity.ai/)
-- [YouChat](https://you.com/)
-- [Poe](https://poe.com/)
+- [Perplexity AI](https://www.perplexity.ai/). Web search.
+- [YouChat](https://you.com/). Web search.
+- [Poe](https://poe.com/). Multiple AI models. 
 
 #### AI Models
 
