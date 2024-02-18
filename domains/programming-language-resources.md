@@ -389,6 +389,7 @@ Prime
 - **Python Pocket Reference: Python In Your Pocket** (5th, 2014) by Mark Lutz 
 - **Think Python** (2nd, 2016) by Allen B. Downey
 - **Dive into Python 3** (2009) by Mark Pilgrim
+- **The Hitchhiker's Guide to Python: Best Practices for Development** by Kenneth Reitz, Tanya Schlusser. [HTML](https://docs.python-guide.org/)
 - Python Essential Reference by David M. Beazley
 - Introducing Python: Modern Computing in Simple Packages (2nd, 2019) by Bill Lubanovic
 - Core Python Programming by Wesley J. Chun
@@ -410,7 +411,6 @@ Advanced
 - Effective
   - Effective Python: 59 Specific Ways to Write Better Python by Brett Slatkin
   - High Performance Python: Practical Performant Programming for Humans by Ian Ozsvald and Micha Gorelick
-  - The Hitchhiker's Guide to Python: Best Practices for Development by Kenneth Reitz, Tanya Schlusser
 - Object-Oriented
   - **Programming Python: Powerful Object-Oriented Programming** (4th. 2011) by Mark Lutz
 
