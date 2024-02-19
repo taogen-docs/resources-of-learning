@@ -22,7 +22,7 @@
   - <a name="sre_c" href="#sre_t">SRE</a>
 - Part IV: Software Engineering & Project Management
   - <a name="softeng_c" href="#softeng_t">Software Engineering</a>
-  - <a name="agile_c" href="#agile_t">Team and Agile</a>
+  - <a name="spm_c" href="#spm_t">Software Project Management</a>
   - <a name="test_c" href="#test_t">Software Testing and Quality Assurance</a>
 - Part V: Others
   - <a name="career_c" href="#career_t">Career</a>
@@ -606,7 +606,7 @@ Modern Software Engineering
 - Code Ahead: Volume 1 (2018) by Yegor Bugayenko
 - 201 Principles of Software Development by Alan M. Davis
 
-<h2><a name="agile_t" href="#agile_c">Team and Agile</a></h2>
+<h2><a name="spm_t" href="#spm_c">Software Project Management</a></h2>
 
 > Project management triangle: Time, cost and quality – Pick two.
 
@@ -614,31 +614,73 @@ Modern Software Engineering
 
 > Management is doing things right; leadership is doing the right things.
 
-Team and Agile
+### Software Project Management
 
-- **Extreme Programming Explained: Embrace Change** (2nd, 2004) by Kent Beck
-- **The Mythical Man-Month: Essays on Software Engineering** (Anniversary Edition 2nd, 1996) by Jr·Frederick P·Brooks 
+- **The Mythical Man-Month: Essays on Software Engineering** (Anniversary Edition 2nd, 1996) by Jr·Frederick P·Brooks
 - **Peopleware: Productive Projects and Teams** (2013) by Tom DeMarco
-- **Clean Agile: Back to Basics** (2019) by Robert C. Martin
-- **Scrum and XP from the Trenches** (2nd, 2015) by Henrik Kniberg
-- **Scrum: The Art of Doing Twice the Work in Half the Time** (2014) by Jeff Sutherland
 - **The Goal: A Process of Ongoing Improvement** (3rd, 2004) by Eliyahu M. Goldratt
-- **Lean from the Trenches** (2011) by Henrik Kniberg
 - **Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency** (2001) by Tom DeMarco
-- **The Software Craftsman: Professionalism, Pragmatism, Pride** (2014) by Sandro Mancuso 
-- **Implementing Lean Software Development: From Concept to Cash** (2006) by Mary Poppendieck
-- **The Art of Agile Development** (2nd, 2021) by James Shore, Shane Warden 
-- **The Agile Samurai** (2013) by Jonathan Rasmusson
+- **The Software Craftsman: Professionalism, Pragmatism, Pride** (2014) by Sandro Mancuso
 - **Managing Humans: Biting and Humorous Tales of a Software Engineering Manager** (2016) by Michael Lopp
 - **The Five Dysfunctions of a Team: A Leadership Fable** (2011) by Patrick Lencioni
-- The Nature of Software Development: Keep It Simple, Make It Valuable, Build It Piece by Piece (2015) by Ron Jeffries 
-- Lean Software Development: An Agile Toolkit by Mary Poppendieck, Tom Poppendieck, Ken Schwaber
+- The Nature of Software Development: Keep It Simple, Make It Valuable, Build It Piece by Piece (2015) by Ron Jeffries
 - Timeless Laws of Software Development by Jerry Fitzpatrick
 - Rapid Development: Taming Wild Software Schedules by Steve McConnell
-- Lean thinking  banish waste and creat wealth in your corporation by James P.Womack 
-- Learning Agile by Andrew Stellman
 - Ship It! by Jared Richardson
 - Working with Coders: A Guide to Software Development for the Perplexed Non-Techie by Patrick Gleeson
+
+Some More
+
+- Specification by Example by Gojko Adzic
+- User Stories Applied:For Agile Software Development by Mike Cohn
+- User Story Mapping Building Better Products using Agile Software Design by Jeff Patton
+- Manage Your Project Portfolio by Johanna Rothman
+
+### Agile
+
+> Agile: Agile methodologies, including Scrum, Kanban, and Extreme Programming (XP), prioritize adaptability, collaboration, and iterative development. They involve breaking the project into small increments called "sprints" and focusing on delivering working software in short cycles.
+
+Agile
+
+- **Clean Agile: Back to Basics** (2019) by Robert C. Martin
+- **The Art of Agile Development** (2nd, 2021) by James Shore, Shane Warden
+- **The Agile Samurai** (2013) by Jonathan Rasmusson
+- Learning Agile by Andrew Stellman
+- Agile Retrospectives：Making Good Teams Great by Esther Derby , Diana Larsen,Ken Schwaber
+- Coaching Agile Teams: A Companion for ScrumMasters,Agile Coaches, and Project Managers in Transition by Lyssa Adkins
+- Agile Project Management with Scrum by Ken Schwaber
+- Succeeding with Agile:Software development using Scrum by Mike Cohn
+- Agile Estimating and Planning by Mike Cohn
+
+Extreme Programming (XP)
+
+> Extreme Programming (XP) is an Agile software development methodology that prioritizes customer satisfaction, adaptability, and high-quality software. It involves iterative development, continuous planning, small releases, pair programming, test-driven development, continuous integration, and close collaboration with an onsite customer representative. XP aims to deliver working software frequently, respond quickly to changes, and maintain a sustainable and productive team environment.
+
+- **Extreme Programming Explained: Embrace Change** (2nd, 2004) by Kent Beck
+
+Scrum
+
+> Scrum is an Agile framework that follows an iterative and incremental approach. It divides the project into time-bound iterations called "sprints" and employs a cross-functional team to deliver working software at the end of each sprint. Scrum emphasizes close collaboration, regular meetings (sprint planning, daily stand-ups, sprint review, and retrospective), and a product backlog for prioritizing and managing work.
+
+- **Scrum and XP from the Trenches** (2nd, 2015) by Henrik Kniberg
+- **Scrum: The Art of Doing Twice the Work in Half the Time** (2014) by Jeff Sutherland
+
+Kanban
+
+> Kanban is another Agile methodology that visualizes the workflow using a Kanban board. It focuses on limiting work-in-progress, optimizing flow, and continuously improving the delivery process. Kanban provides clear visibility into the status of each task and helps teams identify bottlenecks and optimize their work.
+
+- **Kanban: Successful Evolutionary Change for Your Technology Business** (2013) by David J. Anderson
+
+### Lean Software
+
+> Lean Software Development applies Lean principles, originally from the manufacturing industry, to software development. It aims to eliminate waste, optimize processes, and deliver value efficiently. Lean methodologies emphasize value stream mapping, continuous improvement, and reducing non-value-added activities.
+
+- **Lean from the Trenches** (2011) by Henrik Kniberg
+- **Implementing Lean Software Development: From Concept to Cash** (2006) by Mary Poppendieck
+- Lean Software Development: An Agile Toolkit by Mary Poppendieck, Tom Poppendieck, Ken Schwaber
+- Lean thinking  banish waste and creat wealth in your corporation by James P.Womack 
+
+### Others
 
 Project Management
 
@@ -687,22 +729,9 @@ Open Source Organization
 Business
 
 - **The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses** (2011) by Eric Ries
-- **Kanban: Successful Evolutionary Change for Your Technology Business** (2013) by David J. Anderson
 - Necessary But Not Sufficient: A Theory Of Constraints Business Novel by Eliyahu M. Goldratt
 
 
-Some More
-
-- Specification by Example by Gojko Adzic
-- Agile Retrospectives：Making Good Teams Great by Esther Derby , Diana Larsen,Ken Schwaber
-- Coaching Agile Teams: A Companion for ScrumMasters,Agile Coaches, and Project Managers in Transition by Lyssa Adkins
-- Agile Project Management with Scrum by Ken Schwaber
-- Succeeding with Agile:Software development using Scrum by Mike Cohn
-- Agile Estimating and Planning by Mike Cohn
-- Kanban: Successful Evolutionary Change for Your Technology Business by David J.Anderson
-- User Stories Applied:For Agile Software Development by Mike Cohn
-- User Story Mapping Building Better Products using Agile Software Design by Jeff Patton
-- Manage Your Project Portfolio by Johanna Rothman 
 
 <br>
 
