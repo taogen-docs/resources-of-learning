@@ -638,7 +638,7 @@ Some More
 
 ### Agile
 
-> Agile: Agile methodologies, including Scrum, Kanban, and Extreme Programming (XP), prioritize adaptability, collaboration, and iterative development. They involve breaking the project into small increments called "sprints" and focusing on delivering working software in short cycles.
+> Agile methodologies, including Scrum, Kanban, and Extreme Programming (XP), prioritize adaptability, collaboration, and iterative development. They involve breaking the project into small increments called "sprints" and focusing on delivering working software in short cycles.
 
 Agile
 
