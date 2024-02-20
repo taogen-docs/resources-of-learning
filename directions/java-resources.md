@@ -447,6 +447,10 @@ Releases
 - [JDK Releases](https://www.java.com/releases/)
 - [JDK Releases - matrix](https://www.java.com/releases/matrix/)
 
+README
+
+- [Java SE README Files](https://www.oracle.com/java/technologies/java-readme.html)
+
 #### Maven
 
 - [Maven Users Centre](https://maven.apache.org/users/index.html)
