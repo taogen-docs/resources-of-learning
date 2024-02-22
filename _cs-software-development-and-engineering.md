@@ -779,6 +779,16 @@ Business
   by Gayle Laakmann McDowell and Jackie Bavaro
 - What Color Is Your Parachute? 2020: A Practical Manual for Job-Hunters and Career-Changers by Richard N. Bolles
 
+Programmer's Survival Manual
+
+- 唬得住要 50k，唬不住要 5k。
+- If it works don't touch it。
+- 鄙视屎山 -> 理解屎山 -> 成为屎山 -> 超越屎山。
+- 重启能解决90%的问题。
+- 要么忍，要么滚。
+- 代码和人，有一个能跑就行。
+- 骑驴找马。
+
 Resume
 
 - The Google Resume: How to Prepare for a Career and Land a Job at Apple, Microsoft, Google, Or Any Top Tech Company by Gayle Laakmann McDowell

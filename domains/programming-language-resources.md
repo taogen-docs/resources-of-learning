@@ -370,6 +370,8 @@ Tools
 
 ### Python 📈
 
+> Life is short (You need Python) - Bruce Eckel
+
 Prime
 
 - [The Python Tutorial - doc](https://docs.python.org/3/tutorial/)
