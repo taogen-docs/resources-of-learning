@@ -782,7 +782,7 @@ Business
 Programmer's Survival Manual
 
 - 唬得住要 50k，唬不住要 5k。
-- If it works don't touch it。
+- 能跑就不要动。（If it works don't touch it）
 - 鄙视屎山 -> 理解屎山 -> 成为屎山 -> 超越屎山。
 - 重启能解决90%的问题。
 - 要么忍，要么滚。
