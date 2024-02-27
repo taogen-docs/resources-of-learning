@@ -478,6 +478,7 @@ Must Read
 - **The Little Redis Book** (Free Book, 2012) by Karl Seguin. [GitHub](https://github.com/karlseguin/the-little-redis-book) 
 - **Redis in Action** (2013) by Josiah L. Carlson
 - **Redis Cookbook** (2011) by Tiago Macedo and Fred Oliveira
+- Redis 深度历险：核心原理与应用实践 by 钱文品
 
 Some More
 
