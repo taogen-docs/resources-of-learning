@@ -115,24 +115,24 @@ Playground
 
 Prime
 
-- Grokking Algorithms An Illustrated Guide For Programmers and Other Curious People (2016) by Aditya Y. Bhargava
-- **Algorithms** (4th, 2011) by Robert Sedgewick
+- **Grokking Algorithms An Illustrated Guide For Programmers and Other Curious People** (2016) by Aditya Y. Bhargava [4.41, 4217]
+- **Algorithms** (4th, 2011) by Robert Sedgewick [4.41, 1757]
 - Mark A. Weiss
-  - Data Structures and Algorithm Analysis in C (2nd, 1996) by Mark A. Weiss
-  - Data Structures and Algorithm Analysis in Java (3rd, 2011) by Mark A. Weiss
+  - Data Structures and Algorithm Analysis in C (2nd, 1996) by Mark A. Weiss [3.84, 134]
+  - Data Structures and Algorithm Analysis in Java (3rd, 2011) by Mark A. Weiss [3.66, 99]
   - Data Structures and Algorithm Analysis in C++ (4th, 2013) by Mark A. Weiss
-- Data Structures and Algorithm Analysis in C++ (3rd, 2011) by Clifford A. Shaffer
-- **Algorithms + Data Structures = Programs** (1976) by Niklaus Wirth
+- Data Structures and Algorithm Analysis in C++ (3rd, 2011) by Clifford A. Shaffer [3.75, 8]
+- **Algorithms + Data Structures = Programs** (1976) by Niklaus Wirth [4.24, 202]
 - A Common-Sense Guide to Data Structures and Algorithms: Level Up Your Core Programming Skills (2nd, 2020) by Jay Wengrow
 - 我的第一本算法书 by [日]石田保辉, 宮崎修一
 
 Advanced
 
-- Algorithm Design (2005) by Jon Kleinberg, Éva Tardos 
-- The Algorithm Design Manual (2010) by Steven S Skiena 
-- **Introduction to Algorithms** (4th, 2022) by Charles E. Leiserson, Clifford Stein, Ronald Rivest, and Thomas H. Cormen (**CLRS**: authors abbreviation)
-- **Algorithms** (2006) by Sanjoy Dasgupta
-- **The Art of Computer Programming** Volumes 1-4 by Donald.E.Knuth (**TAOCP**)
+- **Introduction to Algorithms** (4th, 2022) by Charles E. Leiserson, Clifford Stein, Ronald Rivest, and Thomas H. Cormen (**CLRS**: authors abbreviation) [4.35, 8909]
+- **The Algorithm Design Manual** (2010) by Steven S Skiena [4.35, 2597]
+- **Algorithm Design** (2005) by Jon Kleinberg, Éva Tardos [4.16, 613]
+- **Algorithms** (2006) by Sanjoy Dasgupta [4.24, 453]
+- **The Art of Computer Programming** Volumes 1-4 by Donald.E.Knuth (**TAOCP**) [4.38, 1857]
   - Vol. 1: Fundamental Algorithms
   - Vol 2: Seminumerical Algorithms
   - Vol 3: Sorting and Searching 
@@ -322,22 +322,22 @@ For Electronics and Electric Circuits
 
 Prime
 
-- Code: The Hidden Language of Computer Hardware and Software (1999) by Charles Petzold
-- The Elements of Computing Systems: Building a Modern Computer from First Principles (2005) by Noam Nisan, Shimon Schocken 
-- Introduction to Computing Systems: From Bits and Gates to C and Beyond (2003) by Yale N. Patt and Sanjay J. Patel (**ICS**)
-- How Computers Really Work: A Hands-On Guide to the Inner Workings of the Machine (2020) by Matthew Justice
-- The Secret Life of Programs: Understand Computers -- Craft Better Code (2019) by Jonathan E. Steinhart
-- Engines of Logic: Mathematicians & the Origin of the Computer by Martin D. Davis
+- **Code: The Hidden Language of Computer Hardware and Software** (1999) by Charles Petzold [4.39, 9421]
+- The Elements of Computing Systems: Building a Modern Computer from First Principles (2005) by Noam Nisan, Shimon Schocken [4.55, 864]
+- Engines of Logic: Mathematicians & the Origin of the Computer by Martin D. Davis [4.10, 463]
+- Introduction to Computing Systems: From Bits and Gates to C and Beyond (2003) by Yale N. Patt and Sanjay J. Patel (**ICS**) [3.85, 112]
+- How Computers Really Work: A Hands-On Guide to the Inner Workings of the Machine (2020) by Matthew Justice [4.36, 95]
+- The Secret Life of Programs: Understand Computers -- Craft Better Code (2019) by Jonathan E. Steinhart [3.92, 49]
 - 支撑处理器的技术:永无止境地追求速度的世界 by [日] Hisa Ando
 - 穿越计算机的迷雾 by 李忠
 
 Must Read
 
-- **Computer Organization and Design MIPS Edition: the Hardware/Software Interface** (6th, 2020) by David A Patterson John L Hennessy and John L. Hennessy
+- **Computer Organization and Design MIPS Edition: the Hardware/Software Interface** (6th, 2020) by David A Patterson John L Hennessy and John L. Hennessy [3.97, 1641]
 - Computer Organization and Design ARM Edition: The Hardware Software Interface (2016) by David A Patterson John L Hennessy and John L. Hennessy
 - Computer Organization and Design RISC-V Edition: The Hardware Software Interface (2nd, 2020) by David A Patterson John L Hennessy and John L. Hennessy
-- **Computer Architecture: A Quantitative Approach** (6th, 2017) by David A Patterson John L Hennessy and John L. Hennessy
-- **Computer Systems: A Programmer‘s Perspective** (3rd, 2015) by Randal E.Bryant, David O'Hallaron (**CSAPP**)
+- **Computer Architecture: A Quantitative Approach** (6th, 2017) by David A Patterson John L Hennessy and John L. Hennessy [4.11, 1088]
+- **Computer Systems: A Programmer‘s Perspective** (3rd, 2015) by Randal E.Bryant, David O'Hallaron (**CSAPP**) [4.45, 1034]
 
 Some More
 
@@ -381,11 +381,11 @@ Courses
 
 Prime
 
-- How to Design Programs: An Introduction to Programming and Computing (2018) by Matthias Felleisen
+- How to Design Programs: An Introduction to Programming and Computing (2018) by Matthias Felleisen [4.02, 263]
 
 The Little Schemer Series
 
-- **The Little Schemer** (4th, 1995) by Daniel P. Friedman. Formerly known as *The Little LISPer*.
+- **The Little Schemer** (4th, 1995) by Daniel P. Friedman. Formerly known as *The Little LISPer*. [4.29, 1953]
 - The Seasoned Schemer (2nd, 1995) by Daniel P. Friedman, Matthias Felleisen
 - The Reasoned Schemer (2nd, 2018) by Daniel P. Friedman, William E. Byrd, Oleg Kiselyov
 - The Little Prover (2015) by Daniel P. Friedman, Carl Eastlund
@@ -395,28 +395,28 @@ The Little Schemer Series
 
 Must Read
 
-- **Structure and Interpretation of Computer Programs** (2nd, 1996) by Harold Abelson (**SICP**)
-- Essentials of Programming Languages (2001) by Daniel P. Friedman, Mitchell Wand (**EOPL**)
-- Types and Programming Languages (2002) by Benjamin C. Pierce (**TAPL**)
-- **Compilers: Principles, Techniques, and Tools** (2nd, 2006) by  Alfred V. Aho and Monica S. Lam (**龙书**)
-- Modern Compiler Implementation in C (2004) by Andrew W. Appel (**虎书**)
-- Advanced Compiler Design and Implementation (1997) by Steven Muchnick (**鲸书**)
-- Concepts, Techniques, and Models of Computer Programming (2004) by Peter Van Roy, Seif Haridi
-- Crafting Interpreters (2021) by Robert Nystrom
+- **Structure and Interpretation of Computer Programs** (2nd, 1996) by Harold Abelson (**SICP**) [4.46, 4670]
+- **Compilers: Principles, Techniques, and Tools** (2nd, 2006) by  Alfred V. Aho and Monica S. Lam (**龙书**) [4.09, 2965]
+- Types and Programming Languages (2002) by Benjamin C. Pierce (**TAPL**) [4.27, 553]
+- Crafting Interpreters (2021) by Robert Nystrom [4.71, 290]
+- Essentials of Programming Languages (2001) by Daniel P. Friedman, Mitchell Wand (**EOPL**) [3.97, 144]
+- Modern Compiler Implementation in C (2004) by Andrew W. Appel (**虎书**) [3.70, 40]
+- Advanced Compiler Design and Implementation (1997) by Steven Muchnick (**鲸书**) [3.89, 90]
+- Concepts, Techniques, and Models of Computer Programming (2004) by Peter Van Roy, Seif Haridi [4.11, 242]
 - My First Language Frontend with LLVM Tutorial [HTML](https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html)
 
 Some More
 
-- Engineering a Compiler (2003) by Keith Cooper and Linda Torczon 
-- Parsing Techniques (2008) by Dick Grune, Ceriel J.H. Jacobs 
-- 程序员的自我修养 (2009) by 俞甲子, 石凡, 潘爱民 
-- Language Implementation Patterns: Techniques for Implementing Domain-Specific Languages by Terence Parr
-- Writing Compilers and Interpreters: A Software Engineering Approach by Ronald Mak
-- Practical Foundations for Programming Languages by Robert Harper
+- Domain-Specific Languages by Martin Fowler [3.87, 319]
+- Crafting Interpreters by Robert Nystrom [link](https://craftinginterpreters.com/). learn by doing [4.71, 290]
+- Engineering a Compiler (2003) by Keith Cooper and Linda Torczon [4.05, 187]
+- Language Implementation Patterns: Techniques for Implementing Domain-Specific Languages by Terence Parr [3.87, 183]
+- Writing Compilers and Interpreters: A Software Engineering Approach by Ronald Mak [3.91, 66]
+- Practical Foundations for Programming Languages by Robert Harper [3.90, 58]
+- Parsing Techniques (2008) by Dick Grune, Ceriel J.H. Jacobs [4.20, 35]
 - The Definitive ANTLR 4 Reference by Terence Parr
-- Domain-Specific Languages by Martin Fowler
-- Crafting Interpreters by Robert Nystrom [link](https://craftinginterpreters.com/). learn by doing
-- Optimizing Compilers for Modern Architectures: A Dependence-Based Approach by Randy Allen, Ken Kennedy
+- Optimizing Compilers for Modern Architectures: A Dependence-Based Approach by Randy Allen, Ken Kennedy [4.42, 19]
+- 程序员的自我修养 (2009) by 俞甲子, 石凡, 潘爱民
 
 Papers
 
@@ -424,14 +424,14 @@ Papers
 
 Programming Language Design
 
-- Programming Language Pragmatics (4th, 2015) by Michael L. Scott
-- Purely Functional Data Structures by Chris Okasaki
-- The Art of the Metaobject Protocol by Gregor Kiczales, Jim Des Rivieres, Daniel G. Bobrow
-- The Design and Evolution of C++ by Bjarne Stroustrup
-- Build Your Own Lisp by Daniel Holden
+- **Programming Language Pragmatics** (4th, 2015) by Michael L. Scott [3.96, 1670]
+- Purely Functional Data Structures by Chris Okasaki [4.15, 659]
+- The Design and Evolution of C++ by Bjarne Stroustrup [4.30, 321]
+- Writing An Interpreter In Go by Thorsten Ball [4.58, 235]
+- The Art of the Metaobject Protocol by Gregor Kiczales, Jim Des Rivieres, Daniel G. Bobrow [4.22, 136]
+- Build Your Own Lisp by Daniel Holden [4.07, 74]
 - Algorithms Plus Data Structures Equals Programs by Niklaus Wirth
-- Writing An Interpreter In Go by Thorsten Ball
-- The Garbage Collection Handbook: The Art of Automatic Memory Management by Richard Jones
+- The Garbage Collection Handbook: The Art of Automatic Memory Management by Richard Jones [4.43, 49]
 
 <br>
 
@@ -441,18 +441,18 @@ Programming Language Design
 
 Must Read 
 
-- **Operating Systems: Three Easy Pieces** (2015) by Andrea C. Arpaci-Dusseau and Remzi H. Arpaci-Dusseau
-- **Operating System Concepts** (10th, 2018) by Abraham Silberschatz,  Peter B. Galvin, Greg Gagne
-- **Modern Operating Systems** (4th, 2014) by Andrew S. Tanenbaum
-- Applied Operating Systems Concepts by Abraham Silberschatz, Peter Baer Galvin, Greg Gagne
-- Operating Systems (3rd, 2003) by Harvey Deitel,  Paul Deitel, David R. Choffnes 
+- **Operating Systems: Three Easy Pieces** (2015) by Andrea C. Arpaci-Dusseau and Remzi H. Arpaci-Dusseau [4.69, 593]
+- **Operating System Concepts** (10th, 2018) by Abraham Silberschatz,  Peter B. Galvin, Greg Gagne [3.90, 2143]
+- **Modern Operating Systems** (4th, 2014) by Andrew S. Tanenbaum [4.14, 2088]
+- Applied Operating Systems Concepts by Abraham Silberschatz, Peter Baer Galvin, Greg Gagne [4.01, 67]
+- Operating Systems (3rd, 2003) by Harvey Deitel,  Paul Deitel, David R. Choffnes [4.09, 82]
 
 Some More
 
-- **Operating Systems Design and Implementation** (3rd, 2006) by Andrew S. Tanenbaum,  Albert S. Woodhull 
-- Principles of Computer System Design: An Introduction by Jerome H. Saltzer
-- Systems Performance (2013) by Brendan Gregg
-- Operating Systems: Principles and Practice (2nd, 2015) by Thomas Anderson, Michael Dahlin
+- **Operating Systems Design and Implementation** (3rd, 2006) by Andrew S. Tanenbaum,  Albert S. Woodhull [4.11, 529]
+- Principles of Computer System Design: An Introduction by Jerome H. Saltzer [3.64, 45]
+- Systems Performance (2013) by Brendan Gregg [4.50, 419]
+- Operating Systems: Principles and Practice (2nd, 2015) by Thomas Anderson, Michael Dahlin [4.27, 33]
 - Orange'S:一个操作系统的实现 (2009) by 于渊
 - 操作系统真象还原 (2016) by 郑钢
 - 一个64位操作系统的设计与实现 (2018) by 田宇
@@ -471,29 +471,29 @@ System and Command Line
 
 - [Linux Documentation Project Guides](https://tldp.org/guides.html)
   - Linux Filesystem Hierarchy by Binh Nguyen [HTML](https://tldp.org/LDP/Linux-Filesystem-Hierarchy/html/), [PDF](https://tldp.org/LDP/Linux-Filesystem-Hierarchy/Linux-Filesystem-Hierarchy.pdf)
-- **The Linux Command Line: A Complete Introduction** (2nd, 2019) by William E. Shotts, Jr.
-- **Linux Pocket Guide** (3rd, 2016) by Daniel J. Barrett
-- **Linux Bible** (10th, 2020) by Christopher Negus
-- Linux Command Line and Shell Scripting Bible (3rd, 2015) by Christine Bresnahan and Richard Blum
-- **UNIX and Linux System Administration Handbook** (5th, 2017) by Evi Nemeth, Garth Snyder, Trent R. Hein, Ben Whaley
-- **Linux in a Nutshell: A Desktop Quick Reference** (6th, 2009) by by Ellen Siever, Stephen Figgins, Robert Love
-- **How Linux Works: What Every Superuser Should Know** (3rd, 2021) by Brian Ward
-- Linux Administration Handbook by Evi Nemeth, Garth Snyder, and Trent Hein
-- Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali (2018) by OccupyTheWeb
-- Modern Linux Administration: How to Become a Cutting-Edge Linux Administrator (2019) by Sam R. Alapati
-- Cybersecurity Ops with bash: Attack, Defend, and Analyze from the Command Line (2019) by Paul Troncone, Carl Albing Ph. D
+- **The Linux Command Line: A Complete Introduction** (2nd, 2019) by William E. Shotts, Jr. [4.38, 1579]
+- **How Linux Works: What Every Superuser Should Know** (3rd, 2021) by Brian Ward [4.16, 1133]
+- **UNIX and Linux System Administration Handbook** (5th, 2017) by Evi Nemeth, Garth Snyder, Trent R. Hein, Ben Whaley [4.44, 946]
+- **Linux in a Nutshell: A Desktop Quick Reference** (6th, 2009) by by Ellen Siever, Stephen Figgins, Robert Love [3.92, 785]
+- **Linux Pocket Guide** (3rd, 2016) by Daniel J. Barrett [4.07, 632]
+- **Linux Bible** (10th, 2020) by Christopher Negus [4.29, 413]
 - **鸟哥的Linux私房菜：基础学习篇** (4th, 2018) by 鸟哥
 - 鸟哥的Linux私房菜：服务器架设篇 (3th, 2012) by 鸟哥
-- Beginning Linux Programming by Mathew Neil and Richard Stones
-- Linux for Beginners: An Introduction to the Linux Operating System by Jason Cannon
-- **Harley Hahn's Guide to Unix and Linux** (2008) by Harley Hahn
+- **Harley Hahn's Guide to Unix and Linux** (2008) by Harley Hahn [4.43, 28]
+- Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali (2018) by OccupyTheWeb [4.12, 392]
+- Linux for Beginners: An Introduction to the Linux Operating System by Jason Cannon [4.00, 302]
+- Linux Command Line and Shell Scripting Bible (3rd, 2015) by Christine Bresnahan and Richard Blum [4.14, 250]
+- Beginning Linux Programming by Mathew Neil and Richard Stones [3.77, 155]
+- Linux Administration Handbook by Evi Nemeth, Garth Snyder, and Trent Hein
+- Modern Linux Administration: How to Become a Cutting-Edge Linux Administrator (2019) by Sam R. Alapati [4.25, 21]
+- Cybersecurity Ops with bash: Attack, Defend, and Analyze from the Command Line (2019) by Paul Troncone, Carl Albing Ph. D
 
 Shell
 
-- **Bash Cookbook: Solutions and Examples for Bash Users** (2nd, 2017) by Carl Albing, J.P. Vossen, Cameron Newham
-- **Learning the bash Shell** (3rd, 2005) by Cameron Newham, Bill Rosenblatt
-- **Bash Pocket Reference** (2nd, 2016) by Arnold Robbins
-- **Classic Shell Scripting: Hidden Commands that Unlock the Power of Unix** (2005) by Arnold Robbins, Nelson H. Beebe, Nathan Torkington
+- **Learning the bash Shell** (3rd, 2005) by Cameron Newham, Bill Rosenblatt [3.87, 611]
+- **Classic Shell Scripting: Hidden Commands that Unlock the Power of Unix** (2005) by Arnold Robbins, Nelson H. Beebe, Nathan Torkington [4.04, 276]
+- **Bash Cookbook: Solutions and Examples for Bash Users** (2nd, 2017) by Carl Albing, J.P. Vossen, Cameron Newham [3.88, 173]
+- **Bash Pocket Reference** (2nd, 2016) by Arnold Robbins [4.24, 177]
 - Advanced Bash-Scripting Guide: An in-depth exploration of the art of shell scripting by Mendel Cooper [LINK1](https://tldp.org/LDP/abs/html/index.html), [LINK 2](https://www.linuxtopia.org/online_books/advanced_bash_scripting_guide/)
 - Shell Scripting: How to Automate Command Line Tasks Using Bash Scripting and Shell Programming by Jason Cannon
 - UNIX Shells by Example by Ellie Quigley
@@ -524,32 +524,32 @@ Sed & Awk
 
 Unix Programming
 
-- The UNIX Programming Environment by Brian W. Kernighan
-- **Advanced Programming in the UNIX Environment** (3rd, 2013) by W. Richard Stevens  (**APUE**)
-- **The Design of the UNIX Operating System** (1986) by Maurice J. Bach
-- **The Art of Unix Programming** (2003) by Eric S. Raymond
+- **Advanced Programming in the UNIX Environment** (3rd, 2013) by W. Richard Stevens  (**APUE**) [4.34, 1708]
+- **The UNIX Programming Environment** by Brian W. Kernighan [4.24, 1308]
+- **The Art of Unix Programming** (2003) by Eric S. Raymond [4.18, 1246]
+- **The Design of the UNIX Operating System** (1986) by Maurice J. Bach [4.24, 589]
 - Unix Programmer's Manual
-- UNIX Systems for Modern Architectures (1994) by Schimmel
+- UNIX Systems for Modern Architectures (1994) by Schimmel [4.66, 29]
 
 Linux Programming
 
-- **Linux Kernel Development** (3rd, 2010) by Robert Love
-- **The Linux Programming Interface** (2010) by Michael Kerrisk
-- Understanding Unix/Linux Programming by Bruce Molay
+- **Linux Kernel Development** (3rd, 2010) by Robert Love [4.33, 845]
+- **The Linux Programming Interface** (2010) by Michael Kerrisk [4.63, 649]
+- Understanding Unix/Linux Programming by Bruce Molay [4.11, 35]
 - Linux 环境编程 by 高峰
-- Autotools: A Practioner's Guide to GNU Autoconf, Automake, and Libtool by John Calcote
+- Autotools: A Practioner's Guide to GNU Autoconf, Automake, and Libtool by John Calcote [4.15, 48]
 
 Linux Insides
 
 - [linux-insides - GitHub](https://github.com/0xAX/linux-insides). linux kernel 2.2
-- Understanding the Linux Kernel by Daniel P. Bovet, Marco Cesati. linux kernel 2.2
+- The UNIX Time-Sharing System - [PDF](https://dsf.berkeley.edu/cs262/unix.pdf)
+- **Understanding the Linux Kernel** by Daniel P. Bovet, Marco Cesati. linux kernel 2.2 [4.11, 709]
 - Linux内核完全注释 by 赵炯 [ebook](http://www.oldlinux.org/book.html)
 - Linux内核源代码情景分析 by 毛德操, 胡希明. linux kernel 2.4
 
 Linux Drivers
 
-- Linux Device Drivers by Alessandro Rubini, Greg Kroah-Hartman, and Jonathan Corbet
-- Understanding the Linux Kernel by Daniel P. Bovet and Marco Cesati
+- Linux Device Drivers by Alessandro Rubini, Greg Kroah-Hartman, and Jonathan Corbet [4.12, 264]
 - 深入Linux设备驱动程序内核机制 by 陈学松
 
 Docs
@@ -557,10 +557,6 @@ Docs
 - [Linux man pages](https://linux.die.net/man/)
 - [Linux Kernel Documentation](https://www.kernel.org/doc/)
 - [LWN.net](https://lwn.net/)
-
-Papers
-
-- The UNIX Time-Sharing System - [PDF](https://dsf.berkeley.edu/cs262/unix.pdf)
 
 Tutorials
 
@@ -583,20 +579,20 @@ Windows Programming
 
 Parallel Computer Architecture
 
-- Parallel Computer Architecture: A Hardware/Software Approach by David Culler
-- Fundamentals of Parallel Multicore Architecture by Yan Solihin
-- A Primer On Memory Consistency And Cache Coherence by Daniel J. Sorin, Mark D. Hill, David A. Wood
-- The Art of Multiprocessor Programming by Maurice Herlihy, Nir Shavit
+- **The Art of Multiprocessor Programming** by Maurice Herlihy, Nir Shavit [4.01, 228]
+- A Primer On Memory Consistency And Cache Coherence by Daniel J. Sorin, Mark D. Hill, David A. Wood [4.43, 14]
+- Fundamentals of Parallel Multicore Architecture by Yan Solihin [4.75, 4]
+- Parallel Computer Architecture: A Hardware/Software Approach by David Culler [3.65, 26]
 
 Parallel  Programming
 
-- An Introduction to Parallel Programming by Peter Pacheco
-- Programming Massively Parallel Processors: A Hands-On Approach by David B. Kirk
-- Is Parallel Programming Hard, And, If So, What Can You Do About It? by Paul E. McKenney 
-- Seven Concurrency Models in Seven Weeks: When Threads Unravel by Paul Butcher
-- Structured Parallel Programming: Patterns for Efficient Computation by Michael McCool
-- Introduction to High Performance Computing for Scientists and Engineers by Georg Hager, Gerhard Wellein
-- Programming with Posix Threads by David R. Butenhof
+- **Seven Concurrency Models in Seven Weeks: When Threads Unravel** by Paul Butcher [3.81, 339]
+- **Programming Massively Parallel Processors: A Hands-On Approach** by David B. Kirk [3.86, 94]
+- **Programming with Posix Threads** by David R. Butenhof [4.33, 60]
+- An Introduction to Parallel Programming by Peter Pacheco [3.87, 60]
+- Introduction to High Performance Computing for Scientists and Engineers by Georg Hager, Gerhard Wellein [4.11, 28]
+- Structured Parallel Programming: Patterns for Efficient Computation by Michael McCool [4.12, 24]
+- Is Parallel Programming Hard, And, If So, What Can You Do About It? by Paul E. McKenney [4.17, 17]
 - Parallel and High Performance Computing (2021) by Robert Robey, Yuliana Zamora
 
 <br>
@@ -710,17 +706,17 @@ Reference [information-security-resources - Network Security](directions/informa
 
 Must Read
 
-- **The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography** (2000) by Simon Singh
-- **Applied Cryptography: Protocols, Algorithms, and Source Code in C** (2015) by Bruce Schneier
-- **Practical Cryptography** (2003) by Niels Ferguson,  Bruce Schneier
-- **Cryptography Engineering: Design Principles and Practical Applications** (2010)by Niels Ferguson,  Bruce Schneier, Tadayoshi Kohno
+- **The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography** (2000) by Simon Singh [4.30, 26820]
+- **Applied Cryptography: Protocols, Algorithms, and Source Code in C** (2015) by Bruce Schneier [4.21, 2124]
+- **Practical Cryptography** (2003) by Niels Ferguson,  Bruce Schneier [4.15, 317]
+- **Cryptography Engineering: Design Principles and Practical Applications** (2010)by Niels Ferguson,  Bruce Schneier, Tadayoshi Kohno [4.21, 393]
 - 图解密码技术 by [日] 结城浩
-- Understanding Cryptography: A Textbook for Students and Practitioners (2010) by Christof Paar,  Jan Pelzl
-- Introduction to Modern Cryptography, Second Edition (Chapman & Hall/CRC Cryptography and Network Security Series) by Jonathan Katz
-- Serious Cryptography: A Practical Introduction to Modern Encryption by Jean-Philippe Aumasson
-- Top Secret: A Handbook of Codes, Ciphers and Secret Writing by Paul B. Janeczko, Jenna Lareau
-- Handbook of Applied Cryptography by Alfred J. Menezes, Scott A. Vanstone, Paul C. van Oorschot
-- Introduction to Modern Cryptography: Principles and Protocols by Jonathan Katz, Yehuda Lindell
+- Understanding Cryptography: A Textbook for Students and Practitioners (2010) by Christof Paar,  Jan Pelzl [4.18, 217]
+- Introduction to Modern Cryptography, Second Edition (Chapman & Hall/CRC Cryptography and Network Security Series) by Jonathan Katz [4.26, 126]
+- Serious Cryptography: A Practical Introduction to Modern Encryption by Jean-Philippe Aumasson [4.29, 340]
+- Top Secret: A Handbook of Codes, Ciphers and Secret Writing by Paul B. Janeczko, Jenna Lareau [3.97, 191]
+- Handbook of Applied Cryptography by Alfred J. Menezes, Scott A. Vanstone, Paul C. van Oorschot [4.02, 120]
+- Introduction to Modern Cryptography: Principles and Protocols by Jonathan Katz, Yehuda Lindell [4.26, 126]
 
 Some More
 
@@ -743,9 +739,9 @@ by Joshua Holden
 
 Must Read
 
-- The Information: A History, a Theory, a Flood (2003) by James Gleick, Rob Shapiro
-- Information Theory: A Tutorial Introduction (2015) by James V. Stone
-- Elements of Information Theory (2nd, 2006) by Thomas M. Cover and Joy A. Thomas
+- **The Information: A History, a Theory, a Flood** (2003) by James Gleick, Rob Shapiro [4.03, 16191]
+- Elements of Information Theory (2nd, 2006) by Thomas M. Cover and Joy A. Thomas [4.21, 305]
+- Information Theory: A Tutorial Introduction (2015) by James V. Stone [4.07, 135]
 - Network Information Theory by (2012) by El Gamal, Abbas and Young-Han Kim
 
 Courses
@@ -758,19 +754,21 @@ Courses
 
 <br>
 
-Must Read
+Computer Graphics
 
+- **Computer Graphics: Principles and Practice** (3rd, 2013) by John F. Hughes, van Dam, Andries [4.20, 358]
+- **Real-Time Rendering** by Tomas Akenine-Möller, Eric Haines [4.50, 321]
+- Fundamentals of Computer Graphics by Peter Shirley [3.80, 111]
+- Computer Graphics Principles and Practice in C: Principles & Practice in C by James D. Foley, Andries van Dam, Steven K. Feiner, F. Hughes John [4.67, 9]
+- Physically Based Rendering: From Theory to Implementation by Greg Humphreys and Matt Pharr [4.56, 167]
+- Foundations of 3D Computer Graphics by Steven J. Gortler [4.00, 16]
+- Interactive Computer Graphics: A Top-Down Approach with WebGL (7th, 2014) by Edward Angel and Dave Shreiner [3.08, 13]
 
-- Interactive Computer Graphics: A Top-Down Approach with WebGL (7th, 2014) by Edward Angel and Dave Shreiner
-- Mathematics for Computer Graphics by John Vince
-- Mathematics for 3D Game Programming and Computer Graphics (3rd, 2011) by Eric Lengyel
-- 3D math primer for graphics and game development by Fletcher Dunn
-- Computer Graphics: Principles and Practice (3rd, 2013) by John F. Hughes, van Dam, Andries
-- Computer Graphics Principles and Practice in C: Principles & Practice in C by James D. Foley, Andries van Dam, Steven K. Feiner, F. Hughes John
-- Fundamentals of Computer Graphics by Peter Shirley
-- Foundations of 3D Computer Graphics by Steven J. Gortler
-- Physically Based Rendering: From Theory to Implementation by Greg Humphreys and Matt Pharr
-- Real-Time Rendering by Tomas Akenine-Möller, Eric Haines
+Mathematics for Computer Graphics
+
+- **3D math primer for graphics and game development** by Fletcher Dunn [4.12, 206]
+- Mathematics for 3D Game Programming and Computer Graphics (3rd, 2011) by Eric Lengyel [3.96, 196]
+- Mathematics for Computer Graphics by John Vince [3.85, 26]
 
 OpenGL
 
