@@ -129,13 +129,22 @@ Tools
 
 ### Go [📈](https://www.tiobe.com/tiobe-index/go/)
 
+Guidance & Roadmap
+
+- [Go Developer Roadmap](https://roadmap.sh/golang)
+- [golang-developer-roadmap - GitHub](https://github.com/Alikhll/golang-developer-roadmap)
+
 Primary
 
-- [Go Documentation - doc](https://golang.org/doc/)
+- [Go Documentation - doc](https://go.dev/doc/)
+- [Tour of Go](https://go.dev/tour/welcome/1)
+- [Go by Example](https://gobyexample.com/)
+- [Go Tutorial - tutorialspoint](https://www.tutorialspoint.com/go/)
 - **The Go Programming Language** (2015) by Alan A. A. Donovan and Brian W. Kernighan
 - **Learning Go: An Idiomatic Approach to Real-World Go Programming** (2nd, 2024) by Jon Bodner
 - **Head First Go** (2019) by Jay McGavren
-- An Introduction to Programming in Go by Caleb Doxsey
+- An Introduction to Programming in Go by Caleb Doxsey [HTML](https://www.golang-book.com/books/intro), [PDF](https://www.golang-book.com/public/pdf/gobook.pdf)
+- Go 101 [HTML](https://go101.org/)
 - Introducing Go: Build Reliable, Scalable Programs by Caleb Doxsey
 - Go Programming Blueprints by Mat Ryer
 - Go in Action by William Kennedy, Brian Ketelsen
@@ -143,6 +152,7 @@ Primary
 
 Style Guide
 
+- [project-layout - Standard Go Project Layout](https://github.com/golang-standards/project-layout)
 - [The Uber Go Style Guide](https://github.com/uber-go/guide)
 - [Go Code Review Comments](https://go.dev/wiki/CodeReviewComments)
 - [Standard Go Project Layout](https://github.com/golang-standards/project-layout)
@@ -173,18 +183,15 @@ gin，其他想要什么组件可以自己加上去。
 - **Cloud Native Go: Building Reliable Services in Unreliable Environments** (2021) by Matthew Titmus
 - Go Web Programming by Chang Sau Sheong
 
-Tutorials
+Code Practice
 
-- [go dev](https://go.dev/)
-- [Go Tutorial - tutorialspoint](https://www.tutorialspoint.com/go/)
-- [Go by Example](https://gobyexample.com/)
+- [7days-golang - GitHub](https://github.com/geektutu/7days-golang)
+- [build-web-application-with-golang - GitHub](https://github.com/astaxie/build-web-application-with-golang)
+
+Resources
+
 - [gotraining - GitHub](https://github.com/ardanlabs/gotraining/tree/master/topics/go)
 - [awesome-go - GitHub](https://github.com/avelino/awesome-go)
-- [project-layout - Standard Go Project Layout](https://github.com/golang-standards/project-layout)
-
-Guidance
-
-- [golang-developer-roadmap - GitHub](https://github.com/Alikhll/golang-developer-roadmap)
 
 Projects
 
