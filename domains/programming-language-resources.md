@@ -137,8 +137,12 @@ Guidance & Roadmap
 Primary
 
 - [Go Documentation - doc](https://go.dev/doc/)
-- [Tour of Go](https://go.dev/tour/welcome/1)
+- [**Tour of Go**](https://go.dev/tour/welcome/1)
 - [Go by Example](https://gobyexample.com/)
+- [**Effective Go**](https://go.dev/doc/effective_go)
+- [The Go Blog](https://go.dev/blog/all)
+- [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests)
+- [Learn Go in Y minutes](https://learnxinyminutes.com/docs/go/)
 - [Go Tutorial - tutorialspoint](https://www.tutorialspoint.com/go/)
 - **The Go Programming Language** (2015) by Alan A. A. Donovan and Brian W. Kernighan
 - **Learning Go: An Idiomatic Approach to Real-World Go Programming** (2nd, 2024) by Jon Bodner
