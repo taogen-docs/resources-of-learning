@@ -69,7 +69,7 @@
 
 #### Modern Java Features
 
-- Core Java SE 9 for the Impatient (3rd, 2022, Cover Java 17) (2nd, 2017, Cover Java 9) (1st, 2013, Cover Java 8) by Cay S.Horstmann
+- **Core Java for the Impatient** (3rd, 2022, Cover Java 17) (2nd, 2017, Cover Java 9) (1st, 2013, Cover Java 8) by Cay S.Horstmann
 - Modern Java in Action (2nd, 2018, Cover Java 9) by Raoul-Gabriel Urma, Mario Fusco
 - Modern Java Recipes: Simple Solutions to Difficult Problems in Java 8 and 9 (2017) by Kousen, Ken
 - Java 9 Modularity: Patterns and Practices for Developing Maintainable Applications by Mak, Sander
@@ -603,17 +603,23 @@ Others
 
 Recommended
 
+- RuoYi [GitHub](https://github.com/yangzongzhuan/RuoYi), [Gitee](https://gitee.com/y_project/RuoYi)
+- RuoYi-Vue [GitHub](https://github.com/yangzongzhuan/RuoYi-Vue), [Gitee](https://gitee.com/y_project/RuoYi-Vue)
+- RuoYi-Vue-Plus [Gitee](https://gitee.com/dromara/RuoYi-Vue-Plus) + plus-ui [Gitee](https://gitee.com/JavaLionLi/plus-ui)
+- ruoyi-vue-pro [GitHub](https://github.com/YunaiV/ruoyi-vue-pro)
+- RuoYi-flowable [Gitee](https://gitee.com/tony2y/RuoYi-flowable)
+- eladmin [GitHub](https://github.com/elunez/eladmin)
+- hs-web/hsweb-framework [GitHub](https://github.com/hs-web/hsweb-framework)
+- Guns [Gitee](https://gitee.com/stylefeng/guns). 基于SpringBoot,更简洁的后台管理系统
 - [BootDo](https://gitee.com/lcg0124/bootdo) 基于 Springboot 和 Mybatis 的后台管理系统
 - [hope-boot](https://github.com/hope-for/hope-boot) (or hope-plus)
-- [RuoYi](https://gitee.com/y_project/RuoYi)
-- [RuoYi-Vue](https://gitee.com/y_project/RuoYi-Vue)
-- [Guns](https://gitee.com/stylefeng/guns) 基于SpringBoot,更简洁的后台管理系统
 - [Jeecg-boot](https://gitee.com/jeecg/jeecg-boot)
 - [erupt](https://github.com/erupts/erupt)
 - Cloud
   - [pig](https://gitee.com/log4j/pig)
   - [iBase4J](https://gitee.com/iBase4J/iBase4J)
   - [RuoYi-Cloud](https://gitee.com/y_project/RuoYi-Cloud)
+  - [YunaiV/yudao-cloud](https://github.com/YunaiV/yudao-cloud)
   - [BladeX](https://gitee.com/smallc/SpringBlade)
 
 Others
@@ -627,7 +633,9 @@ Others
 
 **Shop System**
 
-- [mall](https://github.com/macrozheng/mall) 电商系统
+- [macrozheng/mall](https://github.com/macrozheng/mall) 电商系统
+- [macrozheng/mall-swarm](https://github.com/macrozheng/mall-swarm)
+- [newbee-ltd/newbee-mall](https://github.com/newbee-ltd/newbee-mall)
 - [javashop](https://gitee.com/javashop) 网店系统
 - [shopweb](https://github.com/mission008/shopweb.git)  仿淘宝的B2C商城项目
 - [miaosha](https://github.com/qiurunze123/miaosha)  秒杀系统设计与实现
