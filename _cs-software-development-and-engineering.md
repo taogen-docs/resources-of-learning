@@ -617,25 +617,31 @@ Modern Software Engineering
 
 ### Software Project Management
 
-- **The Mythical Man-Month: Essays on Software Engineering** (Anniversary Edition 2nd, 1996) by Jr·Frederick P·Brooks
-- **Peopleware: Productive Projects and Teams** (2013) by Tom DeMarco
-- **The Goal: A Process of Ongoing Improvement** (3rd, 2004) by Eliyahu M. Goldratt
-- **Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency** (2001) by Tom DeMarco
-- **The Software Craftsman: Professionalism, Pragmatism, Pride** (2014) by Sandro Mancuso
-- **Managing Humans: Biting and Humorous Tales of a Software Engineering Manager** (2016) by Michael Lopp
-- **The Five Dysfunctions of a Team: A Leadership Fable** (2011) by Patrick Lencioni
-- The Nature of Software Development: Keep It Simple, Make It Valuable, Build It Piece by Piece (2015) by Ron Jeffries
-- Timeless Laws of Software Development by Jerry Fitzpatrick
-- Rapid Development: Taming Wild Software Schedules by Steve McConnell
-- Ship It! by Jared Richardson
-- Working with Coders: A Guide to Software Development for the Perplexed Non-Techie by Patrick Gleeson
+- **The Five Dysfunctions of a Team: A Leadership Fable** (2011) by Patrick Lencioni [4.10, 116820]
+- **The Goal: A Process of Ongoing Improvement** (3rd, 2004) by Eliyahu M. Goldratt [4.08, 74544]
+- **The Mythical Man-Month: Essays on Software Engineering** (Anniversary Edition 2nd, 1996) by Jr·Frederick P·Brooks [4.01, 14151]
+- **Peopleware: Productive Projects and Teams** (2013) by Tom DeMarco [4.13, 9647]
+- **Managing Humans: Biting and Humorous Tales of a Software Engineering Manager** (2016) by Michael Lopp [3.93, 3983]
+- The Deadline: A Novel about Project Management by Tom DeMarco [4.16, 2417]
+- **Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency** (2001) by Tom DeMarco [4.02, 1563]
+- Rapid Development: Taming Wild Software Schedules by Steve McConnell [3.98, 1344]
+- Team Geek: A Software Developer's Guide to Working Well with Others by Brian W. Fitzpatrick, Ben Collins-Sussman [3.97, 1201]
+- **The Software Craftsman: Professionalism, Pragmatism, Pride** (2014) by Sandro Mancuso [4.31, 931]
+- The Art of Project Management by Scott Berkun [3.96, 864]
+- Specification by Example by Gojko Adzic [4.03, 694]
+- The Nature of Software Development: Keep It Simple, Make It Valuable, Build It Piece by Piece (2015) by Ron Jeffries [4.09, 529]
 
 Some More
 
-- Specification by Example by Gojko Adzic
-- User Stories Applied:For Agile Software Development by Mike Cohn
-- User Story Mapping Building Better Products using Agile Software Design by Jeff Patton
-- Manage Your Project Portfolio by Johanna Rothman
+- Ship It! by Jared Richardson [3.71, 525]
+- Righting Software (2019) by Juval Löwy [3.59, 142]
+- Working with Coders: A Guide to Software Development for the Perplexed Non-Techie by Patrick Gleeson [4.00, 58]
+- Timeless Laws of Software Development by Jerry Fitzpatrick [4.00, 27]
+- Manage Your Project Portfolio by Johanna Rothman [3.71, 200]
+
+General Project Management
+
+- A Guide to the Project Management Body of Knowledge (PMBOK® Guide) (7th, 2021) by Project Management Institute [3.70, 5132]
 
 ### Agile
 
@@ -643,53 +649,47 @@ Some More
 
 Agile
 
-- **Clean Agile: Back to Basics** (2019) by Robert C. Martin
-- **The Art of Agile Development** (2nd, 2021) by James Shore, Shane Warden
-- **The Agile Samurai** (2013) by Jonathan Rasmusson
-- Learning Agile by Andrew Stellman
-- Agile Retrospectives：Making Good Teams Great by Esther Derby , Diana Larsen,Ken Schwaber
-- Coaching Agile Teams: A Companion for ScrumMasters,Agile Coaches, and Project Managers in Transition by Lyssa Adkins
-- Agile Project Management with Scrum by Ken Schwaber
-- Succeeding with Agile:Software development using Scrum by Mike Cohn
-- Agile Estimating and Planning by Mike Cohn
+- User Stories Applied: For Agile Software Development by Mike Cohn [3.89, 2836]
+- Agile Estimating and Planning by Mike Cohn [4.14, 2578]
+- Agile Retrospectives：Making Good Teams Great by Esther Derby , Diana Larsen,Ken Schwaber [3.94, 2460]
+- Coaching Agile Teams: A Companion for ScrumMasters,Agile Coaches, and Project Managers in Transition by Lyssa Adkins [4.22, 1839]
+- **The Agile Samurai** (2013) by Jonathan Rasmusson [3.94, 1609]
+- **Clean Agile: Back to Basics** (2019) by Robert C. Martin [4.26, 1301]
+- **The Art of Agile Development** (2nd, 2021) by James Shore, Shane Warden [3.98, 878]
+- Learning Agile by Andrew Stellman [4.09, 661]
+- User Story Mapping Building Better Products using Agile Software Design by Jeff Patton
 
 Extreme Programming (XP)
 
 > Extreme Programming (XP) is an Agile software development methodology that prioritizes customer satisfaction, adaptability, and high-quality software. It involves iterative development, continuous planning, small releases, pair programming, test-driven development, continuous integration, and close collaboration with an onsite customer representative. XP aims to deliver working software frequently, respond quickly to changes, and maintain a sustainable and productive team environment.
 
-- **Extreme Programming Explained: Embrace Change** (2nd, 2004) by Kent Beck
+- **Extreme Programming Explained: Embrace Change** (2nd, 2004) by Kent Beck [4.12, 3939]
 
 Scrum
 
 > Scrum is an Agile framework that follows an iterative and incremental approach. It divides the project into time-bound iterations called "sprints" and employs a cross-functional team to deliver working software at the end of each sprint. Scrum emphasizes close collaboration, regular meetings (sprint planning, daily stand-ups, sprint review, and retrospective), and a product backlog for prioritizing and managing work.
 
-- **Scrum and XP from the Trenches** (2nd, 2015) by Henrik Kniberg
-- **Scrum: The Art of Doing Twice the Work in Half the Time** (2014) by Jeff Sutherland
+- **Scrum: The Art of Doing Twice the Work in Half the Time** (2014) by Jeff Sutherland [4.15, 21654]
+- Succeeding with Agile:Software development using Scrum by Mike Cohn [4.01, 1832]
+- **Scrum and XP from the Trenches** (2nd, 2015) by Henrik Kniberg [4.21, 1802]
+- Agile Project Management with Scrum by Ken Schwaber [3.71, 1528]
 
 Kanban
 
 > Kanban is another Agile methodology that visualizes the workflow using a Kanban board. It focuses on limiting work-in-progress, optimizing flow, and continuously improving the delivery process. Kanban provides clear visibility into the status of each task and helps teams identify bottlenecks and optimize their work.
 
-- **Kanban: Successful Evolutionary Change for Your Technology Business** (2013) by David J. Anderson
+- **Kanban: Successful Evolutionary Change for Your Technology Business** (2013) by David J. Anderson [3.99, 3318]
 
 ### Lean Software
 
 > Lean Software Development applies Lean principles, originally from the manufacturing industry, to software development. It aims to eliminate waste, optimize processes, and deliver value efficiently. Lean methodologies emphasize value stream mapping, continuous improvement, and reducing non-value-added activities.
 
-- **Lean from the Trenches** (2011) by Henrik Kniberg
-- **Implementing Lean Software Development: From Concept to Cash** (2006) by Mary Poppendieck
-- Lean Software Development: An Agile Toolkit by Mary Poppendieck, Tom Poppendieck, Ken Schwaber
-- Lean thinking  banish waste and creat wealth in your corporation by James P.Womack 
+- Lean thinking: banish waste and creat wealth in your corporation by James P.Womack [3.92, 5807]
+- Lean Software Development: An Agile Toolkit by Mary Poppendieck, Tom Poppendieck, Ken Schwaber [4.18, 1052]
+- **Lean from the Trenches** (2011) by Henrik Kniberg [4.21, 994]
+- **Implementing Lean Software Development: From Concept to Cash** (2006) by Mary Poppendieck [4.20, 849]
 
 ### Others
-
-Project Management
-
-- Righting Software (2019) by Juval Löwy
-- The Deadline: A Novel about Project Management by Tom DeMarco
-- Team Geek: A Software Developer's Guide to Working Well with Others by Brian W. Fitzpatrick, Ben Collins-Sussman
-- The Art of Project Management by Scott Berkun
-- A Guide to the Project Management Body of Knowledge (PMBOK® Guide) (7th, 2021) by Project Management Institute
 
 Organization Management
 
