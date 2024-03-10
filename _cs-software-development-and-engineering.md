@@ -617,8 +617,6 @@ Modern Software Engineering
 
 ### Software Project Management
 
-- **The Five Dysfunctions of a Team: A Leadership Fable** (2011) by Patrick Lencioni [4.10, 116820]
-- **The Goal: A Process of Ongoing Improvement** (3rd, 2004) by Eliyahu M. Goldratt [4.08, 74544]
 - **The Mythical Man-Month: Essays on Software Engineering** (Anniversary Edition 2nd, 1996) by Jr·Frederick P·Brooks [4.01, 14151]
 - **Peopleware: Productive Projects and Teams** (2013) by Tom DeMarco [4.13, 9647]
 - **Managing Humans: Biting and Humorous Tales of a Software Engineering Manager** (2016) by Michael Lopp [3.93, 3983]
@@ -709,7 +707,7 @@ Tech Leader
 - The Truth about Leadership: The No-fads, Heart-of-the-Matter Facts You Need to Know (2010) by James M. Kouzes 
 - The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change by Tanya Reilly
 
-Manager
+Management
 
 - Simon Sinek
   - **Start with Why: How Great Leaders Inspire Everyone to Take Action** by Simon Sinek
@@ -721,6 +719,8 @@ Manager
 - **Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity** by Kim Malone Scott
 - **The Making of a Manager: What to Do When Everyone Looks to You** by Julie Zhuo
 - The First 90 Days: Proven Strategies for Getting Up to Speed Faster and Smarter, Updated and Expanded by Michael D. Watkins
+- **The Five Dysfunctions of a Team: A Leadership Fable** (2011) by Patrick Lencioni [4.10, 116820]
+- **The Goal: A Process of Ongoing Improvement** (3rd, 2004) by Eliyahu M. Goldratt [4.08, 74544]
 
 
 Open Source Organization
