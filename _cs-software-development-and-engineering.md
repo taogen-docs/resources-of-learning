@@ -802,9 +802,9 @@ Resume
 > The best programmers are not necessarily the ones who know the most about programming, but the ones who are passionate about it.
 
 - **The Pragmatic Programmer: From Journeyman to Master** (2nd, 2019) by Andrew Hunt, David Thomas
-- Andrew Hunt
-	- **Pragmatic Thinking and Learning: Refactor Your Wetware** (2008) by Andy Hunt
-	- Practices of an Agile Developer: Working in the Real World by Venkat Subramaniam, Andy Hunt
+- Andy Hunt
+  - **Pragmatic Thinking and Learning: Refactor Your Wetware** (2008) by Andy Hunt
+  - Practices of an Agile Developer: Working in the Real World by Venkat Subramaniam, Andy Hunt
 - Robert C. Martin
 	- **The Clean Coder: A Code of Conduct for Professional Programmers** (2011) by Robert C. Martin
 	- Clean Craftsmanship: Disciplines, Standards, and Ethics (2021) by Robert C. Martin
