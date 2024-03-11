@@ -779,18 +779,25 @@ Business
   by Gayle Laakmann McDowell and Jackie Bavaro
 - What Color Is Your Parachute? 2020: A Practical Manual for Job-Hunters and Career-Changers by Richard N. Bolles
 
-Programmer's Survival Manual
+Chinese Programmer's Survival Manual
 
-- 唬得住要 50k，唬不住要 5k。
-- 屎山代码能跑就不要动。（If it works don't touch it）
-- 鄙视屎山 -> 理解屎山 -> 成为屎山 -> 超越屎山。
-- 重启能解决90%的问题。
-- 要么忍，要么滚。
-- 代码和人，有一个能跑就行。
-- 骑驴找马。
-- 差异化竞争是重要的。和别人比会写代码，和程序员比会其他的。
-- 向钱看齐。面向简历编程。
-- PPT 一定要会。初级到资深到专家的过程：面向对象编程，面向老板编程，面向 PPT 编程。
+- Job Interview
+  - 唬得住要 50k，唬不住要 5k。
+- Coding
+  - 屎山代码能跑就不要动。（If it works don't touch it）
+  - 鄙视屎山 -> 理解屎山 -> 成为屎山 -> 超越屎山。
+- Troubleshooting
+  - 重启能解决90%的问题。
+- Survival
+  - 要么忍，要么滚。
+  - 代码和人，有一个能跑就行。
+  - 骑驴找马。
+  - 第一次推迟发工资时就得警惕，做好跑路的准备。
+  - 第一个月没发工资就该跑路了。保存好上班的证据、打卡记录等。公司账上没钱，拖久了，金额越大，维权难度越大，也更费时间。
+- Personal Development
+  - 差异化竞争是重要的。和别人比会写代码，和程序员比会其他的。
+  - 向钱看齐。面向简历编程。
+  - PPT 一定要会。初级到资深到专家的过程：面向对象编程，面向老板编程，面向 PPT 编程。
 
 Resume
 
