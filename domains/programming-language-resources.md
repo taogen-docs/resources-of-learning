@@ -420,7 +420,7 @@ Prime
   - [Beginner's Guide to Python](https://wiki.python.org/moin/BeginnersGuide)
 - Online Tutorial
   - [Learn X in Y minutes - Python](https://learnxinyminutes.com/docs/python/)
-  - [Python Tutorial - w3c schools](https://www.w3schools.com/python/default.asp)
+  - [Python Tutorial - W3Schools](https://www.w3schools.com/python/default.asp)
   - [Python Tutorial - tutorialspoint](https://www.tutorialspoint.com/python/)
   - [Learn Python](https://www.learnpython.org/)
   - [Python Tutorial](https://www.pythontutorial.net/)
