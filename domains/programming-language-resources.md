@@ -136,14 +136,18 @@ Guidance & Roadmap
 
 Primary
 
-- [Go Documentation - doc](https://go.dev/doc/)
-- [**Tour of Go**](https://go.dev/tour/welcome/1)
-- [Go by Example](https://gobyexample.com/)
-- [**Effective Go**](https://go.dev/doc/effective_go)
-- [The Go Blog](https://go.dev/blog/all)
-- [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests)
-- [Learn Go in Y minutes](https://learnxinyminutes.com/docs/go/)
-- [Go Tutorial - tutorialspoint](https://www.tutorialspoint.com/go/)
+- Documentation
+  - [Go Documentation - doc](https://go.dev/doc/)
+  - [**Tour of Go**](https://go.dev/tour/welcome/1)
+  - [Go by Example](https://gobyexample.com/)
+  - [**Effective Go**](https://go.dev/doc/effective_go)
+  - [The Go Blog](https://go.dev/blog/all)
+- Online Tutorials
+  - [Learn X in Y minutes - Go](https://learnxinyminutes.com/docs/go/)
+  - [Go Tutorial - W3Schools](https://www.w3schools.com/go/)
+  - [Go Tutorial - Tutorialspoint](https://www.tutorialspoint.com/go/)
+  - [Learn Golang](https://www.learn-golang.org/)
+  - [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests)
 - **The Go Programming Language** (2015) by Alan A. A. Donovan and Brian W. Kernighan
 - **Learning Go: An Idiomatic Approach to Real-World Go Programming** (2nd, 2024) by Jon Bodner
 - **Head First Go** (2019) by Jay McGavren
@@ -218,9 +222,13 @@ Tools
 
 Primary
 
-- [The Rust Programming Language - doc]( https://doc.rust-lang.org/1.30.0/book/first-edition/documentation.html )
-- [Rust Documentation - doc]( https://doc.rust-lang.org/beta/ )
-- [Learn Rust - doc](https://rust-lang.org/learn)
+- Documentation
+  - [The Rust Programming Language - doc]( https://doc.rust-lang.org/1.30.0/book/first-edition/documentation.html )
+  - [Rust Documentation - doc]( https://doc.rust-lang.org/beta/ )
+  - [Learn Rust - doc](https://rust-lang.org/learn)
+- Online Tutorials
+  - [Learn X in Y minutes - Rust](https://learnxinyminutes.com/docs/rust/)
+  - [Rust Tutorial - Tutorialspoint](https://www.tutorialspoint.com/rust/)
 - **The Rust Programming Language** (2nd, 2023) by Carol Nichols and Steve Klabnik
 - **Rust for Rustaceans: Idiomatic Programming for Experienced Developers** (2021) by Jon Gjengset
 - **Programming Rust: Fast, Safe Systems Development** (2021) by Jason Orendorff and Jim Blandy
@@ -264,7 +272,11 @@ Tools
 
 ### Lua
 
-- [Lua Documentation - doc]( https://www.lua.org/docs.html )
+- Documentation
+  - [Lua Documentation - doc]( https://www.lua.org/docs.html )
+- Online Tutorials
+  - [Learn X in Y minutes - Lua](https://learnxinyminutes.com/docs/lua/)
+  - [Lua Tutorial - Tutorialspoint](https://www.tutorialspoint.com/lua/)
 - Programming in Lua by Roberto Ierusalimschy
 - Lua Programming Gems by Luiz Henrique de Figueiredo, Waldemar Celes, Roberto Ierusalimschy
 - Beginning Lua programming by Kurt Jung
@@ -279,7 +291,13 @@ Tools
 
 Primary
 
-- [C# documentation - doc]( https://docs.microsoft.com/en-us/dotnet/csharp/ )
+- Documentation
+  - [C# documentation - doc]( https://docs.microsoft.com/en-us/dotnet/csharp/ )
+- Online Tutorials
+  - [Learn X in Y minutes - C#](https://learnxinyminutes.com/docs/csharp/)
+  - [C# Tutorial - W3Schools](https://www.w3schools.com/cs/index.php)
+  - [C# Tutorial - Tutorialspoint](https://www.tutorialspoint.com/csharp/index.htm)
+  - [Learn C#](https://www.learncs.org/)
 - **Head First C#** (4th, 2021) by Andrew Stellman
 - **Learn C# in One Day and Learn It Well: C# for Beginners with Hands-on Project** by Jamie Chan
 - **The C# Player's Guide** (5th, 2022) by RB Whitaker
@@ -327,7 +345,12 @@ Reference [Java Resources](../directions/java-resources.md)
 
 ### Ruby 📉
 
-- [Ruby Documentation - doc]( https://www.ruby-lang.org/en/documentation/ )
+- Documentation
+  - [Ruby Documentation - doc]( https://www.ruby-lang.org/en/documentation/ )
+- Online Tutorials
+  - [Learn X in Y minutes - Ruby](https://learnxinyminutes.com/docs/ruby/)
+  - [Ruby Tutorial - Tutorialspoint](https://www.tutorialspoint.com/ruby/)
+  - [Learn Ruby](https://www.learnrubyonline.org/)
 - The Well-Grounded Rubyist by David A. Black
 - Programming Ruby: The Pragmatic Programmers' Guide by Dave Thomas, Chad Fowler, and Andy Hunt
 - Eloquent Ruby by Russ Olsen
@@ -351,7 +374,13 @@ Tools
 
 ### PHP 📉
 
-- [PHP Documentation - doc]( https://www.php.net/docs.php )
+- Documentation
+  - [PHP Documentation - doc]( https://www.php.net/docs.php )
+- Online Tutorials
+  - [Learn X in Y minutes - PHP](https://learnxinyminutes.com/docs/php/)
+  - [PHP Tutorial - W3Schools](https://www.w3schools.com/php/)
+  - [PHP Tutorial - Tutorialspoint](https://www.tutorialspoint.com/php/)
+  - [Learn PHP](https://www.learn-php.org/)
 - [PHP: The Right Way by Josh Lockhart](https://phptherightway.com/)
 - Learning PHP, MySQL, JavaScript, CSS & HTML5: A Step-by-Step Guide to Creating Dynamic Websites by Robin Nixon
 - Head First PHP and MySQL by Lynn Beighley and Michael Morrison
@@ -385,15 +414,17 @@ Tools
 
 Prime
 
-- [The Python Tutorial - doc](https://docs.python.org/3/tutorial/)
-- [Python Documentation](https://www.python.org/doc/)
-- [Beginner's Guide to Python](https://wiki.python.org/moin/BeginnersGuide)
-- [Learn Python in Y minutes](https://learnxinyminutes.com/docs/python/)
-- [Python Tutorial - w3c schools](https://www.w3schools.com/python/default.asp)
-- [Python Tutorial - tutorialspoint](https://www.tutorialspoint.com/python/)
-- [Python Tutorial](https://www.pythontutorial.net/)
-- [learnpython.org](https://www.learnpython.org/)
-- [Real Python](https://realpython.com/)
+- Documentation
+  - [The Python Tutorial - doc](https://docs.python.org/3/tutorial/)
+  - [Python Documentation](https://www.python.org/doc/)
+  - [Beginner's Guide to Python](https://wiki.python.org/moin/BeginnersGuide)
+- Online Tutorial
+  - [Learn X in Y minutes - Python](https://learnxinyminutes.com/docs/python/)
+  - [Python Tutorial - w3c schools](https://www.w3schools.com/python/default.asp)
+  - [Python Tutorial - tutorialspoint](https://www.tutorialspoint.com/python/)
+  - [Learn Python](https://www.learnpython.org/)
+  - [Python Tutorial](https://www.pythontutorial.net/)
+  - [Real Python](https://realpython.com/)
 - **Learning Python** (5th, 2013) by David Ascher and MARK LUTZ
 - Learn Python 3 the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code by Zed Shaw
 - A Byte of Python by Swaroop C.H. [LINK](https://python.swaroopch.com/)
@@ -525,7 +556,12 @@ Tools
 
 ### Kotlin 📈
 
-- [Kotlin Reference - doc]( https://kotlinlang.org/docs/reference/ )
+- Documentation
+  - [Kotlin Reference - doc]( https://kotlinlang.org/docs/reference/ )
+- Online Tutorials
+  - [Learn X in Y minutes - Kotlin](https://learnxinyminutes.com/docs/kotlin/)
+  - [Kotlin Tutorial - W3Schools](https://www.w3schools.com/kotlin/)
+  - [Kotlin Tutorial - Tutorialspoint](https://www.tutorialspoint.com/kotlin/)
 - Kotlin in Action by Dmitry Jemerov and Svetlana Isakova
 - The Joy of Kotlin by Pierre Yves Saumont
 - Kotlin for Android Developers by Antonio Leiva
@@ -534,9 +570,12 @@ Tools
 
 ### Objective-C
 
-- [Programming with Objective-C - doc]( https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html )
-- [The Objective-C Programming Language - doc]( https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ObjectiveC/Introduction/introObjectiveC.html )
-- [Apple Developer Documentation - doc]( https://developer.apple.com/documentation )
+- Documentation
+  - [Programming with Objective-C - doc]( https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html )
+  - [The Objective-C Programming Language - doc]( https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ObjectiveC/Introduction/introObjectiveC.html )
+  - [Apple Developer Documentation - doc]( https://developer.apple.com/documentation )
+- Online Tutorials
+  - [Learn X in Y minutes - Objective-C](https://learnxinyminutes.com/docs/objective-c/)
 - [iOS Example](https://iosexample.com/)
 - Programming in Objective-C by Stephen G. Kochan
 - Objective-C Programming: The Big Nerd Ranch Guide by Aaron Hillegass and Mikey Ward
@@ -551,7 +590,11 @@ Courses
 
 ### Swift
 
-- [Swift Documentation - doc]( https://swift.org/documentation/ )
+- Documentation
+  - [Swift Documentation - doc]( https://swift.org/documentation/ )
+- Online Tutorials
+  - [Learn X in Y minutes - Swift](https://learnxinyminutes.com/docs/swift/)
+  - [Swift Tutorial - Tutorialspoint](https://www.tutorialspoint.com/swift/)
 - Swift in Depth by Tjeerd in 't Veen
 - IOS 12 Programming for Beginners: An Introductory Guide to IOS App Development with Swift 4.2 and Xcode 10 (3rd, 2018) by Craig Clayton
 - IOS 10 Programming Fundamentals with Swift: Swift, Xcode, and Cocoa Basics by Matt Neuburg
@@ -559,7 +602,8 @@ Courses
 
 ### Lisp
 
-- [Lisp Documentation - doc]( https://common-lisp.net/documentation )
+- Documentation
+  - [Lisp Documentation - doc]( https://common-lisp.net/documentation )
 - Practical Common Lisp by Peter Seibel
 - Paradigms of AI Programming: Case Studies in Common Lisp by Peter Norvig
 - Common LISP: A Gentle Introduction to Symbolic Computation by David S. Touretzky
@@ -639,9 +683,12 @@ Dependency Management
 
 ### Groovy
 
-- [Groovy Documentation - doc]( https://groovy-lang.org/documentation.html )
-- [Learn Groovy in Y minutes](https://learnxinyminutes.com/docs/groovy/)
-- [Refcard Groovy A Rapid-Development JVM Language - DZone](https://dzone.com/refcardz/groovy). a cheat sheet.
+- Documentation
+  - [Groovy Documentation - doc]( https://groovy-lang.org/documentation.html )
+- Online Tutorials
+  - [Learn X in Y minutes - Groovy](https://learnxinyminutes.com/docs/groovy/)
+  - [Groovy Tutorial - Tutorialspoint](https://www.tutorialspoint.com/groovy/)
+  - [Refcard Groovy A Rapid-Development JVM Language - DZone](https://dzone.com/refcardz/groovy). a cheat sheet.
 - Groovy in Action by Dierk König, Andrew Glover, Paul King, Guillaume Laforge, Jon Skeet, James Gosling
 - Programming Groovy 2: Dynamic Productivity for the Java Developer by Venkat Subramaniam
 - Making Java Groovy by Kenneth A. Kousen
@@ -651,7 +698,12 @@ Dependency Management
 
 ### Scala
 
-- [Scala Documentation - doc]( https://docs.scala-lang.org/ )
+- Documentation
+  - [Scala Documentation - doc]( https://docs.scala-lang.org/ )
+- Online Tutorials
+  - [Learn X in Y minutes - Scala](https://learnxinyminutes.com/docs/scala/)
+  - [Scala Tutorial - Tutorialspoint](https://www.tutorialspoint.com/scala/)
+  - [Learn Scala](https://www.learnscala.org/)
 - Programming in Scala by Bill Venners and Martin Odersky
 - Functional Programming in Scala by Paul Chiusano and Rúnar Bjarnason
 - Scala for the Impatient by Cay S. Horstmann
