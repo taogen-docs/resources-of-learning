@@ -938,12 +938,30 @@ Books
 - THE POWER OF PROMPT ENGINEERING: HOW TO UNLOCK THE POTENTIAL OF AI LANGUAGE MODELS by Ramandeep Singh
 - The ChatGPT Millionaire: Making Money Online has never been this EASY by Neil Dagger
 
-Resources
+Tutorials
 
 - [Awesome-Prompt-Engineering - GitHub](https://github.com/promptslab/Awesome-Prompt-Engineering)
 - [Prompt-Engineering-Guide - GitHub](https://github.com/dair-ai/Prompt-Engineering-Guide)
 - [PromptPapers - GitHub](https://github.com/thunlp/PromptPapers)
 - [PromptKG - GitHub](https://github.com/zjunlp/PromptKG)
+- [LangGPT - GitHub](https://github.com/EmbraceAGI/LangGPT)
+- [Synapse_CoR - GitHub](https://github.com/ProfSynapse/Synapse_CoR)
+- [awesome-chatgpt-prompts-zh - GitHub](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
+- [Snack Prompt](https://snackprompt.com/)
+- [PromptHero](https://prompthero.com/)
+- [PromptPort](https://promptport.ai/)
+- [Learn Prompting](https://learnprompting.org/)
+- [gptbot](https://gptbot.io/)
+- [flowgpt](https://flowgpt.com/)
+
+Tools
+
+- [PromptPerfect](https://promptperfect.jina.ai/)
+- [Prompt Generator](https://hero.page/blog/chatgpt-and-midjourney-prompt-generator)
+
+Prompt Marketplaces
+
+- [PromptBase](https://promptbase.com/)
 
 Papers
 
