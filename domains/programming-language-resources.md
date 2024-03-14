@@ -458,7 +458,6 @@ Advanced
 - Object-Oriented
   - **Programming Python: Powerful Object-Oriented Programming** (4th. 2011) by Mark Lutz
 
-
 New Books
 
 - Python Workout: 50 ten-minute exercises (2020) by Reuven M. Lerner
@@ -477,10 +476,8 @@ New Books
 - Impractical Python Projects: Playful Programming Activities to Make You Smarter (2018) by Lee Vaughan
 - Serious Python: Black-Belt Advice on Deployment, Scalability, Testing, and More (2018) by Julien Danjou
 
+Directions
 
-Some More
-
-- Python Tricks: A Buffet of Awesome Python Features by Dan Bader
 - Crawler
   - Reference [CS Advanced Domains Resources - Crawler and Anti-Crawler](../_cs-advanced-domains-resources.md#crawler)
 - Data Science
@@ -533,6 +530,10 @@ Tools
 
 - IDE: PyCharm, Visual Studio Code
 - Package Management: [pip](https://pypi.org/project/pip/)
+
+Excellent Projects
+
+- [full-stack-fastapi-template - GitHub](https://github.com/tiangolo/full-stack-fastapi-template)
 
 ### Android
 
