@@ -601,26 +601,33 @@ Others
 
 **Management system scaffolds**
 
-Recommended
+Spring Boot
 
-- RuoYi [GitHub](https://github.com/yangzongzhuan/RuoYi), [Gitee](https://gitee.com/y_project/RuoYi)
-- RuoYi-Vue [GitHub](https://github.com/yangzongzhuan/RuoYi-Vue), [Gitee](https://gitee.com/y_project/RuoYi-Vue)
-- RuoYi-Vue-Plus [Gitee](https://gitee.com/dromara/RuoYi-Vue-Plus) + plus-ui [Gitee](https://gitee.com/JavaLionLi/plus-ui)
-- ruoyi-vue-pro [GitHub](https://github.com/YunaiV/ruoyi-vue-pro)
-- RuoYi-flowable [Gitee](https://gitee.com/tony2y/RuoYi-flowable)
-- eladmin [GitHub](https://github.com/elunez/eladmin)
-- hs-web/hsweb-framework [GitHub](https://github.com/hs-web/hsweb-framework)
-- Guns [Gitee](https://gitee.com/stylefeng/guns). 基于SpringBoot,更简洁的后台管理系统
+- [Jeecg-boot](https://github.com/jeecgboot/jeecg-boot) ⭐️37.4k
+- [ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) ⭐️23.2k
+- [eladmin](https://github.com/elunez/eladmin) ⭐️20.7k
+- [vue-admin-better](https://github.com/chuzhixin/vue-admin-better) ⭐️15.9k
+- [hsweb-framework](https://github.com/hs-web/hsweb-framework) ⭐️8.2k
+- [RuoYi](https://github.com/yangzongzhuan/RuoYi) ⭐️5.2k
+- [RuoYi-Vue](https://github.com/yangzongzhuan/RuoYi-Vue) ⭐️2k
+- [RuoYi-Vue-Plus](https://github.com/dromara/RuoYi-Vue-Plus) ⭐️749 + [plus-ui](https://gitee.com/JavaLionLi/plus-ui)
+- [Guns](https://github.com/stylefeng/Guns) ⭐️3.7k
+- [hope-boot](https://github.com/hope-for/hope-boot) (or hope-plus) ⭐️3.3k
+- [erupt](https://github.com/erupts/erupt) ⭐️2.4k
+- [mall-tiny](https://github.com/macrozheng/mall-tiny) ⭐️1.8k
+- [ballcat](https://github.com/ballcat-projects/ballcat) ⭐️1.4k
+- [AgileBoot-Back-End](https://github.com/valarchie/AgileBoot-Back-End) ⭐️1.4k
+- [RuoYi-flowable](https://github.com/tony2y/RuoYi-flowable) ⭐️315
 - [BootDo](https://gitee.com/lcg0124/bootdo) 基于 Springboot 和 Mybatis 的后台管理系统
-- [hope-boot](https://github.com/hope-for/hope-boot) (or hope-plus)
-- [Jeecg-boot](https://gitee.com/jeecg/jeecg-boot)
-- [erupt](https://github.com/erupts/erupt)
-- Cloud
-  - [pig](https://gitee.com/log4j/pig)
-  - [iBase4J](https://gitee.com/iBase4J/iBase4J)
-  - [RuoYi-Cloud](https://gitee.com/y_project/RuoYi-Cloud)
-  - [YunaiV/yudao-cloud](https://github.com/YunaiV/yudao-cloud)
-  - [BladeX](https://gitee.com/smallc/SpringBlade)
+
+Spring Cloud
+
+- [YunaiV/yudao-cloud](https://github.com/YunaiV/yudao-cloud) ⭐️15.1k
+- [SpringCloud](https://github.com/zhoutaoo/SpringCloud) ⭐️8.5k
+- [SpringBlade](https://github.com/chillzhuang/SpringBlade) ⭐️6.3k
+- [pig](https://github.com/pig-mesh/pig) ⭐️5.5k
+- [iBase4J](https://github.com/iBase4J/iBase4J) ⭐️1.6k
+- [RuoYi-Cloud](https://github.com/yangzongzhuan/RuoYi-Cloud) ⭐️1.1k
 
 Others
 
