@@ -767,6 +767,14 @@ Reference [CS Advanced Domains Resources - Database Systems](/_cs-advanced-domai
 - Regular Expressions Cookbook by Jan Goyvaerts and Steven Levithan
 - Regular Expression Pocket Reference: Regular Expressions for Perl, Ruby, PHP, Python, C, Java and .NET Book by Tony Stubblebine
 
+Regex Examples
+
+- [iHateRegex](https://ihateregex.io/)
+
+Regex Tools
+
+- https://regex101.com/
+
 ### XML
 
 - [Namespaces in XML](https://www.w3.org/TR/xml-names/)
