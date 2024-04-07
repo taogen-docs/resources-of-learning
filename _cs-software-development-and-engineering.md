@@ -290,6 +290,8 @@ Tutorials
 
 ### Software Design, OOD
 
+> The five basic principles of object-oriented design (SOLID): Single Responsibility Principle (SRP), Open/Closed Principle (OCP), Liskov Substitution Principle (LSP), Interface Segregation Principle (ISP), Dependency Inversion Principle (DIP).
+
 - Grokking the Object Oriented Design Interview
 - **A Philosophy of Software Design** (2nd, 2021) by John Ousterhout
 - **Thinking in Systems: A Primer** (2008) by Donella H. Meadows, Diana Wright
