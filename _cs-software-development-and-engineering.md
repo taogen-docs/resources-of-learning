@@ -293,7 +293,6 @@ Tutorials
 
 <details>
     <summary>The five basic principles of object-oriented design (SOLID)</summary>
-<br>
 
 1. Single Responsibility Principle (SRP): This principle states that a class should have only one reason to change. It means that a class should have a single responsibility or purpose, and it should not be responsible for multiple unrelated tasks. By adhering to this principle, each class becomes more focused and maintains a high level of cohesion.
 
@@ -795,7 +794,8 @@ Business
   by Gayle Laakmann McDowell and Jackie Bavaro
 - What Color Is Your Parachute? 2020: A Practical Manual for Job-Hunters and Career-Changers by Richard N. Bolles
 
-Chinese Programmer's Survival Manual
+<details>
+    <summary>Chinese Programmer's Survival Manual</summary>
 
 - Find Job
   - 唬得住要 50k，唬不住要 5k。
@@ -815,6 +815,8 @@ Chinese Programmer's Survival Manual
   - 差异化竞争是重要的。和别人比会写代码，和程序员比会其他的。
   - 向钱看齐。面向简历编程。
   - PPT 一定要会。初级到资深到专家的过程：面向对象编程，面向老板编程，面向 PPT 编程。
+
+</details>
 
 Resume
 
