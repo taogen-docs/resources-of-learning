@@ -290,7 +290,21 @@ Tutorials
 
 ### Software Design, OOD
 
-> The five basic principles of object-oriented design (SOLID): Single Responsibility Principle (SRP), Open/Closed Principle (OCP), Liskov Substitution Principle (LSP), Interface Segregation Principle (ISP), Dependency Inversion Principle (DIP).
+
+<details>
+    <summary>The five basic principles of object-oriented design (SOLID)</summary>
+<br>
+
+1. Single Responsibility Principle (SRP): This principle states that a class should have only one reason to change. It means that a class should have a single responsibility or purpose, and it should not be responsible for multiple unrelated tasks. By adhering to this principle, each class becomes more focused and maintains a high level of cohesion.
+
+2. Open-Closed Principle (OCP): This principle emphasizes that software entities (classes, modules, functions) should be open for extension but closed for modification. It means that once a class is created and tested, it should not be modified to add new functionality. Instead, new features should be added by creating new classes or modules that inherit from or depend upon the existing ones.
+
+3. Liskov Substitution Principle (LSP): This principle states that objects of a superclass should be replaceable with objects of its subclasses without affecting the correctness of the program. In simpler terms, any derived class should be able to be used in place of its base class without causing unexpected behavior or breaking the program's logic.
+
+4. Interface Segregation Principle (ISP): This principle suggests that clients should not be forced to depend on interfaces they do not use. It promotes the idea of creating smaller, more specific interfaces rather than a single large interface. By doing so, it avoids the problem of clients being forced to implement methods they don't need, thereby reducing coupling and increasing flexibility.
+
+5. Dependency Inversion Principle (DIP): This principle states that high-level modules/classes should not depend on low-level modules/classes directly. Both should depend on abstractions. It encourages the use of interfaces or abstract classes to define contracts between modules, allowing for interchangeable implementations. This promotes loose coupling and facilitates easier testing, maintenance, and modifications.
+</details>
 
 - Grokking the Object Oriented Design Interview
 - **A Philosophy of Software Design** (2nd, 2021) by John Ousterhout
