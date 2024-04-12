@@ -20,6 +20,7 @@
   - <a name="devops_c" href="#devops_t">DevOps</a>
   - <a name="pe_c" href="#pe_t">Platform Engineering</a>
   - <a name="sre_c" href="#sre_t">SRE</a>
+  - <a name="chaos_c" href="#chaos_t">Chaos Engineering</a>
 - Part IV: Software Engineering & Project Management
   - <a name="softeng_c" href="#softeng_t">Software Engineering</a>
   - <a name="spm_c" href="#spm_t">Software Project Management</a>
@@ -388,9 +389,6 @@ New Books (2019~2021)
 - Cloud Native Transformation: Practical Patterns for Innovation (2019) by Pini Reznik , Jamie Dobson
 - Kubernetes Patterns: Reusable Elements for Designing Cloud-Native Applications (2019) by Bilgin Ibryam and Roland Huß
 - Cloud Native: Using Containers, Functions, and Data to Build Next-Generation Applications (2019) by Boris Scholl , Trent Swanson
-- Chaos Engineering: Site reliability through controlled disruption (2021) by Mikolaj Pawlikowski 
-- Chaos Engineering: System Resiliency in Practice (2020) by Casey Rosenthal and Nora Jones
-- Learning Chaos Engineering: Discovering and Overcoming System Weaknesses Through Experimentation (2019) by Russ Miles 
 - Flow Architectures: The Future of Streaming and Event-Driven Integration (2021) by James Urquhart
 - Building Event-Driven Microservices: Leveraging Organizational Data at Scale (2020) by Adam Bellemare
 - Continuous Architecture in Practice: Software Architecture in the Age of Agility and Devops (2021) by Murat Erder, Eoin Woods, Pierre Pureur
@@ -577,6 +575,18 @@ Others
 - Building Microservices: Designing Fine-Grained Systems by Sam Newman
 - Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services by Brendan Burns
 - The Art of Site Reliability Engineering (SRE) with Azure: Building and Deploying Applications That Endure (2022) by Unai Huete Beloki
+
+<br>
+
+<h2><a name="chaos_t" href="#chaos_c">Chaos Engineering</a></h2>
+
+<br>
+
+- Chaos Engineering: System Resiliency in Practice (2020) by Casey Rosenthal and Nora Jones
+- Security Chaos Engineering: Sustaining Resilience in Software and Systems by Kelly Shortridge, Aaron Rinehart
+- Learning Chaos Engineering: Discovering and Overcoming System Weaknesses Through Experimentation (2019) by Russ Miles
+- Chaos Engineering: Site reliability through controlled disruption (2021) by Mikolaj Pawlikowski
+
 
 <br>
 
