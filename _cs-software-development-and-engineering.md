@@ -479,6 +479,8 @@ Some More
 
 Observability Engineering
 
+> Observability Engineering focuses on designing and implementing systems that are highly observable. Observability refers to the ability to gain insights into the internal state and behavior of a system by analyzing its outputs and external interactions. Observability Engineering aims to enable teams to understand and troubleshoot complex systems effectively.
+
 - Observability Engineering: Achieving Production Excellence (2022) by Charity Majors, Liz Fong-Jones, George Miranda
 
 
@@ -562,6 +564,9 @@ Others
 
 <br>
 
+> SRE, which stands for Site Reliability Engineering, that focuses on ensuring the reliability, availability, and performance of software systems in production environments. SRE is a set of practices and principles that combines software engineering and operations to create reliable and scalable systems.
+> SRE teams work closely with development teams to ensure that software systems are designed and implemented with reliability and scalability in mind. They collaborate on building systems that can handle high traffic, respond to failures gracefully, and are easy to monitor and troubleshoot.
+
 - **Site Reliability Engineering: How Google Runs Production Systems** (2016) by Betsy Beyer
 - **The Site Reliability Workbook: Practical Ways to Implement SRE** (2018) by Betsy Beyer
 - Seeking SRE: Conversations About Running Production Systems at Scale by David N. Blank-Edelman
@@ -581,6 +586,8 @@ Others
 <h2><a name="chaos_t" href="#chaos_c">Chaos Engineering</a></h2>
 
 <br>
+
+> Chaos Engineering that aims to proactively uncover weaknesses and vulnerabilities in complex systems by intentionally injecting controlled and well-defined disruptions into them. It involves running experiments on a system to simulate real-world scenarios that may lead to failures or outages. The purpose of Chaos Engineering is to improve system resilience, identify potential risks, and ensure that the system can withstand unexpected events.
 
 - Chaos Engineering: System Resiliency in Practice (2020) by Casey Rosenthal and Nora Jones
 - Security Chaos Engineering: Sustaining Resilience in Software and Systems by Kelly Shortridge, Aaron Rinehart
