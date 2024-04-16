@@ -9,6 +9,7 @@
 ### Content
 
 - Part I: Software Development
+  - <a name="sdp_c" href="#sdp_t">Software Development Principles</a>
   - <a name="code_c" href="#code_t">Code</a>
   - <a name="devtools_c" href="#devtools_t">Development Tools</a>
   - <a name="lowcode_c" href="#lowcode_t">Low-Code and No-Code</a>
@@ -32,6 +33,32 @@
   - Remote Work (Work From Home)
 
 ## Part I: Software Development
+
+<br>
+
+<h2><a name="sdp_t" href="#sdp_c">Software Development Principles</a></h2>
+
+<br>
+
+**DRY (Don't Repeat Yourself)**: This principle emphasizes the importance of reusing code and avoiding duplication. It encourages developers to write code that is reusable, modular, and maintainable.
+
+**KISS (Keep It Simple, Stupid)**: This principle promotes simplicity in software development. It encourages developers to write simple, clear, and straightforward code that is easy to understand and maintain.
+
+**YAGNI (You Ain't Gonna Need It)**: This principle advises developers not to implement functionality until it is actually needed. It encourages developers to avoid over-engineering and unnecessary complexity.
+
+**SOLID**: SOLID is an acronym for five design principles - Single Responsibility Principle, Open-Closed Principle, Liskov Substitution Principle, Interface Segregation Principle, and Dependency Inversion Principle. These principles help in designing modular, maintainable, and extensible software.
+
+**Agile Principles**: Agile principles, as defined in the Agile Manifesto, emphasize iterative and incremental development, collaboration, and responding to change. These principles guide the development process and promote adaptability, customer satisfaction, and continuous improvement.
+
+**Test-Driven Development (TDD)**: TDD is a software development approach that involves writing automated tests before writing the actual code. This principle ensures that the code is thoroughly tested and helps in maintaining code quality and preventing regressions.
+
+**Continuous Integration and Deployment (CI/CD)**: CI/CD principles involve automating the process of integrating code changes, running tests, and deploying software. This principle ensures that code changes are frequently integrated and tested, leading to faster feedback and more reliable releases.
+
+**Separation of Concerns (SoC)**: SoC is a design principle that advocates splitting software into distinct modules or components, each responsible for a specific concern. This principle helps in achieving modularity, maintainability, and reusability.
+
+**Don't Optimize Prematurely**: This principle advises developers not to optimize code for performance prematurely. It suggests focusing on writing clean and maintainable code first and optimizing it only when necessary.
+
+**Documentation**: Documentation is an essential principle in software development. It involves writing clear, concise, and up-to-date documentation to aid understanding, maintenance, and collaboration among developers.
 
 <br>
 
