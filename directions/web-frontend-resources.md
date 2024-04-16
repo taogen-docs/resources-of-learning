@@ -81,6 +81,7 @@ HTML & CSS
 - ⭐**HTML & CSS: Design and Build Web Sites** (2011) by Jon Duckett
 - Web Design with HTML, CSS, JavaScript and JQuery Set (2014) by Jon Duckett
 - Learning Web Design by Jennifer Niederst Robbins
+- HTML and CSS QuickStart Guide (2021) by David DuRocher
 
 HTML
 
@@ -206,6 +207,8 @@ Primary
 - Beginning JavaScript by Jeremy McPeak 
 - JavaScript: the first 20 years by Allen Wirfs-Brock and Brendan Eich - [Link](https://dl.acm.org/doi/abs/10.1145/3386327)
   Nobody knows JavaScript better than me. 
+- JavaScript from Beginner to Professional: Learn JavaScript quickly by building fun, interactive, and dynamic web apps, games, and pages by Laurence Lars Svekis, Maaike Van Putten, Rob Percival
+- Learn JavaScript Quickly: A Complete Beginner’s Guide to Learning JavaScript, Even If You’re New to Programming (Crash Course With Hands-On Project) by Code Quickly
 
 Intermediate
 
@@ -385,6 +388,7 @@ Vue.js Admin Dashboard Templates
 - **The Road to React: Your journey to master plain yet pragmatic React.js** (2018) by Robin Wieruch
 - **Learning React: Modern Patterns for Developing React Apps** (2nd, 2020) by Alex Banks and Eve Porcello
 - **Learning React: Functional Web Development with React and Redux** (2017) by Alex Banks and Eve Porcello
+- React Key Concepts: Consolidate your knowledge of React’s core features by Maximilian Schwarzmüller
 - React Cookbook: Recipes for Mastering the React Framework by David Griffiths, Dawn Griffiths
 - React Explained: Your Step-by-Step Guide to React (2020) by Zac Gordon
 - React Hooks in Action: With Suspense and Concurrent Mode by John Larsen
@@ -395,6 +399,15 @@ Vue.js Admin Dashboard Templates
 - React Design Patterns and Best Practices by Michele Bertoli
 - React in Action by Mark Tielens Thomas
 - React: Up and Running by Stoyan Stefanov
+
+React with TypeScript
+
+- Learn React with TypeScript: A beginner's guide to reactive web development with React 18 and TypeScript (2nd, 2023) by Carl Rippon
+
+Best Practices
+
+- React 18 Design Patterns and Best Practices: Design, build, and deploy production-ready web applications with React by leveraging industry-best practices (4th, 2023) by Carlos Santana Roldán
+- React Application Architecture for Production: Learn best practices and expert tips to deliver enterprise-ready React web apps (2023) by Alan Alickovic 
 
 React Ecosystem
 
@@ -678,7 +691,7 @@ Others
 - Professional Node.Js: Building JavaScript Based Scalable Software by Pedro Teixeira
 - Learning Node by Shelley Powers
 
-### Frameworks Of Node.js
+### Full Stack Frameworks
 
 #### Express.js
 
@@ -689,6 +702,10 @@ Others
 #### Next.js
 
 - [Next.js](https://nextjs.org/) - The React Framework for the Web.
+- The Complete Developer: Master the Full Stack with TypeScript, React, Next.js, MongoDB, and Docker (2024) by Martin Krause
+- Real-World Next.js: Build scalable, high-performance, and modern web applications using Next.js, the React framework for production (2022) by Michele Riva
+- Beginning Next.js Development: Learn NextJS and Build a Full Stack Dynamic Application Using React, NextJS, TailwindCSS, and MongoDB (2024) by Nathan Sebhastian
+- Dynamic Trio: Building Web Applications with React, Next.js & Tailwind (2023) by Grace Huang
 
 #### Koa.js
 
