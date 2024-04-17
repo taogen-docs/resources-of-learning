@@ -933,10 +933,19 @@ Articles
 
 Books
 
-- The Art of Asking ChatGPT for High-Quality Answers: A Complete Guide to Prompt Engineering Techniques by Ibrahim John
-- The Art of Prompt Engineering with chatGPT: A Hands-On Guide for using chatGPT by Nathan Hunter
-- THE POWER OF PROMPT ENGINEERING: HOW TO UNLOCK THE POTENTIAL OF AI LANGUAGE MODELS by Ramandeep Singh
-- The ChatGPT Millionaire: Making Money Online has never been this EASY by Neil Dagger
+- AI Prompt
+  - The Art of Asking ChatGPT for High-Quality Answers: A Complete Guide to Prompt Engineering Techniques by Ibrahim John
+  - The Art of Prompt Engineering with chatGPT: A Hands-On Guide for using chatGPT by Nathan Hunter
+  - THE POWER OF PROMPT ENGINEERING: HOW TO UNLOCK THE POTENTIAL OF AI LANGUAGE MODELS by Ramandeep Singh
+  - The ChatGPT Millionaire: Making Money Online has never been this EASY by Neil Dagger
+  - Prompt Engineering and ChatGPT: How to Easily 10X Your Productivity, Creativity, and Make More Money Without Working Harder by Russel Grant
+- AI
+  - Co-Intelligence: Living and Working with AI (2024) by Ethan Mollick 
+  - The Age of AI: And Our Human Future (2021) by Henry A Kissinger, Eric Schmidt, Daniel Huttenlocher
+  - AI 2041: Ten Visions for Our Future (2021) by Kai-Fu Lee, Chen Qiufan
+- Generative Intelligence
+  - AI FOR BEGINNERS: The Ultimate Guide to Mastering Generative Intelligence, From Theory to Practice (2024) by Alan Miller
+  - AI Made Simple: A Beginner’s Guide to Generative Intelligence (2023) by Rajeev Kapur
 
 Tutorials
 
