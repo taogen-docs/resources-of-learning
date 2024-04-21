@@ -307,7 +307,7 @@ Top Cloud Databases providers
 
 Top full-text search engine service providers
 
-1. Elasticsearch
+1. Elasticsearch - Elastic Cloud
 2. Apache Solr
 3. Amazon CloudSearch
 4. Microsoft Azure Cognitive Search
