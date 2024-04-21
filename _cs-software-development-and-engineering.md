@@ -202,40 +202,40 @@ Chatbot wrapper
 
 > Infrastructure as a Service (IaaS)—The vendor provides the infrastructure that lets you access computing resources such as servers, storage, and networks. In this model, the user is responsible for everything related to the maintenance of the infrastructure and the scalability of the application.
 
-IaaS Providers
+Top IaaS Providers
 
-- Alibaba Elastic Compute Service
-- Amazon EC2
-- Azure Virtual Machines
-- DigitalOcean Droplets
-- Google Compute Engine
-- IBM Cloud Private
-- Linode
-- Synology Virtual Machine Manager
+1. Amazon Web Services (AWS) - Amazon Elastic Compute Cloud (EC2)
+2. Microsoft Azure - Azure Virtual Machines
+3. Google Cloud Platform (GCP) - Google Compute Engine (GCE)
+4. IBM Cloud - IBM Virtual Servers
+5. Oracle Cloud Infrastructure (OCI) - Oracle Compute
+6. Alibaba Cloud - Elastic Compute Service (ECS)
 
 ### Container as a Service (CaaS)
 
 > An intermediate model between the IaaS and the PaaS, it refers to a form of container-based virtualization. Unlike an IaaS model, where a developer manages the virtual machine to which the service is deployed, with CaaS, you deploy your microservices in a lightweight, portable virtual container (such as Docker) to a cloud provider. The cloud provider runs the virtual server the container is running on, as well as the provider’s comprehensive tools for building, deploying, monitoring, and scaling containers.
 
-CaaS Providers
+Top CaaS Providers
 
-- Google Container Engine (GKE)
-- Amazon’s Elastic Container Service (ECS)
+1. Amazon Elastic Container Service (ECS)
+2. Google Kubernetes Engine (GKE)
+3. Microsoft Azure Kubernetes Service (AKS)
+4. IBM Cloud Kubernetes Service
+5. Docker Enterprise
+6. Red Hat OpenShift
 
 ### Platform as a service (PaaS)
 
 > Platform as a service (PaaS) is a cloud computing model where a third-party provider delivers hardware and software tools to users over the internet. PaaS frees developers from having to install in-house hardware and software to develop or run a new application.
 >
-> This model provides a platform and an environment that allow users to focus on the development, execution, and maintenance of the application. The applications can be created with tools that are provided by the vendor (for example, operating system, database management systems, technical support, storage, hosting, network, and more). Users do not need to invest in a physical infrastructure, nor spend time managing it, allowing them to concentrate exclusively on the development of applications.
+> This model provides a platform and an environment that **allow users to focus on the development, execution, and maintenance of the application**. The applications can be created with **tools that are provided by the vendor** (for example, **operating system, database management systems, technical support, storage, hosting, network, and more**). Users do not need to invest in a physical infrastructure, nor spend time managing it, allowing them to concentrate exclusively on the development of applications.
 
-PaaS Providers
+Top PaaS Providers
 
-- Microsoft Azure
-- Amazon Web Services
-- Google Cloud
-- IBM Cloud
-- Oracle Cloud Infrastructure
-- Alibaba Cloud
+1. Amazon Web Services (AWS) Elastic Beanstalk: AWS Elastic Beanstalk is a fully managed PaaS offering by Amazon Web Services. It supports various programming languages and platforms, providing an easy way to deploy and scale applications without managing the underlying infrastructure. 
+2. Microsoft Azure App Service
+3. Google Cloud Platform (GCP) App Engine
+4. Heroku: Heroku is a popular PaaS provider known for its simplicity and ease of use. It supports several programming languages and frameworks, making it easy to deploy and scale applications. Heroku provides a seamless integration with Git and offers a wide range of add-ons for additional functionality.
 
 ### Function as a Service (FaaS)
 
@@ -243,16 +243,12 @@ PaaS Providers
 
 FaaS Providers
 
-- [AWS Lambda](https://aws.amazon.com/lambda/)
-- Google Cloud Functions
-- Azure Cloud Functions
-- Cloudflare Workers
-- Twilio Functions
-- Iron.io
-- Netlify Functions
-- IBM Cloud Functions
-- Alibaba Functions
-- Oracle Functions
+1. [Amazon Web Services (AWS) Lambda](https://aws.amazon.com/lambda/)
+2. Microsoft Azure Functions
+3. Google Cloud Functions
+4. IBM Cloud Functions
+5. Alibaba Cloud Function Compute
+6. Oracle Functions
 
 NOTE If you’re not careful, FaaS-based platforms can lock your code into a cloud vendor platform because your code is deployed to a vendor-specific runtime engine. With a FaaS-based model, you might be writing your service using a general programming language (Java, Python, JavaScript, and so on), but you’re still tying yourself to the underlying vendor’s APIs and runtime engine that your function will be deployed to.
 
@@ -263,6 +259,18 @@ NOTE If you’re not careful, FaaS-based platforms can lock your code into a clo
 AIaaS Providers
 
 - [OpenAI](https://platform.openai.com/overview)
+
+### Backend as a Service (BaaS)
+
+>Backend as a Service (BaaS), also known as Mobile Backend as a Service (MBaaS), is a cloud computing model that provides developers with a pre-built backend infrastructure for their applications. It allows developers to focus on building the frontend or client-side of their applications without worrying about server-side infrastructure management.
+
+>In BaaS, the backend infrastructure, including servers, databases, storage, and other resources, is provided and managed by a third-party service provider. Developers can access these services through APIs (Application Programming Interfaces) to perform tasks such as data storage, user authentication, push notifications, file storage, and more.
+
+Top BaaS Providers
+
+1. Firebase: Firebase, owned by Google, offers a comprehensive suite of backend services, including real-time database, authentication, hosting, storage, and more.
+2. AWS Amplify: Amplify, provided by Amazon Web Services (AWS), offers a range of services for building scalable and secure applications, including authentication, storage, APIs, and more.
+3. Parse: Parse is an open-source BaaS platform that provides services like database management, user authentication, push notifications, and cloud storage.
 
 ### Software as a service (SaaS)
 
@@ -280,6 +288,42 @@ Top SaaS Companies
 - ServiceNow
 - Zoho
 - Zoom
+
+
+### Cloud Database Service
+
+Top Cloud Databases providers
+
+1. Amazon Web Services (AWS) - Amazon RDS, Amazon DynamoDB (NoSQL key-value database), Amazon Aurora (global-scale RDS), Amazon DocumentDB (document database), Amazon Neptune (graph database), etc.
+2. Microsoft Azure - Azure SQL Database, Azure Cosmos DB, Azure Database for PostgreSQL, Azure Database for MySQL, Azure Cache for Redis, etc.
+3. Google Cloud Platform (GCP) - Cloud SQL, Cloud Spanner, Firestore, Bigtable, Memorystore for Redis, etc.
+4. IBM Cloud - IBM Db2 on Cloud, IBM Cloud Databases for PostgreSQL, IBM Cloud Databases for MongoDB, IBM Db2 Warehouse on Cloud, etc.
+5. Oracle Cloud Infrastructure (OCI) - Oracle Autonomous Database, Oracle MySQL Database Service, Oracle Database Service, Oracle NoSQL Database Cloud Service, etc.
+6. Alibaba Cloud - ApsaraDB for RDS, ApsaraDB for PolarDB (cloud-native relational database service with auto scaling), ApsaraDB for MongoDB, ApsaraDB for Redis, etc.
+7. MongoDB Atlas - MongoDB Atlas is a fully managed cloud database service provided by MongoDB. It offers a scalable and flexible platform for running MongoDB databases in the cloud.
+8. FaunaDB - FaunaDB is a globally distributed, serverless cloud database that provides strong consistency and ACID transactions. It is designed for modern application development and offers flexible data modeling capabilities.
+
+### Full-Text Search Engine Service
+
+Top full-text search engine service providers
+
+1. Elasticsearch
+2. Apache Solr
+3. Amazon CloudSearch
+4. Microsoft Azure Cognitive Search
+5. Algolia
+6. MeiliSearch
+
+### Object Storage Service
+
+Top object storage providers
+
+- Amazon Web Services (AWS) S3
+- Microsoft Azure Blob Storage
+- Google Cloud Storage
+- IBM Cloud Object Storage
+- Alibaba Cloud Object Storage Service
+- Wasabi
 
 <br>
 
