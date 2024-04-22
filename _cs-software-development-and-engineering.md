@@ -318,12 +318,31 @@ Top full-text search engine service providers
 
 Top object storage providers
 
-- Amazon Web Services (AWS) S3
-- Microsoft Azure Blob Storage
-- Google Cloud Storage
-- IBM Cloud Object Storage
-- Alibaba Cloud Object Storage Service
-- Wasabi
+1. Amazon Web Services (AWS) S3
+2. Microsoft Azure Blob Storage
+3. Google Cloud Storage
+4. IBM Cloud Object Storage
+5. Alibaba Cloud Object Storage Service
+6. Wasabi
+
+### CDN Service
+
+Top CDN Service providers
+
+1. Cloudflare: Cloudflare is one of the most popular and widely used CDN providers. It offers a range of services including CDN, DDoS protection, DNS management, and security features.
+2. Akamai Technologies: Akamai is a well-established and highly regarded CDN provider. They offer a comprehensive suite of services, including CDN, cloud security, media delivery, and web performance optimization.
+3. Fastly: Fastly is known for its high-performance CDN and edge computing capabilities. It provides real-time content delivery and advanced caching options, making it suitable for dynamic and personalized content delivery.
+4. Amazon CloudFront: Amazon CloudFront is a part of Amazon Web Services (AWS) and offers a scalable and global CDN solution. It integrates well with other AWS services and provides features like dynamic content delivery, video streaming, and security options.
+5. StackPath: StackPath is a CDN provider that focuses on security and edge computing. They offer CDN, DDoS protection, web application firewall, and other security services.
+
+### Static Web Hosting Service
+
+Top static web hosting providers
+
+1. Netlify: Netlify is a leading static web hosting platform known for its simplicity and developer-friendly features. It offers continuous deployment, custom domain support, form handling, serverless functions, and built-in CDN.
+2. Vercel: Vercel, previously known as Zeit, specializes in static site hosting and serverless functions. It supports popular frameworks like Next.js, Gatsby, and Nuxt.js. Vercel provides features like automatic deployments, edge caching, global CDN, and custom domains.
+3. GitHub Pages: GitHub Pages is a free hosting service provided by GitHub. It allows you to host static websites directly from your GitHub repositories. It supports custom domains, SSL certificates, and offers GitHub's version control features.
+4. AWS Amplify: AWS Amplify is a cloud development platform that includes static web hosting capabilities. It provides a scalable and secure hosting environment, supports custom domains, SSL certificates, and integrates with other AWS services.
 
 <br>
 
@@ -571,6 +590,18 @@ Jenkins
 - Jenkins 2: Up and Running: Evolve Your Deployment Pipeline for Next Generation Automation by Brent Laster
 - Jenkins: The Definitive Guide by John Smart
 - Learning Continuous Integration with Jenkins by Nikhil Pathania
+
+Best CI/CD Tools in DevOps
+
+- Jenkins
+- GitHub Action
+- GitLab CI
+- Azure DevOps
+- CircleCI
+- Bitbucket Pipelines
+- AWS CodePipeline/AWS CodeStar
+- TeamCity
+- Travis CI
 
 ### Infrastructure as Code (IaC)
 
