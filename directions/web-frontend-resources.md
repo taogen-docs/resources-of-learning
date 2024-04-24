@@ -180,6 +180,16 @@ Font
 
 - [Google Font](https://fonts.google.com/)
 
+Icon
+
+- [yesicon](https://yesicon.app/). It's the best icon search engine. Curated High-Quality, Open-Source, and Free.
+- [iconify](https://icon-sets.iconify.design/). Iconify is an open source project. All popular icon sets, one framework.
+- [lucide](https://lucide.dev/). Beautiful & consistent icons made by the community.
+- [react-icons](https://react-icons.github.io/react-icons/). Include popular icons in your React projects easly with react-icons.
+- [heroicons](https://heroicons.com/). Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.
+- [Boxicons](https://boxicons.com/). High Quality Web Icons. Simple Open Source icons carefully crafted for designers & developers.
+- [fontawesome](https://fontawesome.com/icons). Take the hassle out of icons in your website. Font Awesome is the Internet's icon library and toolkit, used by millions of designers, developers, and content creators.
+
 <br>
 
 <h2><a name="js_t" href="#js_c">JavaScript</a></h2>
