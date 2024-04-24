@@ -92,6 +92,7 @@ HTML
 - [HTML - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [HTML Living Standard](https://html.spec.whatwg.org/multipage/) - It describes exactly how HTML (all the HTML elements, and their associated APIs, and other surrounding technologies) should be implemented.
 - [HTML Tutorial - w3schools](https://www.w3schools.com/html/default.asp)
+- [HTML CheatSheet](https://htmlcheatsheet.com/)
 
 CSS
 
@@ -106,6 +107,7 @@ CSS
 - CSS Cookbook by Christopher Schmitt
 - [CSS - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [CSS Tutorial - w3schools](https://www.w3schools.com/css/default.asp)
+- [CSS CheatSheet](https://htmlcheatsheet.com/css/)
 
 Responsive Design 
 
@@ -202,6 +204,7 @@ Primary
 - A Smarter Way to Learn JavaScript: The new approach that uses technology to cut your effort in half by Mark Myers
 - [JavaScript - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [JavaScript - w3schools](https://www.w3schools.com/js/default.asp)
+- [JavaScript CheatSheet](https://htmlcheatsheet.com/js/)
 - ⭐**JavaScript: The Definitive Guide** (7th, 2020) by David Flanagan (**犀牛书**)
 - **Professional JavaScript for Web Developers** (5th, 2023) by Matt Frisbie (**红宝书**)
 - Beginning JavaScript by Jeremy McPeak 
@@ -301,6 +304,7 @@ Quizzes
 
 - [jQuery API Documentation - doc]( https://api.jquery.com/ )
 - [jQuery Learning Center - doc]( https://learn.jquery.com/ )
+- [jQuery CheatSheet](https://htmlcheatsheet.com/jquery/)
 - jQuery in Action by Bear Bibeault
 - Learning jQuery by Jonathan Chaffer
 - JQuery Cookbook by Cody Lindley
