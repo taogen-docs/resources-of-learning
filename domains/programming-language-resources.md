@@ -21,6 +21,17 @@ Primary
 - **The C Programming Language** (2nd, 1988) by Brian W. Kernighan, Denis M. Ritchie (**TCPL**)
 - C Primer Plus (6th, 2013) by Stephen Prata
 
+Style Guide
+
+- [C Style Guidelines](https://www.cs.umd.edu/~nelson/classes/resources/cstyleguide/)
+- [Style Guide for C](https://cs50.readthedocs.io/style/c/)
+- [c-code-style](https://github.com/MaJerle/c-code-style)
+
+Project Structure
+
+- [How to Structure C Projects: These Best Practices Worked for Me](https://www.lucavall.in/blog/how-to-structure-c-projects-my-experience-best-practices)
+
+
 Advanced
 
 - Pointers on C (1997) by Kenneth A·Reek 
@@ -41,6 +52,16 @@ Introductory, with previous programming experience
 - **A Tour of C++** (3rd, 2022) by Bjarne Stroustrup
 - Accelerated C++: Practical Programming by Example by Andrew Koenig
 - Essential C++ by Stanley B. Lippman
+
+Style Guide
+
+- [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
+
+Project Structure
+
+- [C++ Project Structure and Cross-Platform Build With CMake](https://medium.com/swlh/c-project-structure-for-cmake-67d60135f6f5)
+- [What is a general C++ project structure like?](https://www.linkedin.com/pulse/what-general-c-project-structure-like-herbert-elwood-gilliland-iii/)
+- [C++ application development ( Part 1 — Project structure )](https://medium.com/heuristics/c-application-development-part-1-project-structure-454b00f9eddc)
 
 Best practices
 
@@ -255,6 +276,15 @@ Primary
 - Rust Programming By Example: Enter the World of Rust by Building Engaging, Concurrent, Reactive, and Robust Applications by Antoni Boucher and Guillaume Gomez
 - Rust in Action by Tim McNamara
 
+Style Guide
+
+- [The Rust Style Guide](https://doc.rust-lang.org/nightly/style-guide/index.html)
+
+Project Structure
+
+- [Package Layout](https://doc.rust-lang.org/cargo/guide/project-layout.html#package-layout)
+- [Rust: Project structure example step by step](https://dev.to/ghost/rust-project-structure-example-step-by-step-3ee)
+
 Advanced
 
 - Concurrency
@@ -325,6 +355,16 @@ Primary
 - Pro C# 10 with .NET 6: Foundational Principles and Practices in Programming (11th, 2022) by Andrew Troelsen, Phil Japikse
 - Professional C# and .NET (2021) by Christian Nagel
 
+Style Guide
+
+- [Common C# code conventions](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions)
+- [C# at Google Style Guide](https://google.github.io/styleguide/csharp-style.html)
+
+Project Structure
+
+- [My Favorite C# Features - Part 4: Project Structure](https://dev.to/dotnet/my-favorite-c-features-part-4-project-structure-454p)
+- [Common Practices In .NET Project Structure](https://www.c-sharpcorner.com/article/common-practices-in-net-project-structure/)
+
 Advanced
 
 - Dive into
@@ -379,6 +419,17 @@ Reference [Java Resources](../directions/java-resources.md)
 - Agile Web Development with Rails: A Pragmatic Guide by Dave Thomas
 - Practical Object Oriented Design in Ruby by Sandi Metz
 
+Style Guide
+
+- [Ruby in Style](https://ruby.style/)
+- [Ruby Style Guide](https://rubystyle.guide/)
+- [Shopify Ruby Style Guide](https://ruby-style-guide.shopify.dev/#ruby-style-guide)
+
+Project Structure
+
+- [Project Etiquette](https://backend.turing.edu/module1/lessons/project_etiquette)
+- [A guide to understanding Ruby on Rails directory structure](https://github.com/jwipeout/rails-directory-structure-guide)
+
 Web Frameworks
 
 - [Ruby on Rails](https://rubyonrails.org/)
@@ -411,6 +462,17 @@ Tools
 - PHP Objects, Patterns, and Practice by Matt Zandstra
 - PHP for the Web: Visual QuickStart Guide by Larry Ullman
 - PHP 6 and MySQL 5 for Dynamic Web Sites: Visual Quickpro Guide by Larry Ullman
+
+Style Guide
+
+- [PSR-2: Coding Style Guide](https://www.php-fig.org/psr/psr-2/)
+- [PHP style guide with coding standards and best practices.](https://gist.github.com/ryansechrest/8138375)
+
+Project Structure
+
+- [How to choose a PHP project directory structure](https://docs.php.earth/faq/misc/structure/)
+- [Laravel Directory Structure](https://laravel.com/docs/master/structure)
+
 
 Web Frameworks
 
@@ -459,6 +521,19 @@ Prime
 - Python Basics: A Practical Introduction to Python 3 (2021) by David Amos, Dan Bader
 - Python Tricks: A Buffet of Awesome Python Features (2017) by Dan Bader
 - The Quick Python Book (3rd, 2018) by Naomi Ceder
+
+Style Guide
+
+- [PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/)
+- [PEP 257 – Docstring Conventions](https://peps.python.org/pep-0257/)
+- [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
+
+Project Structure
+
+- [Structuring Your Project](https://docs.python-guide.org/writing/structure/)
+- [Guide to Python Project Structure and Packaging](https://medium.com/@joshuale/a-practical-guide-to-python-project-structure-and-packaging-90c7f7a04f95)
+- [Best Practices in Structuring Python Projects](https://dagster.io/blog/python-project-best-practices#9-best-practices-for-structuring-python-projects)
+- [Python Application Layouts: A Reference](https://realpython.com/python-application-layouts/)
 
 Advanced
 
