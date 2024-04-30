@@ -599,6 +599,10 @@ Resources
 - [Python Tips](https://pythontips.com/)
 - [Full Stack Python](https://www.fullstackpython.com/)
 
+Libraries
+
+- [Python Libraries](/domains/python-libraries.md)
+
 Web Frameworks
 
 - Full Stack
