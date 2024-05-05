@@ -382,6 +382,11 @@ Rank
 - Testing Vue. Js Applications by Edd Yerburgh
 - The Majesty of Vue.js by Alex Kyriakidis, Kostas Maniatis, Evan You
 
+Vue Project Structures
+
+- [How to structure my Vue.js project](https://itnext.io/how-to-structure-my-vue-js-project-e4468db005ac)
+- [Overview of a Vue project](https://worldline.github.io/vuejs-training/views/#overview-of-a-vue-project)
+
 Vue.js v2.x Ecosystem
 
 - [Vue CLI - doc](https://cli.vuejs.org/)
@@ -413,6 +418,11 @@ Vue.js Admin Dashboard Templates
 - React Design Patterns and Best Practices by Michele Bertoli
 - React in Action by Mark Tielens Thomas
 - React: Up and Running by Stoyan Stefanov
+
+React Project Structures
+
+- [How To Structure React Projects From Beginner To Advanced](https://blog.webdevsimplified.com/2022-07/react-folder-structure/)
+- [Understanding Reactjs Project Structure and Best Practices](https://www.xenonstack.com/insights/reactjs-project-structure)
 
 React with TypeScript
 
