@@ -379,6 +379,84 @@ Tutorials
 
 <br>
 
+### System Architecture
+
+Roadmap
+
+- [Roadmap.sh's Software Architect](https://roadmap.sh/software-architect)
+- [Software Engineer to Software Architect - Roadmap for Success](https://medium.com/@yt-cloudwaydigital/from-software-developer-to-software-architect-roadmap-to-success-695951521d9b)
+
+Software Architect
+
+- 12 Essential Skills for Software Architects (2011) by Dave Hendricksen
+- 12 More Essential Skills for Software Architects (2014) by Dave Hendricksen
+- Solutions Architect's Handbook: Kick-start your solutions architect career by learning architecture design principles and strategies (2020) by Saurabh Shrivastava, Neelanjali Srivastav, Kamal Arora
+- Design It!: From Programmer to Software Architect (2017) by Michael Keeling
+- The Software Architect Elevator: Redefining the Architect's Role in the Digital Enterprise (2020) by Gregor Hohpe
+
+System Architecture
+
+- **Patterns of Enterprise Application Architecture** (2002) by Martin Fowler
+- **Enterprise Integration Patterns** (2003) by Gregor Hohpe
+- System Design Interview – An insider’s guide Volume 1 (2020) by Alex Xu. [Preview](https://systeminterview.com/)
+- System Design Interview – An Insider's Guide: Volume 2 (2022) by Alex Xu and Sahn Lam
+- **Clean Architecture** (2017) by Robert Cecil Martin
+- **Information Architecture: For the Web and Beyond. Designing Large-scale Web Sites** (4th, 2015) by Louis Rosenfeld , Peter Morville
+- The Design of Design: Essays from a Computer Scientist (2010) by Frederick P. Brooks Jr
+- Pattern-Oriented Software Architecture Volume 1~5 (1996) by Frank Buschmann, Hans Rohnert
+- Building Evolutionary Architectures: Support Constant Change (2017) by Neal Ford, Patrick Kua, and Rebecca Parsons
+- Web Application Architecture: Principles, Protocols and Practices (2009) by Leon Shklar
+- Software Architecture: Foundations, Theory, and Practice (2009) by Richard N. Taylor
+- Java Application Architecture: Modularity Patterns with Examples Using OSGi (2012) by Kirk Knoernschild
+- System Architecture: Strategy and Product Development for Complex Systems (2015) by Bruce Cameron, Daniel Selva, and Edward F. Crawley
+- Just Enough Software Architecture: A Risk-Driven Approach (2010) by George Fairbanks
+- Software Systems Architecture: Working With Stakeholders Using Viewpoints and Perspectives (2011) by Nick Rozanski and Eoin Woods
+- Software Architecture for Developers: Volume 1 - Technical leadership and the balance with agility (2012) by Simon Brown
+- Software Architecture for Developers: Volume 2 - Visualise, document and explore your software architecture (2015) by Simon Brown
+- Software Architecture in Practice (3rd, 2012) by Len Bass, Paul Clements, Rick Kazman
+- Technology Strategy Patterns: Architecture as Strategy (2018) by Eben Hewitt
+- Cloud Native Infrastructure: Patterns for Scalable Infrastructure and Applications in a Dynamic Environment (2017) by Justin Garrison and Kris Nova
+- Architecture Modernization - Socio-technical alignment of software, strategy, and structure by Nick Tune
+- Fundamentals of Software Architecture: An Engineering Approach (2020) by Mark Richards, Neal Ford
+- Software Architecture: The Hard Parts: Modern Tradeoff Analysis for Distributed Architectures (2021) by Neal Ford, Mark Richards, Pramod J. Sadalage
+- Architecture Patterns with Python: Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices (2020) by Harry Percival and Bob Gregory
+- Foundations of Scalable Systems by Ian Gorton
+- Software Systems Architecture: Working with Stakeholders Using Viewpoints and Perspectives by Nick Rozanski, Eoin Woods
+- 企业IT架构转型之道：阿里巴巴中台战略思想与架构实战 (2017) by 钟华
+- 大型网站技术架构 (2013) by 李智慧
+- 大型网站系统与JAVA中间件实践 (2014) by 曾宪杰
+- 分布式服务架构：原理、设计与实战 (2017) by 李艳鹏 / 杨彪
+- 亿级流量网站架构核心技术 (2017) by  张开涛
+- 架构修炼之道：亿级网关、平台开放、分布式、微服务、容错等核心技术修炼实践 (2019) by 王新栋
+- 从零开始学架构 (2018) by 李运华
+- 业务架构•应用架构•数据架构实战 (2021) by 温昱
+- 软件架构设计：程序员向架构师转型必备 (2012) by 温昱
+- 软件架构设计：大型网站技术架构与业务架构融合之道 (2019) by 余春龙
+- 凤凰架构：构建可靠的大型分布式系统 (2021) by 周志明
+- 淘宝技术这十年 (2013) by 子柳
+- 深入分布式缓存：从原理到实践 (2017) by 于君泽 / 曹洪伟 / 邱硕
+- 聊聊架构 (2017) by 王概凯
+- 构建高性能Web站点 (2012) by 郭欣
+
+Articles
+
+- [What is Web Application Architecture? How It Works, Trends, Best Practices and More](https://stackify.com/web-application-architecture/)
+- [Fundamentals of web application architecture](https://www.peerbits.com/blog/web-application-architecture.html)
+- [WEB APPLICATION ARCHITECTURE: THE BASICS](https://www.intellectsoft.net/blog/web-application-architecture/)
+- [Web Application Architecture](https://medium.com/existek/web-application-architecture-da77ea0cb520)
+
+Metrics
+
+- Software Architecture Metrics by Christian Ciceri, David Farley, Neal Ford
+
+Security
+
+- Secure By Design (2019) by Daniel Deogun, Dan Bergh Johnsson, Daniel Sawano
+
+Resources
+
+- [Software Architecture Books](https://github.com/mhadidg/software-architecture-books)
+
 ### Software Design, OOD
 
 
@@ -408,81 +486,13 @@ Tutorials
 - Grokking the System Design Interview
 - Alex Yu - System Design Interview_ An Insider’s Guide
 
-### Application Architecture
-
-Domain-Driven Design
+### Domain-Driven Design
 
 - **Domain-Driven Design: Tackling Complexity in the Heart of Software** (2003) by Eric Evans
 - **Implementing Domain-Driven Design** (2013) by Vaughn Vernon
 - **Learning Domain-Driven Design: Aligning Software Architecture and Business Strategy** (2021) by Vlad Khononov
 - Domain-Driven Design Distilled (2016) by Vaughn Vernon
-
-
-Application Architecture
-
-- **Patterns of Enterprise Application Architecture** (2002) by Martin Fowler
-- **Enterprise Integration Patterns** (2003) by Gregor Hohpe
-- **Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems** (2017) by Martin Kleppmann (DDIA)
-- System Design Interview – An insider’s guide Volume 1 (2020) by Alex Xu. [Preview](https://systeminterview.com/)
-- System Design Interview – An Insider's Guide: Volume 2 (2022) by Alex Xu and Sahn Lam
-- **Clean Architecture** (2017) by Robert Cecil Martin
-- **Information Architecture: For the Web and Beyond. Designing Large-scale Web Sites** (4th, 2015) by Louis Rosenfeld , Peter Morville
-- The Design of Design: Essays from a Computer Scientist (2010) by Frederick P. Brooks Jr
-- Pattern-Oriented Software Architecture Volume 1~5 (1996) by Frank Buschmann, Hans Rohnert
-- Building Evolutionary Architectures: Support Constant Change (2017) by Neal Ford, Patrick Kua, and Rebecca Parsons
-- Web Application Architecture: Principles, Protocols and Practices (2009) by Leon Shklar
-- Software Architecture: Foundations, Theory, and Practice (2009) by Richard N. Taylor
-- Java Application Architecture: Modularity Patterns with Examples Using OSGi (2012) by Kirk Knoernschild
-- System Architecture: Strategy and Product Development for Complex Systems (2015) by Bruce Cameron, Daniel Selva, and Edward F. Crawley
-- Just Enough Software Architecture: A Risk-Driven Approach (2010) by George Fairbanks 
-- Software Systems Architecture: Working With Stakeholders Using Viewpoints and Perspectives (2011) by Nick Rozanski and Eoin Woods 
-- Software Architecture for Developers: Volume 1 - Technical leadership and the balance with agility (2012) by Simon Brown
-- Software Architecture for Developers: Volume 2 - Visualise, document and explore your software architecture (2015) by Simon Brown
-- Software Architecture in Practice (3rd, 2012) by Len Bass, Paul Clements, Rick Kazman
-- Technology Strategy Patterns: Architecture as Strategy (2018) by Eben Hewitt
-- Cloud Native Infrastructure: Patterns for Scalable Infrastructure and Applications in a Dynamic Environment (2017) by Justin Garrison and Kris Nova
-- 企业IT架构转型之道：阿里巴巴中台战略思想与架构实战 (2017) by 钟华
-- 大型网站技术架构 (2013) by 李智慧
-- 大型网站系统与JAVA中间件实践 (2014) by 曾宪杰
-- 分布式服务架构：原理、设计与实战 (2017) by 李艳鹏 / 杨彪 
-- 亿级流量网站架构核心技术 (2017) by  张开涛 
-- 架构修炼之道：亿级网关、平台开放、分布式、微服务、容错等核心技术修炼实践 (2019) by 王新栋
-- 从零开始学架构 (2018) by 李运华
-- 业务架构•应用架构•数据架构实战 (2021) by 温昱
-- 软件架构设计：程序员向架构师转型必备 (2012) by 温昱
-- 软件架构设计：大型网站技术架构与业务架构融合之道 (2019) by 余春龙
-- 凤凰架构：构建可靠的大型分布式系统 (2021) by 周志明
-- 淘宝技术这十年 (2013) by 子柳
-- 深入分布式缓存：从原理到实践 (2017) by 于君泽 / 曹洪伟 / 邱硕
-- 聊聊架构 (2017) by 王概凯
-- 构建高性能Web站点 (2012) by 郭欣
-
-Scalability
-
-- Web Scalability for Startup Engineers (2015) by Artur Ejsmont
-- The Art of Scalability: Scalable Web Architecture, Processes, and Organizations for the Modern Enterprise (2015) by Martin L. Abbott, Michael T. Fisher
-- Building Scalable Web Sites (2006) by Cal Henderson
-- Web Scalability for Startup Engineers (2015) by Artur Ejsmont
-- Scalability Rules: Principles for Scaling Web Sites (2016) by Martin L. Abbott,  Michael T. Fisher
-- Scalability Rules: 50 Principles for Scaling Web Sites (2011) by Martin L. Abbott,  Michael T. Fisher
-
-Security
-
-- Secure By Design (2019) by Daniel Deogun, Dan Bergh Johnsson, Daniel Sawano
-
-New Books (2019~2021)
-
-- Fundamentals of Software Architecture: An Engineering Approach (2020) by Mark Richards, Neal Ford
-- The Software Architect Elevator: Redefining the Architect's Role in the Digital Enterprise (2020) by Gregor Hohpe
-- Architecture Patterns with Python: Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices (2020) by Harry Percival and Bob Gregory
-- Cloud Native Patterns: Designing change-tolerant software (2019) by Cornelia Davis
-- Cloud Native Transformation: Practical Patterns for Innovation (2019) by Pini Reznik , Jamie Dobson
-- Kubernetes Patterns: Reusable Elements for Designing Cloud-Native Applications (2019) by Bilgin Ibryam and Roland Huß
-- Cloud Native: Using Containers, Functions, and Data to Build Next-Generation Applications (2019) by Boris Scholl , Trent Swanson
-- Flow Architectures: The Future of Streaming and Event-Driven Integration (2021) by James Urquhart
-- Building Event-Driven Microservices: Leveraging Organizational Data at Scale (2020) by Adam Bellemare
-- Continuous Architecture in Practice: Software Architecture in the Age of Agility and Devops (2021) by Murat Erder, Eoin Woods, Pierre Pureur
-- Software Architecture: The Hard Parts: Modern Tradeoff Analysis for Distributed Architectures (2021) by Neal Ford, Mark Richards, Pramod J. Sadalage
+- Patterns Principles and Practices of Domain Driven Design by Scott Millett, Nick Tune
 
 ### Microservices Architecture
 
@@ -494,31 +504,63 @@ Microservices Architecture
 - Production-Ready Microservices (2016) by Susan J. Fowler
 - Bootstrapping Microservices with Docker, Kubernetes, and Terraform: A project-based guide (2021) by Ashley Davis
 - Strategic Monoliths and Microservices: Driving Innovation Using Purposeful Architecture by Vaughn Vernon, Tomasz Jaskula 
+- Microservice Patterns by Chris Richardson
+- The Tao of Microservices by Richard Rodger
+- Microservices From Design to Deployment by Chris Richardson, Floyd Earl Smith
+- Microservices AntiPatterns and Pitfalls by Mark Richards
 
 Microservices Security
 
 - Microservices Security in Action (2021) by Prabath Siriwardena and Nuwan Dias
 
+### Micro-Frontends
+
+- Building Micro-Frontends by Luca Mezzalira
+
+### Data Engineering
+
+- **Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems** (2017) by Martin Kleppmann (DDIA)
+- The Model Thinker: What You Need to Know to Make Data Work for You by Scott E. Page
+- Big Data: Principles and best practices of scalable realtime data systems by Nathan Marz, James Warren
+- Data Modeling Made Simple: A Practical Guide for Business and IT Professionals by Steve Hoberman
+
+### Streaming and Messaging
+
+- Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions by Gregor Hohpe
+- Making Sense of Stream Processing by Martin Kleppmann 
+- Streaming Systems by Tyler Akidau, Slava Chernyak, Reuven Lax
+- Designing Event-Driven Systems by Ben Stopford
+- Building Event-Driven Microservices: Leveraging Organizational Data at Scale (2020) by Adam Bellemare
+- Flow Architectures: The Future of Streaming and Event-Driven Integration (2021) by James Urquhart
+
+
+### Distributed Systems
+
+### Cloud Engineering
+
+- Cloud Native Patterns: Designing change-tolerant software (2019) by Cornelia Davis
+- Cloud Native Transformation: Practical Patterns for Innovation (2019) by Pini Reznik , Jamie Dobson
+- Kubernetes Patterns: Reusable Elements for Designing Cloud-Native Applications (2019) by Bilgin Ibryam and Roland Huß
+- Cloud Native: Using Containers, Functions, and Data to Build Next-Generation Applications (2019) by Boris Scholl , Trent Swanson
+
+### Web Scalability
+
+- Web Scalability for Startup Engineers (2015) by Artur Ejsmont
+- The Art of Scalability: Scalable Web Architecture, Processes, and Organizations for the Modern Enterprise (2015) by Martin L. Abbott, Michael T. Fisher
+- Building Scalable Web Sites (2006) by Cal Henderson
+- Web Scalability for Startup Engineers (2015) by Artur Ejsmont
+- Scalability Rules: Principles for Scaling Web Sites (2016) by Martin L. Abbott,  Michael T. Fisher
+- Scalability Rules: 50 Principles for Scaling Web Sites (2011) by Martin L. Abbott,  Michael T. Fisher
+
+### Agile
+
+- Continuous Architecture in Practice: Software Architecture in the Age of Agility and Devops (2021) by Murat Erder, Eoin Woods, Pierre Pureur
+
+### DevOps
 
 ### Security Architecture
 
 Reference [information-security-resources - Security Engineering and Architecture](directions/information-security-resources.md#seceng_t)
-
-
-### Architect
-
-- 12 Essential Skills for Software Architects (2011) by Dave Hendricksen 
-- 12 More Essential Skills for Software Architects (2014) by Dave Hendricksen
-- Solutions Architect's Handbook: Kick-start your solutions architect career by learning architecture design principles and strategies (2020) by Saurabh Shrivastava, Neelanjali Srivastav, Kamal Arora
-- Design It!: From Programmer to Software Architect (2017) by Michael Keeling
-
-
-Articles
-
-- [What is Web Application Architecture? How It Works, Trends, Best Practices and More](https://stackify.com/web-application-architecture/)
-- [Fundamentals of web application architecture](https://www.peerbits.com/blog/web-application-architecture.html)
-- [WEB APPLICATION ARCHITECTURE: THE BASICS](https://www.intellectsoft.net/blog/web-application-architecture/)
-- [Web Application Architecture](https://medium.com/existek/web-application-architecture-da77ea0cb520)
 
 <br>
 
