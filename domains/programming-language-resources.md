@@ -598,6 +598,7 @@ Resources
 - [awesome-python - GitHub](https://github.com/vinta/awesome-python)
 - [Python Tips](https://pythontips.com/)
 - [Full Stack Python](https://www.fullstackpython.com/)
+- [TheAlgorithms/Python - GitHub](https://github.com/TheAlgorithms/Python)
 
 Libraries
 

@@ -789,6 +789,11 @@ Website Performance
 - The Web Testing Handbook by Steven Splaine, Stefan P. Jaskiel
 - Algorithms of the Intelligent Web by Douglas McIlwraith, Haralambos Marmanis, Dmitry Babenko
 
+## Front-End Job Interview
+
+- [yangshun/front-end-interview-handbook - GitHub](https://github.com/yangshun/front-end-interview-handbook) ⭐️40.4k
+- [trekhleb/javascript-algorithms - GitHub](https://github.com/trekhleb/javascript-algorithms) ⭐️183k
+
 ## References
 
 [1] [What is Fullstack JS - w3schools]( https://www.w3schools.com/whatis/whatis_fullstack_js.asp )

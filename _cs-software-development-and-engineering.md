@@ -438,6 +438,17 @@ System Architecture
 - 聊聊架构 (2017) by 王概凯
 - 构建高性能Web站点 (2012) by 郭欣
 
+Resources
+
+- [donnemartin/system-design-primer - GitHub](https://github.com/donnemartin/system-design-primer) ⭐️256k
+- [ByteByteGoHq/system-design-101 - GitHub](https://github.com/ByteByteGoHq/system-design-101) ⭐️57.1k
+- [karanpratapsingh/system-design - GitHub](https://github.com/karanpratapsingh/system-design) ⭐️29.1k
+- [checkcheckzz/system-design-interview - GitHub](https://github.com/checkcheckzz/system-design-interview) ⭐️21.1k
+- [InterviewReady/system-design-resources - GitHub](https://github.com/InterviewReady/system-design-resources) ⭐️14.5k
+- [ashishps1/awesome-system-design-resources - GitHub](https://github.com/ashishps1/awesome-system-design-resources) ⭐️11.2k
+- [systemdesign42/system-design - GitHub](https://github.com/systemdesign42/system-design) ⭐️8.9k
+- [shashank88/system_design - GitHub](https://github.com/shashank88/system_design) ⭐️8.6k
+
 Articles
 
 - [What is Web Application Architecture? How It Works, Trends, Best Practices and More](https://stackify.com/web-application-architecture/)
@@ -1025,11 +1036,13 @@ Some more
 ### Job Interview
 
 General Guidance
+
 - Programming Interviews Exposed (4th, 2018) by Eric Giguere, John Mongan, and Noah Kindler
 - Elements of Programming Interviews: The Insiders' Guide by Adnan Aziz , Tsung-Hsien Lee
-- [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
+- [Tech Interview Handbook - GitHub](https://www.techinterviewhandbook.org/)
 
 Coding Interview (Algorithms)
+
 - Complete 300 questions on [LeetCode](https://leetcode.com/).
 - Cracking the Coding Interview: 189 Programming Questions and Solutions (2015) by Gayle Laakmann McDowell
 - Programming Pearl by Jon Bentley
@@ -1041,16 +1054,19 @@ Coding Interview (Algorithms)
 - 程序员代码面试指南：IT名企算法与数据结构题目最优解 (2015) by 左程云
 
 Software Design, OOD
+
 - Grokking the Object Oriented Design Interview
 - [system-design-primer](https://github.com/donnemartin/system-design-primer)
 
 System Design Interview
+
 - [Grokking the System Design Interview](https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers)
 - System Design Interview – An insider’s guide Volume 1 (2020) by Alex Xu. ~~[Preview](https://systeminterview.com/)~~
 - System Design Interview – An Insider's Guide: Volume 2 (2022) by Alex Xu and Sahn Lam
 - Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems (2017) by Martin Kleppmann (DDIA)
 
 Technical Interview
+
 - Java
   - Elements of Programming Interviews in Java: The Insiders' Guide by Adnan Aziz , Tsung-Hsien Lee
   - Java Programming Interviews Exposed by Noel Markham
@@ -1060,6 +1076,7 @@ Technical Interview
   - Joe Celko's SQL Puzzles and Answers by Joe Celkos
 
 Behavioral Interview
+
 - Articles
   - [10 Behavioral Interview Questions for Software Engineers](https://www.indeed.com/career-advice/interviewing/software-engineer-behavioral-interview-questions)
   - [The 30 most common Software Engineer behavioral interview questions](https://www.techinterviewhandbook.org/behavioral-interview-questions/)
@@ -1076,6 +1093,7 @@ Behavioral Interview
   - [DanCroitor](https://www.youtube.com/watch?v=IyPJFHFUpbQ&ab_channel=DanCroitor)
 
 Salary and Offer Negotiation
+
 - [How to negotiate for a higher salary](https://www.michaelpage.com.sg/advice/career-advice/salary-and-negotiation/how-negotiate-higher-salary)
 - [15 Rules for Negotiating a Job Offer](https://hbr.org/2014/04/15-rules-for-negotiating-a-job-offer)
 
