@@ -93,6 +93,7 @@ HTML
 - [HTML Living Standard](https://html.spec.whatwg.org/multipage/) - It describes exactly how HTML (all the HTML elements, and their associated APIs, and other surrounding technologies) should be implemented.
 - [HTML Tutorial - w3schools](https://www.w3schools.com/html/default.asp)
 - [HTML CheatSheet](https://htmlcheatsheet.com/)
+- [Learn HTML - Google](https://web.dev/learn/html)
 
 CSS
 
@@ -105,9 +106,11 @@ CSS
 - CSS in Depth by Keith J. Grant
 - The Book of CSS3: A Developer's Guide to the Future of Web Design by Peter Gasston
 - CSS Cookbook by Christopher Schmitt
+- [CSS Specification](https://www.w3.org/TR/css-2023/)
 - [CSS - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [CSS Tutorial - w3schools](https://www.w3schools.com/css/default.asp)
 - [CSS CheatSheet](https://htmlcheatsheet.com/css/)
+- [Learn CSS - Google](https://web.dev/learn/css)
 
 Responsive Design 
 
@@ -115,6 +118,7 @@ Responsive Design
 - Learning Responsive Web Design: A Beginner's Guide by Clarissa Peterson
 - Responsive Web Design with HTML5 and CSS3 by Ben Frain
 - Responsible Responsive Design by Scott Jehl
+- [Learn Responsive Design - Google](https://web.dev/learn/design)
 
 UI elements
 
@@ -215,6 +219,7 @@ Primary
 - [JavaScript - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [JavaScript - w3schools](https://www.w3schools.com/js/default.asp)
 - [JavaScript CheatSheet](https://htmlcheatsheet.com/js/)
+- [Learn JavaScript - Google](https://web.dev/learn/javascript)
 - ⭐**JavaScript: The Definitive Guide** (7th, 2020) by David Flanagan (**犀牛书**)
 - **Professional JavaScript for Web Developers** (5th, 2023) by Matt Frisbie (**红宝书**)
 - Beginning JavaScript by Jeremy McPeak 
@@ -780,6 +785,7 @@ Website Performance
 - **High Performance Browser Networking: What Every Web Developer Should Know about Networking and Web Performance** (2013) by Ilya Grigorik
 - **High Performance Web Sites: Essential Knowledge for Front-End Engineers** (2007) by Steve Souders
 - **Even Faster Web Sites: Performance Best Practices for Web Developers** (2009) by Steve Souders
+- [Learn Performance - Google](https://web.dev/learn/performance)
 - Web Performance Tuning (2nd, 2002) by Patrick Killelea
 - High Performance Images: Shrink, Load, and Deliver Images (2016) for Speed by Colin Bendell, Tim Kadlec
 - Professional Website Performance: Optimizing the Front End and the Back End by Peter Smith
