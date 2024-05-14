@@ -97,7 +97,7 @@ HTML
 
 CSS
 
-- ⭐**CSS: The Definitive Guide: Visual Presentation for the Web** (5th, 2023) by Eric A. Meyer and Estelle Weyl
+- ⭐**CSS: The Definitive Guide: Web Layout and Presentation** (5th, 2023) by Eric A. Meyer and Estelle Weyl
 - **CSS Secrets: Better Solutions to Everyday Web Design Problems** (2015) by Lea Verou
 - ⭐**CSS: The Missing Manual** (4th, 2015) by David McFarland
 - ⭐**Cascading Style Sheets: The Definitive Guide** (2000) by Eric A. Meyer
@@ -409,20 +409,23 @@ Vue.js Admin Dashboard Templates
 
 - [React Documentation - doc](https://reactjs.org/docs/getting-started.html)
 - [React Roadmap](https://roadmap.sh/react)
-- **The Road to React: Your journey to master plain yet pragmatic React.js** (2018) by Robin Wieruch
+- **The Road to React: The React.js with Hooks in JavaScript Book 2024 Edition** by Robin Wieruch
 - **Learning React: Modern Patterns for Developing React Apps** (2nd, 2020) by Alex Banks and Eve Porcello
-- **Learning React: Functional Web Development with React and Redux** (2017) by Alex Banks and Eve Porcello
-- React Key Concepts: Consolidate your knowledge of React’s core features by Maximilian Schwarzmüller
-- React Cookbook: Recipes for Mastering the React Framework by David Griffiths, Dawn Griffiths
+- Fluent React: Build Fast, Performant, and Intuitive Web Applications (2024) by Tejas Kumar
+- React Key Concepts: Consolidate your knowledge of React’s core features (2022) by Maximilian Schwarzmüller
+- React Cookbook: Recipes for Mastering the React Framework (2021) by David Griffiths, Dawn Griffiths
 - React Explained: Your Step-by-Step Guide to React (2020) by Zac Gordon
-- React Hooks in Action: With Suspense and Concurrent Mode by John Larsen
+- React Hooks in Action: With Suspense and Concurrent Mode (2021) by John Larsen
+- React Quickly (2nd, 2023) by Azat Mardan
+- React: Up and Running (2021) by Stoyan Stefanov
+
+Some More
+
+- Pro React 16 (2019) by Adam Freeman
 - Learning React: A Hands-On Guide to Building Web Applications Using React and Redux (2018) by Kirupa Chinnathambi
-- Pro React 16 by Adam Freeman
-- React Quickly by Azat Mardan
-- Fullstack React: The Complete Guide to ReactJS and Friends by Anthony Accomazzo, Ari Lerner, David Guttman, Nate Murray, Clay Allsopp, Tyler McGinnis
-- React Design Patterns and Best Practices by Michele Bertoli
-- React in Action by Mark Tielens Thomas
-- React: Up and Running by Stoyan Stefanov
+- Fullstack React: The Complete Guide to ReactJS and Friends (2019) by Anthony Accomazzo, Ari Lerner, David Guttman, Nate Murray, Clay Allsopp, Tyler McGinnis
+- React Design Patterns and Best Practices (2017) by Michele Bertoli
+- React in Action (2018) by Mark Tielens Thomas
 
 React Project Structures
 
