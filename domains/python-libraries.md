@@ -50,9 +50,26 @@ API
 
 - arrow
 
-## ORM
+## Data Access 
+
+Connection Pool
+
+- dbutils
+
+MySQL
+
+- PyMySQL
+- mysqlclient
+- aiomysql
+
+ORM
 
 - peewee
+- Django ORM
+- SQLAlchemy
+- PonyORM
+- SQLObject
+- Tortoise ORM
 
 ## Scientific Computing
 
