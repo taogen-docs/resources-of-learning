@@ -877,14 +877,20 @@ Robots.txt
 
 ### Deep Learning
 
-- Grokking Deep Learning (2019) by Andrew W. Trask
-- Deep Learning by Aaron Courville, Ian Goodfellow, and Yoshua Bengio (**花书**)
-- Deep Learning with Python by Francois Chollet
-- Deep Learning: A Practitioner's Approach by Adam Gibson and Josh Patterson
-- Grokking Deep Learning by Andrew W. Trask
-- Fundamentals of Deep Learning: Designing Next-Generation Machine Intelligence Algorithms by Nicholas Locascio and Nikhil Buduma
-- The Deep Learning Revolution by Terry Sejnowski
-- Deep Learning Cookbook: Practical Recipes to Get Started Quickly by Douwe Osinga
+- Deep Learning (2016) by Aaron Courville, Ian Goodfellow, and Yoshua Bengio (**花书**) [4.43, 1903]
+- Make Your Own Neural Network by Tariq Rashid [4.35, 660]
+- Neural Networks and Deep Learning by Michael Nielsen [4.56, 417]
+- Deep Learning (The MIT Press Essential Knowledge series) by John D. Kelleher
+- Grokking Deep Learning (2019) by Andrew W. Trask [4.23, 238]
+- Deep Learning with Python by Francois Chollet [4.57, 1273]
+- Deep Learning: A Practitioner's Approach by Adam Gibson and Josh Patterson [3.77, 110]
+- Fundamentals of Deep Learning: Designing Next-Generation Machine Intelligence Algorithms by Nicholas Locascio and Nikhil Buduma [3.86, 112]
+- The Deep Learning Revolution by Terry Sejnowski [3.75, 491]
+- Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD by Jeremy Howard and Sylvain Gugger [4.48, 211]
+- Deep Learning with PyTorch: Build, train, and tune neural networks using Python tools by Eli Stevens, Luca Antiga [4.19, 135]
+- Deep Learning from Scratch: Building with Python from First Principles by Seth Weidman
+- Deep Learning: A Visual Approach by Andrew Glassner
+- Deep Learning Cookbook: Practical Recipes to Get Started Quickly by Douwe Osinga [3.93, 29]
 - Dive into Deep Learning [HTML](https://d2l.ai/)
 
 ### Reinforcement Learning

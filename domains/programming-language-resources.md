@@ -574,7 +574,7 @@ Directions
 
 - Crawler
   - Reference [CS Advanced Domains Resources - Crawler and Anti-Crawler](../_cs-advanced-domains-resources.md#crawler)
-- Data Science
+- Data Science / Data Engineering
   - Python for Data Analysis by Wes McKinney
   - Intro to Python for Computer Science and Data Science by Paul Deitel, Harvey Deitel
 - AI

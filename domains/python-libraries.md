@@ -71,15 +71,22 @@ ORM
 - SQLObject
 - Tortoise ORM
 
+Elasticsearch
+
+- elasticsearch. Official Python client for Elasticsearch.
+- elasticsearch7
+- elasticsearch8
+- elasticsearch-dsl. a high-level library whose aim is to help with writing and running queries against Elasticsearch. It is built on top of the official low-level client (elasticsearch-py).
+
 ## Scientific Computing
 
 - NumPy
 
-## Data Manipulation
+## Data Science
 
 - Polars
 - Pandas
 
-## Machine Learning
+## Artificial Intelligence
 
 - PyTorch
