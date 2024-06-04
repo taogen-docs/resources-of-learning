@@ -638,11 +638,13 @@ Middleware - Microservices Communication (RPC/Message/HTTP)
 
 Middleware - Database Cluster / Big Data
 
+- MySQL master-slave replication
 - Data Sharding
 	- [Mycat](http://www.mycat.org.cn/)
 	- [Sharding-JDBC](https://shardingsphere.apache.org/document/4.1.1/en/manual/sharding-jdbc/)
 	- [alibaba/cobar](https://github.com/alibaba/cobar)
 	- [Citus](https://www.citusdata.com/) (for PostgreSQL)
+	- [proxysql](https://github.com/sysown/proxysql)
 - Databases
 	- PostgreSQL
 	- Oracle
