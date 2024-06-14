@@ -668,7 +668,7 @@ Version Control
 - Git
 - GitHub or GitLab
 
-Package Management
+Package Management (let you take advantage of a vast ecosystem of third-party packages, and easily install or update them.)
 
 - [npm](https://www.npmjs.com/)
 - [Yarn](https://yarnpkg.com/)
@@ -676,24 +676,25 @@ Package Management
 
 Build Tools
 
-- Linters and Formatters
+- Linters and Formatters (to analyze source code for potential errors or stylistic issues.)
   - [Prettier](https://prettier.io/)
   - [ESLint](https://eslint.org/)
-- Task Runners
+- Task Runners (help you automatically run web development tasks that might require additional effort and time to run.)
   - [npm scripts](https://docs.npmjs.com/cli/v9/using-npm/scripts)
   - gulp.js
   - Grunt
-- Module Bundlers
+- Module Bundlers (let you write modular code and bundle it together into small packages to optimize load time.)
   - **[Vite](https://vitejs.dev/)**
   - **[esbuild](https://esbuild.github.io/)**
   - [Webpack](https://webpack.js.org/)
   - Rollup
   - Parcel.js
   - [Snowpack](https://www.snowpack.dev/)
+- Compiler (let you write modern JavaScript code that still works in older browsers.)
+  - [Babel](https://babeljs.io/)
 
 Others
 
-- [Babel](https://babeljs.io/)
 - [Polymer Project](https://www.polymer-project.org/)
 - [WebAssembly](https://webassembly.org/)
 - Nginx
