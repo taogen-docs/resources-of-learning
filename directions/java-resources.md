@@ -341,6 +341,7 @@ Spring Boot
 - [Spring Boot Current Documentation - doc](https://docs.spring.io/spring-boot/docs/current/reference/html/)
 - Spring Boot in Action by Craig Walls
 - Spring Boot: Up and Running: Building Cloud Native Java and Kotlin Applications by Mark Heckler
+- Spring Boot in Practice (2022) by Somnath Musib
 - Learning Spring Boot 2.0
 - Spring Boot Persistence Best Practices: Optimize Java Persistence Performance in Spring Boot Applications (2020) by Anghel Leonard
 

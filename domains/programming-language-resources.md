@@ -489,6 +489,31 @@ Tools
 - IDE: PhpStorm, Visual Studio Code
 - Package Management: [Composer](https://getcomposer.org/)
 
+Framework / Library Projects
+
+- [easywechat](https://github.com/w7corp/easywechat) 一个 PHP 微信 SDK
+
+Application Projects
+
+- [Faker](https://github.com/fzaninotto/Faker) Faker is a PHP library that generates fake data for you
+- [monica](https://github.com/monicahq/monica) Personal CRM. Remember everything about your friends, family and business relationships
+- [koel](https://github.com/koel/koel) A personal music streaming server that works.
+- [flarum](https://github.com/flarum/flarum) Simple forum software for building great communities.
+- [firefly-iii](https://github.com/firefly-iii/firefly-iii) Firefly III: a personal finances manager
+- [grav](https://github.com/getgrav/grav) Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
+- [BookStack](https://github.com/BookStackApp/BookStack) A platform to create documentation/wiki content built with PHP & Laravel
+- [bagisto](https://github.com/bagisto/bagisto) Free and open source laravel eCommerce platform
+- [voyager](https://github.com/thedevdojo/voyager) Voyager - The Missing Laravel Admin
+- [laravel-admin](https://github.com/z-song/laravel-admin) Build a full-featured administrative interface in ten minutes
+- [typecho](https://github.com/typecho/typecho) A PHP Blogging Platform. Simple and Powerful.
+- [october](https://github.com/octobercms/october) Self-hosted CMS platform based on the Laravel PHP Framework.
+- [wallabag](https://github.com/wallabag/wallabag) wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
+- [woocommerce](https://github.com/woocommerce/woocommerce) A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.
+- [FreshRSS](https://github.com/FreshRSS/FreshRSS) A free, self-hostable news aggregator
+- [CRMEB](https://github.com/crmeb/CRMEB) CRMEB开源商城免费开源多语言商城系统，Tp6框架商城
+- [ThinkAdmin](https://github.com/zoujingli/ThinkAdmin) 基于 ThinkPHP6 的极简后台管理系统
+
+
 ### Python 📈
 
 > Life is short (You need Python) - Bruce Eckel
@@ -630,9 +655,13 @@ Tools
 - IDE: PyCharm, Visual Studio Code
 - Package Management: [pip](https://pypi.org/project/pip/)
 
-Excellent Projects
+Framework / Library Projects
 
 - [full-stack-fastapi-template - GitHub](https://github.com/tiangolo/full-stack-fastapi-template)
+
+Application Projects
+
+- [feapder](https://github.com/Boris-code/feapder) 一款上手简单，功能强大的Python爬虫框架。
 
 ### Android
 
@@ -830,6 +859,10 @@ Programming Languages Ranking
 - [TIOBE](https://www.tiobe.com/tiobe-index/)
 - [Programming-Language-Benchmarks-Visualization](https://github.com/GoodManWEN/Programming-Language-Benchmarks-Visualization)
 - [The Computer Language Benchmarks Game](https://benchmarksgame-team.pages.debian.net/benchmarksgame/index.html)
+
+Project Ranking
+
+- [GitHub Ranking](https://evanli.github.io/Github-Ranking/)
 
 <br>
 
