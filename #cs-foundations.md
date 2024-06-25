@@ -717,6 +717,7 @@ Must Read
 - Top Secret: A Handbook of Codes, Ciphers and Secret Writing by Paul B. Janeczko, Jenna Lareau [3.97, 191]
 - Handbook of Applied Cryptography by Alfred J. Menezes, Scott A. Vanstone, Paul C. van Oorschot [4.02, 120]
 - Introduction to Modern Cryptography: Principles and Protocols by Jonathan Katz, Yehuda Lindell [4.26, 126]
+- Real-World Cryptography by David Wong [4.6, 73] 
 
 Some More
 
