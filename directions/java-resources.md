@@ -36,13 +36,15 @@
 #### beginner
 
 - [**The Java™ Tutorials**](https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html)
-- **The Java Tutorial: A Short Course on the Basics** (6th, 2014) by Raymond Gallardo, Scott Hommel, Sowmya Kannan, Joni Gordon, Sharon Biocca Zakhour
-- **Core Java** (12th, 2021) Volume I Fundamentals by S, Horstmann
+- **The Java Tutorial: A Short Course on the Basics** (6th, 2014) by Raymond Gallardo - Cover Java 8
+- **Core Java** (13th, 2024) Volume I Fundamentals by S, Horstmann - Cover Java 21
 - The Java Programming Language (4th, 2005) by Ken Arnold, James Gosling, David Holmes
-- Java: A Beginner's Guide (9th, 2022) by Herbert Schildt
+- Java: A Beginner's Guide (10th, 2024) by Herbert Schildt
 - Head First Java (3rd, 2022) by Kathy Sierra 
 - Java 8 in Action (2014) by Raoul-Gabriel Urma, Mario Fusco
-- Java: The Complete Reference (12th, 2021) by Schildt, Herbert
+- Java: The Complete Reference (13th, 2024) by Schildt, Herbert
+- Learn Java the Easy Way: A Hands-On Introduction to Programming (2017) by Bryson Payne
+- Learn Java with Projects: A concise practical guide to learning everything a Java professional really needs to know (2023) by Dr Seán Kennedy
 
 #### Master
 
@@ -290,6 +292,9 @@ Java EE
 
 - [Java EE Documentation - doc](https://www.oracle.com/technetwork/java/javaee/overview/index.html)
 - **Expert One-on-One J2EE Design and Development** (2002) by Rod Johnson
+- Java EE 8 Application Development: Develop Enterprise applications using the latest versions of CDI, JAX-RS, JSON-B, JPA, Security, and more (2017) by David R. Heffelfinger 
+- Java EE 7 Tutorial (5th, 2014) by Eric Jendrock 
+- Java EE 7: The Big Picture (2014) by Danny Coward
 - Professional Java EE Design Patterns by Murat Yener, Alex Theedom
 - Java EE 7 Essentials by Arun Gupta
 - Core J2EE Patterns: Best Practices and Design Strategies by Dan Malks, Deepak Alur, and John Crupi (J2EE核心模式)
