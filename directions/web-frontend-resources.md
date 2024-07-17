@@ -349,6 +349,9 @@ Rank
 <h2><a name="ts_t" href="#ts_c">TypeScript</a></h2>
 <br>
 
+> Typescript lets you type faster.
+
+> 动态一时爽，维护火葬场。
 
 - [TypeScript Documentation - doc]( https://www.typescriptlang.org/docs/home.html )
 - **Programming TypeScript: Making Your JavaScript Applications Scale** (2019) by Boris Cherny

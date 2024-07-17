@@ -64,6 +64,7 @@ Web Application Security
 API Authorization
 
 - OAuth 2 in Action (2017) by Justin Richer, Antonio Sanso
+- OpenID Connect in Action (2024) by Prabath Siriwardena
 - OAuth 2.0 Simplified (2018) by Aaron Parecki
 - Solving Identity Management in Modern Applications: Demystifying OAuth 2, OpenID Connect, and SAML 2 (2nd, 2022) by Yvonne Wilson (Author), Abhishek Hingnikar
 
