@@ -100,7 +100,6 @@ CSS
 - ⭐**CSS: The Definitive Guide: Web Layout and Presentation** (5th, 2023) by Eric A. Meyer and Estelle Weyl
 - **CSS Secrets: Better Solutions to Everyday Web Design Problems** (2015) by Lea Verou
 - ⭐**CSS: The Missing Manual** (4th, 2015) by David McFarland
-- ⭐**Cascading Style Sheets: The Definitive Guide** (2000) by Eric A. Meyer
 - ⭐**CSS Mastery: Advanced Web Standards Solutions** (3rd, 2016) by Andy Budd
 - **CSS Pocket Reference: Visual Presentation for the Web** (5th, 2018) by Eric A. Meyer
 - CSS in Depth by Keith J. Grant
@@ -355,8 +354,9 @@ Rank
 
 - [TypeScript Documentation - doc]( https://www.typescriptlang.org/docs/home.html )
 - **Programming TypeScript: Making Your JavaScript Applications Scale** (2019) by Boris Cherny
-- **Effective TypeScript: 62 Specific Ways to Improve Your TypeScript** (2019) by Dan Vanderkam 
+- **Effective TypeScript: 62 Specific Ways to Improve Your TypeScript** (2nd, 2024) by Dan Vanderkam 
 - **Pro TypeScript: Application-Scale JavaScript Development** (2nd, 2017) by Steve Fenton
+- TypeScript Cookbook (2023) by Stefan Baumgartner
 - Learning TypeScript: Enhance Your Web Development Skills Using Type-Safe JavaScript (2022) by Josh Goldberg
 - Mastering TypeScript by Nathan Rozentals
 - TypeScript Essentials by Christopher Nance
