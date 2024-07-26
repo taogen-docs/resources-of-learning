@@ -621,6 +621,21 @@ Middleware - Microservices Collaboration
 
 Middleware - Microservices Communication (RPC/Message/HTTP)
 
+<details>
+    <summary>消息队列选型</summary>
+
+性能优先选 Kafka，有事务需求选 RabbitMQ。除非用 Spring Alibaba 那一套，否则不会考虑 rocketmq，http 协议才有多语言 sdk，生态差太多了。
+
+事务型：RabbitMQ，流量型：Kafka。
+
+业务量不大，只是要一个稳定不出问题的消息队列。RabbitMQ 最少这个选择不会错。因为太成熟了。
+
+只用主流和支持多语言的。低吞吐，部署简单的，用 RabbitMQ。大流量大吞吐的，用 kafka。
+
+不建议 redis 业务稍微上来点就要重构。
+
+</details>
+
 - Java Message Service by Mark Richards, Richard Monson-Haefel and David A. Chappell
 - I Heart Logs: Event Data, Stream Processing, and Data Integration by Jay Kreps
 - [gRPC](https://grpc.io/)

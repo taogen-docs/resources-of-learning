@@ -291,6 +291,7 @@ Web Pages / Template Engines
 Java EE
 
 - [Java EE Documentation - doc](https://www.oracle.com/technetwork/java/javaee/overview/index.html)
+	- [Java Platform, Enterprise Edition (Java EE) 8  The Java EE Tutorial](https://javaee.github.io/tutorial/toc.html)
 - **Expert One-on-One J2EE Design and Development** (2002) by Rod Johnson
 - Java EE 8 Application Development: Develop Enterprise applications using the latest versions of CDI, JAX-RS, JSON-B, JPA, Security, and more (2017) by David R. Heffelfinger 
 - Java EE 7 Tutorial (5th, 2014) by Eric Jendrock 
