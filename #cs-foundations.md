@@ -538,11 +538,13 @@ Linux Programming
 - Understanding Unix/Linux Programming by Bruce Molay [4.11, 35]
 - Linux 环境编程 by 高峰
 - Autotools: A Practioner's Guide to GNU Autoconf, Automake, and Libtool by John Calcote [4.15, 48]
+- [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/) by Peter Jay Salzman, Michael Burian, Ori Pomerantz, Bob Mottram, Jim Huang (Linux kernel 5.0+)
 
 Linux Insides
 
-- [linux-insides - GitHub](https://github.com/0xAX/linux-insides). linux kernel 2.2
+- [linux-insides - GitHub](https://github.com/0xAX/linux-insides). (Linux kernel 2.2)
 - The UNIX Time-Sharing System - [PDF](https://dsf.berkeley.edu/cs262/unix.pdf)
+- [The Linux Memory Manager](https://linuxmemory.org/about) by Lorenzo Stoakes (Linux kernel 6.0)
 - **Understanding the Linux Kernel** by Daniel P. Bovet, Marco Cesati. linux kernel 2.2 [4.11, 709]
 - Linux内核完全注释 by 赵炯 [ebook](http://www.oldlinux.org/book.html)
 - Linux内核源代码情景分析 by 毛德操, 胡希明. linux kernel 2.4

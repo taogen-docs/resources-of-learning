@@ -53,6 +53,10 @@ Reference [Web Backend - Java Resources](directions/java-resources.md)
 - API Design Patterns (2021) by JJ Geewax
 - The Design of Web APIs (2019) by Arnaud Lauret
 
+#### CORS
+
+- CORS in Action: Creating and consuming cross-origin APIs (2014) by Monsur Hossain
+
 #### Web Application Security
 
 Web Application Security
