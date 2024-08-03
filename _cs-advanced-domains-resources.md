@@ -353,6 +353,7 @@ For Database Design
 
 For SQL
 
+- SQL QuickStart Guide (2019) by Walter Shields 
 - Sams teach yourself SQL in 10 minutes,4th edition by Ben Forta / SQL 必知必会
 - Learning SQL by Alan Beaulieu
 - SQL Cookbook by Anthony Molinaro
@@ -441,8 +442,11 @@ MySQL Internal and Programming
 - Learn PostgreSQL (2nd, 2023) by Luca Ferrari, Enrico Pirozzi
 - PostgreSQL 16 Administration Cookbook (2023) by Gianni Ciolli, Boriss Mejías, Jimmy Angelakos
 - PostgreSQL: Up and Running: A Practical Guide to the Advanced Open Source Database (3rd, 2017) by Regina Obe, Leo Hsu
+- PostgreSQL Configuration: Best Practices for Performance and Security (2020) by Baji Shaik
 - Mastering PostgreSQL 15 (5th, 2023) by Hans-Jürgen Schönig
 - PostgreSQL Query Optimization (2nd, 2024) by Henrietta Dombrovskaya, Database expert, Anna Bailliekova
+- [A Tour of PostgreSQL Internals](https://www.postgresql.org/files/developer/tour.pdf)
+- [PostgreSQL 14 Internals: A deep dive into the server mechanics](https://postgrespro.com/community/books/internals)
 - The Internals of PostgreSQL by Hironobu Suzuki [online book](https://www.interdb.jp/pg/)
 
 ### Oracle
