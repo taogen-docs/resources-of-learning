@@ -363,6 +363,7 @@ For SQL
 - SQL Pocket Guide by Jonathan Gennick
 - The Art of SQL by Stéphane Faroult
 - SQL Performance Explained by Markus Winand
+- Practical SQL: A Beginner's Guide to Storytelling with Data (2nd, 2022) by Anthony DeBarros
 
 For NoSQL
 
@@ -428,7 +429,21 @@ MySQL Internal and Programming
 - MySQL是怎样运行的：从根儿上理解 MySQL by 小孩子4919
 
 
+### PostgreSQL
 
+- [PostgreSQL Documentation](https://www.postgresql.org/docs/current/index.html)
+- [PostgreSQL Tutorials & Other Resources](https://www.postgresql.org/docs/online-resources/)
+- Online tutorials
+  - [PostgreSQL Tutorial](https://www.postgresqltutorial.com/)
+  - [PostgreSQL Tutorial - TutorialsPoint](https://www.tutorialspoint.com/postgresql/index.htm)
+  - [PostgreSQL Primer for Busy People](https://zaiste.net/posts/postgresql-primer-for-busy-people/)
+- [PostgreSQL Exercises](https://pgexercises.com/)
+- Learn PostgreSQL (2nd, 2023) by Luca Ferrari, Enrico Pirozzi
+- PostgreSQL 16 Administration Cookbook (2023) by Gianni Ciolli, Boriss Mejías, Jimmy Angelakos
+- PostgreSQL: Up and Running: A Practical Guide to the Advanced Open Source Database (3rd, 2017) by Regina Obe, Leo Hsu
+- Mastering PostgreSQL 15 (5th, 2023) by Hans-Jürgen Schönig
+- PostgreSQL Query Optimization (2nd, 2024) by Henrietta Dombrovskaya, Database expert, Anna Bailliekova
+- The Internals of PostgreSQL by Hironobu Suzuki [online book](https://www.interdb.jp/pg/)
 
 ### Oracle
 
