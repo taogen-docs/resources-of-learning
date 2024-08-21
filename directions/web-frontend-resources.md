@@ -353,6 +353,8 @@ Rank
 > 动态一时爽，维护火葬场。
 
 - [TypeScript Documentation - doc]( https://www.typescriptlang.org/docs/home.html )
+- [Typescript Book](https://gibbok.github.io/typescript-book/)
+- [type-challenges](https://github.com/type-challenges/type-challenges)
 - **Programming TypeScript: Making Your JavaScript Applications Scale** (2019) by Boris Cherny
 - **Effective TypeScript: 62 Specific Ways to Improve Your TypeScript** (2nd, 2024) by Dan Vanderkam 
 - **Pro TypeScript: Application-Scale JavaScript Development** (2nd, 2017) by Steve Fenton
@@ -727,13 +729,50 @@ Others
 - Professional Node.Js: Building JavaScript Based Scalable Software by Pedro Teixeira
 - Learning Node by Shelley Powers
 
-### Full Stack Frameworks
+### Deno
+
+- [Deno](https://deno.land/). A **secure** runtime for **JavaScript** and **TypeScript**.
+
+### Full Stack Frameworks of Node.js
+
+> Fastify is more or less an alternative to Express while NestJS adds (suggests) some architecture to an application like dependency injection and modularization which is nice if your application grows (and in my opinion in general). NestJS uses express or fastify under the hood.
+> Fastify and Express are very similar - minimal. Nest is opinionated and have a lot of boilerplate, but overkill is subjective. If you think its too much boiler plate for a straight forward API collection for your start up don't use it.
+> Express could be suitable for most of the cases, it also depends if you need third party integration since most of the packages are available in express.
+> In terms of structure, Fastify is pretty much the same thing as Express. NestJS is a lot of glue code and boilerplate on top of Express or Fastify.
 
 #### Express.js
 
 - [Express Getting Started - doc](https://expressjs.com/en/starter/installing.html)
 - Express in Action: Node Applications with Express and Its Companion Tools by Evan Hahn
 - Web Development with Node and Express: Leveraging the JavaScript Stack by Ethan Brown
+
+#### Koa.js
+
+- [Koa.js](https://koajs.com/) - Next generation web framework for node.js.
+
+#### Fastify
+
+- [Fastify](https://fastify.dev/) - Fast and low overhead web framework, for Node.js
+
+#### Nest.js
+
+> NestJS uses express or fastify under the hood.
+> NestJS is for whom misses Java and doesn’t know how to develop with JS.
+> Spring boot which is quite similar to nestjs with Kaitlin.
+
+- [Nest.js](https://nestjs.com/) - A progressive Node.js framework for building efficient, reliable and scalable server-side applications.
+
+
+### Full Stack Frameworks of Deno
+
+#### Hono
+
+> It's basically express but with modern approach, including typescript support out of the box, improved DX, and better performance.
+
+- [Hono](https://hono.dev/) - Ultrafast web framework for the Edges. Fast, lightweight, built on Web Standards. Support for any JavaScript runtime.
+
+
+### Full Stack Frameworks with React
 
 #### Next.js
 
@@ -743,17 +782,12 @@ Others
 - Beginning Next.js Development: Learn NextJS and Build a Full Stack Dynamic Application Using React, NextJS, TailwindCSS, and MongoDB (2024) by Nathan Sebhastian
 - Dynamic Trio: Building Web Applications with React, Next.js & Tailwind (2023) by Grace Huang
 
-#### Koa.js
+### Full Stack Frameworks with Vue.js
 
-- [Koa.js](https://koajs.com/) - Next generation web framework for node.js.
+#### Nuxt
 
-#### Nest.js
+- [Nuxt](https://nuxt.com/) - Nuxt is an open source framework that makes web development intuitive and powerful. Create performant and production-grade full-stack web apps and websites with confidence.
 
-- [Nest.js](https://nestjs.com/) - A progressive Node.js framework for building efficient, reliable and scalable server-side applications.
-
-### Deno
-
-- [Deno](https://deno.land/). A **secure** runtime for **JavaScript** and **TypeScript**.
 
 ### Databases
 
