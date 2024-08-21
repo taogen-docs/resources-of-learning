@@ -736,8 +736,11 @@ Others
 ### Full Stack Frameworks of Node.js
 
 > Fastify is more or less an alternative to Express while NestJS adds (suggests) some architecture to an application like dependency injection and modularization which is nice if your application grows (and in my opinion in general). NestJS uses express or fastify under the hood.
+
 > Fastify and Express are very similar - minimal. Nest is opinionated and have a lot of boilerplate, but overkill is subjective. If you think its too much boiler plate for a straight forward API collection for your start up don't use it.
+
 > Express could be suitable for most of the cases, it also depends if you need third party integration since most of the packages are available in express.
+
 > In terms of structure, Fastify is pretty much the same thing as Express. NestJS is a lot of glue code and boilerplate on top of Express or Fastify.
 
 #### Express.js
@@ -757,7 +760,9 @@ Others
 #### Nest.js
 
 > NestJS uses express or fastify under the hood.
+
 > NestJS is for whom misses Java and doesn’t know how to develop with JS.
+
 > Spring boot which is quite similar to nestjs with Kaitlin.
 
 - [Nest.js](https://nestjs.com/) - A progressive Node.js framework for building efficient, reliable and scalable server-side applications.
