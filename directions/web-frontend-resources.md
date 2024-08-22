@@ -745,17 +745,17 @@ Others
 
 #### Express.js
 
-- [Express Getting Started - doc](https://expressjs.com/en/starter/installing.html)
+- [Express Getting Started - doc](https://expressjs.com/en/starter/installing.html) ⭐️64k
 - Express in Action: Node Applications with Express and Its Companion Tools by Evan Hahn
 - Web Development with Node and Express: Leveraging the JavaScript Stack by Ethan Brown
 
 #### Koa.js
 
-- [Koa.js](https://koajs.com/) - Next generation web framework for node.js.
+- [Koa.js](https://koajs.com/) - Next generation web framework for node.js. ⭐️35k
 
 #### Fastify
 
-- [Fastify](https://fastify.dev/) - Fast and low overhead web framework, for Node.js
+- [Fastify](https://fastify.dev/) - Fast and low overhead web framework, for Node.js. ⭐️31k
 
 #### Nest.js
 
@@ -765,8 +765,16 @@ Others
 
 > Spring boot which is quite similar to nestjs with Kaitlin.
 
-- [Nest.js](https://nestjs.com/) - A progressive Node.js framework for building efficient, reliable and scalable server-side applications.
+- [Nest.js](https://nestjs.com/) - A progressive Node.js framework for building efficient, reliable and scalable server-side applications. ⭐️66k
 
+
+#### tRPC
+
+- [tRPC](https://trpc.io/) - Move Fast and Break Nothing. End-to-end typesafe APIs made easy. ⭐️34k
+
+#### Astro
+
+- [Astro](https://astro.build/) - The web framework for content-driven websites. Astro powers the world's fastest marketing sites, blogs, e-commerce websites, and more. ⭐️45k
 
 ### Full Stack Frameworks of Deno
 
@@ -774,14 +782,14 @@ Others
 
 > It's basically express but with modern approach, including typescript support out of the box, improved DX, and better performance.
 
-- [Hono](https://hono.dev/) - Ultrafast web framework for the Edges. Fast, lightweight, built on Web Standards. Support for any JavaScript runtime.
+- [Hono](https://hono.dev/) - Ultrafast web framework for the Edges. Fast, lightweight, built on Web Standards. Support for any JavaScript runtime. ⭐️17k
 
 
 ### Full Stack Frameworks with React
 
 #### Next.js
 
-- [Next.js](https://nextjs.org/) - The React Framework for the Web.
+- [Next.js](https://nextjs.org/) - The React Framework for the Web. ⭐️124k
 - The Complete Developer: Master the Full Stack with TypeScript, React, Next.js, MongoDB, and Docker (2024) by Martin Krause
 - Real-World Next.js: Build scalable, high-performance, and modern web applications using Next.js, the React framework for production (2022) by Michele Riva
 - Beginning Next.js Development: Learn NextJS and Build a Full Stack Dynamic Application Using React, NextJS, TailwindCSS, and MongoDB (2024) by Nathan Sebhastian
@@ -791,7 +799,7 @@ Others
 
 #### Nuxt
 
-- [Nuxt](https://nuxt.com/) - Nuxt is an open source framework that makes web development intuitive and powerful. Create performant and production-grade full-stack web apps and websites with confidence.
+- [Nuxt](https://nuxt.com/) - Nuxt is an open source framework that makes web development intuitive and powerful. Create performant and production-grade full-stack web apps and websites with confidence. ⭐️53k
 
 
 ### Databases
