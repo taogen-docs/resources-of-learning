@@ -379,38 +379,13 @@ Rank
 
 <br>
 
-<h3><a name="vue_t" href="#vue_c">Vue.js</a></h3>
-<br>
+>**React, Angular, and Vue.js** are the most popular and widely adopted frameworks, suitable for a broad range of applications.
 
-- [Vue.js 3 Documentation - doc](https://v3.vuejs.org/guide/introduction.html)
-- [Vue.js v2.x Documentation - doc](https://vuejs.org/v2/guide/)
-- [Vue.js Roadmap](https://roadmap.sh/vue)
-- Vue.js in Action by Benjamin Listwon and Erik Hanchett
-- Learning Vue.Js 2 by Olga Filipova
-- Fullstack Vue: The Complete Guide to Vue.js by Ari Lerner, Hassan Djirdeh, and Nate Murray
-- Vue.js: Up and Running: Building Accessible and Performant Web Apps by Callum Macrae
-- Testing Vue. Js Applications by Edd Yerburgh
-- The Majesty of Vue.js by Alex Kyriakidis, Kostas Maniatis, Evan You
 
-Vue Project Structures
-
-- [How to structure my Vue.js project](https://itnext.io/how-to-structure-my-vue-js-project-e4468db005ac)
-- [Overview of a Vue project](https://worldline.github.io/vuejs-training/views/#overview-of-a-vue-project)
-
-Vue.js v2.x Ecosystem
-
-- [Vue CLI - doc](https://cli.vuejs.org/)
-- [Vuex - doc](https://vuex.vuejs.org/)
-- [Vue Router - doc](https://router.vuejs.org/)
-- [Vue.js Cookbook - doc](https://vuejs.org/v2/cookbook/)
-
-Vue.js Admin Dashboard Templates
-
-- [vue-admin-template](https://github.com/PanJiaChen/vue-admin-template)
-
-<br>
 <h3><a name="react_t" href="#react_c">React </a></h3>
 <br>
+
+>Developed by Facebook, React is one of the most popular JavaScript libraries for building user interfaces, especially single-page applications. It uses a component-based architecture and a virtual DOM for efficient updates.
 
 - [React Documentation - doc](https://reactjs.org/docs/getting-started.html)
 - [React Roadmap](https://roadmap.sh/react)
@@ -469,6 +444,9 @@ React Admin Dashboard Templates
 <h3><a name="angular_t" href="#angular_c">AngularJS</a></h3>
 <br>
 
+>Maintained by Google, Angular is a comprehensive front-end framework that provides everything you need to build large-scale applications. It uses TypeScript by default and comes with built-in features like dependency injection, routing, and state management.
+
+
 - [Guide to AngularJS Documentation - doc](https://docs.angularjs.org/guide)
 - Pro AngularJS 6  by Adam Freeman
 - Learning AngularJS: A Guide to AngularJS Development by Ken Williamson
@@ -480,27 +458,96 @@ React Admin Dashboard Templates
 - AngularJS in Action by Brian Ford, Lukas Ruebbelke
 - Professional AngularJS by Diego Netto and Valeri Karpov
 
+<h3><a name="vue_t" href="#vue_c">Vue.js</a></h3>
+<br>
+
+>Vue.js is a progressive JavaScript framework that is easy to integrate with projects using other libraries. It’s known for its simplicity and flexibility, making it a popular choice for both small and large applications.
+
+>Vue’s versatility and simplicity make it the ideal choice for smaller projects and more extensive applications. It has several features, including options for state management, directives, and easy interaction with ongoing projects.
+
+- [Vue.js 3 Documentation - doc](https://v3.vuejs.org/guide/introduction.html)
+- [Vue.js v2.x Documentation - doc](https://vuejs.org/v2/guide/)
+- [Vue.js Roadmap](https://roadmap.sh/vue)
+- Vue.js in Action by Benjamin Listwon and Erik Hanchett
+- Learning Vue.Js 2 by Olga Filipova
+- Fullstack Vue: The Complete Guide to Vue.js by Ari Lerner, Hassan Djirdeh, and Nate Murray
+- Vue.js: Up and Running: Building Accessible and Performant Web Apps by Callum Macrae
+- Testing Vue. Js Applications by Edd Yerburgh
+- The Majesty of Vue.js by Alex Kyriakidis, Kostas Maniatis, Evan You
+
+Vue Project Structures
+
+- [How to structure my Vue.js project](https://itnext.io/how-to-structure-my-vue-js-project-e4468db005ac)
+- [Overview of a Vue project](https://worldline.github.io/vuejs-training/views/#overview-of-a-vue-project)
+
+Vue.js v2.x Ecosystem
+
+- [Vue CLI - doc](https://cli.vuejs.org/)
+- [Vuex - doc](https://vuex.vuejs.org/)
+- [Vue Router - doc](https://router.vuejs.org/)
+- [Vue.js Cookbook - doc](https://vuejs.org/v2/cookbook/)
+
+Vue.js Admin Dashboard Templates
+
+- [vue-admin-template](https://github.com/PanJiaChen/vue-admin-template)
+
 <br>
 
 <h2><a name="ltwt_t" href="#ltwt_c">Lightweight JS Frameworks</a></h2>
-
 <br>
 
-Phoenix Framework
+>**Svelte and SolidJS** are gaining traction for their performance benefits and simplicity.
 
-- [Phoenix Framework](https://www.phoenixframework.org/). Peace of mind from prototype to production
 
-Svelte
 
-- [Svelte](https://svelte.dev/). Cybernetically enhanced web apps. Write less code, no virtual DOM, truly reactive.
+**Svelte**
 
-Preact
+>Svelte is a relatively new framework that shifts the work of the framework to the compile step, producing highly efficient JavaScript at build time. It eliminates the need for a virtual DOM and delivers great performance with a simple syntax.
 
-- [Preact](https://preactjs.com/). Fast 3kB alternative to React with the same modern API.
+- [Svelte](https://svelte.dev/). Cybernetically enhanced web apps. Write less code, no virtual DOM, truly reactive. ⭐️78k
 
-SolidJS
+**Preact**
 
-- [SolidJS](https://www.solidjs.com/). Simple and performant reactivity for building user interfaces.
+>Preact is a lightweight, swift, high-performance library and alternative to React. Preact is merely 3kb in size (minified and gzipped) and yet gives you all the necessary functionality of React, making it one of the best JavaScript frameworks.
+
+- [Preact](https://preactjs.com/). Fast 3kB alternative to React with the same modern API. ⭐️36k
+
+**SolidJS**
+
+>SolidJS is a reactive JavaScript library with a focus on performance. It updates the DOM directly without a virtual DOM, using a fine-grained reactivity system similar to frameworks like Knockout or MobX.
+
+- [SolidJS](https://www.solidjs.com/). Simple and performant reactivity for building user interfaces. ⭐️31k
+
+
+**Backbone.js**
+
+>While not as feature-rich as other frameworks, it’s suitable for smaller projects and situations where minimalism is favored. Backbone’s event-driven communication and simple structure help developers organize code effectively.
+
+>Backbone.js is one of the earlier JavaScript frameworks that provided a lightweight solution for building structured applications. It offers minimalistic tools for models, views, collections, and routing.
+
+- Backbone.js. Give your JS App some Backbone with Models, Views, Collections, and Events. ⭐️28k
+
+**Ember.js**
+
+>Ember.js is a framework for building enterprising web applications. It emphasizes tradition over configuration, providing a structured architecture that promotes scalability and maintainability. Model-View-ViewModel (MVVW) architecture is the foundation for Ember.
+
+>Ember.js is an opinionated framework designed to provide a complete solution for building ambitious web applications. It comes with built-in best practices and a strong focus on convention over configuration.
+
+- [Ember.js](https://emberjs.com/) - A JavaScript framework for creating ambitious web applications. ⭐️22k
+
+**Phoenix Framework**
+
+- [Phoenix Framework](https://www.phoenixframework.org/). Peace of mind from prototype to production ⭐️21k
+
+**qwik**
+
+
+- [qwik](https://qwik.dev/) - Build instantly-interactive web apps without effort. ⭐️20k
+
+
+**Lit**
+
+- [Lit](https://lit.dev/) - A simple library for building fast, lightweight web components. ⭐️18k
 
 <br>
 
@@ -754,6 +801,10 @@ Others
 - Express in Action: Node Applications with Express and Its Companion Tools by Evan Hahn
 - Web Development with Node and Express: Leveraging the JavaScript Stack by Ethan Brown
 
+#### Meteor
+
+- [Meteor](https://www.meteor.com/) - The full-stack JavaScript framework for real-time apps. ⭐️44k
+
 #### Koa.js
 
 - [Koa.js](https://koajs.com/) - Next generation web framework for node.js. ⭐️35k
@@ -781,6 +832,10 @@ Others
 
 - [Astro](https://astro.build/) - The web framework for content-driven websites. Astro powers the world's fastest marketing sites, blogs, e-commerce websites, and more. ⭐️45k
 
+#### Remix
+
+- [Remix](https://remix.run/) - Build Better Websites. ⭐️28k
+
 ### Full Stack Frameworks of Deno
 
 #### Hono
@@ -794,6 +849,8 @@ Others
 
 #### Next.js
 
+>Next.js is a JavaScript framework built on top of React, specializing in server-side rendering (SSR) and static site generation (SSG). It optimizes web application performance by rendering pages on the server, improving initial load times and search engine optimization.
+
 - [Next.js](https://nextjs.org/) - The React Framework for the Web. ⭐️124k
 - The Complete Developer: Master the Full Stack with TypeScript, React, Next.js, MongoDB, and Docker (2024) by Martin Krause
 - Real-World Next.js: Build scalable, high-performance, and modern web applications using Next.js, the React framework for production (2022) by Michele Riva
@@ -803,6 +860,8 @@ Others
 ### Full Stack Frameworks with Vue.js
 
 #### Nuxt
+
+>Nuxt.js is a framework built on top of Vue.js for creating universal (SSR) and static websites. It simplifies the development process by providing conventions and features like automatic routing, server-side rendering, and static site generation.
 
 - [Nuxt](https://nuxt.com/) - Nuxt is an open source framework that makes web development intuitive and powerful. Create performant and production-grade full-stack web apps and websites with confidence. ⭐️53k
 
