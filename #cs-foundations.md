@@ -381,7 +381,7 @@ Courses
 
 Prime
 
-- How to Design Programs: An Introduction to Programming and Computing (2018) by Matthias Felleisen [4.02, 263]
+- How to Design Programs: An Introduction to Programming and Computing (2018) by Matthias Felleisen (**HTDP**) [4.02, 263]
 
 The Little Schemer Series
 
@@ -432,6 +432,7 @@ Programming Language Design
 - Build Your Own Lisp by Daniel Holden [4.07, 74]
 - Algorithms Plus Data Structures Equals Programs by Niklaus Wirth
 - The Garbage Collection Handbook: The Art of Automatic Memory Management by Richard Jones [4.43, 49]
+- Programming Languages: Application and Interpretation by Shriram Krishnamurthi [eBook](https://www.plai.org/)
 
 <br>
 

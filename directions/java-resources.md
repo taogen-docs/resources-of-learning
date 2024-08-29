@@ -258,6 +258,7 @@ Java Persistence
   - Spring Data JPA - Reference Documentation - [HTML](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#reference)
   - Spring Data: Modern Data Access for Enterprise Java by Mark Pollack, Oliver Gierke, Thomas Risberg
   - Understanding JPA 2.2: Java Persistence API by Antonio Goncalves
+  - Java Persistence with Spring Data and Hibernate (2023) by Catalin Tudose
 
 ### Java Web
 

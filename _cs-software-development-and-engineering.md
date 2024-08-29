@@ -358,6 +358,7 @@ Design Patterns
 - **Design Patterns: Elements of Reusable Object-Oriented Software** (1994) by Erich Gamma, Richard Helm,  Ralph Johnson, John Vlissides
 - Head First Design Patterns (2004) by Elisabeth Freeman
 - **Agile Software Development, Principles, Patterns, and Practices** (2002) by Robert C. Martin
+- C++ Software Design (2022) by Klaus Iglberger
 
 UML
 
@@ -530,7 +531,7 @@ Microservices Security
 
 ### Data Engineering
 
-- **Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems** (2017) by Martin Kleppmann (DDIA)
+- **Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems** (2017) by Martin Kleppmann (**DDIA**)
 - The Model Thinker: What You Need to Know to Make Data Work for You by Scott E. Page
 - Big Data: Principles and best practices of scalable realtime data systems by Nathan Marz, James Warren
 - Data Modeling Made Simple: A Practical Guide for Business and IT Professionals by Steve Hoberman
@@ -553,6 +554,7 @@ Microservices Security
 - Cloud Native Transformation: Practical Patterns for Innovation (2019) by Pini Reznik , Jamie Dobson
 - Kubernetes Patterns: Reusable Elements for Designing Cloud-Native Applications (2019) by Bilgin Ibryam and Roland Huß
 - Cloud Native: Using Containers, Functions, and Data to Build Next-Generation Applications (2019) by Boris Scholl , Trent Swanson
+- 深入高可用架构原理与实践 [eBook](https://www.thebyte.com.cn/)
 
 ### Web Scalability
 
@@ -1406,6 +1408,12 @@ Products
 Monitor Settings
 
 - [Best Monitor Settings for Eyes](https://www.eyeque.com/knowledge-center/best-monitor-settings-for-eyes/)
+
+Monitors and desks
+
+- 24 inch screen: 60cm depth desk.
+- 27 inch screen: 80cm depth desk.
+
 
 #### Monitor Light Bars
 
