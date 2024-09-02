@@ -31,12 +31,17 @@ Project Structure
 
 - [How to Structure C Projects: These Best Practices Worked for Me](https://www.lucavall.in/blog/how-to-structure-c-projects-my-experience-best-practices)
 
+Modern C
+
+- Modern C for Absolute Beginners: A Friendly Introduction to the C Programming Language (2021) by Slobodan Dmitrović
 
 Advanced
 
 - Pointers on C (1997) by Kenneth A·Reek 
 - Expert C Programming: Deep C Secrets (1994) by Peter van der Linden 
 - C Traps and Pitfalls (1989) by Andrew Koenig
+- Effective C: An Introduction to Professional C Programming (2020) by Robert C. Seacord
+- Fluent C: Principles, Practices, and Patterns (2022) by Christopher Preschern
 
 ### C++
 
@@ -62,6 +67,12 @@ Project Structure
 - [C++ Project Structure and Cross-Platform Build With CMake](https://medium.com/swlh/c-project-structure-for-cmake-67d60135f6f5)
 - [What is a general C++ project structure like?](https://www.linkedin.com/pulse/what-general-c-project-structure-like-herbert-elwood-gilliland-iii/)
 - [C++ application development ( Part 1 — Project structure )](https://medium.com/heuristics/c-application-development-part-1-project-structure-454b00f9eddc)
+
+Modern C++
+
+- Modern C++ for Absolute Beginners: A Friendly Introduction to the C++ Programming Language and C++11 to C++23 Standards (2nd, 2023) by Slobodan Dmitrović
+- Modern C++ Programming Cookbook: Master C++ core language and standard library features, with over 100 recipes, updated to C++20 (2nd, 2020) by Marius Bancila
+- 现代 C++ 教程：高速上手 C++ 11/14/17/20 (2nd) by 欧长坤 [eBook](https://changkun.de/modern-cpp/)
 
 Best practices
 
@@ -221,8 +232,15 @@ Style Guide
 
 Advanced
 
+- Go Cookbook: Expert Solutions for Commonly Needed Go Tasks (2023) by Sau Sheong Chang
+- Mastering Go: Leverage Go's expertise for advanced utilities, empowering you to develop professional software (4th, 2024) by Mihalis Tsoukalos
+- Go for DevOps: Learn how to use the Go language to automate servers, the cloud, Kubernetes, GitHub, Packer, and Terraform (2022) by John Doak (Author), David Justice 
+- CLI
+  - Powerful Command-Line Applications in Go: Build Fast and Maintainable Tools (2021) by Ricardo Gerardi
+  - Building Modern CLI Applications in Go: Develop next-level CLIs to improve user experience, increase platform usage, and maximize production (2023) by Marian Montagnino
 - Concurrency
   - **Concurrency in Go: Tools and Techniques for Developers** (2017) by Katherine Cox-Buddy
+  - Learn Concurrent Programming with Go (2024) by James Cutajar
 - Efficient
   - Efficient Go: Data-Driven Performance Optimization by Bartlomiej Plotka
   - 100 Go Mistakes and How to Avoid Them (2022) by Teiva Harsanyi
@@ -243,7 +261,8 @@ gin，其他想要什么组件可以自己加上去。
 </details>
 
 - **Cloud Native Go: Building Reliable Services in Unreliable Environments** (2021) by Matthew Titmus
-- Go Web Programming by Chang Sau Sheong
+- Go Web Programming (2016) by Chang Sau Sheong
+- Modern Web Development with Go: Build real-world, fast, efficient and scalable web server apps using Go programming language (2023) by Dušan Stojanović 
 
 Code Practice
 
@@ -458,6 +477,8 @@ Tools
 
 ### PHP 📉
 
+Primary
+
 - Documentation
   - [PHP Documentation - doc]( https://www.php.net/docs.php )
 - Online Tutorials
@@ -466,14 +487,15 @@ Tools
   - [PHP Tutorial - Tutorialspoint](https://www.tutorialspoint.com/php/)
   - [Learn PHP](https://www.learn-php.org/)
 - [PHP: The Right Way by Josh Lockhart](https://phptherightway.com/)
-- Learning PHP, MySQL, JavaScript, CSS & HTML5: A Step-by-Step Guide to Creating Dynamic Websites by Robin Nixon
+- PHP & MySQL: Server-side Web Development (2022) by Jon Duckett
+- Programming PHP: Creating Dynamic Web Pages (4th, 2020) by Kevin Tatroe, Peter MacIntyre
+- Learning PHP, MySQL & JavaScript: A Step-by-Step Guide to Creating Dynamic Websites (6th, 2021) by Robin Nixon
+- Murach's PHP and MySQL (4th, 2022) by Joel Murach and Ray Harris
+- PHP and MySQL Web Development (5th, 2016) by Welling Luke, Thomson Laura
+
+Some more
+
 - Head First PHP and MySQL by Lynn Beighley and Michael Morrison
-- PHP and MySQL Web Development by Luke Welling
-- Modern PHP: New Features and Good Practices by Josh Lockhart
-- Murach's PHP and MySQL by Joel Murach and Ray Harris
-- PHP Cookbook by Adam Trachtenberg and David Sklar
-- Programming PHP by Rasmus Lerdorf, Kevin Tatroe, Peter MacIntyre
-- PHP Objects, Patterns, and Practice by Matt Zandstra
 - PHP for the Web: Visual QuickStart Guide by Larry Ullman
 - PHP 6 and MySQL 5 for Dynamic Web Sites: Visual Quickpro Guide by Larry Ullman
 
@@ -486,6 +508,21 @@ Project Structure
 
 - [How to choose a PHP project directory structure](https://docs.php.earth/faq/misc/structure/)
 - [Laravel Directory Structure](https://laravel.com/docs/master/structure)
+
+
+Modern PHP
+
+- Modern PHP: New Features and Good Practices (2015) by Josh Lockhart
+
+Advanced
+
+- PHP 8 Objects, Patterns, and Practice: Mastering OO Enhancements, Design Patterns, and Essential Development Tools (6th, 2021) by Matt Zandstra
+- PHP Cookbook: Modern Code Solutions for Professional Developers  (2023) by Adam Trachtenberg and David Sklar
+- Best Practices
+  - Clean Code in PHP: Expert tips and best practices to write beautiful, human-friendly, and maintainable PHP (2022) by Carsten Windler, Alexandre Daubois
+  - PHP 8 Programming Tips, Tricks and Best Practices: A practical guide to PHP 8 features, usage changes, and advanced programming techniques (2021) by Doug Bierer
+- Laravel
+  - Laravel: Up & Running: A Framework for Building Modern PHP Apps (3rd, 2023) by Matt Stauffer
 
 
 Web Frameworks
