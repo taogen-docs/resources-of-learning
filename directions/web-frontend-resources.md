@@ -348,7 +348,7 @@ Rank
 <h2><a name="ts_t" href="#ts_c">TypeScript</a></h2>
 <br>
 
-![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/TypeScript)  ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/TypeScript)   ![GitHub contributors](https://img.shields.io/github/contributors/microsoft/TypeScript)  ![GitHub Created At](https://img.shields.io/github/created-at/microsoft/TypeScript)
+![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/TypeScript)  ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/TypeScript)   ![GitHub contributors](https://img.shields.io/github/contributors/microsoft/TypeScript)  ![GitHub Created At](https://img.shields.io/github/created-at/microsoft/TypeScript) ![NPM Downloads](https://img.shields.io/npm/dw/typescript)
 
 
 > Typescript lets you type faster.
@@ -388,7 +388,7 @@ Rank
 <h3><a name="react_t" href="#react_c">React </a></h3>
 <br>
 
-![GitHub Repo stars](https://img.shields.io/github/stars/facebook/react)  ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/react)   ![GitHub contributors](https://img.shields.io/github/contributors/facebook/react)  ![GitHub Created At](https://img.shields.io/github/created-at/facebook/react)
+![GitHub Repo stars](https://img.shields.io/github/stars/facebook/react)  ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/react)   ![GitHub contributors](https://img.shields.io/github/contributors/facebook/react)  ![GitHub Created At](https://img.shields.io/github/created-at/facebook/react)  ![NPM Downloads](https://img.shields.io/npm/dw/react)
 
 
 >Developed by Facebook, React is one of the most popular JavaScript libraries for building user interfaces, especially single-page applications. It uses a component-based architecture and a virtual DOM for efficient updates.
@@ -450,7 +450,7 @@ React Admin Dashboard Templates
 <h3><a name="angular_t" href="#angular_c">AngularJS</a></h3>
 <br>
 
-![GitHub Repo stars](https://img.shields.io/github/stars/angular/angular)  ![GitHub last commit](https://img.shields.io/github/last-commit/angular/angular)   ![GitHub contributors](https://img.shields.io/github/contributors/angular/angular)  ![GitHub Created At](https://img.shields.io/github/created-at/angular/angular)
+![GitHub Repo stars](https://img.shields.io/github/stars/angular/angular)  ![GitHub last commit](https://img.shields.io/github/last-commit/angular/angular)   ![GitHub contributors](https://img.shields.io/github/contributors/angular/angular)  ![GitHub Created At](https://img.shields.io/github/created-at/angular/angular)  ![NPM Downloads](https://img.shields.io/npm/dw/@angular/cli)
 
 >Maintained by Google, Angular is a comprehensive front-end framework that provides everything you need to build large-scale applications. It uses TypeScript by default and comes with built-in features like dependency injection, routing, and state management.
 
@@ -469,7 +469,7 @@ React Admin Dashboard Templates
 <h3><a name="vue_t" href="#vue_c">Vue.js</a></h3>
 <br>
 
-![GitHub Repo stars](https://img.shields.io/github/stars/vuejs/core)  ![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/core)   ![GitHub contributors](https://img.shields.io/github/contributors/vuejs/core)  ![GitHub Created At](https://img.shields.io/github/created-at/vuejs/core)
+![GitHub Repo stars](https://img.shields.io/github/stars/vuejs/core)  ![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/core)   ![GitHub contributors](https://img.shields.io/github/contributors/vuejs/core)  ![GitHub Created At](https://img.shields.io/github/created-at/vuejs/core) ![NPM Downloads](https://img.shields.io/npm/dw/vue)
 
 >Vue.js is a progressive JavaScript framework that is easy to integrate with projects using other libraries. It’s known for its simplicity and flexibility, making it a popular choice for both small and large applications.
 
@@ -512,7 +512,7 @@ Vue.js Admin Dashboard Templates
 
 **Svelte**
 
-![GitHub Repo stars](https://img.shields.io/github/stars/sveltejs/svelte)  ![GitHub last commit](https://img.shields.io/github/last-commit/sveltejs/svelte)   ![GitHub contributors](https://img.shields.io/github/contributors/sveltejs/svelte)  ![GitHub Created At](https://img.shields.io/github/created-at/sveltejs/svelte)
+![GitHub Repo stars](https://img.shields.io/github/stars/sveltejs/svelte)  ![GitHub last commit](https://img.shields.io/github/last-commit/sveltejs/svelte)   ![GitHub contributors](https://img.shields.io/github/contributors/sveltejs/svelte)  ![GitHub Created At](https://img.shields.io/github/created-at/sveltejs/svelte) ![NPM Downloads](https://img.shields.io/npm/dw/svelte)
 
 >Svelte is a relatively new framework that shifts the work of the framework to the compile step, producing highly efficient JavaScript at build time. It eliminates the need for a virtual DOM and delivers great performance with a simple syntax.
 
@@ -520,7 +520,7 @@ Vue.js Admin Dashboard Templates
 
 **Preact**
 
-![GitHub Repo stars](https://img.shields.io/github/stars/preactjs/preact)  ![GitHub last commit](https://img.shields.io/github/last-commit/preactjs/preact)   ![GitHub contributors](https://img.shields.io/github/contributors/preactjs/preact)  ![GitHub Created At](https://img.shields.io/github/created-at/preactjs/preact)
+![GitHub Repo stars](https://img.shields.io/github/stars/preactjs/preact)  ![GitHub last commit](https://img.shields.io/github/last-commit/preactjs/preact)   ![GitHub contributors](https://img.shields.io/github/contributors/preactjs/preact)  ![GitHub Created At](https://img.shields.io/github/created-at/preactjs/preact) ![NPM Downloads](https://img.shields.io/npm/dw/preact)
 
 >Preact is a lightweight, swift, high-performance library and alternative to React. Preact is merely 3kb in size (minified and gzipped) and yet gives you all the necessary functionality of React, making it one of the best JavaScript frameworks.
 
@@ -528,7 +528,7 @@ Vue.js Admin Dashboard Templates
 
 **SolidJS**
 
-![GitHub Repo stars](https://img.shields.io/github/stars/solidjs/solid)  ![GitHub last commit](https://img.shields.io/github/last-commit/solidjs/solid)   ![GitHub contributors](https://img.shields.io/github/contributors/solidjs/solid)  ![GitHub Created At](https://img.shields.io/github/created-at/solidjs/solid)
+![GitHub Repo stars](https://img.shields.io/github/stars/solidjs/solid)  ![GitHub last commit](https://img.shields.io/github/last-commit/solidjs/solid)   ![GitHub contributors](https://img.shields.io/github/contributors/solidjs/solid)  ![GitHub Created At](https://img.shields.io/github/created-at/solidjs/solid) ![NPM Downloads](https://img.shields.io/npm/dw/solid-js)
 
 >SolidJS is a reactive JavaScript library with a focus on performance. It updates the DOM directly without a virtual DOM, using a fine-grained reactivity system similar to frameworks like Knockout or MobX.
 
@@ -537,7 +537,7 @@ Vue.js Admin Dashboard Templates
 
 **Backbone.js**
 
-![GitHub Repo stars](https://img.shields.io/github/stars/jashkenas/backbone)  ![GitHub last commit](https://img.shields.io/github/last-commit/jashkenas/backbone)   ![GitHub contributors](https://img.shields.io/github/contributors/jashkenas/backbone)  ![GitHub Created At](https://img.shields.io/github/created-at/jashkenas/backbone)
+![GitHub Repo stars](https://img.shields.io/github/stars/jashkenas/backbone)  ![GitHub last commit](https://img.shields.io/github/last-commit/jashkenas/backbone)   ![GitHub contributors](https://img.shields.io/github/contributors/jashkenas/backbone)  ![GitHub Created At](https://img.shields.io/github/created-at/jashkenas/backbone) ![NPM Downloads](https://img.shields.io/npm/dw/backbone)
 
 >While not as feature-rich as other frameworks, it’s suitable for smaller projects and situations where minimalism is favored. Backbone’s event-driven communication and simple structure help developers organize code effectively.
 
@@ -547,7 +547,7 @@ Vue.js Admin Dashboard Templates
 
 **Ember.js**
 
-![GitHub Repo stars](https://img.shields.io/github/stars/emberjs/ember.js)  ![GitHub last commit](https://img.shields.io/github/last-commit/emberjs/ember.js)   ![GitHub contributors](https://img.shields.io/github/contributors/emberjs/ember.js)  ![GitHub Created At](https://img.shields.io/github/created-at/emberjs/ember.js)
+![GitHub Repo stars](https://img.shields.io/github/stars/emberjs/ember.js)  ![GitHub last commit](https://img.shields.io/github/last-commit/emberjs/ember.js)   ![GitHub contributors](https://img.shields.io/github/contributors/emberjs/ember.js)  ![GitHub Created At](https://img.shields.io/github/created-at/emberjs/ember.js) ![NPM Downloads](https://img.shields.io/npm/dw/ember-cli)
 
 >Ember.js is a framework for building enterprising web applications. It emphasizes tradition over configuration, providing a structured architecture that promotes scalability and maintainability. Model-View-ViewModel (MVVW) architecture is the foundation for Ember.
 
@@ -557,13 +557,13 @@ Vue.js Admin Dashboard Templates
 
 **Phoenix Framework**
 
-![GitHub Repo stars](https://img.shields.io/github/stars/phoenixframework/phoenix)  ![GitHub last commit](https://img.shields.io/github/last-commit/phoenixframework/phoenix)   ![GitHub contributors](https://img.shields.io/github/contributors/phoenixframework/phoenix)  ![GitHub Created At](https://img.shields.io/github/created-at/phoenixframework/phoenix)
+![GitHub Repo stars](https://img.shields.io/github/stars/phoenixframework/phoenix)  ![GitHub last commit](https://img.shields.io/github/last-commit/phoenixframework/phoenix)   ![GitHub contributors](https://img.shields.io/github/contributors/phoenixframework/phoenix)  ![GitHub Created At](https://img.shields.io/github/created-at/phoenixframework/phoenix)  ![NPM Downloads](https://img.shields.io/npm/dw/phoenix)
 
 - [Phoenix Framework](https://www.phoenixframework.org/). Peace of mind from prototype to production.
 
 **qwik**
 
-![GitHub Repo stars](https://img.shields.io/github/stars/QwikDev/qwik)  ![GitHub last commit](https://img.shields.io/github/last-commit/QwikDev/qwik)   ![GitHub contributors](https://img.shields.io/github/contributors/QwikDev/qwik)  ![GitHub Created At](https://img.shields.io/github/created-at/QwikDev/qwik)
+![GitHub Repo stars](https://img.shields.io/github/stars/QwikDev/qwik)  ![GitHub last commit](https://img.shields.io/github/last-commit/QwikDev/qwik)   ![GitHub contributors](https://img.shields.io/github/contributors/QwikDev/qwik)  ![GitHub Created At](https://img.shields.io/github/created-at/QwikDev/qwik) ![NPM Downloads](https://img.shields.io/npm/dw/create-qwik)
 
 
 - [qwik](https://qwik.dev/) - Build instantly-interactive web apps without effort.
@@ -571,7 +571,7 @@ Vue.js Admin Dashboard Templates
 
 **Lit**
 
-![GitHub Repo stars](https://img.shields.io/github/stars/lit/lit)  ![GitHub last commit](https://img.shields.io/github/last-commit/lit/lit)   ![GitHub contributors](https://img.shields.io/github/contributors/lit/lit)  ![GitHub Created At](https://img.shields.io/github/created-at/lit/lit)
+![GitHub Repo stars](https://img.shields.io/github/stars/lit/lit)  ![GitHub last commit](https://img.shields.io/github/last-commit/lit/lit)   ![GitHub contributors](https://img.shields.io/github/contributors/lit/lit)  ![GitHub Created At](https://img.shields.io/github/created-at/lit/lit) ![NPM Downloads](https://img.shields.io/npm/dw/lit)
 
 - [Lit](https://lit.dev/) - A simple library for building fast, lightweight web components.
 
@@ -612,7 +612,7 @@ Vue.js Admin Dashboard Templates
 <h3><a name="rn_t" href="#rn_c">React Native</a></h3>
 <br>
 
-![GitHub Repo stars](https://img.shields.io/github/stars/facebook/react-native)  ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/react-native)   ![GitHub contributors](https://img.shields.io/github/contributors/facebook/react-native)  ![GitHub Created At](https://img.shields.io/github/created-at/facebook/react-native)
+![GitHub Repo stars](https://img.shields.io/github/stars/facebook/react-native)  ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/react-native)   ![GitHub contributors](https://img.shields.io/github/contributors/facebook/react-native)  ![GitHub Created At](https://img.shields.io/github/created-at/facebook/react-native)  ![NPM Downloads](https://img.shields.io/npm/dw/react-native)
 
 - [React Native Docs](https://facebook.github.io/react-native/docs/getting-started)
 - Learning React Native: Building Native Mobile Apps with JavaScript by Bonnie Eisenman
@@ -628,7 +628,7 @@ Vue.js Admin Dashboard Templates
 
 [cordova-android](https://github.com/apache/cordova-android)
 
-![GitHub Repo stars](https://img.shields.io/github/stars/apache/cordova-android)  ![GitHub last commit](https://img.shields.io/github/last-commit/apache/cordova-android)   ![GitHub contributors](https://img.shields.io/github/contributors/apache/cordova-android)  ![GitHub Created At](https://img.shields.io/github/created-at/apache/cordova-android)
+![GitHub Repo stars](https://img.shields.io/github/stars/apache/cordova-android)  ![GitHub last commit](https://img.shields.io/github/last-commit/apache/cordova-android)   ![GitHub contributors](https://img.shields.io/github/contributors/apache/cordova-android)  ![GitHub Created At](https://img.shields.io/github/created-at/apache/cordova-android) ![NPM Downloads](https://img.shields.io/npm/dw/cordova-android)
 
 - [Apache Cordova](https://cordova.apache.org/). Using standard web technologies - HTML5, CSS3, and JavaScript for cross-platform development
 
@@ -636,19 +636,19 @@ Vue.js Admin Dashboard Templates
 
 ### Ionic 4
 
-![GitHub Repo stars](https://img.shields.io/github/stars/ionic-team/ionic-framework)  ![GitHub last commit](https://img.shields.io/github/last-commit/ionic-team/ionic-framework)   ![GitHub contributors](https://img.shields.io/github/contributors/ionic-team/ionic-framework)  ![GitHub Created At](https://img.shields.io/github/created-at/ionic-team/ionic-framework)
+![GitHub Repo stars](https://img.shields.io/github/stars/ionic-team/ionic-framework)  ![GitHub last commit](https://img.shields.io/github/last-commit/ionic-team/ionic-framework)   ![GitHub contributors](https://img.shields.io/github/contributors/ionic-team/ionic-framework)  ![GitHub Created At](https://img.shields.io/github/created-at/ionic-team/ionic-framework) ![NPM Downloads](https://img.shields.io/npm/dw/@ionic/core)
 
 - [Ionic](https://ionicframework.com/). One codebase. Any platform. Now in **React**.
 
 ### Taro
 
-![GitHub Repo stars](https://img.shields.io/github/stars/NervJS/taro)  ![GitHub last commit](https://img.shields.io/github/last-commit/NervJS/taro)   ![GitHub contributors](https://img.shields.io/github/contributors/NervJS/taro)  ![GitHub Created At](https://img.shields.io/github/created-at/NervJS/taro)
+![GitHub Repo stars](https://img.shields.io/github/stars/NervJS/taro).   ![GitHub last commit](https://img.shields.io/github/last-commit/NervJS/taro)   ![GitHub contributors](https://img.shields.io/github/contributors/NervJS/taro)  ![GitHub Created At](https://img.shields.io/github/created-at/NervJS/taro)  ![NPM Downloads](https://img.shields.io/npm/dw/@tarojs/taro)
 
 - [Taro](https://taro.aotu.io/). 一套遵循 **React** 语法规范的多端开发解决方案。
 
 ### Quasar Framework
 
-![GitHub Repo stars](https://img.shields.io/github/stars/quasarframework/quasar)  ![GitHub last commit](https://img.shields.io/github/last-commit/quasarframework/quasar)   ![GitHub contributors](https://img.shields.io/github/contributors/quasarframework/quasar)  ![GitHub Created At](https://img.shields.io/github/created-at/quasarframework/quasar)
+![GitHub Repo stars](https://img.shields.io/github/stars/quasarframework/quasar)  ![GitHub last commit](https://img.shields.io/github/last-commit/quasarframework/quasar)   ![GitHub contributors](https://img.shields.io/github/contributors/quasarframework/quasar)  ![GitHub Created At](https://img.shields.io/github/created-at/quasarframework/quasar) ![NPM Downloads](https://img.shields.io/npm/dw/quasar)
 
 - [Quasar Framework](https://quasar.dev/). Build high-performance **VueJS** user interfaces. All Platforms in One Go.
 
@@ -668,7 +668,7 @@ Vue.js Admin Dashboard Templates
 
 <br>
 
-![GitHub Repo stars](https://img.shields.io/github/stars/electron/electron)  ![GitHub last commit](https://img.shields.io/github/last-commit/electron/electron)   ![GitHub contributors](https://img.shields.io/github/contributors/electron/electron)  ![GitHub Created At](https://img.shields.io/github/created-at/electron/electron)
+![GitHub Repo stars](https://img.shields.io/github/stars/electron/electron)  ![GitHub last commit](https://img.shields.io/github/last-commit/electron/electron)   ![GitHub contributors](https://img.shields.io/github/contributors/electron/electron)  ![GitHub Created At](https://img.shields.io/github/created-at/electron/electron)  ![NPM Downloads](https://img.shields.io/npm/dw/electron)
 
 - [Electron](https://electronjs.org). Build cross platform desktop apps with JavaScript, HTML, and CSS
 - Electron in Action by Steve Kinney
@@ -855,7 +855,7 @@ Others
 
 #### Express.js
 
-![GitHub Repo stars](https://img.shields.io/github/stars/expressjs/express)  ![GitHub last commit](https://img.shields.io/github/last-commit/expressjs/express)   ![GitHub contributors](https://img.shields.io/github/contributors/expressjs/express)  ![GitHub Created At](https://img.shields.io/github/created-at/expressjs/express)
+![GitHub Repo stars](https://img.shields.io/github/stars/expressjs/express)  ![GitHub last commit](https://img.shields.io/github/last-commit/expressjs/express)   ![GitHub contributors](https://img.shields.io/github/contributors/expressjs/express)  ![GitHub Created At](https://img.shields.io/github/created-at/expressjs/express)  ![NPM Downloads](https://img.shields.io/npm/dw/express)
 
 - [Express Getting Started - doc](https://expressjs.com/en/starter/installing.html) 
 - Express in Action: Node Applications with Express and Its Companion Tools by Evan Hahn
@@ -863,25 +863,25 @@ Others
 
 #### Meteor
 
-![GitHub Repo stars](https://img.shields.io/github/stars/meteor/meteor)  ![GitHub last commit](https://img.shields.io/github/last-commit/meteor/meteor)   ![GitHub contributors](https://img.shields.io/github/contributors/meteor/meteor)  ![GitHub Created At](https://img.shields.io/github/created-at/meteor/meteor)
+![GitHub Repo stars](https://img.shields.io/github/stars/meteor/meteor)  ![GitHub last commit](https://img.shields.io/github/last-commit/meteor/meteor)   ![GitHub contributors](https://img.shields.io/github/contributors/meteor/meteor)  ![GitHub Created At](https://img.shields.io/github/created-at/meteor/meteor) ![NPM Downloads](https://img.shields.io/npm/dw/meteor)
 
 - [Meteor](https://www.meteor.com/) - The full-stack JavaScript framework for real-time apps.
 
 #### Koa.js
 
-![GitHub Repo stars](https://img.shields.io/github/stars/koajs/koa)  ![GitHub last commit](https://img.shields.io/github/last-commit/koajs/koa)   ![GitHub contributors](https://img.shields.io/github/contributors/koajs/koa)  ![GitHub Created At](https://img.shields.io/github/created-at/koajs/koa)
+![GitHub Repo stars](https://img.shields.io/github/stars/koajs/koa)  ![GitHub last commit](https://img.shields.io/github/last-commit/koajs/koa)   ![GitHub contributors](https://img.shields.io/github/contributors/koajs/koa)  ![GitHub Created At](https://img.shields.io/github/created-at/koajs/koa) ![NPM Downloads](https://img.shields.io/npm/dw/koa)
 
 - [Koa.js](https://koajs.com/) - Next generation web framework for node.js.
 
 #### Fastify
 
-![GitHub Repo stars](https://img.shields.io/github/stars/fastify/fastify)  ![GitHub last commit](https://img.shields.io/github/last-commit/fastify/fastify)   ![GitHub contributors](https://img.shields.io/github/contributors/fastify/fastify)  ![GitHub Created At](https://img.shields.io/github/created-at/fastify/fastify)
+![GitHub Repo stars](https://img.shields.io/github/stars/fastify/fastify)  ![GitHub last commit](https://img.shields.io/github/last-commit/fastify/fastify)   ![GitHub contributors](https://img.shields.io/github/contributors/fastify/fastify)  ![GitHub Created At](https://img.shields.io/github/created-at/fastify/fastify) ![NPM Downloads](https://img.shields.io/npm/dw/fastify)
 
 - [Fastify](https://fastify.dev/) - Fast and low overhead web framework, for Node.js.
 
 #### Nest.js
 
-![GitHub Repo stars](https://img.shields.io/github/stars/nestjs/nest)  ![GitHub last commit](https://img.shields.io/github/last-commit/nestjs/nest)   ![GitHub contributors](https://img.shields.io/github/contributors/nestjs/nest)  ![GitHub Created At](https://img.shields.io/github/created-at/nestjs/nest)
+![GitHub Repo stars](https://img.shields.io/github/stars/nestjs/nest)  ![GitHub last commit](https://img.shields.io/github/last-commit/nestjs/nest)   ![GitHub contributors](https://img.shields.io/github/contributors/nestjs/nest)  ![GitHub Created At](https://img.shields.io/github/created-at/nestjs/nest) ![NPM Downloads](https://img.shields.io/npm/dw/@nestjs/core)
 
 > NestJS uses express or fastify under the hood.
 
@@ -893,19 +893,19 @@ Others
 
 #### tRPC
 
-![GitHub Repo stars](https://img.shields.io/github/stars/trpc/trpc)  ![GitHub last commit](https://img.shields.io/github/last-commit/trpc/trpc)   ![GitHub contributors](https://img.shields.io/github/contributors/trpc/trpc)  ![GitHub Created At](https://img.shields.io/github/created-at/trpc/trpc)
+![GitHub Repo stars](https://img.shields.io/github/stars/trpc/trpc)  ![GitHub last commit](https://img.shields.io/github/last-commit/trpc/trpc)   ![GitHub contributors](https://img.shields.io/github/contributors/trpc/trpc)  ![GitHub Created At](https://img.shields.io/github/created-at/trpc/trpc) ![NPM Downloads](https://img.shields.io/npm/dw/@trpc/server)
 
 - [tRPC](https://trpc.io/) - Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 
 #### Astro
 
-![GitHub Repo stars](https://img.shields.io/github/stars/withastro/astro)  ![GitHub last commit](https://img.shields.io/github/last-commit/withastro/astro)   ![GitHub contributors](https://img.shields.io/github/contributors/withastro/astro)  ![GitHub Created At](https://img.shields.io/github/created-at/withastro/astro)
+![GitHub Repo stars](https://img.shields.io/github/stars/withastro/astro)  ![GitHub last commit](https://img.shields.io/github/last-commit/withastro/astro)   ![GitHub contributors](https://img.shields.io/github/contributors/withastro/astro)  ![GitHub Created At](https://img.shields.io/github/created-at/withastro/astro)  ![NPM Downloads](https://img.shields.io/npm/dw/astro)
 
 - [Astro](https://astro.build/) - The web framework for content-driven websites. Astro powers the world's fastest marketing sites, blogs, e-commerce websites, and more.
 
 #### Remix
 
-![GitHub Repo stars](https://img.shields.io/github/stars/remix-run/remix)  ![GitHub last commit](https://img.shields.io/github/last-commit/remix-run/remix)   ![GitHub contributors](https://img.shields.io/github/contributors/remix-run/remix)  ![GitHub Created At](https://img.shields.io/github/created-at/remix-run/remix)
+![GitHub Repo stars](https://img.shields.io/github/stars/remix-run/remix)  ![GitHub last commit](https://img.shields.io/github/last-commit/remix-run/remix)   ![GitHub contributors](https://img.shields.io/github/contributors/remix-run/remix)  ![GitHub Created At](https://img.shields.io/github/created-at/remix-run/remix) ![NPM Downloads](https://img.shields.io/npm/dw/remix)
 
 - [Remix](https://remix.run/) - Build Better Websites.
 
@@ -913,7 +913,7 @@ Others
 
 #### Hono
 
-![GitHub Repo stars](https://img.shields.io/github/stars/honojs/hono)  ![GitHub last commit](https://img.shields.io/github/last-commit/honojs/hono)   ![GitHub contributors](https://img.shields.io/github/contributors/honojs/hono)  ![GitHub Created At](https://img.shields.io/github/created-at/honojs/hono)
+![GitHub Repo stars](https://img.shields.io/github/stars/honojs/hono)  ![GitHub last commit](https://img.shields.io/github/last-commit/honojs/hono)   ![GitHub contributors](https://img.shields.io/github/contributors/honojs/hono)  ![GitHub Created At](https://img.shields.io/github/created-at/honojs/hono) ![NPM Downloads](https://img.shields.io/npm/dw/hono)
 
 > It's basically express but with modern approach, including typescript support out of the box, improved DX, and better performance.
 
@@ -924,7 +924,7 @@ Others
 
 #### Next.js
 
-![GitHub Repo stars](https://img.shields.io/github/stars/vercel/next.js)  ![GitHub last commit](https://img.shields.io/github/last-commit/vercel/next.js)   ![GitHub contributors](https://img.shields.io/github/contributors/vercel/next.js)  ![GitHub Created At](https://img.shields.io/github/created-at/vercel/next.js)
+![GitHub Repo stars](https://img.shields.io/github/stars/vercel/next.js)  ![GitHub last commit](https://img.shields.io/github/last-commit/vercel/next.js)   ![GitHub contributors](https://img.shields.io/github/contributors/vercel/next.js)  ![GitHub Created At](https://img.shields.io/github/created-at/vercel/next.js) ![NPM Downloads](https://img.shields.io/npm/dw/next)
 
 >Next.js is a JavaScript framework built on top of React, specializing in server-side rendering (SSR) and static site generation (SSG). It optimizes web application performance by rendering pages on the server, improving initial load times and search engine optimization.
 
@@ -938,7 +938,7 @@ Others
 
 #### Nuxt
 
-![GitHub Repo stars](https://img.shields.io/github/stars/nuxt/nuxt)  ![GitHub last commit](https://img.shields.io/github/last-commit/nuxt/nuxt)   ![GitHub contributors](https://img.shields.io/github/contributors/nuxt/nuxt)  ![GitHub Created At](https://img.shields.io/github/created-at/nuxt/nuxt)
+![GitHub Repo stars](https://img.shields.io/github/stars/nuxt/nuxt)  ![GitHub last commit](https://img.shields.io/github/last-commit/nuxt/nuxt)   ![GitHub contributors](https://img.shields.io/github/contributors/nuxt/nuxt)  ![GitHub Created At](https://img.shields.io/github/created-at/nuxt/nuxt) ![NPM Downloads](https://img.shields.io/npm/dw/nuxt)
 
 >Nuxt.js is a framework built on top of Vue.js for creating universal (SSR) and static websites. It simplifies the development process by providing conventions and features like automatic routing, server-side rendering, and static site generation.
 
