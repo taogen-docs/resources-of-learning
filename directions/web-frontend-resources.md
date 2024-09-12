@@ -347,6 +347,7 @@ Rank
 
 <h2><a name="ts_t" href="#ts_c">TypeScript</a></h2>
 <br>
+
 ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/TypeScript)  ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/TypeScript)   ![GitHub contributors](https://img.shields.io/github/contributors/microsoft/TypeScript)  ![GitHub Created At](https://img.shields.io/github/created-at/microsoft/TypeScript)
 
 
@@ -386,6 +387,7 @@ Rank
 
 <h3><a name="react_t" href="#react_c">React </a></h3>
 <br>
+
 ![GitHub Repo stars](https://img.shields.io/github/stars/facebook/react)  ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/react)   ![GitHub contributors](https://img.shields.io/github/contributors/facebook/react)  ![GitHub Created At](https://img.shields.io/github/created-at/facebook/react)
 
 
@@ -447,6 +449,7 @@ React Admin Dashboard Templates
 <br>
 <h3><a name="angular_t" href="#angular_c">AngularJS</a></h3>
 <br>
+
 ![GitHub Repo stars](https://img.shields.io/github/stars/angular/angular)  ![GitHub last commit](https://img.shields.io/github/last-commit/angular/angular)   ![GitHub contributors](https://img.shields.io/github/contributors/angular/angular)  ![GitHub Created At](https://img.shields.io/github/created-at/angular/angular)
 
 >Maintained by Google, Angular is a comprehensive front-end framework that provides everything you need to build large-scale applications. It uses TypeScript by default and comes with built-in features like dependency injection, routing, and state management.
@@ -597,6 +600,7 @@ Vue.js Admin Dashboard Templates
 <h3><a name="flutter_t" href="#flutter_c">Flutter</a></h3>
 
 <br>
+
 ![GitHub Repo stars](https://img.shields.io/github/stars/flutter/flutter)  ![GitHub last commit](https://img.shields.io/github/last-commit/flutter/flutter)   ![GitHub contributors](https://img.shields.io/github/contributors/flutter/flutter)  ![GitHub Created At](https://img.shields.io/github/created-at/flutter/flutter)
 
 - [Flutter](https://flutter.dev). Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
@@ -807,6 +811,7 @@ Others
 
 <h4><a name="node_t" href="#node_c">Node.js</a></h4>
 <br>
+
 ![GitHub Repo stars](https://img.shields.io/github/stars/nodejs/node)  ![GitHub last commit](https://img.shields.io/github/last-commit/nodejs/node)   ![GitHub contributors](https://img.shields.io/github/contributors/nodejs/node)  ![GitHub Created At](https://img.shields.io/github/created-at/nodejs/node)
 
 
