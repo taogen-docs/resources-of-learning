@@ -887,8 +887,6 @@ Others
 
 > NestJS is for whom misses Java and doesn’t know how to develop with JS.
 
-> Spring boot which is quite similar to nestjs with Kaitlin.
-
 - [Nest.js](https://nestjs.com/) - A progressive Node.js framework for building efficient, reliable and scalable server-side applications.
 
 #### tRPC
