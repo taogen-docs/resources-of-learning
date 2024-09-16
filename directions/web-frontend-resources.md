@@ -77,26 +77,37 @@
 
 HTML & CSS
 
+- ⭐**HTML and CSS: Design and Build Websites** (2011) by Jon Duckett
 - ⭐**Head First HTML and CSS** (2nd, 2012) by Elisabeth Freeman and Eric Freeman
-- ⭐**HTML & CSS: Design and Build Web Sites** (2011) by Jon Duckett
 - Web Design with HTML, CSS, JavaScript and JQuery Set (2014) by Jon Duckett
 - Learning Web Design by Jennifer Niederst Robbins
 - HTML and CSS QuickStart Guide (2021) by David DuRocher
 
 HTML
 
-- **HTML5: The Missing Manual** (2nd, 2014) by Matthew MacDonald
+- Online tutorials
+	- [HTML - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
+	- [HTML Tutorial - w3schools](https://www.w3schools.com/html/default.asp)
+	- [Learn HTML - Google](https://web.dev/learn/html)
+	- [HTML CheatSheet](https://htmlcheatsheet.com/)
+- Specifications
+	- [HTML 4.01 Reference Specification](https://www.w3.org/TR/html401/)
+	- [HTML Living Standard](https://html.spec.whatwg.org/multipage/) - It describes exactly how HTML (all the HTML elements, and their associated APIs, and other surrounding technologies) should be implemented.
+- **HTML5: The Definitive Guide** (7th, 2013) by Chuck Musciano, Bill Kennedy, Estelle Weyl [3.91, 496]
+- **HTML5: The Missing Manual** (2nd, 2014) by Matthew MacDonald [4.03, 217]
+- The Definitive Guide to HTML5 by Adam Freeman [3.89, 97]
+- HTML5 Pocket Reference: Quick, Comprehensive, Indispensable (5th, 2013) by Jennifer Robbins [3.92, 120]
 - HTML5 in Action by Rob Crowther, Joe Lennon, Ash Blue
-- **HTML5: The Definitive Guide** (7th, 2013) by Chuck Musciano, Bill Kennedy, Estelle Weyl
-- [HTML 4.01 Reference Specification](https://www.w3.org/TR/html401/)
-- [HTML - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [HTML Living Standard](https://html.spec.whatwg.org/multipage/) - It describes exactly how HTML (all the HTML elements, and their associated APIs, and other surrounding technologies) should be implemented.
-- [HTML Tutorial - w3schools](https://www.w3schools.com/html/default.asp)
-- [HTML CheatSheet](https://htmlcheatsheet.com/)
-- [Learn HTML - Google](https://web.dev/learn/html)
 
 CSS
 
+- Online tutorials
+	- [CSS - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS)
+	- [CSS Tutorial - w3schools](https://www.w3schools.com/css/default.asp)
+	- [Learn CSS - Google](https://web.dev/learn/css)
+	- [CSS CheatSheet](https://htmlcheatsheet.com/css/)
+- Specifications
+	- [CSS Specification](https://www.w3.org/TR/css-2023/)
 - ⭐**CSS: The Definitive Guide: Web Layout and Presentation** (5th, 2023) by Eric A. Meyer and Estelle Weyl
 - **CSS Secrets: Better Solutions to Everyday Web Design Problems** (2015) by Lea Verou
 - ⭐**CSS: The Missing Manual** (4th, 2015) by David McFarland
@@ -104,12 +115,8 @@ CSS
 - **CSS Pocket Reference: Visual Presentation for the Web** (5th, 2018) by Eric A. Meyer
 - CSS in Depth by Keith J. Grant
 - The Book of CSS3: A Developer's Guide to the Future of Web Design by Peter Gasston
-- CSS Cookbook by Christopher Schmitt
-- [CSS Specification](https://www.w3.org/TR/css-2023/)
-- [CSS - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [CSS Tutorial - w3schools](https://www.w3schools.com/css/default.asp)
-- [CSS CheatSheet](https://htmlcheatsheet.com/css/)
-- [Learn CSS - Google](https://web.dev/learn/css)
+- CSS Cookbook by Christopher Schmitt 
+
 
 Responsive Design 
 
@@ -319,6 +326,7 @@ Quizzes
 - [jQuery API Documentation - doc]( https://api.jquery.com/ )
 - [jQuery Learning Center - doc]( https://learn.jquery.com/ )
 - [jQuery CheatSheet](https://htmlcheatsheet.com/jquery/)
+- JavaScript and jQuery: Interactive Front-End Web Development (2014) by Jon Duckett
 - jQuery in Action by Bear Bibeault
 - Learning jQuery by Jonathan Chaffer
 - JQuery Cookbook by Cody Lindley
