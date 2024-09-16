@@ -217,15 +217,16 @@ ECMAScript
   - [ECMAScript 6 — New Features](http://es6-features.org)
   - Understanding Ecmascript 6: The Definitive Guide for JavaScript Developers by Nicholas C. Zakas
 
-
 Primary
 
+- Online Tutorials
+	- [JavaScript - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+	- [JavaScript - w3schools](https://www.w3schools.com/js/default.asp)
+	- [The Modern JavaScript Tutorial](http://javascript.info/)
+	- [JavaScript CheatSheet](https://htmlcheatsheet.com/js/)
+	- [Learn JavaScript - Google](https://web.dev/learn/javascript)
 - DOM Scripting: Web Design with JavaScript and the Document Object Model by Jeremy Keith
 - A Smarter Way to Learn JavaScript: The new approach that uses technology to cut your effort in half by Mark Myers
-- [JavaScript - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [JavaScript - w3schools](https://www.w3schools.com/js/default.asp)
-- [JavaScript CheatSheet](https://htmlcheatsheet.com/js/)
-- [Learn JavaScript - Google](https://web.dev/learn/javascript)
 - ⭐**JavaScript: The Definitive Guide** (7th, 2020) by David Flanagan (**犀牛书**)
 - **Professional JavaScript for Web Developers** (5th, 2023) by Matt Frisbie (**红宝书**)
 - Beginning JavaScript by Jeremy McPeak 
@@ -233,6 +234,7 @@ Primary
   Nobody knows JavaScript better than me. 
 - JavaScript from Beginner to Professional: Learn JavaScript quickly by building fun, interactive, and dynamic web apps, games, and pages by Laurence Lars Svekis, Maaike Van Putten, Rob Percival
 - Learn JavaScript Quickly: A Complete Beginner’s Guide to Learning JavaScript, Even If You’re New to Programming (Crash Course With Hands-On Project) by Code Quickly
+- JavaScript: A Beginner's Guide (5th, 2019) by John Pollock. 《新手学 JavaScript 编程》
 
 Intermediate
 
@@ -302,10 +304,8 @@ Some More
 - Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems by Steve Krug
 - RESTful Web Services by Leonard Richardson
 
+Resources
 
-Tutorials
-
-- [The Modern JavaScript Tutorial](http://javascript.info/)
 - [awesome-javascript - GitHub](https://github.com/sorrycc/awesome-javascript)
 - [freeCodeCamp](https://www.freecodecamp.org/)
 
@@ -323,17 +323,21 @@ Quizzes
 <h3><a name="jq_t" href="#jq_c">jQuery</a></h3>
 <br>
 
-- [jQuery API Documentation - doc]( https://api.jquery.com/ )
-- [jQuery Learning Center - doc]( https://learn.jquery.com/ )
+- Documentations
+	- [jQuery Learning Center - Chapters - doc]( https://learn.jquery.com/ )
+	- [jQuery API Documentation - doc]( https://api.jquery.com/ )
 - [jQuery CheatSheet](https://htmlcheatsheet.com/jquery/)
-- JavaScript and jQuery: Interactive Front-End Web Development (2014) by Jon Duckett
-- jQuery in Action by Bear Bibeault
-- Learning jQuery by Jonathan Chaffer
-- JQuery Cookbook by Cody Lindley
-- JQuery UI in Action by T. J. VanToll
-- JQuery UI Cookbook by Adam Boduch
-- jQuery: Novice to Ninja by Earle Castledine
-- JavaScript and JQuery: Interactive Front-End Web Development by Jon Duckett
+- jQuery in Action (3rd, 2015) by Bear Bibeault [3.95, 743]
+- jQuery: Novice to Ninja by Earle Castledine [3.92, 550]
+- Learning jQuery by Jonathan Chaffer [3.93, 126]
+- jQuery Cookbook by Cody Lindley [3.89, 265]
+- jQuery Pocket Reference: Read Less, Learn More by David Flanagan [3.89, 123]
+- JavaScript and jQuery: Interactive Front-End Web Development (2014) by Jon Duckett [4.29, 1668]
+
+jQuery UI
+
+- jQuery UI in Action by T. J. VanToll
+- jQuery UI Cookbook by Adam Boduch
 
 <br>
 <h2><a name="hcj_t" href="#hcj_c">HTML, CSS and JavaScript</a></h2>
@@ -401,17 +405,19 @@ Rank
 
 >Developed by Facebook, React is one of the most popular JavaScript libraries for building user interfaces, especially single-page applications. It uses a component-based architecture and a virtual DOM for efficient updates.
 
-- [React Documentation - doc](https://reactjs.org/docs/getting-started.html) 
+- Documentations
+	- [React Learn](https://react.dev/learn) 
+	- [React Reference](https://react.dev/reference/react)
 - [React Roadmap](https://roadmap.sh/react)
-- **The Road to React: The React.js with Hooks in JavaScript Book 2024 Edition** by Robin Wieruch
-- **Learning React: Modern Patterns for Developing React Apps** (2nd, 2020) by Alex Banks and Eve Porcello
+- **The Road to React: The React.js with Hooks in JavaScript Book 2024 Edition** by Robin Wieruch [4.23, 522]
+- **Learning React: Modern Patterns for Developing React Apps** (2nd, 2020) by Alex Banks and Eve Porcello [4.04, 496]
 - Fluent React: Build Fast, Performant, and Intuitive Web Applications (2024) by Tejas Kumar
 - React Key Concepts: Consolidate your knowledge of React’s core features (2022) by Maximilian Schwarzmüller
 - React Cookbook: Recipes for Mastering the React Framework (2021) by David Griffiths, Dawn Griffiths
 - React Explained: Your Step-by-Step Guide to React (2020) by Zac Gordon
 - React Hooks in Action: With Suspense and Concurrent Mode (2021) by John Larsen
-- React Quickly (2nd, 2023) by Azat Mardan
-- React: Up and Running (2021) by Stoyan Stefanov
+- React Quickly (2nd, 2023) by Azat Mardan [3.51, 81]
+- React: Up and Running (2021) by Stoyan Stefanov [3.70, 141]
 
 Some More
 
