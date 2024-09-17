@@ -115,16 +115,28 @@ Playground
 
 Prime
 
-- **Grokking Algorithms An Illustrated Guide For Programmers and Other Curious People** (2016) by Aditya Y. Bhargava [4.41, 4217]
-- **Algorithms** (4th, 2011) by Robert Sedgewick [4.41, 1757]
-- Mark A. Weiss
-  - Data Structures and Algorithm Analysis in C (2nd, 1996) by Mark A. Weiss [3.84, 134]
-  - Data Structures and Algorithm Analysis in Java (3rd, 2011) by Mark A. Weiss [3.66, 99]
-  - Data Structures and Algorithm Analysis in C++ (4th, 2013) by Mark A. Weiss
-- Data Structures and Algorithm Analysis in C++ (3rd, 2011) by Clifford A. Shaffer [3.75, 8]
-- **Algorithms + Data Structures = Programs** (1976) by Niklaus Wirth [4.24, 202]
-- A Common-Sense Guide to Data Structures and Algorithms: Level Up Your Core Programming Skills (2nd, 2020) by Jay Wengrow
-- 我的第一本算法书 by [日]石田保辉, 宮崎修一
+- New books in Data Structures and Algorithms
+	- **Grokking Algorithms An Illustrated Guide For Programmers and Other Curious People** (2016) by Aditya Y. Bhargava [4.41, 4217]
+	- Data Structures and Algorithms Made Easy (2023) by Narasimha Karumanchi [4.10, 1311]
+	- Jay Wengrow
+		- A Common-Sense Guide to Data Structures and Algorithms: Level Up Your Core Programming Skills (2nd, 2020) by Jay Wengrow [4.39, 534]
+		- A Common-Sense Guide to Data Structures and Algorithms in JavaScript (2024) by Jay Wengrow
+	- Data Structures and Algorithms in Java (2002) by Robert Lafore [4.13, 332]
+	- Problem Solving With Algorithms And Data Structures Using Python (2011) by Bradley N. Miller [4.11, 196]
+	- Michael T. Goodrich
+		- Data Structures and Algorithms in Python (2013) by Michael T. Goodrich [4.17, 151]
+		- Data Structures and Algorithms in Java (2014) by Michael T. Goodrich
+		- Data Structures and Algorithms in C++ (2011) by Michael T. Goodrich
+	- Data Structures the Fun Way: An Amusing Adventure with Coffee-Filled Examples (2022) by Jeremy Kubica
+	- 我的第一本算法书 by [日]石田保辉, 宮崎修一
+- Classic books in Data Structures and Algorithms
+	- Data Structures and Algorithm Analysis in C++ (3rd, 2011) by Clifford A. Shaffer [3.75, 8]
+	- **Algorithms** (4th, 2011) by Robert Sedgewick [4.41, 1757]
+	- Mark A. Weiss
+		- Data Structures and Algorithm Analysis in C (2nd, 1996) by Mark A. Weiss [3.84, 134]
+		- Data Structures and Algorithm Analysis in Java (3rd, 2011) by Mark A. Weiss [3.66, 99]
+		- Data Structures and Algorithm Analysis in C++ (4th, 2013) by Mark A. Weiss
+	- **Algorithms + Data Structures = Programs** (1976) by Niklaus Wirth [4.24, 202]
 
 Advanced
 
