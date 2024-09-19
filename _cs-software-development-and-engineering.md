@@ -25,6 +25,7 @@
 - Part IV: Software Engineering & Project Management
   - <a name="softeng_c" href="#softeng_t">Software Engineering</a>
   - <a name="spm_c" href="#spm_t">Software Project Management</a>
+  - <a name="tm_c" href="#tm_t">Team Management</a>
   - <a name="test_c" href="#test_t">Software Testing and Quality Assurance</a>
 - Part V: Others
   - <a name="career_c" href="#career_t">Career</a>
@@ -873,7 +874,11 @@ Kanban
 - **Lean from the Trenches** (2011) by Henrik Kniberg [4.21, 994]
 - **Implementing Lean Software Development: From Concept to Cash** (2006) by Mary Poppendieck [4.20, 849]
 
-## Management
+<br>
+
+<h2><a name="tm_t" href="#tm_c">Team Management</a></h2>
+
+<br>
 
 > Management is doing things right; leadership is doing the right things.
 
