@@ -463,6 +463,7 @@ Must Read
 Some More
 
 - **Operating Systems Design and Implementation** (3rd, 2006) by Andrew S. Tanenbaum,  Albert S. Woodhull [4.11, 529]
+- Operating Systems: Internals and Design Principles (9th, 2017) by William Stallings [3.7, 408]
 - Principles of Computer System Design: An Introduction by Jerome H. Saltzer [3.64, 45]
 - Systems Performance (2013) by Brendan Gregg [4.50, 419]
 - Operating Systems: Principles and Practice (2nd, 2015) by Thomas Anderson, Michael Dahlin [4.27, 33]
@@ -638,16 +639,16 @@ Reference [Programming Language Resources](domains/programming-language-resource
 
 Must Read
 
-- **Computer Networking: A Top Down Approach** (8th, 2022) by Kurose, Ross  
-  Best for a beginner. You will fall in love with this book once you get hold of it :P. No prerequisites required. It is written marvelously for anyone to get interested in networking)
-- Computer Networks (5th, 2010) by Andrew S. Tanenbaum and David J. Wetherall 
-  Good but dry. Well formed contents, should have some basic understanding of data communications before reading this book.
+- **Computer Networking: A Top Down Approach** (8th, 2022) by Kurose, Ross [4.1, 2140]. Best for a beginner. You will fall in love with this book once you get hold of it :P. No prerequisites required. It is written marvelously for anyone to get interested in networking)
+- Computer Networks (5th, 2010) by Andrew S. Tanenbaum and David J. Wetherall [4.1, 2348]. Good but dry. Well formed contents, should have some basic understanding of data communications before reading this book.
+- Networking All-in-One For Dummies (8th, 2021) by Doug Lowe [3.9, 367]
 
 Some More
 
 - Data Communications and Networking by Behrouz A. Forouzan
-- Computer Networks: A System Approach Larry L. Peterson and Bruce S. Davie
+- Computer Networks: A System Approach (6th, 2021) by Larry L. Peterson and Bruce S. Davie [3.9, 242]
 - Data and Computer Communications by William Stallings
+- Computer Networks and Internets (6th, 2014) by Douglas E. Comer [3.7, 129]
 
 For Packet Analysis
 

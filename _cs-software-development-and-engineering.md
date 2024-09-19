@@ -79,6 +79,7 @@ Clean Code
 - **Code Complete** (2nd, 2004) by Steve McConnell
 - **The Practice of Programming** (1999) by Brian W. Kernighan
 - **Hacker's Delight** (2nd, 2012) by Henry S. Warren Jr.
+- Code That Fits in Your Head : Heuristics for Software Engineering (2021) by Mark Seemann [4.1, 251]
 - Write Great Code: Volume 1: Understanding the Machine by Randall Hyde
 - Write Great Code: Volume 2: Thinking Low-Level, Writing High-Level by Randall Hyde
 - Write Great Code, Volume 3: Engineering Software by Randall Hyde
@@ -768,7 +769,6 @@ Others
 - **Software Engineering at Google: Lessons Learned from Programming Over Time** (2020) by Titus Winters, Tom Manshreck, Hyrum Wright
 - Software Engineering: A Practitioner's Approach by Roger S. Pressman
 - The Essence of Software Engineering by Volker Gruhn and Rüdiger Striemer
-- Become an Effective Software Engineering Manager: How to Be the Leader Your Development Team Needs by Dr. Stanier, James
 
 Modern Software Engineering
 
@@ -785,7 +785,7 @@ Modern Software Engineering
 
 ### Estimating and Planning
 
-- Agile Estimating and Planning by Mike Cohn
+- Agile Estimating and Planning (2005) by Mike Cohn [4.1, 2597]
 - Software Estimation: Demystifying the Black Art by Steve McConnell
 
 ### Software Development
@@ -799,10 +799,6 @@ Modern Software Engineering
 <h2><a name="spm_t" href="#spm_c">Software Project Management</a></h2>
 
 > Project management triangle: Time, cost and quality – Pick two.
-
-> If you can’t measure it you can’t improve it.
-
-> Management is doing things right; leadership is doing the right things.
 
 ### Software Project Management
 
@@ -837,6 +833,7 @@ General Project Management
 Agile
 
 - User Stories Applied: For Agile Software Development by Mike Cohn [3.89, 2836]
+- Management 3.0: Leading Agile Developers, Developing Agile Leaders (2010) by Jurgen Appelo [4.2, 2788]
 - Agile Estimating and Planning by Mike Cohn [4.14, 2578]
 - Agile Retrospectives：Making Good Teams Great by Esther Derby , Diana Larsen,Ken Schwaber [3.94, 2460]
 - Coaching Agile Teams: A Companion for ScrumMasters,Agile Coaches, and Project Managers in Transition by Lyssa Adkins [4.22, 1839]
@@ -876,13 +873,11 @@ Kanban
 - **Lean from the Trenches** (2011) by Henrik Kniberg [4.21, 994]
 - **Implementing Lean Software Development: From Concept to Cash** (2006) by Mary Poppendieck [4.20, 849]
 
-### Others
+## Management
 
-Organization Management
+> Management is doing things right; leadership is doing the right things.
 
-- **Toyota Kata: Managing People for Improvement, Adaptiveness and Superior Results** (2009) by Mike Rother
-- **Lean Enterprise: How High Performance Organizations Innovate at Scale** (2020) by Jez Humble
-- Fearless Change: Patterns for Introducing New Ideas by Mary Lynn Manns
+> If you can’t measure it you can’t improve it.
 
 Tech Leader
 
@@ -891,10 +886,23 @@ Tech Leader
 - **Staff Engineer: Leadership beyond the management track** by Will Larson
 - **An Elegant Puzzle: System of Engineering Management** (2019) by Will Larson
 - **Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered** (2014) by Austin Kleon
-- **The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact**  by Edmond Lau 
+- **The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact**  by Edmond Lau
+- Leading Effective Engineering Teams: Lessons for Individual Contributors and Managers from 10 Years at Google (2024) by Addy Osmani
+- The Engineering Executive's Primer: Impactful Technical Leadership (2024) by Will Larson [4.3, 137]
+- The Engineering Leader: Strategies for Scaling Teams and Yourself (2024) by Cate Huston
+- The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change (2022) by Tanya Reilly
+- The Software Engineer's Guidebook: Navigating senior, tech lead, and staff engineer positions at tech companies and startups (2023) by Gergely Orosz [4.1, 328]
+- Think Like a Software Engineering Manager (2024) by Akanksha Gupta
+- Executive Engineering: Practical Engineering Theory for Software Leaders (2024) by Jack Danger
 - Accelerate: Building and Scaling High-Performance Technology Organizations by Nicole Forsgern
 - The Truth about Leadership: The No-fads, Heart-of-the-Matter Facts You Need to Know (2010) by James M. Kouzes 
 - The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change by Tanya Reilly
+- Become an Effective Software Engineering Manager: How to Be the Leader Your Development Team Needs (2020) by Dr. Stanier, James [4.4, 474]
+
+CTO
+
+- Think Like a CTO (2023) by Alan Williamson
+- The Startup CTO's Handbook: Essential skills and best practices for high performing engineering teams (2023) by Zach Goldberg
 
 Management
 
@@ -910,16 +918,25 @@ Management
 - The First 90 Days: Proven Strategies for Getting Up to Speed Faster and Smarter, Updated and Expanded by Michael D. Watkins
 - **The Five Dysfunctions of a Team: A Leadership Fable** (2011) by Patrick Lencioni [4.10, 116820]
 - **The Goal: A Process of Ongoing Improvement** (3rd, 2004) by Eliyahu M. Goldratt [4.08, 74544]
+- Managing for Happiness: Games, Tools, and Practices to Motivate Any Team (2016) by Jurgen Appelo [4.3, 463]
 
+Organization Management
+
+- **Toyota Kata: Managing People for Improvement, Adaptiveness and Superior Results** (2009) by Mike Rother
+- **Lean Enterprise: How High Performance Organizations Innovate at Scale** (2020) by Jez Humble
+- Fearless Change: Patterns for Introducing New Ideas by Mary Lynn Manns
 
 Open Source Organization
 
 - Working in Public: The Making and Maintenance of Open Source Software by Nadia Eghbal
 
-Business
+Business / Startup
 
 - **The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses** (2011) by Eric Ries
 - Necessary But Not Sufficient: A Theory Of Constraints Business Novel by Eliyahu M. Goldratt
+- The SaaS Playbook: Build a Multimillion-Dollar Startup Without Venture Capital (2023) by Rob Walling [4.4, 454]
+- The Pricing Roadmap: How to Design B2B SaaS Pricing Models That Your Customers Will Love (2023) by Ulrik Lehrskov-Schmidt [4.6, 73]
+- THE GO TO MARKET HANDBOOK FOR B2B SaaS LEADERS: HOW TO STACK THE ODDS IN YOUR FAVOUR WHEN SCALING YOUR SOFTWARE BUSINESS (2023) by RICHARD BLUNDELL, PAUL WATSON, CHRIS TOTTMAN
 
 
 
@@ -1080,6 +1097,8 @@ System Design Interview
 - [Grokking the System Design Interview](https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers)
 - System Design Interview – An insider’s guide Volume 1 (2020) by Alex Xu. ~~[Preview](https://systeminterview.com/)~~
 - System Design Interview – An Insider's Guide: Volume 2 (2022) by Alex Xu and Sahn Lam
+- Acing the System Design Interview (2024) by Zhiyong Tan
+- Hacking the System Design Interview: Real Big Tech Interview Questions and In-depth Solutions (2022) by Stanley Chiang 
 - Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems (2017) by Martin Kleppmann (DDIA)
 
 Technical Interview
@@ -1091,9 +1110,15 @@ Technical Interview
   - Elements of Programming Interviews in Python: The Insiders' Guide by Adnan Aziz, Tsung-Hsien Lee, Amit Prakash
 - SQL
   - Joe Celko's SQL Puzzles and Answers by Joe Celkos
+- Data Science
+  - Ace the Data Science Interview: 201 Real Interview Questions Asked By FAANG, Tech Startups, & Wall Street (2021) by Nick Singh, Kevin Huo
+- Machine Learning
+  - Machine Learning System Design Interview (2023) by Ali Aminian, Alex Xu
 
 Behavioral Interview
 
+- Books
+  - Behavioral Interviews for Software Engineers: All the Must-Know Questions With Proven Strategies and Answers That Will Get You the Job (2023) by Melia Stevanovic
 - Articles
   - [10 Behavioral Interview Questions for Software Engineers](https://www.indeed.com/career-advice/interviewing/software-engineer-behavioral-interview-questions)
   - [The 30 most common Software Engineer behavioral interview questions](https://www.techinterviewhandbook.org/behavioral-interview-questions/)

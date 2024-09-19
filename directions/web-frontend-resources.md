@@ -146,15 +146,20 @@ UI elements
 <h3><a name="webdes_t" href="#webdes_c">Web Design</a></h3>
 <br>
 
-Must Read
 
+UI Design
+
+- **The Non-Designer's Design Book** by Robin P. Williams
+- **Thinking with Type** by Ellen Lupton
+- Design for Developers (2023) by Stephanie Stimac 
+- About Face: The Essentials of Interaction Design (4th, 2014) by Alan Cooper , Robert Reimann
+
+UX Design
 
 - **Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability** by Steve Krug
 - **The Design of Everyday Things** by Donald A. Norman
 - **100 Things Every Designer Needs to Know about People** by Susan M. Weinschenk
 - **Hooked: How to Build Habit-Forming Products** by Nir Eyal
-- **Thinking with Type** by Ellen Lupton
-- **The Non-Designer's Design Book** by Robin P. Williams
 - Letting Go of the Words: Writing Web Content that Works by Janice G. Redish
 - Design Basics Index by Jim Krause
 - Designing With Web Standards by Jeffrey Zeldman
@@ -164,7 +169,6 @@ Must Read
 - Mobile First by Luke Wroblewski
 - Design Is a Job by Mike Monteiro
 - Designing with the Mind in Mind: Simple Guide to Understanding User Interface Design Rules by Jeff Johnson
-- About Face: The Essentials of Interaction Design (4th, 2014) by Alan Cooper , Robert Reimann
 - Information Architecture for the World Wide Web: Designing Large-Scale Web Sites by Peter Morville
 - The Elements of User Experience: User-Centered Design for the Web by Jesse James Garrett
 - Bulletproof Web Design: Improving flexibility and protecting against worst-case scenarios with XHTML and CSS by Dan Cederholm

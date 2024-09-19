@@ -277,7 +277,7 @@ Java Persistence
 
 Java Servlet
 
-- [Java Servlet Specification Version 4.0 - doc](https://javaee.github.io/servlet-spec/downloads/servlet-4.0/servlet-4_0_FINAL.pdf)
+- Java Servlet Specification Version 4.0 - [PDF](https://javaee.github.io/servlet-spec/downloads/servlet-4.0/servlet-4_0_FINAL.pdf)
 - [Java Servet API](https://docs.oracle.com/javaee/7/api/index.html?javax/servlet/package-summary.html)
 - [Java Servlet Documentation - doc](https://docs.oracle.com/javaee/7/tutorial/servlets.htm)
 - Head First Servlets and JSP (2nd, 2008) by Bryan Basham
@@ -428,6 +428,7 @@ Others
 
 - Iron-Clad Java: Building Secure Web Applications by Jim Manico, August Detlefsen
 - Spring Security
+  - [Spring Security Reference Documentation](https://docs.spring.io/spring-security/reference/index.html)
   - Spring Security in Action (2nd, 2024) by Laurentiu Spilca
 
 For more, see 
