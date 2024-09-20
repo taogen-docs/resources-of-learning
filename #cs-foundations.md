@@ -115,7 +115,7 @@ Playground
 
 Prime
 
-- New books in Data Structures and Algorithms
+- New books on Data Structures and Algorithms
 	- **Grokking Algorithms An Illustrated Guide For Programmers and Other Curious People** (2016) by Aditya Y. Bhargava [4.41, 4217]
 	- Data Structures and Algorithms Made Easy (2023) by Narasimha Karumanchi [4.10, 1311]
 	- Jay Wengrow
@@ -495,12 +495,19 @@ System and Command Line
 - 鸟哥的Linux私房菜：服务器架设篇 (3th, 2012) by 鸟哥
 - **Harley Hahn's Guide to Unix and Linux** (2008) by Harley Hahn [4.43, 28]
 - Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali (2018) by OccupyTheWeb [4.12, 392]
-- Linux for Beginners: An Introduction to the Linux Operating System by Jason Cannon [4.00, 302]
+- Linux for Beginners: An Introduction to the Linux Operating System (2019) by Jason Cannon [4.00, 302]
 - Linux Command Line and Shell Scripting Bible (3rd, 2015) by Christine Bresnahan and Richard Blum [4.14, 250]
 - Beginning Linux Programming by Mathew Neil and Richard Stones [3.77, 155]
+- Linux Cookbook: Essential Skills for Linux Users and System & Network Administrators (2nd, 2021) by Carla Schroder [3.8, 57]
 - Linux Administration Handbook by Evi Nemeth, Garth Snyder, and Trent Hein
 - Modern Linux Administration: How to Become a Cutting-Edge Linux Administrator (2019) by Sam R. Alapati [4.25, 21]
 - Cybersecurity Ops with bash: Attack, Defend, and Analyze from the Command Line (2019) by Paul Troncone, Carl Albing Ph. D
+
+New books on Linux
+
+- Efficient Linux at the Command Line: Boost Your Command-Line Skills (2022) by Daniel J. Barrett
+- Learning Modern Linux: A Handbook for the Cloud Native Practitioner (2022) by Michael Hausenblas
+- Practical Linux System Administration: A Guide to Installation, Configuration, and Management (2023) by Kenneth Hess
 
 Shell
 
