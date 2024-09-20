@@ -374,21 +374,27 @@ For NoSQL
 
 ### MySQL
 
-Prime
+Beginner
 
+- Beginner-friendly books
+  - **Murach's MySQL** (4th, 2023) by Joel Murach
 - MySQL 5.7 Reference Manual. [DOC](https://dev.mysql.com/doc/refman/5.7/en/ ), [PDF](https://downloads.mysql.com/docs/refman-5.7-en.pdf)
 - MySQL 5.7 Release Notes - [DOC]( https://dev.mysql.com/doc/relnotes/mysql/5.7/en/ )
 - MySQL 8.0 Reference Manual. [DOC](https://dev.mysql.com/doc/refman/8.0/en/), [PDF](https://downloads.mysql.com/docs/refman-8.0-en.pdf)
 - MySQL 8.0 Release Notes - [DOC]( https://dev.mysql.com/doc/relnotes/mysql/8.0/en/ )
-- **Murach's MySQL** (3rd, 2019) by Joel Murach
-- **Learning MySQL** (2nd, 2021) by Seyed M.M. Tahaghoghi, Hugh E. Williams
+- **Learning MySQL: Get a Handle on Your Data** (2nd, 2021) by Vinicius Grippa (Author), Sergey Kuzmichev
 - MySQL Crash Course by Ben Forta
 - MySQL in a Nutshell by Russell J.T. Dyer
-- **MySQL** (2013) by Paul DuBois
+- **MySQL** (5th, 2014) by Paul DuBois
 - **MySQL Cookbook** (4rd, 2022) by Sveta Smirnova and Alkin Tezuysal
-- MySQL Administrator's Bible by Sheeri K. Cabral, Keith Murphy
 - MySQL Stored Procedure Programming: Building High-Performance Web Applications in MySQL by Guy Harrison, Steven Feuerstein
+- MySQL Pocket Reference: SQL Functions and Utilities (2nd, 2007) by George Reese
 
+Administration
+
+- MySQL Administrator's Bible by Sheeri K. Cabral, Keith Murphy
+- Hands-On MySQL Administration: Managing MySQL on Premises and in the Cloud (2024) by Arunjith Aravindan, Jeyaram Ayyalusamy
+- Mastering MySQL Administration: High Availability, Security, Performance, and Efficiency (2024) by Y V Ravi Kumar, Arun Kumar Samayam, Naresh Kumar Miryala 
 
 Optimization
 
@@ -415,7 +421,6 @@ High Availability, Cluster, Backup and Replication
 - Pro MySQL NDB Cluster by Jesper Wisborg Krogh and Mikiya Okuno
 - Effective MySQL Backup and Recovery by Ronald Bradford
 - Effective MySQL Replication Techniques in Depth
-
 
 MySQL Internal and Programming
 
@@ -470,7 +475,7 @@ PL/SQL
 - Oracle Database 12c Pl/SQL Programming by Michael McLaughlin
 - Oracle PL/SQL Best Practices by Steven Feuerstein
 
-Administer
+Administration
 
 - Beginning Oracle Database 12c Administration: From Novice to Professional by Ignatius Fernandez
 - Oracle DBA Mentor: Succeeding as an Oracle Database Administrator by Brian Peasland
@@ -499,20 +504,21 @@ Tutorials
 Must Read
 
 - [Redis Documentation](https://redis.io/documentation)
-- **The Little Redis Book** (Free Book, 2012) by Karl Seguin. [GitHub](https://github.com/karlseguin/the-little-redis-book) 
+- **The Little Redis Book** (Free Book, 2012) by Karl Seguin. [GitHub](https://github.com/karlseguin/the-little-redis-book), [Book](https://www.openmymind.net/2012/1/23/The-Little-Redis-Book/)
 - **Redis in Action** (2013) by Josiah L. Carlson
 - **Redis Cookbook** (2011) by Tiago Macedo and Fred Oliveira
+- Redis设计与实现 by 黄健宏
 - Redis 深度历险：核心原理与应用实践 by 钱文品
 
 Some More
 
+- Redis Stack for Application Modernization: Build real-time multi-model applications at any scale with Redis (2023) by Luigi Fugaro, Mirko Ortensi
 - Learning Redis by Vinoo Das
-- Redis Essentials by Maxwell Dayvson Da Silva, Hugo Lopes Tavares
+- Redis Essentials: Harness the power of Redis to integrate and manage your projects efficiently (2015) by Maxwell Dayvson Da Silva, Hugo Lopes Tavares
 - Redis 4.x Cookbook: Over 80 hand-picked recipes for effective Redis development and administration (2018) by Pengcheng Huang and Zuofei Wang
 - Mastering Redis (2016) by Jeremy Nelson
 - Instant Redis Optimization How-to (2013) by Arun Chinnachamy
 - Instant Redis Persistence (2013) by Matt Palmer
-- Redis设计与实现 by 黄健宏
 
 Tutorials
 
@@ -545,7 +551,29 @@ Tutorials
 
 - [Apache LuceneTM 7.4.0 Documentation](https://lucene.apache.org/core/7_4_0/index.html)
 - [Apache Solr Reference Guide](https://lucene.apache.org/solr/guide/)
+
+Elastic Stack
+
+- Elastic Stack 8.x Cookbook: Over 80 recipes to perform ingestion, search, visualization, and monitoring for actionable insights (2024) by Huage Chen , Yazid Akadiri
+- Learning Elastic Stack 7.0: Distributed search, analytics, and visualization using Elasticsearch, Logstash, Beats, and Kibana (2nd, 2019) by Pranav Shukla and Sharath Kumar M N
+- Getting Started with Elastic Stack 8.0: Run powerful and scalable data platforms to search, observe, and secure your organization (2022) by Asjad Athick 
+
+Elasticsearch
+
 - [Elasticsearch Documentation](https://www.elastic.co/guide/index.html)
+- Elasticsearch: The Definitive Guide: A Distributed Real-Time Search and Analytics Engine (2015) by Clinton Gormley and Zachary Tong
+- Elasticsearch in Action (2nd, 2023) by Madhusudhan Konda
+- Elasticsearch 8 for Developers: A beginner's guide to indexing, analyzing, searching, and aggregating data (2nd, 2023) by Anurag Srivastava
+- Vector Search for Practitioners with Elastic: A toolkit for building NLP solutions for search, observability, and security using vector search (2023) by Bahaaldine Azarmi and Jeff Vestal
+- Relevant Search: With applications for Solr and Elasticsearch (2016)by Doug Turnbull and John Berryman
+- Elasticsearch Data Modeling and Schema Design (2023) by Steve Hoberman and Rafid Reaz
+- Elasticsearch 8.x Cookbook - Fifth Edition: Over 180 recipes to perform fast, scalable, and reliable searches for your enterprise (5th, 2022) by Alberto Paro 
+
+Kibana
+
+- Kibana 8.x - A Quick Start Guide to Data Analysis: Learn about data exploration, visualization, and dashboard building with Kibana (2024) by Krishna Shah
+- Learning Kibana 7: Build powerful Elastic dashboards with Kibana's data visualization capabilities (2nd, 2019) by Anurag Srivastava and Bahaaldine Azarmi
+- Kibana 7 Quick Start Guide: Visualize your Elasticsearch data with ease (2019) by Anurag Srivastava
 
 <br>
 
