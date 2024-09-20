@@ -481,33 +481,43 @@ Courses
 
 ### Unix/Linux
 
-System and Command Line
+Linux user guide (System and command line)
 
 - [Linux Documentation Project Guides](https://tldp.org/guides.html)
   - Linux Filesystem Hierarchy by Binh Nguyen [HTML](https://tldp.org/LDP/Linux-Filesystem-Hierarchy/html/), [PDF](https://tldp.org/LDP/Linux-Filesystem-Hierarchy/Linux-Filesystem-Hierarchy.pdf)
 - **The Linux Command Line: A Complete Introduction** (2nd, 2019) by William E. Shotts, Jr. [4.38, 1579]
 - **How Linux Works: What Every Superuser Should Know** (3rd, 2021) by Brian Ward [4.16, 1133]
-- **UNIX and Linux System Administration Handbook** (5th, 2017) by Evi Nemeth, Garth Snyder, Trent R. Hein, Ben Whaley [4.44, 946]
-- **Linux in a Nutshell: A Desktop Quick Reference** (6th, 2009) by by Ellen Siever, Stephen Figgins, Robert Love [3.92, 785]
-- **Linux Pocket Guide** (3rd, 2016) by Daniel J. Barrett [4.07, 632]
 - **Linux Bible** (10th, 2020) by Christopher Negus [4.29, 413]
 - **鸟哥的Linux私房菜：基础学习篇** (4th, 2018) by 鸟哥
 - 鸟哥的Linux私房菜：服务器架设篇 (3th, 2012) by 鸟哥
 - **Harley Hahn's Guide to Unix and Linux** (2008) by Harley Hahn [4.43, 28]
-- Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali (2018) by OccupyTheWeb [4.12, 392]
-- Linux for Beginners: An Introduction to the Linux Operating System (2019) by Jason Cannon [4.00, 302]
+- Linux for Beginners: An Introduction to the Linux Operating System (2014) by Jason Cannon [4.00, 302]
+- Linux for Beginners: A Practical and Comprehensive Guide to Learn Linux Operating System and Master Linux Command Line. Contains Self-Evaluation Tests to Verify Your Learning Level (2019) by Ethem Mining [4.0, 38]
 - Linux Command Line and Shell Scripting Bible (3rd, 2015) by Christine Bresnahan and Richard Blum [4.14, 250]
-- Beginning Linux Programming by Mathew Neil and Richard Stones [3.77, 155]
-- Linux Cookbook: Essential Skills for Linux Users and System & Network Administrators (2nd, 2021) by Carla Schroder [3.8, 57]
-- Linux Administration Handbook by Evi Nemeth, Garth Snyder, and Trent Hein
-- Modern Linux Administration: How to Become a Cutting-Edge Linux Administrator (2019) by Sam R. Alapati [4.25, 21]
-- Cybersecurity Ops with bash: Attack, Defend, and Analyze from the Command Line (2019) by Paul Troncone, Carl Albing Ph. D
 
 New books on Linux
 
 - Efficient Linux at the Command Line: Boost Your Command-Line Skills (2022) by Daniel J. Barrett
 - Learning Modern Linux: A Handbook for the Cloud Native Practitioner (2022) by Michael Hausenblas
 - Practical Linux System Administration: A Guide to Installation, Configuration, and Management (2023) by Kenneth Hess
+
+Linux References
+
+- **Linux in a Nutshell: A Desktop Quick Reference** (6th, 2009) by by Ellen Siever, Stephen Figgins, Robert Love [3.92, 785]
+- **Linux Pocket Guide** (4th, 2024) by Daniel J. Barrett [4.07, 632]
+
+Linux Administration
+
+- **UNIX and Linux System Administration Handbook** (5th, 2017) by Evi Nemeth, Garth Snyder, Trent R. Hein, Ben Whaley [4.44, 946]
+- Linux Administration Handbook by Evi Nemeth, Garth Snyder, and Trent Hein
+- Linux Administration: The Linux Operating System and Command Line Guide for Linux Administrators (2016) by Jason Cannon [4.1, 116]
+- Modern Linux Administration: How to Become a Cutting-Edge Linux Administrator (2019) by Sam R. Alapati [4.25, 21]
+- Linux Cookbook: Essential Skills for Linux Users and System & Network  Administrators (2nd, 2021) by Carla Schroder [3.8, 57]
+
+Cybersecurity
+
+- Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali (2018) by OccupyTheWeb [4.12, 392]
+- Cybersecurity Ops with bash: Attack, Defend, and Analyze from the Command Line (2019) by Paul Troncone, Carl Albing Ph. D
 
 Shell
 
@@ -556,12 +566,13 @@ Linux Programming
 
 - **Linux Kernel Development** (3rd, 2010) by Robert Love [4.33, 845]
 - **The Linux Programming Interface** (2010) by Michael Kerrisk [4.63, 649]
+- Beginning Linux Programming (4th, 2011) by Mathew Neil and Richard Stones [3.77, 155]
 - Understanding Unix/Linux Programming by Bruce Molay [4.11, 35]
 - Linux 环境编程 by 高峰
 - Autotools: A Practioner's Guide to GNU Autoconf, Automake, and Libtool by John Calcote [4.15, 48]
 - [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/) by Peter Jay Salzman, Michael Burian, Ori Pomerantz, Bob Mottram, Jim Huang (Linux kernel 5.0+)
 
-Linux Insides
+Linux Insides / Linux Kernel
 
 - [linux-insides - GitHub](https://github.com/0xAX/linux-insides). (Linux kernel 2.2)
 - The UNIX Time-Sharing System - [PDF](https://dsf.berkeley.edu/cs262/unix.pdf)
