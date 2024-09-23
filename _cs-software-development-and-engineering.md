@@ -669,6 +669,11 @@ Best CI/CD Tools in DevOps
 - Infrastructure as Code, Patterns and Practices: With Examples in Python and Terraform (2022) by Rosemary Wang
 - Infrastructure as Code (IAC) Cookbook by Pierre Pomes and Stephane Jourdan
 
+Ansible
+
+- Ansible for DevOps: Server and configuration management for humans (13th, 2020) by Jeff Geerling 
+- Ansible: Up and Running: Automating Configuration Management and Deployment the Easy Way (3rd, 2022) by Bas Meijer, Lorin Hochstein, René Moser
+
 ### Container
 
 Docker
@@ -676,10 +681,12 @@ Docker
 - **Docker in Action** (2nd, 2019) by Jeff Nickoloff
 - **Docker Deep Dive** (2016) by Nigel Poulton
 - **The Docker Book: Containerization is the new virtualization** (2014) by James Turnbull 
-- Docker in Practice by Ian Miell, Aidan Hobson Sayers
-- Docker: Up & Running: Shipping Reliable Containers in Production by Sean P. Kane
-- Continuous Delivery with Docker and Jenkins by Rafal Leszko
-- Docker: A Project-Based Approach to Learning by Jason Cannon
+- Docker in Practice (2nd, 2019) by Ian Miell, Aidan Hobson Sayers
+- Docker: Up & Running: Shipping Reliable Containers in Production (3rd, 2023) by Sean P. Kane
+- Continuous Delivery with Docker and Jenkins (3rd, 2022) by Rafal Leszko
+- Docker: A Project-Based Approach to Learning (2021) by Jason Cannon
+- Docker: Practical Guide for Developers and Devops Teams (2023) by Bernd Oggl, Michael Kofler
+- The Ultimate Docker Container Book (3rd, 2023) by Dr Gabriel N Schenker
 
 Kubernetes 
 
