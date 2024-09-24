@@ -129,7 +129,7 @@ Prime
 		- Data Structures and Algorithms in C++ (2011) by Michael T. Goodrich
 	- Data Structures the Fun Way: An Amusing Adventure with Coffee-Filled Examples (2022) by Jeremy Kubica
 	- 我的第一本算法书 by [日]石田保辉, 宮崎修一
-- Classic books in Data Structures and Algorithms
+- Classic books on Data Structures and Algorithms
 	- Data Structures and Algorithm Analysis in C++ (3rd, 2011) by Clifford A. Shaffer [3.75, 8]
 	- **Algorithms** (4th, 2011) by Robert Sedgewick [4.41, 1757]
 	- Mark A. Weiss
