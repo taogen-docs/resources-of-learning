@@ -81,23 +81,31 @@
 
 Must Read
 
-- **Java Concurrency in Practice** (2006) by Goetz, Brian. This book is summative, and insightful, not a fundamental book. Before reading this book, you need to understand the basic concepts of Java concurrency. If you are a beginner for Java concurrency, we recommend you to read "The Java Tutorial: A Short Course on the Basics - chapter 13. Concurrency" that is friendly for a beginner.
-- The Art of Multiprocessor Programming by Maurice Herlihy, Nir Shavit
+- **Java Concurrency in Practice** (2006) by Goetz, Brian. <br>This book is summative, and insightful, not a fundamental book. Before reading this book, you need to understand the basic concepts of Java concurrency. If you are a beginner for Java concurrency, we recommend you to read "The Java Tutorial: A Short Course on the Basics - chapter 13. Concurrency" that is friendly for a beginner.
+- Java Concurrency and Parallelism: Master advanced Java techniques for cloud-based applications through concurrency and parallelism (2024) by Jay Wang
+- Virtual Threads, Structured Concurrency, and Scoped Values: Explore Java’s New Threading Model (2024) by Ron Veen and David Vlijmincx
+- Mastering Concurrency Programming With Java 8 (2016) by Javier Fernández González
+- Mastering Concurrency Programming with Java 9 (2nd, 2017) by Javier Fernandez Gonzalez
 - Java Threads: Understanding and Mastering Concurrent Programming (3rd, 2004) by Scott Oaks, Henry Wong
 - Concurrent Programming in Java: Design Principles and Patterns (2nd, 1999) by Doug Lea 
-- Programming Concurrency on the JVM: Mastering Synchronization, STM, and Actors
-by Venkat Subramaniam
-- Seven Concurrency Models in Seven Weeks: When Threads Unravel (2014) by  Paul Butcher 
+- Programming Concurrency on the JVM: Mastering Synchronization, STM, and Actors by Venkat Subramaniam
 - Top 100 Java Multi-threading Interview Questions by Knowledge Powerhouse
+- 100 Inteview Questions: JAVA Concurrency (2023) by X.Y. Wang
+- Concurrency
+	- The Art of Multiprocessor Programming by Maurice Herlihy, Nir Shavit
+	- Grokking Concurrency (2024) by Kirill Bobrov
+	- Seven Concurrency Models in Seven Weeks: When Threads Unravel (2014) by  Paul Butcher
 
 Some More
 
 
-- Java多线程编程实战指南-核心篇 (2017) by 黄文海 (9.8)
-- 图解Java多线程设计模式 (2017) by  [日] 结城浩 (8.5)
-- Java多线程编程实战指南-设计模式篇 (2015) by 黄文海 (8.5)
-- 实战Java高并发程序设计 (2015) by 葛一鸣, 郭超 (8.3)
-- Java并发编程的艺术 (2015)  by 方腾飞,  魏鹏, 程晓明 (7.3)
+- 图解Java多线程设计模式 (2017) by  [日] 结城浩 [8.5, 184]
+- Java多线程编程实战指南（核心篇）by 黄文海 [9.2, 189]
+- Java多线程编程实战指南（设计模式篇） (2015) by 黄文海 [8.5, 51]
+- 实战Java高并发程序设计 (2015) by 葛一鸣, 郭超 [8.3, 266]
+- Java并发编程的艺术 (2015)  by 方腾飞,  魏鹏, 程晓明 [7.5, 596]
+- Java并发编程之美 (2018) by 翟陆续 / 薛宾田 [7.7, 126]
+- Java并发实现原理：JDK源码剖析 by 余春龙 [7.7, 59]
 
 #### Network Programming
 
@@ -251,6 +259,10 @@ Java Persistence
 - MyBatis
   - [MyBatis Documentation](https://mybatis.org/mybatis-3/)
   - MyBatis Plus Documentation - [HTML](https://baomidou.com/guide/)
+  - Java Persistence with MyBatis 3 (2013) by K. Siva Prasad Reddy
+  - MyBatis从入门到精通 by 刘增辉
+  - MyBatis技术内幕 (2017) by 徐郡明
+  - MyBatis 3源码深度解析 (2019) by 江荣波
 - Hibernate
   - Java Persistence with Hibernate: Revised Edition of Hibernate in Action by Bauer, Christian
   - Just Hibernate: A Lightweight Introduction to the Hibernate Framework (2014) by Madhusudhan Konda 

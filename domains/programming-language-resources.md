@@ -1008,6 +1008,8 @@ Functional Programming
 
 > Haskell, Scala, Clojure, F#
 
+- Grokking Simplicity: Taming complex software with functional thinking (2021) by Eric Normand
+- Grokking Functional Programming (2022) by Michal Plachta
 - Introduction to Functional Programming by Richard S. Bird, Philip Wadler
 - Real World Haskell by Bryan O'Sullivan, Don Stewart, and John Goerzen
 - Thinking Functionally with Haskell by Richard S. Bird
