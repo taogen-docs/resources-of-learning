@@ -372,7 +372,13 @@ For NoSQL
 - Professional NoSQL by Shashank Tiwari
 - Seven Databases in Seven Weeks by Luc Perkins, Eric Redmond
 
-### MySQL
+### Relational Databases
+
+>Store data in structured formats using rows and columns in tables. Relationships between tables are established via foreign keys
+
+>Use Cases: Transactional systems, business applications, and data integrity-centric tasks.
+
+#### MySQL
 
 Beginner
 
@@ -435,7 +441,7 @@ MySQL Internal and Programming
 - MySQL是怎样运行的：从根儿上理解 MySQL by 小孩子4919
 
 
-### PostgreSQL
+#### PostgreSQL
 
 - [PostgreSQL Documentation](https://www.postgresql.org/docs/current/index.html)
 - [PostgreSQL Tutorials & Other Resources](https://www.postgresql.org/docs/online-resources/)
@@ -454,7 +460,7 @@ MySQL Internal and Programming
 - [PostgreSQL 14 Internals: A deep dive into the server mechanics](https://postgrespro.com/community/books/internals)
 - The Internals of PostgreSQL by Hironobu Suzuki [online book](https://www.interdb.jp/pg/)
 
-### Oracle
+#### Oracle
 
 Prime
 
@@ -499,7 +505,15 @@ Tutorials
 - [Ask Tom](http://asktom.oracle.com/)
 - [PL/SQL Challenge](http://plsqlchallenge.oracle.com/) - A website offering new quizzes each week on SQL, PL/SQL, Database Design, Application Express and Logic. Test your knowledge against others, and also access a library of over 1400 past quizzes on which to practice.
 
-### Redis
+### Key-Value Databases 
+
+>Key-Value databases store data as pairs of keys and values. Each key is unique, and the corresponding value can be a simple data type or a complex object. 
+
+>Key-Value databases are excellent for simple, high-speed access to individual values based on unique keys.
+
+>Use Cases: Caching, user sessions, shopping carts, and other scenarios where rapid lookups by unique identifiers are essential.
+
+#### Redis
 
 Must Read
 
@@ -524,11 +538,47 @@ Tutorials
 
 - [Try Redis](http://try.redis.io/)
 
-### MongoDB
+### Document Databases
+
+>Document databases store data in documents, which are typically JSON, BSON, or XML format. Each document is a self-contained data unit that can contain nested structures. 
+
+>Document databases offer more complex data structures and querying capabilities suitable for applications that require handling rich, nested data.
+
+>Use Cases: Content management systems, e-commerce applications, real-time analytics, and data that naturally fits into a document structure.
+
+#### MongoDB
 
 - [MongoDB Documentation](https://www.mongodb.com/docs/)
 - **MongoDB: The Definitive Guide: Powerful and Scalable Data Storage** (3rd, 2019) by Shannon Bradshaw, Eoin Brazil, Kristina Chodorow
 - MongoDB Applied Design Patterns: Practical Use Cases with the Leading NoSQL Database by Rick Copeland  
+
+### Wide-Column / Column-Family Databases
+
+>Store data in columns rather than rows, which can improve performance for queries involving large datasets with sparse data.
+
+>Use Cases: Data warehousing, analytics, and real-time data processing.
+
+Cassandra, HBase
+
+### Graph Databases
+
+>Designed to handle data structured as graphs, where entities are nodes and relationships are edges, suitable for representing and querying interconnected data.
+
+>Use Cases: Social networks, recommendations, fraud detection, and network analysis.
+
+Neo4j, Amazon Neptune.
+
+### Time Series Databases (TSDB)
+
+>Specifically designed to handle time-stamped data and optimized for time-based queries and aggregations.
+
+>Use Cases: Monitoring systems, IoT data management, financial market analysis.
+
+InfluxDB, TimescaleDB, Prometheus, OpenTSDB.
+
+### Multi-model Database
+
+Fauna DB
 
 <br>
 
