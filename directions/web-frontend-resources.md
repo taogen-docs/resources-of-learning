@@ -56,8 +56,6 @@
 
 <br>
 
-Guidance & Roadmap
-
 - [The Best Way to Learn Frontend Web Development](https://www.freecodecamp.org/news/learn-frontend-web-development/)
 - [Frontend Roadmap](https://roadmap.sh/frontend)
 
