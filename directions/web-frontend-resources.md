@@ -18,7 +18,6 @@
   - <a name="assets_c" href="#assets_t">Assets</a>
 - <a name="js_c" href="#js_t">JavaScript</a>
   - <a name="jq_c" href="#jq_t">jQuery</a>
-- <a name="hcj_c" href="#hcj_t">HTML, CSS and JavaScript</a>
 - *<a name="ts_c" href="#ts_t">TypeScript</a>
 - <a name="webcpnt_c" href="#webcpnt_t">Web Components</a>
 - <a name="progjs_c" href="#progjs_t">Progressive JS Frameworks</a>
@@ -57,8 +56,25 @@
 
 <br>
 
+Guidance & Roadmap
+
 - [The Best Way to Learn Frontend Web Development](https://www.freecodecamp.org/news/learn-frontend-web-development/)
 - [Frontend Roadmap](https://roadmap.sh/frontend)
+
+Ranking
+
+- [The best of JavaScript, HTML and CSS](https://bestofjs.org/)
+- [State of JavaScript](https://stateofjs.com/en-US)
+- [State of CSS](https://stateofcss.com/en-US)
+- [State of React](https://stateofreact.com/en-US)
+
+Resources
+
+- [w3schools](https://www.w3schools.com/)
+- [MDN web docs](https://developer.mozilla.org/en-US/)
+- [Learn JS](https://www.learn-js.org/)
+- [Web Dev](https://web.dev/)
+- [Full Stack open](https://fullstackopen.com/en/)
 
 <br>
 
@@ -209,18 +225,6 @@ Icon
 <h2><a name="js_t" href="#js_c">JavaScript</a></h2>
 <br>
 
-ECMAScript
-
-> Since 2015, major versions have been published every June.
-
-- [ECMAScript - Wikipedia](https://en.wikipedia.org/wiki/ECMAScript)
-- [ECMAScript version history - Wikipedia](https://en.wikipedia.org/wiki/ECMAScript_version_history)
-- Current version
-  - [ECMAScript 2022](https://262.ecma-international.org/)
-- ES2015 (ES6)
-  - [ECMAScript 6 — New Features](http://es6-features.org)
-  - Understanding Ecmascript 6: The Definitive Guide for JavaScript Developers by Nicholas C. Zakas
-
 Primary
 
 - Online Tutorials
@@ -229,6 +233,13 @@ Primary
 	- [The Modern JavaScript Tutorial](http://javascript.info/)
 	- [JavaScript CheatSheet](https://htmlcheatsheet.com/js/)
 	- [Learn JavaScript - Google](https://web.dev/learn/javascript)
+- Specifications
+    - [ECMAScript - Wikipedia](https://en.wikipedia.org/wiki/ECMAScript)
+    - [ECMAScript version history - Wikipedia](https://en.wikipedia.org/wiki/ECMAScript_version_history)
+    - [ECMAScript - current version](https://262.ecma-international.org/). Since 2015, major versions of ECMAScript have been published every June.
+    - ES2015 (ES6)
+      - [ECMAScript 6 — New Features](http://es6-features.org)
+      - Understanding Ecmascript 6: The Definitive Guide for JavaScript Developers by Nicholas C. Zakas
 - DOM Scripting: Web Design with JavaScript and the Document Object Model by Jeremy Keith
 - A Smarter Way to Learn JavaScript: The new approach that uses technology to cut your effort in half by Mark Myers
 - ⭐**JavaScript: The Definitive Guide** (7th, 2020) by David Flanagan (**犀牛书**)
@@ -343,21 +354,6 @@ jQuery UI
 - jQuery UI in Action by T. J. VanToll
 - jQuery UI Cookbook by Adam Boduch
 
-<br>
-<h2><a name="hcj_t" href="#hcj_c">HTML, CSS and JavaScript</a></h2>
-<br>
-
-Resources
-
-- [w3schools](https://www.w3schools.com/)
-- [MDN web docs](https://developer.mozilla.org/en-US/)
-- [Learn JS](https://www.learn-js.org/)
-- [Web Dev](https://web.dev/)
-- [Full Stack open](https://fullstackopen.com/en/)
-
-Rank
-
-- [The best of JavaScript, HTML and CSS](https://bestofjs.org/)
 
 <br>
 
