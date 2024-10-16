@@ -61,20 +61,6 @@ Guidance & Roadmap
 - [The Best Way to Learn Frontend Web Development](https://www.freecodecamp.org/news/learn-frontend-web-development/)
 - [Frontend Roadmap](https://roadmap.sh/frontend)
 
-Ranking
-
-- [The best of JavaScript, HTML and CSS](https://bestofjs.org/)
-- [State of JavaScript](https://stateofjs.com/en-US)
-- [State of CSS](https://stateofcss.com/en-US)
-- [State of React](https://stateofreact.com/en-US)
-
-Resources
-
-- [w3schools](https://www.w3schools.com/)
-- [MDN web docs](https://developer.mozilla.org/en-US/)
-- [Learn JS](https://www.learn-js.org/)
-- [Web Dev](https://web.dev/)
-- [Full Stack open](https://fullstackopen.com/en/)
 
 <br>
 
@@ -1008,6 +994,23 @@ Website Performance
 
 - [yangshun/front-end-interview-handbook - GitHub](https://github.com/yangshun/front-end-interview-handbook) ⭐️40.4k
 - [trekhleb/javascript-algorithms - GitHub](https://github.com/trekhleb/javascript-algorithms) ⭐️183k
+
+## Others
+
+Ranking
+
+- [The best of JavaScript, HTML and CSS](https://bestofjs.org/)
+- [State of JavaScript](https://stateofjs.com/en-US)
+- [State of CSS](https://stateofcss.com/en-US)
+- [State of React](https://stateofreact.com/en-US)
+
+Resources
+
+- [w3schools](https://www.w3schools.com/)
+- [MDN web docs](https://developer.mozilla.org/en-US/)
+- [Learn JS](https://www.learn-js.org/)
+- [Web Dev](https://web.dev/)
+- [Full Stack open](https://fullstackopen.com/en/)
 
 ## References
 
