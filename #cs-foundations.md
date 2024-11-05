@@ -452,6 +452,8 @@ Programming Language Design
 
 <br>
 
+### Operating Systems
+
 Must Read 
 
 - **Operating Systems: Three Easy Pieces** (2015) by Andrea C. Arpaci-Dusseau and Remzi H. Arpaci-Dusseau [4.69, 593]
@@ -478,6 +480,11 @@ Distributed Operating Systems
 Courses
 
 - MIT 6.828: Operating System Engineering - [YouTube](https://www.youtube.com/playlist?list=PLfciLKR3SgqNJKKIKUliWoNBBH1VHL3AP)
+
+**OS Memory**
+
+- What Every Programmer Should Know About Memory by Ulrich Drepper. [PDF](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
+- A Primer On Memory Consistency And Cache Coherence by Daniel J. Sorin, Mark D. Hill, David A. Wood [4.43, 14]
 
 ### Unix/Linux
 
@@ -570,7 +577,6 @@ Linux Programming
 - Understanding Unix/Linux Programming by Bruce Molay [4.11, 35]
 - Linux 环境编程 by 高峰
 - Autotools: A Practioner's Guide to GNU Autoconf, Automake, and Libtool by John Calcote [4.15, 48]
-- [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/) by Peter Jay Salzman, Michael Burian, Ori Pomerantz, Bob Mottram, Jim Huang (Linux kernel 5.0+)
 
 Linux Insides / Linux Kernel
 
@@ -578,12 +584,14 @@ Linux Insides / Linux Kernel
 - The UNIX Time-Sharing System - [PDF](https://dsf.berkeley.edu/cs262/unix.pdf)
 - [The Linux Memory Manager](https://linuxmemory.org/about) by Lorenzo Stoakes (Linux kernel 6.0)
 - **Understanding the Linux Kernel** by Daniel P. Bovet, Marco Cesati. linux kernel 2.2 [4.11, 709]
+- [Linux Kernel Teaching](https://linux-kernel-labs.github.io/refs/heads/master/)
 - Linux内核完全注释 by 赵炯 [ebook](http://www.oldlinux.org/book.html)
 - Linux内核源代码情景分析 by 毛德操, 胡希明. linux kernel 2.4
 
 Linux Drivers
 
 - Linux Device Drivers by Alessandro Rubini, Greg Kroah-Hartman, and Jonathan Corbet [4.12, 264]
+- [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/) by Peter Jay Salzman, Michael Burian, Ori Pomerantz, Bob Mottram, Jim Huang (Linux kernel 5.0+)
 - 深入Linux设备驱动程序内核机制 by 陈学松
 
 Docs
@@ -744,6 +752,7 @@ Must Read
 - **Applied Cryptography: Protocols, Algorithms, and Source Code in C** (2015) by Bruce Schneier [4.21, 2124]
 - **Practical Cryptography** (2003) by Niels Ferguson,  Bruce Schneier [4.15, 317]
 - **Cryptography Engineering: Design Principles and Practical Applications** (2010)by Niels Ferguson,  Bruce Schneier, Tadayoshi Kohno [4.21, 393]
+- [The Joy of Cryptography](https://joyofcryptography.com/) by Mike Rosulek. It is a **free** undergraduate-level textbook that introduces students to the fundamentals of provable security.
 - 图解密码技术 by [日] 结城浩
 - Understanding Cryptography: A Textbook for Students and Practitioners (2010) by Christof Paar,  Jan Pelzl [4.18, 217]
 - Introduction to Modern Cryptography, Second Edition (Chapman & Hall/CRC Cryptography and Network Security Series) by Jonathan Katz [4.26, 126]

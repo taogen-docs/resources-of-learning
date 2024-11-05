@@ -1,5 +1,7 @@
 # Programming Language Resources
 
+>The only way to learn a new programming language is by writing programs in it. — Dennis Ritchie
+
 **Content**
 
 - <a name="lang_c" href="#lang_t">Programming Languages</a>
@@ -20,6 +22,7 @@ Primary
 
 - **The C Programming Language** (2nd, 1988) by Brian W. Kernighan, Denis M. Ritchie (**TCPL**)
 - C Primer Plus (6th, 2013) by Stephen Prata
+- [C-FAQ](https://c-faq.com/). comp.lang.c Frequently Asked Questions
 
 Style Guide
 
@@ -79,6 +82,7 @@ Best practices
 - **Effective C++** (3rd, 2005) by Scott Meyers
 - Effective Modern C++ (2014) by Scott Meyers
 - Effective STL (2001) by Scott Meyers
+- [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) by Bjarne Stroustrup and Herb Sutter
 
 **Intermediate**
 
