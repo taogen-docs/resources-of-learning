@@ -353,6 +353,24 @@ Tools
 
 ### Application & Productivity
 
+#### Java
+
+Reference [Java Resources](../directions/java-resources.md)
+
+#### Kotlin 📈
+
+- Documentation
+  - [Kotlin Reference - doc]( https://kotlinlang.org/docs/reference/ )
+- Online Tutorials
+  - [Learn X in Y minutes - Kotlin](https://learnxinyminutes.com/docs/kotlin/)
+  - [Kotlin Tutorial - W3Schools](https://www.w3schools.com/kotlin/)
+  - [Kotlin Tutorial - Tutorialspoint](https://www.tutorialspoint.com/kotlin/)
+- Kotlin in Action by Dmitry Jemerov and Svetlana Isakova
+- The Joy of Kotlin by Pierre Yves Saumont
+- Kotlin for Android Developers by Antonio Leiva
+- Head First Kotlin: A Brain-Friendly Guide by David Griffiths and Dawn Griffiths
+- Fundamental Kotlin by Miloš Vasić
+
 #### C#
 
 Primary
@@ -409,154 +427,6 @@ Tools
 
 - IDE: Rider, Visual Studio Code
 - Package Management: [NuGet](https://www.nuget.org/)
-
-
-#### Java
-
-Reference [Java Resources](../directions/java-resources.md)
-
-#### Kotlin 📈
-
-- Documentation
-  - [Kotlin Reference - doc]( https://kotlinlang.org/docs/reference/ )
-- Online Tutorials
-  - [Learn X in Y minutes - Kotlin](https://learnxinyminutes.com/docs/kotlin/)
-  - [Kotlin Tutorial - W3Schools](https://www.w3schools.com/kotlin/)
-  - [Kotlin Tutorial - Tutorialspoint](https://www.tutorialspoint.com/kotlin/)
-- Kotlin in Action by Dmitry Jemerov and Svetlana Isakova
-- The Joy of Kotlin by Pierre Yves Saumont
-- Kotlin for Android Developers by Antonio Leiva
-- Head First Kotlin: A Brain-Friendly Guide by David Griffiths and Dawn Griffiths
-- Fundamental Kotlin by Miloš Vasić
-#### Ruby 📉
-
-- Documentation
-  - [Ruby Documentation - doc]( https://www.ruby-lang.org/en/documentation/ )
-- Online Tutorials
-  - [Learn X in Y minutes - Ruby](https://learnxinyminutes.com/docs/ruby/)
-  - [Ruby Tutorial - Tutorialspoint](https://www.tutorialspoint.com/ruby/)
-  - [Learn Ruby](https://www.learnrubyonline.org/)
-- The Well-Grounded Rubyist by David A. Black
-- Programming Ruby: The Pragmatic Programmers' Guide by Dave Thomas, Chad Fowler, and Andy Hunt
-- Eloquent Ruby by Russ Olsen
-- Why's (Poignant) Guide to Ruby by Why The Lucky Stiff
-- The Ruby Programming Language by David Flanagan, Yukihiro Matsumoto, Why The Lucky Stiff
-- The Rails Way by Obie Fernandez
-- Agile Web Development with Rails: A Pragmatic Guide by Dave Thomas
-- Practical Object Oriented Design in Ruby by Sandi Metz
-
-Style Guide
-
-- [Ruby in Style](https://ruby.style/)
-- [Ruby Style Guide](https://rubystyle.guide/)
-- [Shopify Ruby Style Guide](https://ruby-style-guide.shopify.dev/#ruby-style-guide)
-
-Project Structure
-
-- [Project Etiquette](https://backend.turing.edu/module1/lessons/project_etiquette)
-- [A guide to understanding Ruby on Rails directory structure](https://github.com/jwipeout/rails-directory-structure-guide)
-
-Web Frameworks
-
-- [Ruby on Rails](https://rubyonrails.org/)
-- [Hanami](https://hanamirb.org/) - Simplicity.
-- [Padrino](https://padrinorb.com/) - Elegant.
-- [Sinatra](https://sinatrarb.com/) - Rapid development.
-
-Tools
-
-- IDE: RubyMine, Visual Studio Code
-- Package Management: [RubyGems](https://rubygems.org/)
-
-#### PHP 📉
-
-Primary
-
-- Documentation
-  - [PHP Documentation - doc]( https://www.php.net/docs.php )
-- Online Tutorials
-  - [Learn X in Y minutes - PHP](https://learnxinyminutes.com/docs/php/)
-  - [PHP Tutorial - W3Schools](https://www.w3schools.com/php/)
-  - [PHP Tutorial - Tutorialspoint](https://www.tutorialspoint.com/php/)
-  - [Learn PHP](https://www.learn-php.org/)
-- [PHP: The Right Way by Josh Lockhart](https://phptherightway.com/)
-- PHP & MySQL: Server-side Web Development (2022) by Jon Duckett
-- Programming PHP: Creating Dynamic Web Pages (4th, 2020) by Kevin Tatroe, Peter MacIntyre
-- Learning PHP, MySQL & JavaScript: A Step-by-Step Guide to Creating Dynamic Websites (6th, 2021) by Robin Nixon
-- Murach's PHP and MySQL (4th, 2022) by Joel Murach and Ray Harris
-- PHP and MySQL Web Development (5th, 2016) by Welling Luke, Thomson Laura
-
-Some more
-
-- Head First PHP and MySQL by Lynn Beighley and Michael Morrison
-- PHP for the Web: Visual QuickStart Guide by Larry Ullman
-- PHP 6 and MySQL 5 for Dynamic Web Sites: Visual Quickpro Guide by Larry Ullman
-
-Style Guide
-
-- [PSR-2: Coding Style Guide](https://www.php-fig.org/psr/psr-2/)
-- [PHP style guide with coding standards and best practices.](https://gist.github.com/ryansechrest/8138375)
-
-Project Structure
-
-- [How to choose a PHP project directory structure](https://docs.php.earth/faq/misc/structure/)
-- [Laravel Directory Structure](https://laravel.com/docs/master/structure)
-
-
-Modern PHP
-
-- Modern PHP: New Features and Good Practices (2015) by Josh Lockhart
-
-Advanced
-
-- PHP 8 Objects, Patterns, and Practice: Mastering OO Enhancements, Design Patterns, and Essential Development Tools (6th, 2021) by Matt Zandstra
-- PHP Cookbook: Modern Code Solutions for Professional Developers  (2023) by Adam Trachtenberg and David Sklar
-- Best Practices
-  - Clean Code in PHP: Expert tips and best practices to write beautiful, human-friendly, and maintainable PHP (2022) by Carsten Windler, Alexandre Daubois
-  - PHP 8 Programming Tips, Tricks and Best Practices: A practical guide to PHP 8 features, usage changes, and advanced programming techniques (2021) by Doug Bierer
-- Laravel
-  - Laravel: Up & Running: A Framework for Building Modern PHP Apps (3rd, 2023) by Matt Stauffer
-
-
-Web Frameworks
-
-- [Laravel](https://laravel.com/) - Elegant.
-- [Symfony](https://symfony.com/) - High performance.
-- [Codeigniter](https://www.codeigniter.com/) - Lightweight.
-- [Yii](https://www.yiiframework.com/) - Fast, secure, and efficient.
-- [Laminas (Zend Framework)](https://getlaminas.org/) - Secured.
-- [Phalcon](https://phalcon.io/en-us) - High performance.
-- [CakePHP](https://cakephp.org/) - Rapid development.
-
-Tools
-
-- IDE: PhpStorm, Visual Studio Code
-- Package Management: [Composer](https://getcomposer.org/)
-
-Framework / Library Projects
-
-- [easywechat](https://github.com/w7corp/easywechat) 一个 PHP 微信 SDK
-
-Application Projects
-
-- [Faker](https://github.com/fzaninotto/Faker) Faker is a PHP library that generates fake data for you
-- [monica](https://github.com/monicahq/monica) Personal CRM. Remember everything about your friends, family and business relationships
-- [koel](https://github.com/koel/koel) A personal music streaming server that works.
-- [flarum](https://github.com/flarum/flarum) Simple forum software for building great communities.
-- [firefly-iii](https://github.com/firefly-iii/firefly-iii) Firefly III: a personal finances manager
-- [grav](https://github.com/getgrav/grav) Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
-- [BookStack](https://github.com/BookStackApp/BookStack) A platform to create documentation/wiki content built with PHP & Laravel
-- [bagisto](https://github.com/bagisto/bagisto) Free and open source laravel eCommerce platform
-- [voyager](https://github.com/thedevdojo/voyager) Voyager - The Missing Laravel Admin
-- [laravel-admin](https://github.com/z-song/laravel-admin) Build a full-featured administrative interface in ten minutes
-- [typecho](https://github.com/typecho/typecho) A PHP Blogging Platform. Simple and Powerful.
-- [october](https://github.com/octobercms/october) Self-hosted CMS platform based on the Laravel PHP Framework.
-- [wallabag](https://github.com/wallabag/wallabag) wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
-- [woocommerce](https://github.com/woocommerce/woocommerce) A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.
-- [FreshRSS](https://github.com/FreshRSS/FreshRSS) A free, self-hostable news aggregator
-- [CRMEB](https://github.com/crmeb/CRMEB) CRMEB开源商城免费开源多语言商城系统，Tp6框架商城
-- [ThinkAdmin](https://github.com/zoujingli/ThinkAdmin) 基于 ThinkPHP6 的极简后台管理系统
-
 
 #### Python 📈
 
@@ -706,6 +576,137 @@ Framework / Library Projects
 Application Projects
 
 - [feapder](https://github.com/Boris-code/feapder) 一款上手简单，功能强大的Python爬虫框架。
+
+#### Ruby 📉
+
+- Documentation
+  - [Ruby Documentation - doc]( https://www.ruby-lang.org/en/documentation/ )
+- Online Tutorials
+  - [Learn X in Y minutes - Ruby](https://learnxinyminutes.com/docs/ruby/)
+  - [Ruby Tutorial - Tutorialspoint](https://www.tutorialspoint.com/ruby/)
+  - [Learn Ruby](https://www.learnrubyonline.org/)
+- The Well-Grounded Rubyist by David A. Black
+- Programming Ruby: The Pragmatic Programmers' Guide by Dave Thomas, Chad Fowler, and Andy Hunt
+- Eloquent Ruby by Russ Olsen
+- Why's (Poignant) Guide to Ruby by Why The Lucky Stiff
+- The Ruby Programming Language by David Flanagan, Yukihiro Matsumoto, Why The Lucky Stiff
+- The Rails Way by Obie Fernandez
+- Agile Web Development with Rails: A Pragmatic Guide by Dave Thomas
+- Practical Object Oriented Design in Ruby by Sandi Metz
+
+Style Guide
+
+- [Ruby in Style](https://ruby.style/)
+- [Ruby Style Guide](https://rubystyle.guide/)
+- [Shopify Ruby Style Guide](https://ruby-style-guide.shopify.dev/#ruby-style-guide)
+
+Project Structure
+
+- [Project Etiquette](https://backend.turing.edu/module1/lessons/project_etiquette)
+- [A guide to understanding Ruby on Rails directory structure](https://github.com/jwipeout/rails-directory-structure-guide)
+
+Web Frameworks
+
+- [Ruby on Rails](https://rubyonrails.org/)
+- [Hanami](https://hanamirb.org/) - Simplicity.
+- [Padrino](https://padrinorb.com/) - Elegant.
+- [Sinatra](https://sinatrarb.com/) - Rapid development.
+
+Tools
+
+- IDE: RubyMine, Visual Studio Code
+- Package Management: [RubyGems](https://rubygems.org/)
+
+#### PHP 📉
+
+Primary
+
+- Documentation
+  - [PHP Documentation - doc]( https://www.php.net/docs.php )
+- Online Tutorials
+  - [Learn X in Y minutes - PHP](https://learnxinyminutes.com/docs/php/)
+  - [PHP Tutorial - W3Schools](https://www.w3schools.com/php/)
+  - [PHP Tutorial - Tutorialspoint](https://www.tutorialspoint.com/php/)
+  - [Learn PHP](https://www.learn-php.org/)
+- [PHP: The Right Way by Josh Lockhart](https://phptherightway.com/)
+- PHP & MySQL: Server-side Web Development (2022) by Jon Duckett
+- Programming PHP: Creating Dynamic Web Pages (4th, 2020) by Kevin Tatroe, Peter MacIntyre
+- Learning PHP, MySQL & JavaScript: A Step-by-Step Guide to Creating Dynamic Websites (6th, 2021) by Robin Nixon
+- Murach's PHP and MySQL (4th, 2022) by Joel Murach and Ray Harris
+- PHP and MySQL Web Development (5th, 2016) by Welling Luke, Thomson Laura
+
+Some more
+
+- Head First PHP and MySQL by Lynn Beighley and Michael Morrison
+- PHP for the Web: Visual QuickStart Guide by Larry Ullman
+- PHP 6 and MySQL 5 for Dynamic Web Sites: Visual Quickpro Guide by Larry Ullman
+
+Style Guide
+
+- [PSR-2: Coding Style Guide](https://www.php-fig.org/psr/psr-2/)
+- [PHP style guide with coding standards and best practices.](https://gist.github.com/ryansechrest/8138375)
+
+Project Structure
+
+- [How to choose a PHP project directory structure](https://docs.php.earth/faq/misc/structure/)
+- [Laravel Directory Structure](https://laravel.com/docs/master/structure)
+
+
+Modern PHP
+
+- Modern PHP: New Features and Good Practices (2015) by Josh Lockhart
+
+Advanced
+
+- PHP 8 Objects, Patterns, and Practice: Mastering OO Enhancements, Design Patterns, and Essential Development Tools (6th, 2021) by Matt Zandstra
+- PHP Cookbook: Modern Code Solutions for Professional Developers  (2023) by Adam Trachtenberg and David Sklar
+- Best Practices
+  - Clean Code in PHP: Expert tips and best practices to write beautiful, human-friendly, and maintainable PHP (2022) by Carsten Windler, Alexandre Daubois
+  - PHP 8 Programming Tips, Tricks and Best Practices: A practical guide to PHP 8 features, usage changes, and advanced programming techniques (2021) by Doug Bierer
+- Laravel
+  - Laravel: Up & Running: A Framework for Building Modern PHP Apps (3rd, 2023) by Matt Stauffer
+
+
+Web Frameworks
+
+- [Laravel](https://laravel.com/) - Elegant.
+- [Symfony](https://symfony.com/) - High performance.
+- [Codeigniter](https://www.codeigniter.com/) - Lightweight.
+- [Yii](https://www.yiiframework.com/) - Fast, secure, and efficient.
+- [Laminas (Zend Framework)](https://getlaminas.org/) - Secured.
+- [Phalcon](https://phalcon.io/en-us) - High performance.
+- [CakePHP](https://cakephp.org/) - Rapid development.
+
+Tools
+
+- IDE: PhpStorm, Visual Studio Code
+- Package Management: [Composer](https://getcomposer.org/)
+
+Framework / Library Projects
+
+- [easywechat](https://github.com/w7corp/easywechat) 一个 PHP 微信 SDK
+
+Application Projects
+
+- [Faker](https://github.com/fzaninotto/Faker) Faker is a PHP library that generates fake data for you
+- [monica](https://github.com/monicahq/monica) Personal CRM. Remember everything about your friends, family and business relationships
+- [koel](https://github.com/koel/koel) A personal music streaming server that works.
+- [flarum](https://github.com/flarum/flarum) Simple forum software for building great communities.
+- [firefly-iii](https://github.com/firefly-iii/firefly-iii) Firefly III: a personal finances manager
+- [grav](https://github.com/getgrav/grav) Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
+- [BookStack](https://github.com/BookStackApp/BookStack) A platform to create documentation/wiki content built with PHP & Laravel
+- [bagisto](https://github.com/bagisto/bagisto) Free and open source laravel eCommerce platform
+- [voyager](https://github.com/thedevdojo/voyager) Voyager - The Missing Laravel Admin
+- [laravel-admin](https://github.com/z-song/laravel-admin) Build a full-featured administrative interface in ten minutes
+- [typecho](https://github.com/typecho/typecho) A PHP Blogging Platform. Simple and Powerful.
+- [october](https://github.com/octobercms/october) Self-hosted CMS platform based on the Laravel PHP Framework.
+- [wallabag](https://github.com/wallabag/wallabag) wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
+- [woocommerce](https://github.com/woocommerce/woocommerce) A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.
+- [FreshRSS](https://github.com/FreshRSS/FreshRSS) A free, self-hostable news aggregator
+- [CRMEB](https://github.com/crmeb/CRMEB) CRMEB开源商城免费开源多语言商城系统，Tp6框架商城
+- [ThinkAdmin](https://github.com/zoujingli/ThinkAdmin) 基于 ThinkPHP6 的极简后台管理系统
+
+
 
 ### Client Application
 
