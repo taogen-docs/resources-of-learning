@@ -1053,6 +1053,10 @@ Functional Programming
 
 > Haskell, Scala, Clojure, F#
 
+- The Art of Functional Programming (2022) by Minh Quang Tran
+- An Introduction to Functional Programming Through Lambda Calculus (2011) by Greg Michaelson
+- Functional Design and Architecture: Examples in Haskell (2024) by Alexander Granin
+- Functional Design: Principles, Patterns, and Practices (2023) by Robert Martin 
 - Grokking Simplicity: Taming complex software with functional thinking (2021) by Eric Normand
 - Grokking Functional Programming (2022) by Michal Plachta
 - Introduction to Functional Programming by Richard S. Bird, Philip Wadler

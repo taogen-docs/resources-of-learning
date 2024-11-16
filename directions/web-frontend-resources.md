@@ -796,9 +796,28 @@ Build Tools
 Others
 
 - [Polymer Project](https://www.polymer-project.org/)
-- [WebAssembly](https://webassembly.org/)
 - Nginx
 - Docker
+
+## WebAssembly
+
+
+- [WebAssembly - Getting Started](https://webassembly.org/getting-started/developers-guide/)
+- WebAssembly: The Definitive Guide: Safe, Fast, and Portable Code (2022) by Brian Sletten
+- Practical WebAssembly: Fast, Maintainable, and Secure Code for Web Developers (2025) by Kassian Wren
+- The Art of WebAssembly: Build Secure, Portable, High-Performance Applications (2021) by Rick Battagline
+- WebAssembly in Action (2019) by Gerard Gallant
+
+WebAssembly with Rust
+
+- Practical WebAssembly: Explore the fundamentals of WebAssembly programming using Rust (2022) by Sendil Kumar Nellaiyapen
+- Programming WebAssembly with Rust: Unified Development for Web, Mobile, and Embedded Applications (2019) by Kevin Hoffman
+- Game Development with Rust and WebAssembly: Learn how to run Rust on the web while building a game (2022) by Eric Smith
+
+WebAssembly with C#
+
+- Mastering Blazor WebAssembly: A step-by-step guide to developing advanced single-page applications with Blazor WebAssembly (2023) by Ahmad Mozaffar 
+- Learning Blazor: Build Single-Page Apps with WebAssembly and C# (2022) by David Pine
 
 <br>
 
