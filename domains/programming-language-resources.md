@@ -706,7 +706,9 @@ Application Projects
 - [CRMEB](https://github.com/crmeb/CRMEB) CRMEB开源商城免费开源多语言商城系统，Tp6框架商城
 - [ThinkAdmin](https://github.com/zoujingli/ThinkAdmin) 基于 ThinkPHP6 的极简后台管理系统
 
+#### Node.js (JavaScript)
 
+Reference [Web Frontend Resources - Node.js](../directions/web-frontend-resources.md#nodejs)
 
 ### Client Application
 
