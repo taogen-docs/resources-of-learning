@@ -16,7 +16,9 @@
 
 <br>
 
-### C
+### System & Performance
+
+#### C
 
 Primary
 
@@ -46,7 +48,7 @@ Advanced
 - Effective C: An Introduction to Professional C Programming (2020) by Robert C. Seacord
 - Fluent C: Principles, Practices, and Patterns (2022) by Christopher Preschern
 
-### C++
+#### C++
 
 **Primary**
 
@@ -196,7 +198,61 @@ C++ 不是特殊场景，一般不会用它。1. 它太难掌握，对开发要�
 
 </details>
 
-### Go [📈](https://www.tiobe.com/tiobe-index/go/)
+
+#### Rust
+
+Primary
+
+- Documentation
+  - [The Rust Programming Language - doc]( https://doc.rust-lang.org/1.30.0/book/first-edition/documentation.html )
+  - [Rust Documentation - doc]( https://doc.rust-lang.org/beta/ )
+  - [Learn Rust - doc](https://rust-lang.org/learn)
+- Online Tutorials
+  - [Learn X in Y minutes - Rust](https://learnxinyminutes.com/docs/rust/)
+  - [Rust Tutorial - Tutorialspoint](https://www.tutorialspoint.com/rust/)
+- **The Rust Programming Language** (2nd, 2023) by Carol Nichols and Steve Klabnik
+- **Rust for Rustaceans: Idiomatic Programming for Experienced Developers** (2021) by Jon Gjengset
+- **Programming Rust: Fast, Safe Systems Development** (2021) by Jason Orendorff and Jim Blandy
+- Command-Line Rust: A Project-Based Primer for Writing Rust CLIs by Ken Youens-Clark
+- Rust Programming By Example: Enter the World of Rust by Building Engaging, Concurrent, Reactive, and Robust Applications by Antoni Boucher and Guillaume Gomez
+- Rust in Action by Tim McNamara
+
+Style Guide
+
+- [The Rust Style Guide](https://doc.rust-lang.org/nightly/style-guide/index.html)
+
+Project Structure
+
+- [Package Layout](https://doc.rust-lang.org/cargo/guide/project-layout.html#package-layout)
+- [Rust: Project structure example step by step](https://dev.to/ghost/rust-project-structure-example-step-by-step-3ee)
+
+Advanced
+
+- Concurrency
+  - **Rust Atomics and Locks: Low-Level Concurrency in Practice** (2023) by Mara Bos
+  - Hands-On Concurrency with Rust: Confidently Build Memory-Safe, Parallel, and Efficient Software in Rust by Brian L Troutwine
+
+Application Development
+
+- **Zero To Production In Rust: An introduction to backend development** (2022) by Luca Palmieri
+- Programming WebAssembly with Rust: Unified Development for Web, Mobile, and Embedded Applications by Kevin Hoffman
+
+Web Frameworks
+
+- [Actix](https://actix.rs/)
+- [Rocket](https://rocket.rs/) - Simple.
+- [Axum](https://github.com/tokio-rs/axum) - Ergonomic and modular.
+- [Warp](https://github.com/seanmonstar/warp) - Easy, composable.
+
+Tools
+
+- IDE: RustRover, Visual Studio Code
+- Package Management: [Cargo](https://doc.rust-lang.org/cargo)
+
+
+### Infrastructure
+
+#### Go [📈](https://www.tiobe.com/tiobe-index/go/)
 
 Guidance & Roadmap
 
@@ -295,85 +351,9 @@ Tools
 - IDE: GoLand, Visual Studio Code
 - Package Management: [Go Modules](https://go.dev/ref/mod)
 
-### Rust
+### Application & Productivity
 
-Primary
-
-- Documentation
-  - [The Rust Programming Language - doc]( https://doc.rust-lang.org/1.30.0/book/first-edition/documentation.html )
-  - [Rust Documentation - doc]( https://doc.rust-lang.org/beta/ )
-  - [Learn Rust - doc](https://rust-lang.org/learn)
-- Online Tutorials
-  - [Learn X in Y minutes - Rust](https://learnxinyminutes.com/docs/rust/)
-  - [Rust Tutorial - Tutorialspoint](https://www.tutorialspoint.com/rust/)
-- **The Rust Programming Language** (2nd, 2023) by Carol Nichols and Steve Klabnik
-- **Rust for Rustaceans: Idiomatic Programming for Experienced Developers** (2021) by Jon Gjengset
-- **Programming Rust: Fast, Safe Systems Development** (2021) by Jason Orendorff and Jim Blandy
-- Command-Line Rust: A Project-Based Primer for Writing Rust CLIs by Ken Youens-Clark
-- Rust Programming By Example: Enter the World of Rust by Building Engaging, Concurrent, Reactive, and Robust Applications by Antoni Boucher and Guillaume Gomez
-- Rust in Action by Tim McNamara
-
-Style Guide
-
-- [The Rust Style Guide](https://doc.rust-lang.org/nightly/style-guide/index.html)
-
-Project Structure
-
-- [Package Layout](https://doc.rust-lang.org/cargo/guide/project-layout.html#package-layout)
-- [Rust: Project structure example step by step](https://dev.to/ghost/rust-project-structure-example-step-by-step-3ee)
-
-Advanced
-
-- Concurrency
-  - **Rust Atomics and Locks: Low-Level Concurrency in Practice** (2023) by Mara Bos
-  - Hands-On Concurrency with Rust: Confidently Build Memory-Safe, Parallel, and Efficient Software in Rust by Brian L Troutwine
-
-Application Development
-
-- **Zero To Production In Rust: An introduction to backend development** (2022) by Luca Palmieri
-- Programming WebAssembly with Rust: Unified Development for Web, Mobile, and Embedded Applications by Kevin Hoffman
-
-Web Frameworks
-
-- [Actix](https://actix.rs/)
-- [Rocket](https://rocket.rs/) - Simple.
-- [Axum](https://github.com/tokio-rs/axum) - Ergonomic and modular.
-- [Warp](https://github.com/seanmonstar/warp) - Easy, composable.
-
-Tools
-
-- IDE: RustRover, Visual Studio Code
-- Package Management: [Cargo](https://doc.rust-lang.org/cargo)
-
-
-### Julia
-
-- [Julia 1.4 Documentation](https://docs.julialang.org/en/v1/)
-- [Julia learning resources](https://julialang.org/learning/)
-
-### D
-
-- **D** is a general-purpose programming language with static typing, systems-level access, and C-like syntax. With the D Programming Language, write fast, read fast, and run fast.
-- The D Programming Language by Andrei Alexandrescu
-
-### Lua
-
-- Documentation
-  - [Lua Documentation - doc]( https://www.lua.org/docs.html )
-- Online Tutorials
-  - [Learn X in Y minutes - Lua](https://learnxinyminutes.com/docs/lua/)
-  - [Lua Tutorial - Tutorialspoint](https://www.tutorialspoint.com/lua/)
-- Programming in Lua by Roberto Ierusalimschy
-- Lua Programming Gems by Luiz Henrique de Figueiredo, Waldemar Celes, Roberto Ierusalimschy
-- Beginning Lua programming by Kurt Jung
-- Lua Quick Start Guide: The Easiest Way to Learn Lua Programming by Gabor Szauer
-- Lua 5.2 Reference Manual by Luiz Henrique de Figueiredo, Roberto Ierusalimschy, and Waldemar Celes
-
-### Visual Basic
-
-- [Visual Basic language reference](https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/visual-basic-language-reference)
-
-### C#
+#### C#
 
 Primary
 
@@ -430,16 +410,25 @@ Tools
 - IDE: Rider, Visual Studio Code
 - Package Management: [NuGet](https://www.nuget.org/)
 
-### JavaScript 📈
 
-Reference [Web Frontend Resources - JavaScript](../directions/web-frontend-resources.md#js_t)
-
-
-### Java
+#### Java
 
 Reference [Java Resources](../directions/java-resources.md)
 
-### Ruby 📉
+#### Kotlin 📈
+
+- Documentation
+  - [Kotlin Reference - doc]( https://kotlinlang.org/docs/reference/ )
+- Online Tutorials
+  - [Learn X in Y minutes - Kotlin](https://learnxinyminutes.com/docs/kotlin/)
+  - [Kotlin Tutorial - W3Schools](https://www.w3schools.com/kotlin/)
+  - [Kotlin Tutorial - Tutorialspoint](https://www.tutorialspoint.com/kotlin/)
+- Kotlin in Action by Dmitry Jemerov and Svetlana Isakova
+- The Joy of Kotlin by Pierre Yves Saumont
+- Kotlin for Android Developers by Antonio Leiva
+- Head First Kotlin: A Brain-Friendly Guide by David Griffiths and Dawn Griffiths
+- Fundamental Kotlin by Miloš Vasić
+#### Ruby 📉
 
 - Documentation
   - [Ruby Documentation - doc]( https://www.ruby-lang.org/en/documentation/ )
@@ -479,7 +468,7 @@ Tools
 - IDE: RubyMine, Visual Studio Code
 - Package Management: [RubyGems](https://rubygems.org/)
 
-### PHP 📉
+#### PHP 📉
 
 Primary
 
@@ -569,7 +558,7 @@ Application Projects
 - [ThinkAdmin](https://github.com/zoujingli/ThinkAdmin) 基于 ThinkPHP6 的极简后台管理系统
 
 
-### Python 📈
+#### Python 📈
 
 > Life is short (You need Python) - Bruce Eckel
 
@@ -718,7 +707,13 @@ Application Projects
 
 - [feapder](https://github.com/Boris-code/feapder) 一款上手简单，功能强大的Python爬虫框架。
 
-### Android
+### Client Application
+
+#### JavaScript 📈
+
+Reference [Web Frontend Resources - JavaScript](../directions/web-frontend-resources.md#js_t)
+
+#### Android
 
 - [Android Documentation - doc](https://developer.android.com/docs)
 - Android Programming: The Big Nerd Ranch Guide by Brian Hardy, Bill Phillips
@@ -729,30 +724,18 @@ Application Projects
 - Learning Android by Marko Gargenta
 - Programming Android: Java Programming for the New Generation of Mobile Devices by Zigurd Mednieks, Laird Dornin, G. Blake Meike, Masumi Nakamura
 
-#### Android in Kotlin
+Android in Kotlin
 
 - [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
 
-#### Android Studio
+Android Studio
 
 - [Android Studio User Guide](https://developer.android.com/studio/intro)
 
 
-### Kotlin 📈
 
-- Documentation
-  - [Kotlin Reference - doc]( https://kotlinlang.org/docs/reference/ )
-- Online Tutorials
-  - [Learn X in Y minutes - Kotlin](https://learnxinyminutes.com/docs/kotlin/)
-  - [Kotlin Tutorial - W3Schools](https://www.w3schools.com/kotlin/)
-  - [Kotlin Tutorial - Tutorialspoint](https://www.tutorialspoint.com/kotlin/)
-- Kotlin in Action by Dmitry Jemerov and Svetlana Isakova
-- The Joy of Kotlin by Pierre Yves Saumont
-- Kotlin for Android Developers by Antonio Leiva
-- Head First Kotlin: A Brain-Friendly Guide by David Griffiths and Dawn Griffiths
-- Fundamental Kotlin by Miloš Vasić
 
-### Objective-C
+#### Objective-C
 
 - Documentation
   - [Programming with Objective-C - doc]( https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html )
@@ -772,7 +755,7 @@ Courses
 
 - [CS193p - Developing Apps for iOS](https://cs193p.sites.stanford.edu/) by Stanford University
 
-### Swift
+#### Swift
 
 - Documentation
   - [Swift Documentation - doc]( https://swift.org/documentation/ )
@@ -784,42 +767,56 @@ Courses
 - IOS 10 Programming Fundamentals with Swift: Swift, Xcode, and Cocoa Basics by Matt Neuburg
 - Swift 5 for Absolute Beginners: Learn to Develop Apps for iOS by Stefan Kaczmarek, Brad Lees, Gary Bennett
 
-### Lisp
+### Glue
+
+>Python, JavaScript, Ruby, Perl, Bash, Groovy, PHP, Lua, F# and Clojure.
+
+#### Perl
+
+- [Perl 5.30.0 documentation]( https://perldoc.perl.org/ )
+- [Perl Docs]( https://www.perl.org/docs.html )
+- Learning Perl by Randal L. Schwartz
+- Beginning Perl by Curtis 'Ovid' Poe
+- Programming Perl by Tom Christiansen
+- Perl Cookbook by Tom Christiansen, Nathan Torkington
+- Modern Perl by chromatic
+- Intermediate Perl by Randal L. Schwartz, Brian D. Foy, Tom Phoenix
+- Perl Best Practices: Standards and Styles for Developing Maintainable Code by Damian Conway
+- Mastering Perl by Brian D. Foy
+- Higher-Order Perl: Transforming Programs with Programs by Mark Jason Dominus
+- Object Oriented Perl: A Comprehensive Guide to Concepts and Programming Techniques by Damian Conway, Randal L. Schwartz
+
+#### Groovy
 
 - Documentation
-  - [Lisp Documentation - doc]( https://common-lisp.net/documentation )
-- Practical Common Lisp by Peter Seibel
-- Paradigms of AI Programming: Case Studies in Common Lisp by Peter Norvig
-- Common LISP: A Gentle Introduction to Symbolic Computation by David S. Touretzky
-- Structure and Interpretation of Computer Programs by Gerald Jay Sussman and Hal Abelson
-- On Lisp by Paul Graham
-- Land of Lisp: Learn to Program in Lisp, One Game at a Time! by Conrad Barski
-- Common Lisp the Language by Guy L. Steele Jr.
-- ANSI Common Lisp by Paul Graham
-- The Little Schemer by Daniel P. Friedman and Matthias Felleisen
+  - [Groovy Documentation - doc]( https://groovy-lang.org/documentation.html )
+- Online Tutorials
+  - [Learn X in Y minutes - Groovy](https://learnxinyminutes.com/docs/groovy/)
+  - [Groovy Tutorial - Tutorialspoint](https://www.tutorialspoint.com/groovy/)
+  - [Refcard Groovy A Rapid-Development JVM Language - DZone](https://dzone.com/refcardz/groovy). a cheat sheet.
+- Groovy in Action by Dierk König, Andrew Glover, Paul King, Guillaume Laforge, Jon Skeet, James Gosling
+- Programming Groovy 2: Dynamic Productivity for the Java Developer by Venkat Subramaniam
+- Making Java Groovy by Kenneth A. Kousen
+- Groovy 2 Cookbook by Andrey Adamovich and Luciano Fiandesio
+- Grails in Action by Glen Smith, Peter Ledbrook
+- The definitive guide to Grails by Graeme Keith Rocher
 
+#### Lua
 
-### Haskell
+- Documentation
+  - [Lua Documentation - doc]( https://www.lua.org/docs.html )
+- Online Tutorials
+  - [Learn X in Y minutes - Lua](https://learnxinyminutes.com/docs/lua/)
+  - [Lua Tutorial - Tutorialspoint](https://www.tutorialspoint.com/lua/)
+- Programming in Lua by Roberto Ierusalimschy
+- Lua Programming Gems by Luiz Henrique de Figueiredo, Waldemar Celes, Roberto Ierusalimschy
+- Beginning Lua programming by Kurt Jung
+- Lua Quick Start Guide: The Easiest Way to Learn Lua Programming by Gabor Szauer
+- Lua 5.2 Reference Manual by Luiz Henrique de Figueiredo, Roberto Ierusalimschy, and Waldemar Celes
 
-- [Haskell Documentation - doc]( https://www.haskell.org/documentation/ )
-- Real World Haskell: Code You Can Believe In by Bryan O'Sullivan
-- Programming in Haskell by Graham Hutton
-- Learn You a Haskell for Great Good! by Miran Lipovača
-- Parallel and Concurrent Programming in Haskell: Techniques for Multicore and Multithreaded Programming by Simon Marlow
-- Haskell Programming From First Principles by Christopher Allen, Julie Moronuki
-- Get Programming with Haskell by Will Kurt
-- Thinking Functionally with Haskell by Richard S. Bird
-- Learn You a Haskell for Great Good!: A Beginner's Guide by Miran Lipovača
-- Haskell: The Craft of Functional Programming by Simon Thompson
+### Minority programming languages
 
-Web Frameworks
-
-- Full Stack
-	- [Yesod](https://www.yesodweb.com/)
-- API
-	- [Servant](https://www.servant.dev/)
-
-### Clojure
+#### Clojure
 
 - [Clojure Documentation](https://clojure.org/guides/getting_started)
 - Clojure for the Brave and True: Learn the Ultimate Language and Become a Better Programmer (2015) by Daniel Higginbotham
@@ -850,37 +847,20 @@ Dependency Management
 
 - [Leiningen](https://leiningen.org/)
 
-### Perl
+#### F#
 
-- [Perl 5.30.0 documentation]( https://perldoc.perl.org/ )
-- [Perl Docs]( https://www.perl.org/docs.html )
-- Learning Perl by Randal L. Schwartz
-- Beginning Perl by Curtis 'Ovid' Poe
-- Programming Perl by Tom Christiansen
-- Perl Cookbook by Tom Christiansen, Nathan Torkington
-- Modern Perl by chromatic
-- Intermediate Perl by Randal L. Schwartz, Brian D. Foy, Tom Phoenix
-- Perl Best Practices: Standards and Styles for Developing Maintainable Code by Damian Conway
-- Mastering Perl by Brian D. Foy
-- Higher-Order Perl: Transforming Programs with Programs by Mark Jason Dominus
-- Object Oriented Perl: A Comprehensive Guide to Concepts and Programming Techniques by Damian Conway, Randal L. Schwartz
+- [F# documentation](https://fsharp.org/learn/)
+- F# in Action (2024) by Isaac Abraham
+- Domain Modeling Made Functional: Tackle Software Complexity with Domain-Driven Design and F# (2018) by Scott Wlaschin
+- Stylish F# 6: Crafting Elegant Functional Code for .NET 6 (2nd, 2021) by Kit Eason
+- Get Programming with F#: A guide for .NET developers (2018) by Isaac Abraham
+- Real-World Functional Programming: With Examples in F# and C# (2010) by Tomas Petricek, Jon Skeet
+- The Book of F#: Breaking Free With Managed Functional Programming (2014) by Dave Fancher
 
-### Groovy
 
-- Documentation
-  - [Groovy Documentation - doc]( https://groovy-lang.org/documentation.html )
-- Online Tutorials
-  - [Learn X in Y minutes - Groovy](https://learnxinyminutes.com/docs/groovy/)
-  - [Groovy Tutorial - Tutorialspoint](https://www.tutorialspoint.com/groovy/)
-  - [Refcard Groovy A Rapid-Development JVM Language - DZone](https://dzone.com/refcardz/groovy). a cheat sheet.
-- Groovy in Action by Dierk König, Andrew Glover, Paul King, Guillaume Laforge, Jon Skeet, James Gosling
-- Programming Groovy 2: Dynamic Productivity for the Java Developer by Venkat Subramaniam
-- Making Java Groovy by Kenneth A. Kousen
-- Groovy 2 Cookbook by Andrey Adamovich and Luciano Fiandesio
-- Grails in Action by Glen Smith, Peter Ledbrook
-- The definitive guide to Grails by Graeme Keith Rocher
+### Big Data Field
 
-### Scala
+#### Scala
 
 - Documentation
   - [Scala Documentation - doc]( https://docs.scala-lang.org/ )
@@ -899,15 +879,76 @@ Dependency Management
 - Learning Scala: Practical Functional Programming for the JVM by Jason Swartz
 - Scala Puzzlers by Andrew Phillips and Nermin Serifovic
 
-### Erlang
+### Real-time systems
+
+#### Erlang
 
 - [Erlang GETTING STARTED - doc](https://www.erlang.org/)
 
-### R
+### Statistical analysis
+
+#### R
 
 - [R Getting Started - doc](https://www.r-project.org/)
 
+### Industrial field
+
+#### Visual Basic
+
+- [Visual Basic language reference](https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/visual-basic-language-reference)
+
+### Academic research and education
+
+#### Lisp
+
+>屠龙之技厉害，奈何龙少。
+
+- Documentation
+  - [Lisp Documentation - doc]( https://common-lisp.net/documentation )
+- Practical Common Lisp by Peter Seibel
+- Paradigms of AI Programming: Case Studies in Common Lisp by Peter Norvig
+- Common LISP: A Gentle Introduction to Symbolic Computation by David S. Touretzky
+- Structure and Interpretation of Computer Programs by Gerald Jay Sussman and Hal Abelson
+- On Lisp by Paul Graham
+- Land of Lisp: Learn to Program in Lisp, One Game at a Time! by Conrad Barski
+- Common Lisp the Language by Guy L. Steele Jr.
+- ANSI Common Lisp by Paul Graham
+- The Little Schemer by Daniel P. Friedman and Matthias Felleisen
+
+#### Haskell
+
+- [Haskell Documentation - doc]( https://www.haskell.org/documentation/ )
+- Real World Haskell: Code You Can Believe In by Bryan O'Sullivan
+- Programming in Haskell by Graham Hutton
+- Learn You a Haskell for Great Good! by Miran Lipovača
+- Parallel and Concurrent Programming in Haskell: Techniques for Multicore and Multithreaded Programming by Simon Marlow
+- Haskell Programming From First Principles by Christopher Allen, Julie Moronuki
+- Get Programming with Haskell by Will Kurt
+- Thinking Functionally with Haskell by Richard S. Bird
+- Learn You a Haskell for Great Good!: A Beginner's Guide by Miran Lipovača
+- Haskell: The Craft of Functional Programming by Simon Thompson
+
+Web Frameworks
+
+- Full Stack
+	- [Yesod](https://www.yesodweb.com/)
+- API
+	- [Servant](https://www.servant.dev/)
+
+
 ### Others
+
+#### Julia
+
+- [Julia 1.4 Documentation](https://docs.julialang.org/en/v1/)
+- [Julia learning resources](https://julialang.org/learning/)
+
+#### D
+
+- **D** is a general-purpose programming language with static typing, systems-level access, and C-like syntax. With the D Programming Language, write fast, read fast, and run fast.
+- The D Programming Language by Andrei Alexandrescu
+
+### Ranking
 
 Programming Languages Ranking
 
