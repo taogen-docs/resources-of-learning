@@ -80,15 +80,17 @@ Clean Code
 - **Code Complete** (2nd, 2004) by Steve McConnell
 - **The Practice of Programming** (1999) by Brian W. Kernighan
 - **Hacker's Delight** (2nd, 2012) by Henry S. Warren Jr.
-- Code That Fits in Your Head : Heuristics for Software Engineering (2021) by Mark Seemann [4.1, 251]
-- Write Great Code: Volume 1: Understanding the Machine by Randall Hyde
-- Write Great Code: Volume 2: Thinking Low-Level, Writing High-Level by Randall Hyde
-- Write Great Code, Volume 3: Engineering Software by Randall Hyde
-- Writing Solid Code by Steve Maguire
-- The Art of Readable Code by Dustin Boswell, Trevor Foucher
-- Think Like a Programmer: An Introduction to Creative Problem Solving by V. Anton Spraul
-- Seriously Good Software: Code that works, survives, and wins (2020) by Marco Faella
-- The Art of Clean Code: Best Practices to Eliminate Complexity and Simplify Your Life (2022) by Christian Mayer
+- New books
+	- Clean Code Cookbook: Recipes to Improve the Design and Quality of your Code (2024) by Maximiliano Contieri
+	- The Art of Clean Code: Best Practices to Eliminate Complexity and Simplify Your Life (2022) by Christian Mayer
+	- Code That Fits in Your Head : Heuristics for Software Engineering (2021) by Mark Seemann [4.1, 251]
+	- Seriously Good Software: Code that works, survives, and wins (2020) by Marco Faella
+- Write Great Code: Volume 1: Understanding the Machine (2004) by Randall Hyde
+- Write Great Code: Volume 2: Thinking Low-Level, Writing High-Level (2006) by Randall Hyde
+- Write Great Code, Volume 3: Engineering Software (2020) by Randall Hyde
+- Writing Solid Code (1993) by Steve Maguire
+- The Art of Readable Code (2010) by Dustin Boswell, Trevor Foucher
+- Think Like a Programmer: An Introduction to Creative Problem Solving (2012) by V. Anton Spraul
 - 码出高效：Java开发手册 by 杨冠宝, 高海慧
 - 码农翻身 (2018) by 刘欣
 

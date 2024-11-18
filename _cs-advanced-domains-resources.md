@@ -597,7 +597,7 @@ Fauna DB
 - Google's Pagerank and Beyond: The Science of Search Engine Rankings by Amy N. Langville, Carl D. Meyer
 - Modern Information Retrieval by Berthier Ribeiro-Neto
 
-### Search Engines
+### Full-Text Search Engines
 
 - [Apache LuceneTM 7.4.0 Documentation](https://lucene.apache.org/core/7_4_0/index.html)
 - [Apache Solr Reference Guide](https://lucene.apache.org/solr/guide/)
@@ -739,9 +739,22 @@ Middleware - Microservices Communication (RPC/Message/HTTP)
 
 - Java Message Service by Mark Richards, Richard Monson-Haefel and David A. Chappell
 - I Heart Logs: Event Data, Stream Processing, and Data Integration by Jay Kreps
+- Modern API Development with Spring 6 and Spring Boot 3: Design scalable, viable, and reactive APIs with REST, gRPC, and GraphQL using Java 17 and Spring Boot 3 (2nd, 2023) by Sourabh Sharma
 - [gRPC](https://grpc.io/)
+	- gRPC: Up and Running: Building Cloud Native Applications with Go and Java for Docker and Kubernetes (2020) by Kasun Indrasiri and Danesh Kuruppu
+	- Modern API Design with gRPC: Efficient Solutions to Design Modern APIs with gRPC Using Golang for Scalable Distributed Systems (2024) by Hitesh Pattanayak
+	- gRPC Microservices in Go (2023) by Hüseyin Babal
+	- gRPC Go for Professionals: Implement, test, and deploy production-grade microservices (2023) by Clément Jean
+	- Practical gRPC (2018) by Joshua Humphries 
 - HTTP REST
 - [RabbitMQ](https://www.rabbitmq.com/)
+	- **RabbitMQ Essentials**: Build distributed and scalable applications with message queuing using RabbitMQ (2nd, 2020) by Lovisa Johansson and David Dossot
+	- **RabbitMQ in Action: Distributed Messaging for Everyone** (2012) by Alvaro Videla (Author), Jason J. W. Williams
+	- **RabbitMQ in Depth** (2017) by Gavin M. Roy
+	- Ultimate Microservices with RabbitMQ: Master Microservices Architecture and RabbitMQ Integration to Build Scalable, Resilient Systems, and to Drive Innovation ... in Software Development (2024) by Peter Morlion
+	- Advanced RabbitMQ: Comprehensive Messaging and Integration Frameworks (2024) by Adam Jones
+	- Learning RabbitMQ (2015) by Martin Toshev
+	- RabbitMQ Cookbook: Over 70 Practical Recipes to Help You Develop Messaging Applications Using Rabbitmq With the Help of Plenty of Real-life Examples (2013) by Boschi Sigismondo (Author), Gabriele Santomaggio
 - [Apache ActiveMQ](http://activemq.apache.org/)
 - Kafka
   - Apache Kafka documentation. [DOC](https://kafka.apache.org/)
