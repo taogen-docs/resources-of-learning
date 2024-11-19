@@ -1038,9 +1038,15 @@ General
 - 冒号课堂：编程范式与OOP思想 by 郑晖
 - 代码之髓 by [日] 西尾泰和
 
+Imperative programming / Procedural programming
+
+>C (1972), Pascal (1970), Fortran (1957), BASIC (1964), Ada (1980), COBOL (1959)
+
 Object-Oriented Programming (OOP)
 
-> C++, C#, Java
+> C++ (1985), C# (2000), Java (1995)
+
+> Object-Oriented Programming (OOP) emerged as a response to the limitations of procedural programming and to address the growing complexity of software systems.
 
 - Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma, Ralph Johnson, John Vlissides, Richard Helm
 - Object-Oriented Software Construction by Bertrand Meyer
@@ -1052,9 +1058,11 @@ Object-Oriented Programming (OOP)
 - OOP Concepts Booster : Take Your Coding Skills to the Next Level by Rakesh Singh
 - 面向对象是怎样工作的 by [日]平泽章
 
-Functional Programming
+Functional Programming (FP)
 
-> Haskell, Scala, Clojure, F#
+> Haskell (2010), Scala (2004), Clojure (2007), F# (2005)
+
+>While functional programming isn't universally applicable to all problems or scenarios, it provides powerful abstractions, promotes clarity of thought, and addresses many challenges faced by developers in the modern software landscape.
 
 - The Art of Functional Programming (2022) by Minh Quang Tran
 - An Introduction to Functional Programming Through Lambda Calculus (2011) by Greg Michaelson
@@ -1076,13 +1084,13 @@ Functional Programming
 
 Parallel Programming
 
-> Clojure, Go
+> Clojure (2007), Go (2012)
 
 Reference [CS Fundamentals Resources - Parallel](../%23cs-foundations.md#parallel)
 
 Garbage Collection
 
-> Java, C#
+> Java (1995), C# (2000)
 
 - The Garbage Collection Handbook: The Art of Automatic Memory Management by Antony Hosking, Eliot Moss, and Richard Jones
 - Garbage collection by Richard Jones
@@ -1092,11 +1100,11 @@ Garbage Collection
 
 Virtual Machine
 
-> Lisp, Smalltalk, Pascal, Java
+> Lisp (1960), Smalltalk (1980), Pascal (1970), Java (1995)
 
 Distributed computing
 
-> Erlang
+> Erlang (1998)
 
 <br>
 

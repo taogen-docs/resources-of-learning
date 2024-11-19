@@ -569,7 +569,7 @@ Unix Programming
 - Unix Programmer's Manual
 - UNIX Systems for Modern Architectures (1994) by Schimmel [4.66, 29]
 
-Linux Programming
+Linux Programming (Linux system calls)
 
 - **Linux Kernel Development** (3rd, 2010) by Robert Love [4.33, 845]
 - **The Linux Programming Interface** (2010) by Michael Kerrisk [4.63, 649]
