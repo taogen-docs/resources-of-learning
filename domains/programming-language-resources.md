@@ -16,7 +16,7 @@
 
 <br>
 
-### System & Performance
+### Operating-System & Performance
 
 #### C
 
@@ -250,7 +250,7 @@ Tools
 - Package Management: [Cargo](https://doc.rust-lang.org/cargo)
 
 
-### Infrastructure
+### Infrastructure & Balanced
 
 #### Go [📈](https://www.tiobe.com/tiobe-index/go/)
 
@@ -770,7 +770,7 @@ Courses
 - IOS 10 Programming Fundamentals with Swift: Swift, Xcode, and Cocoa Basics by Matt Neuburg
 - Swift 5 for Absolute Beginners: Learn to Develop Apps for iOS by Stefan Kaczmarek, Brad Lees, Gary Bennett
 
-### Glue
+### Glue & Convenience
 
 >Python, JavaScript, Ruby, Perl, Bash, Groovy, PHP, Lua, F# and Clojure.
 
