@@ -1038,15 +1038,17 @@ General
 - 冒号课堂：编程范式与OOP思想 by 郑晖
 - 代码之髓 by [日] 西尾泰和
 
-Imperative programming / Procedural programming
+**Imperative programming / Procedural programming**
 
 >C (1972), Pascal (1970), Fortran (1957), BASIC (1964), Ada (1980), COBOL (1959)
 
-Object-Oriented Programming (OOP)
+**Object-Oriented Programming (OOP)**
 
 > C++ (1985), C# (2000), Java (1995)
 
 > Object-Oriented Programming (OOP) emerged as a response to the limitations of procedural programming and to address the growing complexity of software systems.
+
+> OOP has become a dominant programming paradigm in software development because it helps to manage complexity, encourages good design practices, and facilitates collaboration among developers. As systems grew larger and more complex, the need for these benefits became more apparent, driving the adoption of OOP in both academic and commercial software development.
 
 - Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma, Ralph Johnson, John Vlissides, Richard Helm
 - Object-Oriented Software Construction by Bertrand Meyer
@@ -1058,11 +1060,11 @@ Object-Oriented Programming (OOP)
 - OOP Concepts Booster : Take Your Coding Skills to the Next Level by Rakesh Singh
 - 面向对象是怎样工作的 by [日]平泽章
 
-Functional Programming (FP)
+**Functional Programming (FP)**
 
 > Haskell (2010), Scala (2004), Clojure (2007), F# (2005)
 
->While functional programming isn't universally applicable to all problems or scenarios, it provides powerful abstractions, promotes clarity of thought, and addresses many challenges faced by developers in the modern software landscape.
+>While functional programming isn't universally applicable to all problems or scenarios, it provides powerful abstractions, promotes clarity of thought, and addresses many challenges faced by developers in the modern software landscape. As a result, many languages, such as JavaScript, Python, and even Java, have incorporated functional programming concepts alongside traditional paradigms.
 
 - The Art of Functional Programming (2022) by Minh Quang Tran
 - An Introduction to Functional Programming Through Lambda Calculus (2011) by Greg Michaelson
@@ -1082,13 +1084,13 @@ Functional Programming (FP)
 - Real-world Functional Programming: With Examples in F# and C# by Jon Skeet and Tomas Petricek
 - Functional Programming in JavaScript by Luis Atencio
 
-Parallel Programming
+**Parallel Programming**
 
 > Clojure (2007), Go (2012)
 
 Reference [CS Fundamentals Resources - Parallel](../%23cs-foundations.md#parallel)
 
-Garbage Collection
+**Garbage Collection**
 
 > Java (1995), C# (2000)
 
@@ -1098,11 +1100,11 @@ Garbage Collection
 - Java Performance Tuning by Jack Shirazi
 - 垃圾回收的算法与实现 by 中村成洋, 相川光 
 
-Virtual Machine
+**Virtual Machine**
 
 > Lisp (1960), Smalltalk (1980), Pascal (1970), Java (1995)
 
-Distributed computing
+**Distributed computing**
 
 > Erlang (1998)
 
