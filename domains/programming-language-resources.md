@@ -770,6 +770,59 @@ Courses
 - IOS 10 Programming Fundamentals with Swift: Swift, Xcode, and Cocoa Basics by Matt Neuburg
 - Swift 5 for Absolute Beginners: Learn to Develop Apps for iOS by Stefan Kaczmarek, Brad Lees, Gary Bennett
 
+#### Windows Desktop Applications
+
+- `C#` + Windows Forms or WPF
+- `C++` + Win32 API、MFC or Qt
+- Visual Basic .NET
+
+#### Linux Desktop Applications
+
+- C/C++
+  - GTK+
+  - Qt
+- Python
+  - GTK+
+  - PyQt/PySide
+  - Tkinter
+
+#### Cross-Platform Applications
+
+**One codebase for all platforms** (web, mobile, desktop)
+
+- JavaScript/TypeScript
+	- React Native
+	- Ionic
+	- Progressive Web Apps (PWA)
+	- Apache Cordova / PhoneGap
+- Dart
+	- Flutter
+- C#
+	- Xamarin
+	- Unity
+	- .NET MAUI
+- Java
+	- JavaFX
+- Kotlin
+	- Kotlin Multiplatform
+- C++
+	- Qt
+- Python
+	- Qt
+
+**Mobile cross-platform** (Android, iOS)
+
+- Ruby
+	- RubyMotion
+
+**Desktop cross-platform** (Windows, macOS, and Linux)
+
+- JavaScript/TypeScript
+	- Electron
+- Java
+	- Swing
+- GTK ([C++, Go, Python, Rust and more](https://www.gtk.org/docs/language-bindings/)). Platform: 
+
 ### Glue & Convenience
 
 >Python, JavaScript, Ruby, Perl, Bash, Groovy, PHP, Lua, F# and Clojure.
@@ -907,7 +960,7 @@ Dependency Management
 >屠龙之技厉害，奈何龙少。
 
 - Documentation
-  - [Lisp Documentation - doc]( https://common-lisp.net/documentation )
+  - [Common-Lisp Documentation - doc]( https://common-lisp.net/documentation )
 - Practical Common Lisp by Peter Seibel
 - Paradigms of AI Programming: Case Studies in Common Lisp by Peter Norvig
 - Common LISP: A Gentle Introduction to Symbolic Computation by David S. Touretzky
@@ -921,15 +974,23 @@ Dependency Management
 #### Haskell
 
 - [Haskell Documentation - doc]( https://www.haskell.org/documentation/ )
-- Real World Haskell: Code You Can Believe In by Bryan O'Sullivan
+- Learn You a Haskell for Great Good!: A Beginner's Guide by Miran Lipovača [HTML](https://learnyouahaskell.github.io/chapters.html)
+- Real World Haskell: Code You Can Believe In by Bryan O'Sullivan [HTML](https://book.realworldhaskell.org/read/)
+- Learn Haskell by building a blog generator by Gil Mizrahi [HTML](https://learn-haskell.blog/)
 - Programming in Haskell by Graham Hutton
-- Learn You a Haskell for Great Good! by Miran Lipovača
-- Parallel and Concurrent Programming in Haskell: Techniques for Multicore and Multithreaded Programming by Simon Marlow
 - Haskell Programming From First Principles by Christopher Allen, Julie Moronuki
 - Get Programming with Haskell by Will Kurt
 - Thinking Functionally with Haskell by Richard S. Bird
-- Learn You a Haskell for Great Good!: A Beginner's Guide by Miran Lipovača
 - Haskell: The Craft of Functional Programming by Simon Thompson
+
+Intermediate
+
+- Developing Web Apps with Haskell and Yesod: Safety-Driven Web Development (2nd, 2015) by Michael Snoyman [HTML](https://www.yesodweb.com/book)
+- Parallel and Concurrent Programming in Haskell: Techniques for Multicore and Multithreaded Programming by Simon Marlow
+- Functional Design and Architecture: Examples in Haskell (2024) by Alexander Granin
+- Haskell in Depth (2021) by Vitaly Bragilevsky
+- Practical Haskell: A Real-World Guide to Functional Programming (2022) by Alejandro Serrano Mena
+- Production Haskell: Succeeding in Industry with Haskell (2023) by Matt Parsons
 
 Web Frameworks
 
