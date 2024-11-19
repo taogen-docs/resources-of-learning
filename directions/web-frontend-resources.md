@@ -204,6 +204,16 @@ Icon
 - [Boxicons](https://boxicons.com/). High Quality Web Icons. Simple Open Source icons carefully crafted for designers & developers.
 - [fontawesome](https://fontawesome.com/icons). Take the hassle out of icons in your website. Font Awesome is the Internet's icon library and toolkit, used by millions of designers, developers, and content creators.
 
+
+Website templates
+
+- [HTMLRev](https://htmlrev.com/)
+- [Wix](https://www.wix.com/website/templates)
+- [Colorlib](https://colorlib.com/wp/templates/)
+- [Webflow](https://webflow.com/free-website-templates)
+- [Envato](https://elements.envato.com/web-templates)
+- [模板王](https://www.mobanwang.com/). 10000+HTML网站模板免费下载
+
 <br>
 
 <h2><a name="js_t" href="#js_c">JavaScript</a></h2>

@@ -821,7 +821,7 @@ Courses
 	- Electron
 - Java
 	- Swing
-- GTK ([C++, Go, Python, Rust and more](https://www.gtk.org/docs/language-bindings/)). Platform: 
+- GTK ([C++, Go, Python, Rust and more](https://www.gtk.org/docs/language-bindings/))
 
 ### Glue & Convenience
 
