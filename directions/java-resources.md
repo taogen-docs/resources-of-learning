@@ -249,6 +249,7 @@ JDBC Connection Pool
 
 - [Apache Druid]( https://druid.apache.org/ )
 - [Apache DBCP]( https://commons.apache.org/proper/commons-dbcp/ )
+- [HikariCP](https://github.com/brettwooldridge/HikariCP)
 - [Tomcat JDBC Connection Pool]( https://tomcat.apache.org/tomcat-7.0-doc/jdbc-pool.html )
 - [c3p0]( https://github.com/swaldman/c3p0 )
 
@@ -363,6 +364,23 @@ Spring Boot
 - Spring Boot in Practice (2022) by Somnath Musib
 - Learning Spring Boot 2.0
 - Spring Boot Persistence Best Practices: Optimize Java Persistence Performance in Spring Boot Applications (2020) by Anghel Leonard
+
+Dropwizard
+
+>Dropwizard is a Java framework for developing RESTful web services. It combines several existing libraries and frameworks into a coherent package with a focus on simplicity, performance, and production readiness. Dropwizard is particularly well-suited for building microservices and is favored for its opinionated approach to the development lifecycle, emphasizing rapid development and deployment.
+
+Quarkus
+
+>Quarkus is a Kubernetes-native, Java-based framework designed specifically for building cloud-native applications. Developed by Red Hat, Quarkus emphasizes developer productivity and minimal resource usage, making it ideal for microservices architecture and serverless computing.
+
+Micronaut
+
+>Micronaut is a modern, JVM-based framework designed for building microservices and serverless applications. It was developed by Object Computing, Inc. and is known for its lightweight architecture, efficient dependency injection, and rapid startup times. Micronaut is particularly well-suited for cloud-native development, providing developers with the tools needed to create highly performant applications.
+
+Vert.x
+
+>Vert.x is a toolkit for building reactive applications on the Java Virtual Machine (JVM). It provides a polyglot framework that supports a wide range of programming languages (including Java, Kotlin, Groovy, JavaScript, and Ruby) and is designed for high performance and scalability, making it suitable for modern cloud-native applications, microservices, and event-driven architectures.
+
 
 ### Web Services
 
