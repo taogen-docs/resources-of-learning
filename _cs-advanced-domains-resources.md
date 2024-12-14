@@ -522,6 +522,7 @@ Must Read
 - **Redis in Action** (2013) by Josiah L. Carlson
 - **Redis Cookbook** (2011) by Tiago Macedo and Fred Oliveira
 - Redis设计与实现 by 黄健宏
+- Redis应用实例 by 黄健宏
 - Redis 深度历险：核心原理与应用实践 by 钱文品
 
 Some More

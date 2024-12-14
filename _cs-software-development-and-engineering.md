@@ -644,11 +644,7 @@ Complexity theory and systems thinking
 - Drift into Failure: From Hunting Broken Components to Understanding Complex Systems by Sidney Dekker
 - The Logical Thinking Process: A Systems Approach to Complex Problem Solving by H. William Dettmer
 
-Jenkins
-
-- Jenkins 2: Up and Running: Evolve Your Deployment Pipeline for Next Generation Automation by Brent Laster
-- Jenkins: The Definitive Guide by John Smart
-- Learning Continuous Integration with Jenkins by Nikhil Pathania
+### CI/CD
 
 Best CI/CD Tools in DevOps
 
@@ -661,6 +657,22 @@ Best CI/CD Tools in DevOps
 - AWS CodePipeline/AWS CodeStar
 - TeamCity
 - Travis CI
+
+Jenkins
+
+- Jenkins 2: Up and Running: Evolve Your Deployment Pipeline for Next Generation Automation by Brent Laster
+- Jenkins: The Definitive Guide by John Smart
+- Learning Continuous Integration with Jenkins by Nikhil Pathania
+
+GitHub Action
+
+- [GitHub Actions documentation](https://docs.github.com/en/actions)
+- [GitHub Marketplace](https://github.com/marketplace) Search actions
+- [starter-workflows - GitHub](https://github.com/actions/starter-workflows).
+- Learning GitHub Actions: Automation and Integration of CI/CD with GitHub (2023) by Brent Laster
+- Mastering GitHub Actions: Advance your automation skills with the latest techniques for software integration and deployment (2024) by Eric Chapman
+- GitHub Actions Cookbook: A practical guide to automating repetitive tasks and streamlining your development process (2024) by Michael Kaufmann
+- Hands-on GitHub Actions: Implement CI/CD with GitHub Action Workflows for Your Applications (2021) by Chaminda Chandrasekara and Pushpa Herath 
 
 ### Infrastructure as Code (IaC)
 
@@ -1016,6 +1028,7 @@ Business / Startup
   - 鄙视屎山 -> 理解屎山 -> 成为屎山 -> 超越屎山。
   - 重启能解决90%的问题。
   - 能把恶心、难搞的事情做好也是一种本事。如果你能把恶心、难搞的事情做好，那么做其他事情也不会有什么问题。
+  - 有些不重要不紧急的事情拖几天就会发现不用做了。
 - Survival
   - 六字真言：要么忍，要么滚。
   - 代码和人，有一个能跑就行。
