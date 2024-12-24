@@ -333,9 +333,9 @@ AOP
 - AspectJ in Action: Enterprise AOP with Spring Applications (2nd, 2009) by Ramnivas Laddad and Rod Johnson
 - AspectJ Cookbook: Aspect Oriented Solutions to Real-World Problems by Russ Miles
 
-Web Frameworks
+### Web Frameworks
 
-Spring Framework
+#### Spring Framework
 
 >  The Spring Framework simplifies Java development.
 
@@ -354,7 +354,25 @@ Spring Framework
 - **Spring 揭秘** (2009) by 王福强
 - Spring 3.x企业应用开发实战 by  陈雄华 
 
-Spring Boot
+**[Spring Framework supported versions](https://github.com/spring-projects/spring-framework/wiki/Spring-Framework-Versions)**
+
+1\. Spring Framework and JDK versions
+
+- Spring Framework 7.0.x: JDK 17-27 (expected)
+- Spring Framework 6.2.x: JDK 17-25 (expected)
+- Spring Framework 6.1.x: JDK 17-23
+- Spring Framework 6.0.x: JDK 17-21
+- Spring Framework 5.3.x: JDK 8-21 (as of 5.3.26)
+
+2\. Spring Framework and JavaEE versions
+
+- Spring Framework 7.0.x: Jakarta EE 11 (jakarta namespace)
+- Spring Framework 6.2.x: Jakarta EE 9-10 (jakarta namespace)
+- Spring Framework 6.1.x: Jakarta EE 9-10 (jakarta namespace)
+- Spring Framework 6.0.x: Jakarta EE 9-10 (jakarta namespace)
+- Spring Framework 5.3.x: Java EE 7-8 (javax namespace)
+
+#### Spring Boot
 
 > Spring Boot removes the friction and boilerplate code involved with developing a REST-based service.
 
@@ -365,26 +383,52 @@ Spring Boot
 - Learning Spring Boot 2.0
 - Spring Boot Persistence Best Practices: Optimize Java Persistence Performance in Spring Boot Applications (2020) by Anghel Leonard
 
-Dropwizard
+**Spring Boot support versions**
+
+Spring Boot 3.x
+
+- JDK 17+
+- mybatis-spring-boot-starter v3+
+- mybatis-plus-boot-starter: latest version
+
+Spring Boot 2.x
+
+- JDK 8~21
+- mybatis-spring-boot-starter v2.x
+- mybatis-plus-boot-starter: latest version
+
+#### Dropwizard
 
 >Dropwizard is a Java framework for developing RESTful web services. It combines several existing libraries and frameworks into a coherent package with a focus on simplicity, performance, and production readiness. Dropwizard is particularly well-suited for building microservices and is favored for its opinionated approach to the development lifecycle, emphasizing rapid development and deployment.
 
-Quarkus
+- [Dropwizard](https://www.dropwizard.io/en/stable/index.html)A Java framework for developing ops-friendly, high-performance, RESTful web services.
+- [Dropwizard - Getting Started](https://www.dropwizard.io/en/stable/getting-started.html)
+
+#### Quarkus
 
 >Quarkus is a Kubernetes-native, Java-based framework designed specifically for building cloud-native applications. Developed by Red Hat, Quarkus emphasizes developer productivity and minimal resource usage, making it ideal for microservices architecture and serverless computing.
 
-Micronaut
+- [Quarkus](https://quarkus.io/). A Kubernetes Native Java stack tailored for OpenJDK HotSpot and GraalVM, crafted from the best of breed Java libraries and standards.
+- [Quarkus - Get Started](https://quarkus.io/get-started/)
+- [Quarkus - Guides](https://quarkus.io/guides/)
+
+#### Micronaut
 
 >Micronaut is a modern, JVM-based framework designed for building microservices and serverless applications. It was developed by Object Computing, Inc. and is known for its lightweight architecture, efficient dependency injection, and rapid startup times. Micronaut is particularly well-suited for cloud-native development, providing developers with the tools needed to create highly performant applications.
 
-Vert.x
+- [Micronaut](https://micronaut.io/). A modern, JVM-based, full-stack framework for building modular, easily testable microservice and serverless applications.
+- [Micronaut Documentation](https://micronaut.io/learn/)
+
+#### Vert.x
 
 >Vert.x is a toolkit for building reactive applications on the Java Virtual Machine (JVM). It provides a polyglot framework that supports a wide range of programming languages (including Java, Kotlin, Groovy, JavaScript, and Ruby) and is designed for high performance and scalability, making it suitable for modern cloud-native applications, microservices, and event-driven architectures.
 
+- [Vert.x](https://vertx.io/). Reactive applications on the JVM.
+- [Vert.x Documentation](https://vertx.io/docs/)
 
 ### Web Services
 
-Microservices
+#### Microservices
 
 > Microservices are more than writing the code.
 >
@@ -417,7 +461,7 @@ Microservices
 - **Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith** (2019) by Sam Newman
 - Microservices in Action by Morgan Bruce
 
-Spring Cloud
+#### Spring Cloud
 
 > Spring Cloud provides a suite of tools for the discovery, routing, and deployment of microservices to the enterprise and the cloud.
 
