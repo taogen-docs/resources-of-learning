@@ -383,7 +383,7 @@ AOP
 - Learning Spring Boot 2.0
 - Spring Boot Persistence Best Practices: Optimize Java Persistence Performance in Spring Boot Applications (2020) by Anghel Leonard
 
-**Spring Boot support versions**
+**Spring Boot supported versions**
 
 Spring Boot 3.x
 
@@ -401,7 +401,7 @@ Spring Boot 2.x
 
 >Dropwizard is a Java framework for developing RESTful web services. It combines several existing libraries and frameworks into a coherent package with a focus on simplicity, performance, and production readiness. Dropwizard is particularly well-suited for building microservices and is favored for its opinionated approach to the development lifecycle, emphasizing rapid development and deployment.
 
-- [Dropwizard](https://www.dropwizard.io/en/stable/index.html)A Java framework for developing ops-friendly, high-performance, RESTful web services.
+- [Dropwizard](https://www.dropwizard.io/en/stable/index.html). A Java framework for developing ops-friendly, high-performance, RESTful web services.
 - [Dropwizard - Getting Started](https://www.dropwizard.io/en/stable/getting-started.html)
 
 #### Quarkus

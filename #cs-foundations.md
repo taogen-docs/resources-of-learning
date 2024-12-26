@@ -276,7 +276,7 @@ Courses
 
 <br>
 
-<h2><a name="anlg_cct_t" href="#anlg_cct_c">Analog Circuits / Analogue electronics</a></h2>
+<h2><a name="anlg_cct_t" href="#anlg_cct_c">Analogue Electronics</a></h2>
 
 <br>
 
@@ -315,7 +315,7 @@ For Electronics and Electric Circuits
 
 <br>
 
-<h2><a name="dgcc_t" href="#dgcc_c">Digital Circuits</a></h2>
+<h2><a name="dgcc_t" href="#dgcc_c">Digital Electronics</a></h2>
 
 <br>
 
