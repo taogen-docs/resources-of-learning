@@ -17,8 +17,8 @@
   - <a name="automata_c" href="#automata_t">Formal Languages and Automata Theory</a>
   - <a name="cpttr_c" href="#cpttr_t">ComputationTheory</a>
 - Part III: Hardware
-  - <a name="anlg_cct_c" href="#anlg_cct_t">Analog Circuits</a>
-  - <a name="dgcc_c" href="#dgcc_t">Digital Circuits</a>
+  - <a name="anlg_cct_c" href="#anlg_cct_t">Analog Electronics</a>
+  - <a name="dgcc_c" href="#dgcc_t">Digital Electronics</a>
   - Microcomputer Principles
   - <a name="arch_c" href="#arch_t">Computer Architecture</a>
 - Part IV: Software
