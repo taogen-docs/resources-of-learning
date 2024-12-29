@@ -904,6 +904,7 @@ Talks
 Finding technology trends
 
 - Stack Overflow Developer Survey
+- The State of Developer Ecosystem Report by JetBrains
 - Search: top technology trends + software development/web development/Java development + in `<year>`
 - Gartner Hype Cycle (Twitter search from:[Mark O'Neill](https://twitter.com/TheMarkONeill/))
   - for the Future of Applications
