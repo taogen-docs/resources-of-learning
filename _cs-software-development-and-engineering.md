@@ -704,6 +704,16 @@ Docker
 
 Kubernetes 
 
+
+<details>
+    <summary>Kubernetes 的理解</summary>
+
+K8S 整体是一个分布式的高可用架构，运行这个架构之上的应用不需要应用本身具有高可用的特点(降低应用开发者的门槛)，而可以借助架构的能力让应用高可用。
+
+本质上是高级版的 docker ，管理计算机 CPU 、内存、磁盘等资源。到时候还的加各种入 gateway 、分布式文件系统、告警链路等一堆东西。
+
+</details>
+
 - Kubernetes in Action by Marko Luksa
 - **The Kubernetes Book** (2023) by Nigel Poulton
 - Kubernetes: Up and Running: Dive into the Future of Infrastructure (2nd, 2019) by Brendan Burns , Joe Beda
@@ -713,7 +723,9 @@ Kubernetes
 - Programming Kubernetes: Developing Cloud-Native Applications (2019) by Michael Hausenblas, Stefan Schimanski
 - Cloud Native DevOps with Kubernetes: Building, Deploying, and Scaling Modern Applications in the Cloud (2019) by John Arundel, Justin Domingus
 - Kubernetes Operators: Automating the Container Orchestration Platform (2020) by Jason Dobies, Joshua Wood
-- Managing Kubernetes: Operating Kubernetes Clusters in the Real World (2018) by Brendan Burns, Craig Tracey 
+- Managing Kubernetes: Operating Kubernetes Clusters in the Real World (2018) by Brendan Burns, Craig Tracey
+- [k8s 教程](https://github.com/guangzhengli/k8s-tutorials)
+- [Kubernetes中文教程](https://github.com/chaseSpace/k8s-tutorial-cn)
 
 Container Security
 
