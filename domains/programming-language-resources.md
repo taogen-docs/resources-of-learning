@@ -294,6 +294,19 @@ Style Guide
 - [Go Code Review Comments](https://go.dev/wiki/CodeReviewComments)
 - [Standard Go Project Layout](https://github.com/golang-standards/project-layout)
 
+<details>
+    <summary>对Go的理解</summary>
+
+个人以为，Golang 是类型安全的 C ，仅此而已。Go 的编写负担会比 C 低很多，同时也还有不错的执行效率。但是和其他高级语言比，语法上几乎没什么优越性，在不使用 CGO 的情况下，能够非常方便的跨平台编译，勉强能算一个。
+
+服务器用 Go 最省钱, 举个例子,一个后台用 Go 写 6MB, Node 60MB, Java 300MB。
+
+go 在 devops 工具开发这个领域没什么对手。
+
+golang 就是屎味的巧克力，它的 native 、并发、内存占用低、交叉编译等都是巧克力。但你想吃这个巧克力，就得忍受它语法简陋和各个奇怪的设计（如 if err 、2006-01-02 15:04:05 等）的屎，我用 golang 一般都是一边捏着鼻子一边写的。
+
+</details>
+
 Advanced
 
 - Go Cookbook: Expert Solutions for Commonly Needed Go Tasks (2023) by Sau Sheong Chang
@@ -349,6 +362,11 @@ Web Frameworks
 - [Echo](https://echo.labstack.com/) - High-performance.
 - [Beego](https://github.com/beego/beego) - High-performance.
 - [Fiber](https://gofiber.io/) - Rapid development.
+
+ORM Framework
+
+- [GORM](https://gorm.io/)
+- [sqlc](https://sqlc.dev/)
 
 Tools
 
