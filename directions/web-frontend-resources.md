@@ -332,6 +332,7 @@ Quizzes
 <h3><a name="jq_t" href="#jq_c">jQuery</a></h3>
 <br>
 
+- [You-Dont-Need-jQuery - GitHub](https://github.com/camsong/You-Dont-Need-jQuery). Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
 - Documentations
 	- [jQuery Learning Center - Chapters - doc]( https://learn.jquery.com/ )
 	- [jQuery API Documentation - doc]( https://api.jquery.com/ )

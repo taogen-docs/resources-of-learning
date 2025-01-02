@@ -395,7 +395,7 @@ Spring Boot 2.x
 
 - JDK 8~21
 - mybatis-spring-boot-starter v2.x
-- mybatis-plus-boot-starter: latest version
+- mybatis-plus-spring-boot3-starter: latest version
 
 #### Dropwizard
 

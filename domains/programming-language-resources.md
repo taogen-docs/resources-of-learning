@@ -50,6 +50,8 @@ Advanced
 
 #### C++
 
+/cee plus plus/
+
 **Primary**
 
 Introductory, no previous programming experience
@@ -200,6 +202,8 @@ C++ 不是特殊场景，一般不会用它。1. 它太难掌握，对开发要�
 
 
 #### Rust
+
+/rʌst/
 
 Primary
 
@@ -355,9 +359,13 @@ Tools
 
 #### Java
 
+/ˈdʒɑːvə/
+
 Reference [Java Resources](../directions/java-resources.md)
 
 #### Kotlin 📈
+
+/ˈkɒtlɪn/
 
 - Documentation
   - [Kotlin Reference - doc]( https://kotlinlang.org/docs/reference/ )
@@ -372,6 +380,8 @@ Reference [Java Resources](../directions/java-resources.md)
 - Fundamental Kotlin by Miloš Vasić
 
 #### C#
+
+/c sharp/
 
 Primary
 
@@ -429,6 +439,8 @@ Tools
 - Package Management: [NuGet](https://www.nuget.org/)
 
 #### Python 📈
+
+/ˈpaɪθɑːn/
 
 > Life is short (You need Python) - Bruce Eckel
 
@@ -578,6 +590,8 @@ Application Projects
 - [feapder](https://github.com/Boris-code/feapder) 一款上手简单，功能强大的Python爬虫框架。
 
 #### Ruby 📉
+
+/ˈruːbi/
 
 - Documentation
   - [Ruby Documentation - doc]( https://www.ruby-lang.org/en/documentation/ )
@@ -829,6 +843,8 @@ Courses
 
 #### Perl
 
+/pɜː(r)l/
+
 - [Perl 5.30.0 documentation]( https://perldoc.perl.org/ )
 - [Perl Docs]( https://www.perl.org/docs.html )
 - Learning Perl by Randal L. Schwartz
@@ -844,6 +860,8 @@ Courses
 
 #### Groovy
 
+/ˈɡruːvi/
+
 - Documentation
   - [Groovy Documentation - doc]( https://groovy-lang.org/documentation.html )
 - Online Tutorials
@@ -858,6 +876,8 @@ Courses
 - The definitive guide to Grails by Graeme Keith Rocher
 
 #### Lua
+
+/Loo-uh/
 
 - Documentation
   - [Lua Documentation - doc]( https://www.lua.org/docs.html )
@@ -1031,6 +1051,8 @@ Project Ranking
 <br>
 
 ### SQL
+
+"S-Q-L" /ˈɛs kjuː ˈɛl/ or "sequel" /ˈsiːkwəl/
 
 Reference [CS Advanced Domains Resources - Database Systems](/_cs-advanced-domains-resources.md#dbms_t)
 
