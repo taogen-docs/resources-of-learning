@@ -1031,6 +1031,7 @@ Ranking
 - [State of JavaScript](https://stateofjs.com/en-US)
 - [State of CSS](https://stateofcss.com/en-US)
 - [State of React](https://stateofreact.com/en-US)
+- [npm trends](https://npmtrends.com/)
 
 Resources
 

@@ -833,9 +833,9 @@ Courses
 
 #### Windows Desktop Applications
 
-- `C#` + Windows Forms or WPF
-- `C++` + Win32 API、MFC or Qt
-- Visual Basic .NET
+- `C#` + [Windows Forms](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/) or [WPF (Windows Presentation Foundation)](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/)
+- `C++` + [Win32 API](https://learn.microsoft.com/en-us/windows/win32/api/)、[MFC](https://learn.microsoft.com/en-us/cpp/mfc/mfc-desktop-applications) or Qt
+- [Visual Basic .NET](https://learn.microsoft.com/en-us/dotnet/visual-basic/)
 
 #### Linux Desktop Applications
 
@@ -852,36 +852,39 @@ Courses
 **One codebase for all platforms** (web, mobile, desktop)
 
 - JavaScript/TypeScript
-	- React Native
-	- Ionic
-	- Progressive Web Apps (PWA)
-	- Apache Cordova / PhoneGap
+	- [React Native](https://reactnative.dev/) (2015) by Meta
+	- [Ionic](https://ionicframework.com/) (2013)
+	- [Progressive Web Apps (PWA)](https://web.dev/explore/progressive-web-apps) (2016) by Google
+	- [Apache Cordova](https://cordova.apache.org/) / PhoneGap (2009)
 - Dart
-	- Flutter
+	- [Flutter](https://flutter.dev/) (2017) by Google
 - C#
-	- Xamarin
-	- Unity
-	- .NET MAUI
+	- [Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin) (2011)
+	- [Unity](https://unity.com/) (2005)
+	- [.NET MAUI](https://dotnet.microsoft.com/en-us/apps/maui) (Multi-platform App UI) (2022) by Microsoft
+	- [Avalonia](https://avaloniaui.net/) (2013)
 - Java
-	- JavaFX
+	- [JavaFX](https://openjfx.io/) (2008) by Oracle
 - Kotlin
-	- Kotlin Multiplatform
+	- [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html) (2023) by JetBrains
 - C++
-	- Qt
+	- [Qt](https://www.qt.io/) (1995)
 - Python
-	- Qt
+	- [Qt](https://www.qt.io/) (1995)
 
 **Mobile cross-platform** (Android, iOS)
 
 - Ruby
-	- RubyMotion
+	- [RubyMotion](http://www.rubymotion.com/) (2012)
+- JavaScript/TypeScript
+	- [NativeScript](https://nativescript.org/) (2014)
 
 **Desktop cross-platform** (Windows, macOS, and Linux)
 
 - JavaScript/TypeScript
-	- Electron
+	- [Electron](https://electronjs.org/) (2013)
 - Java
-	- Swing
+	- [Swing](https://docs.oracle.com/javase/tutorial/uiswing/index.html) by Oracle
 - GTK ([C++, Go, Python, Rust and more](https://www.gtk.org/docs/language-bindings/))
 
 ### Glue & Convenience
