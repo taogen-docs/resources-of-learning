@@ -978,12 +978,17 @@ WebAssembly with C#
 
 ### ORM frameworks
 
-- [Sequelize](https://sequelize.org/)
-- [TypeORM](https://typeorm.io/)
-- [Prisma](https://www.prisma.io/)
-- [Objection.js](https://vincit.github.io/objection.js/)
-- [Bookshelf.js](https://bookshelfjs.org/)
-- [Mikro-ORM](https://mikro-orm.io/)
+- [Sequelize](https://sequelize.org/). A promise-based ORM for Node.js and io.js.
+- [TypeORM](https://typeorm.io/). An ORM for TypeScript and JavaScript (ES7, ES6, ES5) that supports Active Record and Data Mapper patterns.
+- [Prisma](https://www.prisma.io/). A modern database toolkit for TypeScript and Node.js that abstracts database access. It provides a type-safe API for interacting with your database.
+- [Objection.js](https://vincit.github.io/objection.js/). Built on top of Knex.js, Objection.js is a SQL-friendly ORM for JavaScript. It provides a powerful QueryBuilder and comprehensive model capabilities.
+- [Bookshelf.js](https://bookshelfjs.org/). A JavaScript ORM for Node.js, built on top of Knex.js, which provides a flavor of the Active Record pattern.
+- [MikroORM](https://mikro-orm.io/). TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns.
+- [Knex.js](https://knexjs.org/). SQL Query Builder for Javascript.
+
+ODM
+
+- [Mongoose](https://mongoosejs.com/)
 
 ### Databases
 
