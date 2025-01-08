@@ -673,6 +673,15 @@ Web Frameworks
 - [Padrino](https://padrinorb.com/) - Elegant.
 - [Sinatra](https://sinatrarb.com/) - Rapid development.
 
+Application Projects
+
+- [mastodon](https://github.com/mastodon/mastodon). Your self-hosted, globally interconnected microblogging community.
+- [huginn](https://github.com/huginn/huginn). Create agents that monitor and act on your behalf. Your agents are standing by!
+- [discourse](https://github.com/discourse/discourse). A platform for community discussion. Free, open, simple.
+- [maybe](https://github.com/maybe-finance/maybe). The OS for your personal finances.
+- [forem](https://github.com/forem/forem). For empowering community.
+- [chatwoot](https://github.com/chatwoot/chatwoot). Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc.
+
 Tools
 
 - IDE: RubyMine, Visual Studio Code

@@ -236,7 +236,7 @@ Unit Test
 
 ### Java Data Access
 
-JDBC
+#### JDBC
 
 - [Java JDBC API](https://docs.oracle.com/javase/8/docs/api/index.html?java/sql/package-summary.html)
 - [JDBC Home Page - Java SE Technologies - Database - doc](https://www.oracle.com/technetwork/java/javase/tech/index-jsp-136101.html)
@@ -245,7 +245,7 @@ JDBC
 - JDBC Database Access with Java: A Tutorial and Annotated Reference by Graham Hamilton and Rick Cattell
 - JDBC API Tutorial and Reference by Maydene Fisher
 
-JDBC Connection Pool
+#### JDBC Connection Pool
 
 - [Apache Druid]( https://druid.apache.org/ )
 - [Apache DBCP]( https://commons.apache.org/proper/commons-dbcp/ )
@@ -253,25 +253,37 @@ JDBC Connection Pool
 - [Tomcat JDBC Connection Pool]( https://tomcat.apache.org/tomcat-7.0-doc/jdbc-pool.html )
 - [c3p0]( https://github.com/swaldman/c3p0 )
 
+#### Java Persistence
+
 Java Persistence
 
 - High-Performance Java Persistence by Vlad Mihalcea
 - Pro JPA 2 in Java EE 8: An In-Depth Guide to Java Persistence APIs by Mike Keith
-- MyBatis
-  - [MyBatis Documentation](https://mybatis.org/mybatis-3/)
-  - MyBatis Plus Documentation - [HTML](https://baomidou.com/guide/)
-  - Java Persistence with MyBatis 3 (2013) by K. Siva Prasad Reddy
-  - MyBatis从入门到精通 by 刘增辉
-  - MyBatis技术内幕 (2017) by 徐郡明
-  - MyBatis 3源码深度解析 (2019) by 江荣波
-- Hibernate
-  - Java Persistence with Hibernate: Revised Edition of Hibernate in Action by Bauer, Christian
-  - Just Hibernate: A Lightweight Introduction to the Hibernate Framework (2014) by Madhusudhan Konda 
-- Spring Data
-  - Spring Data JPA - Reference Documentation - [HTML](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#reference)
-  - Spring Data: Modern Data Access for Enterprise Java by Mark Pollack, Oliver Gierke, Thomas Risberg
-  - Understanding JPA 2.2: Java Persistence API by Antonio Goncalves
-  - Java Persistence with Spring Data and Hibernate (2023) by Catalin Tudose
+
+MyBatis
+
+- [MyBatis Documentation](https://mybatis.org/mybatis-3/)
+- MyBatis Plus Documentation - [HTML](https://baomidou.com/guide/)
+- Java Persistence with MyBatis 3 (2013) by K. Siva Prasad Reddy
+- MyBatis从入门到精通 by 刘增辉
+- MyBatis技术内幕 (2017) by 徐郡明
+- MyBatis 3源码深度解析 (2019) by 江荣波
+
+Hibernate
+
+- Java Persistence with Hibernate: Revised Edition of Hibernate in Action by Bauer, Christian
+- Just Hibernate: A Lightweight Introduction to the Hibernate Framework (2014) by Madhusudhan Konda 
+
+Spring Data JPA
+
+- Spring Data JPA - Reference Documentation - [HTML](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#reference)
+- Spring Data: Modern Data Access for Enterprise Java by Mark Pollack, Oliver Gierke, Thomas Risberg
+- Understanding JPA 2.2: Java Persistence API by Antonio Goncalves
+- Java Persistence with Spring Data and Hibernate (2023) by Catalin Tudose
+
+JOOQ
+
+DOMA
 
 ### Java Web
 
@@ -702,6 +714,7 @@ Spring Boot
 - [AgileBoot-Back-End](https://github.com/valarchie/AgileBoot-Back-End) ⭐️1.4k
 - [RuoYi-flowable](https://github.com/tony2y/RuoYi-flowable) ⭐️315
 - [BootDo](https://gitee.com/lcg0124/bootdo) 基于 Springboot 和 Mybatis 的后台管理系统
+- [MAGA](https://www.mjga.cc/). make java great again
 
 Spring Cloud
 
