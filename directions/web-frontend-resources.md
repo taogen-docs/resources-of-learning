@@ -628,6 +628,12 @@ Vue.js Admin Dashboard Templates
 - React Native in Action by Nader Dabit
 - Mastering React Native by Eric Masiello, Jacob Friedmann
 
+Expo
+
+> Expo is a set of tools built on top of React Native.
+
+- [Expo](https://expo.dev/). The fastest way to build an app.
+
 ### Progressive web apps / PWA
 
 - [Progressive Web Apps](https://developers.google.com/web/progressive-web-apps)
@@ -970,6 +976,14 @@ WebAssembly with C#
 
 - [Nuxt](https://nuxt.com/) - Nuxt is an open source framework that makes web development intuitive and powerful. Create performant and production-grade full-stack web apps and websites with confidence.
 
+### ORM frameworks
+
+- [Sequelize](https://sequelize.org/)
+- [TypeORM](https://typeorm.io/)
+- [Prisma](https://www.prisma.io/)
+- [Objection.js](https://vincit.github.io/objection.js/)
+- [Bookshelf.js](https://bookshelfjs.org/)
+- [Mikro-ORM](https://mikro-orm.io/)
 
 ### Databases
 

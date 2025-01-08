@@ -727,6 +727,7 @@ Spring Cloud
 
 Others
 
+- [JHipster](https://www.jhipster.tech/). JHipster is a development platform to quickly generate, develop, and deploy modern web applications & microservice architectures.
 - JeePlus
 - [FEBS](https://www.oschina.net/p/febs) 基于 Spring Boot 的权限管理系统
 - [cms](https://github.com/cms-dev/cms.git)  content management system
