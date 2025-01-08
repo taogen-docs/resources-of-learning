@@ -209,6 +209,10 @@ For JRockit JVM
 - [Oracle JRockit Documentation](https://docs.oracle.com/cd/E13150_01/jrockit_jvm/jrockit/webdocs/index.html)
 - [Oracle JRockit - doc](https://docs.oracle.com/cd/E13150_01/jrockit_jvm/jrockit/geninfo/diagnos/aboutjrockit.html)
 
+Java Diagnostic Tool
+
+- [arthas](https://github.com/alibaba/arthas)
+
 #### JNI
 
 - [Java Native Interface 6.0 Specification, Java 8](https://docs.oracle.com/javase/8/docs/technotes/guides/jni/spec/jniTOC.html)
@@ -473,25 +477,7 @@ Spring Boot 2.x
 - **Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith** (2019) by Sam Newman
 - Microservices in Action by Morgan Bruce
 
-#### Spring Cloud
-
-> Spring Cloud provides a suite of tools for the discovery, routing, and deployment of microservices to the enterprise and the cloud.
-
-- Spring Cloud Documentation, Current Version - [HTML](https://docs.spring.io/spring-cloud/docs/current/reference/htmlsingle), [PDF](https://docs.spring.io/spring-cloud/docs/current/reference/pdf/spring-cloud.pdf)
-- [Spring Getting Started Guides - Spring](https://spring.io/guides)
-- [Spring Cloud Tutorial - Baeldung](https://www.baeldung.com/spring-cloud-series)
-- [The Beginner’s Guide To Spring Cloud - Ryan Baxter - YouTube](https://www.youtube.com/watch?v=aO3W-lYnw-o)
-- [Spring Cloud Samples - GitHub](https://github.com/spring-cloud-samples)
-- **Microservices Patterns: With examples in Java** (2018) by Chris Richardson
-- **Cloud Native Java: Designing Resilient Systems with Spring Boot, Spring Cloud, and Cloud Foundry** (2017) by Josh Long, Kenny Bastani. (Some content is outdated. Expect a new version.)
-- **Spring Microservices in Action** (2nd, 2021) by John Carnells
-- Microservices with Spring Boot and Spring Cloud (2nd, 2021) by Magnus Larsson
-- Hands-On Microservices with Spring Boot and Spring Cloud (2019) by Magnus Larsson
-- Modernizing Enterprise Java: A Concise Cloud Native Guide for Developers (2021) by Markus Eisele, Natale Vinto
-- Cloud Native Spring in Action: with Spring Boot and Kubernetes (2022) by Thomas Vitale. (It was not published yet. But it's comming soon.)
-
-Others
-
+Some more
 
 - Designing Data-Intensive Applications by Martin Kleppmann
 - Release It!: Design and Deploy Production-Ready Software by Michael T. Nygard
@@ -509,6 +495,41 @@ Others
 - Java Web Services: Up and Running by Martin Kalin
 - Restful Java with Jax-RS by Bill Burke
 - Restlet in Action: Developing RESTful web APIs in Java by Jerome Louvel, Thierry Templier, Thierry Boileau
+
+#### Spring Cloud
+
+> Spring Cloud provides a suite of tools for the discovery, routing, and deployment of microservices to the enterprise and the cloud.
+
+- Spring Cloud Documentation, Current Version - [HTML](https://docs.spring.io/spring-cloud/docs/current/reference/htmlsingle), [PDF](https://docs.spring.io/spring-cloud/docs/current/reference/pdf/spring-cloud.pdf)
+- [Spring Getting Started Guides - Spring](https://spring.io/guides)
+- [Spring Cloud Tutorial - Baeldung](https://www.baeldung.com/spring-cloud-series)
+- [The Beginner’s Guide To Spring Cloud - Ryan Baxter - YouTube](https://www.youtube.com/watch?v=aO3W-lYnw-o)
+- [Spring Cloud Samples - GitHub](https://github.com/spring-cloud-samples)
+- **Microservices Patterns: With examples in Java** (2018) by Chris Richardson
+- **Cloud Native Java: Designing Resilient Systems with Spring Boot, Spring Cloud, and Cloud Foundry** (2017) by Josh Long, Kenny Bastani. (Some content is outdated. Expect a new version.)
+- **Spring Microservices in Action** (2nd, 2021) by John Carnells
+- Microservices with Spring Boot and Spring Cloud (2nd, 2021) by Magnus Larsson
+- Hands-On Microservices with Spring Boot and Spring Cloud (2019) by Magnus Larsson
+- Modernizing Enterprise Java: A Concise Cloud Native Guide for Developers (2021) by Markus Eisele, Natale Vinto
+- Cloud Native Spring in Action: with Spring Boot and Kubernetes (2022) by Thomas Vitale. (It was not published yet. But it's comming soon.)
+
+#### Others
+
+- [Apache Dubbo](https://dubbo.apache.org/en/index.html). A Cloud-Native Microservice Framework. Build apps with built-in rpc, traffic management, security, observability support that can deploy on kubernetes and vm.
+- [nacos](https://github.com/alibaba/nacos). An easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
+- [apollo](https://github.com/apolloconfig/apollo).  A reliable configuration management system suitable for microservice configuration management scenarios.
+- [Apache Kafka](https://github.com/apache/kafka). An open-source distributed event streaming platform used by thousands of companies for high-performance data pipelines, streaming analytics, data integration, and mission-critical applications.
+- [canal](https://github.com/alibaba/canal). 阿里巴巴 MySQL binlog 增量订阅&消费组件。
+- [spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba). Provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.
+- [xxl-job](https://github.com/xuxueli/xxl-job). A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
+- [incubator-seata](https://github.com/apache/incubator-seata). An easy-to-use, high-performance, open source distributed transaction solution.
+- [flink](https://github.com/apache/flink). A framework and distributed processing engine for stateful computations over unbounded and bounded data streams.
+- [Hystrix](https://github.com/Netflix/Hystrix). A latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
+- [skywalking](https://github.com/apache/skywalking). An open-source APM system that provides monitoring, tracing and diagnosing capabilities for distributed systems in Cloud Native architectures.
+- [Sentinel](https://github.com/alibaba/Sentinel). A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件).
+- [rocketmq](https://github.com/apache/rocketmq). Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications.
+- [shardingsphere](https://github.com/apache/shardingsphere). Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases.
+- [cat](https://github.com/dianping/cat). CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。
 
 ### Web Security
 
@@ -593,108 +614,166 @@ Reference [CS Advanced Domains Resources - Distributed Systems](../_cs-advanced-
 
 ##  III. Source Repositories
 
-**Java Libraries**
+### Utilities
+
+General
 
 - [Google Guava](https://github.com/google/guava)  Google Core Libraries for Java, 开源的Java库,谷歌很多项目使用它的很多核心库。这个库是为了方便编码,并减少编码错误。
 - [comons-lang](https://github.com/apache/commons-lang)  一个被大量使用的工具包，都是一个一个的方法，适合新手学习。
+- [hutool](https://github.com/dromara/hutool). A set of tools that keep Java sweet.
 
-**Web Frameworks**
-
-- [spring-framework](https://github.com/spring-projects/spring-framework.git)  
-- [spring-boot](https://github.com/spring-projects/spring-boot)
-- [Dagger 2](https://dagger.dev/). Dagger is a fully static, compile-time dependency injection framework for Java, Kotlin, and Android.
-- Flyweight
-  - [blade](https://github.com/lets-blade/blade)  Lightning fast and elegant mvc framework for Java8
-  - [Google Guice](https://github.com/google/guice) a lightweight dependency injection framework
-  - [jfinal](http://git.oschina.net/jfinal/jfinal)  JFinal 是基于 Java 语言的极速 WEB + ORM 框架，其核心设计目标是开发迅速、代码量少、学习简单、功能强大、轻量级、易扩展、Restful。在拥有Java语言所有优势的同时再拥有ruby、python、php等动态语言的开发效率！
-  - [tiny-spring](https://github.com/code4craft/tiny-spring)
-  - [AisMVC](https://github.com/javagaorui5944/AisMVC)  一款仿SpringMVC轻便的mvc开发框架 
-
-**ORM Frameworks**
-
-- [mybatis-3](https://github.com/mybatis/mybatis-3.git)  MyBatis SQL mapper framework for Java
-- [hibernate-orm](https://github.com/hibernate/hibernate-orm.git) Hibernate's core Object/Relational Mapping functionality
-
-**Network Frameworks**
-
-- [Netty](https://github.com/netty/netty)
-- [Apache Mina](https://github.com/apache/mina)
-
-**RPC Frameworks**
-
-- [dubbo](https://github.com/apache/dubbo)
-- [Apache Thrift](https://github.com/apache/thrift/tree/master/lib/java)
-
-**Utilities**
-
-for JSON
+JSON parser
 
 - [jackson](https://github.com/FasterXML/jackson)
-
 - [fastjson](https://github.com/alibaba/fastjson)
-
 - [gson](https://github.com/google/gson)
 
-for Building
-
-- [maven](https://github.com/apache/maven)
-
-- [gradle](https://github.com/gradle/gradle)
-
-- [bazel](https://github.com/bazelbuild/bazel)
-
-for Deployment
-
-- [docker-ce](https://github.com/docker/docker-ce)
-- [kubernetes](https://github.com/kubernetes/kubernetes)
-- [jenkins](https://github.com/jenkinsci/jenkins)
-
-for Testing
+Testing
 
 - [junit4](https://github.com/junit-team/junit4)
 - [testng](https://github.com/cbeust/testng)
 - [selenium](https://github.com/SeleniumHQ/selenium)
 
-for HTTP Clients
+HTTP Clients
 
 - [retrofit](https://github.com/square/retrofit)
 - [okhttp](https://github.com/square/okhttp)
 
+
 Others
 
-- [RxJava](https://github.com/ReactiveX/RxJava)
+- [WxJava](https://github.com/binarywang/WxJava). 微信开发 Java SDK ，支持包括微信支付，开放平台，小程序，企业微信，视频号，公众号等的后端开发
+- [keycloak](https://github.com/keycloak/keycloak). Open Source Identity and Access Management For Modern Applications and Services
 - [Swagger](https://github.com/swagger-api/swagger-core)
 - [ddpush](https://github.com/tianshaojie/DDPush)  国人开发的千万级推送框架
 - [log4j](https://github.com/apache/log4j)  一个知名的日志处理的jar包
+- [easyexcel](https://github.com/alibaba/easyexcel). 快速、简洁、解决大文件内存溢出的java处理Excel工具。
 
-**Web Server**
+### Web
+
+Web frameworks
+
+- [spring-framework](https://github.com/spring-projects/spring-framework.git)  
+- [spring-boot](https://github.com/spring-projects/spring-boot)
+- [Dagger 2](https://dagger.dev/). Dagger is a fully static, compile-time dependency injection framework for Java, Kotlin, and Android.
+
+Flyweight web frameworks
+
+- [blade](https://github.com/lets-blade/blade)  Lightning fast and elegant mvc framework for Java8
+- [Google Guice](https://github.com/google/guice) a lightweight dependency injection framework
+- [jfinal](http://git.oschina.net/jfinal/jfinal)  JFinal 是基于 Java 语言的极速 WEB + ORM 框架，其核心设计目标是开发迅速、代码量少、学习简单、功能强大、轻量级、易扩展、Restful。在拥有Java语言所有优势的同时再拥有ruby、python、php等动态语言的开发效率！
+- [tiny-spring](https://github.com/code4craft/tiny-spring)
+- [AisMVC](https://github.com/javagaorui5944/AisMVC)  一款仿SpringMVC轻便的mvc开发框架 
+
+### Data Access
+
+JDBC
+
+- [druid](https://github.com/alibaba/druid). 阿里云计算平台DataWorks 团队出品，为监控而生的数据库连接池
+- [HikariCP](https://github.com/brettwooldridge/HikariCP). 光 HikariCP・A solid, high-performance, JDBC connection pool at last.
+
+ORM Frameworks
+
+- [mybatis-3](https://github.com/mybatis/mybatis-3.git)  MyBatis SQL mapper framework for Java
+- [hibernate-orm](https://github.com/hibernate/hibernate-orm.git) Hibernate's core Object/Relational Mapping functionality
+
+Redis Client
+
+- [redisson](https://github.com/redisson/redisson)
+
+### Reactive / Asynchronous / Event-Based
+
+- [RxJava](https://github.com/ReactiveX/RxJava). Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
+
+### Network Frameworks / Socket
+
+- [Netty](https://github.com/netty/netty)
+- [Apache Mina](https://github.com/apache/mina)
+
+### Tools
+
+Build tools
+
+- [maven](https://github.com/apache/maven)
+- [gradle](https://github.com/gradle/gradle)
+- [bazel](https://github.com/bazelbuild/bazel)
+
+Operation tools
+
+- [jenkins](https://github.com/jenkinsci/jenkins)
+
+IDEs
+
+- [intellij-community](https://github.com/JetBrains/intellij-community)
+
+Database tools
+
+- [dbeaver](https://github.com/dbeaver/dbeaver). Free universal database tool and SQL client
+- [Chat2DB](https://github.com/CodePhiliaX/Chat2DB). AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
+
+Java tools
+
+- [arthas](https://github.com/alibaba/arthas). Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas。
+
+Browser automation
+
+- [selenium](https://github.com/SeleniumHQ/selenium). A browser automation framework and ecosystem.
+
+Others
+
+- [DoKit](https://github.com/didi/DoKit). 一款面向泛前端产品研发全生命周期的效率平台。
+
+### Web Server
 
 - [apache-tomcat](https://github.com/apache/tomcat)
-- [apche-httpd](https://github.com/apache/httpd)
 
-**Caching System**
+### Middleware
 
-- [memcached](https://github.com/memcached/memcached)
-- [redis](https://github.com/antirez/redis)
+Full-text search engines
 
-**Distributed Log**
+- [elasticsearch](https://github.com/elastic/elasticsearch)
+
+MQ
 
 - [apche kafka](https://github.com/apache/kafka)
+- [rocketmq](https://github.com/apache/rocketmq)
 - [apche flume](https://github.com/apache/flume)
 
+### Distributed Systems
 
-**Database Management System**
+Cloud
 
-- [mysql-server](https://github.com/mysql/mysql-server)
-- [MariaDB](https://github.com/MariaDB)
+- [spring-cloud](https://github.com/spring-cloud)
+- [spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba). Provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.
 
-**Operating System**
+RPC Frameworks
 
-- [linux](https://github.com/torvalds/linux)
+- [dubbo](https://github.com/apache/dubbo)
+- [Apache Thrift](https://github.com/apache/thrift/tree/master/lib/java)
+
+Service discovery
+
+- [nacos](https://github.com/alibaba/nacos). An easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
+
+Configuration
+
+- [apollo](https://github.com/apolloconfig/apollo). Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
+
+Others
+
+- [canal](https://github.com/alibaba/canal). 阿里巴巴 MySQL binlog 增量订阅&消费组件
+- [xxl-job](https://github.com/xuxueli/xxl-job). A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
+- [incubator-seata](https://github.com/apache/incubator-seata). An easy-to-use, high-performance, open source distributed transaction solution.
+- [shardingsphere](https://github.com/apache/shardingsphere). Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases.
+- [flink](https://github.com/apache/flink)
+- [Hystrix](https://github.com/Netflix/Hystrix). A latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
+- [skywalking](https://github.com/apache/skywalking). APM, Application Performance Monitoring System
+- [Sentinel](https://github.com/alibaba/Sentinel). A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)
+- [cat](https://github.com/dianping/cat). CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。
 
 ****
 
-**Management system scaffolds**
+### Management system scaffolds
 
 Spring Boot
 
@@ -728,6 +807,7 @@ Spring Cloud
 Others
 
 - [JHipster](https://www.jhipster.tech/). JHipster is a development platform to quickly generate, develop, and deploy modern web applications & microservice architectures.
+- [halo](https://github.com/halo-dev/halo). 强大易用的开源建站工具。
 - JeePlus
 - [FEBS](https://www.oschina.net/p/febs) 基于 Spring Boot 的权限管理系统
 - [cms](https://github.com/cms-dev/cms.git)  content management system
@@ -735,31 +815,35 @@ Others
 - [MCMS](https://github.com/ming-soft/MCMS)  Java快速开发平台
 - [funiture](https://github.com/kanwangzjm/funiture)  企业级权限管理系统
 
-**Shop System**
+### Shop System
 
 - [macrozheng/mall](https://github.com/macrozheng/mall) 电商系统
+- [litemall](https://github.com/linlinjava/litemall). 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端
 - [macrozheng/mall-swarm](https://github.com/macrozheng/mall-swarm)
 - [newbee-ltd/newbee-mall](https://github.com/newbee-ltd/newbee-mall)
 - [javashop](https://gitee.com/javashop) 网店系统
 - [shopweb](https://github.com/mission008/shopweb.git)  仿淘宝的B2C商城项目
 - [miaosha](https://github.com/qiurunze123/miaosha)  秒杀系统设计与实现
 
-**Education System**
+### Education System
 
 - [roncoo-education](https://gitee.com/roncoocom/roncoo-education)
 - [roncoo-education-web](https://gitee.com/roncoocom/roncoo-education-web)
 
-**IM**
+### IM
 
+- [Telegram](https://github.com/DrKLO/Telegram). Telegram for Android source.
 - [wildfirechat](https://github.com/wildfirechat/server)
 - [Kahla.App](https://github.com/AiursoftWeb/Kahla.App)
 
-**Social**
+### Social
 
 - [symphony](https://github.com/b3log/symphony) 现代化社区（论坛/BBS/社交网络/博客）平台
 
-**Others**
+### Other Applications
 
+- [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF). Locally hosted web application that allows you to perform various operations on PDF files.
+- [proxyee-down](https://github.com/proxyee-down-org/proxyee-down). http下载工具，基于http代理，支持多连接分块下载。
 - [drp](https://github.com/reedmi/drp.git)  DRP系统
 - [social-sdk](https://github.com/belerweb/social-sdk.git)  社交平台的接口的Java库
 - [beauty_ssm_cluster](https://github.com/wosyingjun/beauty_ssm_cluster.git)  对”优雅的SSM框架“进行完善
@@ -769,7 +853,7 @@ Others
 - [spring-boot-examples](https://github.com/ityouknow/spring-boot-examples)
 - [tutorials](https://github.com/eugenp/tutorials) The "REST With Spring" Course
 
-**Some More**
+**Trending**
 
 - [GitHub Trending](https://github.com/trending)
 - [Gitee Most Valuable Project](https://gitee.com/gvp)
@@ -805,10 +889,6 @@ Social
 - Medium
 - V2EX
 - 1point3acres
-
-
-
-
 
 ## V. Others
 
