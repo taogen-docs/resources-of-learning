@@ -1,4 +1,4 @@
-# Resources of Java
+# <img src="/assets/icon/programming-languages/Java.svg" width="24px"/> Java Resources
 
 > Java - Write once, run anywhere.
 
@@ -264,7 +264,7 @@ Java Persistence
 - High-Performance Java Persistence by Vlad Mihalcea
 - Pro JPA 2 in Java EE 8: An In-Depth Guide to Java Persistence APIs by Mike Keith
 
-MyBatis
+<img src="/assets/icon/java/mybatis.png" width="24px"/>MyBatis
 
 - [MyBatis Documentation](https://mybatis.org/mybatis-3/)
 - MyBatis Plus Documentation - [HTML](https://baomidou.com/guide/)
@@ -273,7 +273,7 @@ MyBatis
 - MyBatis技术内幕 (2017) by 徐郡明
 - MyBatis 3源码深度解析 (2019) by 江荣波
 
-Hibernate
+<img src="/assets/icon/java/Hibernate.svg" width="24px"/>Hibernate
 
 - Java Persistence with Hibernate: Revised Edition of Hibernate in Action by Bauer, Christian
 - Just Hibernate: A Lightweight Introduction to the Hibernate Framework (2014) by Madhusudhan Konda 
@@ -351,7 +351,7 @@ AOP
 
 ### Web Frameworks
 
-#### Spring Framework
+#### <img src="/assets/icon/java/Spring.svg" width="24px"/>Spring Framework
 
 >  The Spring Framework simplifies Java development.
 
@@ -388,7 +388,7 @@ AOP
 - Spring Framework 6.0.x: Jakarta EE 9-10 (jakarta namespace)
 - Spring Framework 5.3.x: Java EE 7-8 (javax namespace)
 
-#### Spring Boot
+#### <img src="/assets/icon/java/Spring.svg" width="24px"/>Spring Boot
 
 > Spring Boot removes the friction and boilerplate code involved with developing a REST-based service.
 
@@ -496,7 +496,7 @@ Some more
 - Restful Java with Jax-RS by Bill Burke
 - Restlet in Action: Developing RESTful web APIs in Java by Jerome Louvel, Thierry Templier, Thierry Boileau
 
-#### Spring Cloud
+#### <img src="/assets/icon/java/Spring.svg" width="24px"/>Spring Cloud
 
 > Spring Cloud provides a suite of tools for the discovery, routing, and deployment of microservices to the enterprise and the cloud.
 

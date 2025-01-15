@@ -18,7 +18,7 @@
 
 ### Operating-System & Performance
 
-#### C
+#### <img src="/assets/icon/programming-languages/C.svg" width="24px"/>C
 
 Primary
 
@@ -48,7 +48,7 @@ Advanced
 - Effective C: An Introduction to Professional C Programming (2020) by Robert C. Seacord
 - Fluent C: Principles, Practices, and Patterns (2022) by Christopher Preschern
 
-#### C++
+#### <img src="/assets/icon/programming-languages/Cpp.svg" width="24px"/>C++
 
 /cee plus plus/
 
@@ -201,7 +201,7 @@ C++ 不是特殊场景，一般不会用它。1. 它太难掌握，对开发要�
 </details>
 
 
-#### Rust
+#### <img src="/assets/icon/programming-languages/Rust.svg" width="24px"/>Rust
 
 /rʌst/
 
@@ -256,7 +256,7 @@ Tools
 
 ### Infrastructure & Balanced
 
-#### Go [📈](https://www.tiobe.com/tiobe-index/go/)
+#### <img src="/assets/icon/programming-languages/Go.svg" width="24px"/>Go [📈](https://www.tiobe.com/tiobe-index/go/)
 
 Guidance & Roadmap
 
@@ -404,13 +404,13 @@ Tools
 
 ### Application & Productivity
 
-#### Java
+#### <img src="/assets/icon/programming-languages/Java.svg" width="24px"/>Java
 
 /ˈdʒɑːvə/
 
 Reference [Java Resources](../directions/java-resources.md)
 
-#### Kotlin 📈
+#### <img src="/assets/icon/programming-languages/Kotlin.svg" width="24px"/>Kotlin 📈
 
 /ˈkɒtlɪn/
 
@@ -426,7 +426,7 @@ Reference [Java Resources](../directions/java-resources.md)
 - Head First Kotlin: A Brain-Friendly Guide by David Griffiths and Dawn Griffiths
 - Fundamental Kotlin by Miloš Vasić
 
-#### C#
+#### <img src="/assets/icon/programming-languages/c-sharp.png" width="24px"/>C#
 
 /c sharp/
 
@@ -485,7 +485,7 @@ Tools
 - IDE: Rider, Visual Studio Code
 - Package Management: [NuGet](https://www.nuget.org/)
 
-#### Python 📈
+#### <img src="/assets/icon/programming-languages/Python.svg" width="24px"/>Python 📈
 
 /ˈpaɪθɑːn/
 
@@ -636,7 +636,7 @@ Application Projects
 
 - [feapder](https://github.com/Boris-code/feapder) 一款上手简单，功能强大的Python爬虫框架。
 
-#### Ruby 📉
+#### <img src="/assets/icon/programming-languages/Ruby.svg" width="24px"/>Ruby 📉
 
 /ˈruːbi/
 
@@ -687,7 +687,7 @@ Tools
 - IDE: RubyMine, Visual Studio Code
 - Package Management: [RubyGems](https://rubygems.org/)
 
-#### PHP 📉
+#### <img src="/assets/icon/programming-languages/Php.svg" width="24px"/>PHP 📉
 
 Primary
 
@@ -776,17 +776,17 @@ Application Projects
 - [CRMEB](https://github.com/crmeb/CRMEB) CRMEB开源商城免费开源多语言商城系统，Tp6框架商城
 - [ThinkAdmin](https://github.com/zoujingli/ThinkAdmin) 基于 ThinkPHP6 的极简后台管理系统
 
-#### Node.js (JavaScript)
+#### <img src="/assets/icon/frontend/Nodejs.svg" width="24px"/>Node.js (JavaScript)
 
 Reference [Web Frontend Resources - Node.js](../directions/web-frontend-resources.md#nodejs)
 
 ### Client Application
 
-#### JavaScript 📈
+#### <img src="/assets/icon/programming-languages/JavaScript.svg" width="24px"/>JavaScript 📈
 
 Reference [Web Frontend Resources - JavaScript](../directions/web-frontend-resources.md#js_t)
 
-#### Android
+#### <img src="/assets/icon/programming-languages/Android.svg" width="24px"/>Android
 
 - [Android Documentation - doc](https://developer.android.com/docs)
 - Android Programming: The Big Nerd Ranch Guide by Brian Hardy, Bill Phillips
@@ -808,7 +808,7 @@ Android Studio
 
 
 
-#### Objective-C
+#### <img src="/assets/icon/programming-languages/Apple.svg" width="24px"/>Objective-C
 
 - Documentation
   - [Programming with Objective-C - doc]( https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html )
@@ -828,7 +828,7 @@ Courses
 
 - [CS193p - Developing Apps for iOS](https://cs193p.sites.stanford.edu/) by Stanford University
 
-#### Swift
+#### <img src="/assets/icon/programming-languages/Swift.svg" width="24px"/>Swift
 
 - Documentation
   - [Swift Documentation - doc]( https://swift.org/documentation/ )
@@ -840,13 +840,13 @@ Courses
 - IOS 10 Programming Fundamentals with Swift: Swift, Xcode, and Cocoa Basics by Matt Neuburg
 - Swift 5 for Absolute Beginners: Learn to Develop Apps for iOS by Stefan Kaczmarek, Brad Lees, Gary Bennett
 
-#### Windows Desktop Applications
+#### <img src="/assets/icon/programming-languages/Windows.svg" width="24px"/>Windows Desktop Applications
 
 - `C#` + [Windows Forms](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/) or [WPF (Windows Presentation Foundation)](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/)
 - `C++` + [Win32 API](https://learn.microsoft.com/en-us/windows/win32/api/)、[MFC](https://learn.microsoft.com/en-us/cpp/mfc/mfc-desktop-applications) or Qt
 - [Visual Basic .NET](https://learn.microsoft.com/en-us/dotnet/visual-basic/)
 
-#### Linux Desktop Applications
+#### <img src="/assets/icon/programming-languages/Linux.svg" width="24px"/>Linux Desktop Applications
 
 - C/C++
   - GTK+
