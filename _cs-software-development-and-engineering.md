@@ -626,6 +626,10 @@ Some More
 - The Practice of Cloud System Administration: Devops and Sre Practices for Web Services, Volume 2 by Thomas A. Limoncelli, Strata R. Chalup, Christina J. Hogan
 - Operations Anti-Patterns, DevOps Solutions (2020) by Jeffery D. Smith
 
+Interview questions
+
+- [Popular DevOps Interview Questions - Roadmap](https://roadmap.sh/questions/devops)
+
 Observability Engineering
 
 > Observability Engineering focuses on designing and implementing systems that are highly observable. Observability refers to the ability to gain insights into the internal state and behavior of a system by analyzing its outputs and external interactions. Observability Engineering aims to enable teams to understand and troubleshoot complex systems effectively.

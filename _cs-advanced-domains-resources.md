@@ -64,6 +64,7 @@ Web Application Security
 - API Security in Action (2020) by Neil Madden
 - Bulletproof SSL and TLS: The Complete Guide to Deploying Secure Servers and Web Applications by Ivan Ristic
 - Web Application Security: Exploitation and Countermeasures for Modern Web Applications by Andrew Hoffman
+- [API Security Best Practices - Roadmap](https://roadmap.sh/best-practices/api-security)
 
 API Authorization
 
@@ -100,9 +101,15 @@ Apache Tomcat
 
 - How Tomcat Works: A Guide to Developing Your Own Java Servlet Container by Budi Kurniawan, Paul Deck 
 
+#### Backend Performance
+
+- [Backend Performance Best Practices - Roadmap](https://roadmap.sh/best-practices/backend-performance)
+
+#### Backend Interview Questions
+
+- [Popular Backend Developer Interview Questions - Roadmap](https://roadmap.sh/questions/backend)
 
 <br>
-
 <h2><a name="gamedev_t" href="#gamedev_c">Game Development</a></h2>
 
 <br>

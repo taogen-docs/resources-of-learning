@@ -29,6 +29,7 @@
   - Svelte
   - Preact
   - SolidJS
+- <a name="headless_ui_c" href="#headless_ui_t">Headless UI</a>
 - <a name="mdweb_c" href="#mdweb_t">Modern Web Frontend</a>
 - <a name="crossplat_c" href="#crossplat_t">Cross-Platform Mobile Applications</a>
   - <a name="flutter_c" href="#flutter_t">Flutter</a>
@@ -327,6 +328,11 @@ Quizzes
 
 - [JS Is Weird](https://jsisweird.com/)
 
+Interview questions
+
+- [JavaScript Questions - Roadmap](https://roadmap.sh/questions/javascript)
+
+
 <br>
 
 <h3><a name="jq_t" href="#jq_c">jQuery</a></h3>
@@ -449,6 +455,7 @@ React Ecosystem
 React Interview Questions
 
 - [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)
+- [React Questions - Roadmap](https://roadmap.sh/questions/react)
 
 React Admin Dashboard Templates
 
@@ -583,6 +590,35 @@ Vue.js Admin Dashboard Templates
 ![GitHub Repo stars](https://img.shields.io/github/stars/lit/lit)  ![GitHub last commit](https://img.shields.io/github/last-commit/lit/lit)   ![GitHub contributors](https://img.shields.io/github/contributors/lit/lit)  ![GitHub Created At](https://img.shields.io/github/created-at/lit/lit) ![NPM Downloads](https://img.shields.io/npm/dw/lit)
 
 - [Lit](https://lit.dev/) - A simple library for building fast, lightweight web components.
+
+<br>
+<h2><a name="headless_ui_t" href="#headless_ui_c">Headless UI</a></h2>
+<br>
+
+>**Headless UI** is a term for libraries and utilities that provide the logic, state, processing and API for UI elements and interactions, but **do not provide markup, styles, or pre-built implementations**.
+
+>Advantages of headless UI: 1) Full control over markup and styles. 2) Supports all styling patterns (CSS, CSS-in-JS, UI libraries, etc). 3) Smaller bundle-sizes. Portable. 4) Run anywhere JS runs.
+
+>**If you want a lighter-weight component or full control over the design**, then you should consider using a headless table library.
+
+>Headless UI runs on a vanilla JavaScript core. It can be used in any framework, including React, Vue, Solid, Svelte, Qwik, Angular, and even JS-to-native platforms like React Native.
+
+### Radix UI
+
+![GitHub Repo stars](https://img.shields.io/github/stars/radix-ui/primitives)  ![GitHub last commit](https://img.shields.io/github/last-commit/radix-ui/primitives)   ![GitHub contributors](https://img.shields.io/github/contributors/radix-ui/primitives)  ![GitHub Created At](https://img.shields.io/github/created-at/radix-ui/primitives) ![NPM Downloads](https://img.shields.io/npm/dw/@radix-ui/react-popover)
+
+- [Radix UI](https://www.radix-ui.com/). Components, icons, and colors for building high‑quality, accessible UI.
+
+### Headless UI
+
+![GitHub Repo stars](https://img.shields.io/github/stars/tailwindlabs/headlessui)  ![GitHub last commit](https://img.shields.io/github/last-commit/tailwindlabs/headlessui)   ![GitHub contributors](https://img.shields.io/github/contributors/tailwindlabs/headlessui)  ![GitHub Created At](https://img.shields.io/github/created-at/tailwindlabs/headlessui) ![NPM Downloads](https://img.shields.io/npm/dw/@headlessui/react)
+
+- [Headless UI](https://headlessui.com/)
+
+### Components
+
+- [TanStack Form](https://tanstack.com/form/latest)
+- [TanStack Table](https://tanstack.com/table/latest)
 
 <br>
 
@@ -864,6 +900,10 @@ WebAssembly with C#
 - Professional Node.Js: Building JavaScript Based Scalable Software by Pedro Teixeira
 - Learning Node by Shelley Powers
 
+Interview questions
+
+- [Node.js Questions - Roadmap](https://roadmap.sh/questions/nodejs)
+
 #### Deno
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/denoland/deno)  ![GitHub last commit](https://img.shields.io/github/last-commit/denoland/deno)   ![GitHub contributors](https://img.shields.io/github/contributors/denoland/deno)  ![GitHub Created At](https://img.shields.io/github/created-at/denoland/deno)
@@ -1027,6 +1067,7 @@ Website Performance
 - **High Performance Browser Networking: What Every Web Developer Should Know about Networking and Web Performance** (2013) by Ilya Grigorik
 - **High Performance Web Sites: Essential Knowledge for Front-End Engineers** (2007) by Steve Souders
 - **Even Faster Web Sites: Performance Best Practices for Web Developers** (2009) by Steve Souders
+- [Frontend Performance Best Practices - Roadmap](https://roadmap.sh/best-practices/frontend-performance)
 - [Learn Performance - Google](https://web.dev/learn/performance)
 - Web Performance Tuning (2nd, 2002) by Patrick Killelea
 - High Performance Images: Shrink, Load, and Deliver Images (2016) for Speed by Colin Bendell, Tim Kadlec
@@ -1041,6 +1082,11 @@ Website Performance
 
 - [yangshun/front-end-interview-handbook - GitHub](https://github.com/yangshun/front-end-interview-handbook) ⭐️40.4k
 - [trekhleb/javascript-algorithms - GitHub](https://github.com/trekhleb/javascript-algorithms) ⭐️183k
+- [Front End Questions - Roadmap](https://roadmap.sh/questions/frontend#test-with-flashcards)
+- [JavaScript Questions - Roadmap](https://roadmap.sh/questions/javascript)
+- [React Questions - Roadmap](https://roadmap.sh/questions/react)
+- [Node.js Questions - Roadmap](https://roadmap.sh/questions/nodejs)
+
 
 ## Others
 

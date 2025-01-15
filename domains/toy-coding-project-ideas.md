@@ -1,8 +1,14 @@
 # Toy Coding Project Ideas
 
-## Coding Projects for Beginners
+## Project lists
 
-### Front-end
+1. [Project Ideas - Roadmap](https://roadmap.sh/projects)
+2. [50projects50days](https://github.com/bradtraversy/50projects50days)
+3. [Computer Science Projects](https://www.geeksforgeeks.org/computer-science-projects/)
+
+## Front-end project ideas
+
+Coding Projects for Beginners
 
 Apps
 
@@ -29,8 +35,5 @@ Games
 1. Tic Tac Toe
 2. Snake Game
 
-## Project Lists
 
-1. [50projects50days](https://github.com/bradtraversy/50projects50days)
-2. [Computer Science Projects](https://www.geeksforgeeks.org/computer-science-projects/)
 
