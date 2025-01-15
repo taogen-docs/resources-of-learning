@@ -84,7 +84,7 @@ HTML & CSS
 - Learning Web Design by Jennifer Niederst Robbins
 - HTML and CSS QuickStart Guide (2021) by David DuRocher
 
-<img src="/assets/icon/html.svg" width="24px"/>HTML
+<img src="/assets/icon/frontend/html.svg" width="24px"/>HTML
 
 - Online tutorials
 	- [HTML - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -100,7 +100,7 @@ HTML & CSS
 - HTML5 Pocket Reference: Quick, Comprehensive, Indispensable (5th, 2013) by Jennifer Robbins [3.92, 120]
 - HTML5 in Action by Rob Crowther, Joe Lennon, Ash Blue
 
-<img src="/assets/icon/css.svg" width="24px"/>CSS
+<img src="/assets/icon/frontend/css.svg" width="24px"/>CSS
 
 - Online tutorials
 	- [CSS - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -133,7 +133,7 @@ UI elements
 
 <br>
 
-<h3><a name="bootstrap_t" href="#bootstrap_c"><img src="/assets/icon/Bootstrap.svg" width="24px"/>Bootstrap</a></h3>
+<h3><a name="bootstrap_t" href="#bootstrap_c"><img src="/assets/icon/frontend/Bootstrap.svg" width="24px"/>Bootstrap</a></h3>
 <br>
 
 - [Bootstrap Documentation - doc]( https://getbootstrap.com/docs/4.4/getting-started/introduction/ )
@@ -217,7 +217,7 @@ Website templates
 
 <br>
 
-<h2><a name="js_t" href="#js_c"><img src="/assets/icon/JavaScript.svg" width="24px"/>JavaScript</a></h2>
+<h2><a name="js_t" href="#js_c"><img src="/assets/icon/programming-languages/JavaScript.svg" width="24px"/>JavaScript</a></h2>
 <br>
 
 Primary
@@ -335,7 +335,7 @@ Interview questions
 
 <br>
 
-<h3><a name="jq_t" href="#jq_c"><img src="/assets/icon/Jquery.svg" width="24px"/>jQuery</a></h3>
+<h3><a name="jq_t" href="#jq_c"><img src="/assets/icon/frontend/Jquery.svg" width="24px"/>jQuery</a></h3>
 <br>
 
 - [You-Dont-Need-jQuery - GitHub](https://github.com/camsong/You-Dont-Need-jQuery). Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
@@ -358,7 +358,7 @@ jQuery UI
 
 <br>
 
-<h2><a name="ts_t" href="#ts_c"><img src="/assets/icon/TypeScript.svg" width="24px"/>TypeScript</a></h2>
+<h2><a name="ts_t" href="#ts_c"><img src="/assets/icon/frontend/TypeScript.svg" width="24px"/>TypeScript</a></h2>
 <br>
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/TypeScript)  ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/TypeScript)   ![GitHub contributors](https://img.shields.io/github/contributors/microsoft/TypeScript)  ![GitHub Created At](https://img.shields.io/github/created-at/microsoft/TypeScript) ![NPM Downloads](https://img.shields.io/npm/dw/typescript)
@@ -398,7 +398,7 @@ jQuery UI
 >**React, Angular, and Vue.js** are the most popular and widely adopted frameworks, suitable for a broad range of applications.
 
 
-<h3><a name="react_t" href="#react_c"><img src="/assets/icon/React.svg" width="24px"/>React </a></h3>
+<h3><a name="react_t" href="#react_c"><img src="/assets/icon/frontend/React.svg" width="24px"/>React </a></h3>
 <br>
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/facebook/react)  ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/react)   ![GitHub contributors](https://img.shields.io/github/contributors/facebook/react)  ![GitHub Created At](https://img.shields.io/github/created-at/facebook/react)  ![NPM Downloads](https://img.shields.io/npm/dw/react)
@@ -463,7 +463,7 @@ React Admin Dashboard Templates
 - [react-admin](https://github.com/marmelab/react-admin)
 
 <br>
-<h3><a name="angular_t" href="#angular_c"><img src="/assets/icon/Angularjs.svg" width="24px"/>AngularJS</a></h3>
+<h3><a name="angular_t" href="#angular_c"><img src="/assets/icon/frontend/Angularjs.svg" width="24px"/>AngularJS</a></h3>
 <br>
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/angular/angular)  ![GitHub last commit](https://img.shields.io/github/last-commit/angular/angular)   ![GitHub contributors](https://img.shields.io/github/contributors/angular/angular)  ![GitHub Created At](https://img.shields.io/github/created-at/angular/angular)  ![NPM Downloads](https://img.shields.io/npm/dw/@angular/cli)
@@ -482,7 +482,7 @@ React Admin Dashboard Templates
 - AngularJS in Action by Brian Ford, Lukas Ruebbelke
 - Professional AngularJS by Diego Netto and Valeri Karpov
 
-<h3><a name="vue_t" href="#vue_c"><img src="/assets/icon/Vue.svg" width="24px"/>Vue.js</a></h3>
+<h3><a name="vue_t" href="#vue_c"><img src="/assets/icon/frontend/Vue.svg" width="24px"/>Vue.js</a></h3>
 <br>
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/vuejs/core)  ![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/core)   ![GitHub contributors](https://img.shields.io/github/contributors/vuejs/core)  ![GitHub Created At](https://img.shields.io/github/created-at/vuejs/core) ![NPM Downloads](https://img.shields.io/npm/dw/vue)
@@ -642,7 +642,7 @@ Vue.js Admin Dashboard Templates
 
 <br>
 
-<h3><a name="flutter_t" href="#flutter_c"><img src="/assets/icon/Flutter.svg" width="24px"/>Flutter</a></h3>
+<h3><a name="flutter_t" href="#flutter_c"><img src="/assets/icon/frontend/Flutter.svg" width="24px"/>Flutter</a></h3>
 
 <br>
 
@@ -654,7 +654,7 @@ Vue.js Admin Dashboard Templates
 
 <br>
 
-<h3><a name="rn_t" href="#rn_c"><img src="/assets/icon/React.svg" width="24px"/>React Native</a></h3>
+<h3><a name="rn_t" href="#rn_c"><img src="/assets/icon/frontend/React.svg" width="24px"/>React Native</a></h3>
 <br>
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/facebook/react-native)  ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/react-native)   ![GitHub contributors](https://img.shields.io/github/contributors/facebook/react-native)  ![GitHub Created At](https://img.shields.io/github/created-at/facebook/react-native)  ![NPM Downloads](https://img.shields.io/npm/dw/react-native)
@@ -715,7 +715,7 @@ Expo
 
 <br>
 
-<h3><a name="elec_t" href="#elec_c"><img src="/assets/icon/Electron.svg" width="24px"/>Electron</a></h3>
+<h3><a name="elec_t" href="#elec_c"><img src="/assets/icon/frontend/Electron.svg" width="24px"/>Electron</a></h3>
 
 <br>
 
@@ -753,7 +753,7 @@ Expo
 <h2><a name="miniprog_t" href="#miniprog_c">Mini Program</a></h2>
 <br>
 
-<img src="/assets/icon/WeChat.svg" width="24px"/>Weixin
+<img src="/assets/icon/frontend/WeChat.svg" width="24px"/>Weixin
 
 - [微信公共平台 - 小程序]( https://mp.weixin.qq.com/cgi-bin/wx )
 - 微信小程序开发入门与实践 by 雷磊
@@ -852,7 +852,7 @@ Others
 - Nginx
 - Docker
 
-## <img src="/assets/icon/wasm.svg" width="24px"/>WebAssembly
+## <img src="/assets/icon/frontend/Wasm.svg" width="24px"/>WebAssembly
 
 
 - [WebAssembly - Getting Started](https://webassembly.org/getting-started/developers-guide/)
@@ -879,7 +879,7 @@ WebAssembly with C#
 
 ### JavaScript runtime
 
-<h4><a name="node_t" href="#node_c"><img src="/assets/icon/Nodejs.svg" width="24px"/>Node.js</a></h4>
+<h4><a name="node_t" href="#node_c"><img src="/assets/icon/frontend/Nodejs.svg" width="24px"/>Node.js</a></h4>
 <br>
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/nodejs/node)  ![GitHub last commit](https://img.shields.io/github/last-commit/nodejs/node)   ![GitHub contributors](https://img.shields.io/github/contributors/nodejs/node)  ![GitHub Created At](https://img.shields.io/github/created-at/nodejs/node)
