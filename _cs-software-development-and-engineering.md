@@ -694,7 +694,7 @@ Best CI/CD Tools in DevOps
 
 ### Container
 
-<img src="/assets/icon/engineering/Docker.svg" width="24px"/>Docker
+#### <img src="/assets/icon/engineering/Docker.svg" width="24px"/>Docker
 
 - **Docker in Action** (2nd, 2019) by Jeff Nickoloff
 - **Docker Deep Dive** (2016) by Nigel Poulton
@@ -706,7 +706,24 @@ Best CI/CD Tools in DevOps
 - Docker: Practical Guide for Developers and Devops Teams (2023) by Bernd Oggl, Michael Kofler
 - The Ultimate Docker Container Book (3rd, 2023) by Dr Gabriel N Schenker
 
-<img src="/assets/icon/engineering/Kubernetes.svg" width="24px"/>Kubernetes 
+Docker compose.yaml examples
+
+- [dockge](https://github.com/louislam/dockge). A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
+- [Bitnami container images](https://github.com/bitnami/containers/tree/main/bitnami)
+
+Docker tools
+
+- [Docker Engine (Docker CE)](https://docs.docker.com/engine/install/)
+- [Docker Desktop](https://docs.docker.com/desktop/)
+
+Docker Desktop alternatives
+
+- [Podman Desktop](https://podman-desktop.io/). Best Free & Open Source Tool for Containers & Kubernetes. Simplify container management, streamline Kubernetes workflows, and transition from local development to production with ease. Best for developers who need a Docker-compatible but daemonless experience. 
+- [Rancher Desktop](https://rancherdesktop.io/). Provides all the essentials to work with containers and Kubernetes on the desktop. Best for Kubernetes-centric development with easy setup and cross-platform support. 
+- [OrbStack](https://orbstack.dev/). Fast, light, simple Docker & Linux. Best for lightweight and fast Docker Desktop alternative for macOS users.
+- [Minikube](https://minikube.sigs.k8s.io/docs/start/). It is local Kubernetes, focusing on making it easy to learn and develop for Kubernetes.
+
+#### <img src="/assets/icon/engineering/Kubernetes.svg" width="24px"/>Kubernetes 
 
 
 <details>
@@ -731,13 +748,13 @@ K8S 整体是一个分布式的高可用架构，运行这个架构之上的应�
 - [k8s 教程](https://github.com/guangzhengli/k8s-tutorials)
 - [Kubernetes中文教程](https://github.com/chaseSpace/k8s-tutorial-cn)
 
-Container Security
+#### Container Security
 
 - Container Security: Fundamental Technology Concepts that Protect Containerized Applications (2020) by Liz Rice
 - Hacking Kubernetes: Threat-Driven Analysis and Defense (2021) by Andrew Martin, Michael Hausenblas
 - Kubernetes Security and Observability: A Holistic Approach to Securing Containers and Cloud Native Applications (2021) by Brendan Creane, Amit Gupta
 
-Others
+#### Others
 
 - gRPC: Up and Running: Building Cloud Native Applications with Go and Java for Docker and Kubernetes by Kasun Indrasiri and Danesh Kuruppu
 - Prometheus: Up & Running: Infrastructure and Application Performance Monitoring by Brian Brazil 
