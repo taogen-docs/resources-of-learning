@@ -130,7 +130,7 @@ Debugging
 
 <br>
 
-### AI code completion tool
+### <img src="/assets/icon/engineering/Openai.svg" width="24px"/>AI code completion tool
 
 - [GitHub Copilot](https://copilot.github.com/) + GitHub Copilot Chat by GitHub and OpenAI
   - Individual: $10/month or $100/year
@@ -177,7 +177,7 @@ Chatbot wrapper
 
 [LMSys Chatbot Arena Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)
 
-### Git
+### <img src="/assets/icon/engineering/Git.svg" width="24px"/>Git
 
 - Pro Git by Ben Straub and Scott Chacon
 - Version Control with Git: Powerful Tools and Techniques for Collaborative Software Development by Jon Loeliger
@@ -662,13 +662,13 @@ Best CI/CD Tools in DevOps
 - TeamCity
 - Travis CI
 
-Jenkins
+<img src="/assets/icon/engineering/Jenkins.svg" width="24px"/>Jenkins
 
 - Jenkins 2: Up and Running: Evolve Your Deployment Pipeline for Next Generation Automation by Brent Laster
 - Jenkins: The Definitive Guide by John Smart
 - Learning Continuous Integration with Jenkins by Nikhil Pathania
 
-GitHub Action
+<img src="/assets/icon/engineering/Github.svg" width="24px"/>GitHub Action
 
 - [GitHub Actions documentation](https://docs.github.com/en/actions)
 - [GitHub Marketplace](https://github.com/marketplace) Search actions
@@ -687,14 +687,14 @@ GitHub Action
 - Infrastructure as Code, Patterns and Practices: With Examples in Python and Terraform (2022) by Rosemary Wang
 - Infrastructure as Code (IAC) Cookbook by Pierre Pomes and Stephane Jourdan
 
-Ansible
+<img src="/assets/icon/engineering/Ansible.svg" width="24px"/>Ansible
 
 - Ansible for DevOps: Server and configuration management for humans (13th, 2020) by Jeff Geerling 
 - Ansible: Up and Running: Automating Configuration Management and Deployment the Easy Way (3rd, 2022) by Bas Meijer, Lorin Hochstein, René Moser
 
 ### Container
 
-Docker
+<img src="/assets/icon/engineering/Docker.svg" width="24px"/>Docker
 
 - **Docker in Action** (2nd, 2019) by Jeff Nickoloff
 - **Docker Deep Dive** (2016) by Nigel Poulton
@@ -706,7 +706,7 @@ Docker
 - Docker: Practical Guide for Developers and Devops Teams (2023) by Bernd Oggl, Michael Kofler
 - The Ultimate Docker Container Book (3rd, 2023) by Dr Gabriel N Schenker
 
-Kubernetes 
+<img src="/assets/icon/engineering/Kubernetes.svg" width="24px"/>Kubernetes 
 
 
 <details>

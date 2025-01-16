@@ -75,7 +75,7 @@ API Authorization
 
 #### Web Servers
 
-Nginx
+<img src="/assets/icon/advanced-domains/Nginx.svg" width="24px"/>Nginx
 
 - [nginx documentation](http://nginx.org/en/docs/)
 - [The Complete NGINX Cookbook](https://www.nginx.com/resources/library/complete-nginx-cookbook/?utm_source=nginxorg&utm_medium=books&utm_campaign=ebooks) (2019) by Derek DeJonghe
@@ -123,7 +123,7 @@ Apache Tomcat
 
 > A game engine, also known as a game architecture, game framework, is a software development environment designed for game developers. There are many game engines available such as GameMaker, Godot, OpenGL, Unity, Unreal Engine, etc.
 
-#### Unity and C#
+#### <img src="/assets/icon/advanced-domains/Unity.svg" width="24px"/>Unity and C#
 
 > the most user-friendly gaming engine for beginners
 
@@ -385,7 +385,7 @@ For NoSQL
 
 >Use Cases: Transactional systems, business applications, and data integrity-centric tasks.
 
-#### MySQL
+#### <img src="/assets/icon/advanced-domains/Mysql.svg" width="24px"/>MySQL
 
 Beginner
 
@@ -448,7 +448,7 @@ MySQL Internal and Programming
 - MySQL是怎样运行的：从根儿上理解 MySQL by 小孩子4919
 
 
-#### PostgreSQL
+#### <img src="/assets/icon/advanced-domains/Postgresql.svg" width="24px"/>PostgreSQL
 
 - [PostgreSQL Documentation](https://www.postgresql.org/docs/current/index.html)
 - [PostgreSQL Tutorials & Other Resources](https://www.postgresql.org/docs/online-resources/)
@@ -467,7 +467,7 @@ MySQL Internal and Programming
 - [PostgreSQL 14 Internals: A deep dive into the server mechanics](https://postgrespro.com/community/books/internals)
 - The Internals of PostgreSQL by Hironobu Suzuki [online book](https://www.interdb.jp/pg/)
 
-#### Oracle
+#### <img src="/assets/icon/advanced-domains/Oracle.svg" width="24px"/>Oracle
 
 Prime
 
@@ -520,7 +520,7 @@ Tutorials
 
 >Use Cases: Caching, user sessions, shopping carts, and other scenarios where rapid lookups by unique identifiers are essential.
 
-#### Redis
+#### <img src="/assets/icon/advanced-domains/Redis.svg" width="24px"/>Redis
 
 Must Read
 
@@ -554,7 +554,7 @@ Tutorials
 
 >Use Cases: Content management systems, e-commerce applications, real-time analytics, and data that naturally fits into a document structure.
 
-#### MongoDB
+#### <img src="/assets/icon/advanced-domains/Mongodb.svg" width="24px"/>MongoDB
 
 - [MongoDB Documentation](https://www.mongodb.com/docs/)
 - **MongoDB: The Definitive Guide: Powerful and Scalable Data Storage** (3rd, 2019) by Shannon Bradshaw, Eoin Brazil, Kristina Chodorow
@@ -616,7 +616,7 @@ Elastic Stack
 - Learning Elastic Stack 7.0: Distributed search, analytics, and visualization using Elasticsearch, Logstash, Beats, and Kibana (2nd, 2019) by Pranav Shukla and Sharath Kumar M N
 - Getting Started with Elastic Stack 8.0: Run powerful and scalable data platforms to search, observe, and secure your organization (2022) by Asjad Athick 
 
-Elasticsearch
+<img src="/assets/icon/advanced-domains/Elasticsearch.svg" width="24px"/>Elasticsearch
 
 - [Elasticsearch Documentation](https://www.elastic.co/guide/index.html)
 - Elasticsearch: The Definitive Guide: A Distributed Real-Time Search and Analytics Engine (2015) by Clinton Gormley and Zachary Tong
@@ -913,7 +913,7 @@ Middleware - Database Cluster / Big Data
 - [Apache Druid - a high performance real-time analytics database](https://druid.apache.org/)
 - [Apache Pinot - Realtime distributed OLAP datastore](https://pinot.apache.org/)
 
-### Hadoop
+### <img src="/assets/icon/advanced-domains/Hadoop.svg" width="24px"/>Hadoop
 
 - Hadoop: The Definitive Guide by Tom White, Doug Cutting 
 - Hadoop in Action by Chuck Lam
