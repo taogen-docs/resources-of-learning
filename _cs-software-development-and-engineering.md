@@ -864,6 +864,44 @@ General Project Management
 
 - A Guide to the Project Management Body of Knowledge (PMBOK® Guide) (7th, 2021) by Project Management Institute [3.70, 5132]
 
+### Software Project Management Tools
+
+Project management software
+
+- [Jira](https://www.atlassian.com/software/jira). Issue & Project Tracking Software. Jira helps break big ideas down into achievable steps. Organize work, create milestones, map dependencies and more.
+- [YouTrack](https://www.jetbrains.com/youtrack/) by JetBrains. Project management for all your teams. Everything in one place. Track tasks, manage projects, maintain a knowledge base, support your customers, collaborate, and deliver great products.
+- [Trello](https://trello.com/). Manage Your Team's Projects From Anywhere.
+- [Asana](https://asana.com/). Manage your team's work, projects, & tasks online.
+- [Microsoft Project](https://www.microsoft.com/en-us/microsoft-365/project/project-management-software). It is designed to assist a project manager in developing a schedule, assigning resources to tasks, tracking progress, managing the budget, and analyzing workloads.
+- [Basecamp](https://basecamp.com/). Project management software, online collaboration.
+- [Monday.com](https://monday.com/). A new way of working.
+- [Wrike](https://www.wrike.com/). Versatile & Robust Project Management Software.
+- [ClickUp](https://clickup.com/). The everything app for work. One app for projects, knowledge, conversations and more. Get more done faster—together.
+- [Smartsheet](https://www.smartsheet.com/). Modern Project & Work Management Platform.
+- [Notion](https://www.notion.com/). Your connected workspace for wiki, docs & projects. A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team.
+- [Teamwork](https://www.teamwork.com/). The All In One Team Project Management Software.
+- [Airtable](https://www.airtable.com/). The platform to build next‒gen apps. Airtable is a low‒code platform to build next‒gen apps. Move beyond rigid tools, operationalize your critical data, and reimagine workflows with AI.
+- [Paymo](https://www.paymoapp.com/). Manage projects and business tasks, track work time, invoice clients, and measure profitability from one place, wherever you are.
+- [Height](https://height.app/). The autonomous project management tool. Height is the AI project collaboration tool for product teams. Offload chores like bug triage, backlog pruning, and specification updates for good.
+- [禅道](https://www.zentao.net/). 开源、免费的项目研发测试管理工具。专注研发项目管理，内置需求管理、任务管理、bug管理、缺陷管理、用例管理、计划发布等功能，实现了软件的完整生命周期管理及全面支持IPD管理流程，是一款好用的项目管理平台。
+- [飞书](https://www.feishu.cn/). AI 时代先进生产力平台，一站式无缝办公协作，团队上下对齐目标，全面激活组织和个人。先进团队，先用飞书。不仅一站式整合即时沟通、智能日历、音视频会议、飞书文档、云盘等办公协作套件，更提供飞书OKR、飞书招聘、飞书绩效等组织管理产品，让目标更清晰，信息流动更顺畅，每一个人工作更高效更愉悦。先进团队，先用飞书。
+
+Self-hosted project management software
+
+- [Redmine](https://www.redmine.org/). Redmine is a flexible project management web application. Written using the Ruby on Rails framework, it is cross-platform and cross-database.
+- [Taiga](https://taiga.io/). Your opensource agile project management software. The free and open-source project management tool for cross-functional agile teams to work effectively. A featured-rich software that offers a very simple start.
+- [OpenProject](https://www.openproject.org/). Your base for classic, agile or hybrid project management. Boost team productivity and satisfaction with OpenProject, your go-to solution for seamless collaboration in any project management approach. Streamline work, enhance goal clarity, and assign tasks efficiently - all in one centralized platform.
+- [Kanboard](https://kanboard.org/). Kanboard is a free and open source Kanban project management software.
+- [Phabricator](https://www.phacility.com/phabricator/). Discuss. Plan. Code. Review. Test. Every application your project needs, all in one tool.
+- [Focalboard](https://www.focalboard.com/).  Open source alternative to Trello, Asana, and Notion.
+- [Wekan](https://wekan.github.io/). Experience efficient task management with WeKan - the Open-Source, customizable, and privacy-focused kanban.
+- [GitLab](https://about.gitlab.com/). The most-comprehensive AI-powered DevSecOps platform. Balance speed and security in a single platform. Automate software delivery, boost productivity, and secure your end-to-end software supply chain.
+- [ProjectLibre](https://www.projectlibre.com/1-alternative-microsoft-project-open-source). Alternative to Microsoft Project Open Source
+- [Collabtive](https://www.collabtive.com/). Collabtive is web-based project management software. It's an open source alternative to proprietary tools like Basecamp.
+- [MantisBT](https://mantisbt.org/). MantisBT is a popular free web-based bug tracking system.
+- [Lavagna](https://lavagna.io/). Lavagna is an open-source issue/project management tool designed for small teams. Lightweight, easy to install, easy to use.
+
+
 ### Agile
 
 > Agile methodologies, including Scrum, Kanban, and Extreme Programming (XP), prioritize adaptability, collaboration, and iterative development. They involve breaking the project into small increments called "sprints" and focusing on delivering working software in short cycles.
