@@ -900,7 +900,7 @@ Courses
 
 >Python, JavaScript, Ruby, Perl, Bash, Groovy, PHP, Lua, F# and Clojure.
 
-#### Perl
+#### <img src="/assets/icon/programming-languages/Perl.svg" width="24px"/>Perl
 
 /pɜː(r)l/
 
@@ -917,7 +917,7 @@ Courses
 - Higher-Order Perl: Transforming Programs with Programs by Mark Jason Dominus
 - Object Oriented Perl: A Comprehensive Guide to Concepts and Programming Techniques by Damian Conway, Randal L. Schwartz
 
-#### Groovy
+#### <img src="/assets/icon/programming-languages/Groovy.svg" width="24px"/>Groovy
 
 /ˈɡruːvi/
 
@@ -934,7 +934,7 @@ Courses
 - Grails in Action by Glen Smith, Peter Ledbrook
 - The definitive guide to Grails by Graeme Keith Rocher
 
-#### Lua
+#### <img src="/assets/icon/programming-languages/Lua.svg" width="24px"/>Lua
 
 /Loo-uh/
 
@@ -951,7 +951,7 @@ Courses
 
 ### Minority programming languages
 
-#### Clojure
+#### <img src="/assets/icon/programming-languages/Clojure.svg" width="24px"/>Clojure
 
 - [Clojure Documentation](https://clojure.org/guides/getting_started)
 - Clojure for the Brave and True: Learn the Ultimate Language and Become a Better Programmer (2015) by Daniel Higginbotham
@@ -982,7 +982,7 @@ Dependency Management
 
 - [Leiningen](https://leiningen.org/)
 
-#### F#
+#### <img src="/assets/icon/programming-languages/F-sharp.png" width="24px"/>F#
 
 - [F# documentation](https://fsharp.org/learn/)
 - F# in Action (2024) by Isaac Abraham
@@ -995,7 +995,7 @@ Dependency Management
 
 ### Big Data Field
 
-#### Scala
+#### <img src="/assets/icon/programming-languages/Scala.svg" width="24px"/>Scala
 
 - Documentation
   - [Scala Documentation - doc]( https://docs.scala-lang.org/ )
@@ -1016,25 +1016,25 @@ Dependency Management
 
 ### Real-time systems
 
-#### Erlang
+#### <img src="/assets/icon/programming-languages/Erlang.svg" width="24px"/>Erlang
 
 - [Erlang GETTING STARTED - doc](https://www.erlang.org/)
 
 ### Statistical analysis
 
-#### R
+#### <img src="/assets/icon/programming-languages/R.svg" width="24px"/>R
 
 - [R Getting Started - doc](https://www.r-project.org/)
 
 ### Industrial field
 
-#### Visual Basic
+#### <img src="/assets/icon/programming-languages/VisualBasic.svg" width="24px"/>Visual Basic
 
 - [Visual Basic language reference](https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/visual-basic-language-reference)
 
 ### Academic research and education
 
-#### Lisp
+#### <img src="/assets/icon/programming-languages/Lisp.svg" width="24px"/>Lisp
 
 >屠龙之技厉害，奈何龙少。
 
@@ -1050,7 +1050,7 @@ Dependency Management
 - ANSI Common Lisp by Paul Graham
 - The Little Schemer by Daniel P. Friedman and Matthias Felleisen
 
-#### Haskell
+#### <img src="/assets/icon/programming-languages/Haskell.svg" width="24px"/>Haskell
 
 - [Haskell Documentation - doc]( https://www.haskell.org/documentation/ )
 - Learn You a Haskell for Great Good!: A Beginner's Guide by Miran Lipovača [HTML](https://learnyouahaskell.github.io/chapters.html)
@@ -1150,7 +1150,7 @@ Reference [Web Frontend Resources - HTML & CSS](../directions/web-frontend-resou
 
 Prime
 
-- Markdown
+- <img src="/assets/icon/programming-languages/Markdown.svg" width="24px"/>Markdown
 
 Some More
 
