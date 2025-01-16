@@ -426,7 +426,7 @@ Reference [Java Resources](../directions/java-resources.md)
 - Head First Kotlin: A Brain-Friendly Guide by David Griffiths and Dawn Griffiths
 - Fundamental Kotlin by Miloš Vasić
 
-#### <img src="/assets/icon/programming-languages/c-sharp.png" width="20px"/>C#
+#### <img src="/assets/icon/programming-languages/C-sharp.png" width="20px"/>C#
 
 /c sharp/
 
