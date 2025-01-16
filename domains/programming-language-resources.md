@@ -18,7 +18,7 @@
 
 ### Operating-System & Performance
 
-#### <img src="/assets/icon/programming-languages/C.svg" width="24px"/>C
+#### <img src="/assets/icon/programming-languages/C.svg" width="20px"/>C
 
 Primary
 
@@ -48,7 +48,7 @@ Advanced
 - Effective C: An Introduction to Professional C Programming (2020) by Robert C. Seacord
 - Fluent C: Principles, Practices, and Patterns (2022) by Christopher Preschern
 
-#### <img src="/assets/icon/programming-languages/Cpp.svg" width="24px"/>C++
+#### <img src="/assets/icon/programming-languages/Cpp.svg" width="20px"/>C++
 
 /cee plus plus/
 
@@ -201,7 +201,7 @@ C++ 不是特殊场景，一般不会用它。1. 它太难掌握，对开发要�
 </details>
 
 
-#### <img src="/assets/icon/programming-languages/Rust.svg" width="24px"/>Rust
+#### <img src="/assets/icon/programming-languages/Rust.svg" width="20px"/>Rust
 
 /rʌst/
 
@@ -256,7 +256,7 @@ Tools
 
 ### Infrastructure & Balanced
 
-#### <img src="/assets/icon/programming-languages/Go.svg" width="24px"/>Go [📈](https://www.tiobe.com/tiobe-index/go/)
+#### <img src="/assets/icon/programming-languages/Go.svg" width="20px"/>Go [📈](https://www.tiobe.com/tiobe-index/go/)
 
 Guidance & Roadmap
 
@@ -404,13 +404,13 @@ Tools
 
 ### Application & Productivity
 
-#### <img src="/assets/icon/programming-languages/Java.svg" width="24px"/>Java
+#### <img src="/assets/icon/programming-languages/Java.svg" width="20px"/>Java
 
 /ˈdʒɑːvə/
 
 Reference [Java Resources](../directions/java-resources.md)
 
-#### <img src="/assets/icon/programming-languages/Kotlin.svg" width="24px"/>Kotlin 📈
+#### <img src="/assets/icon/programming-languages/Kotlin.svg" width="20px"/>Kotlin 📈
 
 /ˈkɒtlɪn/
 
@@ -426,7 +426,7 @@ Reference [Java Resources](../directions/java-resources.md)
 - Head First Kotlin: A Brain-Friendly Guide by David Griffiths and Dawn Griffiths
 - Fundamental Kotlin by Miloš Vasić
 
-#### <img src="/assets/icon/programming-languages/c-sharp.png" width="24px"/>C#
+#### <img src="/assets/icon/programming-languages/c-sharp.png" width="20px"/>C#
 
 /c sharp/
 
@@ -485,7 +485,7 @@ Tools
 - IDE: Rider, Visual Studio Code
 - Package Management: [NuGet](https://www.nuget.org/)
 
-#### <img src="/assets/icon/programming-languages/Python.svg" width="24px"/>Python 📈
+#### <img src="/assets/icon/programming-languages/Python.svg" width="20px"/>Python 📈
 
 /ˈpaɪθɑːn/
 
@@ -636,7 +636,7 @@ Application Projects
 
 - [feapder](https://github.com/Boris-code/feapder) 一款上手简单，功能强大的Python爬虫框架。
 
-#### <img src="/assets/icon/programming-languages/Ruby.svg" width="24px"/>Ruby 📉
+#### <img src="/assets/icon/programming-languages/Ruby.svg" width="20px"/>Ruby 📉
 
 /ˈruːbi/
 
@@ -687,7 +687,7 @@ Tools
 - IDE: RubyMine, Visual Studio Code
 - Package Management: [RubyGems](https://rubygems.org/)
 
-#### <img src="/assets/icon/programming-languages/Php.svg" width="24px"/>PHP 📉
+#### <img src="/assets/icon/programming-languages/Php.svg" width="20px"/>PHP 📉
 
 Primary
 
@@ -776,17 +776,17 @@ Application Projects
 - [CRMEB](https://github.com/crmeb/CRMEB) CRMEB开源商城免费开源多语言商城系统，Tp6框架商城
 - [ThinkAdmin](https://github.com/zoujingli/ThinkAdmin) 基于 ThinkPHP6 的极简后台管理系统
 
-#### <img src="/assets/icon/frontend/Nodejs.svg" width="24px"/>Node.js (JavaScript)
+#### <img src="/assets/icon/frontend/Nodejs.svg" width="20px"/>Node.js (JavaScript)
 
 Reference [Web Frontend Resources - Node.js](../directions/web-frontend-resources.md#nodejs)
 
 ### Client Application
 
-#### <img src="/assets/icon/programming-languages/JavaScript.svg" width="24px"/>JavaScript 📈
+#### <img src="/assets/icon/programming-languages/JavaScript.svg" width="20px"/>JavaScript 📈
 
 Reference [Web Frontend Resources - JavaScript](../directions/web-frontend-resources.md#js_t)
 
-#### <img src="/assets/icon/programming-languages/Android.svg" width="24px"/>Android
+#### <img src="/assets/icon/programming-languages/Android.svg" width="20px"/>Android
 
 - [Android Documentation - doc](https://developer.android.com/docs)
 - Android Programming: The Big Nerd Ranch Guide by Brian Hardy, Bill Phillips
@@ -808,7 +808,7 @@ Android Studio
 
 
 
-#### <img src="/assets/icon/programming-languages/Apple.svg" width="24px"/>Objective-C
+#### <img src="/assets/icon/programming-languages/Apple.svg" width="20px"/>Objective-C
 
 - Documentation
   - [Programming with Objective-C - doc]( https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html )
@@ -828,7 +828,7 @@ Courses
 
 - [CS193p - Developing Apps for iOS](https://cs193p.sites.stanford.edu/) by Stanford University
 
-#### <img src="/assets/icon/programming-languages/Swift.svg" width="24px"/>Swift
+#### <img src="/assets/icon/programming-languages/Swift.svg" width="20px"/>Swift
 
 - Documentation
   - [Swift Documentation - doc]( https://swift.org/documentation/ )
@@ -840,13 +840,13 @@ Courses
 - IOS 10 Programming Fundamentals with Swift: Swift, Xcode, and Cocoa Basics by Matt Neuburg
 - Swift 5 for Absolute Beginners: Learn to Develop Apps for iOS by Stefan Kaczmarek, Brad Lees, Gary Bennett
 
-#### <img src="/assets/icon/programming-languages/Windows.svg" width="24px"/>Windows Desktop Applications
+#### <img src="/assets/icon/programming-languages/Windows.svg" width="20px"/>Windows Desktop Applications
 
 - `C#` + [Windows Forms](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/) or [WPF (Windows Presentation Foundation)](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/)
 - `C++` + [Win32 API](https://learn.microsoft.com/en-us/windows/win32/api/)、[MFC](https://learn.microsoft.com/en-us/cpp/mfc/mfc-desktop-applications) or Qt
 - [Visual Basic .NET](https://learn.microsoft.com/en-us/dotnet/visual-basic/)
 
-#### <img src="/assets/icon/programming-languages/Linux.svg" width="24px"/>Linux Desktop Applications
+#### <img src="/assets/icon/programming-languages/Linux.svg" width="20px"/>Linux Desktop Applications
 
 - C/C++
   - GTK+
@@ -900,7 +900,7 @@ Courses
 
 >Python, JavaScript, Ruby, Perl, Bash, Groovy, PHP, Lua, F# and Clojure.
 
-#### <img src="/assets/icon/programming-languages/Perl.svg" width="24px"/>Perl
+#### <img src="/assets/icon/programming-languages/Perl.svg" width="20px"/>Perl
 
 /pɜː(r)l/
 
@@ -917,7 +917,7 @@ Courses
 - Higher-Order Perl: Transforming Programs with Programs by Mark Jason Dominus
 - Object Oriented Perl: A Comprehensive Guide to Concepts and Programming Techniques by Damian Conway, Randal L. Schwartz
 
-#### <img src="/assets/icon/programming-languages/Groovy.svg" width="24px"/>Groovy
+#### <img src="/assets/icon/programming-languages/Groovy.svg" width="20px"/>Groovy
 
 /ˈɡruːvi/
 
@@ -934,7 +934,7 @@ Courses
 - Grails in Action by Glen Smith, Peter Ledbrook
 - The definitive guide to Grails by Graeme Keith Rocher
 
-#### <img src="/assets/icon/programming-languages/Lua.svg" width="24px"/>Lua
+#### <img src="/assets/icon/programming-languages/Lua.svg" width="20px"/>Lua
 
 /Loo-uh/
 
@@ -951,7 +951,7 @@ Courses
 
 ### Minority programming languages
 
-#### <img src="/assets/icon/programming-languages/Clojure.svg" width="24px"/>Clojure
+#### <img src="/assets/icon/programming-languages/Clojure.svg" width="20px"/>Clojure
 
 - [Clojure Documentation](https://clojure.org/guides/getting_started)
 - Clojure for the Brave and True: Learn the Ultimate Language and Become a Better Programmer (2015) by Daniel Higginbotham
@@ -982,7 +982,7 @@ Dependency Management
 
 - [Leiningen](https://leiningen.org/)
 
-#### <img src="/assets/icon/programming-languages/F-sharp.png" width="24px"/>F#
+#### <img src="/assets/icon/programming-languages/F-sharp.png" width="20px"/>F#
 
 - [F# documentation](https://fsharp.org/learn/)
 - F# in Action (2024) by Isaac Abraham
@@ -995,7 +995,7 @@ Dependency Management
 
 ### Big Data Field
 
-#### <img src="/assets/icon/programming-languages/Scala.svg" width="24px"/>Scala
+#### <img src="/assets/icon/programming-languages/Scala.svg" width="20px"/>Scala
 
 - Documentation
   - [Scala Documentation - doc]( https://docs.scala-lang.org/ )
@@ -1016,25 +1016,25 @@ Dependency Management
 
 ### Real-time systems
 
-#### <img src="/assets/icon/programming-languages/Erlang.svg" width="24px"/>Erlang
+#### <img src="/assets/icon/programming-languages/Erlang.svg" width="20px"/>Erlang
 
 - [Erlang GETTING STARTED - doc](https://www.erlang.org/)
 
 ### Statistical analysis
 
-#### <img src="/assets/icon/programming-languages/R.svg" width="24px"/>R
+#### <img src="/assets/icon/programming-languages/R.svg" width="20px"/>R
 
 - [R Getting Started - doc](https://www.r-project.org/)
 
 ### Industrial field
 
-#### <img src="/assets/icon/programming-languages/VisualBasic.svg" width="24px"/>Visual Basic
+#### <img src="/assets/icon/programming-languages/VisualBasic.svg" width="20px"/>Visual Basic
 
 - [Visual Basic language reference](https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/visual-basic-language-reference)
 
 ### Academic research and education
 
-#### <img src="/assets/icon/programming-languages/Lisp.svg" width="24px"/>Lisp
+#### <img src="/assets/icon/programming-languages/Lisp.svg" width="20px"/>Lisp
 
 >屠龙之技厉害，奈何龙少。
 
@@ -1050,7 +1050,7 @@ Dependency Management
 - ANSI Common Lisp by Paul Graham
 - The Little Schemer by Daniel P. Friedman and Matthias Felleisen
 
-#### <img src="/assets/icon/programming-languages/Haskell.svg" width="24px"/>Haskell
+#### <img src="/assets/icon/programming-languages/Haskell.svg" width="20px"/>Haskell
 
 - [Haskell Documentation - doc]( https://www.haskell.org/documentation/ )
 - Learn You a Haskell for Great Good!: A Beginner's Guide by Miran Lipovača [HTML](https://learnyouahaskell.github.io/chapters.html)
@@ -1150,7 +1150,7 @@ Reference [Web Frontend Resources - HTML & CSS](../directions/web-frontend-resou
 
 Prime
 
-- <img src="/assets/icon/programming-languages/Markdown.svg" width="24px"/>Markdown
+- <img src="/assets/icon/programming-languages/Markdown.svg" width="20px"/>Markdown
 
 Some More
 
