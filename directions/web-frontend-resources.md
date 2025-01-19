@@ -910,7 +910,7 @@ WebAssembly with C#
 - Learning Blazor: Build Single-Page Apps with WebAssembly and C# (2022) by David Pine
 
 
-## Static site generator (SSG)
+## Static Site Generator (SSG)
 
 **Docusaurus**
 
@@ -918,6 +918,13 @@ WebAssembly with C#
 
 - [Docusaurus](https://docusaurus.io/) - Build optimized websites quickly, focus on your content.
 
+**VitePress**
+
+- [VitePress](https://vitepress.dev/) - Vite & Vue Powered Static Site Generator
+
+**Docsify**
+
+- [Docsify](https://docsify.js.org/#/) - A magical documentation site generator.
 
 <br>
 
