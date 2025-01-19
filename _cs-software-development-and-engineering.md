@@ -708,8 +708,9 @@ Best CI/CD Tools in DevOps
 
 Docker compose.yaml examples
 
-- [dockge](https://github.com/louislam/dockge). A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
-- [Bitnami container images](https://github.com/bitnami/containers/tree/main/bitnami)
+- [dockge - GitHub](https://github.com/louislam/dockge). A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
+- [Bitnami container images - GitHub](https://github.com/bitnami/containers/tree/main/bitnami)
+- [docker/awesome-compose - GitHub](https://github.com/docker/awesome-compose)
 
 Docker tools
 
