@@ -43,6 +43,7 @@
 - <a name="tools_c" href="#tools_t">Tools</a>
   - *Snowpack
   - *WebAssembly
+- Static site generator (SSG)
 - <a name="fullstack_c" href="#fullstack_t">Full Stack Web Development</a>
   - <a name="node_c" href="#node_t">Node.js</a>
   - *Deno
@@ -214,6 +215,21 @@ Website templates
 - [Webflow](https://webflow.com/free-website-templates)
 - [Envato](https://elements.envato.com/web-templates)
 - [模板王](https://www.mobanwang.com/). 10000+HTML网站模板免费下载
+
+
+### SVG
+
+- [SVG Tutorial - MDN](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial)
+- [SVG Tutorial - W3Shcools](https://www.w3schools.com/graphics/svg_intro.asp)
+- [SVG Tutorial](https://svg-tutorial.com/)
+- [SVG Tutorial – How to Code Images with 12 Examples](https://www.freecodecamp.org/news/svg-tutorial-learn-to-code-images/)
+- SVG Essentials: Producing Scalable Vector Graphics with XML (2nd, 2014) by J. David Eisenberg, Amelia Bellamy-Royds
+- Using SVG with CSS3 and HTML5: Vector Graphics for Web Design (2017) by Amelia Bellamy-Royds , Kurt Cagle
+- SVG Animations: From Common UX Implementations to Complex Responsive Animation (2017) by Sarah Drasner
+- Generative Art with JavaScript and SVG: Utilizing Scalable Vector Graphics and Algorithms for Creative Coding and Design (2024) by David Matthew
+- Beginning SVG: A Practical Introduction to SVG using Real-World Examples (2018) by Alex Libby
+- Learn How To Create SVG Cut Files: Bring Your Designs To Life (2020) by Karen Lindeman
+- Mastering SVG: Ace web animations, visualizations, and vector graphics with HTML, CSS, and JavaScript (2018) by Rob Larsen
 
 <br>
 
@@ -551,6 +567,14 @@ Vue.js Admin Dashboard Templates
 - [SolidJS](https://www.solidjs.com/). Simple and performant reactivity for building user interfaces. 
 
 
+**Alpine.js**
+
+![GitHub Repo stars](https://img.shields.io/github/stars/alpinejs/alpine)  ![GitHub last commit](https://img.shields.io/github/last-commit/alpinejs/alpine)   ![GitHub contributors](https://img.shields.io/github/contributors/alpinejs/alpine)  ![GitHub Created At](https://img.shields.io/github/created-at/alpinejs/alpine) ![NPM Downloads](https://img.shields.io/npm/dw/alpinejs)
+
+
+- [Alpine.js](https://alpinejs.dev/) - Your new, lightweight, JavaScript framework. A rugged, minimal framework for composing JavaScript behavior in your markup.
+
+
 **Backbone.js**
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/jashkenas/backbone)  ![GitHub last commit](https://img.shields.io/github/last-commit/jashkenas/backbone)   ![GitHub contributors](https://img.shields.io/github/contributors/jashkenas/backbone)  ![GitHub Created At](https://img.shields.io/github/created-at/jashkenas/backbone) ![NPM Downloads](https://img.shields.io/npm/dw/backbone)
@@ -590,6 +614,19 @@ Vue.js Admin Dashboard Templates
 ![GitHub Repo stars](https://img.shields.io/github/stars/lit/lit)  ![GitHub last commit](https://img.shields.io/github/last-commit/lit/lit)   ![GitHub contributors](https://img.shields.io/github/contributors/lit/lit)  ![GitHub Created At](https://img.shields.io/github/created-at/lit/lit) ![NPM Downloads](https://img.shields.io/npm/dw/lit)
 
 - [Lit](https://lit.dev/) - A simple library for building fast, lightweight web components.
+
+**Stencil.js**
+
+
+![GitHub Repo stars](https://img.shields.io/github/stars/ionic-team/stencil)  ![GitHub last commit](https://img.shields.io/github/last-commit/ionic-team/stencil)   ![GitHub contributors](https://img.shields.io/github/contributors/ionic-team/stencil)  ![GitHub Created At](https://img.shields.io/github/created-at/ionic-team/stencil) ![NPM Downloads](https://img.shields.io/npm/dw/stencil)
+
+- [Stencil.js](https://stenciljs.com/) - Build. Customize. Distribute. Adopt.
+
+**htmx**
+
+![GitHub Repo stars](https://img.shields.io/github/stars/bigskysoftware/htmx)  ![GitHub last commit](https://img.shields.io/github/last-commit/bigskysoftware/htmx)   ![GitHub contributors](https://img.shields.io/github/contributors/bigskysoftware/htmx)  ![GitHub Created At](https://img.shields.io/github/created-at/bigskysoftware/htmx) ![NPM Downloads](https://img.shields.io/npm/dw/htmx.org)
+
+- [htmx](https://htmx.org/) - High power tools for html. Htmx allows you to access AJAX, CSS Transitions, WebSockets and Server Sent Events directly in HTML, using attributes, so you can build modern user interfaces with the simplicity and power of hypertext.
 
 <br>
 <h2><a name="headless_ui_t" href="#headless_ui_c">Headless UI</a></h2>
@@ -872,6 +909,16 @@ WebAssembly with C#
 - Mastering Blazor WebAssembly: A step-by-step guide to developing advanced single-page applications with Blazor WebAssembly (2023) by Ahmad Mozaffar 
 - Learning Blazor: Build Single-Page Apps with WebAssembly and C# (2022) by David Pine
 
+
+## Static site generator (SSG)
+
+**Docusaurus**
+
+![GitHub Repo stars](https://img.shields.io/github/stars/facebook/docusaurus)  ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/docusaurus)   ![GitHub contributors](https://img.shields.io/github/contributors/facebook/docusaurus)  ![GitHub Created At](https://img.shields.io/github/created-at/facebook/docusaurus) ![NPM Downloads](https://img.shields.io/npm/dw/docusaurus)
+
+- [Docusaurus](https://docusaurus.io/) - Build optimized websites quickly, focus on your content.
+
+
 <br>
 
 <h2><a name="fullstack_t" href="#fullstack_c">Full Stack Web Development</a></h2>
@@ -927,7 +974,7 @@ Interview questions
 
 > In terms of structure, Fastify is pretty much the same thing as Express. NestJS is a lot of glue code and boilerplate on top of Express or Fastify.
 
-#### Express.js
+**Express.js**
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/expressjs/express)  ![GitHub last commit](https://img.shields.io/github/last-commit/expressjs/express)   ![GitHub contributors](https://img.shields.io/github/contributors/expressjs/express)  ![GitHub Created At](https://img.shields.io/github/created-at/expressjs/express)  ![NPM Downloads](https://img.shields.io/npm/dw/express)
 
@@ -935,25 +982,19 @@ Interview questions
 - Express in Action: Node Applications with Express and Its Companion Tools by Evan Hahn
 - Web Development with Node and Express: Leveraging the JavaScript Stack by Ethan Brown
 
-#### Meteor
-
-![GitHub Repo stars](https://img.shields.io/github/stars/meteor/meteor)  ![GitHub last commit](https://img.shields.io/github/last-commit/meteor/meteor)   ![GitHub contributors](https://img.shields.io/github/contributors/meteor/meteor)  ![GitHub Created At](https://img.shields.io/github/created-at/meteor/meteor) ![NPM Downloads](https://img.shields.io/npm/dw/meteor)
-
-- [Meteor](https://www.meteor.com/) - The full-stack JavaScript framework for real-time apps.
-
-#### Koa.js
+**Koa.js**
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/koajs/koa)  ![GitHub last commit](https://img.shields.io/github/last-commit/koajs/koa)   ![GitHub contributors](https://img.shields.io/github/contributors/koajs/koa)  ![GitHub Created At](https://img.shields.io/github/created-at/koajs/koa) ![NPM Downloads](https://img.shields.io/npm/dw/koa)
 
 - [Koa.js](https://koajs.com/) - Next generation web framework for node.js.
 
-#### Fastify
+**Fastify**
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/fastify/fastify)  ![GitHub last commit](https://img.shields.io/github/last-commit/fastify/fastify)   ![GitHub contributors](https://img.shields.io/github/contributors/fastify/fastify)  ![GitHub Created At](https://img.shields.io/github/created-at/fastify/fastify) ![NPM Downloads](https://img.shields.io/npm/dw/fastify)
 
 - [Fastify](https://fastify.dev/) - Fast and low overhead web framework, for Node.js.
 
-#### Nest.js
+**Nest.js**
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/nestjs/nest)  ![GitHub last commit](https://img.shields.io/github/last-commit/nestjs/nest)   ![GitHub contributors](https://img.shields.io/github/contributors/nestjs/nest)  ![GitHub Created At](https://img.shields.io/github/created-at/nestjs/nest) ![NPM Downloads](https://img.shields.io/npm/dw/@nestjs/core)
 
@@ -963,27 +1004,42 @@ Interview questions
 
 - [Nest.js](https://nestjs.com/) - A progressive Node.js framework for building efficient, reliable and scalable server-side applications.
 
-#### tRPC
-
-![GitHub Repo stars](https://img.shields.io/github/stars/trpc/trpc)  ![GitHub last commit](https://img.shields.io/github/last-commit/trpc/trpc)   ![GitHub contributors](https://img.shields.io/github/contributors/trpc/trpc)  ![GitHub Created At](https://img.shields.io/github/created-at/trpc/trpc) ![NPM Downloads](https://img.shields.io/npm/dw/@trpc/server)
-
-- [tRPC](https://trpc.io/) - Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
-
-#### Astro
+**Astro**
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/withastro/astro)  ![GitHub last commit](https://img.shields.io/github/last-commit/withastro/astro)   ![GitHub contributors](https://img.shields.io/github/contributors/withastro/astro)  ![GitHub Created At](https://img.shields.io/github/created-at/withastro/astro)  ![NPM Downloads](https://img.shields.io/npm/dw/astro)
 
 - [Astro](https://astro.build/) - The web framework for content-driven websites. Astro powers the world's fastest marketing sites, blogs, e-commerce websites, and more.
 
-#### Remix
+**Remix**
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/remix-run/remix)  ![GitHub last commit](https://img.shields.io/github/last-commit/remix-run/remix)   ![GitHub contributors](https://img.shields.io/github/contributors/remix-run/remix)  ![GitHub Created At](https://img.shields.io/github/created-at/remix-run/remix) ![NPM Downloads](https://img.shields.io/npm/dw/remix)
 
 - [Remix](https://remix.run/) - Build Better Websites.
 
+
+**Meteor**
+
+![GitHub Repo stars](https://img.shields.io/github/stars/meteor/meteor)  ![GitHub last commit](https://img.shields.io/github/last-commit/meteor/meteor)   ![GitHub contributors](https://img.shields.io/github/contributors/meteor/meteor)  ![GitHub Created At](https://img.shields.io/github/created-at/meteor/meteor) ![NPM Downloads](https://img.shields.io/npm/dw/meteor)
+
+- [Meteor](https://www.meteor.com/) - The full-stack JavaScript framework for real-time apps.
+
+**tRPC**
+
+![GitHub Repo stars](https://img.shields.io/github/stars/trpc/trpc)  ![GitHub last commit](https://img.shields.io/github/last-commit/trpc/trpc)   ![GitHub contributors](https://img.shields.io/github/contributors/trpc/trpc)  ![GitHub Created At](https://img.shields.io/github/created-at/trpc/trpc) ![NPM Downloads](https://img.shields.io/npm/dw/@trpc/server)
+
+- [tRPC](https://trpc.io/) - Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
+
+### Headless CMS
+
+**Strapi**
+
+![GitHub Repo stars](https://img.shields.io/github/stars/strapi/strapi)  ![GitHub last commit](https://img.shields.io/github/last-commit/strapi/strapi)   ![GitHub contributors](https://img.shields.io/github/contributors/strapi/strapi)  ![GitHub Created At](https://img.shields.io/github/created-at/strapi/strapi) ![NPM Downloads](https://img.shields.io/npm/dw/strapi)
+
+- [Strapi](https://strapi.io/) - Open source Node.js Headless CMS. Build modern websites with the most customizable Headless CMS.
+
 ### Full Stack Frameworks of Deno
 
-#### Hono
+**Hono**
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/honojs/hono)  ![GitHub last commit](https://img.shields.io/github/last-commit/honojs/hono)   ![GitHub contributors](https://img.shields.io/github/contributors/honojs/hono)  ![GitHub Created At](https://img.shields.io/github/created-at/honojs/hono) ![NPM Downloads](https://img.shields.io/npm/dw/hono)
 
@@ -991,10 +1047,9 @@ Interview questions
 
 - [Hono](https://hono.dev/) - Ultrafast web framework for the Edges. Fast, lightweight, built on Web Standards. Support for any JavaScript runtime.
 
+### React-Based Full Stack Frameworks
 
-### Full Stack Frameworks with React
-
-#### Next.js
+**Next.js**
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/vercel/next.js)  ![GitHub last commit](https://img.shields.io/github/last-commit/vercel/next.js)   ![GitHub contributors](https://img.shields.io/github/contributors/vercel/next.js)  ![GitHub Created At](https://img.shields.io/github/created-at/vercel/next.js) ![NPM Downloads](https://img.shields.io/npm/dw/next)
 
@@ -1006,15 +1061,30 @@ Interview questions
 - Beginning Next.js Development: Learn NextJS and Build a Full Stack Dynamic Application Using React, NextJS, TailwindCSS, and MongoDB (2024) by Nathan Sebhastian
 - Dynamic Trio: Building Web Applications with React, Next.js & Tailwind (2023) by Grace Huang
 
-### Full Stack Frameworks with Vue.js
+**Gatsby**
 
-#### Nuxt
+
+![GitHub Repo stars](https://img.shields.io/github/stars/gatsbyjs/gatsby)  ![GitHub last commit](https://img.shields.io/github/last-commit/gatsbyjs/gatsby)   ![GitHub contributors](https://img.shields.io/github/contributors/gatsbyjs/gatsby)  ![GitHub Created At](https://img.shields.io/github/created-at/gatsbyjs/gatsby) ![NPM Downloads](https://img.shields.io/npm/dw/gatsby)
+
+- [Gatsby](https://www.gatsbyjs.com/) - The Best React-Based Framework.
+
+### Vue-Based Full Stack Frameworks
+
+**Nuxt**
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/nuxt/nuxt)  ![GitHub last commit](https://img.shields.io/github/last-commit/nuxt/nuxt)   ![GitHub contributors](https://img.shields.io/github/contributors/nuxt/nuxt)  ![GitHub Created At](https://img.shields.io/github/created-at/nuxt/nuxt) ![NPM Downloads](https://img.shields.io/npm/dw/nuxt)
 
 >Nuxt.js is a framework built on top of Vue.js for creating universal (SSR) and static websites. It simplifies the development process by providing conventions and features like automatic routing, server-side rendering, and static site generation.
 
 - [Nuxt](https://nuxt.com/) - Nuxt is an open source framework that makes web development intuitive and powerful. Create performant and production-grade full-stack web apps and websites with confidence.
+
+### Svelte-Based Full Stack Frameworks
+
+**SvelteKit**
+
+![GitHub Repo stars](https://img.shields.io/github/stars/sveltejs/kit)  ![GitHub last commit](https://img.shields.io/github/last-commit/sveltejs/kit)   ![GitHub contributors](https://img.shields.io/github/contributors/sveltejs/kit)  ![GitHub Created At](https://img.shields.io/github/created-at/sveltejs/kit) ![NPM Downloads](https://img.shields.io/npm/dw/@sveltejs/kit)
+
+- [SvelteKit](https://svelte.dev/docs/kit/introduction) - A framework for rapidly developing robust, performant web applications using Svelte.
 
 ### ORM frameworks
 
