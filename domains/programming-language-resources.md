@@ -867,6 +867,8 @@ Courses
 	- [Apache Cordova](https://cordova.apache.org/) / PhoneGap (2009)
 - Dart
 	- [Flutter](https://flutter.dev/) (2017) by Google
+- Rust
+	- [Tauri](https://tauri.app/) (2020)
 - C#
 	- [Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin) (2011)
 	- [Unity](https://unity.com/) (2005)

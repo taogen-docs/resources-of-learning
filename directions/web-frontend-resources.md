@@ -468,6 +468,22 @@ React Ecosystem
 - Learning Redux: Write maintainable, consistent, and easy-to-test web applications by Daniel Bugl
 - Learn React Hooks: Build and refactor modern React.js applications using Hooks by Daniel Bugl
 
+UI component library
+
+- [Material UI](https://mui.com/)
+- [Chakra UI](https://chakra-ui.com/)
+- [Ant Design](https://ant.design/) (antd)
+
+Headless UI library
+
+- [shadcn/ui](https://ui.shadcn.com/). 
+- [Radix UI](https://www.radix-ui.com/)
+
+Note
+
+1. shdcn/ui is NOT a component library. When you take a component from shadcn/ui, from that moment it becomes YOUR component. If there’s a problem, well, it’s YOUR problem. Unlike the other UI libraries we’re used to deal with where bugs are fixed with npm update, this is not exactly the case with shadcn.
+2. shdcn/ui is built on top of radix, what happens if radix has a bug? The easy answer is that you can simply update it and the bug is gone, but then what if something else breaks on shad because of the radix update? Maybe it’s not gonna happen that often, but as mentioned, if there’s a bug, it’s your problem.
+
 React Interview Questions
 
 - [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)
@@ -863,6 +879,10 @@ Package Management (let you take advantage of a vast ecosystem of third-party pa
 - [npm](https://www.npmjs.com/)
 - [Yarn](https://yarnpkg.com/)
 - [pnpm](https://pnpm.io/)
+
+CLI tools
+
+- [npx](https://docs.npmjs.com/cli/v8/commands/npx). It is a command-line tool that is bundled with npm (Node Package Manager) version 5.2.0 and higher. It is used to execute packages from the npm registry without needing to install them globally on your machine first.
 
 Build Tools
 
