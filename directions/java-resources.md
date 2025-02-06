@@ -405,13 +405,13 @@ Spring Boot 3.x
 
 - JDK 17+
 - mybatis-spring-boot-starter v3+
-- mybatis-plus-boot-starter: latest version
+- mybatis-plus-spring-boot3-starter
 
 Spring Boot 2.x
 
 - JDK 8~21
 - mybatis-spring-boot-starter v2.x
-- mybatis-plus-spring-boot3-starter: latest version
+- mybatis-plus-boot-starter
 
 #### Dropwizard
 
