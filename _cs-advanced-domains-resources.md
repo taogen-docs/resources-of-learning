@@ -92,6 +92,10 @@ API Authorization
 - NGINX Cookbook: Over 70 recipes for real-world configuration, deployment, and performance (2017) by Tim Butler
 - 深入理解Nginx by  陶辉 
 
+Nginx resources
+
+- [NGINXConfig - DigitalOcean](https://www.digitalocean.com/community/tools/nginx).The easiest way to configure a performant, secure, and stable NGINX server.
+
 Nginx Unit
 
 - [Learn NGINX Unit with Zero Pain - YouTube](https://www.youtube.com/playlist?list=PLGz_X9w9raXdV3vuPUu0kKBSBjG9rPaUf)

@@ -974,6 +974,10 @@ WebAssembly with C#
 - Professional Node.Js: Building JavaScript Based Scalable Software by Pedro Teixeira
 - Learning Node by Shelley Powers
 
+Best practices
+
+- [Node.js Best Practices - GitHub](https://github.com/goldbergyoni/nodebestpractices)
+
 Interview questions
 
 - [Node.js Questions - Roadmap](https://roadmap.sh/questions/nodejs)
