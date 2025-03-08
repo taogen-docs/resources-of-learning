@@ -153,19 +153,29 @@ Debugging
 
 Official Chatbot
 
-|Chatbot|Model|Features|
-|---|---|---|
-|[ChatGPT by Open AI](https://chat.openai.com/)|GPT-3.5, GPT-4 |Best overall|
-|[Microsoft Copilot Pro](https://www.microsoft.com/en-us/store/b/copilotpro)|GPT-4 |Web Search|
-|[Bard by Google](https://bard.google.com/chat)|Gemini Pro|Integration with Google apps|
-|[Claude by Anthropic](https://claude.ai)|Claude|Longest conversation memory|
-
+| Chatbot                                                                     | Model          | Features                     |
+|-----------------------------------------------------------------------------|----------------|------------------------------|
+| [ChatGPT by Open AI](https://chatgpt.com/)                              | GPT-3.5, GPT-4 | Best overall                 |
+| [Microsoft Copilot Pro](https://www.microsoft.com/en-us/store/b/copilotpro) | GPT-4          | Web Search                   |
+| [Gemini by Google](https://gemini.google.com/app)  (Bard)                   | Gemini Pro     | Integration with Google apps |
+| [Claude by Anthropic](https://claude.ai)                                    | Claude         | Longest conversation memory  |
 
 Chatbot wrapper
 
 - [Perplexity AI](https://www.perplexity.ai/). Web search.
 - [YouChat](https://you.com/). Web search.
-- [Poe](https://poe.com/). Multiple AI models. 
+- [Poe](https://poe.com/). Multiple AI models.
+
+Chinese AI Chatbot
+
+| Chatbot                                          | Model                                              | Features   |
+|--------------------------------------------------|----------------------------------------------------|------------|
+| [DeepSeek](https://chat.deepseek.com/) by 杭州深度求索 | DeepSeek-R1, DeepSeek-V3                           |            |
+| [Kimi](https://kimi.moonshot.cn/) by 月之暗面        |                                                    |            |
+| [通义](https://tongyi.aliyun.com/) by 阿里巴巴         | qwq-plus, qwen-max, qwen-turbo                     | Web Search |
+| [豆包](https://www.doubao.com/chat/) by 字节跳动       | doubao-1.5-pro, doubao-1.5-lite, doubao-1.5-vision |            |
+| [智谱清言](https://chatglm.cn/) by 北京智谱华章            | ChatGLM2                                           |            |
+| [文心一言](https://yiyan.baidu.com/) by 百度           | ERNIE Bot                                          |            |
 
 #### AI Models
 
