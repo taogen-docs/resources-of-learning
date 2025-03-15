@@ -597,6 +597,7 @@ Resources
 - [Python Tips](https://pythontips.com/)
 - [Full Stack Python](https://www.fullstackpython.com/)
 - [TheAlgorithms/Python - GitHub](https://github.com/TheAlgorithms/Python)
+- [Pythonium](https://pythonium.net/)
 
 Libraries
 
