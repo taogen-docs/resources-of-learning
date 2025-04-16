@@ -167,6 +167,7 @@ For Interview
 - 编程之美 (2008) by 《编程之美》小组
 - 程序员代码面试指南：IT名企算法与数据结构题目最优解 (2015) by 左程云
 - [超全算法笔试 模拟题精解合集 - 阿里云](https://developer.aliyun.com/ebook/7015)
+- [一周刷爆LeetCode，算法大神左神（左程云）耗时100天打造算法与数据结构基础到高级全家桶教程，直击BTAJ等一线大厂必问算法面试题真题详解](https://www.bilibili.com/video/BV13g41157hK/)
 
 For Programming Contest
 

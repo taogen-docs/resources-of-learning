@@ -530,6 +530,18 @@ Some more
 - Restful Java with Jax-RS by Bill Burke
 - Restlet in Action: Developing RESTful web APIs in Java by Jerome Louvel, Thierry Templier, Thierry Boileau
 
+#### Spring Boot + K8S + Istio
+
+- Cloud Native Spring in Action: with Spring Boot and Kubernetes (2022) by Thomas Vitale
+- Microservices with Spring Boot 3 and Spring Cloud: Build resilient and scalable microservices using Spring Cloud, Istio, and Kubernetes (3rd, 2023) by Magnus Larsson
+
+Courses
+
+- [Spring Boot + Kubernetes Tutorial](https://www.youtube.com/watch?v=pGbBuwzyiV4&list=PLuNxlOYbv61h66_QlcjCEkVAj6RdeplJJ) (2022) by SivaLabs
+- [Microservices Mastery: Spring Boot 3, Docker & Kubernetes E2E Series](https://www.youtube.com/watch?v=42HujbYEtro&list=PLAZHf0fSXoc_ur6_zkQQlu2eVfBwSXtpU) (2024) by John Ongwae
+- [都2025年了，你还在用 Spring Cloud吗？](https://www.bilibili.com/video/BV13MoPYVEuC/)
+- [完整版Kubernetes（K8S）全套入门+微服务实战项目，带你一站式深入掌握K8S核心能力](https://www.bilibili.com/video/BV1MT411x7GH/)
+
 #### <img src="/assets/icon/java/Spring.svg" width="24px"/>Spring Cloud
 
 > Spring Cloud provides a suite of tools for the discovery, routing, and deployment of microservices to the enterprise and the cloud.
@@ -537,15 +549,65 @@ Some more
 - Spring Cloud Documentation, Current Version - [HTML](https://docs.spring.io/spring-cloud/docs/current/reference/htmlsingle), [PDF](https://docs.spring.io/spring-cloud/docs/current/reference/pdf/spring-cloud.pdf)
 - [Spring Getting Started Guides - Spring](https://spring.io/guides)
 - [Spring Cloud Tutorial - Baeldung](https://www.baeldung.com/spring-cloud-series)
-- [The Beginner’s Guide To Spring Cloud - Ryan Baxter - YouTube](https://www.youtube.com/watch?v=aO3W-lYnw-o)
+- [The Beginner’s Guide To Spring Cloud - Ryan Baxter - YouTube](https://www.youtube.com/watch?v=aO3W-lYnw-o) (2017)
 - [Spring Cloud Samples - GitHub](https://github.com/spring-cloud-samples)
-- **Microservices Patterns: With examples in Java** (2018) by Chris Richardson
-- **Cloud Native Java: Designing Resilient Systems with Spring Boot, Spring Cloud, and Cloud Foundry** (2017) by Josh Long, Kenny Bastani. (Some content is outdated. Expect a new version.)
-- **Spring Microservices in Action** (2nd, 2021) by John Carnells
-- Microservices with Spring Boot and Spring Cloud (2nd, 2021) by Magnus Larsson
-- Hands-On Microservices with Spring Boot and Spring Cloud (2019) by Magnus Larsson
-- Modernizing Enterprise Java: A Concise Cloud Native Guide for Developers (2021) by Markus Eisele, Natale Vinto
-- Cloud Native Spring in Action: with Spring Boot and Kubernetes (2022) by Thomas Vitale. (It was not published yet. But it's comming soon.)
+- New books
+	- Microservices with Spring Boot and Spring Cloud (2023) by by Tejaswini Jog, Mandar Jog
+	- **Spring Microservices in Action** (2nd, 2021) by John Carnells
+	- Microservices with Spring Boot and Spring Cloud (2nd, 2021) by Magnus Larsson
+	- Modernizing Enterprise Java: A Concise Cloud Native Guide for Developers (2021) by Markus Eisele, Natale Vinto
+- Old books
+	- **Microservices Patterns: With examples in Java** (2018) by Chris Richardson
+	- **Cloud Native Java: Designing Resilient Systems with Spring Boot, Spring Cloud, and Cloud Foundry** (2017) by Josh Long, Kenny Bastani. (Some content is outdated. Expect a new version.)
+	- Hands-On Microservices with Spring Boot and Spring Cloud (2019) by Magnus Larsson
+
+Courses
+
+- [Microservice tutorial using Spring Cloud step by step](https://www.youtube.com/watch?v=ZZ9RBFeDBlQ&list=PLajapDHA6CyeWFG6hbi8wkdxf76m2mmGZ) (2021) by TechLearning
+- [The Microservices Foundation Course : Building Microservices using Java, Spring Boot and Spring Cloud](https://www.youtube.com/watch?v=T2rBkbT50TE&list=PL3NrzZBjk6m_n8QZCdnF7Yax36cqWkO9j) (2022) by Selenium Express
+- [Spring Boot Microservices Full Course](https://www.youtube.com/watch?v=lh1oQHXVSc0&list=PLSVW22jAG8pBnhAdq9S8BpLnZ0_jVBj0c&pp=0gcJCV8EOCosWNin) (2022) by Programming Techie
+- [尚硅谷2025最新SpringCloud教程，springcloud从入门到大牛](https://www.bilibili.com/video/BV1UJc2ezEFU)
+- [黑马程序员SpringCloud微服务技术栈实战教程](https://www.bilibili.com/video/BV1kH4y1S7wz)
+- [【2025极简版】一小时Spring Cloud Alibaba微服务入手项目开发](https://www.bilibili.com/video/BV1apr6YyEGg)
+- [尚硅谷SpringCloud教程，springcloud从入门到大牛](https://www.bilibili.com/video/BV1gW421P7RD)
+- [尚硅谷Java项目《谷粒商城》架构师级Java项目实战](https://www.bilibili.com/video/BV1np4y1C7Yf/)
+- [【狂神说Java】SpringCloud最新教程IDEA版](https://www.bilibili.com/video/BV1jJ411S7xr/)
+
+Spring Cloud Components
+
+- Configuration 配置中心
+	- Spring Cloud Config
+- Service Discovery 注册中心
+	- Netflix Eureka
+	- Zookeeper
+	- Consul
+- Routing and Messaging 服务调用
+	- Netflix Ribbon and Open Feign
+	- RabbitMQ or Kafka
+- API Gateway 服务网关
+	- Netflix Zuul
+	- Spring Cloud Gateway
+- Circuit Breakers 熔断
+	- Netflix Hystrix
+- Tracing 监控
+	- Spring Cloud Sleuth and Zipkin
+- CI Pipelines and Testing
+	- Spring Cloud Pipelines
+	- Spring Cloud Contract
+
+#### Spring Cloud Alibaba
+
+>Spring Cloud Alibaba provides a one-stop solution for distributed application development. It contains all the components needed to develop distributed applications, making it easy for you to develop applications using the Spring Cloud microservices framework.
+
+- [Spring Cloud Alibaba](https://sca.aliyun.com/en/). (Latest version: 2023.0.x)
+
+#### Apache Dubbo
+
+>Dubbo是阿里巴巴开发的一个开源的高性能、高可用、可扩展的分布式RPC调用框架，致力于提供高性能和透明化的 RPC 远程调用服务解决方案。
+
+- [Apache Dubbo](https://dubbo.apache.org/en/) - A Cloud-Native Microservice Framework.
+- 深入理解Apache Dubbo与实战 by 诣极 / 林琳
+- 深度剖析Apache Dubbo核心技术内幕 by 翟陆续（加多）
 
 #### Others
 

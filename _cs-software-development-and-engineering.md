@@ -154,8 +154,8 @@ Debugging
 Official Chatbot
 
 | Chatbot                                                                     | Model          | Features                     |
-|-----------------------------------------------------------------------------|----------------|------------------------------|
-| [ChatGPT by Open AI](https://chatgpt.com/)                              | GPT-3.5, GPT-4 | Best overall                 |
+| --------------------------------------------------------------------------- | -------------- | ---------------------------- |
+| [ChatGPT by Open AI](https://chatgpt.com/)                                  | GPT-3.5, GPT-4 | Best overall                 |
 | [Microsoft Copilot Pro](https://www.microsoft.com/en-us/store/b/copilotpro) | GPT-4          | Web Search                   |
 | [Gemini by Google](https://gemini.google.com/app)  (Bard)                   | Gemini Pro     | Integration with Google apps |
 | [Claude by Anthropic](https://claude.ai)                                    | Claude         | Longest conversation memory  |
@@ -746,6 +746,8 @@ K8S 整体是一个分布式的高可用架构，运行这个架构之上的应�
 
 </details>
 
+Books
+
 - Kubernetes in Action by Marko Luksa
 - **The Kubernetes Book** (2023) by Nigel Poulton
 - Kubernetes: Up and Running: Dive into the Future of Infrastructure (2nd, 2019) by Brendan Burns , Joe Beda
@@ -758,6 +760,14 @@ K8S 整体是一个分布式的高可用架构，运行这个架构之上的应�
 - Managing Kubernetes: Operating Kubernetes Clusters in the Real World (2018) by Brendan Burns, Craig Tracey
 - [k8s 教程](https://github.com/guangzhengli/k8s-tutorials)
 - [Kubernetes中文教程](https://github.com/chaseSpace/k8s-tutorial-cn)
+
+Courses
+
+- [Certified Kubernetes Administrator Full Course For beginners | CKA 2025](https://www.youtube.com/watch?v=6_gMoe7Ik8k&list=PLl4APkPHzsUUOkOv3i62UidrLmSB8DcGC) by Tech Tutorials with Piyush
+- [Complete Kubernetes Tutorial for Beginners](https://www.youtube.com/watch?v=VnvRFRk_51k&list=PLy7NrYWoggjziYQIDorlXjTvvwweTYoNC) (2023) by TechWorld with Nana
+- [Kubernetes Tutorials](https://www.youtube.com/watch?v=6IPu3WU_M0o&list=PLiMWaCMwGJXnHmccp2xlBENZ1xr4FpjXF) (2023) by Anton Putra
+- [尚硅谷Kubernetes教程(K8s入门到精通)](https://www.bilibili.com/video/BV1w4411y7Go/) (2019)
+- [尚硅谷云原生Java架构师的第一课K8s+Docker+KubeSphere+DevOps](https://www.bilibili.com/video/BV13Q4y1C7hS) (2021)
 
 #### Container Security
 
