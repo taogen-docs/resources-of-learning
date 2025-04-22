@@ -1146,6 +1146,24 @@ Papers
 
 - [Open AI API](https://platform.openai.com/overview)
 
+### Model context protocol (MCP)
+
+> An open standard designed to bridge AI assistants with the world of data and tools, to plug in many different sources of context.
+
+>An open standard that enables developers to build secure, two-way connections between their data sources and AI-powered tools. The architecture is straightforward: developers can either expose their data through MCP servers or build AI applications (MCP clients) that connect to these servers.
+
+Introducing
+
+- [Introducing the Model Context Protocol - Anthropic](https://www.anthropic.com/news/model-context-protocol)
+- [What Is MCP, and Why Is Everyone – Suddenly!– Talking About It?](https://huggingface.co/blog/Kseniase/mcp)
+- [Unleashing the Power of Model Context Protocol (MCP): A Game-Changer in AI Integration](https://techcommunity.microsoft.com/blog/educatordeveloperblog/unleashing-the-power-of-model-context-protocol-mcp-a-game-changer-in-ai-integrat/4397564)
+
+Resource
+
+- [Model Context Protocol](https://modelcontextprotocol.io/introduction) November 2024
+- [Anthropic Agents and tools](https://docs.anthropic.com/en/docs/agents-and-tools/mcp)
+- [OpenAI Agents SDK](https://openai.github.io/openai-agents-python/)
+
 ### Robotics
 
 - Life 3.0: Being Human in the Age of Artificial Intelligence by Max Tegmark
