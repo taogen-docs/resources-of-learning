@@ -857,6 +857,13 @@ Courses
   - PyQt/PySide
   - Tkinter
 
+#### Browser Plugins or Extensions
+
+Google Chrome
+
+- [Chrome Extensions - chrome for developers](https://developer.chrome.com/docs/extensions)
+- [Chrome Extensions samples](https://github.com/GoogleChrome/chrome-extensions-samples)
+
 #### Cross-Platform Applications
 
 **One codebase for all platforms** (web, mobile, desktop)

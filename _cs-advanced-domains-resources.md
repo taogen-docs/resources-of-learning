@@ -1049,7 +1049,11 @@ Robots.txt
 - Deep Learning from Scratch: Building with Python from First Principles by Seth Weidman
 - Deep Learning: A Visual Approach by Andrew Glassner
 - Deep Learning Cookbook: Practical Recipes to Get Started Quickly by Douwe Osinga [3.93, 29]
-- Dive into Deep Learning [HTML](https://d2l.ai/)
+- Dive into Deep Learning by Mu Li, Aston Zhang, Zachary Lipton, Alexander J. Smola [HTML](https://d2l.ai/) （中文版：动手学深度学习 by 李沐 [HTML](https://zh.d2l.ai/) ）
+
+Courses
+
+- [【2025版】李沐深度学习系列课程](https://www.bilibili.com/video/BV1daQAYuEYm/). 涵盖CNN、RNN、LSTM、GAN、DQN、transformer、自编码器和注意力机制等神经网络核心知识点
 
 ### Reinforcement Learning
 
