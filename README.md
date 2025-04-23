@@ -24,6 +24,7 @@ Directions
 
 Miscellaneous
 
+- [Programming Memes 🤣](domains/programming-meme.md)
 - [Computer Scientists](domains/computer-scientists.md)
 - [Computer Science Academic Research](domains/computer-science-academic-research.md)
 - [Evolution of Information Technologies (IT)](domains/evolution-of-information-technologies.md)
