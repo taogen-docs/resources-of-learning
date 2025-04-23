@@ -116,6 +116,10 @@
 
 ![chatgpt-can-do-my-job.webp](../assets/images/memes/chatgpt-can-do-my-job.webp)
 
+## Day job vs personal project
+
+![coding-for-day-job-vs-coding-for-personal-project.jpg](../assets/images/memes/coding-for-day-job-vs-coding-for-personal-project.jpg)
+
 ## 复制粘贴一把嗦
 
 ![copy-and-paste.jpg](../assets/images/memes/copy-and-paste.jpg)
