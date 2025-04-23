@@ -37,7 +37,7 @@
 
 ![your-code-is-shit.jpg](../assets/images/memes/your-code-is-shit.jpg)
 
-## Developer
+## Developers
 
 ### Are you sleeping
 
@@ -74,17 +74,25 @@
 
 ## Work
 
-### Count lines of code
+### Joining a new company
 
-![count-lines-of-code.jpg](../assets/images/memes/count-lines-of-code.jpg)
+![joining-a-new-company.jpg](../assets/images/memes/joining-a-new-company.jpg)
 
 ### Just look at the code
 
 ![just-look-at-the-code.jpg](../assets/images/memes/just-look-at-the-code.jpg)
 
+### Skip tests, don’t refactor, code sucks, deliver late
+
+![skip-tests.jpg](../assets/images/memes/skip-tests.jpg)
+
 ### Deleting a single row from a production database
 
 ![deleting-a-single-row.jpg](../assets/images/memes/deleting-a-single-row.jpg)
+
+### 复制粘贴一把嗦
+
+![copy-and-paste.jpg](../assets/images/memes/copy-and-paste.jpg)
 
 ### Question in interview
 
@@ -93,6 +101,10 @@
 ### The technical interview vs the actual job
 
 ![the-technical-interview-vs-the-actual-job.jpg](../assets/images/memes/the-technical-interview-vs-the-actual-job.jpg)
+
+### Count lines of code
+
+![count-lines-of-code.jpg](../assets/images/memes/count-lines-of-code.jpg)
 
 ### Project plan vs project reality
 
@@ -106,9 +118,6 @@
 
 ![developer-side-projects.jpg](../assets/images/memes/developer-side-projects.jpg)
 
-### 复制粘贴一把嗦
-
-![copy-and-paste.jpg](../assets/images/memes/copy-and-paste.jpg)
 
 ## Programming languages
 
