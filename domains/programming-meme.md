@@ -90,7 +90,7 @@
 
 <img src="../assets/images/memes/deleting-a-single-row.jpg" alt="deleting-a-single-row.jpg" width="600px" />
 
-### 复制粘贴一把嗦
+### 复制粘贴一把梭
 
 <img src="../assets/images/memes/copy-and-paste.jpg" alt="copy-and-paste.jpg" width="600px" />
 
