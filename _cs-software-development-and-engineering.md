@@ -1205,14 +1205,13 @@ Coding Interview (Algorithms)
 
 - Complete 300 questions on [LeetCode](https://leetcode.com/).
 - Cracking the Coding Interview: 189 Programming Questions and Solutions (2015) by Gayle Laakmann McDowell  《程序员面试金典》
-- Programming Pearl by Jon Bentley
+- Programming Pearls (2nd, 1999)  by Jon Bentley
 - Dynamic Programming for Coding Interviews by Meenakshi and Kamal Rawat
 - Algorithms for Interviews by Adnan Aziz and Amit Prakash
 - Coding Interview Questions by Narasimha Karumanchi
 - 剑指Offer (2012) by 何海涛 
 - 编程之美 (2008) by 《编程之美》小组
 - 程序员代码面试指南：IT名企算法与数据结构题目最优解 (2015) by 左程云
-- Programming Pearls (2nd, 1999)  by Jon Bentley
 - [超全算法笔试 模拟题精解合集 - 阿里云](https://developer.aliyun.com/ebook/7015)
 - [一周刷爆LeetCode，算法大神左神（左程云）耗时100天打造算法与数据结构基础到高级全家桶教程，直击BTAJ等一线大厂必问算法面试题真题详解](https://www.bilibili.com/video/BV13g41157hK/)
 
