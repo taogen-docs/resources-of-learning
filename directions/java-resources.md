@@ -33,7 +33,7 @@
 
 ### Java SE
 
-#### beginner
+#### Beginner
 
 - [**The Java™ Tutorials**](https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html)
 - **The Java Tutorial: A Short Course on the Basics** (6th, 2014) by Raymond Gallardo - Cover Java 8
@@ -46,17 +46,19 @@
 - Learn Java the Easy Way: A Hands-On Introduction to Programming (2017) by Bryson Payne
 - Learn Java with Projects: A concise practical guide to learning everything a Java professional really needs to know (2023) by Dr Seán Kennedy
 
-#### Master
+#### Advanced
 
-- Java SE 8 Documentation [Link 1](https://www.oracle.com/technetwork/java/javase/documentation/index.html)  [Link 2](https://docs.oracle.com/javase/8/)
+- [Java Platform, Standard Edition Documentation](https://docs.oracle.com/en/java/javase/index.html) - [JDK 8](https://docs.oracle.com/javase/8/index.html), [JDK 11](https://docs.oracle.com/en/java/javase/11/index.html), [JDK 17](https://docs.oracle.com/en/java/javase/17/index.html), [JDK 21](https://docs.oracle.com/en/java/javase/21/index.html)
+	- The Java® Language Specification - Java SE 8 - [DOC](https://docs.oracle.com/javase/specs/jls/se8/html/index.html), [PDF](https://docs.oracle.com/javase/specs/jls/se8/jls8.pdf); Java SE 21 - [HTML](https://docs.oracle.com/javase/specs/jls/se21/html/), [PDF](https://docs.oracle.com/javase/specs/jls/se21/jls21.pdf)
+	- Java® SE API Documentation - [Java 8](https://docs.oracle.com/javase/8/docs/api/index.html), [Java 11](https://docs.oracle.com/en/java/javase/11/docs/api/index.html), [Java 17](https://docs.oracle.com/en/java/javase/17/docs/api/index.html), [Java 21](https://docs.oracle.com/en/java/javase/21/docs/api/index.html)
+	- JDK Tool Specifications - [Java 8](https://docs.oracle.com/javase/8/docs/technotes/tools/index.html), [Java 11](https://www.oracle.com/pls/topic/lookup?ctx=javase11&id=JSWOR-GUID-55DE52DF-5774-4AAB-B334-E026FBAE6F34), [Java 17](https://docs.oracle.com/en/java/javase/17/docs/specs/man/index.html), [Java 21](https://docs.oracle.com/en/java/javase/21/docs/specs/man/index.html)
 - [Java SE White Papers](https://www.oracle.com/technetwork/java/javase/documentation/whitepapers-jsp-139357.html)
-  - [The Java Language Environment](https://www.oracle.com/java/technologies/language-environment.html)
-- The Java® Language Specification Java SE 8 Edition - [DOC](https://docs.oracle.com/javase/specs/jls/se8/html/index.html), [PDF](https://docs.oracle.com/javase/specs/jls/se8/jls8.pdf)
+	- [The Java Language Environment](https://www.oracle.com/java/technologies/language-environment.html)
 - JSR-133: Java Memory Model and Thread Specification (Java 1.5, 2004) - [PDF](https://www.cs.umd.edu/~pugh/java/memoryModel/jsr133.pdf)
 - **Effective Java** (3rd, 2017, Cover Java 9) by Joshua Bloch 
 - **Thinking in Java** (4th, 2006) by Eckel, Bruce
-- Java by Comparison: Become a Java Craftsman in 70 Examples by Simon Harrer, Jörg Lenhard, Linus Dietz
 - On Java 8 by Bruce Eckel
+- Java by Comparison: Become a Java Craftsman in 70 Examples by Simon Harrer, Jörg Lenhard, Linus Dietz
 - Java in a Nutshell: A Desktop Quick Reference (7th, 2019) by David Flanagan
 - Java Puzzlers by Joshua Bloch, Neal Gafter
 - Think Java: How to Think Like a Computer Scientist by Allen B. Downey
@@ -71,6 +73,7 @@
 
 #### Modern Java Features
 
+- Java Language Updates - [Java 21](https://docs.oracle.com/en/java/javase/21/language/java-language-changes-summary.html)
 - **Core Java for the Impatient** (3rd, 2022, Cover Java 17) (2nd, 2017, Cover Java 9) (1st, 2013, Cover Java 8) by Cay S.Horstmann
 - Modern Java in Action (2nd, 2018, Cover Java 9) by Raoul-Gabriel Urma, Mario Fusco
 - Modern Java Recipes: Simple Solutions to Difficult Problems in Java 8 and 9 (2017) by Kousen, Ken
@@ -156,24 +159,39 @@ Reference [Programming Language Resources - Programming Paradigms](../domains/pr
 - Functional Programming in Scala by Rúnar Bjarnason
 - Groovy in Action by Dierk König
 
-#### JVM Tuning
+#### JVM
 
-JVM Internals
+**JVM Internals**
 
-- The Java® Virtual Machine Specification Java SE 7 Edition - [DOC](https://docs.oracle.com/javase/specs/jvms/se7/html/index.html)
-- **The Java® Virtual Machine Specification Java SE 8 Edition** - [DOC](https://docs.oracle.com/javase/specs/jvms/se8/html/index.html), [PDF](https://docs.oracle.com/javase/specs/jvms/se8/jvms8.pdf)
-- The Java® Virtual Machine Specification Java SE 11 Edition - [DOC](https://docs.oracle.com/javase/specs/jvms/se11/html/index.html), [PDF](https://docs.oracle.com/javase/specs/jvms/se11/jvms11.pdf)
 - **Oracle JRockit: The Definitive Guide** (2010) by Marcus Hirt, Marcus Lagergren. A great book to understand JVM internals.
+- Java Virtual Machine Guide - [Java 11](https://docs.oracle.com/en/java/javase/11/vm/java-virtual-machine-technology-overview.html), [Java 17](https://docs.oracle.com/en/java/javase/17/vm/java-virtual-machine-technology-overview.html), [Java 21](https://docs.oracle.com/en/java/javase/21/vm/java-virtual-machine-technology-overview.html)
+- The Java® Virtual Machine Specification
+	- Java SE 7 Edition - [DOC](https://docs.oracle.com/javase/specs/jvms/se7/html/index.html)
+	- **Java SE 8 Edition** - [DOC](https://docs.oracle.com/javase/specs/jvms/se8/html/index.html), [PDF](https://docs.oracle.com/javase/specs/jvms/se8/jvms8.pdf)
+	- Java SE 11 Edition - [DOC](https://docs.oracle.com/javase/specs/jvms/se11/html/index.html), [PDF](https://docs.oracle.com/javase/specs/jvms/se11/jvms11.pdf)
+- HotSpot Virtual Machine Garbage Collection Tuning Guide - [Java 8](https://docs.oracle.com/javase/8/docs/technotes/guides/vm/gctuning/), [Java 11](https://docs.oracle.com/en/java/javase/17/gctuning/introduction-garbage-collection-tuning.html), [Java 17](https://docs.oracle.com/en/java/javase/11/gctuning/introduction-garbage-collection-tuning.html), [Java 21](https://docs.oracle.com/en/java/javase/21/gctuning/introduction-garbage-collection-tuning.html)
 - Inside the Java 2 Virtual Machine (2nd, 2000) by Bill Venners
 - 深入理解Java虚拟机: JVM高级特性与最佳实践 (3rd, 2019) by 周志明
 - 深入理解JVM字节码 by 张亚
 - Garbage Collection
-  - **The Garbage Collection Handbook: The Art of Automatic Memory Management** by Jones, Richard [4.38, 40]
-  - 垃圾回收的算法与实现 (2016) by 中村成洋 (8.2)
+	- **The Garbage Collection Handbook: The Art of Automatic Memory Management** by Jones, Richard [4.38, 40]
+	- 垃圾回收的算法与实现 (2016) by 中村成洋 (8.2)
 - Others
-  - [Java Objects Inside Out](https://shipilev.net/jvm/objects-inside-out/) by Aleksey Shipilёv
+	- [Java Objects Inside Out](https://shipilev.net/jvm/objects-inside-out/) by Aleksey Shipilёv
 
-For JVM Tuning
+**Java Troubleshooting**
+
+>Common issues: memory leaks, deadlocks
+
+- Troubleshooting Guide - [Java 8](https://docs.oracle.com/javase/8/docs/technotes/guides/troubleshoot/), [Java 11](https://docs.oracle.com/en/java/javase/11/troubleshoot/general-java-troubleshooting.html), [Java 17](https://docs.oracle.com/en/java/javase/17/troubleshoot/general-java-troubleshooting.html), [Java 21](https://docs.oracle.com/en/java/javase/21/troubleshoot/general-java-troubleshooting.html)
+- Troubleshooting Java: Read, debug, and optimize JVM applications (2023) by Laurentiu Spilca
+
+Java Diagnostic Tools
+
+- [**Java SE 8 Troubleshooting Guide - Monitoring Tools**](https://docs.oracle.com/javase/8/docs/technotes/guides/troubleshoot/tooldescr025.html)
+- [arthas](https://github.com/alibaba/arthas)
+
+**JVM Tuning**
 
 - JVM Performance Engineering: Inside OpenJDK and the HotSpot Java Virtual Machine (2024) by Monica Beckwith
 - **Java Performance: The Definitive Guide** (2014) by Scott Oaks [4.38, 200]
@@ -182,6 +200,7 @@ For JVM Tuning
 - Java Performance Companion (2016) by Charlie Hunt [3.77]
 - **Optimizing Java: Practical Techniques for Improving JVM Application Performance** (2018) by Benjamin J. Evans, James Gough [4.37, 46]
 - **The Well-Grounded Java Developer** (2nd, 2022) by Benjamin Evans, Jason Clark, and Martijn Verburg
+- Java Memory Management: A comprehensive guide to garbage collection and JVM tuning (2022) by Maaike van Putten, Sean Kennedy 
 - Troubleshooting Java Performance: Detecting Anti-Patterns with Open Source Tools (2017) by Erik Ostermueller
 - Java Performance Tuning (2nd, 2003) by Jack Shirazi [3.56]
 - Java程序性能优化-让你的Java程序更快、更稳定 (2012) by 葛一鸣 (8.1)
@@ -193,25 +212,24 @@ For JVM Tuning
   - Linux Observability with Bpf: Advanced Programming for Performance Analysis and Networking by David Calavera, Lorenzo Fontana
   - Software Performance and Scalability: A Quantitative Approach by Henry H. Liu
 
-For HotSpot JVM
+**HotSpot JVM**
 
 - [Java SE Core Technologies](https://www.oracle.com/java/technologies/javase/javase-core-technologies-apis.html)
 - [Java SE HotSpot at a Glance](https://www.oracle.com/java/technologies/javase-jsp.html)
 - **[Java SE 8 HotSpot Virtual Machine Garbage Collection Tuning Guide](https://docs.oracle.com/javase/8/docs/technotes/guides/vm/gctuning/index.html)**
-- **[Java HotSpot VM Options - JDK 7 and earlier](https://www.oracle.com/java/technologies/javase/vmoptions-jsp.html)**
-- **[Java HotSpot VM Options - JDK 8](https://docs.oracle.com/javase/8/docs/technotes/tools/windows/java.html?xd_co_f=22c6aff41dec2d561251589323805186)**
-- [**Java SE 8 Troubleshooting Guide - Monitoring Tools**](https://docs.oracle.com/javase/8/docs/technotes/guides/troubleshoot/tooldescr025.html)
+- Java HotSpot VM Options
+	- **[Java HotSpot VM Options - JDK 7 and earlier](https://www.oracle.com/java/technologies/javase/vmoptions-jsp.html)**
+	- **[Java HotSpot VM Options - JDK 8](https://docs.oracle.com/javase/8/docs/technotes/tools/windows/java.html?xd_co_f=22c6aff41dec2d561251589323805186)**
+	- [Java 11: The java Command - Overview of Java Options](https://docs.oracle.com/en/java/javase/11/tools/java.html#GUID-3B1CE181-CD30-4178-9602-230B800D4FAE__CBBIJCHG)
+	- [Java 17: The java Command - Overview of Java Options](https://docs.oracle.com/en/java/javase/17/docs/specs/man/java.html#overview-of-java-options)
+	- [Java 21: The java Command - Overview of Java Options](https://docs.oracle.com/en/java/javase/21/docs/specs/man/java.html#overview-of-java-options)
 - [Java Virtual Machine Technology](https://docs.oracle.com/javase/8/docs/technotes/guides/vm/index.html)
 - [The HotSpot Group - source code, documentation](https://openjdk.java.net/groups/hotspot/)
 
-For JRockit JVM
+**JRockit JVM**
 
 - [Oracle JRockit Documentation](https://docs.oracle.com/cd/E13150_01/jrockit_jvm/jrockit/webdocs/index.html)
 - [Oracle JRockit - doc](https://docs.oracle.com/cd/E13150_01/jrockit_jvm/jrockit/geninfo/diagnos/aboutjrockit.html)
-
-Java Diagnostic Tool
-
-- [arthas](https://github.com/alibaba/arthas)
 
 #### JNI
 
