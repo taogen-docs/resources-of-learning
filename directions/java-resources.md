@@ -52,6 +52,7 @@
 	- The Java® Language Specification - Java SE 8 - [DOC](https://docs.oracle.com/javase/specs/jls/se8/html/index.html), [PDF](https://docs.oracle.com/javase/specs/jls/se8/jls8.pdf); Java SE 21 - [HTML](https://docs.oracle.com/javase/specs/jls/se21/html/), [PDF](https://docs.oracle.com/javase/specs/jls/se21/jls21.pdf)
 	- Java® SE API Documentation - [Java 8](https://docs.oracle.com/javase/8/docs/api/index.html), [Java 11](https://docs.oracle.com/en/java/javase/11/docs/api/index.html), [Java 17](https://docs.oracle.com/en/java/javase/17/docs/api/index.html), [Java 21](https://docs.oracle.com/en/java/javase/21/docs/api/index.html)
 	- JDK Tool Specifications - [Java 8](https://docs.oracle.com/javase/8/docs/technotes/tools/index.html), [Java 11](https://www.oracle.com/pls/topic/lookup?ctx=javase11&id=JSWOR-GUID-55DE52DF-5774-4AAB-B334-E026FBAE6F34), [Java 17](https://docs.oracle.com/en/java/javase/17/docs/specs/man/index.html), [Java 21](https://docs.oracle.com/en/java/javase/21/docs/specs/man/index.html)
+	- Java Language Updates - [Java 21](https://docs.oracle.com/en/java/javase/21/language/java-language-changes-summary.html)
 - [Java SE White Papers](https://www.oracle.com/technetwork/java/javase/documentation/whitepapers-jsp-139357.html)
 	- [The Java Language Environment](https://www.oracle.com/java/technologies/language-environment.html)
 - JSR-133: Java Memory Model and Thread Specification (Java 1.5, 2004) - [PDF](https://www.cs.umd.edu/~pugh/java/memoryModel/jsr133.pdf)
@@ -85,8 +86,8 @@
 Must Read
 
 - **Java Concurrency in Practice** (2006) by Goetz, Brian. <br>This book is summative, and insightful, not a fundamental book. Before reading this book, you need to understand the basic concepts of Java concurrency. If you are a beginner for Java concurrency, we recommend you to read "The Java Tutorial: A Short Course on the Basics - chapter 13. Concurrency" that is friendly for a beginner.
-- Java Concurrency and Parallelism: Master advanced Java techniques for cloud-based applications through concurrency and parallelism (2024) by Jay Wang
-- Virtual Threads, Structured Concurrency, and Scoped Values: Explore Java’s New Threading Model (2024) by Ron Veen and David Vlijmincx
+- Java Concurrency and Parallelism: Master advanced Java techniques for cloud-based applications through concurrency and parallelism (2024) by Jay Wang
+- Virtual Threads, Structured Concurrency, and Scoped Values: Explore Java’s New Threading Model (2024) by Ron Veen and David Vlijmincx
 - Mastering Concurrency Programming With Java 8 (2016) by Javier Fernández González
 - Mastering Concurrency Programming with Java 9 (2nd, 2017) by Javier Fernandez Gonzalez
 - Java Threads: Understanding and Mastering Concurrent Programming (3rd, 2004) by Scott Oaks, Henry Wong
@@ -165,10 +166,7 @@ Reference [Programming Language Resources - Programming Paradigms](../domains/pr
 
 - **Oracle JRockit: The Definitive Guide** (2010) by Marcus Hirt, Marcus Lagergren. A great book to understand JVM internals.
 - Java Virtual Machine Guide - [Java 11](https://docs.oracle.com/en/java/javase/11/vm/java-virtual-machine-technology-overview.html), [Java 17](https://docs.oracle.com/en/java/javase/17/vm/java-virtual-machine-technology-overview.html), [Java 21](https://docs.oracle.com/en/java/javase/21/vm/java-virtual-machine-technology-overview.html)
-- The Java® Virtual Machine Specification
-	- Java SE 7 Edition - [DOC](https://docs.oracle.com/javase/specs/jvms/se7/html/index.html)
-	- **Java SE 8 Edition** - [DOC](https://docs.oracle.com/javase/specs/jvms/se8/html/index.html), [PDF](https://docs.oracle.com/javase/specs/jvms/se8/jvms8.pdf)
-	- Java SE 11 Edition - [DOC](https://docs.oracle.com/javase/specs/jvms/se11/html/index.html), [PDF](https://docs.oracle.com/javase/specs/jvms/se11/jvms11.pdf)
+- The Java® Virtual Machine Specification - Java 7 - [DOC](https://docs.oracle.com/javase/specs/jvms/se7/html/index.html); **Java 8** - [DOC](https://docs.oracle.com/javase/specs/jvms/se8/html/index.html), [PDF](https://docs.oracle.com/javase/specs/jvms/se8/jvms8.pdf); Java 11 - [DOC](https://docs.oracle.com/javase/specs/jvms/se11/html/index.html), [PDF](https://docs.oracle.com/javase/specs/jvms/se11/jvms11.pdf); Java 21 - [DOC](https://docs.oracle.com/javase/specs/jvms/se21/html/index.html), [PDF](https://docs.oracle.com/javase/specs/jvms/se21/jvms21.pdf)
 - HotSpot Virtual Machine Garbage Collection Tuning Guide - [Java 8](https://docs.oracle.com/javase/8/docs/technotes/guides/vm/gctuning/), [Java 11](https://docs.oracle.com/en/java/javase/17/gctuning/introduction-garbage-collection-tuning.html), [Java 17](https://docs.oracle.com/en/java/javase/11/gctuning/introduction-garbage-collection-tuning.html), [Java 21](https://docs.oracle.com/en/java/javase/21/gctuning/introduction-garbage-collection-tuning.html)
 - Inside the Java 2 Virtual Machine (2nd, 2000) by Bill Venners
 - 深入理解Java虚拟机: JVM高级特性与最佳实践 (3rd, 2019) by 周志明
@@ -193,14 +191,19 @@ Java Diagnostic Tools
 
 **JVM Tuning**
 
-- JVM Performance Engineering: Inside OpenJDK and the HotSpot Java Virtual Machine (2024) by Monica Beckwith
-- **Java Performance: The Definitive Guide** (2014) by Scott Oaks [4.38, 200]
+New books
+
 - **Java Performance: In-Depth Advice for Tuning and Programming Java 8, 11, and Beyond** (2nd, 2020) by Scott Oaks
+- **The Well-Grounded Java Developer** (2nd, 2022) by Benjamin Evans, Jason Clark, and Martijn Verburg
+- JVM Performance Engineering: Inside OpenJDK and the HotSpot Java Virtual Machine (2024) by Monica Beckwith
+- Java Memory Management: A comprehensive guide to garbage collection and JVM tuning (2022) by Maaike van Putten, Sean Kennedy 
+
+Classic books
+
+- **Java Performance: The Definitive Guide** (2014) by Scott Oaks [4.38, 200]
 - **Java Performance** (2011) by Binu John and Charlie Hunt [4.12, 200]
 - Java Performance Companion (2016) by Charlie Hunt [3.77]
 - **Optimizing Java: Practical Techniques for Improving JVM Application Performance** (2018) by Benjamin J. Evans, James Gough [4.37, 46]
-- **The Well-Grounded Java Developer** (2nd, 2022) by Benjamin Evans, Jason Clark, and Martijn Verburg
-- Java Memory Management: A comprehensive guide to garbage collection and JVM tuning (2022) by Maaike van Putten, Sean Kennedy 
 - Troubleshooting Java Performance: Detecting Anti-Patterns with Open Source Tools (2017) by Erik Ostermueller
 - Java Performance Tuning (2nd, 2003) by Jack Shirazi [3.56]
 - Java程序性能优化-让你的Java程序更快、更稳定 (2012) by 葛一鸣 (8.1)
@@ -214,15 +217,15 @@ Java Diagnostic Tools
 
 **HotSpot JVM**
 
-- [Java SE Core Technologies](https://www.oracle.com/java/technologies/javase/javase-core-technologies-apis.html)
-- [Java SE HotSpot at a Glance](https://www.oracle.com/java/technologies/javase-jsp.html)
-- **[Java SE 8 HotSpot Virtual Machine Garbage Collection Tuning Guide](https://docs.oracle.com/javase/8/docs/technotes/guides/vm/gctuning/index.html)**
 - Java HotSpot VM Options
 	- **[Java HotSpot VM Options - JDK 7 and earlier](https://www.oracle.com/java/technologies/javase/vmoptions-jsp.html)**
 	- **[Java HotSpot VM Options - JDK 8](https://docs.oracle.com/javase/8/docs/technotes/tools/windows/java.html?xd_co_f=22c6aff41dec2d561251589323805186)**
 	- [Java 11: The java Command - Overview of Java Options](https://docs.oracle.com/en/java/javase/11/tools/java.html#GUID-3B1CE181-CD30-4178-9602-230B800D4FAE__CBBIJCHG)
 	- [Java 17: The java Command - Overview of Java Options](https://docs.oracle.com/en/java/javase/17/docs/specs/man/java.html#overview-of-java-options)
 	- [Java 21: The java Command - Overview of Java Options](https://docs.oracle.com/en/java/javase/21/docs/specs/man/java.html#overview-of-java-options)
+- [Java SE Core Technologies](https://www.oracle.com/java/technologies/javase/javase-core-technologies-apis.html)
+	- [Java SE HotSpot at a Glance](https://www.oracle.com/java/technologies/javase-jsp.html)
+- **[Java SE 8 HotSpot Virtual Machine Garbage Collection Tuning Guide](https://docs.oracle.com/javase/8/docs/technotes/guides/vm/gctuning/index.html)**
 - [Java Virtual Machine Technology](https://docs.oracle.com/javase/8/docs/technotes/guides/vm/index.html)
 - [The HotSpot Group - source code, documentation](https://openjdk.java.net/groups/hotspot/)
 
