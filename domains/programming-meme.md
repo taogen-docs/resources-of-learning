@@ -1,158 +1,158 @@
 # Programming Memes
 
-![programmers-looking-at-programming-memes](../assets/images/memes/programmers-looking-at-programming-memes.jpg)
+<img src="../assets/images/memes/programmers-looking-at-programming-memes.jpg" alt="programmers-looking-at-programming-memes" width="600px" />
 
 
 ## Code
 
 ### If it works
 
-![if it works](../assets/images/memes/if-it-works.jpeg)
+<img src="../assets/images/memes/if-it-works.jpeg" alt="if it works" width="600px" />
 
-![if it works](../assets/images/memes/if-it-works-pipeline.jpg)
+<img src="../assets/images/memes/if-it-works-pipeline.jpg" alt="if it works" width="600px" />
 
-![most of our code](../assets/images/memes/most-of-our-code.webp)
+<img src="../assets/images/memes/most-of-our-code.webp" alt="most of our code" width="600px" />
 
 ### Error on line
 
-![error-on-line.jpg](../assets/images/memes/error-on-line.jpg)
+<img src="../assets/images/memes/error-on-line.jpg" alt="error-on-line.jpg" width="600px" />
 
 ### It still works
 
-![it-still-works.jpg](../assets/images/memes/it-still-works.jpg)
+<img src="../assets/images/memes/it-still-works.jpg" alt="it-still-works.jpg" width="600px" />
 
 ### My code
 
-![my-code.jpg](../assets/images/memes/my-code.jpg)
+<img src="../assets/images/memes/my-code.jpg" alt="my-code.jpg" width="600px" />
 
 ### Scared to delete
 
-![scared-to-delete.jpg](../assets/images/memes/scared-to-delete.jpg)
+<img src="../assets/images/memes/scared-to-delete.jpg" alt="scared-to-delete.jpg" width="600px" />
 
 ### It does run
 
-![it-does-run.jpg](../assets/images/memes/it-does-run.jpg)
+<img src="../assets/images/memes/it-does-run.jpg" alt="it-does-run.jpg" width="600px" />
 
 ### Your code is shit
 
-![your-code-is-shit.jpg](../assets/images/memes/your-code-is-shit.jpg)
+<img src="../assets/images/memes/your-code-is-shit.jpg" alt="your-code-is-shit.jpg" width="600px" />
 
 ## Developers
 
 ### Are you sleeping
 
-![are you sleeping](../assets/images/memes/are-you-sleeping.jpg)
+<img src="../assets/images/memes/are-you-sleeping.jpg" alt="are you sleeping" width="600px" />
 
 ### I stole your code
 
-![i-stole-your-code.jpg](../assets/images/memes/i-stole-your-code.jpg)
+<img src="../assets/images/memes/i-stole-your-code.jpg" alt="i-stole-your-code.jpg" width="600px" />
 
 ### Only god knows
 
-![only-god-knows.jpg](../assets/images/memes/only-god-knows.jpg)
+<img src="../assets/images/memes/only-god-knows.jpg" alt="only-god-knows.jpg" width="600px" />
 
 ### Just keep googling
 
-![just-keep-googling.jpg](../assets/images/memes/just-keep-googling.jpg)
+<img src="../assets/images/memes/just-keep-googling.jpg" alt="just-keep-googling.jpg" width="600px" />
 
 ### Full Stack
 
-![fullstack.jpg](../assets/images/memes/fullstack.jpg)
+<img src="../assets/images/memes/fullstack.jpg" alt="fullstack.jpg" width="600px" />
 
 ### I can solve a Leetcode hard in 30 min
 
-![i-can-solve-a-leetcode-hard.jpg](../assets/images/memes/i-can-solve-a-leetcode-hard.jpg)
+<img src="../assets/images/memes/i-can-solve-a-leetcode-hard.jpg" alt="i-can-solve-a-leetcode-hard.jpg" width="600px" />
 
 ### Use libraries vs make libraries
 
-![use-libraries-vs-make-libraries.jpg](../assets/images/memes/use-libraries-vs-make-libraries.jpg)
+<img src="../assets/images/memes/use-libraries-vs-make-libraries.jpg" alt="use-libraries-vs-make-libraries.jpg" width="600px" />
 
 ### Tutorials I saved vs tutorials I learned
 
-![tutorials-i-saved.png](../assets/images/memes/tutorials-i-saved.png)
+<img src="../assets/images/memes/tutorials-i-saved.png" alt="tutorials-i-saved.png" width="600px" />
 
 
 ## Work
 
 ### Joining a new company
 
-![joining-a-new-company.jpg](../assets/images/memes/joining-a-new-company.jpg)
+<img src="../assets/images/memes/joining-a-new-company.jpg" alt="joining-a-new-company.jpg" width="600px" />
 
 ### Just look at the code
 
-![just-look-at-the-code.jpg](../assets/images/memes/just-look-at-the-code.jpg)
+<img src="../assets/images/memes/just-look-at-the-code.jpg" alt="just-look-at-the-code.jpg" width="600px" />
 
 ### Skip tests, don’t refactor, code sucks, deliver late
 
-![skip-tests.jpg](../assets/images/memes/skip-tests.jpg)
+<img src="../assets/images/memes/skip-tests.jpg" alt="skip-tests.jpg" width="600px" />
 
 ### Deleting a single row from a production database
 
-![deleting-a-single-row.jpg](../assets/images/memes/deleting-a-single-row.jpg)
+<img src="../assets/images/memes/deleting-a-single-row.jpg" alt="deleting-a-single-row.jpg" width="600px" />
 
 ### 复制粘贴一把嗦
 
-![copy-and-paste.jpg](../assets/images/memes/copy-and-paste.jpg)
+<img src="../assets/images/memes/copy-and-paste.jpg" alt="copy-and-paste.jpg" width="600px" />
 
 ### Question in interview
 
-![question-in-interview.jpg](../assets/images/memes/question-in-interview.jpg)
+<img src="../assets/images/memes/question-in-interview.jpg" alt="question-in-interview.jpg" width="600px" />
 
 ### The technical interview vs the actual job
 
-![the-technical-interview-vs-the-actual-job.jpg](../assets/images/memes/the-technical-interview-vs-the-actual-job.jpg)
+<img src="../assets/images/memes/the-technical-interview-vs-the-actual-job.jpg" alt="the-technical-interview-vs-the-actual-job.jpg" width="600px" />
 
 ### Count lines of code
 
-![count-lines-of-code.jpg](../assets/images/memes/count-lines-of-code.jpg)
+<img src="../assets/images/memes/count-lines-of-code.jpg" alt="count-lines-of-code.jpg" width="600px" />
 
 ### Project plan vs project reality
 
-![project-plan-vs-project-reality.jpg](../assets/images/memes/project-plan-vs-project-reality.jpg)
+<img src="../assets/images/memes/project-plan-vs-project-reality.jpg" alt="project-plan-vs-project-reality.jpg" width="600px" />
 
 ### Day job vs personal project
 
-![coding-for-day-job-vs-coding-for-personal-project.jpg](../assets/images/memes/coding-for-day-job-vs-coding-for-personal-project.jpg)
+<img src="../assets/images/memes/coding-for-day-job-vs-coding-for-personal-project.jpg" alt="coding-for-day-job-vs-coding-for-personal-project.jpg" width="600px" />
 
 ### Developer's side projects
 
-![developer-side-projects.jpg](../assets/images/memes/developer-side-projects.jpg)
+<img src="../assets/images/memes/developer-side-projects.jpg" alt="developer-side-projects.jpg" width="600px" />
 
 
 ## Programming languages
 
 ### Most loved language
 
-![most-loved-language.png](../assets/images/memes/most-loved-language.png)
+<img src="../assets/images/memes/most-loved-language.png" alt="most-loved-language.png" width="600px" />
 
 
 ## Frontend
 
 ### Frontend vs backend
 
-![frontend-vs-backend.jpg](../assets/images/memes/frontend-vs-backend.jpg)
+<img src="../assets/images/memes/frontend-vs-backend.jpg" alt="frontend-vs-backend.jpg" width="600px" />
 
 ### node_modules
 
-![2gb-node-modules.jpg](../assets/images/memes/2gb-node-modules.jpg)
+<img src="../assets/images/memes/2gb-node-modules.jpg" alt="2gb-node-modules.jpg" width="600px" />
 
-![node_modules.webp](../assets/images/memes/node_modules.webp)
+<img src="../assets/images/memes/node_modules.webp" alt="node_modules.webp" width="600px" />
 
 ### Install with npm
 
-![install-with-npm.jpg](../assets/images/memes/install-with-npm.jpg)
+<img src="../assets/images/memes/install-with-npm.jpg" alt="install-with-npm.jpg" width="600px" />
 
 ## AI
 
 ### ChatGPT can do my job
 
-![chatgpt-can-do-my-job.webp](../assets/images/memes/chatgpt-can-do-my-job.webp)
+<img src="../assets/images/memes/chatgpt-can-do-my-job.webp" alt="chatgpt-can-do-my-job.webp" width="600px" />
 
 ### Vibe coding
 
-![vibe-coding-vs-vibe-debugging.webp](../assets/images/memes/vibe-coding-vs-vibe-debugging.webp)
+<img src="../assets/images/memes/vibe-coding-vs-vibe-debugging.webp" alt="vibe-coding-vs-vibe-debugging.webp" width="600px" />
 
-![vibe-coding-vs-coding.webp](../assets/images/memes/vibe-coding-vs-coding.webp)
+<img src="../assets/images/memes/vibe-coding-vs-coding.webp" alt="vibe-coding-vs-coding.webp" width="600px" />
 
-![i-love-vibe-coding.webp](../assets/images/memes/i-love-vibe-coding.webp)
+<img src="../assets/images/memes/i-love-vibe-coding.webp" alt="i-love-vibe-coding.webp" width="600px" />
 
