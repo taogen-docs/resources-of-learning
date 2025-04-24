@@ -263,9 +263,9 @@ Unit Test
 
 #### JDBC
 
+- [JDBC Basics Tutorial](https://docs.oracle.com/javase/tutorial/jdbc/basics/index.html)
 - [Java JDBC API](https://docs.oracle.com/javase/8/docs/api/index.html?java/sql/package-summary.html)
 - [JDBC Home Page - Java SE Technologies - Database - doc](https://www.oracle.com/technetwork/java/javase/tech/index-jsp-136101.html)
-- [JDBC Basics Tutorial](https://docs.oracle.com/javase/tutorial/jdbc/basics/index.html)
 - [MySQL Connector/J 5.1 Developer Guide]( https://dev.mysql.com/doc/connector-j/5.1/en/ )
 - JDBC Database Access with Java: A Tutorial and Annotated Reference by Graham Hamilton and Rick Cattell
 - JDBC API Tutorial and Reference by Maydene Fisher

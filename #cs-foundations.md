@@ -159,15 +159,9 @@ Others
 - Purely functional data structure by Chris Okasaki
 - Pearls of Functional Algorithm Design by Richard S. Bird
 
-For Interview
+For Coding Interview
 
-- Cracking the Coding Interview: 189 Programming Questions and Solutions (2015) by Gayle Laakmann McDowell  程序员面试金典
-- Programming Pearls (2nd, 1999)  by Jon Bentley 
-- 剑指Offer (2012) by 何海涛 
-- 编程之美 (2008) by 《编程之美》小组
-- 程序员代码面试指南：IT名企算法与数据结构题目最优解 (2015) by 左程云
-- [超全算法笔试 模拟题精解合集 - 阿里云](https://developer.aliyun.com/ebook/7015)
-- [一周刷爆LeetCode，算法大神左神（左程云）耗时100天打造算法与数据结构基础到高级全家桶教程，直击BTAJ等一线大厂必问算法面试题真题详解](https://www.bilibili.com/video/BV13g41157hK/)
+Refer to [Job Interview - Coding Interview](./_cs-software-development-and-engineering.md#job-interview)
 
 For Programming Contest
 
