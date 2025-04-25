@@ -1190,9 +1190,13 @@ General
 - 冒号课堂：编程范式与OOP思想 by 郑晖
 - 代码之髓 by [日] 西尾泰和
 
-**Imperative programming / Procedural programming**
+**Imperative programming / Procedural programming / structured programming**
 
 >C (1972), Pascal (1970), Fortran (1957), BASIC (1964), Ada (1980), COBOL (1959)
+
+>Structured programming consists of designing a set of procedures (or algorithms) to solve a problem.
+
+>Algorithms come first, and data structures second.
 
 **Object-Oriented Programming (OOP)**
 
@@ -1201,6 +1205,10 @@ General
 > Object-Oriented Programming (OOP) emerged as a response to the limitations of procedural programming and to address the growing complexity of software systems.
 
 > OOP has become a dominant programming paradigm in software development because it helps to manage complexity, encourages good design practices, and facilitates collaboration among developers. As systems grew larger and more complex, the need for these benefits became more apparent, driving the adoption of OOP in both academic and commercial software development.
+
+>Object-oriented programming is the opposite of procedural programming. OOP puts the data first, then looks at the algorithms to operate on the data.
+
+>For small problems, the breakdown into procedures works very well. But objects are more appropriate for larger problems. Consider a simple web browser. It might require 2,000 procedures for its implementation, all of which manipulate a set of global data. In the object-oriented style, there might be 100 classes with an average of 20 methods per class. This structure is much easier for a programmer to grasp. It is also much easier to find bugs in.
 
 - Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma, Ralph Johnson, John Vlissides, Richard Helm
 - Object-Oriented Software Construction by Bertrand Meyer
