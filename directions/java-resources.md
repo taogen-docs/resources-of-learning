@@ -631,6 +631,10 @@ Spring Cloud Components
 - 深入理解Apache Dubbo与实战 by 诣极 / 林琳
 - 深度剖析Apache Dubbo核心技术内幕 by 翟陆续（加多）
 
+#### Cloud native Java application optimization
+
+- Optimizing Cloud Native Java: Practical Techniques for Improving JVM Application Performance (2nd, 2024) by Benjamin J. Evans, James Gough
+
 #### Others
 
 - [Apache Dubbo](https://dubbo.apache.org/en/index.html). A Cloud-Native Microservice Framework. Build apps with built-in rpc, traffic management, security, observability support that can deploy on kubernetes and vm.
