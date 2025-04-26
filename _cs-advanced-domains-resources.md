@@ -1017,6 +1017,8 @@ Robots.txt
 - The Singularity Is Nearer: When We Merge with AI (2024) by Ray Kurzweil
 - Mastering the Data Paradox: Key to Winning in the AI Age (2024) by Nitin Seth
 - Supremacy: AI, ChatGPT, and the Race that Will Change the World (2024) by Parmy Olson
+- The Age of AI: And Our Human Future (2021) by Henry A Kissinger, Eric Schmidt, Daniel Huttenlocher
+- AI 2041: Ten Visions for Our Future (2021) by Kai-Fu Lee, Chen Qiufan
 
 ### Introduction to Artificial Intelligence
 
@@ -1092,9 +1094,6 @@ Generative AI
 - Hands-On Large Language Models: Language Understanding and Generation (2024) by Jay Alammar, Maarten Grootendorst 
 - LLM Engineer's Handbook: Master the art of engineering large language models from concept to production (2024) by Paul Iusztin, Maxime Labonne
 - Large Language Models: A Deep Dive: Bridging Theory and Practice (2024) by Uday Kamath (Author), Kevin Keenan, Garrett Somers 
-- Co-Intelligence: Living and Working with AI (2024) by Ethan Mollick 
-- The Age of AI: And Our Human Future (2021) by Henry A Kissinger, Eric Schmidt, Daniel Huttenlocher
-- AI 2041: Ten Visions for Our Future (2021) by Kai-Fu Lee, Chen Qiufan
 
 Build a LLM
 
@@ -1199,8 +1198,6 @@ AI Prompt Papers
 
 
 #### Build AI Applications
-
-Build AI Applications
 
 - AI Engineering: Building Applications with Foundation Models (2025) by Chip Huyen
 - LLMs in Production: From language models to successful products (2025) by Christopher Brousseau, Matt Sharp
