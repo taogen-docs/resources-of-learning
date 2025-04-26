@@ -411,47 +411,46 @@ Software Architect
 
 System Architecture
 
-- **Patterns of Enterprise Application Architecture** (2002) by Martin Fowler
-- **Enterprise Integration Patterns** (2003) by Gregor Hohpe
-- System Design Interview – An insider’s guide Volume 1 (2020) by Alex Xu. [Preview](https://systeminterview.com/)
-- System Design Interview – An Insider's Guide: Volume 2 (2022) by Alex Xu and Sahn Lam
-- **Clean Architecture** (2017) by Robert Cecil Martin
-- **Information Architecture: For the Web and Beyond. Designing Large-scale Web Sites** (4th, 2015) by Louis Rosenfeld , Peter Morville
-- The Design of Design: Essays from a Computer Scientist (2010) by Frederick P. Brooks Jr
-- Pattern-Oriented Software Architecture Volume 1~5 (1996) by Frank Buschmann, Hans Rohnert
-- Building Evolutionary Architectures: Support Constant Change (2017) by Neal Ford, Patrick Kua, and Rebecca Parsons
-- Web Application Architecture: Principles, Protocols and Practices (2009) by Leon Shklar
-- Software Architecture: Foundations, Theory, and Practice (2009) by Richard N. Taylor
-- Java Application Architecture: Modularity Patterns with Examples Using OSGi (2012) by Kirk Knoernschild
-- System Architecture: Strategy and Product Development for Complex Systems (2015) by Bruce Cameron, Daniel Selva, and Edward F. Crawley
-- Just Enough Software Architecture: A Risk-Driven Approach (2010) by George Fairbanks
-- Software Systems Architecture: Working With Stakeholders Using Viewpoints and Perspectives (2011) by Nick Rozanski and Eoin Woods
-- Software Architecture for Developers: Volume 1 - Technical leadership and the balance with agility (2012) by Simon Brown
+- **Clean Architecture** (2017) by Robert Cecil Martin [4.23, 6717]
+- **Patterns of Enterprise Application Architecture** (2002) by Martin Fowler [4.12, 3836]
+- Fundamentals of Software Architecture: An Engineering Approach (2020) by Mark Richards, Neal Ford [4.26, 1969]
+- **Enterprise Integration Patterns** (2003) by Gregor Hohpe [4.12, 1541] 
+- Building Evolutionary Architectures: Support Constant Change (2017) by Neal Ford, Patrick Kua, and Rebecca Parsons [3.74, 1022]
+- Software Architecture in Practice (3rd, 2012) by Len Bass, Paul Clements, Rick Kazman [3.85, 710]
+- Software Architecture: The Hard Parts: Modern Tradeoff Analysis for Distributed Architectures (2021) by Neal Ford, Mark Richards, Pramod J. Sadalage [4.27, 702]
+- Architecture Patterns with Python: Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices (2020) by Harry Percival and Bob Gregory [4.42, 444]
+- Technology Strategy Patterns: Architecture as Strategy (2018) by Eben Hewitt [4.03, 347]
+- Pattern-Oriented Software Architecture Volume 1~5 (1996) by Frank Buschmann, Hans Rohnert [3.90, 227]
+- Software Systems Architecture: Working With Stakeholders Using Viewpoints and Perspectives (2011) by Nick Rozanski and Eoin Woods [4.12, 221]
+- Software Architecture for Developers: Volume 1 - Technical leadership and the balance with agility (2012) by Simon Brown [3.87, 414]
 - Software Architecture for Developers: Volume 2 - Visualise, document and explore your software architecture (2015) by Simon Brown
-- Software Architecture in Practice (3rd, 2012) by Len Bass, Paul Clements, Rick Kazman
-- Technology Strategy Patterns: Architecture as Strategy (2018) by Eben Hewitt
-- Cloud Native Infrastructure: Patterns for Scalable Infrastructure and Applications in a Dynamic Environment (2017) by Justin Garrison and Kris Nova
-- Architecture Modernization - Socio-technical alignment of software, strategy, and structure by Nick Tune
-- Fundamentals of Software Architecture: An Engineering Approach (2020) by Mark Richards, Neal Ford
-- Software Architecture: The Hard Parts: Modern Tradeoff Analysis for Distributed Architectures (2021) by Neal Ford, Mark Richards, Pramod J. Sadalage
-- Architecture Patterns with Python: Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices (2020) by Harry Percival and Bob Gregory
-- Foundations of Scalable Systems by Ian Gorton
-- Software Systems Architecture: Working with Stakeholders Using Viewpoints and Perspectives by Nick Rozanski, Eoin Woods
-- 企业IT架构转型之道：阿里巴巴中台战略思想与架构实战 (2017) by 钟华
-- 大型网站技术架构 (2013) by 李智慧
-- 大型网站系统与JAVA中间件实践 (2014) by 曾宪杰
-- 分布式服务架构：原理、设计与实战 (2017) by 李艳鹏 / 杨彪
-- 亿级流量网站架构核心技术 (2017) by  张开涛
-- 架构修炼之道：亿级网关、平台开放、分布式、微服务、容错等核心技术修炼实践 (2019) by 王新栋
-- 从零开始学架构 (2018) by 李运华
-- 业务架构•应用架构•数据架构实战 (2021) by 温昱
-- 软件架构设计：程序员向架构师转型必备 (2012) by 温昱
-- 软件架构设计：大型网站技术架构与业务架构融合之道 (2019) by 余春龙
-- 凤凰架构：构建可靠的大型分布式系统 (2021) by 周志明
-- 淘宝技术这十年 (2013) by 子柳
-- 深入分布式缓存：从原理到实践 (2017) by 于君泽 / 曹洪伟 / 邱硕
-- 聊聊架构 (2017) by 王概凯
-- 构建高性能Web站点 (2012) by 郭欣
+- System Design Interview – An insider’s guide Volume 1 (2020) by Alex Xu. [4.24, 2906] [Preview](https://systeminterview.com/)
+- System Design Interview – An Insider's Guide: Volume 2 (2022) by Alex Xu and Sahn Lam
+- **Information Architecture: For the Web and Beyond. Designing Large-scale Web Sites** (4th, 2015) by Louis Rosenfeld , Peter Morville
+- The Design of Design: Essays from a Computer Scientist (2010) by Frederick P. Brooks Jr [3.77, 605]
+- Just Enough Software Architecture: A Risk-Driven Approach (2010) by George Fairbanks [3.45, 201]
+- Cloud Native Infrastructure: Patterns for Scalable Infrastructure and Applications in a Dynamic Environment (2017) by Justin Garrison and Kris Nova [3.56, 151]
+- Java Application Architecture: Modularity Patterns with Examples Using OSGi (2012) by Kirk Knoernschild [3.91, 87]
+- Foundations of Scalable Systems by Ian Gorton [4.19, 80]
+- Software Architecture: Foundations, Theory, and Practice (2009) by Richard N. Taylor [3.83, 71]
+- Web Application Architecture: Principles, Protocols and Practices (2009) by Leon Shklar [3.76, 50]
+- System Architecture: Strategy and Product Development for Complex Systems (2015) by Bruce Cameron, Daniel Selva, and Edward F. Crawley [4.38, 50]
+- Architecture Modernization - Socio-technical alignment of software, strategy, and structure by Nick Tune [4.11, 47]
+- 淘宝技术这十年 (2013) by 子柳 [7.3, 2506]
+- 大型网站技术架构 (2013) by 李智慧 [7.9, 1885]
+- 构建高性能Web站点 (2012) by 郭欣 [8.6, 1327]
+- 企业IT架构转型之道：阿里巴巴中台战略思想与架构实战 (2017) by 钟华 [8.0, 1180]
+- 凤凰架构：构建可靠的大型分布式系统 (2021) by 周志明 [9.3, 778]
+- 大型网站系统与JAVA中间件实践 (2014) by 曾宪杰 [7.9, 630]
+- 从零开始学架构 (2018) by 李运华 [8.1, 341]
+- 亿级流量网站架构核心技术 (2017) by  张开涛 [6.6, 259]
+- 分布式服务架构：原理、设计与实战 (2017) by 李艳鹏 / 杨彪 [6.7, 113]
+- 软件架构设计：大型网站技术架构与业务架构融合之道 (2019) by 余春龙 [8.8, 250]
+- 聊聊架构 (2017) by 王概凯 [7.4, 192]
+- 软件架构设计：程序员向架构师转型必备 (2012) by 温昱 [7.3, 113]
+- 深入分布式缓存：从原理到实践 (2017) by 于君泽 / 曹洪伟 / 邱硕 [7.0, 105]
+- 架构修炼之道：亿级网关、平台开放、分布式、微服务、容错等核心技术修炼实践 (2019) by 王新栋 [6.8, 71]
+- 业务架构•应用架构•数据架构实战 (2021) by 温昱 [6.9, 58]
 
 Resources
 
