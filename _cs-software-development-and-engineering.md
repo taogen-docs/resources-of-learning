@@ -1184,7 +1184,7 @@ Resume
 - 97 Things Every Programmer Should Know: Collective Wisdom from the Experts by Kevlin Henney
 - A Brief History of Hackerdom by Raymond.  Eric S. Raymond 
 - The Productive Programmer by Neal Ford 
-- Engineers Survival Guide: Advice, tactics, and tricks After a decade of working at Facebook, Snapchat, and Microsoft by Merih Taze
+- Engineers Survival Guide: Advice, tactics, and tricks After a decade of working at Facebook, Snapchat, and Microsoft (2021) by Merih Taze
 
 Some more
 
@@ -1205,6 +1205,7 @@ Coding Interview (Algorithms)
 
 - Complete 300 questions on [LeetCode](https://leetcode.com/).
 - Cracking the Coding Interview: 189 Programming Questions and Solutions (2015) by Gayle Laakmann McDowell  《程序员面试金典》
+- Coding Interview Patterns: Nail Your Next Coding Interview (2024) by Alex Xu (Author), Shaun Gunawardane
 - Programming Pearls (2nd, 1999)  by Jon Bentley
 - Dynamic Programming for Coding Interviews by Meenakshi and Kamal Rawat
 - Algorithms for Interviews by Adnan Aziz and Amit Prakash

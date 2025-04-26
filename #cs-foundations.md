@@ -431,6 +431,8 @@ Papers
 
 Programming Language Design
 
+- Build Your Own Programming Language: A programmer's guide to designing compilers, interpreters, and DSLs for solving modern computing problems (2021) by Clinton L Jeffery
+- Introduction to Compilers and Language Design (2020) by Douglas Thain
 - **Programming Language Pragmatics** (4th, 2015) by Michael L. Scott [3.96, 1670]
 - Purely Functional Data Structures by Chris Okasaki [4.15, 659]
 - The Design and Evolution of C++ by Bjarne Stroustrup [4.30, 321]

@@ -1210,6 +1210,8 @@ General
 
 >For small problems, the breakdown into procedures works very well. But objects are more appropriate for larger problems. Consider a simple web browser. It might require 2,000 procedures for its implementation, all of which manipulate a set of global data. In the object-oriented style, there might be 100 classes with an average of 20 methods per class. This structure is much easier for a programmer to grasp. It is also much easier to find bugs in.
 
+>In a procedural program, you start the process at the top, with the main function. When designing an object-oriented system, there is no “top,” and newcomers to OOP often wonder where to begin. The answer is: Identify your classes and then add methods to each class. A simple rule of thumb in identifying classes is to look for nouns in the problem analysis. Methods, on the other hand, correspond to verbs.
+
 - Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma, Ralph Johnson, John Vlissides, Richard Helm
 - Object-Oriented Software Construction by Bertrand Meyer
 - The Object-Oriented Thought Process (5th, 2019) by Matt Weisfeld

@@ -165,6 +165,7 @@ Reference [Programming Language Resources - Programming Paradigms](../domains/pr
 **JVM Internals**
 
 - **Oracle JRockit: The Definitive Guide** (2010) by Marcus Hirt, Marcus Lagergren. A great book to understand JVM internals.
+- Mastering the Java Virtual Machine: An in-depth guide to JVM internals and performance optimization (2024) by Otàvio Santana
 - Java Virtual Machine Guide - [Java 11](https://docs.oracle.com/en/java/javase/11/vm/java-virtual-machine-technology-overview.html), [Java 17](https://docs.oracle.com/en/java/javase/17/vm/java-virtual-machine-technology-overview.html), [Java 21](https://docs.oracle.com/en/java/javase/21/vm/java-virtual-machine-technology-overview.html)
 - The Java® Virtual Machine Specification - Java 7 - [DOC](https://docs.oracle.com/javase/specs/jvms/se7/html/index.html); **Java 8** - [DOC](https://docs.oracle.com/javase/specs/jvms/se8/html/index.html), [PDF](https://docs.oracle.com/javase/specs/jvms/se8/jvms8.pdf); Java 11 - [DOC](https://docs.oracle.com/javase/specs/jvms/se11/html/index.html), [PDF](https://docs.oracle.com/javase/specs/jvms/se11/jvms11.pdf); Java 21 - [DOC](https://docs.oracle.com/javase/specs/jvms/se21/html/index.html), [PDF](https://docs.oracle.com/javase/specs/jvms/se21/jvms21.pdf)
 - HotSpot Virtual Machine Garbage Collection Tuning Guide - [Java 8](https://docs.oracle.com/javase/8/docs/technotes/guides/vm/gctuning/), [Java 11](https://docs.oracle.com/en/java/javase/17/gctuning/introduction-garbage-collection-tuning.html), [Java 17](https://docs.oracle.com/en/java/javase/11/gctuning/introduction-garbage-collection-tuning.html), [Java 21](https://docs.oracle.com/en/java/javase/21/gctuning/introduction-garbage-collection-tuning.html)
@@ -654,6 +655,7 @@ Spring Cloud Components
 - Spring Security
   - [Spring Security Reference Documentation](https://docs.spring.io/spring-security/reference/index.html)
   - Spring Security in Action (2nd, 2024) by Laurentiu Spilca
+  - Spring Security: Effectively secure your web apps, RESTful services, cloud apps, and microservice architectures (4th, 2024) by Badr Nasslahsen
 
 For more, see 
 
