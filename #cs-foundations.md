@@ -442,6 +442,7 @@ Programming Language Design
 - Algorithms Plus Data Structures Equals Programs by Niklaus Wirth
 - The Garbage Collection Handbook: The Art of Automatic Memory Management by Richard Jones [4.43, 49]
 - Programming Languages: Application and Interpretation by Shriram Krishnamurthi [eBook](https://www.plai.org/)
+- Writing a C Compiler: Build a Real Programming Language from Scratch by Nora Sandler
 
 <br>
 

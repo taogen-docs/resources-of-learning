@@ -506,6 +506,7 @@ Resources
 - Beautiful Code: Leading Programmers Explain How They Think (2007) by Andy Oram, Greg Wilson
 - Software Design for Flexibility: How to Avoid Programming Yourself Into a Corner (2021) by Chris Hanson, Gerald Jay Sussman
 - [system-design-primer](https://github.com/donnemartin/system-design-primer)
+- 软件设计：从专业到卓越 by 张刚
 
 ### System Design
 

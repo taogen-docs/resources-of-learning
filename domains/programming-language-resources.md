@@ -544,6 +544,7 @@ Advanced
   - Classic Computer Science Problems in Python (2019) by David Kopec
   - Pro Python by Marty Alchin
   - Expert Python Programming by Tarek Ziadé
+  - Python工匠 by 朱雷
 - Effective
   - Effective Python: 59 Specific Ways to Write Better Python by Brett Slatkin
   - High Performance Python: Practical Performant Programming for Humans by Ian Ozsvald and Micha Gorelick
