@@ -386,7 +386,7 @@ Courses
 <h2><a name="compiler_t" href="#compiler_c">Compiler</a></h2>
 <br>
 
-Prime
+Beginner
 
 - How to Design Programs: An Introduction to Programming and Computing (2018) by Matthias Felleisen (**HTDP**) [4.02, 263]
 
@@ -405,44 +405,47 @@ Must Read
 - **Structure and Interpretation of Computer Programs** (2nd, 1996) by Harold Abelson (**SICP**) [4.46, 4670]
 - **Compilers: Principles, Techniques, and Tools** (2nd, 2006) by  Alfred V. Aho and Monica S. Lam (**龙书**) [4.09, 2965]
 - Types and Programming Languages (2002) by Benjamin C. Pierce (**TAPL**) [4.27, 553]
-- Crafting Interpreters (2021) by Robert Nystrom [4.71, 290]
 - Essentials of Programming Languages (2001) by Daniel P. Friedman, Mitchell Wand (**EOPL**) [3.97, 144]
 - Modern Compiler Implementation in C (2004) by Andrew W. Appel (**虎书**) [3.70, 40]
 - Advanced Compiler Design and Implementation (1997) by Steven Muchnick (**鲸书**) [3.89, 90]
 - Concepts, Techniques, and Models of Computer Programming (2004) by Peter Van Roy, Seif Haridi [4.11, 242]
-- My First Language Frontend with LLVM Tutorial [HTML](https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html)
+- Purely Functional Data Structures by Chris Okasaki [4.15, 659]
+- 程序员的自我修养 (2009) by 俞甲子, 石凡, 潘爱民。这本书主要介绍系统软件的运行机制和原理，一个应用程序在编译、链接和运行时刻所发生的各种事项。[8.9, 2903]
 
 Some More
 
-- Domain-Specific Languages by Martin Fowler [3.87, 319]
-- Crafting Interpreters by Robert Nystrom [link](https://craftinginterpreters.com/). learn by doing [4.71, 290]
 - Engineering a Compiler (2003) by Keith Cooper and Linda Torczon [4.05, 187]
-- Language Implementation Patterns: Techniques for Implementing Domain-Specific Languages by Terence Parr [3.87, 183]
 - Writing Compilers and Interpreters: A Software Engineering Approach by Ronald Mak [3.91, 66]
-- Practical Foundations for Programming Languages by Robert Harper [3.90, 58]
+- Practical Foundations for Programming Languages by Robert Harper [3.90, 58] [PDF](http://profs.sci.univr.it/~merro/files/harper.pdf)
 - Parsing Techniques (2008) by Dick Grune, Ceriel J.H. Jacobs [4.20, 35]
 - The Definitive ANTLR 4 Reference by Terence Parr
 - Optimizing Compilers for Modern Architectures: A Dependence-Based Approach by Randy Allen, Ken Kennedy [4.42, 19]
-- 程序员的自我修养 (2009) by 俞甲子, 石凡, 潘爱民
+
+Domain-Specific Languages (DSL)
+
+- Domain-Specific Languages by Martin Fowler [3.87, 319]
+- Language Implementation Patterns: Techniques for Implementing Domain-Specific Languages by Terence Parr [3.87, 183]
+
+Build a Programming Language / Programming Language Design
+
+- **Programming Language Pragmatics** (4th, 2015) by Michael L. Scott [3.99, 354]
+- **Crafting Interpreters** by Robert Nystrom [LINK](https://craftinginterpreters.com/). learn by doing [4.71, 290]
+- The Design and Evolution of C++ by Bjarne Stroustrup [4.30, 321]
+- My First Language Frontend with LLVM Tutorial [HTML](https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html)
+- Thorsten Ball
+	- Writing An Interpreter In Go by Thorsten Ball [4.58, 235]
+	- Writing A Compiler In Go by Thorsten Ball [4.64, 95]
+- The Art of the Metaobject Protocol by Gregor Kiczales, Jim Des Rivieres, Daniel G. Bobrow [4.22, 136]
+- Build Your Own Lisp by Daniel Holden [4.07, 74]
+- The Garbage Collection Handbook: The Art of Automatic Memory Management by Richard Jones [4.43, 49]
+- Programming Languages: Application and Interpretation by Shriram Krishnamurthi [4.09, 34] [eBook](https://www.plai.org/)
+- Build Your Own Programming Language: A programmer's guide to designing compilers, interpreters, and DSLs for solving modern computing problems (2021) by Clinton L Jeffery [3.73, 11]
+- Introduction to Compilers and Language Design (2020) by Douglas Thain [3.83, 12]
+- Writing a C Compiler: Build a Real Programming Language from Scratch by Nora Sandler [3.33, 3]
 
 Papers
 
 - On the translation of languages from left to right by Donald Knuth [link](https://www.sciencedirect.com/science/article/pii/S0019995865904262)
-
-Programming Language Design
-
-- Build Your Own Programming Language: A programmer's guide to designing compilers, interpreters, and DSLs for solving modern computing problems (2021) by Clinton L Jeffery
-- Introduction to Compilers and Language Design (2020) by Douglas Thain
-- **Programming Language Pragmatics** (4th, 2015) by Michael L. Scott [3.96, 1670]
-- Purely Functional Data Structures by Chris Okasaki [4.15, 659]
-- The Design and Evolution of C++ by Bjarne Stroustrup [4.30, 321]
-- Writing An Interpreter In Go by Thorsten Ball [4.58, 235]
-- The Art of the Metaobject Protocol by Gregor Kiczales, Jim Des Rivieres, Daniel G. Bobrow [4.22, 136]
-- Build Your Own Lisp by Daniel Holden [4.07, 74]
-- Algorithms Plus Data Structures Equals Programs by Niklaus Wirth
-- The Garbage Collection Handbook: The Art of Automatic Memory Management by Richard Jones [4.43, 49]
-- Programming Languages: Application and Interpretation by Shriram Krishnamurthi [eBook](https://www.plai.org/)
-- Writing a C Compiler: Build a Real Programming Language from Scratch by Nora Sandler
 
 <br>
 
