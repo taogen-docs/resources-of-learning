@@ -418,7 +418,7 @@ System Architecture
 - Building Evolutionary Architectures: Support Constant Change (2017) by Neal Ford, Patrick Kua, and Rebecca Parsons [3.74, 1022]
 - Software Architecture in Practice (3rd, 2012) by Len Bass, Paul Clements, Rick Kazman [3.85, 710]
 - Software Architecture: The Hard Parts: Modern Tradeoff Analysis for Distributed Architectures (2021) by Neal Ford, Mark Richards, Pramod J. Sadalage [4.27, 702]
-- Architecture Patterns with Python: Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices (2020) by Harry Percival and Bob Gregory [4.42, 444]
+- Architecture Patterns with Python: Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices (2020) by Harry Percival and Bob Gregory [4.42, 444] [Cosmic Python](https://www.cosmicpython.com/) [eBook](https://www.cosmicpython.com/book/preface.html)
 - Technology Strategy Patterns: Architecture as Strategy (2018) by Eben Hewitt [4.03, 347]
 - Pattern-Oriented Software Architecture Volume 1~5 (1996) by Frank Buschmann, Hans Rohnert [3.90, 227]
 - Software Systems Architecture: Working With Stakeholders Using Viewpoints and Perspectives (2011) by Nick Rozanski and Eoin Woods [4.12, 221]
@@ -1229,6 +1229,8 @@ System Design Interview
 - Acing the System Design Interview (2024) by Zhiyong Tan
 - Hacking the System Design Interview: Real Big Tech Interview Questions and In-depth Solutions (2022) by Stanley Chiang 
 - Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems (2017) by Martin Kleppmann (DDIA)
+- The System Design Interview by Lewis C. Lin, Shivam P. Patel
+- Grokking the System Design Interview: A step by step guide to master the system design interview by Design Gurus
 
 Technical Interview
 
