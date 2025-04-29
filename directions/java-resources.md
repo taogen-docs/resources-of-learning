@@ -682,7 +682,11 @@ For more, see
 
 #### JDK
 
-Resources
+JDK distributions
+
+- [Which Version of JDK Should I Use?](https://whichjdk.com/)
+
+Download JDK
 
 - [Oracle Java Archive](https://www.oracle.com/java/technologies/downloads/archive/)
 - [Archived OpenJDK General-Availability Releases](https://jdk.java.net/archive/)
