@@ -2,6 +2,8 @@
 
 >The only way to learn a new programming language is by writing programs in it. — Dennis Ritchie
 
+>Use it or lose it.
+
 **Content**
 
 - <a name="lang_c" href="#lang_t">Programming Languages</a>

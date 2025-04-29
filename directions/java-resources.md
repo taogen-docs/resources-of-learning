@@ -45,6 +45,7 @@
 - Java: The Complete Reference (13th, 2024) by Schildt, Herbert
 - Learn Java the Easy Way: A Hands-On Introduction to Programming (2017) by Bryson Payne
 - Learn Java with Projects: A concise practical guide to learning everything a Java professional really needs to know (2023) by Dr Seán Kennedy
+- [Local Variable Type Inference Style Guidelines](https://openjdk.org/projects/amber/guides/lvti-style-guide) (2018) by Stuart W. Marks
 
 #### Advanced
 
