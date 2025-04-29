@@ -36,6 +36,7 @@
 #### Beginner
 
 - [**The Java™ Tutorials**](https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html)
+- [Learn Java - Dev.java](https://dev.java/learn/) - Dev.java is the official website for the Java platform and language maintained by the Java Platform Group at Oracle.
 - **The Java Tutorial: A Short Course on the Basics** (6th, 2014) by Raymond Gallardo - Cover Java 8
 - **Core Java** (13th, 2024) Volume I Fundamentals by S, Horstmann. Versions: 13th edition cover Java 21, 12th edition cover Java 17, 11th edition cover Java 11, 10th edition cover Java 8, 9th edition cover Java 7.
 - The Java Programming Language (4th, 2005) by Ken Arnold, James Gosling, David Holmes
@@ -49,13 +50,17 @@
 
 #### Advanced
 
-- [Java Platform, Standard Edition Documentation](https://docs.oracle.com/en/java/javase/index.html) - [JDK 8](https://docs.oracle.com/javase/8/index.html), [JDK 11](https://docs.oracle.com/en/java/javase/11/index.html), [JDK 17](https://docs.oracle.com/en/java/javase/17/index.html), [JDK 21](https://docs.oracle.com/en/java/javase/21/index.html)
-	- The Java® Language Specification - Java SE 8 - [DOC](https://docs.oracle.com/javase/specs/jls/se8/html/index.html), [PDF](https://docs.oracle.com/javase/specs/jls/se8/jls8.pdf); Java SE 21 - [HTML](https://docs.oracle.com/javase/specs/jls/se21/html/), [PDF](https://docs.oracle.com/javase/specs/jls/se21/jls21.pdf)
+- [Java Platform, Standard Edition Documentation](https://docs.oracle.com/en/java/javase/index.html) - [Java 8](https://docs.oracle.com/javase/8/docs/), [JDK 8](https://docs.oracle.com/javase/8/index.html), [JDK 11](https://docs.oracle.com/en/java/javase/11/index.html), [JDK 17](https://docs.oracle.com/en/java/javase/17/index.html), [JDK 21](https://docs.oracle.com/en/java/javase/21/index.html)
+	- Java™ 8 Platform Overview [HTML](https://docs.oracle.com/javase/8/docs/technotes/guides/)
+	- The Java® Language Specification - Java SE 8 - [HTML](https://docs.oracle.com/javase/specs/jls/se8/html/index.html), [PDF](https://docs.oracle.com/javase/specs/jls/se8/jls8.pdf); Java SE 21 - [HTML](https://docs.oracle.com/javase/specs/jls/se21/html/), [PDF](https://docs.oracle.com/javase/specs/jls/se21/jls21.pdf)
 	- Java® SE API Documentation - [Java 8](https://docs.oracle.com/javase/8/docs/api/index.html), [Java 11](https://docs.oracle.com/en/java/javase/11/docs/api/index.html), [Java 17](https://docs.oracle.com/en/java/javase/17/docs/api/index.html), [Java 21](https://docs.oracle.com/en/java/javase/21/docs/api/index.html)
 	- JDK Tool Specifications - [Java 8](https://docs.oracle.com/javase/8/docs/technotes/tools/index.html), [Java 11](https://www.oracle.com/pls/topic/lookup?ctx=javase11&id=JSWOR-GUID-55DE52DF-5774-4AAB-B334-E026FBAE6F34), [Java 17](https://docs.oracle.com/en/java/javase/17/docs/specs/man/index.html), [Java 21](https://docs.oracle.com/en/java/javase/21/docs/specs/man/index.html)
 	- Java Language Updates - [Java 21](https://docs.oracle.com/en/java/javase/21/language/java-language-changes-summary.html)
 - [Java SE White Papers](https://www.oracle.com/technetwork/java/javase/documentation/whitepapers-jsp-139357.html)
 	- [The Java Language Environment](https://www.oracle.com/java/technologies/language-environment.html)
+- [Secure Coding Guidelines](https://www.oracle.com/java/technologies/javase/seccodeguide.html)
+- [Java Frequently Asked Questions (FAQs)](https://dev.java/learn/faq/)
+- [OpenJDK Developers’ Guide](https://openjdk.org/guide/)
 - JSR-133: Java Memory Model and Thread Specification (Java 1.5, 2004) - [PDF](https://www.cs.umd.edu/~pugh/java/memoryModel/jsr133.pdf)
 - **Effective Java** (3rd, 2017, Cover Java 9) by Joshua Bloch 
 - **Thinking in Java** (4th, 2006) by Eckel, Bruce
@@ -76,6 +81,7 @@
 #### Modern Java Features
 
 - Java Language Updates - [Java 21](https://docs.oracle.com/en/java/javase/21/language/java-language-changes-summary.html)
+- [Java Programming Language Enhancements - Java 8](https://docs.oracle.com/javase/8/docs/technotes/guides/language/enhancements.html)
 - **Core Java for the Impatient** (3rd, 2022, Cover Java 17) (2nd, 2017, Cover Java 9) (1st, 2013, Cover Java 8) by Cay S.Horstmann
 - Modern Java in Action (2nd, 2018, Cover Java 9) by Raoul-Gabriel Urma, Mario Fusco
 - Modern Java Recipes: Simple Solutions to Difficult Problems in Java 8 and 9 (2017) by Kousen, Ken
