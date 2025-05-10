@@ -1151,6 +1151,9 @@ AI-Assisted Programming
 - Learn AI-Assisted Python Programming: With GitHub Copilot and ChatGPT (2nd, 2024) by Leo Porter, Daniel Zingaro
 - Learn Coding with ChatGPT: Introduction to Python & Java, Tips for App, Web & Script Development Paperback (2024) by Manuel Schneider
 - AI-Powered Developer: Build great software with ChatGPT and Copilot (2024) by Nathan B. Crocker
+- Software Testing with Generative AI (2024) by Mark Winteringham
+- "Looks Good To Me": Constructive code reviews (2025) by Adrienne Braganza
+- [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools). FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent (And other Open Sourced) System Prompts, Tools & AI Models.
 
 AI Prompt
 

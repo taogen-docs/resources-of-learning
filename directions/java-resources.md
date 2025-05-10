@@ -90,11 +90,16 @@
 
 #### Concurrency Programming
 
-Must Read
+New books
+
+- Java Concurrency and Parallelism: Master advanced Java techniques for cloud-based applications through concurrency and parallelism (2024) by Jay Wang. (Publisher: Packt Publishing)
+- Virtual Threads, Structured Concurrency, and Scoped Values: Explore Java’s New Threading Model (2024) by Ron Veen and David Vlijmincx. (Publisher: Apress)
+- Modern Concurrency in Java: A Deep Dive into Virtual Threads, Structured Concurrency, and Scoped Values (2025) by A N M Bazlur Rahman (Publisher: O'Reilly Media)
+- Mastering Java Concurrency: Threads, Synchronization, and Parallel Processing (2024) by Peter Jones (Publisher: Independently published)
+
+Classic books
 
 - **Java Concurrency in Practice** (2006) by Goetz, Brian. <br>This book is summative, and insightful, not a fundamental book. Before reading this book, you need to understand the basic concepts of Java concurrency. If you are a beginner for Java concurrency, we recommend you to read "The Java Tutorial: A Short Course on the Basics - chapter 13. Concurrency" that is friendly for a beginner.
-- Java Concurrency and Parallelism: Master advanced Java techniques for cloud-based applications through concurrency and parallelism (2024) by Jay Wang
-- Virtual Threads, Structured Concurrency, and Scoped Values: Explore Java’s New Threading Model (2024) by Ron Veen and David Vlijmincx
 - Mastering Concurrency Programming With Java 8 (2016) by Javier Fernández González
 - Mastering Concurrency Programming with Java 9 (2nd, 2017) by Javier Fernandez Gonzalez
 - Java Threads: Understanding and Mastering Concurrent Programming (3rd, 2004) by Scott Oaks, Henry Wong
