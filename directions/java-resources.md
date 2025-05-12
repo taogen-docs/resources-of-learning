@@ -62,7 +62,7 @@
 - [Java Frequently Asked Questions (FAQs)](https://dev.java/learn/faq/)
 - [OpenJDK Developers’ Guide](https://openjdk.org/guide/)
 - JSR-133: Java Memory Model and Thread Specification (Java 1.5, 2004) - [PDF](https://www.cs.umd.edu/~pugh/java/memoryModel/jsr133.pdf)
-- **Effective Java** (3rd, 2017, Cover Java 9) by Joshua Bloch 
+- **Effective Java** (3rd, 2017, Cover Java 9) by Joshua Bloch <img src="../assets/icon/publisher/addison-wesley-logo.png" alt="addison-wesley-logo" height="15px" />
 - **Thinking in Java** (4th, 2006) by Eckel, Bruce
 - On Java 8 by Bruce Eckel
 - Java by Comparison: Become a Java Craftsman in 70 Examples by Simon Harrer, Jörg Lenhard, Linus Dietz
@@ -92,9 +92,9 @@
 
 New books
 
-- Java Concurrency and Parallelism: Master advanced Java techniques for cloud-based applications through concurrency and parallelism (2024) by Jay Wang. (Publisher: Packt Publishing)
-- Virtual Threads, Structured Concurrency, and Scoped Values: Explore Java’s New Threading Model (2024) by Ron Veen and David Vlijmincx. (Publisher: Apress)
-- Modern Concurrency in Java: A Deep Dive into Virtual Threads, Structured Concurrency, and Scoped Values (2025) by A N M Bazlur Rahman (Publisher: O'Reilly Media)
+- Java Concurrency and Parallelism: Master advanced Java techniques for cloud-based applications through concurrency and parallelism (2024) by Jay Wang. <img src="../assets/icon/publisher/packt-icon.svg" alt="packt-icon" height="20px" />
+- Virtual Threads, Structured Concurrency, and Scoped Values: Explore Java’s New Threading Model (2024) by Ron Veen and David Vlijmincx. <img src="../assets/icon/publisher/apress-logo.svg" alt="apress-logo" height="12px" />
+- Modern Concurrency in Java: A Deep Dive into Virtual Threads, Structured Concurrency, and Scoped Values (2025) by A N M Bazlur Rahman <img src="../assets/icon/publisher/oreilly-icon.svg" alt="oreilly-icon" height="20px" />
 - Mastering Java Concurrency: Threads, Synchronization, and Parallel Processing (2024) by Peter Jones (Publisher: Independently published)
 
 Classic books
