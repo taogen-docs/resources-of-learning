@@ -10,3 +10,7 @@
 - Packt <img src="./packt-icon.svg" alt="packt-icon" height="20px" />
 - Pearson <img src="./pearson-icon.svg" alt="pearson-icon" height="18px" />
 - Wiley <img src="./wiley-icon.svg" alt="wilet-icon" height="14px" />
+
+References
+
+[1] [Top 7 Publishers of Books on Computer Technologies That You Must Know](https://levelup.gitconnected.com/top-7-publishers-of-books-on-computer-technologies-that-you-must-know-b36d51e29bc1)

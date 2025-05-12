@@ -99,6 +99,9 @@ New books
 
 Classic books
 
+- The Java Tutorial: A Short Course on the Basics - Chapter 13. Concurrency
+- Core Java - Chapter 10. Concurrency
+- [JSR-133 Java Memory Model and Thread Specification](https://download.oracle.com/otndocs/jcp/memory_model-1.0-pfd-spec-oth-JSpec/)
 - **Java Concurrency in Practice** (2006) by Goetz, Brian. <br>This book is summative, and insightful, not a fundamental book. Before reading this book, you need to understand the basic concepts of Java concurrency. If you are a beginner for Java concurrency, we recommend you to read "The Java Tutorial: A Short Course on the Basics - chapter 13. Concurrency" that is friendly for a beginner.
 - Mastering Concurrency Programming With Java 8 (2016) by Javier Fernández González
 - Mastering Concurrency Programming with Java 9 (2nd, 2017) by Javier Fernandez Gonzalez
@@ -565,6 +568,13 @@ Some more
 - Restlet in Action: Developing RESTful web APIs in Java by Jerome Louvel, Thierry Templier, Thierry Boileau
 
 #### Spring Boot + K8S + Istio
+
+<details>
+<summary>为什么用 K8S</summary>
+
+自从 k8s 一统江湖之后，spring cloud 的生态已经不吃香了，注册中心、配置中心、gateway 、Sentinel ，k8s 都有，而且不限语言。
+
+</details>
 
 - Cloud Native Spring in Action: with Spring Boot and Kubernetes (2022) by Thomas Vitale
 - Microservices with Spring Boot 3 and Spring Cloud: Build resilient and scalable microservices using Spring Cloud, Istio, and Kubernetes (3rd, 2023) by Magnus Larsson

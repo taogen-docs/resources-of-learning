@@ -1270,6 +1270,7 @@ Noncompete Agreement
 - [中华人民共和国劳动法](http://www.gov.cn/banshi/2005-05/25/content_905.htm)
 - [中华人民共和国劳动法（2018年修正）](http://www.dh.gov.cn/fzjzj/Web/_F0_0_28D00828VJ46HTWA9NS3I0M2H4.htm)
 - [中华人民共和国劳动合同法](http://www.gov.cn/jrzg/2007-06/29/content_667720.htm)
+- 劳动法学习实操手册 [第3版](https://365.kdocs.cn/l/caNjbacnJr3U)
 
 ### Economic Law
 
