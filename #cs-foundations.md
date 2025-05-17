@@ -738,6 +738,12 @@ Expose a local server to the Internet
 - [ngrok](https://ngrok.com/)
 - [natapp](https://natapp.cn/)
 
+Network packet analyzer
+
+- [Wireshark](https://github.com/wireshark/wireshark) - The world's most popular network protocol analyzer.
+- [Fiddler](https://www.telerik.com/fiddler) - Web Debugging Proxy and Troubleshooting Tools.
+- [Charles](https://www.charlesproxy.com/) - Charles is an HTTP proxy / HTTP monitor / Reverse Proxy that enables a developer to view all of the HTTP and SSL / HTTPS traffic between their machine and the Internet.
+
 ### Network Security
 
 Reference [information-security-resources - Network Security](directions/information-security-resources.md#netsec_t)
