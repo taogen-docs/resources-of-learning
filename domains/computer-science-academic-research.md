@@ -32,7 +32,7 @@
 
 - [USENIX - free download](https://www.usenix.org/)
 - [arXiv - preprint](http://arxiv.org/)
-- [sci-hub](https://sci-hub.tw)
+- [sci-hub](https://sci-hub.se/)
 
 4
 
