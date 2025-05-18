@@ -346,56 +346,6 @@ Audio analysis (AI)
 <h2><a name="dbms_t" href="#dbms_c">Database Systems and Data Storage</a></h2>
 <br>
 
-### Database Systems
-
-- **Database System Concepts** (7th, 2019) by Sudarshan, Korth
-- Fundamentals of Database System (7th, 2017) by Ramez Elmasri,  Shamkant B. Navathe
-- Database System Implementation by Hector Garcia-Molina, Jeffrey D.Ullman and  Jennifer Widom
-- Architecture of a Database System by James Hamilton, Joseph M. Hellerstein, and Michael Stonebraker [PDF](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf)
-- Database Systems: Design, Implementation, & Management (13th, 2018) by Carlos Coronel, Steven Morris
-- Database Management Systems (3rd, 2002) by Raghu Ramakrishnan, Johannes Gehrke
-
-Some More
-
-- Database Management System by Raghu Ramakrishnan, Johannes Gehrke
-- Fundamentals of Relational Database Management Systems by S. Sumathi, S. Esakkirajan
-- Database Systems concepts, languages & architectures by Paolo Atzeni, Stefano Ceri, Stefano Paraboschi, Riccardo Torlone
-- Database Systems: A Practical Approach to Design, Implementation, and Management by Carolyn E. Begg and Thomas M. Connolly
-
-Courses
-
-- [CMU 15-445: Intro to Database Systems](https://15445.courses.cs.cmu.edu/fall2019/)
-- [CMU 15-721: Advanced Database Systems](https://15721.courses.cs.cmu.edu/spring2019/)
-
-For Database Design
-
-- Database Modeling and Design  by Toby J. Teorey
-- **Beginning Database Design** (2nd, 2012) by Clare Churcher
-- **Database Design for Mere Mortals: A Hands-On Guide to Relational Database Design** (4th, 2020) by Michael J. Hernandez
-- Beginning Database Design Solutions (2008) by Rod Stephens
-- Database Design and Relational Theory: Normal Forms and All That Jazz (2nd, 2019) by C.J. Date
-- Relational Database Index Design and the Optimizers by Tapio Lahdenmaki
-
-For SQL
-
-- SQL QuickStart Guide (2019) by Walter Shields 
-- Sams teach yourself SQL in 10 minutes,4th edition by Ben Forta / SQL 必知必会
-- Learning SQL by Alan Beaulieu
-- SQL Cookbook by Anthony Molinaro
-- **SQL Antipatterns: Avoiding the Pitfalls of Database Programming** (2010) by Bill Karwin
-- T-SQL Fundamentals by Itzik Ben-Gan
-- T-SQL Querying by Itzik Ben-Gan
-- **SQL Queries for Mere Mortals: A Hands-on Guide to Data Manipulation in SQL** (4th, 2018) by John Viescas
-- SQL Pocket Guide by Jonathan Gennick
-- The Art of SQL by Stéphane Faroult
-- SQL Performance Explained by Markus Winand
-- Practical SQL: A Beginner's Guide to Storytelling with Data (2nd, 2022) by Anthony DeBarros
-
-For NoSQL
-
-- NoSQL for Mere Mortals by Dan Sullivan
-- Professional NoSQL by Shashank Tiwari
-- Seven Databases in Seven Weeks by Luc Perkins, Eric Redmond
 
 ### Relational Databases
 
