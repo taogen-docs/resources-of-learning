@@ -2,7 +2,7 @@
 
 > High buildings rise from the ground.
 
-> If you can't explain it simply, you don't understand it well enough.
+> If you can't explain it simply, you don't understand it well enough. — Albert Einstein
 
 > Deeds, not words.
 
@@ -583,6 +583,7 @@ Linux Programming (Linux system calls)
 
 - **Linux Kernel Development** (3rd, 2010) by Robert Love [4.33, 845]
 - **The Linux Programming Interface** (2010) by Michael Kerrisk [4.63, 649]
+- Linux System Programming: Talking Directly to the Kernel and C Library by Robert Love [4.3, 294]
 - Beginning Linux Programming (4th, 2011) by Mathew Neil and Richard Stones [3.77, 155]
 - Understanding Unix/Linux Programming by Bruce Molay [4.11, 35]
 - Linux 环境编程 by 高峰
@@ -743,10 +744,11 @@ For Packet Analysis
 - Wireshark 网络分析就这么简单 by 林沛满 
 - wireshark 网络分析的艺术 by 林沛满
 
-For Programming
+For Network Programming
 
 - **Unix Network Programming Vol 1** (3rd, 2003) Sockets API - Richard Stevens
 - **Unix Network Programming Vol 2** (2nd, 1998) Inter process Communication - Richard Stevens
+- Understanding Linux Network Internals: Guided Tour to Networking on Linux (2006) by Christian Benvenuti 
 
 ### TCP/IP
 

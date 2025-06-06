@@ -394,6 +394,8 @@ Tutorials
 
 <br>
 
+>The secret of a good software is not kept inside its know-how, but the know-why. - Atomic Energy
+
 ### System Architecture
 
 Roadmap
@@ -671,6 +673,13 @@ Best CI/CD Tools in DevOps
 - AWS CodePipeline/AWS CodeStar
 - TeamCity
 - Travis CI
+
+Self-Hosted CI/CD Tools
+
+- Jenkins: An open-source automation server widely used for CI/CD, offering a vast plugin ecosystem and flexibility.
+- TeamCity: A commercial CI/CD tool by JetBrains, known for its affordability, extensive cloud integrations, and support for multi-platform development.
+- Bamboo: An Atlassian tool designed for larger teams and complex workflows, offering seamless integration with other Atlassian products like Bitbucket and Jira.
+- GitLab CI/CD: An integrated CI/CD tool within GitLab, providing a comprehensive suite for software development and delivery.
 
 <img src="/assets/icon/engineering/Jenkins.svg" width="24px"/>Jenkins
 
