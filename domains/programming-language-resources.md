@@ -1,6 +1,8 @@
 # Programming Language Resources
 
->The only way to learn a new programming language is by writing programs in it. — Dennis Ritchie
+>The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+
+> What I cannot create, I do not understand. — Richard Feynman
 
 >Use it or lose it.
 
@@ -8,6 +10,7 @@
 
 - <a name="lang_c" href="#lang_t">Programming Languages</a>
 - <a name="nonturinglang_c" href="#nonturinglang_t">Non-Turing-Complete Languages</a>
+- <a name="cpl_c" href="#cpl_t">Characteristics of Programming Languages</a>
 - <a name="pgmprd_c" href="#pgmprd_t">Programming Paradigms</a>
 - <a name="mfp_c" href="#mfp_t">Metaphors for Programming</a>
 - <a name="mfpl_c" href="#mfpl_t">Metaphors for Programming Languages</a>
@@ -1176,6 +1179,152 @@ Some More
 - Textile
 - BBCode
 - Pendown
+
+
+<br>
+
+<h2><a name="cpl_t" href="#cpl_c">Characteristics of Programming Languages</a></h2>
+
+<br>
+
+**1\. Compiled vs Interpreted**
+
+Core difference: how code is converted into machine instructions and executed.
+
+**Compiled Languages**: Translated entirely into machine code before execution. For example: C, C++, Rust, Go.
+
+Pros:
+
+- Faster execution (no translation during runtime)
+- More optimized performance
+- Early detection of syntax/type errors
+
+Cons:
+
+- Slower development cycle (compile before run)
+- Harder to debug without symbols
+
+**Interpreted Languages**: Executed line-by-line by an interpreter at runtime. For example: Python, Ruby, JavaScript, PHP.
+
+Pros:
+
+- Easier to debug
+- More flexibility (can be modified at runtime)
+- Faster prototyping
+
+Cons:
+
+- Slower execution
+- Errors may only appear at runtime
+
+**2\. Static Typing vs Dynamic Typing**
+
+Core difference: Whether type checking occurs at compile time or runtime.
+
+**Static Typing**: Variable types are known at compile time. For example: Java, C, C++, Rust, Go.
+
+Pros:
+
+- Type errors caught early
+- Better IDE support and tooling
+- More optimizations possible
+
+Cons:
+
+- More boilerplate code
+- Less flexibility (need to declare types)
+
+```java
+// Java（Static type）
+int x = 10;  // Type determined at compile time
+x = "hello"; // Compilation error: Type mismatch
+```
+
+**Dynamic Typing**: Variable types are determined at runtime. For example: Python, JavaScript, Ruby, PHP.
+
+Pros:
+
+- Easier and faster to write
+- More flexible (can reuse variables of different types)
+
+Cons:
+
+- Type errors appear only at runtime
+- Can be harder to maintain and debug in large codebases
+
+```python
+# Python（Dynamic type）
+x = 10      # Inferred at runtime as int
+x = "hello" # Legal: types can change dynamically
+```
+
+**3\. Strong Typing vs Weak Typing**
+
+Core difference: Whether type conversion requires explicit operation (strictness).
+
+**Strong Typing**: Types are strictly enforced; implicit conversions are limited. For example: Python, Java, Ruby.
+
+Pros:
+
+- Prevents unexpected behavior
+- Forces clear type conversions
+
+Cons:
+
+- May require more explicit code
+- Less flexible for quick-and-dirty scripting
+
+```python
+# Python（Strong type）
+x = "1" + 1  # TypeError：Explicit conversion required `int("1") + 1`
+```
+
+**Weak Typing**: Allows implicit type conversions more freely. For example: JavaScript, PHP, Perl.
+
+Pros:
+
+- Convenient for simple scripts
+- Less code to write for certain tasks
+
+Cons:
+
+- Can lead to subtle, hard-to-detect bugs
+- Type coercion may cause confusing behavior (e.g., `'' == 0` is `true` in JS)
+
+```javascript
+// JavaScript（Weak type）
+let x = "1" + 1; // Legal, the result is a string "11"（Implicit conversion）
+let y = "1" - 1; // Legal, the result is the number 0.（Implicit conversion）
+```
+
+**Summary Table**
+
+| Language            | Compiled / Interpreted                     | Static / Dynamic Typing   | Strong / Weak Typing |
+| ------------------- | ------------------------------------------ | ------------------------- | -------------------- |
+| C                   | Compiled                                   | Static                    | Weak                 |
+| C++                 | Compiled                                   | Static                    | Weak                 |
+| Rust                | Compiled                                   | Static                    | Strong               |
+| Go                  | Compiled                                   | Static                    | Strong               |
+| Java                | Compiled (to bytecode) + Interpreted (JIT) | Static                    | Strong               |
+| Kotlin              | Same as Java (JVM Language)                | Static                    | Strong               |
+| C#                  | Compiled + Interpreted                     | Static                    | Strong               |
+| Python              | Interpreted                                | Dynamic                   | Strong               |
+| Ruby                | Interpreted                                | Dynamic                   | Strong               |
+| PHP                 | Interpreted                                | Dynamic                   | Weak                 |
+| JavaScript          | Interpreted                                | Dynamic                   | Weak                 |
+| Objective-C         | Compiled                                   | Static                    | Weak                 |
+| Swift               | Compiled                                   | Static                    | Strong               |
+| Perl                | Interpreted                                | Dynamic                   | Weak                 |
+| Groovy              | Same as Java (JVM Language)                | Dynamic (optional static) | Strong               |
+| Lua                 | Interpreted                                | Dynamic                   | Weak                 |
+| Clojure             | Same as Java (JVM Language)                | Dynamic                   | Strong               |
+| F#                  | Compiled (.NET)                            | Static                    | Strong               |
+| Scala               | Same as Java (JVM Language)                | Static                    | Strong               |
+| Erlang              | Compiled (BEAM VM)                         | Dynamic                   | Strong               |
+| R                   | Interpreted                                | Dynamic                   | Weak                 |
+| Visual Basic (.NET) | Compiled (to IL)                           | Static                    | Strong               |
+| Lisp (Common Lisp)  | Interpreted / Compiled                     | Dynamic                   | Strong               |
+| Haskell             | Compiled                                   | Static                    | Strong               |
 
 <br>
 
