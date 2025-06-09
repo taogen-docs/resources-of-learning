@@ -222,7 +222,6 @@ Primary
 - **The Rust Programming Language** (2nd, 2023) by Carol Nichols and Steve Klabnik
 - **Rust for Rustaceans: Idiomatic Programming for Experienced Developers** (2021) by Jon Gjengset
 - **Programming Rust: Fast, Safe Systems Development** (2021) by Jason Orendorff and Jim Blandy
-- Command-Line Rust: A Project-Based Primer for Writing Rust CLIs by Ken Youens-Clark
 - Rust Programming By Example: Enter the World of Rust by Building Engaging, Concurrent, Reactive, and Robust Applications by Antoni Boucher and Guillaume Gomez
 - Rust in Action by Tim McNamara
 
@@ -240,6 +239,10 @@ Advanced
 - Concurrency
   - **Rust Atomics and Locks: Low-Level Concurrency in Practice** (2023) by Mara Bos
   - Hands-On Concurrency with Rust: Confidently Build Memory-Safe, Parallel, and Efficient Software in Rust by Brian L Troutwine
+- Effective
+	- Effective Rust: 35 Specific Ways to Improve Your Rust Code (2024) by David Drysdale
+- Idiomatic Rust: Code like a Rustacean (2024) by Brenden Matthews
+- Command-Line Rust: A Project-Based Primer for Writing Rust CLIs (2022) by Ken Youens-Clark
 
 Application Development
 
@@ -290,7 +293,8 @@ Primary
 - Introducing Go: Build Reliable, Scalable Programs by Caleb Doxsey
 - Go Programming Blueprints by Mat Ryer
 - Go in Action by William Kennedy, Brian Ketelsen
-- Go in Practice by Matt Butcher
+- Go in Practice (2nd, 2025) by Matt Butcher
+- Go Programming - From Beginner to Professional: Learn everything you need to build modern software using Go (2nd, 2024) by Samantha Coyle
 
 Style Guide
 
@@ -346,6 +350,8 @@ Advanced
 - Go Cookbook: Expert Solutions for Commonly Needed Go Tasks (2023) by Sau Sheong Chang
 - Mastering Go: Leverage Go's expertise for advanced utilities, empowering you to develop professional software (4th, 2024) by Mihalis Tsoukalos
 - Go for DevOps: Learn how to use the Go language to automate servers, the cloud, Kubernetes, GitHub, Packer, and Terraform (2022) by John Doak (Author), David Justice 
+- System Programming Essentials with Go: System calls, networking, efficiency, and security practices with practical projects in Golang (2024) by Alex Rios
+- Network Programming with Go: Code Secure and Reliable Network Services from Scratch (2021) by Adam Woodbeck
 - CLI
   - Powerful Command-Line Applications in Go: Build Fast and Maintainable Tools (2021) by Ricardo Gerardi
   - Building Modern CLI Applications in Go: Develop next-level CLIs to improve user experience, increase platform usage, and maximize production (2023) by Marian Montagnino
@@ -549,6 +555,7 @@ Advanced
   - Classic Computer Science Problems in Python (2019) by David Kopec
   - Pro Python by Marty Alchin
   - Expert Python Programming by Tarek Ziadé
+  - Python Distilled (2021) by David Beazley 
   - Python工匠 by 朱雷
 - Effective
   - Effective Python: 59 Specific Ways to Write Better Python by Brett Slatkin

@@ -118,6 +118,7 @@ HTML & CSS
 - CSS in Depth by Keith J. Grant
 - The Book of CSS3: A Developer's Guide to the Future of Web Design by Peter Gasston
 - CSS Cookbook by Christopher Schmitt 
+- Tiny CSS Projects (2023) by Martine Dowden, Michael Gearon
 
 
 Responsive Design 
@@ -261,10 +262,11 @@ Primary
 - JavaScript from Beginner to Professional: Learn JavaScript quickly by building fun, interactive, and dynamic web apps, games, and pages by Laurence Lars Svekis, Maaike Van Putten, Rob Percival
 - Learn JavaScript Quickly: A Complete Beginner’s Guide to Learning JavaScript, Even If You’re New to Programming (Crash Course With Hands-On Project) by Code Quickly
 - JavaScript: A Beginner's Guide (5th, 2019) by John Pollock. 《新手学 JavaScript 编程》
+- JavaScript Crash Course: A Hands-On, Project-Based Introduction to Programming (2024) by Nick Morgan
 
 Intermediate
 
-- ⭐**Eloquent JavaScript: A Modern Introduction to Programming** (3rd, 2018) by Marijn Haverbeke
+- ⭐**Eloquent JavaScript: A Modern Introduction to Programming** (4th, 2024) by Marijn Haverbeke
 - Speaking JavaScript: An In-Depth Guide for Programmers by Axel Rauschmayer
 - The Joy of JavaScript by Luis Atencio
 - JavaScript Cookbook: Programming the Web (3rd, 2021) by Adam Scott, Matthew MacDonald, Shelley Powers
@@ -422,19 +424,20 @@ jQuery UI
 
 >Developed by Facebook, React is one of the most popular JavaScript libraries for building user interfaces, especially single-page applications. It uses a component-based architecture and a virtual DOM for efficient updates.
 
+Beginner
+
 - Documentations
 	- [React Learn](https://react.dev/learn) 
 	- [React Reference](https://react.dev/reference/react)
 - [React Roadmap](https://roadmap.sh/react)
 - **The Road to React: The React.js with Hooks in JavaScript Book 2024 Edition** by Robin Wieruch [4.23, 522]
 - **Learning React: Modern Patterns for Developing React Apps** (2nd, 2020) by Alex Banks and Eve Porcello [4.04, 496]
-- Fluent React: Build Fast, Performant, and Intuitive Web Applications (2024) by Tejas Kumar
 - React Key Concepts: Consolidate your knowledge of React’s core features (2022) by Maximilian Schwarzmüller
 - React Cookbook: Recipes for Mastering the React Framework (2021) by David Griffiths, Dawn Griffiths
 - React Explained: Your Step-by-Step Guide to React (2020) by Zac Gordon
 - React Hooks in Action: With Suspense and Concurrent Mode (2021) by John Larsen
 - React Quickly (2nd, 2023) by Azat Mardan [3.51, 81]
-- React: Up and Running (2021) by Stoyan Stefanov [3.70, 141]
+- React: Up and Running (2nd, 2021) by Stoyan Stefanov [3.70, 141]
 
 Some More
 
@@ -448,6 +451,12 @@ React Project Structures
 
 - [How To Structure React Projects From Beginner To Advanced](https://blog.webdevsimplified.com/2022-07/react-folder-structure/)
 - [Understanding Reactjs Project Structure and Best Practices](https://www.xenonstack.com/insights/reactjs-project-structure)
+
+**Advanced**
+
+- Advanced React: Deep dives, investigations, performance patterns and techniques (2023) by Nadia Makarevich 
+- React in Depth (2024) by Morten Barklund
+- Fluent React: Build Fast, Performant, and Intuitive Web Applications (2024) by Tejas Kumar
 
 React with TypeScript
 
@@ -1091,6 +1100,7 @@ Interview questions
 - Real-World Next.js: Build scalable, high-performance, and modern web applications using Next.js, the React framework for production (2022) by Michele Riva
 - Beginning Next.js Development: Learn NextJS and Build a Full Stack Dynamic Application Using React, NextJS, TailwindCSS, and MongoDB (2024) by Nathan Sebhastian
 - Dynamic Trio: Building Web Applications with React, Next.js & Tailwind (2023) by Grace Huang
+- Modern Full-Stack React Projects: Build, maintain, and deploy modern web apps using MongoDB, Express, React, and Node.js (2024) by Daniel Bugl 
 
 **Gatsby**
 
@@ -1147,6 +1157,7 @@ Reference [cs-advanced-domains-resource -  MongoDB](/_cs-advanced-domains-resour
 ### Full Stack
 
 - Hands-On Full-Stack Web Development with GraphQL and React: Build scalable full-stack applications while learning to solve complex problems with GraphQL by Sebastian Grebe
+- Full Stack JavaScript Strategies: The Hidden Parts Every Mid-Level Developer Needs to Know (2025) by Milecia McGregor
 - Web全栈工程师的自我修养 by 余果
 
 ### Serverless

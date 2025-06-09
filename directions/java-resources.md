@@ -71,6 +71,7 @@
 - Think Java: How to Think Like a Computer Scientist by Allen B. Downey
 - Java Cookbook: Problems and Solutions for Java Developers (4th, 2020)  by Ian F. Darwin
 - Java Network Programming by Elliotte Rusty Harold
+- Java Coding Problems: Become an expert Java programmer by solving over 250 brand-new, modern, real-world problems (2nd, 2024) by Anghel Leonard 
 - 阿里巴巴Java开发手册 by 杨冠宝 
 - 码出高效：Java开发手册 by 杨冠宝 
 - Java Generics and Collections: Speed Up the Java Development Process by Maurice Naftalin
