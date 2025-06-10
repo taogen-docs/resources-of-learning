@@ -13,6 +13,8 @@
 - <a name="softsec_c" href="#softsec_t">Software Security</a>
 - <a name="mobsec_c" href="#mobsec_t">Mobile Security</a>
 - <a name="reveng_c" href="#reveng_t">Reverse Engineering</a>
+- <a name="hh_c" href="#hh_t">Hardware Hacking</a>
+- <a name="md_c" href="#md_t">Malware Development</a>
 - <a name="socialeng_c" href="#socialeng_t">Social Engineering</a>
 - <a name="seceng_c" href="#seceng_t">Security Engineering and Architecture</a>
 
@@ -76,6 +78,10 @@ Threat Modeling
 - **Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali** (2018) by OccupyTheWeb
 - Getting Started Becoming a Master Hacker: Hacking is the Most Important Skill Set of the 21st Century! (2019) by Occupytheweb
 - Network Basics for Hackers: How Networks Work and How They Break (2023) by Master OccupytheWeb
+- Defensive Security Handbook: Best Practices for Securing Infrastructure (2nd, 2024) by Lee Brotherston, Amanda Berlin, III William F. Reyor 
+- How Cybersecurity Really Works: A Hands-On Guide for Total Beginners (2021) by Sam Grubb
+- Computer Security: Principles and Practice (4th, 2017) by William Stallings, Lawrie Brown
+- Hacking For Dummies (7th, 2022) by Kevin Beaver
 
 
 <br>
@@ -94,9 +100,20 @@ Reference [CS Fundamentals Resources - Cryptography](../%23cs-foundations.md#cry
 - **Network Security: Private Communication in a Public World** (3rd, 2022) by Charlie Kaufman , Radia Perlman
 - Network Security: A Beginner's Guide by Eric Maiwald
 - Hacking Wireless Networks - The ultimate hands-on guide by Andreas Kolokithas
-- Network Security Assessment by Chris McNab
-- The Practice of Network Security Monitoring: Understanding Incident Detection and Response by Richard Bejtlich
+- Network Security Assessment: Know Your Network (3rd, 2016) by Chris McNab
+- The Practice of Network Security Monitoring: Understanding Incident Detection and Response (2013) by Richard Bejtlich
 - Attacking Network Protocols: A Hacker's Guide to Capture, Analysis, and Exploitation by James Forshaw
+- Cybersecurity for Small Networks: A Guide for the Reasonably Paranoid (2022) by Seth Enoka 
+- Network Security Essentials: Applications and Standards (6th, 2016) by William Stallings
+- Applied Network Security Monitoring (2013) by Chris Sanders, Jason Smith
+- Cybersecurity All-in-One For Dummies (2023) by Joseph Steinberg, Kevin Beaver, Ira Winkler, Ted Coombs
+- Network Security, Firewalls, and VPNs (3rd, 2023) by J. Michael Stewart, Denise Kinsey
+- Zero Trust Networks: Building Secure Systems in Untrusted Networks (2nd, 2024) by Razi Rais, Christina Morillo, Evan Gilman, Doug Barth 
+- Network Security For Dummies (2002) by Chey Cobb
+- Cybersecurity: The Beginner's Guide: A comprehensive guide to getting started in cybersecurity (2019) by Dr. Erdal Ozkaya 
+- Cybersecurity Essentials (2018) by Charles J. Brooks, Christopher Grow, Philip A. Craig
+- How to Measure Anything in Cybersecurity Risk (2nd, 2023) by Douglas W. Hubbard, Richard Seiersen
+- Cybersecurity First Principles: A Reboot of Strategy and Tactics (2023) by Rick Howard
 
 <br>
 
@@ -113,6 +130,10 @@ Reference [CS Fundamentals Resources - Cryptography](../%23cs-foundations.md#cry
 - SQL Injection Attacks and Defense by Justin Clarke
 - Xss Attacks: Cross Site Scripting Exploits and Defense
   by Jeremiah Grossman, Seth Fogie, Robert C. Hansen
+- Web Application Security: Exploitation and Countermeasures for Modern Web Applications (2nd, 2024) by Andrew Hoffman
+- Attacking and Exploiting Modern Web Applications: Discover the mindset, techniques, and tools to perform modern web attacks and exploitation (2023) by Simone Onofri, Donato Onofri
+- Grokking Web Application Security (2024) by Malcolm McDonald
+- Real-World Bug Hunting: A Field Guide to Web Hacking (2019) by Peter Yaworski
 - 白帽子讲Web安全 (2012) by 吴翰清
 - 白帽子讲浏览器安全 (2016) by 钱文祥
 - Web安全深度剖析 by 张炳帅
@@ -131,12 +152,17 @@ Reference [CS Fundamentals Resources - Cryptography](../%23cs-foundations.md#cry
 - PTFM: Purple Team Field Manual (2020) by Tim Bryant. A manual for all security professionals and integrates red and blue team methodologies.
 - LFM: Linux Field Manual (2021) by Tim Bryant 
 - Operator Handbook: Red Team + OSINT + Blue Team Reference by Joshua Picolet
+- The Pentester BluePrint: Starting a Career as an Ethical Hacker (2020) by Phillip L. Wylie, Kim Crawley
+- The Ultimate Kali Linux Book: Perform advanced penetration testing using Nmap, Metasploit, Aircrack-ng, and Empire (2nd, 2022) by Glen D. Singh
+- Kali Linux Penetration Testing Bible (2021) by Gus Khawaja 
+- The Hacker Playbook: Practical Guide To Penetration Testing (2014) by Peter Kim
 
 <br>
 <h2><a name="ossec_t" href="#ossec_c">Operating System Security</a></h2>
 <br>
 
 - A Guide to Kernel Exploitation: Attacking the Core by Enrico Perla
+- Windows Security Internals: A Deep Dive into Windows Authentication, Authorization, and Auditing (2024) by James Forshaw
 
 <br>
 <h2><a name="softsec_t" href="#softsec_c">Software Security</a></h2>
@@ -172,8 +198,24 @@ Reference [CS Fundamentals Resources - Cryptography](../%23cs-foundations.md#cry
 - Practical Binary Analysis: Build Your Own Linux Tools for Binary Instrumentation, Analysis, and Disassembly by Dennis Andriesse
 - The Art of Memory Forensics: Detecting Malware and Threats in Windows, Linux, and Mac Memory by Michael Hale Ligh, Andrew Case, Jamie Levy, Aaron Walters
 - Hacker Disassembling Uncovered by Kris Kaspersky, Natalia Tarkova, Julie Laing
+- The Ghidra Book: The Definitive Guide (2020) by Chris Eagle, Kara Nance
 - 加密与解密 by 段钢
 - 软件调试 by 张银奎
+
+<br>
+<h2><a name="hh_t" href="#hh_c">Hardware Hacking</a></h2>
+<br>
+
+- The Hardware Hacking Handbook: Breaking Embedded Security with Hardware Attacks (2021) by Jasper van Woudenberg, Colin O'Flynn 
+- Practical IoT Hacking: The Definitive Guide to Attacking the Internet of Things (2021) by Fotios Chantzis, Ioannis Stais, Paulino Calderon 
+
+<br>
+<h2><a name="md_t" href="#md_c">Malware Development</a></h2>
+<br>
+
+- Malware Development for Ethical Hackers: Learn how to develop various types of malware to strengthen cybersecurity (2024) by Zhassulan Zhussupov
+- Black Hat Bash: Creative Scripting for Hackers and Pentesters (2024) by Nick Aleks, Dolev Farhi 
+- Evasive Malware: A Field Guide to Detecting, Analyzing, and Defeating Advanced Threats (2024) by Kyle Cucci 
 
 
 <br>
@@ -197,6 +239,7 @@ Reference [CS Fundamentals Resources - Cryptography](../%23cs-foundations.md#cry
 - Practical Cloud Security: A Guide for Secure Design and Deployment by Chris Dotson
 - Secure by Design by Dan Bergh Johnsson, Daniel Deogun, Daniel Sawano
 - Building Secure and Reliable Systems: Best Practices for Designing, Implementing, and Maintaining Systems (2020) by Heather Adkins, Betsy Beyer, Paul Blankinship, Piotr Lewandowski, Ana Oprea, Adam Stubblefield
+- Cybersecurity Architect's Handbook: An end-to-end guide to implementing and maintaining robust security architecture (2024) by Lester Nichols
 
 ## References
 
