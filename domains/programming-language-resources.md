@@ -53,7 +53,8 @@ Advanced
 - Effective C: An Introduction to Professional C Programming (2020) by Robert C. Seacord
 - Fluent C: Principles, Practices, and Patterns (2022) by Christopher Preschern
 
-Open-source projects recommended reading (C)
+<details>
+    <summary>Open-source projects recommended reading (C)</summary>
 
 - Systems Programming
 	- [Linux Kernel](https://github.com/torvalds/linux). Learn low-level systems programming, memory management, process scheduling, drivers.
@@ -80,6 +81,8 @@ Open-source projects recommended reading (C)
 	- [OpenWRT](https://github.com/openwrt/openwrt). Embedded Linux distribution for routers. Learn build systems, networking protocols, firmware development. 
 - Others
 	- [Lua](https://github.com/lua/lua). Lightweight scripting language, learning virtual machine implementation and interpreter design.
+
+</details>
 
 
 #### <img src="/assets/icon/programming-languages/Cpp.svg" width="20px"/>C++
@@ -234,7 +237,8 @@ C++ 不是特殊场景，一般不会用它。1. 它太难掌握，对开发要�
 
 </details>
 
-Open-source projects recommended reading (C++ )
+<details>
+    <summary>Open-source projects recommended reading (C++)</summary>
 
 - Systems / Performance-Oriented
 	- [LevelDB](https://github.com/google/leveldb). a fast key-value storage library.
@@ -255,6 +259,9 @@ Open-source projects recommended reading (C++ )
 - Educational / Learning-focused Projects
 	- [The Cherno’s Hazel Game Engine](https://github.com/TheCherno/Hazel). Custom game engine by popular C++ YouTuber "The Cherno". Step-by-step game engine building. Great for learning engine design.
 	- [Cxxopts](https://github.com/jarro2783/cxxopts). Lightweight C++ command-line option parser. Small project, clean use of modern C++.
+
+</details>
+
 
 #### <img src="/assets/icon/programming-languages/Rust.svg" width="20px"/>Rust
 
@@ -462,6 +469,25 @@ Tools
 
 - IDE: GoLand, Visual Studio Code
 - Package Management: [Go Modules](https://go.dev/ref/mod)
+
+<details>
+    <summary>Open-source projects recommended reading (Go)</summary>
+
+- Standard Tools and Libraries
+	- [Go Standard Library](https://cs.opensource.google/go/go). It's well-designed, idiomatic, and high-quality. Start with packages like `net/http`, `io`, `context`, and `sync`.
+- DevOps / Tools
+	- [Docker (initial version written in Go)](https://github.com/moby/moby). Container engine. Learn about Linux namespaces, networking, and system call usage via Go.
+	- [K3s](https://github.com/k3s-io/k3s). Lightweight Kubernetes distribution. Learn embedded Go systems, API-driven architecture, Kubernetes internals.
+- Web Frameworks / HTTP Servers
+	- [Caddy](https://github.com/caddyserver/caddy). HTTP/2 web server with automatic HTTPS. Learn plugin architecture, modular Go design, TLS integration.
+	- [Gin](https://github.com/gin-gonic/gin). Popular high-performance HTTP web framework. Learn routing, middleware, context management, JSON handling.
+	- [Fiber](https://github.com/gofiber/fiber). Express-inspired web framework built on fasthttp. Learn performance optimization, minimalist design.
+- Networking / CLI Tools
+	- [gitleaks](https://github.com/gitleaks/gitleaks). Secrets detection for Git repos. Learn regex, file scanning, command-line design.
+	- [httpie-go](https://github.com/httpie/httpie-go). A friendly CLI HTTP client. Great for learning argument parsing, API requests, and output formatting.
+
+</details>
+
 
 ### Application & Productivity
 
@@ -700,6 +726,35 @@ Framework / Library Projects
 Application Projects
 
 - [feapder](https://github.com/Boris-code/feapder) 一款上手简单，功能强大的Python爬虫框架。
+
+<details>
+    <summary>Open-source projects recommended reading (Python)</summary>
+
+- Core Libraries / General-Purpose Tools
+	- [Requests](https://github.com/psf/requests). A simple and elegant HTTP library. Learn clean code structure, exception handling, session management, and API design.
+	- [Rich](https://github.com/Textualize/rich). Rich text and formatting in the terminal. Beautiful use of OOP, type annotations, and terminal UI abstractions.
+	- [Click](https://github.com/pallets/click). Command-line interface (CLI) creation toolkit. Learn decorators, CLI design, modularity, and context managers.
+- Web Development
+	- [Django](https://github.com/django/django). High-level Python web framework. Learn MVC (MTV in Django), ORM, middleware, and large-scale code structure.
+	- [Flask](https://github.com/pallets/flask). Lightweight WSGI web framework.  Learn minimalistic design, routing, extension system, and app factory pattern.
+	- [FastAPI](https://github.com/tiangolo/fastapi). High-performance web framework for APIs. Learn type hints, async programming, and data validation using Pydantic.
+- Data Science / Machine Learning
+	- [Pandas](https://github.com/pandas-dev/pandas). Data analysis and manipulation library. Dive into NumPy-backed operations, performance optimization, and APIs.
+	- [Scikit-learn](https://github.com/scikit-learn/scikit-learn). Machine learning library built on NumPy and SciPy. Well-structured object-oriented design, consistency in API, estimator interface.
+- AI / Deep Learning
+	- [Transformers (by HuggingFace)](https://github.com/huggingface/transformers). Library for pretrained transformers. Learn advanced object-oriented Python, config-driven design, CLI tools, models as objects.
+	- [TensorFlow](https://github.com/tensorflow/tensorflow). Deep learning framework by Google. C++ backend, Python bindings, computation graph design.
+- Language Tools / Compilers / Interpreters
+	- [PyPy](https://foss.heptapod.net/pypy/pypy). Alternative Python interpreter with a JIT compiler. Hardcore Python interpreter internals.
+	- [Black](https://github.com/psf/black). The uncompromising Python code formatter. Learn AST manipulation, robust error handling, tooling standards.
+- Games / GUI
+	- [pygame](https://github.com/pygame/pygame). Set of Python modules designed for writing video games. Learn multimedia programming, event loops, input handling.
+	- [Textual](https://github.com/Textualize/textual). TUI (Terminal UI) framework using Rich. Learn event-driven programming, component-based design, reactive UI.
+- Package Management / Dev Tools
+	- [Poetry](https://github.com/python-poetry/poetry). Dependency management and packaging tool. Learn CLI design, environment management, semver parsing.
+	- [pipx](https://github.com/pypa/pipx). Run Python CLI apps in isolated environments. Learn subprocess management, virtualenv logic, safety patterns.
+
+</details>
 
 #### <img src="/assets/icon/programming-languages/Ruby.svg" width="20px"/>Ruby 📉
 
