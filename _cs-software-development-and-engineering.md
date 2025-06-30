@@ -1205,6 +1205,8 @@ Technical Interview
   - Ace the Data Science Interview: 201 Real Interview Questions Asked By FAANG, Tech Startups, & Wall Street (2021) by Nick Singh, Kevin Huo
 - Machine Learning
   - Machine Learning System Design Interview (2023) by Ali Aminian, Alex Xu
+- Mobile App
+	- Mobile System Design Interview: An Insider’s Guide (2025) by Manuel Vicente Vivo 
 
 Behavioral Interview
 

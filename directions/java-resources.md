@@ -38,7 +38,7 @@
 - [**The Java™ Tutorials**](https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html)
 - [Learn Java - Dev.java](https://dev.java/learn/) - Dev.java is the official website for the Java platform and language maintained by the Java Platform Group at Oracle.
 - **The Java Tutorial: A Short Course on the Basics** (6th, 2014) by Raymond Gallardo - Cover Java 8
-- **Core Java** (13th, 2024) Volume I Fundamentals by S, Horstmann. Versions: 13th edition cover Java 21, 12th edition cover Java 17, 11th edition cover Java 11, 10th edition cover Java 8, 9th edition cover Java 7.
+- **Core Java** (13th, 2024) by S, Horstmann. Versions: 13th edition cover Java 21, 12th edition cover Java 17, 11th edition cover Java 11, 10th edition cover Java 8, 9th edition cover Java 7.
 - The Java Programming Language (4th, 2005) by Ken Arnold, James Gosling, David Holmes
 - Java: A Beginner's Guide (10th, 2024) by Herbert Schildt
 - Head First Java (3rd, 2022) by Kathy Sierra 

@@ -611,6 +611,7 @@ Resources
 - [Full Stack Python](https://www.fullstackpython.com/)
 - [TheAlgorithms/Python - GitHub](https://github.com/TheAlgorithms/Python)
 - [Pythonium](https://pythonium.net/)
+- [Web Browser Engineering](https://browser.engineering/) by Pavel Panchekha & Chris Harrelson. This book explains, building a basic but complete web browser, from networking to JavaScript, in a couple thousand lines of Python.
 
 Libraries
 
@@ -883,13 +884,13 @@ Google Chrome
 
 - JavaScript/TypeScript
 	- [React Native](https://reactnative.dev/) (2015) by Meta
+	- [Tauri](https://tauri.app/) (2020)
 	- [Ionic](https://ionicframework.com/) (2013)
 	- [Progressive Web Apps (PWA)](https://web.dev/explore/progressive-web-apps) (2016) by Google
 	- [Apache Cordova](https://cordova.apache.org/) / PhoneGap (2009)
+	- [Quasar Framework](https://quasar.dev/) (2015)
 - Dart
 	- [Flutter](https://flutter.dev/) (2017) by Google
-- Rust
-	- [Tauri](https://tauri.app/) (2020)
 - C#
 	- [Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin) (2011)
 	- [Unity](https://unity.com/) (2005)
