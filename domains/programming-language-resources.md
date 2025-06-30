@@ -53,6 +53,35 @@ Advanced
 - Effective C: An Introduction to Professional C Programming (2020) by Robert C. Seacord
 - Fluent C: Principles, Practices, and Patterns (2022) by Christopher Preschern
 
+Open-source projects recommended reading (C)
+
+- Systems Programming
+	- [Linux Kernel](https://github.com/torvalds/linux). Learn low-level systems programming, memory management, process scheduling, drivers.
+	- [Xv6](https://github.com/mit-pdos/xv6-public). A teaching operating system (re-implementation of Unix V6). Great for learning core OS concepts—syscalls, processes, file systems—in a small codebase.
+- Networking / Servers
+	- [Redis](https://github.com/redis/redis). High-performance key-value storage system, learning network programming and data structure optimization (such as skip lists and hash tables).
+	- [Nginx](https://github.com/nginx/nginx). High-performance HTTP and reverse proxy server. Learning event-driven architecture, efficient I/O, memory management.
+	- [libevent](https://github.com/libevent/libevent). Event notification library for high-performance network servers. Learning reactor pattern, select/poll/epoll abstractions.
+	- [cURL](https://github.com/curl/curl). Tool and library for transferring data with URLs. Learning robust cross-platform network I/O, protocol implementations.
+- Tools and Utilities
+	- [Git](https://github.com/git/git). Version control system. Learning command line tool design and file version management.
+	- [htop](https://github.com/htop-dev/htop). Interactive process viewer. Learning terminal UI, process querying, cross-platform code.
+	- [SQLite](https://github.com/sqlite/sqlite). Self-contained, serverless SQL database engine. Excellent code quality, embedded systems focus, ACID-compliant design.
+	- [FFmpeg](https://github.com/FFmpeg/FFmpeg). A collection of libraries and tools to process multimedia content such as audio, video, subtitles and related metadata.
+- GUI / Desktop Apps
+	- [mpv](https://github.com/mpv-player/mpv). A media player based on MPlayer/mplayer2. Learning multimedia processing, rendering, FFmpeg integration.
+	- [GIMP](https://gitlab.gnome.org/GNOME/gimp). GNU Image Manipulation Program (like Photoshop). Learning plugin architecture, GUI (GTK), and bitmap/image editing algorithms.
+- Educational / Beginner-Friendly Projects
+	- [TinyCC](https://github.com/TinyCC/tinycc). A small and fast C compiler. Compact codebase, good for understanding compiler internals.
+	- [Kilo Text Editor](https://github.com/antirez/kilo). A small, simple text editor (~1000 LOC). Easy to follow, terminal handling, file I/O.
+	- [cJSON](https://github.com/DaveGamble/cJSON). Lightweight JSON parser in C. Clean, portable, focused on readability.
+- Embedded / Bare-metal
+	- [Micropython (C backend)](https://github.com/micropython/micropython). Python 3 interpreter for microcontrollers. Real embedded systems code in C, memory-constrained environments.
+	- [OpenWRT](https://github.com/openwrt/openwrt). Embedded Linux distribution for routers. Learn build systems, networking protocols, firmware development. 
+- Others
+	- [Lua](https://github.com/lua/lua). Lightweight scripting language, learning virtual machine implementation and interpreter design.
+
+
 #### <img src="/assets/icon/programming-languages/Cpp.svg" width="20px"/>C++
 
 /cee plus plus/
@@ -205,6 +234,27 @@ C++ 不是特殊场景，一般不会用它。1. 它太难掌握，对开发要�
 
 </details>
 
+Open-source projects recommended reading (C++ )
+
+- Systems / Performance-Oriented
+	- [LevelDB](https://github.com/google/leveldb). a fast key-value storage library.
+	- [LLVM](https://github.com/llvm/llvm-project). A modular compiler infrastructure with tools like Clang. Learning high-performance code, modern C++, compiler design, ASTs, IR, optimization.
+- Game
+	- [Godot Engine](https://github.com/godotengine/godot). A feature-rich, open-source game engine. Learning real-time rendering, memory management, custom scripting language (GDScript), large-scale architecture.
+	- [raylib](https://github.com/raysan5/raylib). A simple and easy-to-use library to learn game programming. Clean, readable code. Good for beginners in graphics/game dev.
+- Libraries & Toolkits
+	- [Catch2](https://github.com/catchorg/Catch2). A modern, header-only testing framework for C++. Learn testing best practices, templates, macros.
+	- [fmt](https://github.com/fmtlib/fmt). A fast and safe formatting library (used by `std::format`). Learning template metaprogramming, performance-oriented C++.
+	- [Range-v3](https://github.com/ericniebler/range-v3). The basis for C++20 ranges. Learning cutting-edge modern C++ idioms (concepts, ranges, views).
+- GUI Applications
+	- [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus). Popular text editor for Windows. Learning Windows API, plugin architecture, GUI management.
+	- [MuseScore](https://github.com/musescore/MuseScore). Sheet music editor. Qt-based GUI app, good for learning complex GUI app architecture.
+- Networking / Server-side
+	- [uWebSockets](https://github.com/uNetworking/uWebSockets). Ultra-fast WebSocket and HTTP server. Learning performance tuning, async I/O, event loops, epoll/kqueue.
+	- [Seastar](https://github.com/scylladb/seastar). A high-performance, future-based framework for server apps. Learning asynchronous programming, modern C++ (coroutines, futures).
+- Educational / Learning-focused Projects
+	- [The Cherno’s Hazel Game Engine](https://github.com/TheCherno/Hazel). Custom game engine by popular C++ YouTuber "The Cherno". Step-by-step game engine building. Great for learning engine design.
+	- [Cxxopts](https://github.com/jarro2783/cxxopts). Lightweight C++ command-line option parser. Small project, clean use of modern C++.
 
 #### <img src="/assets/icon/programming-languages/Rust.svg" width="20px"/>Rust
 

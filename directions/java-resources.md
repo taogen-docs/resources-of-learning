@@ -768,8 +768,8 @@ Reference [CS Advanced Domains Resources - Distributed Systems](../_cs-advanced-
 
 General
 
-- [Google Guava](https://github.com/google/guava)  Google Core Libraries for Java, 开源的Java库,谷歌很多项目使用它的很多核心库。这个库是为了方便编码,并减少编码错误。
-- [comons-lang](https://github.com/apache/commons-lang)  一个被大量使用的工具包，都是一个一个的方法，适合新手学习。
+- [Google Guava](https://github.com/google/guava)  A popular core libraries project offering collections, caching, primitives, I/O, etc. Clean, modular design, rich usage of generics, immutability, and functional-style APIs.
+- [comons-lang](https://github.com/apache/commons-lang)  Utility classes for strings, dates, numbers, collections, etc. Well-written utility patterns and reusable code.
 - [hutool](https://github.com/dromara/hutool). A set of tools that keep Java sweet.
 
 JSON parser
@@ -803,7 +803,7 @@ Others
 
 Web frameworks
 
-- [spring-framework](https://github.com/spring-projects/spring-framework.git)  
+- [spring-framework](https://github.com/spring-projects/spring-framework.git). One of the most popular Java application frameworks (DI, AOP, MVC, etc.). Learn dependency injection, annotation-driven configuration, and modular design.
 - [spring-boot](https://github.com/spring-projects/spring-boot)
 - [Dagger 2](https://dagger.dev/). Dagger is a fully static, compile-time dependency injection framework for Java, Kotlin, and Android.
 
@@ -826,6 +826,7 @@ ORM Frameworks
 
 - [mybatis-3](https://github.com/mybatis/mybatis-3.git)  MyBatis SQL mapper framework for Java
 - [hibernate-orm](https://github.com/hibernate/hibernate-orm.git) Hibernate's core Object/Relational Mapping functionality
+- [jOOQ](https://github.com/jOOQ/jOOQ). Fluent API for typesafe SQL query construction. Functional programming style, code generation, and DSL techniques in Java.
 
 Redis Client
 
@@ -858,6 +859,7 @@ IDEs
 
 Database tools
 
+- [Flyway](https://github.com/flyway/flyway). Database migration tool. Focus on clean CLI tooling, file structure, and integration with Java apps.
 - [dbeaver](https://github.com/dbeaver/dbeaver). Free universal database tool and SQL client
 - [Chat2DB](https://github.com/CodePhiliaX/Chat2DB). AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 
@@ -893,6 +895,7 @@ MQ
 
 Cloud
 
+- [Dropwizard](https://github.com/dropwizard/dropwizard). A framework for developing RESTful web services in Java. Combines Jetty, Jersey, Jackson—great for learning microservice structure.
 - [spring-cloud](https://github.com/spring-cloud)
 - [spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba). Provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.
 
