@@ -31,13 +31,7 @@
   - SolidJS
 - <a name="headless_ui_c" href="#headless_ui_t">Headless UI</a>
 - <a name="mdweb_c" href="#mdweb_t">Modern Web Frontend</a>
-- <a name="crossplat_c" href="#crossplat_t">Cross-Platform Mobile Applications</a>
-  - <a name="flutter_c" href="#flutter_t">Flutter</a>
-  - <a name="rn_c" href="#rn_t">React Native</a>
-  - *PWA
-  - More ...
-- Cross Platform Desktop Applications
-  - <a name="elec_c" href="#elec_t">Electron</a>
+- <a name="crossplat_c" href="#crossplat_t">Cross-Platform Applications</a>
 - <a name="miniprog_c" href="#miniprog_t">Mini Program</a>
 - <a name="webgra_c" href="#webgra_t">Web Graphics</a>
 - <a name="tools_c" href="#tools_t">Tools</a>
@@ -382,7 +376,7 @@ jQuery UI
 ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/TypeScript)  ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/TypeScript)   ![GitHub contributors](https://img.shields.io/github/contributors/microsoft/TypeScript)  ![GitHub Created At](https://img.shields.io/github/created-at/microsoft/TypeScript) ![NPM Downloads](https://img.shields.io/npm/dw/typescript)
 
 
-> Typescript lets you type faster.
+> TypeScript lets you type faster.
 
 > 动态一时爽，维护火葬场。
 
@@ -693,31 +687,17 @@ Vue.js Admin Dashboard Templates
 
 <br>
 
-<h2><a name="crossplat_t" href="#crossplat_c">Cross-Platform Mobile Applications</a></h3>
-
+<br>
+<h2><a name="crossplat_t" href="#crossplat_c">Cross-Platform Applications</a></h2>
 <br>
 
-
-### Cross-Platform Applications
+### General
 
 - JavaScript Everywhere: Building Cross-Platform Applications with GraphQL, React, React Native, and Electron by Adam D. Scott 
 
-<br>
+### All Platform (Web, Mobile, Desktop) Applications
 
-<h3><a name="flutter_t" href="#flutter_c"><img src="/assets/icon/frontend/Flutter.svg" width="24px"/>Flutter</a></h3>
-
-<br>
-
-![GitHub Repo stars](https://img.shields.io/github/stars/flutter/flutter)  ![GitHub last commit](https://img.shields.io/github/last-commit/flutter/flutter)   ![GitHub contributors](https://img.shields.io/github/contributors/flutter/flutter)  ![GitHub Created At](https://img.shields.io/github/created-at/flutter/flutter)
-
-- [Flutter](https://flutter.dev). Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
-- Beginning Flutter: A Hands on Guide to App Development by Marco L Napoli
-- Flutter in Action by Eric Windmill
-
-<br>
-
-<h3><a name="rn_t" href="#rn_c"><img src="/assets/icon/frontend/React.svg" width="24px"/>React Native</a></h3>
-<br>
+#### React Native
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/facebook/react-native)  ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/react-native)   ![GitHub contributors](https://img.shields.io/github/contributors/facebook/react-native)  ![GitHub Created At](https://img.shields.io/github/created-at/facebook/react-native)  ![NPM Downloads](https://img.shields.io/npm/dw/react-native)
 
@@ -732,12 +712,24 @@ Expo
 
 - [Expo](https://expo.dev/). The fastest way to build an app.
 
-### Progressive web apps / PWA
+#### Flutter
+
+![GitHub Repo stars](https://img.shields.io/github/stars/flutter/flutter)  ![GitHub last commit](https://img.shields.io/github/last-commit/flutter/flutter)   ![GitHub contributors](https://img.shields.io/github/contributors/flutter/flutter)  ![GitHub Created At](https://img.shields.io/github/created-at/flutter/flutter)
+
+- [Flutter](https://flutter.dev). Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
+- Beginning Flutter: A Hands on Guide to App Development by Marco L Napoli
+- Flutter in Action by Eric Windmill
+
+#### Tauri
+
+- [Tauri](https://tauri.app/). Tauri is a tool for building small, secure desktop apps using web technologies like HTML, CSS, and JavaScript. It uses a Rust backend for the main logic. Unlike Electron, Tauri uses the computer's built-in web viewer, making apps smaller.
+
+#### Progressive web apps / PWA
 
 - [Progressive Web Apps](https://developers.google.com/web/progressive-web-apps)
 - [Progressive web apps - MDN web docs](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
 
-### Apache Cordova
+#### Apache Cordova
 
 [cordova-android](https://github.com/apache/cordova-android)
 
@@ -747,39 +739,33 @@ Expo
 
 [cordova-ios](https://github.com/apache/cordova-ios)
 
-### Ionic 4
+#### Ionic 4
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/ionic-team/ionic-framework)  ![GitHub last commit](https://img.shields.io/github/last-commit/ionic-team/ionic-framework)   ![GitHub contributors](https://img.shields.io/github/contributors/ionic-team/ionic-framework)  ![GitHub Created At](https://img.shields.io/github/created-at/ionic-team/ionic-framework) ![NPM Downloads](https://img.shields.io/npm/dw/@ionic/core)
 
 - [Ionic](https://ionicframework.com/). One codebase. Any platform. Now in **React**.
 
-### Taro
-
-![GitHub Repo stars](https://img.shields.io/github/stars/NervJS/taro).   ![GitHub last commit](https://img.shields.io/github/last-commit/NervJS/taro)   ![GitHub contributors](https://img.shields.io/github/contributors/NervJS/taro)  ![GitHub Created At](https://img.shields.io/github/created-at/NervJS/taro)  ![NPM Downloads](https://img.shields.io/npm/dw/@tarojs/taro)
-
-- [Taro](https://taro.aotu.io/). 一套遵循 **React** 语法规范的多端开发解决方案。
-
-### Quasar Framework
+#### Quasar Framework
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/quasarframework/quasar)  ![GitHub last commit](https://img.shields.io/github/last-commit/quasarframework/quasar)   ![GitHub contributors](https://img.shields.io/github/contributors/quasarframework/quasar)  ![GitHub Created At](https://img.shields.io/github/created-at/quasarframework/quasar) ![NPM Downloads](https://img.shields.io/npm/dw/quasar)
 
 - [Quasar Framework](https://quasar.dev/). Build high-performance **VueJS** user interfaces. All Platforms in One Go.
 
-### uni-app
+#### Meteor
 
-![GitHub Repo stars](https://img.shields.io/github/stars/dcloudio/uni-app)  ![GitHub last commit](https://img.shields.io/github/last-commit/dcloudio/uni-app)   ![GitHub contributors](https://img.shields.io/github/contributors/dcloudio/uni-app)  ![GitHub Created At](https://img.shields.io/github/created-at/dcloudio/uni-app)
+![GitHub Repo stars](https://img.shields.io/github/stars/meteor/meteor)  ![GitHub last commit](https://img.shields.io/github/last-commit/meteor/meteor)   ![GitHub contributors](https://img.shields.io/github/contributors/meteor/meteor)  ![GitHub Created At](https://img.shields.io/github/created-at/meteor/meteor)
 
-- [uni-app]( https://uniapp.dcloud.io/ ). 一个使用 **Vue.js** 开发所有前端应用的框架。
+- [Meteor](https://www.meteor.com/). An open source platform for web, mobile, and desktop used by over half a million developers around the globe to make shipping javascript applications simple, efficient, and scalable.
 
-<br>
+### Cross-Platform Mobile Applications
 
-## Cross-Platform Desktop Applications
+#### NativeScript
 
-<br>
+- [NativeScript](https://nativescript.org/). Building Web, iOS, Android and Vision Pro apps with a shared codebase
 
-<h3><a name="elec_t" href="#elec_c"><img src="/assets/icon/frontend/Electron.svg" width="24px"/>Electron</a></h3>
+### Cross-Platform Desktop Applications
 
-<br>
+#### Electron
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/electron/electron)  ![GitHub last commit](https://img.shields.io/github/last-commit/electron/electron)   ![GitHub contributors](https://img.shields.io/github/contributors/electron/electron)  ![GitHub Created At](https://img.shields.io/github/created-at/electron/electron)  ![NPM Downloads](https://img.shields.io/npm/dw/electron)
 
@@ -788,23 +774,17 @@ Expo
 - Electron: From Beginner to Pro: Learn to Build Cross Platform Desktop Applications Using Github's Electron by Chris Griffith and Leif Wells
 - Cross-platform Desktop Applications: Using Electron and NW.js by Paul B. Jensen
 
-### NW.js
+#### NW.js
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/nwjs/nw.js)  ![GitHub last commit](https://img.shields.io/github/last-commit/nwjs/nw.js)   ![GitHub contributors](https://img.shields.io/github/contributors/nwjs/nw.js)  ![GitHub Created At](https://img.shields.io/github/created-at/nwjs/nw.js)
 
 - [NW.js](https://nwjs.io/). (previously known as node-webkit) lets you call all Node.js modules directly from DOM and enables a new way of writing applications with all Web technologies.
 
-### AppJS
+#### AppJS
 
 - [AppJS](http://appjs.com/). Build Desktop Applications for Linux, Windows and Mac using HTML, CSS and Javascript.
 
-### Meteor
-
-![GitHub Repo stars](https://img.shields.io/github/stars/meteor/meteor)  ![GitHub last commit](https://img.shields.io/github/last-commit/meteor/meteor)   ![GitHub contributors](https://img.shields.io/github/contributors/meteor/meteor)  ![GitHub Created At](https://img.shields.io/github/created-at/meteor/meteor)
-
-- [Meteor](https://www.meteor.com/). An open source platform for web, mobile, and desktop used by over half a million developers around the globe to make shipping javascript applications simple, efficient, and scalable.
-
-### Proton Native
+#### Proton Native
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/kusti8/proton-native)  ![GitHub last commit](https://img.shields.io/github/last-commit/kusti8/proton-native)   ![GitHub contributors](https://img.shields.io/github/contributors/kusti8/proton-native)  ![GitHub Created At](https://img.shields.io/github/created-at/kusti8/proton-native)
 
@@ -825,11 +805,19 @@ Others
 - [QQ 小程序]( https://q.qq.com/#/ )
 - [支付宝小程序 - 开发文档]( https://docs.alipay.com/mini/developer/ )
 
-Frameworks
-
-- [uni-app](https://uniapp.dcloud.io/). 一个使用 `Vue.js` 开发小程序、H5、App的统一前端框架。
-- [Taro](https://taro.jd.com/). 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。
+### Taro
  
+ 
+![GitHub Repo stars](https://img.shields.io/github/stars/NervJS/taro).   ![GitHub last commit](https://img.shields.io/github/last-commit/NervJS/taro)   ![GitHub contributors](https://img.shields.io/github/contributors/NervJS/taro)  ![GitHub Created At](https://img.shields.io/github/created-at/NervJS/taro)  ![NPM Downloads](https://img.shields.io/npm/dw/@tarojs/taro)
+
+- [Taro](https://taro.zone/). 一套遵循 **React** 语法规范的多端开发解决方案。开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。
+
+### uni-app
+
+![GitHub Repo stars](https://img.shields.io/github/stars/dcloudio/uni-app)  ![GitHub last commit](https://img.shields.io/github/last-commit/dcloudio/uni-app)   ![GitHub contributors](https://img.shields.io/github/contributors/dcloudio/uni-app)  ![GitHub Created At](https://img.shields.io/github/created-at/dcloudio/uni-app)
+
+- [uni-app]( https://uniapp.dcloud.io/ ). 一个使用 **Vue.js** 开发所有前端应用的框架。一个使用 `Vue.js` 开发小程序、H5、App的统一前端框架。
+
 <br>
 
 <h2><a name="webgra_t" href="#webgra_c">Web Graphics</a></h2>
