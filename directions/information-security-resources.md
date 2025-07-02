@@ -75,13 +75,16 @@ Threat Modeling
 <h2><a name="basics_t" href="#basics_c">Basics</a></h2>
 <br>
 
-- **Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali** (2018) by OccupyTheWeb
-- Getting Started Becoming a Master Hacker: Hacking is the Most Important Skill Set of the 21st Century! (2019) by Occupytheweb
+- **Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali** (2018) by OccupyTheWeb [4.14, 541]
+- Computer Security: Principles and Practice (4th, 2017) by William Stallings, Lawrie Brown [3.72, 201]
+- Defensive Security Handbook: Best Practices for Securing Infrastructure (2nd, 2024) by Lee Brotherston, Amanda Berlin, III William F. Reyor [3.96, 135]
+- How Cybersecurity Really Works: A Hands-On Guide for Total Beginners (2021) by Sam Grubb [3.85, 107]
+- Getting Started Becoming a Master Hacker: Hacking is the Most Important Skill Set of the 21st Century! (2019) by Occupytheweb [4.17, 58]
+
+Some more
+
 - Network Basics for Hackers: How Networks Work and How They Break (2023) by Master OccupytheWeb
-- Defensive Security Handbook: Best Practices for Securing Infrastructure (2nd, 2024) by Lee Brotherston, Amanda Berlin, III William F. Reyor 
-- How Cybersecurity Really Works: A Hands-On Guide for Total Beginners (2021) by Sam Grubb
-- Computer Security: Principles and Practice (4th, 2017) by William Stallings, Lawrie Brown
-- Hacking For Dummies (7th, 2022) by Kevin Beaver
+- Hacking For Dummies (7th, 2022) by Kevin Beaver [3.66, 392]
 
 
 <br>
@@ -96,44 +99,49 @@ Reference [CS Fundamentals Resources - Cryptography](../%23cs-foundations.md#cry
 <h2><a name="netsec_t" href="#netsec_c">Network Security</a></h2>
 <br>
 
-- **Cryptography and Network Security: Principles and Practice** (8th, 2022) by William Stallings
-- **Network Security: Private Communication in a Public World** (3rd, 2022) by Charlie Kaufman , Radia Perlman
-- Network Security: A Beginner's Guide by Eric Maiwald
-- Hacking Wireless Networks - The ultimate hands-on guide by Andreas Kolokithas
-- Network Security Assessment: Know Your Network (3rd, 2016) by Chris McNab
-- The Practice of Network Security Monitoring: Understanding Incident Detection and Response (2013) by Richard Bejtlich
-- Attacking Network Protocols: A Hacker's Guide to Capture, Analysis, and Exploitation by James Forshaw
-- Cybersecurity for Small Networks: A Guide for the Reasonably Paranoid (2022) by Seth Enoka 
-- Network Security Essentials: Applications and Standards (6th, 2016) by William Stallings
-- Applied Network Security Monitoring (2013) by Chris Sanders, Jason Smith
-- Cybersecurity All-in-One For Dummies (2023) by Joseph Steinberg, Kevin Beaver, Ira Winkler, Ted Coombs
+- **Cryptography and Network Security: Principles and Practice** (8th, 2022) by William Stallings [4.07, 466]
+- How to Measure Anything in Cybersecurity Risk (2nd, 2023) by Douglas W. Hubbard, Richard Seiersen [4.06, 364]
+- The Practice of Network Security Monitoring: Understanding Incident Detection and Response (2013) by Richard Bejtlich [4.07, 260]
+- Zero Trust Networks: Building Secure Systems in Untrusted Networks (2nd, 2024) by Razi Rais, Christina Morillo, Evan Gilman, Doug Barth [4.02, 213]
+- Network Security Essentials: Applications and Standards (6th, 2016) by William Stallings [3.72, 201]
+- Attacking Network Protocols: A Hacker's Guide to Capture, Analysis, and Exploitation (2017) by James Forshaw [3.90, 124]
+- **Network Security: Private Communication in a Public World** (3rd, 2022) by Charlie Kaufman , Radia Perlman [3.94, 109]
+- Network Security Assessment: Know Your Network (3rd, 2016) by Chris McNab [4.04, 89]
+- Cybersecurity First Principles: A Reboot of Strategy and Tactics (2023) by Rick Howard [4.49, 87]
+
+Some mroe
+
+- Network Security: A Beginner's Guide by Eric Maiwald [3.74, 27]
+- Hacking Wireless Networks - The ultimate hands-on guide (2015) by Andreas Kolokithas [4.32, 19]
+- Cybersecurity for Small Networks: A Guide for the Reasonably Paranoid (2022) by Seth Enoka [4.14, 43]
+- Applied Network Security Monitoring (2013) by Chris Sanders, Jason Smith [4.20, 64]
+- Cybersecurity All-in-One For Dummies (2023) by Joseph Steinberg, Kevin Beaver, Ira Winkler, Ted Coombs [3.53, 19]
 - Network Security, Firewalls, and VPNs (3rd, 2023) by J. Michael Stewart, Denise Kinsey
-- Zero Trust Networks: Building Secure Systems in Untrusted Networks (2nd, 2024) by Razi Rais, Christina Morillo, Evan Gilman, Doug Barth 
 - Network Security For Dummies (2002) by Chey Cobb
-- Cybersecurity: The Beginner's Guide: A comprehensive guide to getting started in cybersecurity (2019) by Dr. Erdal Ozkaya 
-- Cybersecurity Essentials (2018) by Charles J. Brooks, Christopher Grow, Philip A. Craig
-- How to Measure Anything in Cybersecurity Risk (2nd, 2023) by Douglas W. Hubbard, Richard Seiersen
-- Cybersecurity First Principles: A Reboot of Strategy and Tactics (2023) by Rick Howard
+- Cybersecurity: The Beginner's Guide: A comprehensive guide to getting started in cybersecurity (2019) by Dr. Erdal Ozkaya [4.09, 34]
+- Cybersecurity Essentials (2018) by Charles J. Brooks, Christopher Grow, Philip A. Craig [3.90, 51]
 
 <br>
 
 <h2><a name="websec_t" href="#websec_c">Web Security</a></h2>
 <br>
 
-- **The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws** (2nd, 2011) by Dafydd Stuttard, Marcus Pinto
-- **The Tangled Web: a Guide to Securing Modern Web Applications** (2011) by Michal Zalewski
-- Hacking APIs: Breaking Web Application Programming Interfaces (2022) by Corey J. Ball
-- Bug Bounty Bootcamp: The Guide to Finding and Reporting Web Vulnerabilities (2021) by Vickie Li
-- Web Application Security, A Beginner's Guide  by Bryan Sullivan and Vincent Liu
+- **The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws** (2nd, 2011) by Dafydd Stuttard, Marcus Pinto [4.24, 1218]
+- **The Tangled Web: a Guide to Securing Modern Web Applications** (2011) by Michal Zalewski [4.04, 550]
+- Real-World Bug Hunting: A Field Guide to Web Hacking (2019) by Peter Yaworski [4.18, 131]
+- Bug Bounty Bootcamp: The Guide to Finding and Reporting Web Vulnerabilities (2021) by Vickie Li [4.49, 115]
+- Hacking APIs: Breaking Web Application Programming Interfaces (2022) by Corey J. Ball [4.22, 87]
+- Web Application Security, A Beginner's Guide  by Bryan Sullivan and Vincent Liu [4.07, 73]
+
+Some more
+
 - Web Security Testing Cookbook: Systematic Techniques to Find Problems Fast by Ben Walther and Paco Hope
 - Identity and Data Security for Web Development: Best Practices by Jonathan LeBlanc, Tim Messerschmidt
 - SQL Injection Attacks and Defense by Justin Clarke
-- Xss Attacks: Cross Site Scripting Exploits and Defense
-  by Jeremiah Grossman, Seth Fogie, Robert C. Hansen
+- Xss Attacks: Cross Site Scripting Exploits and Defense by Jeremiah Grossman, Seth Fogie, Robert C. Hansen
 - Web Application Security: Exploitation and Countermeasures for Modern Web Applications (2nd, 2024) by Andrew Hoffman
 - Attacking and Exploiting Modern Web Applications: Discover the mindset, techniques, and tools to perform modern web attacks and exploitation (2023) by Simone Onofri, Donato Onofri
 - Grokking Web Application Security (2024) by Malcolm McDonald
-- Real-World Bug Hunting: A Field Guide to Web Hacking (2019) by Peter Yaworski
 - 白帽子讲Web安全 (2012) by 吴翰清
 - 白帽子讲浏览器安全 (2016) by 钱文祥
 - Web安全深度剖析 by 张炳帅
@@ -142,20 +150,23 @@ Reference [CS Fundamentals Resources - Cryptography](../%23cs-foundations.md#cry
 <h2><a name="pene_t" href="#pene_c">Penetration & Pentest</a></h2>
 <br>
 
-- **Metasploit: The Penetration Tester's Guide** (2011) by David Kennedy, Jim O'Gorman, Devon Kearns, Mati Aharoni
-- **Gray Hat Hacking: The Ethical Hacker's Handbook** (6th, 2022) by Shon Harris, Chris Eagle, Allen Harper
-- **Black Hat Python: Python Programming for Hackers and Pentesters** (2nd, 2021) by Justin Seitz
-- Hands on Hacking: Become an Expert at Next Gen Penetration Testing and Purple Teaming (2020) by Matthew Hickey, Jennifer Arcuri
-- Nmap Network Scanning: The Official Nmap Project Guide to Network Discovery and Security Scanning by Gordon Fyodor Lyon
-- Rtfm: Red Team Field Manual (2014 )by Ben Clark. The RTFM contains the basic syntax for commonly used Linux and Windows command line tools, but it also encapsulates unique use cases for powerful tools such as Python and Windows PowerShell.
-- Blue Team Field Manual (2017) by Alan J White, Ben Clark. A Cyber Security Incident Response Guide.
-- PTFM: Purple Team Field Manual (2020) by Tim Bryant. A manual for all security professionals and integrates red and blue team methodologies.
+- **Metasploit: The Penetration Tester's Guide** (2011) by David Kennedy, Jim O'Gorman, Devon Kearns, Mati Aharoni [4.07, 863]
+- **Black Hat Python: Python Programming for Hackers and Pentesters** (2nd, 2021) by Justin Seitz [4.12, 590]
+- **Gray Hat Hacking: The Ethical Hacker's Handbook** (6th, 2022) by Shon Harris, Chris Eagle, Allen Harper [4.09, 533]
+- The Hacker Playbook: Practical Guide To Penetration Testing (2014) by Peter Kim [3.96, 471]
+- Nmap Network Scanning: The Official Nmap Project Guide to Network Discovery and Security Scanning by Gordon Fyodor Lyon [4.36, 425]
+- Rtfm: Red Team Field Manual (2014) by Ben Clark [4.22, 981]. The RTFM contains the basic syntax for commonly used Linux and Windows command line tools, but it also encapsulates unique use cases for powerful tools such as Python and Windows PowerShell.
+- Blue Team Field Manual (2017) by Alan J White, Ben Clark [4.18, 341]. A Cyber Security Incident Response Guide.
+- The Pentester BluePrint: Starting a Career as an Ethical Hacker (2020) by Phillip L. Wylie, Kim Crawley [4.17, 215]
+
+Some more
+
+- Hands on Hacking: Become an Expert at Next Gen Penetration Testing and Purple Teaming (2020) by Matthew Hickey, Jennifer Arcuri [4.13, 39]
+- PTFM: Purple Team Field Manual (2020) by Tim Bryant [4.00, 47]. A manual for all security professionals and integrates red and blue team methodologies.
 - LFM: Linux Field Manual (2021) by Tim Bryant 
-- Operator Handbook: Red Team + OSINT + Blue Team Reference by Joshua Picolet
-- The Pentester BluePrint: Starting a Career as an Ethical Hacker (2020) by Phillip L. Wylie, Kim Crawley
+- Operator Handbook: Red Team + OSINT + Blue Team Reference by Joshua Picolet [4.40, 91]
 - The Ultimate Kali Linux Book: Perform advanced penetration testing using Nmap, Metasploit, Aircrack-ng, and Empire (2nd, 2022) by Glen D. Singh
 - Kali Linux Penetration Testing Bible (2021) by Gus Khawaja 
-- The Hacker Playbook: Practical Guide To Penetration Testing (2014) by Peter Kim
 
 <br>
 <h2><a name="ossec_t" href="#ossec_c">Operating System Security</a></h2>
@@ -188,17 +199,20 @@ Reference [CS Fundamentals Resources - Cryptography](../%23cs-foundations.md#cry
 <h2><a name="reveng_t" href="#reveng_c">Reverse Engineering</a></h2>
 <br>
 
-- **Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software** (2012) by Michael Sikorski
-- **Reversing: Secrets of Reverse Engineering** (2005) by Eldad Eilam
-- 有趣的二进制：软件安全与逆向分析 by [日] 爱甲健二
-- Reverse Engineering for Beginners by Dennis Yurichev
-- Practical Reverse Engineering: X86, X64, ARM, Windows Kernel, Reversing Tools, and Obfuscation by Alexandre Gazet, Bruce Dang, and Elias Bachaalany
-- The IDA Pro book by Chris Eagle
-- Hacking the Xbox: An Introduction to Reverse Engineering by Andrew Huang
-- Practical Binary Analysis: Build Your Own Linux Tools for Binary Instrumentation, Analysis, and Disassembly by Dennis Andriesse
-- The Art of Memory Forensics: Detecting Malware and Threats in Windows, Linux, and Mac Memory by Michael Hale Ligh, Andrew Case, Jamie Levy, Aaron Walters
+- **Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software** (2012) by Michael Sikorski [4.48, 599]
+- **Reversing: Secrets of Reverse Engineering** (2005) by Eldad Eilam [4.10, 545]
+- Hacking the Xbox: An Introduction to Reverse Engineering by Andrew Huang [4.08, 266]
+- The IDA Pro book by Chris Eagle [4.29, 176]
+- Practical Reverse Engineering: X86, X64, ARM, Windows Kernel, Reversing Tools, and Obfuscation by Alexandre Gazet, Bruce Dang, and Elias Bachaalany [4.05, 153]
+- The Art of Memory Forensics: Detecting Malware and Threats in Windows, Linux, and Mac Memory by Michael Hale Ligh, Andrew Case, Jamie Levy, Aaron Walters [4.35, 124]
+- Practical Binary Analysis: Build Your Own Linux Tools for Binary Instrumentation, Analysis, and Disassembly by Dennis Andriesse [4.25, 67]
+
+Some more
+
+- Reverse Engineering for Beginners by Dennis Yurichev [4.58, 38]
 - Hacker Disassembling Uncovered by Kris Kaspersky, Natalia Tarkova, Julie Laing
 - The Ghidra Book: The Definitive Guide (2020) by Chris Eagle, Kara Nance
+- 有趣的二进制：软件安全与逆向分析 by [日] 爱甲健二
 - 加密与解密 by 段钢
 - 软件调试 by 张银奎
 
