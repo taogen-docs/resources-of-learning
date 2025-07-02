@@ -933,15 +933,15 @@ WebAssembly with C#
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/facebook/docusaurus)  ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/docusaurus)   ![GitHub contributors](https://img.shields.io/github/contributors/facebook/docusaurus)  ![GitHub Created At](https://img.shields.io/github/created-at/facebook/docusaurus) ![NPM Downloads](https://img.shields.io/npm/dw/docusaurus)
 
-- [Docusaurus](https://docusaurus.io/) - Build optimized websites quickly, focus on your content.
+- [Docusaurus](https://docusaurus.io/). Build optimized websites quickly, focus on your content.
 
 **VitePress**
 
-- [VitePress](https://vitepress.dev/) - Vite & Vue Powered Static Site Generator
+- [VitePress](https://vitepress.dev/). Vite & Vue Powered Static Site Generator
 
 **Docsify**
 
-- [Docsify](https://docsify.js.org/#/) - A magical documentation site generator.
+- [Docsify](https://docsify.js.org/#/). A magical documentation site generator.
  
 
 Some more
@@ -949,7 +949,7 @@ Some more
 - Frameworks
 	- [Next.js](https://nextjs.org/)
 	- [Nuxt](https://nuxt.com/)
-	- [Gatsby](https://github.com/gatsbyjs/gatsby)
+	- [Gatsby](https://www.gatsbyjs.com/)
 	- [Astro](https://astro.build/)
 	- [Remix](https://remix.run/)
 - SSG
@@ -962,20 +962,27 @@ Some more
 	- [Gridsome](https://gridsome.org/). A Jamstack framework for Vue.js.
 
 
-Others programming languages
+Other programming languages
 
 - Go
-	- [Hugo](https://gohugo.io/). (Go) The world’s fastest framework for building websites. Blogs
+	- [Hugo](https://gohugo.io/). (Go) The world’s fastest framework for building websites.
 - Ruby
 	- [Jekyll](https://jekyllrb.com/). (Ruby) A blog-aware static site generator in Ruby. Transform your plain text into static websites and **blogs**. 
-	- [Slate](https://slatedocs.github.io/slate/#introduction). (Ruby) Beautiful static documentation for your API
+	- [Slate](https://slatedocs.github.io/slate/#introduction). (Ruby) Beautiful static documentation for your **API**.
 - Python
 	- [MkDocs](https://www.mkdocs.org/). (Python) Project documentation with Markdown.
-	- [Pelican](https://github.com/getpelican/pelican). (Python) Static site generator that supports Markdown and reST syntax. Powered by Python.
-	- [Sphinx](https://www.sphinx-doc.org/en/master/#). Create intelligent and beautiful documentation with ease
+	- [Pelican](https://getpelican.com/). (Python) Static site generator that supports Markdown and reST syntax. Powered by Python.
+	- [Sphinx](https://www.sphinx-doc.org/en/master/#). Create intelligent and beautiful documentation with ease.
+	- [Read the Docs](https://about.readthedocs.com/)
 - Rust
-	- [mdBook](https://rust-lang.github.io/mdBook/). (Rust) Create book from markdown files. Like Gitbook but implemented in Rust
-	- [Zola](https://github.com/getzola/zola). (Rust) A fast static site generator in a single binary with everything built-in.
+	- [mdBook](https://rust-lang.github.io/mdBook/). (Rust) Create **book** from markdown files. Like Gitbook but implemented in Rust.
+	- [Zola](https://www.getzola.org/). (Rust) A fast static site generator in a single binary with everything built-in.
+
+API Documentation
+
+- Swagger
+- [Slate](https://slatedocs.github.io/slate/#introduction). (Ruby) Beautiful static documentation for your **API**.
+- [redoc](https://github.com/Redocly/redoc). OpenAPI/Swagger-generated API Reference Documentation
 
 <br>
 
