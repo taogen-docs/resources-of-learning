@@ -14,6 +14,7 @@
 - <a name="mobsec_c" href="#mobsec_t">Mobile Security</a>
 - <a name="reveng_c" href="#reveng_t">Reverse Engineering</a>
 - <a name="hh_c" href="#hh_t">Hardware Hacking</a>
+- <a name="eds_c" href="#eds_t">Defeating Endpoint Detection Systems</a>
 - <a name="md_c" href="#md_t">Malware Development</a>
 - <a name="socialeng_c" href="#socialeng_t">Social Engineering</a>
 - <a name="seceng_c" href="#seceng_t">Security Engineering and Architecture</a>
@@ -121,6 +122,9 @@ Some mroe
 - Cybersecurity: The Beginner's Guide: A comprehensive guide to getting started in cybersecurity (2019) by Dr. Erdal Ozkaya [4.09, 34]
 - Cybersecurity Essentials (2018) by Charles J. Brooks, Christopher Grow, Philip A. Craig [3.90, 51]
 
+
+Learning computer networks refer to [Computer Networks](/%23cs-foundations.md#net_t)
+
 <br>
 
 <h2><a name="websec_t" href="#websec_c">Web Security</a></h2>
@@ -175,6 +179,8 @@ Some more
 - A Guide to Kernel Exploitation: Attacking the Core by Enrico Perla
 - Windows Security Internals: A Deep Dive into Windows Authentication, Authorization, and Auditing (2024) by James Forshaw
 
+Learning operating systems refer to [Operating Systems](/%23cs-foundations.md#os_t)
+
 <br>
 <h2><a name="softsec_t" href="#softsec_c">Software Security</a></h2>
 <br>
@@ -189,11 +195,14 @@ Some more
 <br>
 
 - Mobile SecurityAndroid Security Cookbook by Keith Makan, Scott Alexander-Bown
-- Android Security Internals: An In-Depth Guide to Android's Security Architecture by Nikolay Elenkov
-- Android Hacker's Handbook by Joshua J. Drake, Zach Lanier, Collin Mulliner, Pau Oliva Fora, Stephen A. Ridley, Georg Wicherski
-- Android软件安全与逆向分析 by 丰生强
-- IOS Application Security: The Definitive Guide for Hackers and Developers by David Thiel
-- iOS Hacker's Handbook by Charlie Miller (Goodreads Author), Dion Blazakis, Dino DaiZovi, Stefan Esser, Vincenzo Iozzo, Ralf-Philip Weinmann
+- Android
+	- Android Security Internals: An In-Depth Guide to Android's Security Architecture by Nikolay Elenkov
+	- Android Hacker's Handbook by Joshua J. Drake, Zach Lanier, Collin Mulliner, Pau Oliva Fora, Stephen A. Ridley, Georg Wicherski
+	- The Android Malware Handbook: Detection and Analysis by Human and Machine by Qian Han, Sai Deep Tetali, Salvador Mandujano
+	- Android软件安全与逆向分析 by 丰生强
+- iOS
+	- IOS Application Security: The Definitive Guide for Hackers and Developers by David Thiel
+	- iOS Hacker's Handbook by Charlie Miller (Goodreads Author), Dion Blazakis, Dino DaiZovi, Stefan Esser, Vincenzo Iozzo, Ralf-Philip Weinmann
 
 <br>
 <h2><a name="reveng_t" href="#reveng_c">Reverse Engineering</a></h2>
@@ -222,6 +231,12 @@ Some more
 
 - The Hardware Hacking Handbook: Breaking Embedded Security with Hardware Attacks (2021) by Jasper van Woudenberg, Colin O'Flynn 
 - Practical IoT Hacking: The Definitive Guide to Attacking the Internet of Things (2021) by Fotios Chantzis, Ioannis Stais, Paulino Calderon 
+
+
+<h2><a name="eds_t" href="#eds_c">Defeating Endpoint Detection Systems</a></h2>
+
+- Evading EDR: The Definitive Guide to Defeating Endpoint Detection Systems by Matt Hand
+
 
 <br>
 <h2><a name="md_t" href="#md_c">Malware Development</a></h2>

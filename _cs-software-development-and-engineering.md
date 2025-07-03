@@ -1145,6 +1145,7 @@ Resume
 - A Brief History of Hackerdom by Raymond.  Eric S. Raymond 
 - The Productive Programmer by Neal Ford 
 - Engineers Survival Guide: Advice, tactics, and tricks After a decade of working at Facebook, Snapchat, and Microsoft (2021) by Merih Taze
+- The Programmer's Brain (2021) by Felienne Hermans
 
 Some more
 
