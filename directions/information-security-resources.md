@@ -8,14 +8,15 @@
 - <a name="crypt_c" href="#crypt_t">Cryptography</a>
 - <a name="netsec_c" href="#netsec_t">Network Security</a>
 - <a name="websec_c" href="#websec_t">Web Security</a>
-- <a name="pene_c" href="#pene_t">Penetration</a>
 - <a name="ossec_c" href="#ossec_t">Operating System Security</a>
 - <a name="softsec_c" href="#softsec_t">Software Security</a>
 - <a name="mobsec_c" href="#mobsec_t">Mobile Security</a>
+- <a name="pene_c" href="#pene_t">Penetration</a>
 - <a name="reveng_c" href="#reveng_t">Reverse Engineering</a>
 - <a name="hh_c" href="#hh_t">Hardware Hacking</a>
+- <a name="anonymity_c" href="#anonymity_t">Cyber Anonymity</a>
 - <a name="eds_c" href="#eds_t">Defeating Endpoint Detection Systems</a>
-- <a name="md_c" href="#md_t">Malware Development</a>
+- <a name="malware_c" href="#malware_t">Malware</a>
 - <a name="socialeng_c" href="#socialeng_t">Social Engineering</a>
 - <a name="seceng_c" href="#seceng_t">Security Engineering and Architecture</a>
 
@@ -93,8 +94,13 @@ Some more
 <h2><a name="crypt_t" href="#crypt_c">Cryptography</a></h2>
 <br>
 
-Reference [CS Fundamentals Resources - Cryptography](../%23cs-foundations.md#crypt_t)
+Cryptography Basics
 
+Refer to [CS Fundamentals Resources - Cryptography](../%23cs-foundations.md#crypt_t)
+
+Hacking Cryptography
+
+- Hacking Cryptography: Write, break, and fix real-world implementations by Kamran Khan, Bill Cox
 
 <br>
 <h2><a name="netsec_t" href="#netsec_c">Network Security</a></h2>
@@ -130,25 +136,77 @@ Learning computer networks refer to [Computer Networks](/%23cs-foundations.md#ne
 <h2><a name="websec_t" href="#websec_c">Web Security</a></h2>
 <br>
 
+Web Security
+
 - **The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws** (2nd, 2011) by Dafydd Stuttard, Marcus Pinto [4.24, 1218]
 - **The Tangled Web: a Guide to Securing Modern Web Applications** (2011) by Michal Zalewski [4.04, 550]
 - Real-World Bug Hunting: A Field Guide to Web Hacking (2019) by Peter Yaworski [4.18, 131]
 - Bug Bounty Bootcamp: The Guide to Finding and Reporting Web Vulnerabilities (2021) by Vickie Li [4.49, 115]
-- Hacking APIs: Breaking Web Application Programming Interfaces (2022) by Corey J. Ball [4.22, 87]
 - Web Application Security, A Beginner's Guide  by Bryan Sullivan and Vincent Liu [4.07, 73]
 
 Some more
 
+- Zed Attack Proxy Cookbook: Hacking tactics, techniques, and procedures for testing web applications and APIs by Ryan Soper, Nestor N Torres
 - Web Security Testing Cookbook: Systematic Techniques to Find Problems Fast by Ben Walther and Paco Hope
 - Identity and Data Security for Web Development: Best Practices by Jonathan LeBlanc, Tim Messerschmidt
-- SQL Injection Attacks and Defense by Justin Clarke
-- Xss Attacks: Cross Site Scripting Exploits and Defense by Jeremiah Grossman, Seth Fogie, Robert C. Hansen
 - Web Application Security: Exploitation and Countermeasures for Modern Web Applications (2nd, 2024) by Andrew Hoffman
 - Attacking and Exploiting Modern Web Applications: Discover the mindset, techniques, and tools to perform modern web attacks and exploitation (2023) by Simone Onofri, Donato Onofri
 - Grokking Web Application Security (2024) by Malcolm McDonald
 - 白帽子讲Web安全 (2012) by 吴翰清
 - 白帽子讲浏览器安全 (2016) by 钱文祥
 - Web安全深度剖析 by 张炳帅
+
+
+Hacking APIs
+
+- Hacking APIs: Breaking Web Application Programming Interfaces (2022) by Corey J. Ball [4.22, 87]
+- Black Hat GraphQL: Attacking Next Generation APIs by Nick Aleks, Dolev Farhi
+- Pentesting APIs: A practical guide to discovering, fingerprinting, and exploiting APIs by Maurício Harley 
+
+SQL Injection
+
+- SQL Injection Attacks and Defense by Justin Clarke
+
+Xss Attacks
+
+- Xss Attacks: Cross Site Scripting Exploits and Defense by Jeremiah Grossman, Seth Fogie, Robert C. Hansen
+
+
+<br>
+<h2><a name="ossec_t" href="#ossec_c">Operating System Security</a></h2>
+<br>
+
+- A Guide to Kernel Exploitation: Attacking the Core by Enrico Perla
+- Windows Security Internals: A Deep Dive into Windows Authentication, Authorization, and Auditing (2024) by James Forshaw
+- File System Forensic Analysis by Brian Carrier
+- Windows Registry Forensics: Advanced Digital Forensic Analysis of the Windows Registry (2nd, 2016) by Harlan Carvey
+
+Learning operating systems refer to [Operating Systems](/%23cs-foundations.md#os_t)
+
+<br>
+<h2><a name="softsec_t" href="#softsec_c">Software Security</a></h2>
+<br>
+
+- The Shellcoder's Handbook: Discovering and Exploiting Security Holes by Jack Koziol, Chris Anley, John Heasman [4.15, 330]
+- Counter Hack Reloaded: A Step-by-Step Guide to Computer Attacks and Effective Defenses (2nd, 2006) by Edward Skoudis, Tom Liston [4.03, 225]
+- A Bug Hunter's Diary: A Guided Tour Through the Wilds of Software Security by Tobias Klein [3.92, 248]
+- Art of Software Security Assessment, The: Identifying and Preventing Software Vulnerabilities by John McDonald, Mark Down, Justin Schuh [4.42, 170]
+- 0day安全：软件漏洞分析技术 by 王清
+
+<br>
+<h2><a name="mobsec_t" href="#mobsec_c">Mobile Security</a></h2>
+<br>
+
+- Mobile SecurityAndroid Security Cookbook by Keith Makan, Scott Alexander-Bown
+- Android
+	- Android Security Internals: An In-Depth Guide to Android's Security Architecture by Nikolay Elenkov
+	- Android Hacker's Handbook by Joshua J. Drake, Zach Lanier, Collin Mulliner, Pau Oliva Fora, Stephen A. Ridley, Georg Wicherski
+	- The Android Malware Handbook: Detection and Analysis by Human and Machine by Qian Han, Sai Deep Tetali, Salvador Mandujano
+	- Android软件安全与逆向分析 by 丰生强
+- iOS
+	- IOS Application Security: The Definitive Guide for Hackers and Developers by David Thiel
+	- iOS Hacker's Handbook by Charlie Miller (Goodreads Author), Dion Blazakis, Dino DaiZovi, Stefan Esser, Vincenzo Iozzo, Ralf-Philip Weinmann
+
 
 <br>
 <h2><a name="pene_t" href="#pene_c">Penetration & Pentest</a></h2>
@@ -171,38 +229,6 @@ Some more
 - Operator Handbook: Red Team + OSINT + Blue Team Reference by Joshua Picolet [4.40, 91]
 - The Ultimate Kali Linux Book: Perform advanced penetration testing using Nmap, Metasploit, Aircrack-ng, and Empire (2nd, 2022) by Glen D. Singh
 - Kali Linux Penetration Testing Bible (2021) by Gus Khawaja 
-
-<br>
-<h2><a name="ossec_t" href="#ossec_c">Operating System Security</a></h2>
-<br>
-
-- A Guide to Kernel Exploitation: Attacking the Core by Enrico Perla
-- Windows Security Internals: A Deep Dive into Windows Authentication, Authorization, and Auditing (2024) by James Forshaw
-
-Learning operating systems refer to [Operating Systems](/%23cs-foundations.md#os_t)
-
-<br>
-<h2><a name="softsec_t" href="#softsec_c">Software Security</a></h2>
-<br>
-
-- The Shellcoder's Handbook: Discovering and Exploiting Security Holes by Jack Koziol, Chris Anley, John Heasman
-- Counter Hack Reloaded: A Step-by-Step Guide to Computer Attacks and Effective Defenses (2nd, 2006) by Edward Skoudis, Tom Liston
-- A Bug Hunter's Diary: A Guided Tour Through the Wilds of Software Security by Tobias Klein
-- 0day安全：软件漏洞分析技术 by 王清
-
-<br>
-<h2><a name="mobsec_t" href="#mobsec_c">Mobile Security</a></h2>
-<br>
-
-- Mobile SecurityAndroid Security Cookbook by Keith Makan, Scott Alexander-Bown
-- Android
-	- Android Security Internals: An In-Depth Guide to Android's Security Architecture by Nikolay Elenkov
-	- Android Hacker's Handbook by Joshua J. Drake, Zach Lanier, Collin Mulliner, Pau Oliva Fora, Stephen A. Ridley, Georg Wicherski
-	- The Android Malware Handbook: Detection and Analysis by Human and Machine by Qian Han, Sai Deep Tetali, Salvador Mandujano
-	- Android软件安全与逆向分析 by 丰生强
-- iOS
-	- IOS Application Security: The Definitive Guide for Hackers and Developers by David Thiel
-	- iOS Hacker's Handbook by Charlie Miller (Goodreads Author), Dion Blazakis, Dino DaiZovi, Stefan Esser, Vincenzo Iozzo, Ralf-Philip Weinmann
 
 <br>
 <h2><a name="reveng_t" href="#reveng_c">Reverse Engineering</a></h2>
@@ -232,20 +258,33 @@ Some more
 - The Hardware Hacking Handbook: Breaking Embedded Security with Hardware Attacks (2021) by Jasper van Woudenberg, Colin O'Flynn 
 - Practical IoT Hacking: The Definitive Guide to Attacking the Internet of Things (2021) by Fotios Chantzis, Ioannis Stais, Paulino Calderon 
 
+<br>
+<h2><a name="anonymity_t" href="#anonymity_c">Cyber Anonymity</a></h2>
+<br>
+- An Ethical Guide to Cyber Anonymity: Concepts, tools, and techniques to protect your anonymity from criminals, unethical hackers, and governments by Kushantha Gunawardana
+- The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data by Kevin D. Mitnick and Mikko Hypponen
+- Tor and the Dark Art of Anonymity (deep web, kali linux, hacking, bitcoins) : Network Security for the Rest of Us by Lance Henderson
 
+<br>
 <h2><a name="eds_t" href="#eds_c">Defeating Endpoint Detection Systems</a></h2>
+<br>
 
 - Evading EDR: The Definitive Guide to Defeating Endpoint Detection Systems by Matt Hand
 
 
 <br>
-<h2><a name="md_t" href="#md_c">Malware Development</a></h2>
+<h2><a name="malware_t" href="#malware_c">Malware</a></h2>
 <br>
+
+Malware Development
 
 - Malware Development for Ethical Hackers: Learn how to develop various types of malware to strengthen cybersecurity (2024) by Zhassulan Zhussupov
 - Black Hat Bash: Creative Scripting for Hackers and Pentesters (2024) by Nick Aleks, Dolev Farhi 
-- Evasive Malware: A Field Guide to Detecting, Analyzing, and Defeating Advanced Threats (2024) by Kyle Cucci 
 
+Malware Detection
+
+- The Art of Memory Forensics: Detecting Malware and Threats in Windows, Linux, and Mac Memory by Michael Hale Ligh, Andrew Case, Jamie Levy [4.35, 124]
+- Evasive Malware: A Field Guide to Detecting, Analyzing, and Defeating Advanced Threats (2024) by Kyle Cucci 
 
 <br>
 <h2><a name="socialeng_t" href="#socialeng_c">Social Engineering</a></h2>
