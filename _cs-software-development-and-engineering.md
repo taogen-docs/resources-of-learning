@@ -403,33 +403,34 @@ Roadmap
 - [Roadmap.sh's Software Architect](https://roadmap.sh/software-architect)
 - [Software Engineer to Software Architect - Roadmap for Success](https://medium.com/@yt-cloudwaydigital/from-software-developer-to-software-architect-roadmap-to-success-695951521d9b)
 
-Software Architect
-
-- 12 Essential Skills for Software Architects (2011) by Dave Hendricksen
-- 12 More Essential Skills for Software Architects (2014) by Dave Hendricksen
-- Solutions Architect's Handbook: Kick-start your solutions architect career by learning architecture design principles and strategies (2020) by Saurabh Shrivastava, Neelanjali Srivastav, Kamal Arora
-- Design It!: From Programmer to Software Architect (2017) by Michael Keeling
-- The Software Architect Elevator: Redefining the Architect's Role in the Digital Enterprise (2020) by Gregor Hohpe
-
 System Architecture
 
 - **Clean Architecture** (2017) by Robert Cecil Martin [4.23, 6717]
 - **Patterns of Enterprise Application Architecture** (2002) by Martin Fowler [4.12, 3836]
+- **Information Architecture: For the Web and Beyond. Designing Large-scale Web Sites** (4th, 2015) by Louis Rosenfeld , Peter Morville [3.93, 3815]
+- System Design Interview – An insider’s guide Volume 1 (2020) by Alex Xu. [4.24, 2906] [Preview](https://systeminterview.com/)
+- System Design Interview – An Insider's Guide: Volume 2 (2022) by Alex Xu and Sahn Lam
 - Fundamentals of Software Architecture: An Engineering Approach (2020) by Mark Richards, Neal Ford [4.26, 1969]
 - **Enterprise Integration Patterns** (2003) by Gregor Hohpe [4.12, 1541] 
 - Building Evolutionary Architectures: Support Constant Change (2017) by Neal Ford, Patrick Kua, and Rebecca Parsons [3.74, 1022]
 - Software Architecture in Practice (3rd, 2012) by Len Bass, Paul Clements, Rick Kazman [3.85, 710]
 - Software Architecture: The Hard Parts: Modern Tradeoff Analysis for Distributed Architectures (2021) by Neal Ford, Mark Richards, Pramod J. Sadalage [4.27, 702]
+- The Design of Design: Essays from a Computer Scientist (2010) by Frederick P. Brooks Jr [3.77, 605]
 - Architecture Patterns with Python: Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices (2020) by Harry Percival and Bob Gregory [4.42, 444] [Cosmic Python](https://www.cosmicpython.com/) [eBook](https://www.cosmicpython.com/book/preface.html)
+- 淘宝技术这十年 (2013) by 子柳 [7.3, 2506]
+- 大型网站技术架构 (2013) by 李智慧 [7.9, 1885]
+- 构建高性能Web站点 (2012) by 郭欣 [8.6, 1327]
+- 企业IT架构转型之道：阿里巴巴中台战略思想与架构实战 (2017) by 钟华 [8.0, 1180]
+- 凤凰架构：构建可靠的大型分布式系统 (2021) by 周志明 [9.3, 778]
+- 大型网站系统与JAVA中间件实践 (2014) by 曾宪杰 [7.9, 630]
+
+Some more
+
+- Software Architecture for Developers: Volume 1 - Technical leadership and the balance with agility (2012) by Simon Brown [3.87, 414]
+- Software Architecture for Developers: Volume 2 - Visualise, document and explore your software architecture (2015) by Simon Brown
 - Technology Strategy Patterns: Architecture as Strategy (2018) by Eben Hewitt [4.03, 347]
 - Pattern-Oriented Software Architecture Volume 1~5 (1996) by Frank Buschmann, Hans Rohnert [3.90, 227]
 - Software Systems Architecture: Working With Stakeholders Using Viewpoints and Perspectives (2011) by Nick Rozanski and Eoin Woods [4.12, 221]
-- Software Architecture for Developers: Volume 1 - Technical leadership and the balance with agility (2012) by Simon Brown [3.87, 414]
-- Software Architecture for Developers: Volume 2 - Visualise, document and explore your software architecture (2015) by Simon Brown
-- System Design Interview – An insider’s guide Volume 1 (2020) by Alex Xu. [4.24, 2906] [Preview](https://systeminterview.com/)
-- System Design Interview – An Insider's Guide: Volume 2 (2022) by Alex Xu and Sahn Lam
-- **Information Architecture: For the Web and Beyond. Designing Large-scale Web Sites** (4th, 2015) by Louis Rosenfeld , Peter Morville
-- The Design of Design: Essays from a Computer Scientist (2010) by Frederick P. Brooks Jr [3.77, 605]
 - Just Enough Software Architecture: A Risk-Driven Approach (2010) by George Fairbanks [3.45, 201]
 - Cloud Native Infrastructure: Patterns for Scalable Infrastructure and Applications in a Dynamic Environment (2017) by Justin Garrison and Kris Nova [3.56, 151]
 - Java Application Architecture: Modularity Patterns with Examples Using OSGi (2012) by Kirk Knoernschild [3.91, 87]
@@ -438,12 +439,6 @@ System Architecture
 - Web Application Architecture: Principles, Protocols and Practices (2009) by Leon Shklar [3.76, 50]
 - System Architecture: Strategy and Product Development for Complex Systems (2015) by Bruce Cameron, Daniel Selva, and Edward F. Crawley [4.38, 50]
 - Architecture Modernization - Socio-technical alignment of software, strategy, and structure by Nick Tune [4.11, 47]
-- 淘宝技术这十年 (2013) by 子柳 [7.3, 2506]
-- 大型网站技术架构 (2013) by 李智慧 [7.9, 1885]
-- 构建高性能Web站点 (2012) by 郭欣 [8.6, 1327]
-- 企业IT架构转型之道：阿里巴巴中台战略思想与架构实战 (2017) by 钟华 [8.0, 1180]
-- 凤凰架构：构建可靠的大型分布式系统 (2021) by 周志明 [9.3, 778]
-- 大型网站系统与JAVA中间件实践 (2014) by 曾宪杰 [7.9, 630]
 - 从零开始学架构 (2018) by 李运华 [8.1, 341]
 - 亿级流量网站架构核心技术 (2017) by  张开涛 [6.6, 259]
 - 分布式服务架构：原理、设计与实战 (2017) by 李艳鹏 / 杨彪 [6.7, 113]
@@ -502,11 +497,14 @@ Resources
 </details>
 
 - Grokking the Object Oriented Design Interview
-- **A Philosophy of Software Design** (2nd, 2021) by John Ousterhout
-- **Thinking in Systems: A Primer** (2008) by Donella H. Meadows, Diana Wright
-- Beautiful Code: Leading Programmers Explain How They Think (2007) by Andy Oram, Greg Wilson
-- Software Design for Flexibility: How to Avoid Programming Yourself Into a Corner (2021) by Chris Hanson, Gerald Jay Sussman
+- **A Philosophy of Software Design** (2nd, 2021) by John Ousterhout [4.22, 4119]
+- **Thinking in Systems: A Primer** (2008) by Donella H. Meadows, Diana Wright [4.19, 20613]
+- Beautiful Code: Leading Programmers Explain How They Think (2007) by Andy Oram, Greg Wilson [3.76, 1497]
 - [system-design-primer](https://github.com/donnemartin/system-design-primer)
+
+Some more
+
+- Software Design for Flexibility: How to Avoid Programming Yourself Into a Corner (2021) by Chris Hanson, Gerald Jay Sussman [3.38, 48]
 - 软件设计：从专业到卓越 by 张刚
 
 ### System Design
@@ -516,26 +514,29 @@ Resources
 
 ### Domain-Driven Design
 
-- **Domain-Driven Design: Tackling Complexity in the Heart of Software** (2003) by Eric Evans
-- **Implementing Domain-Driven Design** (2013) by Vaughn Vernon
-- **Learning Domain-Driven Design: Aligning Software Architecture and Business Strategy** (2021) by Vlad Khononov
-- Domain-Driven Design Distilled (2016) by Vaughn Vernon
-- Patterns Principles and Practices of Domain Driven Design by Scott Millett, Nick Tune
+- **Domain-Driven Design: Tackling Complexity in the Heart of Software** (2003) by Eric Evans [4.15, 5721]
+- **Implementing Domain-Driven Design** (2013) by Vaughn Vernon [4.05, 1273]
+- **Learning Domain-Driven Design: Aligning Software Architecture and Business Strategy** (2021) by Vlad Khononov [4.44, 644]
+- Domain-Driven Design Distilled (2016) by Vaughn Vernon [3.82, 1289]
+- Patterns Principles and Practices of Domain Driven Design by Scott Millett, Nick Tune [4.36, 382]
 
 ### Microservices Architecture
 
 Microservices Architecture
 
-- **Building Microservices: Designing Fine-Grained Systems** (2nd, 2021) by Sam Newman
-- **Monolith to Microservices: Sustaining Productivity While Detangling the System** (2019) by Sam Newman
-- Microservices: Up and Running: A Step-by-Step Guide to Building a Microservice Architecture (2020) by Ronnie Mitra and Irakli Nadareishvili
-- Production-Ready Microservices (2016) by Susan J. Fowler
-- Bootstrapping Microservices with Docker, Kubernetes, and Terraform: A project-based guide (2021) by Ashley Davis
-- Strategic Monoliths and Microservices: Driving Innovation Using Purposeful Architecture by Vaughn Vernon, Tomasz Jaskula 
-- Microservice Patterns by Chris Richardson
-- The Tao of Microservices by Richard Rodger
-- Microservices From Design to Deployment by Chris Richardson, Floyd Earl Smith
-- Microservices AntiPatterns and Pitfalls by Mark Richards
+- **Building Microservices: Designing Fine-Grained Systems** (2nd, 2021) by Sam Newman [4.22, 5103]
+- **Monolith to Microservices: Sustaining Productivity While Detangling the System** (2019) by Sam Newman [4.29, 1055]
+- Microservice Patterns by Chris Richardson [4.25, 681]
+- Production-Ready Microservices (2016) by Susan J. Fowler [3.82, 453]
+
+Some more
+
+- Strategic Monoliths and Microservices: Driving Innovation Using Purposeful Architecture by Vaughn Vernon, Tomasz Jaskula  [4.18, 115]
+- Microservices AntiPatterns and Pitfalls by Mark Richards [4.04, 113]
+- The Tao of Microservices by Richard Rodger [4.01, 100]
+- Microservices From Design to Deployment by Chris Richardson, Floyd Earl Smith [3.87, 92]
+- Bootstrapping Microservices with Docker, Kubernetes, and Terraform: A project-based guide (2021) by Ashley Davis [3.98, 47]
+- Microservices: Up and Running: A Step-by-Step Guide to Building a Microservice Architecture (2020) by Ronnie Mitra and Irakli Nadareishvili [3.73, 22]
 
 Microservices Security
 
@@ -547,18 +548,18 @@ Microservices Security
 
 ### Data Engineering
 
-- **Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems** (2017) by Martin Kleppmann (**DDIA**)
-- The Model Thinker: What You Need to Know to Make Data Work for You by Scott E. Page
-- Big Data: Principles and best practices of scalable realtime data systems by Nathan Marz, James Warren
-- Data Modeling Made Simple: A Practical Guide for Business and IT Professionals by Steve Hoberman
+- **Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems** (2017) by Martin Kleppmann (**DDIA**) [4.70, 9902]
+- The Model Thinker: What You Need to Know to Make Data Work for You by Scott E. Page [3.92, 918]
+- Big Data: Principles and best practices of scalable realtime data systems by Nathan Marz, James Warren [3.82, 489]
+- Data Modeling Made Simple: A Practical Guide for Business and IT Professionals by Steve Hoberman [3.77, 114]
 
 ### Streaming and Messaging
 
-- Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions by Gregor Hohpe
-- Making Sense of Stream Processing by Martin Kleppmann 
-- Streaming Systems by Tyler Akidau, Slava Chernyak, Reuven Lax
-- Designing Event-Driven Systems by Ben Stopford
-- Building Event-Driven Microservices: Leveraging Organizational Data at Scale (2020) by Adam Bellemare
+- Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions by Gregor Hohpe [4.12, 1542]
+- Making Sense of Stream Processing by Martin Kleppmann [4.25, 188]
+- Designing Event-Driven Systems by Ben Stopford [3.82, 352]
+- Streaming Systems by Tyler Akidau, Slava Chernyak, Reuven Lax [3.89, 167]
+- Building Event-Driven Microservices: Leveraging Organizational Data at Scale (2020) by Adam Bellemare [3.72, 216]
 - Flow Architectures: The Future of Streaming and Event-Driven Integration (2021) by James Urquhart
 
 
@@ -566,30 +567,36 @@ Microservices Security
 
 ### Cloud Engineering
 
-- Cloud Native Patterns: Designing change-tolerant software (2019) by Cornelia Davis
-- Cloud Native Transformation: Practical Patterns for Innovation (2019) by Pini Reznik , Jamie Dobson
-- Kubernetes Patterns: Reusable Elements for Designing Cloud-Native Applications (2019) by Bilgin Ibryam and Roland Huß
-- Cloud Native: Using Containers, Functions, and Data to Build Next-Generation Applications (2019) by Boris Scholl , Trent Swanson
+- Kubernetes Patterns: Reusable Elements for Designing Cloud-Native Applications (2019) by Bilgin Ibryam and Roland Huß [4.30, 208]
+- Cloud Native Patterns: Designing change-tolerant software (2019) by Cornelia Davis [4.14, 141]
+- Cloud Native: Using Containers, Functions, and Data to Build Next-Generation Applications (2019) by Boris Scholl , Trent Swanson [4.05, 65]
+- Cloud Native Transformation: Practical Patterns for Innovation (2019) by Pini Reznik , Jamie Dobson [4.04, 57]
 - 深入高可用架构原理与实践 [eBook](https://www.thebyte.com.cn/)
 
 ### Web Scalability
 
-- Web Scalability for Startup Engineers (2015) by Artur Ejsmont
-- The Art of Scalability: Scalable Web Architecture, Processes, and Organizations for the Modern Enterprise (2015) by Martin L. Abbott, Michael T. Fisher
-- Building Scalable Web Sites (2006) by Cal Henderson
-- Web Scalability for Startup Engineers (2015) by Artur Ejsmont
-- Scalability Rules: Principles for Scaling Web Sites (2016) by Martin L. Abbott,  Michael T. Fisher
-- Scalability Rules: 50 Principles for Scaling Web Sites (2011) by Martin L. Abbott,  Michael T. Fisher
+- Web Scalability for Startup Engineers (2015) by Artur Ejsmont [4.51, 331]
+- The Art of Scalability: Scalable Web Architecture, Processes, and Organizations for the Modern Enterprise (2015) by Martin L. Abbott, Michael T. Fisher [3.99, 353]
+- Building Scalable Web Sites (2006) by Cal Henderson [3.75, 298]
+- Scalability Rules: 50 Principles for Scaling Web Sites (2011) by Martin L. Abbott,  Michael T. Fisher [3.93, 243]
 
 ### Agile
 
-- Continuous Architecture in Practice: Software Architecture in the Age of Agility and Devops (2021) by Murat Erder, Eoin Woods, Pierre Pureur
+- Continuous Architecture in Practice: Software Architecture in the Age of Agility and Devops (2021) by Murat Erder, Eoin Woods, Pierre Pureur [3.75, 88]
 
 ### DevOps
 
 ### Security Architecture
 
 Reference [information-security-resources - Security Engineering and Architecture](directions/information-security-resources.md#seceng_t)
+
+### Software Architect
+
+- The Software Architect Elevator: Redefining the Architect's Role in the Digital Enterprise (2020) by Gregor Hohpe [4.39, 613]
+- Design It!: From Programmer to Software Architect (2017) by Michael Keeling [3.70, 249]
+- 12 Essential Skills for Software Architects (2011) by Dave Hendricksen [3.69, 124]
+- 12 More Essential Skills for Software Architects (2014) by Dave Hendricksen [4.12, 16]
+- Solutions Architect's Handbook: Kick-start your solutions architect career by learning architecture design principles and strategies (2020) by Saurabh Shrivastava, Neelanjali Srivastav, Kamal Arora [3.89, 54]
 
 <br>
 
