@@ -1050,11 +1050,6 @@ Build a LLM
 - Build a Large Language Model (From Scratch) (2024) by Sebastian Raschka
 - The Hundred-Page Language Models Book: hands-on with PyTorch (2025) by Andriy Burkov
 
-Retrieval-augmented generation (RAG)
-
-- RAG-Driven Generative AI: Build custom retrieval augmented generation pipelines with LlamaIndex, Deep Lake, and Pinecone (2024) by Denis Rothman
-- Unlocking Data with Generative AI and RAG: Enhance generative AI systems by integrating internal data with large language models using RAG (2024) by Keith Bourne
-
 LLM Resources
 
 - [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
@@ -1069,24 +1064,6 @@ LLM Resources
 GPU Providers
 
 - [AutoDL](https://www.autodl.com/home)
-
-#### Model context protocol (MCP)
-
-> An open standard designed to bridge AI assistants with the world of data and tools, to plug in many different sources of context.
-
->An open standard that enables developers to build secure, two-way connections between their data sources and AI-powered tools. The architecture is straightforward: developers can either expose their data through MCP servers or build AI applications (MCP clients) that connect to these servers.
-
-Introducing
-
-- [Introducing the Model Context Protocol - Anthropic](https://www.anthropic.com/news/model-context-protocol)
-- [What Is MCP, and Why Is Everyone – Suddenly!– Talking About It?](https://huggingface.co/blog/Kseniase/mcp)
-- [Unleashing the Power of Model Context Protocol (MCP): A Game-Changer in AI Integration](https://techcommunity.microsoft.com/blog/educatordeveloperblog/unleashing-the-power-of-model-context-protocol-mcp-a-game-changer-in-ai-integrat/4397564)
-
-Resource
-
-- [Model Context Protocol](https://modelcontextprotocol.io/introduction) November 2024
-- [Anthropic Agents and tools](https://docs.anthropic.com/en/docs/agents-and-tools/mcp)
-- [OpenAI Agents SDK](https://openai.github.io/openai-agents-python/)
 
 #### Using AI & Prompt Engineering
 
@@ -1149,6 +1126,46 @@ AI Prompt Papers
 - [Large Language Models Are Human-Level Prompt Engineers](https://arxiv.org/abs/2211.01910)
 - [Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm](https://arxiv.org/abs/2102.07350)
 
+#### Build AI Agent
+
+**General**
+
+- [Building effective agents - Anthropic](https://www.anthropic.com/engineering/building-effective-agents)
+
+
+**LangChain & LangGraph**
+
+>To create complex workflows by chaining together different components, such as LLMs, APIs, databases, and custom functions
+
+- Generative AI with LangChain: Build large language model (LLM) apps with Python, ChatGPT, and other LLMs (2023) by Ben Auffarth
+- LangChain Crash Course: Build OpenAI LLM powered Apps: Fast track to building OpenAI LLM powered Apps using Python Paperback (2023) by Greg Lim
+- Learning LangChain: Building AI and LLM Applications with LangChain and LangGraph (2025) by Mayo Oshin, Nuno Campos
+
+**Retrieval-augmented generation (RAG)**
+
+>Enhancing response accuracy through retrieval.
+
+- RAG-Driven Generative AI: Build custom retrieval augmented generation pipelines with LlamaIndex, Deep Lake, and Pinecone (2024) by Denis Rothman
+- Unlocking Data with Generative AI and RAG: Enhance generative AI systems by integrating internal data with large language models using RAG (2024) by Keith Bourne
+
+**Model context protocol (MCP)**
+
+> An open standard designed to bridge AI assistants with the world of data and tools, to plug in many different sources of context.
+
+>An open standard that enables developers to build secure, two-way connections between their data sources and AI-powered tools. The architecture is straightforward: developers can either expose their data through MCP servers or build AI applications (MCP clients) that connect to these servers.
+
+Introducing
+
+- [Introducing the Model Context Protocol - Anthropic](https://www.anthropic.com/news/model-context-protocol)
+- [What Is MCP, and Why Is Everyone – Suddenly!– Talking About It?](https://huggingface.co/blog/Kseniase/mcp)
+- [Unleashing the Power of Model Context Protocol (MCP): A Game-Changer in AI Integration](https://techcommunity.microsoft.com/blog/educatordeveloperblog/unleashing-the-power-of-model-context-protocol-mcp-a-game-changer-in-ai-integrat/4397564)
+
+Resource
+
+- [Model Context Protocol](https://modelcontextprotocol.io/introduction) November 2024
+- [Anthropic Agents and tools](https://docs.anthropic.com/en/docs/agents-and-tools/mcp)
+- [OpenAI Agents SDK](https://openai.github.io/openai-agents-python/)
+
 
 #### Build AI Applications
 
@@ -1160,13 +1177,10 @@ AI Prompt Papers
 - AI Product Manager's Handbook: The ultimate playbook to unlock AI product success with real-world insights and strategies (2nd, 2024) by Irene Bratsis
 - Simplified Generative AI Architecture Design Guide (2025) by Zephyr Nolan, Techcore Publishing
 - Building LLMs for Production: Enhancing LLM Abilities and Reliability with Prompting, Fine-Tuning, and RAG (2024) by Louis-François Bouchard, Louie Peters
-- Generative AI with LangChain: Build large language model (LLM) apps with Python, ChatGPT, and other LLMs (2023) by Ben Auffarth
-- LangChain Crash Course: Build OpenAI LLM powered Apps: Fast track to building OpenAI LLM powered Apps using Python Paperback (2023) by Greg Lim
 - Generative AI on AWS: Building Context-Aware Multimodal Reasoning Applications (2023) by Chris Fregly, Antje Barth, Shelbee Eigenbrode 
 - Quick Start Guide to Large Language Models: Strategies and Best Practices for Using ChatGPT and Other LLMs (2023) by Sinan Ozdemir 
 - OpenAI API Cookbook: Build intelligent applications including chatbots, virtual assistants, and content generators (2024) by Henry Habib
 - Developing Apps with GPT-4 and ChatGPT: Build Intelligent Chatbots, Content Generators, and More (2023) by Olivier Caelen, Marie-Alice Blete
-- Learning LangChain: Building AI and LLM Applications with LangChain and LangGraph (2025) by Mayo Oshin, Nuno Campos
 
 #### AI Business
 
