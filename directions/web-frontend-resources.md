@@ -590,6 +590,16 @@ Vue.js Admin Dashboard Templates
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/alpinejs/alpine)  ![GitHub last commit](https://img.shields.io/github/last-commit/alpinejs/alpine)   ![GitHub contributors](https://img.shields.io/github/contributors/alpinejs/alpine)  ![GitHub Created At](https://img.shields.io/github/created-at/alpinejs/alpine) ![NPM Downloads](https://img.shields.io/npm/dw/alpinejs)
 
+<details>
+<summary>关于 Alpine.js</summary>
+
+如果你想使用现代化的前端技术栈，同时又不想用复杂的前端技术栈，不想改点东西就得构建，那么你可以考虑一下 Alpine.js，我公司内部的一个小项目和一个中型的项目就是用的 Alpine.js 开发的，效果不错。
+
+--
+
+Alpine.js 和 jQuery 一样不需要编译，写完丢到 Nginx 就能运行了，对 SEO 也友好，轻量小众。
+
+</details>
 
 - [Alpine.js](https://alpinejs.dev/) - Your new, lightweight, JavaScript framework. A rugged, minimal framework for composing JavaScript behavior in your markup.
 
@@ -947,7 +957,7 @@ WebAssembly with C#
 Some more
 
 - Frameworks
-	- [Next.js](https://nextjs.org/)
+	- [Next.js](https://nextjs.org/). A widely adopted React framework that provides built-in SSR capabilities, along with Static Site Generation (SSG) and other optimizations for production-ready applications.
 	- [Nuxt](https://nuxt.com/)
 	- [Gatsby](https://www.gatsbyjs.com/)
 	- [Astro](https://astro.build/)
@@ -1033,15 +1043,38 @@ Interview questions
 
 - [Bun](https://bun.sh/) - A fast all-in-one JavaScript runtime.
 
-### Full Stack Frameworks of Node.js
+### Web Application Frameworks (API)
 
-> Fastify is more or less an alternative to Express while NestJS adds (suggests) some architecture to an application like dependency injection and modularization which is nice if your application grows (and in my opinion in general). NestJS uses express or fastify under the hood.
+>Express.js, Koa.js, Fastify, Nest.js
 
-> Fastify and Express are very similar - minimal. Nest is opinionated and have a lot of boilerplate, but overkill is subjective. If you think its too much boiler plate for a straight forward API collection for your start up don't use it.
+<details>
+<summary>On Web Application Frameworks</summary>
 
-> Express could be suitable for most of the cases, it also depends if you need third party integration since most of the packages are available in express.
+Fastify is more or less an alternative to Express while NestJS adds (suggests) some architecture to an application like dependency injection and modularization which is nice if your application grows (and in my opinion in general). NestJS uses express or fastify under the hood.
 
-> In terms of structure, Fastify is pretty much the same thing as Express. NestJS is a lot of glue code and boilerplate on top of Express or Fastify.
+--
+
+Fastify and Express are very similar - minimal. Nest is opinionated and have a lot of boilerplate, but overkill is subjective. If you think its too much boiler plate for a straight forward API collection for your start up don't use it.
+
+--
+
+Express could be suitable for most of the cases, it also depends if you need third party integration since most of the packages are available in express.
+
+--
+
+In terms of structure, Fastify is pretty much the same thing as Express. NestJS is a lot of glue code and boilerplate on top of Express or Fastify.
+
+</details>
+
+**Nest.js**
+
+![GitHub Repo stars](https://img.shields.io/github/stars/nestjs/nest)  ![GitHub last commit](https://img.shields.io/github/last-commit/nestjs/nest)   ![GitHub contributors](https://img.shields.io/github/contributors/nestjs/nest)  ![GitHub Created At](https://img.shields.io/github/created-at/nestjs/nest) ![NPM Downloads](https://img.shields.io/npm/dw/@nestjs/core)
+
+> NestJS uses express or fastify under the hood.
+
+> NestJS is for whom misses Java and doesn’t know how to develop with JS.
+
+- [Nest.js](https://nestjs.com/) - A progressive Node.js framework for building efficient, reliable and scalable server-side applications.
 
 **Express.js**
 
@@ -1063,15 +1096,56 @@ Interview questions
 
 - [Fastify](https://fastify.dev/) - Fast and low overhead web framework, for Node.js.
 
-**Nest.js**
+**Hono (Deno Runtime)**
 
-![GitHub Repo stars](https://img.shields.io/github/stars/nestjs/nest)  ![GitHub last commit](https://img.shields.io/github/last-commit/nestjs/nest)   ![GitHub contributors](https://img.shields.io/github/contributors/nestjs/nest)  ![GitHub Created At](https://img.shields.io/github/created-at/nestjs/nest) ![NPM Downloads](https://img.shields.io/npm/dw/@nestjs/core)
+![GitHub Repo stars](https://img.shields.io/github/stars/honojs/hono)  ![GitHub last commit](https://img.shields.io/github/last-commit/honojs/hono)   ![GitHub contributors](https://img.shields.io/github/contributors/honojs/hono)  ![GitHub Created At](https://img.shields.io/github/created-at/honojs/hono) ![NPM Downloads](https://img.shields.io/npm/dw/hono)
 
-> NestJS uses express or fastify under the hood.
+> It's basically express but with modern approach, including typescript support out of the box, improved DX, and better performance.
 
-> NestJS is for whom misses Java and doesn’t know how to develop with JS.
+- [Hono](https://hono.dev/) - Ultrafast web framework for the Edges. Fast, lightweight, built on Web Standards. Support for any JavaScript runtime.
 
-- [Nest.js](https://nestjs.com/) - A progressive Node.js framework for building efficient, reliable and scalable server-side applications.
+**tRPC**
+
+![GitHub Repo stars](https://img.shields.io/github/stars/trpc/trpc)  ![GitHub last commit](https://img.shields.io/github/last-commit/trpc/trpc)   ![GitHub contributors](https://img.shields.io/github/contributors/trpc/trpc)  ![GitHub Created At](https://img.shields.io/github/created-at/trpc/trpc) ![NPM Downloads](https://img.shields.io/npm/dw/@trpc/server)
+
+>A TypeScript-based framework for building typesafe APIs, allowing for efficient and reliable communication between the client and server.
+
+- [tRPC](https://trpc.io/) - Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
+
+### Full-Stack Web Frameworks (SSR)
+
+>Next.js, Nuxt.js, SvelteKit, Remix, Astro, Angular Universal, Gatsby.
+
+>Full-Stack Web Frameworks are great for building SEO-friendly websites.
+
+**Next.js (React-Based)**
+
+![GitHub Repo stars](https://img.shields.io/github/stars/vercel/next.js)  ![GitHub last commit](https://img.shields.io/github/last-commit/vercel/next.js)   ![GitHub contributors](https://img.shields.io/github/contributors/vercel/next.js)  ![GitHub Created At](https://img.shields.io/github/created-at/vercel/next.js) ![NPM Downloads](https://img.shields.io/npm/dw/next)
+
+>Next.js is a JavaScript framework built on top of React, specializing in server-side rendering (SSR) and static site generation (SSG). It optimizes web application performance by rendering pages on the server, improving initial load times and search engine optimization.
+
+- [Next.js](https://nextjs.org/) - The React Framework for the Web.
+- The Complete Developer: Master the Full Stack with TypeScript, React, Next.js, MongoDB, and Docker (2024) by Martin Krause
+- Real-World Next.js: Build scalable, high-performance, and modern web applications using Next.js, the React framework for production (2022) by Michele Riva
+- Beginning Next.js Development: Learn NextJS and Build a Full Stack Dynamic Application Using React, NextJS, TailwindCSS, and MongoDB (2024) by Nathan Sebhastian
+- Dynamic Trio: Building Web Applications with React, Next.js & Tailwind (2023) by Grace Huang
+- Modern Full-Stack React Projects: Build, maintain, and deploy modern web apps using MongoDB, Express, React, and Node.js (2024) by Daniel Bugl 
+
+**Nuxt (Vue-Based)**
+
+![GitHub Repo stars](https://img.shields.io/github/stars/nuxt/nuxt)  ![GitHub last commit](https://img.shields.io/github/last-commit/nuxt/nuxt)   ![GitHub contributors](https://img.shields.io/github/contributors/nuxt/nuxt)  ![GitHub Created At](https://img.shields.io/github/created-at/nuxt/nuxt) ![NPM Downloads](https://img.shields.io/npm/dw/nuxt)
+
+>Nuxt.js is a framework built on top of Vue.js for creating universal (SSR) and static websites. It simplifies the development process by providing conventions and features like automatic routing, server-side rendering, and static site generation.
+
+- [Nuxt](https://nuxt.com/) - Nuxt is an open source framework that makes web development intuitive and powerful. Create performant and production-grade full-stack web apps and websites with confidence.
+
+
+**Gatsby (React-Based)**
+
+
+![GitHub Repo stars](https://img.shields.io/github/stars/gatsbyjs/gatsby)  ![GitHub last commit](https://img.shields.io/github/last-commit/gatsbyjs/gatsby)   ![GitHub contributors](https://img.shields.io/github/contributors/gatsbyjs/gatsby)  ![GitHub Created At](https://img.shields.io/github/created-at/gatsbyjs/gatsby) ![NPM Downloads](https://img.shields.io/npm/dw/gatsby)
+
+- [Gatsby](https://www.gatsbyjs.com/) - The Best React-Based Framework.
 
 **Astro**
 
@@ -1085,18 +1159,17 @@ Interview questions
 
 - [Remix](https://remix.run/) - Build Better Websites.
 
-
 **Meteor**
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/meteor/meteor)  ![GitHub last commit](https://img.shields.io/github/last-commit/meteor/meteor)   ![GitHub contributors](https://img.shields.io/github/contributors/meteor/meteor)  ![GitHub Created At](https://img.shields.io/github/created-at/meteor/meteor) ![NPM Downloads](https://img.shields.io/npm/dw/meteor)
 
 - [Meteor](https://www.meteor.com/) - The full-stack JavaScript framework for real-time apps.
 
-**tRPC**
+**SvelteKit (Svelte-Based)**
 
-![GitHub Repo stars](https://img.shields.io/github/stars/trpc/trpc)  ![GitHub last commit](https://img.shields.io/github/last-commit/trpc/trpc)   ![GitHub contributors](https://img.shields.io/github/contributors/trpc/trpc)  ![GitHub Created At](https://img.shields.io/github/created-at/trpc/trpc) ![NPM Downloads](https://img.shields.io/npm/dw/@trpc/server)
+![GitHub Repo stars](https://img.shields.io/github/stars/sveltejs/kit)  ![GitHub last commit](https://img.shields.io/github/last-commit/sveltejs/kit)   ![GitHub contributors](https://img.shields.io/github/contributors/sveltejs/kit)  ![GitHub Created At](https://img.shields.io/github/created-at/sveltejs/kit) ![NPM Downloads](https://img.shields.io/npm/dw/@sveltejs/kit)
 
-- [tRPC](https://trpc.io/) - Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
+- [SvelteKit](https://svelte.dev/docs/kit/introduction) - A framework for rapidly developing robust, performant web applications using Svelte.
 
 ### Headless CMS
 
@@ -1104,57 +1177,9 @@ Interview questions
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/strapi/strapi)  ![GitHub last commit](https://img.shields.io/github/last-commit/strapi/strapi)   ![GitHub contributors](https://img.shields.io/github/contributors/strapi/strapi)  ![GitHub Created At](https://img.shields.io/github/created-at/strapi/strapi) ![NPM Downloads](https://img.shields.io/npm/dw/strapi)
 
+>Strapi is a headless CMS, providing a customizable backend for content management.
+
 - [Strapi](https://strapi.io/) - Open source Node.js Headless CMS. Build modern websites with the most customizable Headless CMS.
-
-### Full Stack Frameworks of Deno
-
-**Hono**
-
-![GitHub Repo stars](https://img.shields.io/github/stars/honojs/hono)  ![GitHub last commit](https://img.shields.io/github/last-commit/honojs/hono)   ![GitHub contributors](https://img.shields.io/github/contributors/honojs/hono)  ![GitHub Created At](https://img.shields.io/github/created-at/honojs/hono) ![NPM Downloads](https://img.shields.io/npm/dw/hono)
-
-> It's basically express but with modern approach, including typescript support out of the box, improved DX, and better performance.
-
-- [Hono](https://hono.dev/) - Ultrafast web framework for the Edges. Fast, lightweight, built on Web Standards. Support for any JavaScript runtime.
-
-### React-Based Full Stack Frameworks
-
-**Next.js**
-
-![GitHub Repo stars](https://img.shields.io/github/stars/vercel/next.js)  ![GitHub last commit](https://img.shields.io/github/last-commit/vercel/next.js)   ![GitHub contributors](https://img.shields.io/github/contributors/vercel/next.js)  ![GitHub Created At](https://img.shields.io/github/created-at/vercel/next.js) ![NPM Downloads](https://img.shields.io/npm/dw/next)
-
->Next.js is a JavaScript framework built on top of React, specializing in server-side rendering (SSR) and static site generation (SSG). It optimizes web application performance by rendering pages on the server, improving initial load times and search engine optimization.
-
-- [Next.js](https://nextjs.org/) - The React Framework for the Web.
-- The Complete Developer: Master the Full Stack with TypeScript, React, Next.js, MongoDB, and Docker (2024) by Martin Krause
-- Real-World Next.js: Build scalable, high-performance, and modern web applications using Next.js, the React framework for production (2022) by Michele Riva
-- Beginning Next.js Development: Learn NextJS and Build a Full Stack Dynamic Application Using React, NextJS, TailwindCSS, and MongoDB (2024) by Nathan Sebhastian
-- Dynamic Trio: Building Web Applications with React, Next.js & Tailwind (2023) by Grace Huang
-- Modern Full-Stack React Projects: Build, maintain, and deploy modern web apps using MongoDB, Express, React, and Node.js (2024) by Daniel Bugl 
-
-**Gatsby**
-
-
-![GitHub Repo stars](https://img.shields.io/github/stars/gatsbyjs/gatsby)  ![GitHub last commit](https://img.shields.io/github/last-commit/gatsbyjs/gatsby)   ![GitHub contributors](https://img.shields.io/github/contributors/gatsbyjs/gatsby)  ![GitHub Created At](https://img.shields.io/github/created-at/gatsbyjs/gatsby) ![NPM Downloads](https://img.shields.io/npm/dw/gatsby)
-
-- [Gatsby](https://www.gatsbyjs.com/) - The Best React-Based Framework.
-
-### Vue-Based Full Stack Frameworks
-
-**Nuxt**
-
-![GitHub Repo stars](https://img.shields.io/github/stars/nuxt/nuxt)  ![GitHub last commit](https://img.shields.io/github/last-commit/nuxt/nuxt)   ![GitHub contributors](https://img.shields.io/github/contributors/nuxt/nuxt)  ![GitHub Created At](https://img.shields.io/github/created-at/nuxt/nuxt) ![NPM Downloads](https://img.shields.io/npm/dw/nuxt)
-
->Nuxt.js is a framework built on top of Vue.js for creating universal (SSR) and static websites. It simplifies the development process by providing conventions and features like automatic routing, server-side rendering, and static site generation.
-
-- [Nuxt](https://nuxt.com/) - Nuxt is an open source framework that makes web development intuitive and powerful. Create performant and production-grade full-stack web apps and websites with confidence.
-
-### Svelte-Based Full Stack Frameworks
-
-**SvelteKit**
-
-![GitHub Repo stars](https://img.shields.io/github/stars/sveltejs/kit)  ![GitHub last commit](https://img.shields.io/github/last-commit/sveltejs/kit)   ![GitHub contributors](https://img.shields.io/github/contributors/sveltejs/kit)  ![GitHub Created At](https://img.shields.io/github/created-at/sveltejs/kit) ![NPM Downloads](https://img.shields.io/npm/dw/@sveltejs/kit)
-
-- [SvelteKit](https://svelte.dev/docs/kit/introduction) - A framework for rapidly developing robust, performant web applications using Svelte.
 
 ### ORM frameworks
 
