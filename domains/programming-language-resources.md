@@ -960,6 +960,14 @@ Courses
 - IOS 10 Programming Fundamentals with Swift: Swift, Xcode, and Cocoa Basics by Matt Neuburg
 - Swift 5 for Absolute Beginners: Learn to Develop Apps for iOS by Stefan Kaczmarek, Brad Lees, Gary Bennett
 
+#### Delphi
+
+>Delphi is a high-level, compiled, object-oriented programming language and software development environment, based on the Object Pascal language.
+
+>Delphi is primarily used in desktop application development.
+
+- [Delphi](https://www.embarcadero.com/products/delphi). Native Apps For Any Device From One Codebase With Delphi! Build Apps 5x Faster for Windows, Android, iOS, macOS, and Linux.
+
 #### <img src="/assets/icon/programming-languages/Windows.svg" width="20px"/>Windows Desktop Applications
 
 - `C#` + [Windows Forms](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/) or [WPF (Windows Presentation Foundation)](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/)
@@ -1126,6 +1134,8 @@ Dependency Management
 
 #### <img src="/assets/icon/programming-languages/Scala.svg" width="20px"/>Scala
 
+>Scala is widely used in fields that require scalable, high-performance applications, especially those that benefit from both object-oriented and functional programming paradigms. It’s popular for building big data systems, distributed applications, and backend services.
+
 - Documentation
   - [Scala Documentation - doc]( https://docs.scala-lang.org/ )
 - Online Tutorials
@@ -1147,11 +1157,15 @@ Dependency Management
 
 #### <img src="/assets/icon/programming-languages/Erlang.svg" width="20px"/>Erlang
 
+>Erlang is primarily used in fields that require highly reliable, concurrent, and distributed systems, especially where fault tolerance and real-time performance are critical.
+
 - [Erlang GETTING STARTED - doc](https://www.erlang.org/)
 
 ### Statistical analysis
 
 #### <img src="/assets/icon/programming-languages/R.svg" width="20px"/>R
+
+>R is primarily used in fields that require statistical analysis, data visualization, and data science. It is widely adopted by statisticians, data scientists, and researchers for handling complex data and creating insights.
 
 - [R Getting Started - doc](https://www.r-project.org/)
 
@@ -1159,11 +1173,35 @@ Dependency Management
 
 #### <img src="/assets/icon/programming-languages/VisualBasic.svg" width="20px"/>Visual Basic
 
+>Visual Basic (VB) — especially Visual Basic for Applications (VBA) and Visual Basic .NET (VB.NET) — is primarily used in business software development, office automation, and internal enterprise tools, particularly within Windows environments.
+
 - [Visual Basic language reference](https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/visual-basic-language-reference)
+
+### Banking and financial services
+
+#### COBOL
+
+>COBOL (Common Business-Oriented Language) is primarily used in the field of business, finance, and administrative systems—especially those that require high-volume data processing and long-term reliability.
+
+- [COBOL](https://developer.ibm.com/languages/cobol/). Run mission-critical processes on the modern mainframe with this business-oriented language that enterprises and developers continue to rely on.
 
 ### Academic research and education
 
+#### Fortran
+
+>Fortran (short for Formula Translation) is primarily used in fields that require high-performance numerical computing, especially those involving scientific, engineering, and mathematical computations.
+
+- [Fortran](https://fortran-lang.org/). High-performance parallel programming language.
+
+#### MATLAB
+
+>MATLAB is widely used in fields that require mathematical modeling, data analysis, simulation, and algorithm development. It’s especially popular in engineering, science, and academia, as well as in industry applications that demand prototyping and high-performance computation.
+
+- [MATLAB](https://www.mathworks.com/products/matlab.html). A programming and numeric computing platform used by millions of engineers and scientists to analyze data, develop algorithms, and create models.
+
 #### <img src="/assets/icon/programming-languages/Lisp.svg" width="20px"/>Lisp
+
+>Lisp (short for LISt Processing) is primarily used in fields that value symbolic computation, AI research, and metaprogramming. It’s one of the oldest high-level programming languages, known for its powerful macro system, code-as-data philosophy, and flexibility.
 
 >屠龙之技厉害，奈何龙少。
 
@@ -1180,6 +1218,8 @@ Dependency Management
 - The Little Schemer by Daniel P. Friedman and Matthias Felleisen
 
 #### <img src="/assets/icon/programming-languages/Haskell.svg" width="20px"/>Haskell
+
+>Haskell is primarily used in fields that require strong correctness guarantees, complex algorithmic logic, or robust concurrency — especially in academia, research, finance, and advanced software tooling. It's a purely functional programming language known for type safety, immutability, and mathematical elegance.
 
 - [Haskell Documentation - doc]( https://www.haskell.org/documentation/ )
 - Learn You a Haskell for Great Good!: A Beginner's Guide by Miran Lipovača [HTML](https://learnyouahaskell.github.io/chapters.html)
@@ -1207,6 +1247,11 @@ Web Frameworks
 - API
 	- [Servant](https://www.servant.dev/)
 
+#### Scratch
+
+>Scratch is primarily used in the field of education, especially for teaching programming and computational thinking to children and beginners.
+
+- [Scratch](https://scratch.mit.edu/). Create stories, games, and animations. Share with others around the world.
 
 ### Others
 
