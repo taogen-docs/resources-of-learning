@@ -32,7 +32,7 @@ GPU Providers
 
 - [AutoDL](https://www.autodl.com/home)
 
-## Using AI & Prompt Engineering
+## Using AI
 
 Using AI
 
@@ -49,8 +49,12 @@ AI-Assisted Programming
 - "Looks Good To Me": Constructive code reviews (2025) by Adrienne Braganza
 - [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools). FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent (And other Open Sourced) System Prompts, Tools & AI Models.
 
-AI Prompt
+## Prompt Engineering
 
+Books & Tutorials
+
+- Whitepaper on Prompt Engineering by Lee Boonstra [PDF](https://www.gptaiflow.tech/assets/files/2025-01-18-pdf-1-TechAI-Goolge-whitepaper_Prompt%20Engineering_v4-af36dcc7a49bb7269a58b1c9b89a8ae1.pdf)
+- [Prompt Engineering for AI Guide](https://cloud.google.com/discover/what-is-prompt-engineering)
 - The Art of Asking ChatGPT for High-Quality Answers: A Complete Guide to Prompt Engineering Techniques by Ibrahim John
 - The Art of Prompt Engineering with chatGPT: A Hands-On Guide for using chatGPT by Nathan Hunter
 - THE POWER OF PROMPT ENGINEERING: HOW TO UNLOCK THE POTENTIAL OF AI LANGUAGE MODELS by Ramandeep Singh
@@ -63,7 +67,7 @@ Articles
 - [Prompt Engineering 101: Introduction and resources](https://amatriain.net/blog/PromptEngineering)
 - [Prompt Engineering, Text Generation & Large Language Models](https://cobusgreyling.medium.com/prompt-engineering-text-generation-large-language-models-3d90c527c6d5)
 
-AI Prompt Resources
+Resources
 
 - [Awesome-Prompt-Engineering - GitHub](https://github.com/promptslab/Awesome-Prompt-Engineering)
 - [Prompt-Engineering-Guide - GitHub](https://github.com/dair-ai/Prompt-Engineering-Guide)
