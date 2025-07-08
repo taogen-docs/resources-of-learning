@@ -1222,15 +1222,44 @@ Web Frameworks
 
 ### Ranking
 
-Programming Languages Ranking
+**Programming Languages Ranking**
 
 - [TIOBE](https://www.tiobe.com/tiobe-index/)
 - [Programming-Language-Benchmarks-Visualization](https://github.com/GoodManWEN/Programming-Language-Benchmarks-Visualization)
 - [The Computer Language Benchmarks Game](https://benchmarksgame-team.pages.debian.net/benchmarksgame/index.html)
 
-Project Ranking
+**Project Ranking**
 
 - [GitHub Ranking](https://evanli.github.io/Github-Ranking/)
+
+**Programming Language of the Year (TIOBE)**
+
+>The programming language that has the highest rise in ratings in a year.
+
+| Year | Winner       |
+| ---- | ------------ |
+| 2024 | Python       |
+| 2023 | C#           |
+| 2022 | C++          |
+| 2021 | Python       |
+| 2020 | Python       |
+| 2019 | C            |
+| 2018 | Python       |
+| 2017 | C            |
+| 2016 | Go           |
+| 2015 | Java         |
+| 2014 | JavaScript   |
+| 2013 | Transact-SQL |
+| 2012 | Objective-C  |
+| 2011 | Objective-C  |
+| 2010 | Python       |
+| 2009 | Go           |
+| 2008 | C            |
+| 2007 | Python       |
+| 2006 | Ruby         |
+| 2005 | Java         |
+| 2004 | PHP          |
+| 2003 | C++          |
 
 <br>
 
