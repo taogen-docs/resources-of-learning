@@ -960,7 +960,7 @@ Courses
 - IOS 10 Programming Fundamentals with Swift: Swift, Xcode, and Cocoa Basics by Matt Neuburg
 - Swift 5 for Absolute Beginners: Learn to Develop Apps for iOS by Stefan Kaczmarek, Brad Lees, Gary Bennett
 
-#### Delphi
+#### <img src="/assets/icon/programming-languages/Delphi.svg" width="20px"/>Delphi
 
 >Delphi is a high-level, compiled, object-oriented programming language and software development environment, based on the Object Pascal language.
 
@@ -1179,7 +1179,7 @@ Dependency Management
 
 ### Banking and financial services
 
-#### COBOL
+#### <img src="/assets/icon/programming-languages/Cobol.svg" width="20px"/>COBOL
 
 >COBOL (Common Business-Oriented Language) is primarily used in the field of business, finance, and administrative systems—especially those that require high-volume data processing and long-term reliability.
 
@@ -1187,13 +1187,13 @@ Dependency Management
 
 ### Academic research and education
 
-#### Fortran
+#### <img src="/assets/icon/programming-languages/Fortran.svg" width="20px"/>Fortran
 
 >Fortran (short for Formula Translation) is primarily used in fields that require high-performance numerical computing, especially those involving scientific, engineering, and mathematical computations.
 
 - [Fortran](https://fortran-lang.org/). High-performance parallel programming language.
 
-#### MATLAB
+#### <img src="/assets/icon/programming-languages/Matlab.svg" width="20px"/>MATLAB
 
 >MATLAB is widely used in fields that require mathematical modeling, data analysis, simulation, and algorithm development. It’s especially popular in engineering, science, and academia, as well as in industry applications that demand prototyping and high-performance computation.
 
@@ -1247,7 +1247,7 @@ Web Frameworks
 - API
 	- [Servant](https://www.servant.dev/)
 
-#### Scratch
+#### <img src="/assets/icon/programming-languages/Scratch.svg" width="20px"/>Scratch
 
 >Scratch is primarily used in the field of education, especially for teaching programming and computational thinking to children and beginners.
 
