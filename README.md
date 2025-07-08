@@ -21,6 +21,7 @@ Directions
 - [Web Backend - Java Resources](directions/java-resources.md)
 - [Web Frontend Resource](directions/web-frontend-resources.md)
 - [Information Security Resources](directions/information-security-resources.md)
+- [Generative AI](domains/generative-ai.md)
 
 Miscellaneous
 
