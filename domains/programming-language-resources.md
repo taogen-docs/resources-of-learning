@@ -116,6 +116,7 @@ Modern C++
 
 - Modern C++ for Absolute Beginners: A Friendly Introduction to the C++ Programming Language and C++11 to C++23 Standards (2nd, 2023) by Slobodan Dmitrović
 - Modern C++ Programming Cookbook: Master C++ core language and standard library features, with over 100 recipes, updated to C++20 (2nd, 2020) by Marius Bancila
+- Thriving in a Crowded and Changing World: C++ 2006–2020 by Bjarne Stroustrup [PDF](https://www.stroustrup.com/hopl20main-p5-p-bfc9cd4--final.pdf)
 - 现代 C++ 教程：高速上手 C++ 11/14/17/20 (2nd) by 欧长坤 [eBook](https://changkun.de/modern-cpp/)
 
 Best practices
