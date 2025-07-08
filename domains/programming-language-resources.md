@@ -1282,30 +1282,30 @@ Web Frameworks
 
 >The programming language that has the highest rise in ratings in a year.
 
-| Year | Winner       |
-| ---- | ------------ |
-| 2024 | Python       |
-| 2023 | C#           |
-| 2022 | C++          |
-| 2021 | Python       |
-| 2020 | Python       |
-| 2019 | C            |
-| 2018 | Python       |
-| 2017 | C            |
-| 2016 | Go           |
-| 2015 | Java         |
-| 2014 | JavaScript   |
-| 2013 | Transact-SQL |
-| 2012 | Objective-C  |
-| 2011 | Objective-C  |
-| 2010 | Python       |
-| 2009 | Go           |
-| 2008 | C            |
-| 2007 | Python       |
-| 2006 | Ruby         |
-| 2005 | Java         |
-| 2004 | PHP          |
-| 2003 | C++          |
+| Year | Winner       | Description                                                                                                                                                                                                                                                                                                                                                     |
+| ---- | ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024 | Python       | 1. The explosion of artificial intelligence and large language models (**LLM**). 2. **Data science** and data engineering continue to grow.                                                                                                                                                                                                                     |
+| 2023 | C#           | The .NET ecosystem continues to develop and its **cross-platform** capabilities are enhanced.                                                                                                                                                                                                                                                                   |
+| 2022 | C++          | 1. C++20 and C++23 drive the **modernization** process and attract attention. 2. Game development and graphics programming still heavily rely on C++. 3. Fields such as financial engineering and high-frequency trading rely on C++. 4. Embedded systems and device drivers are still widely used. 5. The underlying layer of the AI toolchain is still C/C++. |
+| 2021 | Python       | 1. The explosion of artificial intelligence (**AI**) and machine learning (**ML**). 2. **Data science** and data analysis widely use Python.                                                                                                                                                                                                                    |
+| 2020 | Python       | 1. The explosion of artificial intelligence (**AI**) and machine learning (**ML**). 2. **Data science** and data analysis widely use Python.                                                                                                                                                                                                                    |
+| 2019 | C            | The rapid growth of **embedded and IoT devices**.                                                                                                                                                                                                                                                                                                               |
+| 2018 | Python       | 1. The explosion of artificial intelligence (**AI**) and machine learning (**ML**). 2. **Data science** and data analysis widely use Python.                                                                                                                                                                                                                    |
+| 2017 | C            | The rapid growth of **embedded and IoT devices**.                                                                                                                                                                                                                                                                                                               |
+| 2016 | Go           | 1. The wave of **cloud-native** is beginning to rise. 2. Microservices architecture is starting to become mainstream.                                                                                                                                                                                                                                           |
+| 2015 | Java         | 1. The Mobile Internet Era. 2. **Android application** development mainly uses Java. 3. The main language for **enterprise-level backend development**.                                                                                                                                                                                                         |
+| 2014 | JavaScript   | 1. MVVM frameworks: React, Angular and Vue. 2. Node.js. 3. npm. 4. Front-end engineering. Grunt and Webpack. 5. SPA. 6. Cross-platform application development with JS.                                                                                                                                                                                         |
+| 2013 | Transact-SQL | 1. Widespread adoption of Microsoft SQL Server. 2. The demand for complex data processing and automation in enterprises is increasing. 3. The rise of Business Intelligence (BI) and Data Warehousing.                                                                                                                                                          |
+| 2012 | Objective-C  | 1. The Mobile Internet Era. 2. iPhone 4 (2010) and iPhone 4S (2011) are big sellers. 3. App Store success.                                                                                                                                                                                                                                                      |
+| 2011 | Objective-C  | 1. The Mobile Internet Era. 2. iPhone 4 (2010) and iPhone 4S (2011) are big sellers. 3. App Store success.                                                                                                                                                                                                                                                      |
+| 2010 | Python       | 1. Simple and easy to learn, suitable for **rapid development**. 2. Scientific computing and data analytics at the start. 3. The **web development** ecosystem is rich. 4. **Automation and scripting** are widely used. 5. Adoption by large internet companies.                                                                                               |
+| 2009 | Go           | 1. Google officially released Go in 2009. 2. **Google endorsement**, attracting attention.                                                                                                                                                                                                                                                                      |
+| 2008 | C            | 1. The foundational language of operating systems and low-level software. 2. Embedded systems and hardware control are widely used.                                                                                                                                                                                                                             |
+| 2007 | Python       | 1. Simple and easy to learn, suitable for **rapid development**. 2. Scientific computing and data analytics at the start. 3. **Web development** frameworks are growing rapidly. 4. **Automation and scripting** are widely used. 5. Adoption by large internet companies.                                                                                      |
+| 2006 | Ruby         | 1. The rise of the **Ruby on Rails** framework. 2. Concise and elegant syntax design. 3. Suitable for startups and **rapid development**.                                                                                                                                                                                                                       |
+| 2005 | Java         | 1. The main language for **enterprise-level application development**. 2. Stable and mature ecosystem and toolchain. 3. Support for mobile devices and embedded systems. 4. The widespread use of web application servers and middleware.                                                                                                                       |
+| 2004 | PHP          | 1. The main programming language for **web application development**. 2. Many popular websites and content management systems (**CMS**) use PHP. 3. Open source, free, and cross-platform. 4. Rich extension libraries and frameworks 5. During the recovery period after the internet bubble, the number of websites grew rapidly.                             |
+| 2003 | C++          | 1. Excellent performance, suitable for system-level development. 2. The main programming language in the field of game development.                                                                                                                                                                                                                             |
 
 <br>
 
