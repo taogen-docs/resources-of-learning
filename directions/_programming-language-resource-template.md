@@ -9,6 +9,8 @@
 - Web Security
 - Microservices
 - Xxx Tools
+- Open-Source Projects
+- Directions
 
 ## Xxx Fundamentals
 
@@ -98,7 +100,7 @@ IDE
 Package Manager
 
 
-## Open-source projects
+## Open-Source Projects
 
 **Recommended Xxx open source projects to read**
 

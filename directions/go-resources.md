@@ -9,6 +9,8 @@
 - Web Security
 - Microservices
 - Go Tools
+- Open-Source Projects
+- Directions
 
 ## Go Fundamentals
 
@@ -125,17 +127,23 @@ General Purpose
 
 JSON Parser
 
+> Analyze JSON Parsing Library In Go: The fastjson API is the simplest to use; GJSON offers fuzzy searching capabilities and high customizability; jsonparser supports inserting callback functions during high-performance parsing, providing a degree of convenience.
+
+> For my use case, which involves simply parsing specific fields from HTTP response JSON strings with predetermined fields and occasional custom operations, jsonparser is the most suitable tool.
+
 - `encoding/json` package (Built-in)
-- simdjson-go
-- jsonparser
+- [buger/jsonparser](https://github.com/buger/jsonparser). One of the fastest alternative JSON parser for Go that does not require schema
+- [valyala/fastjson](https://github.com/valyala/fastjson). Fast JSON parser and validator for Go. No custom structs, no code generation, no reflection.
+- [tidwall/gjson](https://github.com/tidwall/gjson). Get JSON values quickly - JSON parser for Go.
+- [simdjson-go](https://github.com/minio/simdjson-go). Golang port of simdjson: parsing gigabytes of JSON per second
 
 Document Processing
 
 - Microsoft Office documents
-  - UniOffice (unidoc/unioffice)
-  - GoDocx (gomutex/godocx)
+  - [UniOffice](https://unidoc.io/unioffice/) (unidoc/unioffice). Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents.
+  - GoDocx (gomutex/godocx). Go library for reading and writing Microsoft Docx
 - PDF documents
-  - UniPDF (unidoc/unipdf)
+  - [UniPDF](https://unidoc.io/unipdf/) (unidoc/unipdf). Golang PDF library for creating and processing PDF files (pure go)
   - GoFPDF (jung-kurt/gofpdf)
   - go-wkhtmltopdf (SebastiaanKlippert/go-wkhtmltopdf)
 
@@ -143,22 +151,21 @@ Logging
 
 - `log` package (Built-in)
 - `log/slog` package (Built-in)
-- Logrus
-- Zap
-- Zerolog
+- [Logrus](https://github.com/sirupsen/logrus). Structured, pluggable logging for Go.
+- [Zap](https://github.com/uber-go/zap). Blazing fast, structured, leveled logging in Go.
+- [Zerolog](https://github.com/rs/zerolog). Zero Allocation JSON Logger
 
 Unit Testing
 
 - `testing` package (Built-in). It is sufficient for basic unit testing.
-- Testify
-- GoConvey
+- [Testify](https://github.com/stretchr/testify). A toolkit with common assertions and mocks that plays nicely with the standard library.
 
 HTTP Client
 
 - `net/http` package
-- Resty
-- GoRequest
-- Fasthttp
+- [Resty](https://resty.dev/). Simple HTTP, REST, and SSE client library for Go
+- [GoRequest](https://parnurzeal.github.io/gorequest/). Simplified HTTP client (inspired by nodejs SuperAgent).
+- [Fasthttp](https://github.com/valyala/fasthttp). Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http.
 
 ### More Utilities
 
@@ -173,41 +180,38 @@ Browser Automation
 Configuration solution
 
 - [Viper](https://github.com/spf13/viper)
-- `joho/godotenv`
+- [joho/godotenv](https://github.com/joho/godotenv). A Go port of Ruby's dotenv library (Loads environment variables from .env files)
 
 JSON Web Token
 
-- `golang-jwt/jwt`
-- `cristalhq/jwt`
-- `kataras/jwt`
-- `pascaldekloe/jwt`
+- [golang-jwt/jwt](https://golang-jwt.github.io/jwt/). Go implementation of JSON Web Tokens (JWT).
 
 ## Data Access
 
 Database Connectivity APIs
 
-- `database/sql` package. It includes connection pool.
-- `go-sql-driver/mysql`
-- `ziutek/mymysql`
+- [database/sql](https://pkg.go.dev/database/sql) package (Built-in). It includes connection pool.
+- [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql). Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
+- [lib/pq](https://github.com/lib/pq). Pure Go Postgres driver for database/sql.
 
 Persistence/ORM Frameworks
 
 - [GORM](https://gorm.io/). A popular and feature-rich ORM that supports MySQL, PostgreSQL, SQLite, SQL Server, and ClickHouse. 
 - [sqlc](https://sqlc.dev/). An ORM that generates type-safe code from your SQL queries. 
-- SQLBoiler. An extension of database/sql that provides additional features like named parameters and support for struct scanning.
+- [SQLBoiler](https://github.com/aarondl/sqlboiler). Generate a Go ORM tailored to your database schema. An extension of database/sql that provides additional features like named parameters and support for struct scanning.
 
 Redis clients
 
-- Go-Redis
-- RediGo
+- [redis/go-redis](https://github.com/redis/go-redis). Redis Go client.
+- [RediGo](https://github.com/gomodule/redigo). Go client for Redis.
 
 MongoDB clients
 
-- mongo-go-driver
+- [mongodb/mongo-go-driver](https://www.mongodb.com/docs/drivers/go/current/). The Official Golang driver for MongoDB.
 
 Elasticsearch clients
 
-- `elastic/go-elasticsearch`
+- [elastic/go-elasticsearch](https://github.com/elastic/go-elasticsearch). The official Go client for Elasticsearch
 
 ## Web Frameworks
 
@@ -231,11 +235,11 @@ Books
 
 Web Frameworks
 
-- [Gin](https://gin-gonic.com/)
-- [FastHTTP](https://github.com/valyala/fasthttp)
-- [Echo](https://echo.labstack.com/) - High-performance.
-- [Beego](https://github.com/beego/beego) - High-performance.
-- [Fiber](https://gofiber.io/) - Rapid development.
+- [Gin](https://gin-gonic.com/). The fastest full-featured web framework for Go. Crystal clear.
+- [FastHTTP](https://github.com/valyala/fasthttp). Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http.
+- [Echo](https://echo.labstack.com/) - High-performance. High performance, extensible, minimalist Go web framework
+- [Beego](https://github.com/beego/beego) - High-performance. high-performance web framework for the Go programming language.
+- [Fiber](https://gofiber.io/) - Rapid development. An Express-inspired web framework written in Go.
 
 Management System Scaffolds
 
@@ -267,7 +271,7 @@ Package Manager
 - [Go Modules](https://go.dev/ref/mod)
 
 
-## Open-source projects
+## Open-Source Projects
 
 **Recommended Go open source projects to read**
 
@@ -304,10 +308,10 @@ Books
 
 Frameworks & Libraries
 
-- Cobra
+- [Cobra](https://cobra.dev/). A Framework for Modern CLI Apps in Go. A Commander for modern Go CLI interactions.
 
 ### Infrastructure Development
 
 Web Server Development
 
-- GorillaMUX
+- [GorillaMUX](https://gorilla.github.io/). A helpful toolkit for the Go programming language that provides useful, composable packages for writing HTTP-based applications.
