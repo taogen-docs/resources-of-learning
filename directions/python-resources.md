@@ -109,13 +109,39 @@ Resources
 
 General Purpose
 
+--
+
 JSON Parser
+
+- (built-in module)
 
 Document Processing
 
+- Word Documents
+  - python-docx
+  - Spire.Doc.Free
+- Excel Spreadsheets
+  - openpyxl
+  - pandas
+- PowerPoint Presentations
+  - python-pptx
+- PDF Documents
+  - pypdf
+  - PyPDF2
+
 Logging
 
+- The standard logging module
+- Loguru
+- Structlog
+- Eliot
+- Logbook
+- Picologging
+
 Unit Testing
+
+- Pytest
+- Unitest
 
 HTTP Client
 
@@ -131,8 +157,9 @@ Date Time Handling
 
 - arrow
 
-HTML/XML Parser
+Web Scraping
 
+- Scrapy
 - beautifulsoup4
 - m3u8
 
@@ -168,26 +195,49 @@ API
 
 </details>
 
-Scientific Computing
+Data Science and Analysis
 
-- NumPy
-
-Data Science
-
+- NumPy. Scientific Computing.
+- SciPy
 - Polars
 - Pandas
+- Matplotlib. Data Visualization
+- Seaborn. Statistical Data Visualization
 
-Artificial Intelligence
+Machine Learning
 
-- PyTorch
+- Scikit-learn. Machine Learning
+- XGboost
+- Catboost
+
+Deep Learning
+
+- PyTorch. Deep Learning Framework
+- TensorFlow. Deep Learning Framework
+- Keras. High-Level Deep Learning API
+
+Computer Vision
+
+- OpenCV. Computer Vision and Image Processing
+
+Natural Language Processing
+
+- NLTK
+- SpaCy
 
 ## Data Access
 
 Database Connectivity API
 
-- PyMySQL
-- mysqlclient
-- aiomysql
+- MySQL
+  - PyMySQL
+  - mysqlclient
+  - aiomysql
+- Postgres
+  - Psycopg2
+  - asyncpg
+  - pg8000
+  - pgsql
 
 Connection Pools
 
@@ -203,6 +253,13 @@ Persistence/ORM Frameworks
 - Tortoise ORM
 
 Redis clients
+
+- redis-py
+
+MongoDB clients
+
+- PyMongo
+- Motor
 
 Elasticsearch clients
 
@@ -239,6 +296,9 @@ Management System Scaffolds
 
 
 ## Web Security
+
+- django.contrib.auth
+- flask_login
 
 ## Python Tools
 
