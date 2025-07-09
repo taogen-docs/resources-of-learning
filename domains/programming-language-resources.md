@@ -47,11 +47,32 @@ Modern C
 
 Advanced
 
-- Pointers on C (1997) by Kenneth A·Reek 
-- Expert C Programming: Deep C Secrets (1994) by Peter van der Linden 
-- C Traps and Pitfalls (1989) by Andrew Koenig
-- Effective C: An Introduction to Professional C Programming (2020) by Robert C. Seacord
-- Fluent C: Principles, Practices, and Patterns (2022) by Christopher Preschern
+- C Pointers
+	- Pointers on C (1997) by Kenneth A·Reek 
+	- Understanding and Using C Pointers: Core Techniques for Memory Management (2013) by Richard M Reese
+- Deep Dive
+	- Expert C Programming: Deep C Secrets (1994) by Peter van der Linden 
+	- Extreme C: Taking you to the limit in Concurrency, OOP, and the most advanced capabilities of C (2019) by Kamran Amini
+	- C in a Nutshell: The Definitive Reference (2nd, 2016) by Peter Prinz, Tony Crawford
+	- Practical C Programming: Why Does 2+2 = 5986? (Nutshell Handbooks) (3rd, 1997) by Steve Oualline
+	- Mastering Algorithms with C: Useful Techniques from Sorting to Encryption by Kyle Loudon
+	- C Programming: A Modern Approach by K. N. King
+- Fluent & Effective
+	- C Traps and Pitfalls (1989) by Andrew Koenig
+	- Effective C: An Introduction to Professional C Programming (2020) by Robert C. Seacord
+	- Fluent C: Principles, Practices, and Patterns (2022) by Christopher Preschern
+- Tips
+	- 21st Century C: C Tips from the New School (2nd, 2014) by Ben Klemens
+
+Network Programming
+
+- Hands-On Network Programming with C: Learn socket programming in C and write secure and optimized network code (2019) by Lewis Van Winkle
+- Beej's Guide to Network Programming: Using Internet Sockets by Brian "Beej Jorgensen" Hall
+- TCP/IP Sockets in C: Practical Guide for Programmers by Michael J. Donahoo, Kenneth L. Calvert 
+
+Embedded C Programming
+
+- Bare-Metal Embedded C Programming: Develop high-performance embedded systems with C for Arm microcontrollers (2024) by Israel Gbati, Georgios Papanikolaou
 
 <details>
     <summary>Open-source projects recommended reading (C)</summary>
@@ -89,12 +110,15 @@ Advanced
 
 /cee plus plus/
 
-**Primary**
+**Beginner**
 
 Introductory, no previous programming experience
 
 - **C++ Primer** (5th, 2012) by Josée Lajoie and Stanley B. Lippman
 - Programming: Principles and Practice Using C++ by Bjarne Stroustrup
+- C++ Crash Course: A Fast-Paced Introduction (2019) by Josh Lospinoso 
+- Starting Out with C++ from Control Structures to Objects (2023) by Tony Gaddis 
+- C++ Without Fear: A Beginner's Guide That Makes You Feel Smart (3rd, 2015) by Brian Overland
 
 Introductory, with previous programming experience
 
@@ -114,10 +138,20 @@ Project Structure
 
 Modern C++
 
-- Modern C++ for Absolute Beginners: A Friendly Introduction to the C++ Programming Language and C++11 to C++23 Standards (2nd, 2023) by Slobodan Dmitrović
-- Modern C++ Programming Cookbook: Master C++ core language and standard library features, with over 100 recipes, updated to C++20 (2nd, 2020) by Marius Bancila
-- Thriving in a Crowded and Changing World: C++ 2006–2020 by Bjarne Stroustrup [PDF](https://www.stroustrup.com/hopl20main-p5-p-bfc9cd4--final.pdf)
-- 现代 C++ 教程：高速上手 C++ 11/14/17/20 (2nd) by 欧长坤 [eBook](https://changkun.de/modern-cpp/)
+>C++11: Modern C++,  C++20: Contemporary C++, C++26: Post-Modern C++.
+
+- C++20
+	- Thriving in a Crowded and Changing World: C++ 2006–2020 by Bjarne Stroustrup [PDF](https://www.stroustrup.com/hopl20main-p5-p-bfc9cd4--final.pdf)
+	- Modern C++ Programming Cookbook: Master C++ core language and standard library features, with over 100 recipes, updated to C++20 (2nd, 2020) by Marius Bancila
+	- C++20 - The Complete Guide (2022) by Nicolai M. Josuttis
+	- Beginning C++20: From Novice to Professional (2020) by Ivor Horton and Peter Van Weert
+	- Discovering Modern C++ (2nd, 2021) by Peter Gottschling
+	- 现代 C++ 教程：高速上手 C++ 11/14/17/20 (2nd) by 欧长坤 [eBook](https://changkun.de/modern-cpp/)
+- C++23
+	- Modern C++ for Absolute Beginners: A Friendly Introduction to the C++ Programming Language and C++11 to C++23 Standards (2nd, 2023) by Slobodan Dmitrović
+	- Learn C++ by Example: Covers versions 11 to 23 (2024) by Frances Buontempo
+	- Beginning C++23: From Beginner to Pro (2023) by Ivor Horton, Peter Van Weert
+	- C++23 STL Cookbook: Master the latest C++ STL features with practical recipes for modern C++ development (2nd, 2026) by Bill Weinman
 
 Best practices
 
@@ -147,10 +181,16 @@ Best practices
   - Advanced C++ Metaprogramming by Davide Di Gennaro
   - Large-Scale C++ Volume I: Process and Architecture by John S. Lakos
   - The C++ Standard Library  (2nd, 2012) by Nikolai Josuttis
+  - C++ Memory Management: Write leaner and safer C++ code using proven memory-management techniques by Patrice Roy 
+  - C++ Software Design: Design Principles and Patterns for High-Quality Software (2022) by Klaus Iglberger 
   - STL源码剖析 by 侯捷
+- Object-Oriented
+	- Object-Oriented Software Design in C++ (2024) by Ronald Mak
+- Asynchronous Programming
+	- Asynchronous Programming with C++: Build blazing-fast software with multithreading and asynchronous programming for ultimate efficiency (2024) by Javier Reguera-Salgado, Juan Antonio Rufes
 - Concurrency
   - C++ Concurrency in Action: Practical Multithreading by Anthony Williams
-- Network
+- Network Programming
   - C++ Network Programming, Volume I: Mastering Complexity with ACE and Patterns
     by Douglas C. Schmidt, Stephen D. Huston
   - C++ Network Programming, Volume 2: Systematic Reuse with Ace and Frameworks
@@ -158,6 +198,8 @@ Best practices
 - Efficient
   - C++ High Performance: Master the art of optimizing the functioning of your C++ code (2nd, 2020) by Bjorn Andrist, Viktor Sehr
   - The Art of Writing Efficient Programs: An advanced programmer's guide to efficient hardware utilization and compiler optimizations using C++ examples by Fedor G. Pikus 
+- Embedded Systems
+	- C++ in Embedded Systems: A practical transition from C to modern C++ (2025) by Amar Mahmutbegović
 
 
 Reference Style - All Levels
