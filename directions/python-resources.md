@@ -5,7 +5,7 @@
 **Content**
 
 - Python
-- Utility Library
+- Utility Libraries
 - Data Access
 - Web Frameworks
 - Web Security
@@ -103,7 +103,7 @@ Resources
 - [Web Browser Engineering](https://browser.engineering/) by Pavel Panchekha & Chris Harrelson. This book explains, building a basic but complete web browser, from networking to JavaScript, in a couple thousand lines of Python.
 
 
-## Utility Library
+## Utility Libraries
 
 ### Basic Utilities
 
@@ -173,8 +173,10 @@ Crypto
 - pycrypto
 - pycryptodome
 
+OCR
+
 <details>
-<summary>OCR</summary>
+<summary>Click to expand!</summary>
 
 - [Tesseract](https://github.com/tesseract-ocr/tesseract) (⭐️58.1k). Tesseract is one of the most popular OCR libraries in Python. It supports over 100 languages and can extract text from various image formats.
 - [pytesseract](https://github.com/madmaze/pytesseract) (⭐5.5k). pytesseract is a wrapper around Tesseract OCR engine. It provides a simple interface to extract text from images using Tesseract.
@@ -227,7 +229,7 @@ Natural Language Processing
 
 ## Data Access
 
-Database Connectivity API
+Database Connectivity APIs
 
 - MySQL
   - PyMySQL
