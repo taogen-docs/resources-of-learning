@@ -146,38 +146,125 @@ Courses
 
 General Purpose
 
+- [Boost](http://www.boost.org/)
+- [Loki](https://github.com/snaewe/loki-lib). Loki is a C++ library of designs, containing flexible implementations of common design patterns and idioms.
+- [MiLi](https://code.google.com/p/mili/). A collection of useful C++ libraries, composed only by headers. No installation, no makefile, no complications: just KISS. Simple solutions for simple problems.
+- [POCO](http://pocoproject.org/). Simplify C++ Development
+- [STL](http://en.wikipedia.org/wiki/Standard_template_library) (of course)
+- [STXXL](https://stxxl.org/) Standard Template Library for Extra Large Data Sets
+- [Qt](http://www.qt.io/)
+- [ASL](http://stlab.adobe.com/)
+- [JUCE](http://www.juce.com/)
+
 Logging
+
+- [glog (Google Logging Library)](https://google.github.io/glog/stable/). A C++14 library that implements application-level logging.
+- [Easylogging++](https://github.com/abumq/easyloggingpp)
+- [plog](https://github.com/SergiusTheBest/plog). Portable, simple and extensible C++ logging library
+- Some more
+  - [Boost.Log](https://github.com/boostorg/log)
+  - [log4cxx](http://logging.apache.org/log4cxx/index.html)
+  - [Pantheios](http://www.pantheios.org/)
 
 Unit Testing
 
+- [Google Test](http://googletest.googlecode.com/). Google Testing and Mocking Framework
+- [Catch2](https://github.com/catchorg/Catch2). A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
+- [doctest](https://github.com/doctest/doctest). The fastest feature-rich C++11/14/17/20/23 single-header testing framework
+- Some more
+  - [Boost.Test](http://www.boost.org/doc/libs/1_38_0/libs/test/doc/html/index.html)
+  - UnitTest++
+  - CppUnit
+
 JSON Parser
+
+- [JSON for Modern C++ (nlohmann/json)](https://json.nlohmann.me/)
+- [RapidJSON](https://rapidjson.org/). A fast JSON parser/generator for C++ with both SAX/DOM style API
+- [simdjson](https://simdjson.org/). Parsing gigabytes of JSON per second
+- Some more
+  - [Glaze](https://stephenberry.github.io/glaze/). Extremely fast, in memory, JSON and reflection library for modern C++
+  - [Boost.JSON](https://github.com/boostorg/json)
 
 Document Processing
 
+- [LibreOffice API](http://api.libreoffice.org/)
+- [PoDoFo](https://github.com/podofo/podofo). A C++17 PDF manipulation library
+
 HTTP Client
+
+- libcurl
+- Boost.Beast
+- cpp-httplib
+- POCO C++ Libraries
+- Qt Network Module
 
 ### More Utilities
 
+Library List
+
+- [A list of open-source C++ libraries - cppreference](https://en.cppreference.com/w/cpp/links/libs)
+
+IoC Frameworks
+
+- [Hypodermic](https://github.com/ybainier/Hypodermic)
+- [PocoCapsule](http://www.pocomatic.com/docs/whitepapers/pococapsule-cpp/)
+- [Wallaroo](http://wallaroolib.sourceforge.net/)
+
+Hashing
+
+- [MurmurHash3](https://code.google.com/p/smhasher/wiki/MurmurHash3)
+
+Threading
+
+- [Boost.Thread](http://www.boost.org/doc/libs/1_38_0/doc/html/thread.html)
+
+Version Control
+
+- [libgit2](https://github.com/libgit2/libgit2)
+
+XML
+
+- [Libxml2](http://xmlsoft.org/)
+- [pugixml](http://pugixml.org/)
+- [RapidXml](http://rapidxml.sourceforge.net/)
+- [TinyXML](http://www.grinninglizard.com/tinyxml/)
+- [Xerces-C++](http://xerces.apache.org/xerces-c/)
 
 ## Data Access
 
 Database Connectivity APIs
 
+- MySQL Connector/C++
+- MySQL C API (libmysqlclient)
+- MariaDB Connector/C
+- Boost.MySQL
 
-Connection Pools
+Database access library
 
+- [SOCI](http://soci.sourceforge.net/)
+- [OTL](http://otl.sourceforge.net/)
+- [LMDB++](http://lmdbxx.sourceforge.net/)
 
 Persistence/ORM Frameworks
 
-
 Redis clients
 
+- Boost.Redis
+- redis-plus-plus
+- redis3m
+- xredis
+- Cloredis
 
 MongoDB clients
 
+- [mongo-cxx-driver](https://github.com/mongodb/mongo-cxx-driver). C++ Driver for MongoDB
 
 Elasticsearch clients
 
+- elasticlient
+- ESClient
+- ElasticPlusPlus
+- cpp-elasticsearch
 
 
 ## Web Frameworks
@@ -188,6 +275,8 @@ Web Frameworks
 - [Oat++](https://oatpp.io/) - Highly scalable and resource-efficient.
 - [Drogon](https://drogon.org/) - Fast.
 - [POCO](https://pocoproject.org/) - Simple.
+- [CppCMS](http://cppcms.com/)
+- [Wt](http://www.webtoolkit.eu/)
 
 Management System Scaffolds
 
@@ -273,3 +362,51 @@ C++ 不是特殊场景，一般不会用它。1. 它太难掌握，对开发要�
 游戏，建议不要入。1. 因为太累，版本更新，熬夜加班太正常了。2. 游戏和金融一样，压力大，服务器一秒钟都不能停，有 bug ，一群人盯着不断问。3. 游戏行业并不是需求大的方向，头部效应非常明显，底下的完全喝不到汤。
 
 </details>
+
+### GUI
+
+- [FLTK](http://www.fltk.org/)
+- [GTK](http://www.gtkmm.org/)
+- [Qt](http://www.qt.io/)
+- [Qwt](http://qwt.sourceforge.net/)
+- [wxWidgets](http://www.wxwidgets.org/)
+- [VTK](http://vtk.org/)
+
+### Graphics and images
+
+Graphics
+
+- [Allegro](http://alleg.sourceforge.net/)
+- [OGRE](http://www.ogre3d.org/)
+- [SFML](http://www.sfml-dev.org/)
+
+Imaging
+
+- [Boost.GIL](http://www.boost.org/doc/libs/1_38_0/libs/gil/doc/index.html)
+- [CImg](http://cimg.sourceforge.net/)
+- [DevIL](http://openil.sourceforge.net/)
+- [EasyBMP](http://easybmp.sourceforge.net/)
+- [FreeImage](http://freeimage.sourceforge.net/)
+- [ITK](http://itk.org/)
+- [OpenCV](http://opencv.willowgarage.com/)
+
+### Audio and video
+
+Audio
+
+- [FMOD](http://www.fmod.org/)
+- [Synthesis ToolKit](https://ccrma.stanford.edu/software/stk/)
+
+Multimedia
+
+- [openframework](http://openframeworks.cc/)
+- [Cinder](http://libcinder.org/)
+- [SDL](http://www.libsdl.org/)
+
+### Networking
+
+Networking
+
+- [ACE](http://www.cs.wustl.edu/~schmidt/ACE.html)
+- [Boost.Asio](http://www.boost.org/doc/libs/1_37_0/doc/html/boost_asio.html)
+- [ICE](http://www.zeroc.com/)
