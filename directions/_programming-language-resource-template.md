@@ -33,20 +33,15 @@ Resources
 
 General Purpose
 
-
-JSON Parser
-
-
-Document Processing
-
-
 Logging
-
 
 Unit Testing
 
-HTTP Client
+JSON Parser
 
+Document Processing
+
+HTTP Client
 
 ### More Utilities
 
