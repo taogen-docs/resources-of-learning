@@ -396,60 +396,7 @@ Refer to [Java Resources](../directions/java-resources.md)
 
 /c sharp/
 
-Primary
-
-- Documentation
-  - [C# documentation - doc]( https://docs.microsoft.com/en-us/dotnet/csharp/ )
-- Online Tutorials
-  - [Learn X in Y minutes - C#](https://learnxinyminutes.com/docs/csharp/)
-  - [C# Tutorial - W3Schools](https://www.w3schools.com/cs/index.php)
-  - [C# Tutorial - Tutorialspoint](https://www.tutorialspoint.com/csharp/index.htm)
-  - [Learn C#](https://www.learncs.org/)
-- **Head First C#** (4th, 2021) by Andrew Stellman
-- **Learn C# in One Day and Learn It Well: C# for Beginners with Hands-on Project** by Jamie Chan
-- **The C# Player's Guide** (5th, 2022) by RB Whitaker
-- C# 10 Pocket Reference: Instant Help for C# 10 Programmers (2022) by Joseph Albahari, Ben Albahari
-- C# 12 Pocket Reference: Instant Help for C# 12 Programmers (2023) by Joseph Albahari and Ben Albahari
-- Pro C# 10 with .NET 6: Foundational Principles and Practices in Programming (11th, 2022) by Andrew Troelsen, Phil Japikse
-- Professional C# and .NET (2021) by Christian Nagel
-
-Style Guide
-
-- [Common C# code conventions](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions)
-- [C# at Google Style Guide](https://google.github.io/styleguide/csharp-style.html)
-
-Project Structure
-
-- [My Favorite C# Features - Part 4: Project Structure](https://dev.to/dotnet/my-favorite-c-features-part-4-project-structure-454p)
-- [Common Practices In .NET Project Structure](https://www.c-sharpcorner.com/article/common-practices-in-net-project-structure/)
-
-Advanced
-
-- Dive into
-  - **C# in Depth** (4th, 2019) by Jon Skeet. (C# 6 and 7)
-  - C# 10 in a Nutshell: The Definitive Reference (2022) by Joseph Albahari, Ben Albahari
-  - C# 12 in a Nutshell: The Definitive Reference (2023) by Joseph Albahari
-  - CLR VIA C# (4th, 2012) by Jeffrey Richter. (C# 9 and .NET 5)
-- Concurrency
-  - Concurrency in C# Cookbook: Asynchronous, Parallel, and Multithreaded Programming (2nd, 2019) by Stephen Cleary
-  - Concurrency in .NET: Modern patterns of concurrent and parallel programming by Riccardo Terrell
-- Effective
-  - Effective C#: 50 Specific Ways to Improve Your C# (3rd, 2016) by Bill Wagner. (C# 6)
-  - More Effective C#: 50 Specific Ways to Improve Your C# (2nd, 2017) by Bill Wagner (C# 7)
-
-Applications Development
-
-- Programming C# 10: Build Cloud, Web, and Desktop Applications by Ian Griffiths
-- C# 10 and .NET 6 – Modern Cross-Platform Development by Mark J. Price
-
-Web Frameworks
-
-- [ASP.NET Core](https://dotnet.microsoft.com/en-us/apps/aspnet)
-
-Tools
-
-- IDE: Rider, Visual Studio Code
-- Package Management: [NuGet](https://www.nuget.org/)
+Refer to [C# Resources](../directions/c-sharp-resources.md)
 
 #### <img src="/assets/icon/programming-languages/Python.svg" width="20px"/>Python 📈
 
