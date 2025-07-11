@@ -71,7 +71,7 @@ API Authorization
 - OAuth 2 in Action (2017) by Justin Richer, Antonio Sanso
 - OpenID Connect in Action (2024) by Prabath Siriwardena
 - OAuth 2.0 Simplified (2018) by Aaron Parecki
-- Solving Identity Management in Modern Applications: Demystifying OAuth 2, OpenID Connect, and SAML 2 (2nd, 2022) by Yvonne Wilson (Author), Abhishek Hingnikar
+- Solving Identity Management in Modern Applications: Demystifying OAuth 2, OpenID Connect, and SAML 2 (2nd, 2022) by Yvonne Wilson, Abhishek Hingnikar
 
 #### Web Servers
 
@@ -363,7 +363,7 @@ Beginner
 - MySQL 5.7 Release Notes - [DOC]( https://dev.mysql.com/doc/relnotes/mysql/5.7/en/ )
 - MySQL 8.0 Reference Manual. [DOC](https://dev.mysql.com/doc/refman/8.0/en/), [PDF](https://downloads.mysql.com/docs/refman-8.0-en.pdf)
 - MySQL 8.0 Release Notes - [DOC]( https://dev.mysql.com/doc/relnotes/mysql/8.0/en/ )
-- **Learning MySQL: Get a Handle on Your Data** (2nd, 2021) by Vinicius Grippa (Author), Sergey Kuzmichev
+- **Learning MySQL: Get a Handle on Your Data** (2nd, 2021) by Vinicius Grippa, Sergey Kuzmichev
 - MySQL Crash Course by Ben Forta
 - MySQL in a Nutshell by Russell J.T. Dyer
 - **MySQL** (5th, 2014) by Paul DuBois
@@ -717,30 +717,34 @@ Middleware - Microservices Communication (RPC/Message/HTTP)
 - I Heart Logs: Event Data, Stream Processing, and Data Integration by Jay Kreps
 - Modern API Development with Spring 6 and Spring Boot 3: Design scalable, viable, and reactive APIs with REST, gRPC, and GraphQL using Java 17 and Spring Boot 3 (2nd, 2023) by Sourabh Sharma
 - [gRPC](https://grpc.io/)
-	- gRPC: Up and Running: Building Cloud Native Applications with Go and Java for Docker and Kubernetes (2020) by Kasun Indrasiri and Danesh Kuruppu
-	- Modern API Design with gRPC: Efficient Solutions to Design Modern APIs with gRPC Using Golang for Scalable Distributed Systems (2024) by Hitesh Pattanayak
-	- gRPC Microservices in Go (2023) by Hüseyin Babal
-	- gRPC Go for Professionals: Implement, test, and deploy production-grade microservices (2023) by Clément Jean
-	- Practical gRPC (2018) by Joshua Humphries 
+	- gRPC: Up and Running: Building Cloud Native Applications with Go and Java for Docker and Kubernetes (2020) by Kasun Indrasiri and Danesh Kuruppu [3.61, 113]
+	- gRPC Microservices in Go (2023) by Hüseyin Babal [3.95, 21]
+	- Some more
+		- gRPC Go for Professionals: Implement, test, and deploy production-grade microservices (2023) by Clément Jean (Packt Publisher)
+		- Modern API Design with gRPC: Efficient Solutions to Design Modern APIs with gRPC Using Golang for Scalable Distributed Systems (2024) by Hitesh Pattanayak
+		- Practical gRPC (2018) by Joshua Humphries 
 - HTTP REST
 - [RabbitMQ](https://www.rabbitmq.com/)
-	- **RabbitMQ Essentials**: Build distributed and scalable applications with message queuing using RabbitMQ (2nd, 2020) by Lovisa Johansson and David Dossot
-	- **RabbitMQ in Action: Distributed Messaging for Everyone** (2012) by Alvaro Videla (Author), Jason J. W. Williams
-	- **RabbitMQ in Depth** (2017) by Gavin M. Roy
-	- Ultimate Microservices with RabbitMQ: Master Microservices Architecture and RabbitMQ Integration to Build Scalable, Resilient Systems, and to Drive Innovation ... in Software Development (2024) by Peter Morlion
-	- Advanced RabbitMQ: Comprehensive Messaging and Integration Frameworks (2024) by Adam Jones
-	- Learning RabbitMQ (2015) by Martin Toshev
-	- RabbitMQ Cookbook: Over 70 Practical Recipes to Help You Develop Messaging Applications Using Rabbitmq With the Help of Plenty of Real-life Examples (2013) by Boschi Sigismondo (Author), Gabriele Santomaggio
+	- **RabbitMQ Essentials**: Build distributed and scalable applications with message queuing using RabbitMQ (2nd, 2020) by Lovisa Johansson and David Dossot [4.09, 23]
+	- **RabbitMQ in Action: Distributed Messaging for Everyone** (2012) by Alvaro Videla, Jason J. W. Williams [3.88, 165]
+	- **RabbitMQ in Depth** (2017) by Gavin M. Roy [3.94, 70]
+	- Some more
+		- RabbitMQ Cookbook: Over 70 Practical Recipes to Help You Develop Messaging Applications Using Rabbitmq With the Help of Plenty of Real-life Examples (2013) by Boschi Sigismondo, Gabriele Santomaggio [3.72, 18]
+		- Ultimate Microservices with RabbitMQ: Master Microservices Architecture and RabbitMQ Integration to Build Scalable, Resilient Systems, and to Drive Innovation ... in Software Development (2024) by Peter Morlion
+		- Advanced RabbitMQ: Comprehensive Messaging and Integration Frameworks (2024) by Adam Jones
+		- Learning RabbitMQ (2015) by Martin Toshev
 - [Apache ActiveMQ](http://activemq.apache.org/)
 - Kafka
-  - Apache Kafka documentation. [DOC](https://kafka.apache.org/)
-  - Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale by Neha Narkhede, Gwen Shapira, Todd Palino
-  - Kafka Streams in Action: Real-time apps and microservices with the Kafka Streams API (2018) by Bill Bejeck
-  - Kafka in Action (2020) by Dylan Scott
-  - Event Streams in Action: Real-time event systems with Kafka and Kinesis (2019) by Alexander Dean, Valentin Crettaz
-  - Mastering Kafka Streams and ksqlDB: Building Real-Time Data Systems by Example (2021) by Mitch Seymour
-  - Streaming Data: Understanding the real-time pipeline (2017) by Andrew Psaltis
-  - Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing (2018) by Tyler Akidau, Slava Chernyak, Reuven Lax
+	- Apache Kafka documentation. [DOC](https://kafka.apache.org/)
+	- Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale (2017) by Neha Narkhede, Gwen Shapira, Todd Palino [4.2, 712]
+	- Kafka Streams in Action: Real-time apps and microservices with the Kafka Streams API (2018) by Bill Bejeck [4.05, 122]
+	- Mastering Kafka Streams and ksqlDB: Building Real-Time Data Systems by Example (2021) by Mitch Seymour [4.16, 38]
+	- Kafka in Action (2020) by Dylan Scott [3.74, 39]
+	- Apache Kafka Quick Start Guide: Leverage Apache Kafka 2.0 to simplify real-time data processing for distributed applications (2018) by Raúl Estrada
+  - Some more
+	  - Event Streams in Action: Real-time event systems with Kafka and Kinesis (2019) by Alexander Dean, Valentin Crettaz
+	  - Streaming Data: Understanding the real-time pipeline (2017) by Andrew Psaltis
+	  - Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing (2018) by Tyler Akidau, Slava Chernyak, Reuven Lax
 
 Middleware - Database Cluster / Big Data
 
@@ -960,7 +964,7 @@ Robots.txt
 ### The new age of AI
 
 - Co-Intelligence: Living and Working with AI (2024) by Ethan Mollick
-- Superagency: What Could Possibly Go Right with Our AI Future (2025) by Reid Hoffman (Author), Greg Beato
+- Superagency: What Could Possibly Go Right with Our AI Future (2025) by Reid Hoffman, Greg Beato
 - Nexus: A Brief History of Information Networks from the Stone Age to AI (2024) by Yuval Noah Harari 
 - The Coming Wave: AI, Power, and Our Future (2025) by Mustafa Suleyman
 - Brave New Words: How AI Will Revolutionize Education (and Why That's a Good Thing) (2024) by Salman Khan
