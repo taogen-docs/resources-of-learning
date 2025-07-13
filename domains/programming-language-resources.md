@@ -727,6 +727,10 @@ Web Frameworks
 - [Programming-Language-Benchmarks-Visualization](https://github.com/GoodManWEN/Programming-Language-Benchmarks-Visualization)
 - [The Computer Language Benchmarks Game](https://benchmarksgame-team.pages.debian.net/benchmarksgame/index.html)
 
+Web Framework Ranking
+
+- [Web Framework Benchmarks](https://www.techempower.com/benchmarks/)
+
 **Project Ranking**
 
 - [GitHub Ranking](https://evanli.github.io/Github-Ranking/)

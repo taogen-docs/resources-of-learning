@@ -725,6 +725,8 @@ Middleware - Microservices Communication (RPC/Message/HTTP)
 		- Practical gRPC (2018) by Joshua Humphries 
 - HTTP REST
 - [RabbitMQ](https://www.rabbitmq.com/)
+	- [RabbitMQ Tutorials - Doc](https://www.rabbitmq.com/tutorials)
+	- [RabbitMQ Documentation](https://www.rabbitmq.com/docs)
 	- **RabbitMQ Essentials**: Build distributed and scalable applications with message queuing using RabbitMQ (2nd, 2020) by Lovisa Johansson and David Dossot [4.09, 23]
 	- **RabbitMQ in Action: Distributed Messaging for Everyone** (2012) by Alvaro Videla, Jason J. W. Williams [3.88, 165]
 	- **RabbitMQ in Depth** (2017) by Gavin M. Roy [3.94, 70]
@@ -736,12 +738,17 @@ Middleware - Microservices Communication (RPC/Message/HTTP)
 - [Apache ActiveMQ](http://activemq.apache.org/)
 - Kafka
 	- Apache Kafka documentation. [DOC](https://kafka.apache.org/)
+	- Kafka: a Distributed Messaging System for Log Processing [PDF](https://notes.stephenholiday.com/Kafka.pdf)
+	- [Kafka Books and Papers](https://kafka.apache.org/books-and-papers)
 	- Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale (2017) by Neha Narkhede, Gwen Shapira, Todd Palino [4.2, 712]
+	- I Heart Logs: Event Data, Stream Processing, and Data Integration by Jay Kreps [3.85, 384]
 	- Kafka Streams in Action: Real-time apps and microservices with the Kafka Streams API (2018) by Bill Bejeck [4.05, 122]
+	- Effective Kafka: A Hands-on Guide to Building Robust and Scalable Event-Driven Applications with Code Examples in Java by Emil Koutanov [4.40, 42]
 	- Mastering Kafka Streams and ksqlDB: Building Real-Time Data Systems by Example (2021) by Mitch Seymour [4.16, 38]
 	- Kafka in Action (2020) by Dylan Scott [3.74, 39]
 	- Apache Kafka Quick Start Guide: Leverage Apache Kafka 2.0 to simplify real-time data processing for distributed applications (2018) by Raúl Estrada
   - Some more
+	  - Kafka Connect: Build and Run Data Pipelines (2023) by Mickael Maison, Kate Stanley
 	  - Event Streams in Action: Real-time event systems with Kafka and Kinesis (2019) by Alexander Dean, Valentin Crettaz
 	  - Streaming Data: Understanding the real-time pipeline (2017) by Andrew Psaltis
 	  - Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing (2018) by Tyler Akidau, Slava Chernyak, Reuven Lax

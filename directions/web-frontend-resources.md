@@ -996,7 +996,7 @@ API Documentation
 
 <br>
 
-<h2><a name="fullstack_t" href="#fullstack_c">Full Stack Web Development</a></h2>
+<h2><a name="fullstack_t" href="#fullstack_c">Web Backend Development</a></h2>
 <br>
 
 ### JavaScript runtime
@@ -1194,6 +1194,12 @@ In terms of structure, Fastify is pretty much the same thing as Express. NestJS 
 ODM
 
 - [Mongoose](https://mongoosejs.com/)
+
+### Web Application Scaffolds
+
+- [wasp](https://github.com/wasp-lang/wasp). The fastest way to develop full-stack web apps with React & Node.js.
+- [refine](https://github.com/refinedev/refine). A React Framework for building internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
+- [create-t3-app](https://github.com/t3-oss/create-t3-app). The best way to start a full-stack, typesafe Next.js app
 
 ### Databases
 

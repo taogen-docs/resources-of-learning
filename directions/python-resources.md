@@ -273,6 +273,8 @@ Elasticsearch clients
 
 ## Web Frameworks
 
+Web framework list
+
 - Full Stack
   - [Django](https://www.djangoproject.com/) - Rapid development.
   - [Web2Py](http://www.web2py.com/) - Rapid development.
@@ -292,9 +294,71 @@ Elasticsearch clients
 - Others
   - [CubicWeb](https://www.cubicweb.org/)
 
+### Django
+
+<details>
+<summary>关于Django</summary>
+
+质疑 django ，理解 django ，成为 django。
+
+--
+
+所有 python web 框架在复杂度上来之后，都会和 Django 越长越像。
+
+--
+
+我用过了几乎所有的 Python Web 框架，最后还是用回 Django 了。
+
+--
+
+django 是经典之作。有几点其他框架很难替代。  
+
+1 ，数据优先（先写 model ，自动迁移）  
+2 ，应用分离（高度解耦和复用）  
+3 ，配置式生成后台  
+
+有了它，一般网站你真可以只关心业务和核心的数据了。
+
+--
+
+Django 开发最快，没有之一，其他框架都是需要自己拼凑模块，然后最后发现你就是在拼一个 Django。
+
+--
+
+django + drf(django-rest-framework), 无脑撸 restapi, 砍瓜切菜好吧
+
+你觉得 django 难用, 怕是在写 template?
+
+django 最适合做原型开发.(cms, 内网项目, demo, 用完就扔, 活不过多久的产品)
+
+django 在原型开发(捣浆糊)阶段, 基本找不到对手. (ruby rails? laravel? who cares?)
+
+那么问题来了:  万一成了怎么办?  
+
+1. celery+mq 异步改造来一套.  
+2. 还不行, grpc 改造来一套.  
+3. 还不行, 新重写+旧集成. 新需求使用 go/rust 写, 基于 dapr + grpc 集成旧的代码.  
+4. 结束. (之后的阶段, 就是赚到钱, 雇别人帮你写, 与你无关)
+
+--
+
+django 让我觉得后台几乎不用自己写。
+
+</details>
+
+### Flask
+
+### FastAPI
+
+
+
 Management System Scaffolds
 
 - [full-stack-fastapi-template - GitHub](https://github.com/tiangolo/full-stack-fastapi-template)
+- [fastapi_best_architecture](https://github.com/fastapi-practices/fastapi_best_architecture). FastAPI 最佳架构是使用 FastAPI 构建的企业级后端架构解决方案
+
+### Tornado
+
 
 
 ## Web Security
@@ -352,6 +416,15 @@ Package Manager
 
 **Application Projects**
 
+
+- [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui). Stable Diffusion web UI
+- [youtube-dl](https://github.com/ytdl-org/youtube-dl). Command-line program to download videos from YouTube.com and other video sites
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp). A feature-rich command-line audio/video downloader
+- [thefuck](https://github.com/nvbn/thefuck). Magnificent app which corrects your previous console command.
+- [sherlock](https://github.com/sherlock-project/sherlock) Hunt down social media accounts by username across social networks
+
+Frameworks
+
 - [feapder](https://github.com/Boris-code/feapder) 一款上手简单，功能强大的Python爬虫框架。
 
 
@@ -376,3 +449,52 @@ Package Manager
   - NLP (Transformers)
     - Natural Language Processing in Action: Understanding, analyzing, and generating text with Python (2019) by Hobson Lane, Hannes Hapke, Cole Howard
     - Natural Language Processing with Transformers by Lewis Tunstall, Leandro von Werra, Thomas Wolf
+
+
+## Python Reviews
+
+
+**Pros**
+
+High productivity.
+
+**Cons**
+
+Performance is lower than java/go.
+Dynamic type is hard to maintain in large project.
+
+<details>
+<summary>Python 优缺点评价</summary>
+
+要玩魔法为什么不选 Ruby 或 JavaScript ，都跑得比 Python 快。
+不玩魔法，要静态语言为什么不选 Java 或 TypeScript ，都跑得比 Python 快。
+要便宜招人，员工开发速度快，为什么不选 PHP ，还是跑得比 Python 快。
+
+--
+
+动态类型是“原罪”，导致大项目难以维护。
+性能（虽然大部分项目并不会很快遇到性能瓶颈）。
+
+--
+
+7 年 Python 开发，个人觉得说 Py 不如 Java 、Go 的就是 Py 太自由了，你可以轻易写出能跑但是没几个人看得懂同时维护起来及其困难的代码，Java 不知道，Go 就一种写法，在规划好功能模块之后，从语言层面就规定了谁来写都是差不多的样子，但 Py 不行，要做到写一样的代码对 team 的要求非常高，一是有这个执行力的团队少之又少，二是 Py 的卖点就是容易上手，导致来写 Py 的人平均水平是差于其他 cpp/rs/go 开发者（个人观点），三是很多开发者把 Py 当脚本看不当工程做，见过司内非 Py 其他组写的 Py 代码，真是一言难尽，于是就陷入了恶性循环。  
+说性能不行的，请问贵司有几个接口 qps 过百了的？
+
+--
+
+经验上来说，强类型出 BUG 的概率会比动态解释型语言低很多。当然代价就是开发效率降低。
+
+--
+
+动态类型和性能带进来的问题.  
+你当然可以说 python 有对应的解决方案  
+譬如  
+typehint 和 coroutine  
+但是引入 typehint 和 coroutine 的同时也引入了复杂性,门槛.和开发效率降低等问题.  
+实际上还不如直接用 golang 来开发了。
+
+--
+
+最重要的不是性能，人力成本比机器还贵，最重要的是项目做大了后，动态类型语言更容易隐藏潜在的 BUG ，而静态语言就能在编写代码、编译代码的时候发现。
+
+</details>

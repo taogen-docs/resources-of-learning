@@ -176,3 +176,15 @@ Resource
 Papers
 
 - [GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models](https://arxiv.org/abs/2303.10130#), 17 Mar 2023
+
+## Appendixes
+
+Tech Stack
+
+![generative-ai-tech-stack-1.webp](../images/generative-ai-tech-stack-1.webp)
+
+![generative-ai-tech-stack-2.jpg](../images/generative-ai-tech-stack-2.jpg)
+
+How is a foundation model built?
+
+![how-is-a-foundation-model-built.jpg](../images/how-is-a-foundation-model-built.jpg)

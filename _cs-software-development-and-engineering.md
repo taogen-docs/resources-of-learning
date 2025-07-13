@@ -1124,6 +1124,10 @@ Resume
 - The Google Resume: How to Prepare for a Career and Land a Job at Apple, Microsoft, Google, Or Any Top Tech Company by Gayle Laakmann McDowell
 - [用面试官的思维写简历 - 阿里云](https://developer.aliyun.com/ebook/7571)
 
+Job Search
+
+- The 2-Hour Job Search: Using Technology to Get the Right Job Faster by Steve Dalton [4.07, 1767]
+
 ### Programmer
 
 > The best programmers are not necessarily the ones who know the most about programming, but the ones who are passionate about it.
@@ -1194,6 +1198,7 @@ System Design Interview
 - [Grokking the System Design Interview](https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers)
 - System Design Interview – An insider’s guide Volume 1 (2020) by Alex Xu. ~~[Preview](https://systeminterview.com/)~~
 - System Design Interview – An Insider's Guide: Volume 2 (2022) by Alex Xu and Sahn Lam
+- Object Oriented Design Interview: An Insider’s Guide by Desmond Zhou, Fawaz Bokhari, Alex Xu
 - Acing the System Design Interview (2024) by Zhiyong Tan
 - Hacking the System Design Interview: Real Big Tech Interview Questions and In-depth Solutions (2022) by Stanley Chiang 
 - Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems (2017) by Martin Kleppmann (DDIA)
@@ -1203,37 +1208,47 @@ System Design Interview
 Technical Interview
 
 - Java
-  - Elements of Programming Interviews in Java: The Insiders' Guide by Adnan Aziz , Tsung-Hsien Lee
-  - Java Programming Interviews Exposed by Noel Markham
+	- Elements of Programming Interviews in Java: The Insiders' Guide by Adnan Aziz , Tsung-Hsien Lee
+	- Java Programming Interviews Exposed by Noel Markham
 - Python
-  - Elements of Programming Interviews in Python: The Insiders' Guide by Adnan Aziz, Tsung-Hsien Lee, Amit Prakash
+	- Elements of Programming Interviews in Python: The Insiders' Guide by Adnan Aziz, Tsung-Hsien Lee, Amit Prakash
 - SQL
-  - Joe Celko's SQL Puzzles and Answers by Joe Celkos
+	- Joe Celko's SQL Puzzles and Answers by Joe Celkos
 - Data Science
-  - Ace the Data Science Interview: 201 Real Interview Questions Asked By FAANG, Tech Startups, & Wall Street (2021) by Nick Singh, Kevin Huo
+	- Ace the Data Science Interview: 201 Real Interview Questions Asked By FAANG, Tech Startups, & Wall Street (2021) by Nick Singh, Kevin Huo
 - Machine Learning
-  - Machine Learning System Design Interview (2023) by Ali Aminian, Alex Xu
+	- Machine Learning System Design Interview (2023) by Ali Aminian, Alex Xu
+- Generative AI
+	- Generative AI System Design Interview by Ali Aminian 
 - Mobile App
 	- Mobile System Design Interview: An Insider’s Guide (2025) by Manuel Vicente Vivo 
 
 Behavioral Interview
 
-- Books
-  - Behavioral Interviews for Software Engineers: All the Must-Know Questions With Proven Strategies and Answers That Will Get You the Job (2023) by Melia Stevanovic
+- General Behavioral Interview
+	- How to Answer Interview Questions: 101 Tough Interview Questions by Peggy McKee [3.97, 496]
+	- 60 Seconds and You're Hired! by Robin Ryan [3.97, 940]
+	- Knock 'em Dead Job Interview: How to Turn Job Interviews Into Job Offers by Martin Yate CPC [3.98, 316]
+	- The Power of STAR Method: How to Succeed at Behavioral Job Interview by - Martha Gage, Erin Wainwright
+- Behavioral Interviews for Software Engineers
+	- Behavioral Interviews for Software Engineers: All the Must-Know Questions With Proven Strategies and Answers That Will Get You the Job (2023) by Melia Stevanovic
+	- Cracking the Behavioral Interviews: for Software Engineers by Pooya Amini, - Nazanin Bakhshi
+	- Behavioral Interview Guide for Software Engineers: Proven Strategies for - Confident Answers by Martha Gage
+	- Answering Behavioral Questions in Amazon Interviews: Advice for Candidates at All Levels by Jennifer Scupi 
 - Articles
-  - [10 Behavioral Interview Questions for Software Engineers](https://www.indeed.com/career-advice/interviewing/software-engineer-behavioral-interview-questions)
-  - [The 30 most common Software Engineer behavioral interview questions](https://www.techinterviewhandbook.org/behavioral-interview-questions/)
-  - [Top 8 Behavioral Interview Questions for Software Engineers](https://betterprogramming.pub/top-8-behavioral-interview-questions-for-software-engineers-6dcc404bb7b3)
-  - [Behavioral Interview Questions for Software Developers](https://www.interviewkickstart.com/blog/behavioral-interview-questions-software-engineer-and-developer)
-  - [behavior question - 一亩三分地](https://www.1point3acres.com/bbs/google_search.php?q=behavior%20question)
-  - [一亩三分地 Behavior questions合集](https://www.1point3acres.com/bbs/thread-529217-1-1.html)
-  - [自我介绍类型Behavioral-based interviewing Competency-Based Interviewing](https://chenyilong.notion.site/Behavioral-based-interviewing-Competency-Based-Interviewing-a728c50a5ba244188e1c66e28d34dd1c)
-  - [主观面试Behavioral-based interviewing Competency-Based Interviewing](https://chenyilong.notion.site/Behavioral-based-interviewing-Competency-Based-Interviewing-e6d18711a4114bc1926820fc537b5af4)
+	- [10 Behavioral Interview Questions for Software Engineers](https://www.indeed.com/career-advice/interviewing/software-engineer-behavioral-interview-questions)
+	- [The 30 most common Software Engineer behavioral interview questions](https://www.techinterviewhandbook.org/behavioral-interview-questions/)
+	- [Top 8 Behavioral Interview Questions for Software Engineers](https://betterprogramming.pub/top-8-behavioral-interview-questions-for-software-engineers-6dcc404bb7b3)
+	- [Behavioral Interview Questions for Software Developers](https://www.interviewkickstart.com/blog/behavioral-interview-questions-software-engineer-and-developer)
+	- [behavior question - 一亩三分地](https://www.1point3acres.com/bbs/google_search.php?q=behavior%20question)
+	- [一亩三分地 Behavior questions合集](https://www.1point3acres.com/bbs/thread-529217-1-1.html)
+	- [自我介绍类型Behavioral-based interviewing Competency-Based Interviewing](https://chenyilong.notion.site/Behavioral-based-interviewing-Competency-Based-Interviewing-a728c50a5ba244188e1c66e28d34dd1c)
+	- [主观面试Behavioral-based interviewing Competency-Based Interviewing](https://chenyilong.notion.site/Behavioral-based-interviewing-Competency-Based-Interviewing-e6d18711a4114bc1926820fc537b5af4)
 - Podcast
-  - [softskills](https://softskills.audio/)
-  - [Soft Skills Engineering](https://podcasts.google.com/feed/aHR0cHM6Ly9zb2Z0c2tpbGxzLmF1ZGlvL2ZlZWQueG1s?sa=X&ved=0CAMQ4aUDahgKEwiA2Mv__tL3AhUAAAAAHQAAAAAQ4xo)
+	- [softskills](https://softskills.audio/)
+	- [Soft Skills Engineering](https://podcasts.google.com/feed/aHR0cHM6Ly9zb2Z0c2tpbGxzLmF1ZGlvL2ZlZWQueG1s?sa=X&ved=0CAMQ4aUDahgKEwiA2Mv__tL3AhUAAAAAHQAAAAAQ4xo)
 - YouTube
-  - [DanCroitor](https://www.youtube.com/watch?v=IyPJFHFUpbQ&ab_channel=DanCroitor)
+	- [DanCroitor](https://www.youtube.com/watch?v=IyPJFHFUpbQ&ab_channel=DanCroitor)
 
 Salary and Offer Negotiation
 

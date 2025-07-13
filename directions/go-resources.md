@@ -241,9 +241,9 @@ Web Frameworks
 - [Beego](https://github.com/beego/beego) - High-performance. high-performance web framework for the Go programming language.
 - [Fiber](https://gofiber.io/) - Rapid development. An Express-inspired web framework written in Go.
 
-Management System Scaffolds
+Web Application Scaffolds
 
---
+- [eagle](https://github.com/go-eagle/eagle). A Go framework for the API or Microservice.
 
 ## Web Security
 
