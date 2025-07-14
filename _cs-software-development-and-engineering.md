@@ -690,9 +690,12 @@ Self-Hosted CI/CD Tools
 
 <img src="/assets/icon/engineering/Jenkins.svg" width="24px"/>Jenkins
 
-- Jenkins 2: Up and Running: Evolve Your Deployment Pipeline for Next Generation Automation by Brent Laster
-- Jenkins: The Definitive Guide by John Smart
-- Learning Continuous Integration with Jenkins by Nikhil Pathania
+- [Jenkins User Documentation](https://www.jenkins.io/doc/)
+- Jenkins 2: Up and Running: Evolve Your Deployment Pipeline for Next Generation Automation (2018) by Brent Laster [3.57, 60]
+- Jenkins: The Definitive Guide (2011) by John Smart [3.37, 179]
+- Learning Continuous Integration with Jenkins: An end-to-end guide to creating operational, secure, resilient, and cost-effective CI/CD processes (3rd, 2024) by Nikhil Pathania [3.26, 27]
+- Continuous Delivery with Docker and Jenkins: Create secure applications by building complete CI/CD pipelines (2nd, 2019) by Rafał Leszko [3.96, 23]
+- Pipeline as Code: Continuous Delivery with Jenkins, Kubernetes, and Terraform (2021) by Mohamed Labouardy [4.30, 20]
 
 <img src="/assets/icon/engineering/Github.svg" width="24px"/>GitHub Action
 
@@ -764,18 +767,25 @@ K8S 整体是一个分布式的高可用架构，运行这个架构之上的应�
 
 Books
 
-- Kubernetes in Action by Marko Luksa
-- **The Kubernetes Book** (2023) by Nigel Poulton
-- Kubernetes: Up and Running: Dive into the Future of Infrastructure (2nd, 2019) by Brendan Burns , Joe Beda
-- Production Kubernetes: Building Successful Application Platforms (2021) by Josh Rosso, Rich Lander, Alex Brand, John Harris
-- Kubernetes Patterns: Reusable Elements for Designing Cloud-Native Applications (2019)  by Bilgin Ibryam, Roland Huß
-- Kubernetes Best Practices: Blueprints for Building Successful Applications on Kubernetes (2019) by Brendan Burns, Eddie Villalba, Dave Strebel, Lachlan Evenson
-- Programming Kubernetes: Developing Cloud-Native Applications (2019) by Michael Hausenblas, Stefan Schimanski
-- Cloud Native DevOps with Kubernetes: Building, Deploying, and Scaling Modern Applications in the Cloud (2019) by John Arundel, Justin Domingus
-- Kubernetes Operators: Automating the Container Orchestration Platform (2020) by Jason Dobies, Joshua Wood
-- Managing Kubernetes: Operating Kubernetes Clusters in the Real World (2018) by Brendan Burns, Craig Tracey
-- [k8s 教程](https://github.com/guangzhengli/k8s-tutorials)
-- [Kubernetes中文教程](https://github.com/chaseSpace/k8s-tutorial-cn)
+- [Kubernetes Documentation](https://kubernetes.io/docs/home/)
+- **Kubernetes: Up and Running: Dive into the Future of Infrastructure** (3rd, 2022) by Brendan Burns , Joe Beda [4.06, 1120]
+- **The Kubernetes Book** (2025 edition) by Nigel Poulton [4.26, 886]
+- **Kubernetes in Action** (2nd, 2025) by Marko Luksa [4.59, 666]
+- Cloud Native DevOps with Kubernetes: Building, Deploying, and Scaling Modern Applications in the Cloud (2nd, 2022) by John Arundel, Justin Domingus [4.25, 225]
+- Kubernetes Patterns: Reusable Elements for Designing Cloud-Native Applications (2nd, 2023)  by Bilgin Ibryam, Roland Huß [4.30, 208]
+- Some more
+	- Kubernetes Best Practices: Blueprints for Building Successful Applications on Kubernetes (2nd, 2023) by Brendan Burns, Eddie Villalba, Dave Strebel, Lachlan Evenson [3.95, 80]
+	- Kubernetes Operators: Automating the Container Orchestration Platform (2020) by Jason Dobies, Joshua Wood [3.36, 72]
+	- Production Kubernetes: Building Successful Application Platforms (2021) by Josh Rosso, Rich Lander, Alex Brand, John Harris [4.43, 61]
+	- Managing Kubernetes: Operating Kubernetes Clusters in the Real World (2018) by Brendan Burns, Craig Tracey [3.95, 62]
+	- Mastering Kubernetes: Dive into Kubernetes and learn how to create and operate world-class cloud-native systems (4th, 2023) by Gigi Sayfan [3.52, 67]
+	- Programming Kubernetes: Developing Cloud-Native Applications (2019) by Michael Hausenblas, Stefan Schimanski [3.62, 55]
+	- Kubernetes Cookbook: Building Cloud Native Applications (2nd, 2023) by Sameer Naik, Sébastien Goasguen, Jonathan Michaux [3.56, 54]
+	- The Book of Kubernetes: A Complete Guide to Container Orchestration (2022) by Alan Hohn [4.34, 32]
+	- Kubernetes for Developers (2024) by William Denniss [4.4, 20]
+	- The Kubernetes Bible: The definitive guide to deploying and managing Kubernetes across cloud and on-prem environments (2nd, 2024) by Gineesh Madapparambath, Russ McKendrick
+	- [k8s 教程](https://github.com/guangzhengli/k8s-tutorials)
+	- [Kubernetes中文教程](https://github.com/chaseSpace/k8s-tutorial-cn)
 
 Courses
 
@@ -1210,6 +1220,8 @@ Technical Interview
 - Java
 	- Elements of Programming Interviews in Java: The Insiders' Guide by Adnan Aziz , Tsung-Hsien Lee
 	- Java Programming Interviews Exposed by Noel Markham
+	- Cracking Spring Microservices Interviews: A quick handbook for Java & Spring developers by Munish Chandel
+	- Top 1000 Java Interview Questions & Answers: Includes Spring, Hibernate, Microservices, GIT, Maven, JSP, AWS, Cloud Computing (2018) by Knowledge Powerhouse
 - Python
 	- Elements of Programming Interviews in Python: The Insiders' Guide by Adnan Aziz, Tsung-Hsien Lee, Amit Prakash
 - SQL
@@ -1274,6 +1286,7 @@ Salary and Offer Negotiation
 - [中华人民共和国宪法](http://www.npc.gov.cn/npc/c505/201803/e87e5cd7c1ce46ef866f4ec8e2d709ea.shtml)
 - [中国共产党章程](https://www.12371.cn/special/zggcdzc/zggcdzcqw/)
 - [The Constitution of the United States: A Transcription](https://www.archives.gov/founding-docs/constitution-transcript)
+- [The Bill of Rights: A Transcription](https://www.archives.gov/founding-docs/bill-of-rights-transcript)
 
 ### Criminal Law
 

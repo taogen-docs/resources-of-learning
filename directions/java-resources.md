@@ -436,6 +436,7 @@ AOP
 - Spring Boot in Practice (2022) by Somnath Musib
 - Learning Spring Boot 2.0
 - Spring Boot Persistence Best Practices: Optimize Java Persistence Performance in Spring Boot Applications (2020) by Anghel Leonard
+- Pro Spring Boot 3 with Kotlin: In-Depth Guide to Best Practices for Cloud-Native and Microservices Development (3rd, 2025) by Peter Späth, Felipe Gutierrez (Publisher: Apress)
 
 **Spring Boot supported versions**
 
@@ -568,6 +569,10 @@ Some more
 - Restful Java with Jax-RS by Bill Burke
 - Restlet in Action: Developing RESTful web APIs in Java by Jerome Louvel, Thierry Templier, Thierry Boileau
 
+#### Java Microservices
+
+- Enterprise Java Microservices (2018) by Kenneth Finnigan
+
 #### Spring Boot + K8S + Istio
 
 <details>
@@ -579,6 +584,10 @@ Some more
 
 - Cloud Native Spring in Action: with Spring Boot and Kubernetes (2022) by Thomas Vitale
 - Microservices with Spring Boot 3 and Spring Cloud: Build resilient and scalable microservices using Spring Cloud, Istio, and Kubernetes (3rd, 2023) by Magnus Larsson
+- Microservices with Spring Boot and Spring Cloud: Build resilient and scalable microservices using Spring Cloud, Istio, and Kubernetes (2nd, 2021) by Magnus Larsson
+- Java Microservices and Containers in the Cloud: With Spring Boot, Kafka, PostgreSQL, Kubernetes, Helm, Terraform and AWS EKS (2024) by Binildas A. Christudas 
+- Hands-On Microservices with Spring Boot and Spring Cloud: Build and deploy Java microservices using Spring Cloud, Istio, and Kubernetes (2019) by Magnus Larsson
+- Modernizing Enterprise Java: A Concise Cloud Native Guide for Developers (2021) by Markus Eisele, Natale Vinto (Publisher: O'Reilly)
 
 Courses
 
@@ -596,15 +605,15 @@ Courses
 - [Spring Cloud Tutorial - Baeldung](https://www.baeldung.com/spring-cloud-series)
 - [The Beginner’s Guide To Spring Cloud - Ryan Baxter - YouTube](https://www.youtube.com/watch?v=aO3W-lYnw-o) (2017)
 - [Spring Cloud Samples - GitHub](https://github.com/spring-cloud-samples)
-- New books
-	- Microservices with Spring Boot and Spring Cloud (2023) by by Tejaswini Jog, Mandar Jog
-	- **Spring Microservices in Action** (2nd, 2021) by John Carnells
-	- Microservices with Spring Boot and Spring Cloud (2nd, 2021) by Magnus Larsson
-	- Modernizing Enterprise Java: A Concise Cloud Native Guide for Developers (2021) by Markus Eisele, Natale Vinto
-- Old books
-	- **Microservices Patterns: With examples in Java** (2018) by Chris Richardson
-	- **Cloud Native Java: Designing Resilient Systems with Spring Boot, Spring Cloud, and Cloud Foundry** (2017) by Josh Long, Kenny Bastani. (Some content is outdated. Expect a new version.)
-	- Hands-On Microservices with Spring Boot and Spring Cloud (2019) by Magnus Larsson
+- **Spring Microservices in Action** (2nd, 2021) by John Carnells [4.21, 201] (Publisher: Manning)
+- Outdated books
+	- **Microservices Patterns: With examples in Java** (2018) by Chris Richardson (Publisher: Manning)
+	- **Cloud Native Java: Designing Resilient Systems with Spring Boot, Spring Cloud, and Cloud Foundry** (2017) by Josh Long, Kenny Bastani. (Publisher: O'Reilly) Some content is outdated. Expect a new version.
+	- Mastering Microservices with Java: Build enterprise microservices with Spring Boot 2.0, Spring Cloud, and Angular, 3rd Edition (3rd, 2019) by Sourabh Sharma (Publisher: Packt)
+	- Practical Microservices Architectural Patterns: Event-Based Java Microservices with Spring Boot and Spring Cloud (2019) by Binildas Christudas (Publisher: Apress)
+- Some more
+	- Learn Microservices with Spring Boot 3: A Practical Approach Using Event-Driven Architecture, Cloud-Native Patterns, and Containerization (3rd, 2023) by Moises Macero (Publisher: Apress)
+	- Microservices with Spring Boot and Spring Cloud: Develop modern, resilient, scalable and highly available apps using microservices with Java, Spring Boot 3.0 and Spring Cloud (2023) by by Tejaswini Jog, Mandar Jog (Publisher: Orange Education Pvt Ltd)
 
 Courses
 
