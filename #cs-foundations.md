@@ -971,14 +971,18 @@ Talks
 
 Finding technology trends
 
-- Stack Overflow Developer Survey
-- The State of Developer Ecosystem Report by JetBrains
+- **Stack Overflow** Developer Survey
+- The State of Developer Ecosystem Report (by **JetBrains**)
 - Search: top technology trends + software development/web development/Java development + in `<year>`
-- Gartner Hype Cycle (Twitter search from:[Mark O'Neill](https://twitter.com/TheMarkONeill/))
-  - for the Future of Applications
-  - for Emerging Tech
-  - for Software Engineering
-- [Technology Radar by thoughtworks](https://www.thoughtworks.com/radar)
+- **Gartner** Hype Cycle (Twitter search from:[Mark O'Neill](https://twitter.com/TheMarkONeill/))
+	- for the Future of Applications
+	- for Emerging Tech
+	- for Software Engineering
+- [Technology Radar by **thoughtworks**](https://www.thoughtworks.com/radar)
+- The Programming Language of the Year (**TIOBE**)
+- IT training companies
+	- [Global knowledge](https://www.globalknowledge.com/us-en/), [Simplilearn](https://www.simplilearn.com/), [NetCom Learning](https://www.netcomlearning.com/), [Learning Tree](https://www.learningtree.com/)
+	- 达内（2003）、传智播客（子品牌黑马程序员，2006）、尚硅谷（2013）、北大青鸟（1999）、尚学堂（2006）
 
 Uncategorized
 
