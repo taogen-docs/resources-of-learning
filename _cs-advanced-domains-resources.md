@@ -711,6 +711,12 @@ Middleware - Microservices Communication (RPC/Message/HTTP)
 
 不建议 redis 业务稍微上来点就要重构。
 
+Kafka vs. RabbitMQ vs. Pulsar
+
+- Kafka: The Streaming Heavyweight
+- RabbitMQ: The Agile Middleweight
+- Pulsar: The Rising Lightweight Star
+
 </details>
 
 - Java Message Service by Mark Richards, Richard Monson-Haefel and David A. Chappell
@@ -735,7 +741,6 @@ Middleware - Microservices Communication (RPC/Message/HTTP)
 		- Ultimate Microservices with RabbitMQ: Master Microservices Architecture and RabbitMQ Integration to Build Scalable, Resilient Systems, and to Drive Innovation ... in Software Development (2024) by Peter Morlion
 		- Advanced RabbitMQ: Comprehensive Messaging and Integration Frameworks (2024) by Adam Jones
 		- Learning RabbitMQ (2015) by Martin Toshev
-- [Apache ActiveMQ](http://activemq.apache.org/)
 - Kafka
 	- Apache Kafka documentation. [DOC](https://kafka.apache.org/)
 	- Kafka: a Distributed Messaging System for Log Processing [PDF](https://notes.stephenholiday.com/Kafka.pdf)
@@ -747,11 +752,18 @@ Middleware - Microservices Communication (RPC/Message/HTTP)
 	- Mastering Kafka Streams and ksqlDB: Building Real-Time Data Systems by Example (2021) by Mitch Seymour [4.16, 38]
 	- Kafka in Action (2020) by Dylan Scott [3.74, 39]
 	- Apache Kafka Quick Start Guide: Leverage Apache Kafka 2.0 to simplify real-time data processing for distributed applications (2018) by Raúl Estrada
-  - Some more
-	  - Kafka Connect: Build and Run Data Pipelines (2023) by Mickael Maison, Kate Stanley
-	  - Event Streams in Action: Real-time event systems with Kafka and Kinesis (2019) by Alexander Dean, Valentin Crettaz
-	  - Streaming Data: Understanding the real-time pipeline (2017) by Andrew Psaltis
-	  - Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing (2018) by Tyler Akidau, Slava Chernyak, Reuven Lax
+	- Some more
+		- Kafka Connect: Build and Run Data Pipelines (2023) by Mickael Maison, Kate Stanley
+		- Event Streams in Action: Real-time event systems with Kafka and Kinesis (2019) by Alexander Dean, Valentin Crettaz
+		- Streaming Data: Understanding the real-time pipeline (2017) by Andrew Psaltis
+		- Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing (2018) by Tyler Akidau, Slava Chernyak, Reuven Lax
+- Apache Pulsar
+	- Mastering Apache Pulsar: Cloud Native Event Streaming at Scale (2022) by Jowanza Joseph
+	- Apache Pulsar in Action (2021) by David Kjerrumgaard
+	- Cloud-Native Microservices with Apache Pulsar: Build Distributed Messaging Microservices (2021) by Rahul Sharma and Mohammad Atyab
+	- Stream Processing with Apache Pulsar: Building real-time scalable data streaming applications (2021) by Theophilus Siameh
+- [Apache RocketMQ](https://github.com/apache/rocketmq)
+- [Apache ActiveMQ](http://activemq.apache.org/)
 
 Middleware - Database Cluster / Big Data
 

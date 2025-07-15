@@ -795,6 +795,24 @@ Courses
 - [尚硅谷Kubernetes教程(K8s入门到精通)](https://www.bilibili.com/video/BV1w4411y7Go/) (2019)
 - [尚硅谷云原生Java架构师的第一课K8s+Docker+KubeSphere+DevOps](https://www.bilibili.com/video/BV13Q4y1C7hS) (2021)
 
+**Istio**
+
+>Istio extends Kubernetes to establish a programmable, application-aware network. Working with both Kubernetes and traditional workloads, Istio brings standard, universal traffic management, telemetry, and security to complex deployments.
+
+>A service mesh is an infrastructure layer that facilitates service-to-service communication in microservices architectures. Istio is a popular, open-source implementation of a service mesh, providing features like traffic management, security, and observability.
+
+- [Istio Documentation](https://istio.io/latest/docs/)
+- Istio: Up and Running: Using a Service Mesh to Connect, Secure, Control, and Observe (2019) by Lee Calcote, Zack Butcher
+- Istio in Action (2022) by Christian E. Posta (Author), Rinor Maloku
+- Bootstrapping Service Mesh Implementations with Istio: Build reliable, scalable, and secure microservices on Kubernetes with Service Mesh (2023) by Anand Rai 
+- Getting Started with Istio Service Mesh: Manage Microservices in Kubernetes (2019) by Rahul Sharma and Avinash Singh
+
+**Helm**
+
+>The package manager for Kubernetes. Helm is the best way to find, share, and use software built for Kubernetes.
+
+- [Helm Documentation](https://helm.sh/)
+- Learning Helm: Managing Apps on Kubernetes (2021) by Matt Butcher, Matt Farina, Josh Dolitsky
 #### Container Security
 
 - Container Security: Fundamental Technology Concepts that Protect Containerized Applications (2020) by Liz Rice

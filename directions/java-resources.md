@@ -512,6 +512,10 @@ Spring Boot 2.x
 
 微服务更多的开发和架构经验上升华，同时面对微服务带来的变化，必须对公司的组织架构和运维全方面改造升级。
 
+微服务 1.0：仅使用注册发现，基于 Spring Cloud 或者 Dubbo 进行开发。  
+微服务 2.0：使用了熔断、限流、降级等服务治理策略，并配备完整服务工具和平台。  
+微服务 3.0：Service Mesh 将服务治理作为通用组件，下沉到平台层实现，应用层仅仅关注业务逻辑，平台层可以根据业务监控自动调度和参数调整，实现 AIOps 和智能调度。
+
 2. 为什么要用微服务
 
 系统架构本质是组织架构的表现。Conway's law (康威定律)：团队结构设计的系统将不可避免地产生与团队沟通结构相一致的设计。
@@ -573,6 +577,20 @@ Some more
 
 - Enterprise Java Microservices (2018) by Kenneth Finnigan
 
+**Java Microservice Components**
+
+| Component                  | [Spring Cloud Netflix](https://spring.io/projects/spring-cloud-netflix) | [Spring Cloud](https://spring.io/projects/spring-cloud) | [Spring Cloud Alibaba](https://spring.io/projects/spring-cloud-alibaba) | [Apache Zookeeper](https://spring.io/projects/spring-cloud-zookeeper) | [Consul](https://spring.io/projects/spring-cloud-consul) | [Spring Cloud Kubernetes](https://spring.io/projects/spring-cloud-kubernetes) |
+| -------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------- | ----------------------------------------------------------------------- | --------------------------------------------------------------------- | -------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| Configuration 配置中心         | Archaius                                                                | Spring Cloud<br>Config                                  | Alibaba Nacos                                                           | Zookeeper                                                             | Consul                                                   | ConfigMap                                                                     |
+| Service Discovery 注册中心     | Netflix Eureka                                                          | -                                                       | Alibaba Nacos                                                           | Zookeeper                                                             | Consul                                                   | API Server                                                                    |
+| Routing and Messaging 服务调用 | Netflix Ribbon, OpenFeign                                               | OpenFeign RestTemplate                                  | Dubbo RPC                                                               |                                                                       |                                                          |                                                                               |
+| API Gateway 服务网关           | Netflix Zuul                                                            | Spring Cloud<br>Gateway                                 | Dubbo PROXY                                                             |                                                                       |                                                          |                                                                               |
+| Circuit Breakers 熔断        | Netflix Hystrix                                                         | -                                                       | Alibaba Sentinel                                                        |                                                                       |                                                          |                                                                               |
+| Tracing 监控                 |                                                                         | Spring Cloud Sleuth and Zipkin                          | -                                                                       |                                                                       |                                                          |                                                                               |
+| CI Pipelines and Testing   |                                                                         | Spring Cloud Pipelines<br>Spring Cloud Contract         | -                                                                       |                                                                       |                                                          |                                                                               |
+| Distributed Messageing     |                                                                         | SCS RabbitMQ                                            | SCS RocketMQ                                                            |                                                                       |                                                          |                                                                               |
+| Distributed transaction    |                                                                         |                                                         | Apache Seata (Alibaba)                                                  |                                                                       |                                                          |                                                                               |
+
 #### Spring Boot + K8S + Istio
 
 <details>
@@ -614,6 +632,14 @@ Courses
 - Some more
 	- Learn Microservices with Spring Boot 3: A Practical Approach Using Event-Driven Architecture, Cloud-Native Patterns, and Containerization (3rd, 2023) by Moises Macero (Publisher: Apress)
 	- Microservices with Spring Boot and Spring Cloud: Develop modern, resilient, scalable and highly available apps using microservices with Java, Spring Boot 3.0 and Spring Cloud (2023) by by Tejaswini Jog, Mandar Jog (Publisher: Orange Education Pvt Ltd)
+	- 深入理解Spring Cloud与微服务构建 (2nd, 2019) by 方志朋
+	- Spring Cloud微服务实战 (2017) by 翟永超
+	- Spring Cloud：微服务和分布式系统实践 (2020) by 杨开振
+	- Spring Cloud微服务：入门、实战与进阶 (2019) by 尹吉欢
+	- Spring Cloud Alibaba微服务开发零基础入门到实操 (2024) by 孙卫琴 
+	- Spring Cloud源码精讲 (2025) by 王涛
+	- 从零开始学Spring Cloud微服务架构 (2024) by 章为忠
+	- Spring Cloud 开发从入门到实战 (2020) by 王勇
 
 Courses
 
@@ -627,33 +653,18 @@ Courses
 - [尚硅谷Java项目《谷粒商城》架构师级Java项目实战](https://www.bilibili.com/video/BV1np4y1C7Yf/)
 - [【狂神说Java】SpringCloud最新教程IDEA版](https://www.bilibili.com/video/BV1jJ411S7xr/)
 
-Spring Cloud Components
-
-- Configuration 配置中心
-	- Spring Cloud Config
-- Service Discovery 注册中心
-	- Netflix Eureka
-	- Zookeeper
-	- Consul
-- Routing and Messaging 服务调用
-	- Netflix Ribbon and Open Feign
-	- RabbitMQ or Kafka
-- API Gateway 服务网关
-	- Netflix Zuul
-	- Spring Cloud Gateway
-- Circuit Breakers 熔断
-	- Netflix Hystrix
-- Tracing 监控
-	- Spring Cloud Sleuth and Zipkin
-- CI Pipelines and Testing
-	- Spring Cloud Pipelines
-	- Spring Cloud Contract
 
 #### Spring Cloud Alibaba
 
 >Spring Cloud Alibaba provides a one-stop solution for distributed application development. It contains all the components needed to develop distributed applications, making it easy for you to develop applications using the Spring Cloud microservices framework.
 
+>Core components: Alibaba Nacos, Alibaba Sentinel, Apache Seata, RocketMQ
+
 - [Spring Cloud Alibaba](https://sca.aliyun.com/en/). (Latest version: 2023.0.x)
+- Spring Cloud Alibaba与Kubernetes微服务容器化实践 (2022) by 曹宇、王宇翔、胡书敏
+- Spring Cloud Alibaba微服务实战 (2021) by 周仲清
+- Spring Cloud Alibaba大型微服务架构项目实战 (2024) by 十三
+- Spring Cloud Alibaba微服务原理与实战 (2020) by 谭锋
 
 #### Apache Dubbo
 
@@ -662,6 +673,23 @@ Spring Cloud Components
 - [Apache Dubbo](https://dubbo.apache.org/en/) - A Cloud-Native Microservice Framework.
 - 深入理解Apache Dubbo与实战 by 诣极 / 林琳
 - 深度剖析Apache Dubbo核心技术内幕 by 翟陆续（加多）
+
+#### Apache ZooKeeper
+
+>An effort to develop and maintain an open-source server which enables highly reliable distributed coordination.
+
+- [Apache ZooKeeper Documentation](https://zookeeper.apache.org/doc/r3.9.3/index.html)
+- ZooKeeper: Distributed Process Coordination (2013) by Flavio Junqueira, Benjamin Reed 
+- Apache ZooKeeper Essentials (2015) by Saurav Haloi
+
+#### Consul
+
+>A service networking solution that enables teams to manage secure network connectivity between services, across on-prem, hybrid cloud, and multi-cloud environments and runtimes. Consul offers service discovery, service mesh, identity-based authorization, L7 traffic management, and secure service-to-service encryption.
+
+- [Consul Documentation](https://developer.hashicorp.com/consul/docs)
+- [Consul Tutorials](https://developer.hashicorp.com/consul/tutorials)
+- Consul: Up and Running: Service Mesh for Any Runtime or Cloud (2022) by Luke Kysow 
+- Simplifying Service Management with Consul: Overcome connectivity and security challenges within dynamic service architectures (2021) by Robert E. Jackson
 
 #### Cloud native Java application optimization
 
