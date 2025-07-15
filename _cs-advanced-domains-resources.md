@@ -17,7 +17,9 @@
   - <a name="audio_and_video_dev_c" href="#audio_and_video_dev_t">Audio and Video Development</a>
 - Part II: Infrastructures
   - <a name="dbms_c" href="#dbms_t">Database Systems and Data Storage</a>
-  - <a name="inforetri_c" href="#inforetri_t">Information Retrieval and Search Engines</a>
+  - <a name="inforetri_c" href="#inforetri_t">Information Retrieval and Search Engines</a>
+  - <a name="rpc_c" href="#rpc_t">Remote Procedure Call (RPC)</a>
+  - <a name="mq_c" href="#mq_t">Message Queues</a>
   - <a name="infosec_c" href="#infosec_t">Information Security</a>
   - <a name="distsys_c" href="#distsys_t">Distributed Systems</a>
   - <a name="cloudcpt_c" href="#cloudcpt_t">Cloud Computing and Serverless</a>
@@ -25,7 +27,7 @@
   - <a name="crawler_c" href="#crawler_t">Crawler and  Anti-Crawler</a>
 - Part III: The Future
   - <a name="ai_c" href="#ai_t">Artificial Intelligence</a>
-  - <a name="blockchain_c" href="#blockchain_t">Blockchain and Cryptocurrency</a>
+  - <a name="blockchain_c" href="#blockchain_t">Blockchain and Cryptocurrency</a>
   - Edge Computing
   - IoT and 5G
   - Virtual Reality (VR) and Augmented Reality (AR)
@@ -558,7 +560,7 @@ Fauna DB
 
 <br>
 
-<h2><a name="inforetri_t" href="#inforetri_c">Information Retrieval and Search Engines</a></h2>
+<h2><a name="inforetri_t" href="#inforetri_c">Information Retrieval and Search Engines</a></h2>
 
 <br>
 
@@ -600,6 +602,176 @@ Kibana
 - Kibana 8.x - A Quick Start Guide to Data Analysis: Learn about data exploration, visualization, and dashboard building with Kibana (2024) by Krishna Shah
 - Learning Kibana 7: Build powerful Elastic dashboards with Kibana's data visualization capabilities (2nd, 2019) by Anurag Srivastava and Bahaaldine Azarmi
 - Kibana 7 Quick Start Guide: Visualize your Elasticsearch data with ease (2019) by Anurag Srivastava
+
+
+<br>
+
+<h2><a name="rpc_t" href="#rpc_c">Remote Procedure Call (RPC)</a></h2>
+
+<br>
+
+### gRPC
+
+- [gRPC](https://grpc.io/)
+- gRPC: Up and Running: Building Cloud Native Applications with Go and Java for Docker and Kubernetes (2020) by Kasun Indrasiri and Danesh Kuruppu [3.61, 113]
+- gRPC Microservices in Go (2023) by Hüseyin Babal [3.95, 21]
+- Modern API Development with Spring 6 and Spring Boot 3: Design scalable, viable, and reactive APIs with REST, gRPC, and GraphQL using Java 17 and Spring Boot 3 (2nd, 2023) by Sourabh Sharma
+
+Some more
+
+- gRPC Go for Professionals: Implement, test, and deploy production-grade microservices (2023) by Clément Jean (Packt Publisher)
+- Modern API Design with gRPC: Efficient Solutions to Design Modern APIs with gRPC Using Golang for Scalable Distributed Systems (2024) by Hitesh Pattanayak
+- Practical gRPC (2018) by Joshua Humphries 
+
+<br>
+
+<h2><a name="mq_t" href="#mq_c">Message Queues</a></h2>
+
+<br>
+
+### Message Protocol and Specification
+
+**Java Message Service (JMS)**
+
+>An API specification in Java for messaging. Part of Jakarta EE (formerly Java EE). Not an implementation—it's a standard for messaging in Java applications. Requires a JMS-compliant provider (e.g., ActiveMQ, Artemis, IBM MQ).
+
+>A Java API specification for sending messages between two or more clients. Created by Sun Microsystems (now Jakarta EE). Best for Java-based enterprise applications.
+
+<details><summary>When use JMS</summary>
+
+- You're in a Java-only environment. 
+- You're building applications on Jakarta EE or Spring that need container-managed transactions.
+- You use JMS-compliant brokers (ActiveMQ, Artemis).
+
+</details>
+
+- Java Message Service by Mark Richards, Richard Monson-Haefel and David A. Chappell
+
+**AMQP**
+
+>An open wire-level messaging protocol that defines how messages are formatted, routed, delivered, etc. Best for: Polyglot systems needing interoperability and flexible routing.
+
+
+**STOMP**
+
+>A very simple, text-based protocol for messaging over WebSocket or TCP. Best for Lightweight clients, WebSocket messaging, browser-based apps.
+
+**MQTT**
+
+>A lightweight messaging protocol designed for low-bandwidth, high-latency, or unreliable networks. Created by IBM. Best for IoT, embedded systems, mobile messaging.
+
+**OpenWire**
+
+>A binary protocol developed by Apache ActiveMQ for optimized message transmission. Best for Internal use with ActiveMQ where performance is key.
+
+
+**OpenMessaging**
+
+>A vendor-neutral messaging standard initiative (open spec). Started by Alibaba, Tencent, and others under the Linux Foundation. Best for Cloud-native or streaming-first systems looking for vendor-agnostic messaging APIs.
+
+### Message Queue
+
+<details>
+    <summary>消息队列选型</summary>
+
+性能优先选 Kafka，有事务需求选 RabbitMQ。除非用 Spring Alibaba 那一套，否则不会考虑 rocketmq，http 协议才有多语言 sdk，生态差太多了。
+
+事务型：RabbitMQ，流量型：Kafka。
+
+业务量不大，只是要一个稳定不出问题的消息队列。RabbitMQ 最少这个选择不会错。因为太成熟了。
+
+只用主流和支持多语言的。低吞吐，部署简单的，用 RabbitMQ。大流量大吞吐的，用 kafka。
+
+不建议 redis 业务稍微上来点就要重构。
+
+Kafka vs. RabbitMQ vs. Pulsar
+
+- Kafka: The Streaming Heavyweight
+- RabbitMQ: The Agile Middleweight
+- Pulsar: The Rising Lightweight Star
+
+</details>
+
+Message queue summary table
+
+| Feature             | Apache Kafka                              | RabbitMQ                            | ActiveMQ                                     |
+| ------------------- | ----------------------------------------- | ----------------------------------- | -------------------------------------------- |
+| Delivery Model      | Pull only                                 | Push (hybrid pull with prefetch)    | Push                                         |
+| Primary Use Case    | Event streaming, logs, analytics          | General messaging, microservices    | Java EE integration, legacy systems          |
+| Retention           | Long-term (logs), replayable              | Queue-based (until ack or TTL)      | Queue/topic-based, typically short-term      |
+| Protocol            | Kafka’s own binary protocol               | AMQP 0-9-1, MQTT, STOMP, etc.       | OpenWire, JMS, AMQP, MQTT, STOMP             |
+| Consumer Tracking   | Client tracks offset                      | Broker tracks delivery & ack        | Broker tracks delivery & ack                 |
+| Durability          | Log-based, disk-backed                    | Configurable queues, durable queues | Persistent messages and durable queues       |
+| Language Support    | Java-native (with client APIs for others) | Polyglot (AMQP-based)               | Java-centric (JMS API)                       |
+| Built-in Clustering | Yes (via brokers + Zookeeper or KRaft)    | Yes (node clustering, HA queues)    | Yes (depends on version - Artemis is better) |
+
+- Kafka: Best for event streaming, large-scale logs, data pipelines.
+- RabbitMQ: Best for decoupling services, work queues, polyglot environments.
+- ActiveMQ: Best for JMS-based enterprise apps, legacy Java systems.
+
+### RabbitMQ
+
+- [RabbitMQ](https://www.rabbitmq.com/)
+- [RabbitMQ Tutorials - Doc](https://www.rabbitmq.com/tutorials)
+- [RabbitMQ Documentation](https://www.rabbitmq.com/docs)
+- **RabbitMQ Essentials**: Build distributed and scalable applications with message queuing using RabbitMQ (2nd, 2020) by Lovisa Johansson and David Dossot [4.09, 23]
+- **RabbitMQ in Action: Distributed Messaging for Everyone** (2012) by Alvaro Videla, Jason J. W. Williams [3.88, 165]
+- **RabbitMQ in Depth** (2017) by Gavin M. Roy [3.94, 70]
+
+Some more
+
+- RabbitMQ Cookbook: Over 70 Practical Recipes to Help You Develop Messaging Applications Using Rabbitmq With the Help of Plenty of Real-life Examples (2013) by Boschi Sigismondo, Gabriele Santomaggio [3.72, 18]
+- Ultimate Microservices with RabbitMQ: Master Microservices Architecture and RabbitMQ Integration to Build Scalable, Resilient Systems, and to Drive Innovation ... in Software Development (2024) by Peter Morlion
+- Advanced RabbitMQ: Comprehensive Messaging and Integration Frameworks (2024) by Adam Jones
+- Learning RabbitMQ (2015) by Martin Toshev
+### Apache Kafka
+
+- Apache Kafka documentation. [DOC](https://kafka.apache.org/)
+- Kafka: a Distributed Messaging System for Log Processing [PDF](https://notes.stephenholiday.com/Kafka.pdf)
+- [Kafka Books and Papers](https://kafka.apache.org/books-and-papers)
+- Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale (2017) by Neha Narkhede, Gwen Shapira, Todd Palino [4.2, 712]
+- I Heart Logs: Event Data, Stream Processing, and Data Integration by Jay Kreps [3.85, 384]
+- Kafka Streams in Action: Real-time apps and microservices with the Kafka Streams API (2018) by Bill Bejeck [4.05, 122]
+- Effective Kafka: A Hands-on Guide to Building Robust and Scalable Event-Driven Applications with Code Examples in Java by Emil Koutanov [4.40, 42]
+- Mastering Kafka Streams and ksqlDB: Building Real-Time Data Systems by Example (2021) by Mitch Seymour [4.16, 38]
+- Kafka in Action (2020) by Dylan Scott [3.74, 39]
+- Apache Kafka Quick Start Guide: Leverage Apache Kafka 2.0 to simplify real-time data processing for distributed applications (2018) by Raúl Estrada
+
+Some more
+
+- Kafka Connect: Build and Run Data Pipelines (2023) by Mickael Maison, Kate Stanley
+- Event Streams in Action: Real-time event systems with Kafka and Kinesis (2019) by Alexander Dean, Valentin Crettaz
+- Streaming Data: Understanding the real-time pipeline (2017) by Andrew Psaltis
+- Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing (2018) by Tyler Akidau, Slava Chernyak, Reuven Lax
+
+### Apache ActiveMQ
+
+
+- [Apache ActiveMQ](http://activemq.apache.org/)
+
+### Apache Pulsar
+
+- Mastering Apache Pulsar: Cloud Native Event Streaming at Scale (2022) by Jowanza Joseph
+- Apache Pulsar in Action (2021) by David Kjerrumgaard
+- Cloud-Native Microservices with Apache Pulsar: Build Distributed Messaging Microservices (2021) by Rahul Sharma and Mohammad Atyab
+- Stream Processing with Apache Pulsar: Building real-time scalable data streaming applications (2021) by Theophilus Siameh
+
+### Apache RocketMQ
+
+
+- [Apache RocketMQ](https://github.com/apache/rocketmq)
+
+### More Message Queues
+
+Amazon Simple Queue System (SQS)
+
+Google Cloud Pub/Sub
+
+Microsoft Azure Service Bus
+
+IBM MQ
+
+Red Hat AMQ
 
 <br>
 
@@ -698,72 +870,7 @@ Middleware - Microservices Collaboration
 
 Middleware - Microservices Communication (RPC/Message/HTTP)
 
-<details>
-    <summary>消息队列选型</summary>
 
-性能优先选 Kafka，有事务需求选 RabbitMQ。除非用 Spring Alibaba 那一套，否则不会考虑 rocketmq，http 协议才有多语言 sdk，生态差太多了。
-
-事务型：RabbitMQ，流量型：Kafka。
-
-业务量不大，只是要一个稳定不出问题的消息队列。RabbitMQ 最少这个选择不会错。因为太成熟了。
-
-只用主流和支持多语言的。低吞吐，部署简单的，用 RabbitMQ。大流量大吞吐的，用 kafka。
-
-不建议 redis 业务稍微上来点就要重构。
-
-Kafka vs. RabbitMQ vs. Pulsar
-
-- Kafka: The Streaming Heavyweight
-- RabbitMQ: The Agile Middleweight
-- Pulsar: The Rising Lightweight Star
-
-</details>
-
-- Java Message Service by Mark Richards, Richard Monson-Haefel and David A. Chappell
-- I Heart Logs: Event Data, Stream Processing, and Data Integration by Jay Kreps
-- Modern API Development with Spring 6 and Spring Boot 3: Design scalable, viable, and reactive APIs with REST, gRPC, and GraphQL using Java 17 and Spring Boot 3 (2nd, 2023) by Sourabh Sharma
-- [gRPC](https://grpc.io/)
-	- gRPC: Up and Running: Building Cloud Native Applications with Go and Java for Docker and Kubernetes (2020) by Kasun Indrasiri and Danesh Kuruppu [3.61, 113]
-	- gRPC Microservices in Go (2023) by Hüseyin Babal [3.95, 21]
-	- Some more
-		- gRPC Go for Professionals: Implement, test, and deploy production-grade microservices (2023) by Clément Jean (Packt Publisher)
-		- Modern API Design with gRPC: Efficient Solutions to Design Modern APIs with gRPC Using Golang for Scalable Distributed Systems (2024) by Hitesh Pattanayak
-		- Practical gRPC (2018) by Joshua Humphries 
-- HTTP REST
-- [RabbitMQ](https://www.rabbitmq.com/)
-	- [RabbitMQ Tutorials - Doc](https://www.rabbitmq.com/tutorials)
-	- [RabbitMQ Documentation](https://www.rabbitmq.com/docs)
-	- **RabbitMQ Essentials**: Build distributed and scalable applications with message queuing using RabbitMQ (2nd, 2020) by Lovisa Johansson and David Dossot [4.09, 23]
-	- **RabbitMQ in Action: Distributed Messaging for Everyone** (2012) by Alvaro Videla, Jason J. W. Williams [3.88, 165]
-	- **RabbitMQ in Depth** (2017) by Gavin M. Roy [3.94, 70]
-	- Some more
-		- RabbitMQ Cookbook: Over 70 Practical Recipes to Help You Develop Messaging Applications Using Rabbitmq With the Help of Plenty of Real-life Examples (2013) by Boschi Sigismondo, Gabriele Santomaggio [3.72, 18]
-		- Ultimate Microservices with RabbitMQ: Master Microservices Architecture and RabbitMQ Integration to Build Scalable, Resilient Systems, and to Drive Innovation ... in Software Development (2024) by Peter Morlion
-		- Advanced RabbitMQ: Comprehensive Messaging and Integration Frameworks (2024) by Adam Jones
-		- Learning RabbitMQ (2015) by Martin Toshev
-- Kafka
-	- Apache Kafka documentation. [DOC](https://kafka.apache.org/)
-	- Kafka: a Distributed Messaging System for Log Processing [PDF](https://notes.stephenholiday.com/Kafka.pdf)
-	- [Kafka Books and Papers](https://kafka.apache.org/books-and-papers)
-	- Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale (2017) by Neha Narkhede, Gwen Shapira, Todd Palino [4.2, 712]
-	- I Heart Logs: Event Data, Stream Processing, and Data Integration by Jay Kreps [3.85, 384]
-	- Kafka Streams in Action: Real-time apps and microservices with the Kafka Streams API (2018) by Bill Bejeck [4.05, 122]
-	- Effective Kafka: A Hands-on Guide to Building Robust and Scalable Event-Driven Applications with Code Examples in Java by Emil Koutanov [4.40, 42]
-	- Mastering Kafka Streams and ksqlDB: Building Real-Time Data Systems by Example (2021) by Mitch Seymour [4.16, 38]
-	- Kafka in Action (2020) by Dylan Scott [3.74, 39]
-	- Apache Kafka Quick Start Guide: Leverage Apache Kafka 2.0 to simplify real-time data processing for distributed applications (2018) by Raúl Estrada
-	- Some more
-		- Kafka Connect: Build and Run Data Pipelines (2023) by Mickael Maison, Kate Stanley
-		- Event Streams in Action: Real-time event systems with Kafka and Kinesis (2019) by Alexander Dean, Valentin Crettaz
-		- Streaming Data: Understanding the real-time pipeline (2017) by Andrew Psaltis
-		- Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing (2018) by Tyler Akidau, Slava Chernyak, Reuven Lax
-- Apache Pulsar
-	- Mastering Apache Pulsar: Cloud Native Event Streaming at Scale (2022) by Jowanza Joseph
-	- Apache Pulsar in Action (2021) by David Kjerrumgaard
-	- Cloud-Native Microservices with Apache Pulsar: Build Distributed Messaging Microservices (2021) by Rahul Sharma and Mohammad Atyab
-	- Stream Processing with Apache Pulsar: Building real-time scalable data streaming applications (2021) by Theophilus Siameh
-- [Apache RocketMQ](https://github.com/apache/rocketmq)
-- [Apache ActiveMQ](http://activemq.apache.org/)
 
 Middleware - Database Cluster / Big Data
 
@@ -1104,7 +1211,7 @@ Papers
 
 <br>
 
-<h2><a name="blockchain_t" href="#blockchain_c">Blockchain and Cryptocurrency</a></h2>
+<h2><a name="blockchain_t" href="#blockchain_c">Blockchain and Cryptocurrency</a></h2>
 
 <br>
 
