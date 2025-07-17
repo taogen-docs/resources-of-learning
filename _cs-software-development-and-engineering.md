@@ -753,6 +753,8 @@ Docker Desktop alternatives
 - [OrbStack](https://orbstack.dev/). Fast, light, simple Docker & Linux. Best for lightweight and fast Docker Desktop alternative for macOS users.
 - [Minikube](https://minikube.sigs.k8s.io/docs/start/). It is local Kubernetes, focusing on making it easy to learn and develop for Kubernetes.
 
+### Container Orchestration
+
 #### <img src="/assets/icon/engineering/Kubernetes.svg" width="24px"/>Kubernetes 
 
 
@@ -795,7 +797,16 @@ Courses
 - [尚硅谷Kubernetes教程(K8s入门到精通)](https://www.bilibili.com/video/BV1w4411y7Go/) (2019)
 - [尚硅谷云原生Java架构师的第一课K8s+Docker+KubeSphere+DevOps](https://www.bilibili.com/video/BV13Q4y1C7hS) (2021)
 
-**Istio**
+**Helm**
+
+>The package manager for Kubernetes. Helm is the best way to find, share, and use software built for Kubernetes.
+
+- [Helm Documentation](https://helm.sh/)
+- Learning Helm: Managing Apps on Kubernetes (2021) by Matt Butcher, Matt Farina, Josh Dolitsky
+
+#### Cloud Native Applications with K8S
+
+##### Istio
 
 >Istio extends Kubernetes to establish a programmable, application-aware network. Working with both Kubernetes and traditional workloads, Istio brings standard, universal traffic management, telemetry, and security to complex deployments.
 
@@ -807,22 +818,28 @@ Courses
 - Bootstrapping Service Mesh Implementations with Istio: Build reliable, scalable, and secure microservices on Kubernetes with Service Mesh (2023) by Anand Rai 
 - Getting Started with Istio Service Mesh: Manage Microservices in Kubernetes (2019) by Rahul Sharma and Avinash Singh
 
-**Helm**
+##### Dapr
 
->The package manager for Kubernetes. Helm is the best way to find, share, and use software built for Kubernetes.
+>Distributed Application Runtime.
 
-- [Helm Documentation](https://helm.sh/)
-- Learning Helm: Managing Apps on Kubernetes (2021) by Matt Butcher, Matt Farina, Josh Dolitsky
-#### Container Security
+>A portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.
+
+- [Dapr Docs](https://docs.dapr.io/?_gl=1*hfgkwm*_ga*NzA1NDA4ODI1LjE3NTI2NzIwNDE.*_ga_60C6Q1ETC1*czE3NTI2NzIwNDAkbzEkZzEkdDE3NTI2NzIzMDIkajYwJGwwJGgw)
+- Learning Dapr: Building Distributed Cloud Native Applications (2020) by Haishi Bai and Yaron Schneider
+- Practical Microservices with Dapr and .NET: A developer's guide to building cloud-native applications using the event-driven runtime (2nd, 2022) by Davide Bedin
+- Introducing Distributed Application Runtime (Dapr): Simplifying Microservices Applications Development Through Proven and Reusable Patterns and Practices (2021) by Radoslav Gatev
+
+#### Cloud Native Metrics and Monitoring
+
+Prometheus
+
+- Prometheus: Up & Running: Infrastructure and Application Performance Monitoring by Brian Brazil 
+
+### Container Security
 
 - Container Security: Fundamental Technology Concepts that Protect Containerized Applications (2020) by Liz Rice
 - Hacking Kubernetes: Threat-Driven Analysis and Defense (2021) by Andrew Martin, Michael Hausenblas
 - Kubernetes Security and Observability: A Holistic Approach to Securing Containers and Cloud Native Applications (2021) by Brendan Creane, Amit Gupta
-
-#### Others
-
-- gRPC: Up and Running: Building Cloud Native Applications with Go and Java for Docker and Kubernetes by Kasun Indrasiri and Danesh Kuruppu
-- Prometheus: Up & Running: Infrastructure and Application Performance Monitoring by Brian Brazil 
 
 <br>
 

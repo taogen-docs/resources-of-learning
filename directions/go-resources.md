@@ -240,6 +240,8 @@ Web Frameworks
 - [Echo](https://echo.labstack.com/) - High-performance. High performance, extensible, minimalist Go web framework
 - [Beego](https://github.com/beego/beego) - High-performance. high-performance web framework for the Go programming language.
 - [Fiber](https://gofiber.io/) - Rapid development. An Express-inspired web framework written in Go.
+- [GoFrame](https://github.com/gogf/gf). 一款模块化、高性能的 Go 语言开发框架。
+- [Kratos](https://github.com/go-kratos/kratos). Your ultimate Go microservices framework for the cloud-native era.
 
 Web Application Scaffolds
 
@@ -254,10 +256,18 @@ Web Application Scaffolds
 Books
 
 - **Cloud Native Go: Building Reliable Services in Unreliable Environments** (2021) by Matthew Titmus
+- gRPC Microservices in Go (2023) by Hüseyin Babal
 
-Frameworks & Libraries
+### Web Frameworks + K8S
 
+
+
+### Microservice Frameworks
+
+- [go-micro](https://github.com/micro/go-micro). A Go microservices framework.
 - [Go kit](https://gokit.io/). A standard library for microservices.
+- [go-zero](https://github.com/zeromicro/go-zero). 一个集成了各种工程实践的 web 和 rpc 框架。通过弹性设计保障了大并发服务端的稳定性，经受了充分的实战检验。 
+
 
 ## Go Tools
 

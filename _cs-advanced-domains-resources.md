@@ -612,6 +612,8 @@ Kibana
 
 ### gRPC
 
+> A high performance, open source universal RPC framework.
+
 - [gRPC](https://grpc.io/)
 - gRPC: Up and Running: Building Cloud Native Applications with Go and Java for Docker and Kubernetes (2020) by Kasun Indrasiri and Danesh Kuruppu [3.61, 113]
 - gRPC Microservices in Go (2023) by Hüseyin Babal [3.95, 21]
@@ -622,6 +624,21 @@ Some more
 - gRPC Go for Professionals: Implement, test, and deploy production-grade microservices (2023) by Clément Jean (Packt Publisher)
 - Modern API Design with gRPC: Efficient Solutions to Design Modern APIs with gRPC Using Golang for Scalable Distributed Systems (2024) by Hitesh Pattanayak
 - Practical gRPC (2018) by Joshua Humphries 
+
+### Apache Thrift
+
+> A lightweight, language-independent software stack for point-to-point RPC implementation.
+
+- [Apache Thrift Documentation](https://thrift.apache.org/docs/)
+- Learning Apache Thrift (2015) by Krzysztof Rakowski
+- Programmer's Guide to Apache Thrift (2019) by William Abernethy
+
+### Protobuf
+
+>Protocol Buffers - Google's data interchange format
+
+- [Protobuf](https://protobuf.dev/). Protocol Buffers are language-neutral, platform-neutral extensible mechanisms for serializing structured data.
+- Protocol Buffers Handbook: Getting deeper into Protobuf internals and its usage (2024) by Clément Jean
 
 <br>
 
