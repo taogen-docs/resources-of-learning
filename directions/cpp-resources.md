@@ -332,6 +332,19 @@ Package Manager
 
 ## Directions
 
+>C++ is a general-purpose programming language used in fields that require high performance, fine-grained control over system resources, and efficient memory management. It’s widely used in systems software, game development, finance, robotics, and more.
+
+| Field                       | Example Use Cases                                |
+|-----------------------------|--------------------------------------------------|
+| Systems Programming         | OS kernels, device drivers, memory management    |
+| Game Development            | Game engines, physics and rendering              |
+| Finance                     | Trading systems, real-time data pipelines        |
+| Embedded & IoT              | Microcontroller firmware, industrial controllers |
+| Robotics & Computer Vision  | Robot control, image processing, autonomous nav. |
+| Scientific Computing        | Simulations, modeling, numerical libraries       |
+| GUI & Desktop Applications  | Cross-platform apps with Qt, browsers            |
+| Compilers & Developer Tools | Compilers, debuggers, static analyzers           |
+
 <details>
     <summary>C/C++的大体方向</summary>
 <br>
