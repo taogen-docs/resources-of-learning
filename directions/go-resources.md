@@ -19,7 +19,7 @@ Guidance & Roadmap
 - [Go Developer Roadmap](https://roadmap.sh/golang)
 - [golang-developer-roadmap - GitHub](https://github.com/Alikhll/golang-developer-roadmap)
 
-Beginner
+### Beginner
 
 - Documentation
   - [Go Documentation - doc](https://go.dev/doc/)
@@ -33,16 +33,17 @@ Beginner
   - [Go Tutorial - Tutorialspoint](https://www.tutorialspoint.com/go/)
   - [Learn Golang](https://www.learn-golang.org/)
   - [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests)
-- **The Go Programming Language** (2015) by Alan A. A. Donovan and Brian W. Kernighan
-- **Learning Go: An Idiomatic Approach to Real-World Go Programming** (2nd, 2024) by Jon Bodner
-- **Head First Go** (2019) by Jay McGavren
-- An Introduction to Programming in Go by Caleb Doxsey [HTML](https://www.golang-book.com/books/intro), [PDF](https://www.golang-book.com/public/pdf/gobook.pdf)
-- Go 101 [HTML](https://go101.org/)
-- Introducing Go: Build Reliable, Scalable Programs by Caleb Doxsey
-- Go Programming Blueprints by Mat Ryer
-- Go in Action by William Kennedy, Brian Ketelsen
-- Go in Practice (2nd, 2025) by Matt Butcher
-- Go Programming - From Beginner to Professional: Learn everything you need to build modern software using Go (2nd, 2024) by Samantha Coyle
+- **The Go Programming Language** (2015) by Alan A. A. Donovan and Brian W. Kernighan [4.43, 1737]
+- **Learning Go: An Idiomatic Approach to Real-World Go Programming** (2nd, 2024) by Jon Bodner [4.44, 425]
+- An Introduction to Programming in Go by Caleb Doxsey [HTML](https://www.golang-book.com/books/intro), [PDF](https://www.golang-book.com/public/pdf/gobook.pdf) [3.78, 353]
+- Go in Action by William Kennedy, Brian Ketelsen [3.83, 327]
+- Introducing Go: Build Reliable, Scalable Programs by Caleb Doxsey [3.71, 281]
+- Some more
+	- Go 101 [HTML](https://go101.org/)
+	- Head First Go (2019) by Jay McGavren [4.24, 128]
+	- Go in Practice (2nd, 2025) by Matt Butcher [3.87, 120]
+	- Go Programming Blueprints by Mat Ryer [3.90, 78]
+	- Go Programming - From Beginner to Professional: Learn everything you need to build modern software using Go (2nd, 2024) by Samantha Coyle
 
 Style Guide
 
@@ -93,19 +94,32 @@ Golang 的定位就是 better C ，我司（某所）在嵌入式 CPU 上运行 
 
 </details>
 
-Advanced
+### Advanced
+
+Dive into
 
 - Go Cookbook: Expert Solutions for Commonly Needed Go Tasks (2023) by Sau Sheong Chang
 - Mastering Go: Leverage Go's expertise for advanced utilities, empowering you to develop professional software (4th, 2024) by Mihalis Tsoukalos
 - Go for DevOps: Learn how to use the Go language to automate servers, the cloud, Kubernetes, GitHub, Packer, and Terraform (2022) by John Doak (Author), David Justice 
 - System Programming Essentials with Go: System calls, networking, efficiency, and security practices with practical projects in Golang (2024) by Alex Rios
 - Network Programming with Go: Code Secure and Reliable Network Services from Scratch (2021) by Adam Woodbeck
-- Concurrency
-  - **Concurrency in Go: Tools and Techniques for Developers** (2017) by Katherine Cox-Buddy
-  - Learn Concurrent Programming with Go (2024) by James Cutajar
-- Efficient
-  - Efficient Go: Data-Driven Performance Optimization by Bartlomiej Plotka
-  - 100 Go Mistakes and How to Avoid Them (2022) by Teiva Harsanyi
+- Pro Go: The Complete Guide to Programming Reliable and Efficient Software Using Golang (2022) by Adam Freeman
+
+Concurrency
+
+- **Concurrency in Go: Tools and Techniques for Developers** (2017) by Katherine Cox-Buddy
+- Learn Concurrent Programming with Go (2024) by James Cutajar
+
+Efficient
+
+- Efficient Go: Data-Driven Performance Optimization by Bartlomiej Plotka
+- 100 Go Mistakes and How to Avoid Them (2022) by Teiva Harsanyi
+
+Functional Programming
+
+- Functional Programming with Go: Functional design and implementation in Go (2024) by Amrit Pal Singh
+- Functional Programming in Go: Apply functional techniques in Golang to improve the testability, readability, and security of your code (2023) by Dylan Meeus 
+- Learning Functional Programming in Go: Change the way you approach your applications using functional programming in Go (2017) by Lex Sheehan
 
 Code Practice
 
@@ -256,6 +270,7 @@ Web Application Scaffolds
 Books
 
 - **Cloud Native Go: Building Reliable Services in Unreliable Environments** (2021) by Matthew Titmus
+- Microservices with Go: Building scalable and reliable microservices with Go (2022) by Alexander Shuiskov
 - gRPC Microservices in Go (2023) by Hüseyin Babal
 
 ### Web Frameworks + K8S

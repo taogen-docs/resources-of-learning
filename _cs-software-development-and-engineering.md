@@ -806,6 +806,10 @@ Courses
 
 #### Cloud Native Applications with K8S
 
+- Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Systems Using Kubernetes (2nd, 2025) by Brendan Burns
+- Cloud Application Architecture Patterns: Designing, Building, and Modernizing for the Cloud (2025) by Kyle Brown, Bobby Woolf, Joseph Yoder 
+- Cloud Native: Using Containers, Functions, and Data to Build Next-Generation Applications (2019) by Boris Scholl , Trent Swanson
+
 ##### Istio
 
 >Istio extends Kubernetes to establish a programmable, application-aware network. Working with both Kubernetes and traditional workloads, Istio brings standard, universal traffic management, telemetry, and security to complex deployments.

@@ -13,7 +13,7 @@
 
 ## Python Fundamentals
 
-Beginner
+### Beginner
 
 - Documentation
   - [The Python Tutorial - doc](https://docs.python.org/3/tutorial/)
@@ -26,21 +26,23 @@ Beginner
   - [Learn Python](https://www.learnpython.org/)
   - [Python Tutorial](https://www.pythontutorial.net/)
   - [Real Python](https://realpython.com/)
-- **Learning Python** (5th, 2013) by David Ascher and MARK LUTZ
-- Learn Python 3 the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code by Zed Shaw
-- A Byte of Python by Swaroop C.H. [LINK](https://python.swaroopch.com/)
-- **Automate the Boring Stuff with Python: Practical Programming for Total Beginners** (3rd, 2024) by Al Sweigart
-- **Python Crash Course: A Hands-On, Project-Based Introduction to Programming** (3rd, 2023) by Eric Matthes
-- **Python Pocket Reference: Python In Your Pocket** (5th, 2014) by Mark Lutz 
-- **Think Python** (2nd, 2016) by Allen B. Downey
-- **Dive into Python 3** (2009) by Mark Pilgrim
-- **The Hitchhiker's Guide to Python: Best Practices for Development** by Kenneth Reitz, Tanya Schlusser. [HTML](https://docs.python-guide.org/)
-- Python Essential Reference by David M. Beazley
-- Introducing Python: Modern Computing in Simple Packages (2nd, 2019) by Bill Lubanovic
-- Core Python Programming by Wesley J. Chun
-- Python Basics: A Practical Introduction to Python 3 (2021) by David Amos, Dan Bader
-- Python Tricks: A Buffet of Awesome Python Features (2017) by Dan Bader
-- The Quick Python Book (3rd, 2018) by Naomi Ceder
+- **Learning Python: Powerful Object-Oriented Programming** (6th, 2025) by Mark Lutz [4.01, 3181]
+- **Automate the Boring Stuff with Python: Practical Programming for Total Beginners** (3rd, 2024) by Al Sweigart [4.28, 3090]
+- **Python Crash Course: A Hands-On, Project-Based Introduction to Programming** (3rd, 2023) by Eric Matthes [4.36, 2994]
+- Think Python (2nd, 2016) by Allen B. Downey [4.12, 1655]
+- Python Tricks: A Buffet of Awesome Python Features (2017) by Dan Bader [4.43, 1088]
+- Python Pocket Reference: Python In Your Pocket (5th, 2014) by Mark Lutz [4.03, 731] 
+- Some more
+	- Learn Python 3 the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code by Zed Shaw [3.93, 585]
+	- Python Essential Reference by David M. Beazley [4.23, 477]
+	- A Byte of Python by Swaroop C.H. [LINK](https://python.swaroopch.com/) [4.07, 378]
+	- Introducing Python: Modern Computing in Simple Packages (2nd, 2019) by Bill Lubanovic [4.16, 324]
+	- Core Python Programming by R. Nageswara Rao [4.19, 306]
+	- Dive into Python 3 (2009) by Mark Pilgrim [3.84, 302]
+	- The Quick Python Book (3rd, 2018) by Naomi Ceder [3.88, 273]
+	- The Hitchhiker's Guide to Python: Best Practices for Development by Kenneth Reitz, Tanya Schlusser. [HTML](https://docs.python-guide.org/) [3.92, 209]
+	- Core Python Programming by Wesley J. Chun [3.82, 158]
+	- Python Basics: A Practical Introduction to Python 3 (2021) by David Amos, Dan Bader [4.07, 28]
 
 Style Guide
 
@@ -55,24 +57,39 @@ Project Structure
 - [Best Practices in Structuring Python Projects](https://dagster.io/blog/python-project-best-practices#9-best-practices-for-structuring-python-projects)
 - [Python Application Layouts: A Reference](https://realpython.com/python-application-layouts/)
 
-Advanced
+### Advanced
 
-- Dive into
-  - Python Cookbook: Recipes for Mastering Python 3 by Brian K. Jones and David M. Beazley
-  - **Fluent Python** (2nd, 2022) by Luciano Ramalho
-  - The Hacker's Guide to Python by Julien Danjou
-  - CPython Internals: Your Guide to the Python 3 Interpreter by Anthony Shaw
-  - Cython: A Guide for Python Programmers (2015) by Kurt W Smith
-  - Classic Computer Science Problems in Python (2019) by David Kopec
-  - Pro Python by Marty Alchin
-  - Expert Python Programming by Tarek Ziadé
-  - Python Distilled (2021) by David Beazley 
-  - Python工匠 by 朱雷
-- Effective
-  - Effective Python: 59 Specific Ways to Write Better Python by Brett Slatkin
-  - High Performance Python: Practical Performant Programming for Humans by Ian Ozsvald and Micha Gorelick
-- Object-Oriented
-  - **Programming Python: Powerful Object-Oriented Programming** (4th. 2011) by Mark Lutz
+Dive into
+
+- **Fluent Python** (2nd, 2022) by Luciano Ramalho [4.62, 1716]
+- **Python Cookbook: Recipes for Mastering Python 3** by Brian K. Jones and David M. Beazley [4.17, 1018]
+- Python in a Nutshell (2nd, 2006) by Alex Martelli [3.89, 376]
+- Some more
+	- The Hacker's Guide to Python by Julien Danjou [4.09, 80]
+	- CPython Internals: Your Guide to the Python 3 Interpreter by Anthony Shaw [3.73, 44]
+	- Cython: A Guide for Python Programmers (2015) by Kurt W Smith [4.08, 49]
+	- Classic Computer Science Problems in Python (2019) by David Kopec [3.71, 90]
+	- Pro Python by Marty Alchin [3.86, 72]
+	- Expert Python Programming by Tarek Ziadé [3.49, 82]
+	- Python Distilled (2021) by David Beazley [4.36, 81]
+	- Python工匠 by 朱雷
+
+Effective
+
+- Effective Python: 59 Specific Ways to Write Better Python by Brett Slatkin [4.26, 913]
+- High Performance Python: Practical Performant Programming for Humans by Ian Ozsvald and Micha Gorelick [4.19, 232]
+- Clean Code in Python: Develop maintainable and efficient code (2nd, 2021) by Mariano Anaya [4.12, 126]
+
+Object-Oriented Programming
+
+- **Programming Python: Powerful Object-Oriented Programming** (4th. 2011) by Mark Lutz [4.00, 1078]
+- Object-Oriented Python: Master OOP by Building Games and GUIs (2022) by Irv Kalb [3.91, 46]
+- Python Object-Oriented Programming: Build robust and maintainable object-oriented Python applications and libraries (4th, 2021) by Steven F. Lott and Dusty Phillips [4.02, 247]
+
+Functional Programming
+
+- Functional Programming in Python: Unleash the power of FP with Python's built in support for function objects, closures, iterators, generators, comprehensions, map-reduce and other features (2025) by Martin McBride 
+- Functional Python Programming: Use a functional approach to write succinct, expressive, and efficient Python code (3rd, 2022) by Steven F. Lott and Ricardo Banffy
 
 New Books
 
