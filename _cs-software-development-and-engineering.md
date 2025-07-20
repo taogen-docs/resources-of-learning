@@ -1149,6 +1149,116 @@ Business / Startup
 
 - Writing Effective Use Cases by Alistair Cockburn
 
+### API Testing
+
+General
+
+- Testing Web APIs (2022) by Mark Winteringham
+- Learn API Testing: Norms, Practices, and Guidelines for Building Effective Test Automation (2022) by Jagdeep Jain
+
+Postman
+
+- [Postman](https://www.postman.com/). The World's Leading API Platform.
+- API Testing and Development with Postman: API creation, testing, debugging, and management made easy (2024) by Dave Westerveld
+- Mastering Postman: A Comprehensive Guide to Building End-to-End APIs with Testing, Integration and Automation (2023) by Oliver James
+
+SoapUI
+
+- [SoapUI](https://www.soapui.org/). The World's Most Popular API Testing Tool
+- Mastering SoapUI (2016) by Pranai Nandan
+- SoapUI Cookbook (2015) by Rupert Anderson
+- Web Services Testing with soapUI (2012) by Charitha Kankanamge
+
+Karate
+
+- [Karate](https://github.com/karatelabs/karate). Test Automation Made Simple
+- Writing API Tests with Karate: Enhance your API testing for improved security and performance (2023) by Benjamin Bischoff and Peter Thomas
+
+Some more
+
+- [ReadyAPI](https://smartbear.com/product/ready-api/). The All-In-One Automated API Testing Platform
+- [Katalon Studio](https://katalon.com/). Make test automation easy with Katalon Studio
+- [REST Assured](https://rest-assured.io/). Java DSL for easy testing of REST services
+- [Assertible](https://assertible.com/). The easiest way to test and monitor your web services
+- [Apigee](https://cloud.google.com/apigee). Build, manage, and secure APIs—for any use case, environment, or scale. Google Cloud's API management solution to operate APIs with high performance.
+
+### End-to-End Testing
+
+>End-to-end testing is a software testing methodology that aims to simulate real-world user scenarios by testing the entire application from start to finish. It involves validating the system's behavior and interactions across multiple components, modules, and interfaces.
+
+General
+
+- A Frontend Web Developer’s Guide to Testing: Explore leading web test automation frameworks and their future driven by low-code and AI (2022) by Eran Kinsbruner and Gleb Bahmutov
+
+Selenium
+
+- [Selenium](https://www.selenium.dev/). Selenium automates browsers.
+- Hands-On Selenium WebDriver with Java: A Deep Dive into the Development of End-to-End Tests (2022) by Boni Garcia 
+- Learning Selenium Testing Tools with Python (2014) by Unmesh Gundecha 
+- Selenium Framework Design in Data-Driven Testing: Build data-driven test frameworks using Selenium WebDriver, AppiumDriver, Java, and TestNG (2018) by Carl Cocchiaro 
+- Ultimate Selenium WebDriver for Test Automation: Build and Implement Automated Web Testing Frameworks Using Java, Selenium WebDriver and Selenium Grid ... EdTech, Banking, and SAAS (2024) by Robin Gupta 
+- Python Testing with Selenium: Learn to Implement Different Testing Techniques Using the Selenium WebDriver (2020) by Sujay Raghavendra
+
+Cypress
+
+- [Cypress](https://github.com/cypress-io/cypress). Fast, easy and reliable testing for anything that runs in a browser.
+- Ultimate Web Automation Testing with Cypress: Master End-to-End Web Application Testing Automation to Accelerate Your QA Process with Cypress (2023) by Vitaly Skadorva
+- Web Testing with Cypress: Run End-to-End tests, Integration tests, Unit tests across web apps, browsers and cross-platforms (2022) by Lev Gelfenbuim
+- End-to-End Web Testing with Cypress: Explore techniques for automated frontend web testing with Cypress and JavaScript (2021) by Waweru Mwaura
+
+Playwright
+
+- [Playwright](https://playwright.dev/). Fast and reliable end-to-end testing for modern web apps.
+- Web Automation Testing Using Playwright: End-to-end, API, accessibility, and visual testing using Playwright (2024) by Kailash Pathak 
+
+TestCafe
+
+- [TestCafe](https://testcafe.io/). A user-friendly end-to-end testing solution.
+- Modern Web Testing with TestCafe: Get to grips with end-to-end web testing with TestCafe and JavaScript (2020) by Dmytro Shpakovskyi 
+
+Puppeteer
+
+- [Puppeteer](https://pptr.dev/). A JavaScript library which provides a high-level API to control Chrome or Firefox over the DevTools Protocol or WebDriver BiDi.
+- UI Testing with Puppeteer: Implement end-to-end testing and browser automation using JavaScript and Node.js (2021) by Dario Kondratiuk 
+
+Some more
+
+- [Katalon Studio](https://katalon.com/). Make test automation easy with Katalon Studio
+- [TestComplete](https://smartbear.com/product/testcomplete/). Test Smarter. Move Faster. Stay Secure
+
+**Mobile application testing**
+
+Appium
+
+- [Appium](https://github.com/appium/appium). Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol
+- Mobile Test Automation with Appium: Mobile application testing made easy (2017) by Nishant Verma
+- Create an Enterprise-Level Test Automation Framework with Appium: Using Spring-Boot, Gradle, Junit, ALM Integration, and Custom Reports with TDD and BDD Support (2022) by Koushik Das 
+- Appium Recipes (2016) by Shankar Garg
+- Appium Insights: Strategies for Successful Platform Agnostic Test Automation (2025) by Sai Krishna V
+- Appium Essentials (2015) by Manoj Hans
+
+### Performance Testing
+
+>Performance testing evaluates the software's performance under various conditions, such as high user loads or heavy data inputs. It helps identify bottlenecks, measure response times, and ensure the software can handle expected workloads.
+
+Apache JMeter
+
+- [Apache JMeter](https://jmeter.apache.org/)
+- Pro Apache JMeter: Web Application Performance Testing (2017) by Sai Matam and Jagdeep Jain
+- Master Apache JMeter - From Load Testing to DevOps: Master performance testing with JMeter (2019) by Antonio Gomes Rodrigues, Bruno Demion
+- Performance Testing with JMeter 3: Enhance the performance of your web application (2017) by Bayo Erinle 
+- JMeter Cookbook (2014) by Bayo Erinle 
+- Apache JMeter (2008) by Emily H. Halili
+
+Some more
+
+- [Gatling](https://gatling.io/). Load testing designed for DevOps and CI/CD
+- [LoadRunner](https://www.opentext.com/products/professional-performance-engineering). A software testing tool from OpenText. It is used to test applications, measuring system behavior and performance under load.
+- [K6](https://k6.io/). Load testing for engineering teams
+- [Apache Benchmark (ab)](https://httpd.apache.org/docs/2.4/programs/ab.html). Apache HTTP server benchmarking tool
+- [Locust](https://locust.io/). A modern load testing framework
+
+
 <br>
 
 ## Part V: Others
