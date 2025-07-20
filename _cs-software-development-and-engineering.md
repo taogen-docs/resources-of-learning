@@ -27,6 +27,7 @@
   - <a name="spm_c" href="#spm_t">Software Project Management</a>
   - <a name="tm_c" href="#tm_t">Team Management</a>
   - <a name="test_c" href="#test_t">Software Testing and Quality Assurance</a>
+  - <a name="doc_c" href="#doc_t">Documentation</a>
 - Part V: Others
   - <a name="career_c" href="#career_t">Career</a>
   - <a name="law_c" href="#law_t">Law</a>
@@ -355,8 +356,9 @@ Top static web hosting providers
 
 1. Netlify: Netlify is a leading static web hosting platform known for its simplicity and developer-friendly features. It offers continuous deployment, custom domain support, form handling, serverless functions, and built-in CDN.
 2. Vercel: Vercel, previously known as Zeit, specializes in static site hosting and serverless functions. It supports popular frameworks like Next.js, Gatsby, and Nuxt.js. Vercel provides features like automatic deployments, edge caching, global CDN, and custom domains.
-3. GitHub Pages: GitHub Pages is a free hosting service provided by GitHub. It allows you to host static websites directly from your GitHub repositories. It supports custom domains, SSL certificates, and offers GitHub's version control features.
-4. AWS Amplify: AWS Amplify is a cloud development platform that includes static web hosting capabilities. It provides a scalable and secure hosting environment, supports custom domains, SSL certificates, and integrates with other AWS services.
+3. CloudFlare Pages
+4. GitHub Pages: GitHub Pages is a free hosting service provided by GitHub. It allows you to host static websites directly from your GitHub repositories. It supports custom domains, SSL certificates, and offers GitHub's version control features.
+5. AWS Amplify: AWS Amplify is a cloud development platform that includes static web hosting capabilities. It provides a scalable and secure hosting environment, supports custom domains, SSL certificates, and integrates with other AWS services.
 
 <br>
 
@@ -1189,6 +1191,7 @@ Some more
 General
 
 - A Frontend Web Developer’s Guide to Testing: Explore leading web test automation frameworks and their future driven by low-code and AI (2022) by Eran Kinsbruner and Gleb Bahmutov
+- Practical Front-End Testing: Strategies and Best Practices for Developers (2025) by Hsin-Hao Tang
 
 Selenium
 
@@ -1257,6 +1260,55 @@ Some more
 - [K6](https://k6.io/). Load testing for engineering teams
 - [Apache Benchmark (ab)](https://httpd.apache.org/docs/2.4/programs/ab.html). Apache HTTP server benchmarking tool
 - [Locust](https://locust.io/). A modern load testing framework
+
+
+<br>
+
+<h2><a name="doc_t" href="#doc_c">Documentation</a></h2>
+<br>
+
+### Software Documentation
+
+Software Documentation
+
+- JavaScript
+	- [Docusaurus](https://docusaurus.io/). Build optimized websites quickly, focus on your content.
+	- [VitePress](https://vitepress.dev/). Vite & Vue Powered Static Site Generator
+	- [Docsify](https://docsify.js.org/#/). A magical documentation site generator.
+	- [GitBook](https://github.com/GitbookIO/gitbook)
+	- [VuePress](https://vuepress.vuejs.org/). Vue-powered Static Site Generator.
+	- [eleventy](https://www.11ty.dev/). A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
+- Go
+	- [Hugo](https://gohugo.io/). (Go) The world’s fastest framework for building websites.
+- Python
+	- [MkDocs](https://www.mkdocs.org/). (Python) Project documentation with Markdown.
+	- [Pelican](https://getpelican.com/). (Python) Static site generator that supports Markdown and reST syntax. Powered by Python.
+	- [Sphinx](https://www.sphinx-doc.org/en/master/#). Create intelligent and beautiful documentation with ease.
+	- [Read the Docs](https://about.readthedocs.com/)
+- Rust
+	- [mdBook](https://rust-lang.github.io/mdBook/). (Rust) Create **book** from markdown files. Like Gitbook but implemented in Rust.
+ 
+Blog
+
+- Static blog
+	- [Hexo](https://hexo.io/). (JavaScript) A fast, simple & powerful blog framework.
+	- [Hugo](https://gohugo.io/). (Go) The world’s fastest framework for building websites.
+	- [Jekyll](https://jekyllrb.com/). (Ruby) A blog-aware static site generator in Ruby. Transform your plain text into static websites and **blogs**. 
+	- [Zola](https://www.getzola.org/). (Rust) A fast static site generator in a single binary with everything built-in. (Blog)
+- Dynamic blog
+	- [Wordpress](https://wordpress.com/) (PHP)
+
+Static web hosting services
+
+- GitHub Pages
+- CloudFlare Pages
+- Vercel Pages
+
+### API Documentation
+
+- Swagger
+- [Slate](https://slatedocs.github.io/slate/#introduction). (Ruby) Beautiful static documentation for your **API**.
+- [redoc](https://github.com/Redocly/redoc). (JavaScript) OpenAPI/Swagger-generated API Reference Documentation
 
 
 <br>

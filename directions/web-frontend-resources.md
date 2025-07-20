@@ -963,7 +963,6 @@ Some more
 	- [Astro](https://astro.build/)
 	- [Remix](https://remix.run/)
 - SSG
-	- [Hexo](https://hexo.io/). A fast, simple & powerful blog framework.
 	- [GitBook](https://github.com/GitbookIO/gitbook)
 	- [VuePress](https://vuepress.vuejs.org/). Vue-powered Static Site Generator.
 	- [eleventy](https://www.11ty.dev/). A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
@@ -971,28 +970,6 @@ Some more
 	- [Gridea](https://gridea.dev/). Build your blog in minutes.
 	- [Gridsome](https://gridsome.org/). A Jamstack framework for Vue.js.
 
-
-Other programming languages
-
-- Go
-	- [Hugo](https://gohugo.io/). (Go) The world’s fastest framework for building websites.
-- Ruby
-	- [Jekyll](https://jekyllrb.com/). (Ruby) A blog-aware static site generator in Ruby. Transform your plain text into static websites and **blogs**. 
-	- [Slate](https://slatedocs.github.io/slate/#introduction). (Ruby) Beautiful static documentation for your **API**.
-- Python
-	- [MkDocs](https://www.mkdocs.org/). (Python) Project documentation with Markdown.
-	- [Pelican](https://getpelican.com/). (Python) Static site generator that supports Markdown and reST syntax. Powered by Python.
-	- [Sphinx](https://www.sphinx-doc.org/en/master/#). Create intelligent and beautiful documentation with ease.
-	- [Read the Docs](https://about.readthedocs.com/)
-- Rust
-	- [mdBook](https://rust-lang.github.io/mdBook/). (Rust) Create **book** from markdown files. Like Gitbook but implemented in Rust.
-	- [Zola](https://www.getzola.org/). (Rust) A fast static site generator in a single binary with everything built-in.
-
-API Documentation
-
-- Swagger
-- [Slate](https://slatedocs.github.io/slate/#introduction). (Ruby) Beautiful static documentation for your **API**.
-- [redoc](https://github.com/Redocly/redoc). OpenAPI/Swagger-generated API Reference Documentation
 
 <br>
 
