@@ -713,15 +713,34 @@ Self-Hosted CI/CD Tools
 
 > Infrastructure as code (IaC) means to manage your IT infrastructure using configuration files.
 
+>Terraform is primarily used for provisioning infrastructure, creating and managing resources like virtual machines, networks, and storage. Ansible focuses on configuring and managing the software and settings on those existing infrastructure resources. Think of Terraform as building the foundation and Ansible as setting up the furniture and appliances inside.
+
 - Infrastructure as Code: Dynamic Systems for the Cloud Age (2nd, 2021) by Kief Morris
-- Terraform: Up & Running: Writing Infrastructure as Code (3rd, 2022) by Yevgeniy Brikman
-- Infrastructure as Code, Patterns and Practices: With Examples in Python and Terraform (2022) by Rosemary Wang
 - Infrastructure as Code (IAC) Cookbook by Pierre Pomes and Stephane Jourdan
+
+<img src="/assets/icon/engineering/Terraform.svg" width="24px"/>Terraform
+
+>An infrastructure as code tool that lets you build, change, and version infrastructure safely and efficiently. This includes low-level components like compute instances, storage, and networking; and high-level components like DNS entries and SaaS features.
+
+- Terraform: Up & Running: Writing Infrastructure as Code (3rd, 2022) by Yevgeniy Brikman
+- Mastering Terraform: A practical guide to building and deploying infrastructure on AWS, Azure, and GCP (2024) by Mark Tinderholt and Armon Dadgar
+- Terraform in Depth: Infrastructure as Code with Terraform and OpenTofu (2025) by Robert Hafner
+- The Terraform Book (2016) by James Turnbull 
+- Terraform Cookbook: Recipes for Codifying Infrastructure (2024) by Kerim Satirli and Taylor Dolezal (Publisher: O'Reilly)
+- Terraform Cookbook: Provision, run, and scale cloud architecture with real-world examples using Terraform (2nd, 2023) by Mikael Krief (Publisher: Packt)
+- Terraform in Action (2021) by Scott Winkler
+- Infrastructure as Code, Patterns and Practices: With Examples in Python and Terraform (2022) by Rosemary Wang
 
 <img src="/assets/icon/engineering/Ansible.svg" width="24px"/>Ansible
 
+>A radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management.
+
 - Ansible for DevOps: Server and configuration management for humans (13th, 2020) by Jeff Geerling 
 - Ansible: Up and Running: Automating Configuration Management and Deployment the Easy Way (3rd, 2022) by Bas Meijer, Lorin Hochstein, René Moser
+- Learn Ansible: Automate your cloud infrastructure, security configuration, and application deployment with Ansible (2024) by Russ McKendrick
+- Practical Ansible 2: Automate infrastructure, manage configuration, and deploy applications with Ansible 2.9 (2020) by Daniel Oh , James Freeman
+- Mastering Ansible: Automate configuration management and overcome deployment challenges with Ansible (4th, 2021) by James Freeman and Jesse Keating 
+- Network Automation Cookbook: Proven and actionable recipes to automate and manage network devices using Ansible (2020) by Karim Okasha
 
 ### Container
 
