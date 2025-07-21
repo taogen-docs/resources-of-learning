@@ -1072,25 +1072,39 @@ Middleware - Database Cluster / Big Data
 
 <br>
 
-General
+**Web Scraping with Python**
 
-- **Web Scraping with Python** (2nd, 2018) by Ryan Mitchell
-- Getting Structured Data from the Internet: Running Web Crawlers/Scrapers on a Big Data Production Scale (2020) by Jay M. Patel 
-- Practical Web Scraping for Data Science: Best Practices and Examples with Python (2018) by Seppe vanden Broucke and Bart Baesens 
-- Mining the Social Web: Data Mining Facebook, Twitter, LinkedIn, Instagram, GitHub, and More (3rd, 2019) by Matthew A. Russell and Mikhail Klassen
-- Mining Social Media: Finding Stories in Internet Data Illustrated Edition by Lam Thuy Vo
-- Python 3网络爬虫开发实战 by 崔庆才
+- **Web Scraping with Python** (3rd, 2024) by Ryan Mitchell [4.18, 403]
+- Hands-On Web Scraping with Python: Extract quality data from the web using effective Python techniques (2nd, 2023) by Anish Chapagain
+- Python Automation Cookbook: 75 Python automation ideas for web scraping, data wrangling, and processing Excel, reports, emails, and more (2nd, 2020) by Jaime Buelta 
+- Mining the Social Web: Data Mining Facebook, Twitter, LinkedIn, Instagram, GitHub, and More (3rd, 2019) by Matthew A. Russell and Mikhail Klassen [3.73, 373]
+- Mining Social Media: Finding Stories in Internet Data (2019) by Lam Thuy Vo
+- Some more
+	- Getting Structured Data from the Internet: Running Web Crawlers/Scrapers on a Big Data Production Scale (2020) by Jay M. Patel 
+	- Practical Web Scraping for Data Science: Best Practices and Examples with Python (2018) by Seppe vanden Broucke and Bart Baesens 
+	- Python Web Scraping Cookbook: Over 90 proven recipes to get you scraping with Python, micro services, Docker and AWS (2018) by Michael Heydt
+	- Website Scraping with Python: Using BeautifulSoup and Scrapy (2018) by Gábor László Hajba
+	- Python 3网络爬虫开发实战 by 崔庆才
 
-JS
-
-- 反爬虫AST原理与还原混淆实战 by 李岳阳、卓斌
-
-Android
-
-Robots.txt
+**Robots.txt**
 
 - [Robotstxt.org](https://www.robotstxt.org/)
 - [Introduction to robots.txt](https://developers.google.com/search/docs/crawling-indexing/robots/intro)
+
+**JavaScript Reverse Engineering & Deobfuscation**
+
+- 反爬虫AST原理与还原混淆实战 by 李岳阳、卓斌
+- JS Deobfuscation Tools
+	- [JavaScript Deobfuscator](https://deobfuscate.io/)
+	- [JSNice](http://jsnice.org/)
+- JS Formatting Tools
+	- Prettier
+	- ESLint
+
+**Android Reverse Engineering**
+
+--
+
 
 **Criminal Law**
 
