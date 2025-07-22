@@ -934,9 +934,34 @@ Reference [Web Frontend Resources - HTML & CSS](../directions/web-frontend-resou
 
 <br>
 
-Prime
+####  <img src="/assets/icon/programming-languages/Markdown.svg" width="20px"/>Markdown
 
-- <img src="/assets/icon/programming-languages/Markdown.svg" width="20px"/>Markdown
+Markdown Editors
+
+- [Typora](https://typora.io/)
+- [Obsidian](https://obsidian.md/)
+
+Libraries & Tools
+
+- JavaScript
+	- Parser
+		- [markdown-it](https://github.com/markdown-it/markdown-it). Markdown parser done right. Fast and easy to extend. [Lib]
+		- [marked](https://github.com/markedjs/marked). A markdown parser and compiler. Built for speed. [CLI, Lib]
+		- [showdown](https://github.com/showdownjs/showdown). A bidirectional Markdown to HTML to Markdown converter written in Javascript. [CLI, Lib]
+	- Extension
+		- [markmap](https://github.com/markmap/markmap). Visualize your Markdown as mindmaps. [CLI, Lib]
+		- [mermaid](https://github.com/mermaid-js/mermaid). Generate diagrams from markdown-like text. [Lib, Plugin]
+	- Editor
+		- [stackedit](https://github.com/benweet/stackedit). In-browser Markdown editor. [Lib]
+		- [tui.editor](https://github.com/nhn/tui.editor). Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible. [Lib]
+	- Component
+		- [mdx](https://github.com/mdx-js/mdx). Markdown for the component era
+		- [react-markdown](https://github.com/remarkjs/react-markdown). Markdown component for React. [Lib]
+		- [editor.md](https://github.com/pandao/editor.md). The open source embeddable online markdown editor (component). [Lib]
+- [markitdown](https://github.com/microsoft/markitdown). (Python) Python tool for converting files and office documents to Markdown. [CLI, Lib]
+- [pandoc](https://github.com/jgm/pandoc). (Haskell) Universal markup converter. [CLI]
+- [glow](https://github.com/charmbracelet/glow). (Go) Render markdown on the CLI. [CLI]
+- [mdBook](https://github.com/rust-lang/mdBook) (Rust). Create book from markdown files. Like Gitbook but implemented in Rust. [CLI]
 
 Some More
 
