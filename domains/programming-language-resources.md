@@ -940,6 +940,7 @@ Markdown Editors
 
 - [Typora](https://typora.io/)
 - [Obsidian](https://obsidian.md/)
+- [stackedit](https://github.com/benweet/stackedit). In-browser Markdown editor.
 
 Libraries & Tools
 
@@ -952,7 +953,6 @@ Libraries & Tools
 		- [markmap](https://github.com/markmap/markmap). Visualize your Markdown as mindmaps. [CLI, Lib]
 		- [mermaid](https://github.com/mermaid-js/mermaid). Generate diagrams from markdown-like text. [Lib, Plugin]
 	- Editor
-		- [stackedit](https://github.com/benweet/stackedit). In-browser Markdown editor. [Lib]
 		- [tui.editor](https://github.com/nhn/tui.editor). Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible. [Lib]
 		- [editor.md](https://github.com/pandao/editor.md). The open source embeddable online markdown editor (component). [Lib]
 	- Component

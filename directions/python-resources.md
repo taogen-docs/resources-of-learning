@@ -32,17 +32,19 @@
 - Think Python (2nd, 2016) by Allen B. Downey [4.12, 1655]
 - Python Tricks: A Buffet of Awesome Python Features (2017) by Dan Bader [4.43, 1088]
 - Python Pocket Reference: Python In Your Pocket (5th, 2014) by Mark Lutz [4.03, 731] 
-- Some more
-	- Learn Python 3 the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code by Zed Shaw [3.93, 585]
-	- Python Essential Reference by David M. Beazley [4.23, 477]
-	- A Byte of Python by Swaroop C.H. [LINK](https://python.swaroopch.com/) [4.07, 378]
-	- Introducing Python: Modern Computing in Simple Packages (2nd, 2019) by Bill Lubanovic [4.16, 324]
-	- Core Python Programming by R. Nageswara Rao [4.19, 306]
-	- Dive into Python 3 (2009) by Mark Pilgrim [3.84, 302]
-	- The Quick Python Book (3rd, 2018) by Naomi Ceder [3.88, 273]
-	- The Hitchhiker's Guide to Python: Best Practices for Development by Kenneth Reitz, Tanya Schlusser. [HTML](https://docs.python-guide.org/) [3.92, 209]
-	- Core Python Programming by Wesley J. Chun [3.82, 158]
-	- Python Basics: A Practical Introduction to Python 3 (2021) by David Amos, Dan Bader [4.07, 28]
+
+Some more
+
+- Learn Python 3 the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code by Zed Shaw [3.93, 585]
+- Python Essential Reference by David M. Beazley [4.23, 477]
+- A Byte of Python by Swaroop C.H. [LINK](https://python.swaroopch.com/) [4.07, 378]
+- Introducing Python: Modern Computing in Simple Packages (2nd, 2019) by Bill Lubanovic [4.16, 324]
+- Core Python Programming by R. Nageswara Rao [4.19, 306]
+- Dive into Python 3 (2009) by Mark Pilgrim [3.84, 302]
+- The Quick Python Book (3rd, 2018) by Naomi Ceder [3.88, 273]
+- The Hitchhiker's Guide to Python: Best Practices for Development by Kenneth Reitz, Tanya Schlusser. [HTML](https://docs.python-guide.org/) [3.92, 209]
+- Core Python Programming by Wesley J. Chun [3.82, 158]
+- Python Basics: A Practical Introduction to Python 3 (2021) by David Amos, Dan Bader [4.07, 28]
 
 Style Guide
 
