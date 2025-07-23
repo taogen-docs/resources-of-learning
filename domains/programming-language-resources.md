@@ -63,11 +63,28 @@ Refer to [Java Resources](../directions/java-resources.md)
   - [Learn X in Y minutes - Kotlin](https://learnxinyminutes.com/docs/kotlin/)
   - [Kotlin Tutorial - W3Schools](https://www.w3schools.com/kotlin/)
   - [Kotlin Tutorial - Tutorialspoint](https://www.tutorialspoint.com/kotlin/)
-- Kotlin in Action by Dmitry Jemerov and Svetlana Isakova
-- The Joy of Kotlin by Pierre Yves Saumont
+- Kotlin in Action (2nd, 2024) by Dmitry Jemerov and Svetlana Isakova [4.4, 592]
+- Head First Kotlin: A Brain-Friendly Guide (2019) by David Griffiths and Dawn Griffiths [4.28, 129]
+- Fundamental Kotlin by Miloš Vasić [4.23, 39]
+- Kotlin from Scratch: A Project-Based Introduction for the Intrepid Programmer (2025) by Faisal Islam
+- Kotlin Essentials (Kotlin for Developers) by Marcin Moskała
+
+Advanced
+
+- Java to Kotlin: A Refactoring Guidebook (2021) by Duncan McGregor [4.6, 33]
+- Kotlin Design Patterns and Best Practices: Elevate your Kotlin skills with classical and modern design patterns, coroutines, and microservices (3rd, 2024) by Alexey Soshin
+- Kotlin In-Depth: A Guide to a Multipurpose Programming Language for Server-Side, Front-End, Android, and Multiplatform Mobile (2022) by Aleksei Sedunov
+- Kotlin Cookbook: A Problem-Focused Approach (2019) by Ken Kousen [4.0, 23]
+- The Joy of Kotlin (2019) by Pierre Yves Saumont [3.72, 36]
+- Software Architecture with Kotlin: Combine various architectural styles to create sustainable and scalable software solutions (2024) by Jason (Tsz Shun) Chow
+- Functional Kotlin (Kotlin for Developers) by  Marcin Moskała
+- Kotlin Coroutines: Deep Dive (Kotlin for Developers) by Marcin Moskała
+- Advanced Kotlin (Kotlin for Developers) by Marcin Moskala
+- Effective Kotlin: Best Practices (Kotlin for Developers) by Marcin Moskala
+
+Kotlin for Android
+
 - Kotlin for Android Developers by Antonio Leiva
-- Head First Kotlin: A Brain-Friendly Guide by David Griffiths and Dawn Griffiths
-- Fundamental Kotlin by Miloš Vasić
 
 Directions
 
@@ -498,7 +515,7 @@ Directions
 - Thinking Functionally with Haskell by Richard S. Bird
 - Haskell: The Craft of Functional Programming by Simon Thompson
 
-Intermediate
+Advanced
 
 - Developing Web Apps with Haskell and Yesod: Safety-Driven Web Development (2nd, 2015) by Michael Snoyman [HTML](https://www.yesodweb.com/book)
 - Parallel and Concurrent Programming in Haskell: Techniques for Multicore and Multithreaded Programming by Simon Marlow
