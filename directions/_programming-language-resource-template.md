@@ -1,12 +1,13 @@
-# Xxx Resources
+# <img src="/assets/icon/programming-languages/Xxx.svg" width="24px"/> Xxx Resources
 
 **Content**
 
 - Xxx Fundamentals
-- Utility Libraries
+- Libraries
 - Data Access
-- Web Frameworks
-- Web Security
+- Web Development
+  - Web Frameworks
+  - Web Security
 - Microservices
 - Xxx Tools
 - Open-Source Projects
@@ -16,20 +17,20 @@
 
 Guidance & Roadmap
 
-Beginner
+### Beginner
 
 Style Guide
 
 Project Structure
 
-Advanced
+### Advanced
 
 Resources
 
 
-## Utility Libraries
+## Libraries
 
-### Basic Utilities
+### Basic
 
 General Purpose
 
@@ -43,7 +44,7 @@ Document Processing
 
 HTTP Client
 
-### More Utilities
+### More Libraries
 
 
 ## Data Access
@@ -66,8 +67,9 @@ MongoDB clients
 Elasticsearch clients
 
 
+## Web Development
 
-## Web Frameworks
+### Web Frameworks
 
 Full Stack
 
@@ -82,7 +84,7 @@ Others
 Management System Scaffolds
 
 
-## Web Security
+### Web Security
 
 
 ## Microservices
