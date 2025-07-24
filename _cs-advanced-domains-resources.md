@@ -1079,12 +1079,14 @@ Middleware - Database Cluster / Big Data
 - Python Automation Cookbook: 75 Python automation ideas for web scraping, data wrangling, and processing Excel, reports, emails, and more (2nd, 2020) by Jaime Buelta 
 - Mining the Social Web: Data Mining Facebook, Twitter, LinkedIn, Instagram, GitHub, and More (3rd, 2019) by Matthew A. Russell and Mikhail Klassen [3.73, 373]
 - Mining Social Media: Finding Stories in Internet Data (2019) by Lam Thuy Vo
-- Some more
-	- Getting Structured Data from the Internet: Running Web Crawlers/Scrapers on a Big Data Production Scale (2020) by Jay M. Patel 
-	- Practical Web Scraping for Data Science: Best Practices and Examples with Python (2018) by Seppe vanden Broucke and Bart Baesens 
-	- Python Web Scraping Cookbook: Over 90 proven recipes to get you scraping with Python, micro services, Docker and AWS (2018) by Michael Heydt
-	- Website Scraping with Python: Using BeautifulSoup and Scrapy (2018) by Gábor László Hajba
-	- Python 3网络爬虫开发实战 by 崔庆才
+
+Some more
+
+- Getting Structured Data from the Internet: Running Web Crawlers/Scrapers on a Big Data Production Scale (2020) by Jay M. Patel 
+- Practical Web Scraping for Data Science: Best Practices and Examples with Python (2018) by Seppe vanden Broucke and Bart Baesens 
+- Python Web Scraping Cookbook: Over 90 proven recipes to get you scraping with Python, micro services, Docker and AWS (2018) by Michael Heydt
+- Website Scraping with Python: Using BeautifulSoup and Scrapy (2018) by Gábor László Hajba
+- Python 3网络爬虫开发实战 by 崔庆才
 
 **Robots.txt**
 

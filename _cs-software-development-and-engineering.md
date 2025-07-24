@@ -796,19 +796,21 @@ Books
 - **Kubernetes in Action** (2nd, 2025) by Marko Luksa [4.59, 666]
 - Cloud Native DevOps with Kubernetes: Building, Deploying, and Scaling Modern Applications in the Cloud (2nd, 2022) by John Arundel, Justin Domingus [4.25, 225]
 - Kubernetes Patterns: Reusable Elements for Designing Cloud-Native Applications (2nd, 2023)  by Bilgin Ibryam, Roland Huß [4.30, 208]
-- Some more
-	- Kubernetes Best Practices: Blueprints for Building Successful Applications on Kubernetes (2nd, 2023) by Brendan Burns, Eddie Villalba, Dave Strebel, Lachlan Evenson [3.95, 80]
-	- Kubernetes Operators: Automating the Container Orchestration Platform (2020) by Jason Dobies, Joshua Wood [3.36, 72]
-	- Production Kubernetes: Building Successful Application Platforms (2021) by Josh Rosso, Rich Lander, Alex Brand, John Harris [4.43, 61]
-	- Managing Kubernetes: Operating Kubernetes Clusters in the Real World (2018) by Brendan Burns, Craig Tracey [3.95, 62]
-	- Mastering Kubernetes: Dive into Kubernetes and learn how to create and operate world-class cloud-native systems (4th, 2023) by Gigi Sayfan [3.52, 67]
-	- Programming Kubernetes: Developing Cloud-Native Applications (2019) by Michael Hausenblas, Stefan Schimanski [3.62, 55]
-	- Kubernetes Cookbook: Building Cloud Native Applications (2nd, 2023) by Sameer Naik, Sébastien Goasguen, Jonathan Michaux [3.56, 54]
-	- The Book of Kubernetes: A Complete Guide to Container Orchestration (2022) by Alan Hohn [4.34, 32]
-	- Kubernetes for Developers (2024) by William Denniss [4.4, 20]
-	- The Kubernetes Bible: The definitive guide to deploying and managing Kubernetes across cloud and on-prem environments (2nd, 2024) by Gineesh Madapparambath, Russ McKendrick
-	- [k8s 教程](https://github.com/guangzhengli/k8s-tutorials)
-	- [Kubernetes中文教程](https://github.com/chaseSpace/k8s-tutorial-cn)
+
+Some more
+
+- Kubernetes Best Practices: Blueprints for Building Successful Applications on Kubernetes (2nd, 2023) by Brendan Burns, Eddie Villalba, Dave Strebel, Lachlan Evenson [3.95, 80]
+- Kubernetes Operators: Automating the Container Orchestration Platform (2020) by Jason Dobies, Joshua Wood [3.36, 72]
+- Production Kubernetes: Building Successful Application Platforms (2021) by Josh Rosso, Rich Lander, Alex Brand, John Harris [4.43, 61]
+- Managing Kubernetes: Operating Kubernetes Clusters in the Real World (2018) by Brendan Burns, Craig Tracey [3.95, 62]
+- Mastering Kubernetes: Dive into Kubernetes and learn how to create and operate world-class cloud-native systems (4th, 2023) by Gigi Sayfan [3.52, 67]
+- Programming Kubernetes: Developing Cloud-Native Applications (2019) by Michael Hausenblas, Stefan Schimanski [3.62, 55]
+- Kubernetes Cookbook: Building Cloud Native Applications (2nd, 2023) by Sameer Naik, Sébastien Goasguen, Jonathan Michaux [3.56, 54]
+- The Book of Kubernetes: A Complete Guide to Container Orchestration (2022) by Alan Hohn [4.34, 32]
+- Kubernetes for Developers (2024) by William Denniss [4.4, 20]
+- The Kubernetes Bible: The definitive guide to deploying and managing Kubernetes across cloud and on-prem environments (2nd, 2024) by Gineesh Madapparambath, Russ McKendrick
+- [k8s 教程](https://github.com/guangzhengli/k8s-tutorials)
+- [Kubernetes中文教程](https://github.com/chaseSpace/k8s-tutorial-cn)
 
 Courses
 

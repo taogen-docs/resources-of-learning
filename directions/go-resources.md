@@ -38,12 +38,14 @@ Guidance & Roadmap
 - An Introduction to Programming in Go by Caleb Doxsey [HTML](https://www.golang-book.com/books/intro), [PDF](https://www.golang-book.com/public/pdf/gobook.pdf) [3.78, 353]
 - Go in Action by William Kennedy, Brian Ketelsen [3.83, 327]
 - Introducing Go: Build Reliable, Scalable Programs by Caleb Doxsey [3.71, 281]
-- Some more
-	- Go 101 [HTML](https://go101.org/)
-	- Head First Go (2019) by Jay McGavren [4.24, 128]
-	- Go in Practice (2nd, 2025) by Matt Butcher [3.87, 120]
-	- Go Programming Blueprints by Mat Ryer [3.90, 78]
-	- Go Programming - From Beginner to Professional: Learn everything you need to build modern software using Go (2nd, 2024) by Samantha Coyle
+
+Some more
+
+- Go 101 [HTML](https://go101.org/)
+- Head First Go (2019) by Jay McGavren [4.24, 128]
+- Go in Practice (2nd, 2025) by Matt Butcher [3.87, 120]
+- Go Programming Blueprints by Mat Ryer [3.90, 78]
+- Go Programming - From Beginner to Professional: Learn everything you need to build modern software using Go (2nd, 2024) by Samantha Coyle
 
 Style Guide
 

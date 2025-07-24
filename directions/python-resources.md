@@ -66,15 +66,17 @@ Dive into
 - **Fluent Python** (2nd, 2022) by Luciano Ramalho [4.62, 1716]
 - **Python Cookbook: Recipes for Mastering Python 3** by Brian K. Jones and David M. Beazley [4.17, 1018]
 - Python in a Nutshell (2nd, 2006) by Alex Martelli [3.89, 376]
-- Some more
-	- The Hacker's Guide to Python by Julien Danjou [4.09, 80]
-	- CPython Internals: Your Guide to the Python 3 Interpreter by Anthony Shaw [3.73, 44]
-	- Cython: A Guide for Python Programmers (2015) by Kurt W Smith [4.08, 49]
-	- Classic Computer Science Problems in Python (2019) by David Kopec [3.71, 90]
-	- Pro Python by Marty Alchin [3.86, 72]
-	- Expert Python Programming by Tarek Ziadé [3.49, 82]
-	- Python Distilled (2021) by David Beazley [4.36, 81]
-	- Python工匠 by 朱雷
+
+Some more
+
+- The Hacker's Guide to Python by Julien Danjou [4.09, 80]
+- CPython Internals: Your Guide to the Python 3 Interpreter by Anthony Shaw [3.73, 44]
+- Cython: A Guide for Python Programmers (2015) by Kurt W Smith [4.08, 49]
+- Classic Computer Science Problems in Python (2019) by David Kopec [3.71, 90]
+- Pro Python by Marty Alchin [3.86, 72]
+- Expert Python Programming by Tarek Ziadé [3.49, 82]
+- Python Distilled (2021) by David Beazley [4.36, 81]
+- Python工匠 by 朱雷
 
 Effective
 
