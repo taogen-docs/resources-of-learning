@@ -1,4 +1,4 @@
-# <img src="/assets/icon/programming-languages/PHP.svg" width="24px"/> PHP Resources
+# <img src="/assets/icon/programming-languages/Php.svg" width="24px"/> PHP Resources
 
 **Content**
 
