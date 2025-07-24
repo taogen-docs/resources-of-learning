@@ -973,7 +973,9 @@ Finding technology trends
 
 - **Stack Overflow** Developer Survey
 - The State of Developer Ecosystem Report (by **JetBrains**)
-- Search: top technology trends + software development/web development/Java development + in `<year>`
+- **Gartner** Top 10 Strategic Technology Trends
+- **McKinsey** Technology Trends Outlook
+- Search on Google or YouTube: top technology trends + software development/web development/Java development + `<year>` 
 - **Gartner** Hype Cycle (Twitter search from:[Mark O'Neill](https://twitter.com/TheMarkONeill/))
 	- for the Future of Applications
 	- for Emerging Tech
@@ -984,7 +986,7 @@ Finding technology trends
 	- [Global knowledge](https://www.globalknowledge.com/us-en/), [Simplilearn](https://www.simplilearn.com/), [NetCom Learning](https://www.netcomlearning.com/), [Learning Tree](https://www.learningtree.com/)
 	- 达内（2003）、传智播客（子品牌黑马程序员，2006）、尚硅谷（2013）、北大青鸟（1999）、尚学堂（2006）
 
-Uncategorized
+4\. Others
 
 - [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation). 中国程序员容易发音错误的单词
 
