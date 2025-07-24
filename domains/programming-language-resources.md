@@ -152,8 +152,6 @@ Android Studio
 - [Android Studio User Guide](https://developer.android.com/studio/intro)
 
 
-
-
 #### <img src="/assets/icon/programming-languages/Apple.svg" width="20px"/>Objective-C
 
 - Documentation
@@ -162,17 +160,43 @@ Android Studio
   - [Apple Developer Documentation - doc]( https://developer.apple.com/documentation )
 - Online Tutorials
   - [Learn X in Y minutes - Objective-C](https://learnxinyminutes.com/docs/objective-c/)
-- [iOS Example](https://iosexample.com/)
-- Programming in Objective-C by Stephen G. Kochan
-- Objective-C Programming: The Big Nerd Ranch Guide by Aaron Hillegass and Mikey Ward
-- Effective Objective-C 2.0: 52 Specific Ways to Improve Your IOS and OS X Programs by Matt Galloway
-- iOS Programming: The Big Nerd Ranch Guide by Aaron Hillegass and Joe Conway
-- Learning Cocoa with Objective-C: Developing for the Mac and IOS App Stores by Jon Manning and Paris Buttfield-Addison
-- Learn Objective-C on the Mac by Mark Dalrymple, Scott Knaster
+- **Programming in Objective-C** (2013) by Stephen G. Kochan [3.94, 513]
+- **Objective-C Programming: The Big Nerd Ranch Guide** (Big Nerd Ranch Guides) (2nd, 2013) by Aaron Hillegass, Mikey Ward [4.17, 658]
+- Effective Objective-C 2.0: 52 Specific Ways to Improve Your IOS and OS X Programs (2013) by Matt Galloway [4.55, 206]
+- Learn Objective-C on the Mac (2nd, 2012) by Mark Dalrymple, Scott Knaster [3.93, 133]
+- Ry's Objective-C Tutorial (2014) by Ryan Hodson
 
-Courses
+Some more
 
-- [CS193p - Developing Apps for iOS](https://cs193p.sites.stanford.edu/) by Stanford University
+- Pro Objective-C (2013) by Keith Lee [3.97, 33]
+- Pro Objective-C Design Patterns for iOS (2011) by Carlo Chung [3.97, 33]
+- Objective-C for Absolute Beginners: iPhone, iPad and Mac Programming Made Easy (2018) by Stefan Kaczmarek, Brad Lees [3.49, 47]
+- Objective-C Pocket Reference: A Guide to Language Fundamentals (2009) by Andrew M. Duncan [3.52, 52]
+- Learn Objective-C for Java Developers (2009) by James Bucanek [3.64, 22]
+- Objective-C Programming For Dummies (2012) by Neal Goldstein 
+- Objective-C Memory Management Essentials (2015) by Gibson Tang
+- Sams Teach Yourself Objective-C in 24 Hours (2014) by Jesse Feiler 
+- Objective-C Fundamentals (2011) by Collin Ruffenach, Johannes Fahrenkrug 
+- Advanced Programming in Objective-C (2014) by Stephen G. Kochan, Lee McKeeman
+
+Cocoa
+
+- [Cocoa Fundamentals Guide](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CocoaFundamentals/Introduction/Introduction.html)
+- Cocoa Design Patterns (2009) by Erik Buck and Donald Yacktman [4.01, 146]
+- Learning Cocoa with Objective-C: Developing for the Mac and IOS App Stores (4th, 2014) by Jon Manning and Paris Buttfield-Addison [3.43, 51]
+- Cocoa and Objective-C: Up and Running: Foundations of Mac, iPhone, and iPad Programming (2010) by Scott Stevenson [3.50, 40]
+- Ry's Cocoa Tutorial (2014) by Ryan Hodson
+- Cocoa Programming Developer's Handbook (2009) by David Chisnall
+- Nshipster: Obscure Topics in Cocoa & Objective C (2013) by Mattt Thompson 
+- Cocoa Programming: A Quick-Start Guide for Developers (2010) by Daniel H. Steinberg
+- Cocoa in a Nutshell: A Desktop Quick Reference (2010) by James Duncan Davidson and Michael Beam
+
+AppKit
+
+>AppKit is a framework within Cocoa.
+
+- [AppKit Documentation](https://developer.apple.com/documentation/appkit/)
+
 
 #### <img src="/assets/icon/programming-languages/Swift.svg" width="20px"/>Swift
 
@@ -181,10 +205,109 @@ Courses
 - Online Tutorials
   - [Learn X in Y minutes - Swift](https://learnxinyminutes.com/docs/swift/)
   - [Swift Tutorial - Tutorialspoint](https://www.tutorialspoint.com/swift/)
-- Swift in Depth by Tjeerd in 't Veen
-- IOS 12 Programming for Beginners: An Introductory Guide to IOS App Development with Swift 4.2 and Xcode 10 (3rd, 2018) by Craig Clayton
-- IOS 10 Programming Fundamentals with Swift: Swift, Xcode, and Cocoa Basics by Matt Neuburg
+  - [100 Days of Swift](https://www.hackingwithswift.com/100)
+  - [Hacking with Swift](https://www.hackingwithswift.com/)
+- **The Swift Programming Language** (2014) by Apple Inc. [4.15, 477]
+- **Swift Programming: The Big Nerd Ranch Guide** (Big Nerd Ranch Guides) (6th, 2020) by Mikey Ward [4.21, 214]
+- Swift in Depth (2018) by Tjeerd in 't Veen [4.58, 31]
 - Swift 5 for Absolute Beginners: Learn to Develop Apps for iOS by Stefan Kaczmarek, Brad Lees, Gary Bennett
+- Learning Swift: Building Apps for macOS, iOS, and Beyond (3rd, 2018) by Jonathon Manning
+- Swift Cookbook: Proven recipes for developing robust iOS applications with Swift 5.9 (3rd, 2024) by Keith Moon, Chris Barker, Daniel Bolella, Nathan Lawlor
+- Head First Swift: A Learner's Guide to Programming with Swift (2021) by Paris Buttfield-Addison, Jon Manning
+- Practical Artificial Intelligence with Swift: From Fundamental Theory to Development of AI-Driven Apps (2019) by Mars Geldard, Jonathon Manning, Paris Buttfield-Addison
+- Mastering Swift 6: Build high-performance applications with ease using the latest features of Swift 6.2 (7th, 2025) by Jon Hoffman
+- Mastering Swift 5.3: Upgrade your knowledge and become an expert in the latest version of the Swift programming language (6th, 2020) by Jon Hoffman
+- iOS 11 Swift Programming Cookbook: Solutions and Examples for iOS Apps (2017) by Vandad Nahavandipoor 
+- Swift Development with Cocoa: Developing for the Mac and iOS App Stores (2014) by Jonathon Manning , Paris Buttfield-Addison 
+
+SwiftUI
+
+- [SwiftUI Tutorials](https://developer.apple.com/tutorials/swiftui)
+- [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)
+- SwiftUI Cookbook: A guide for building beautiful and interactive SwiftUI apps (3rd, 2023) by Juan C. Catalan
+- SwiftUI for Masterminds: How to take advantage of Swift and SwiftUI to create insanely great apps for iPhones, iPads, and Macs (5th, 2024) by J.D Gauchat
+- Animating SwiftUI Applications: Create visually stunning and engaging animations for iOS with SwiftUI (2023) by Stephen DeStefano
+- Elevate SwiftUI Skills by Building Projects: Build four modern applications using Swift, Xcode 14, and SwiftUI for iPhone, iPad, Mac, and Apple Watch (2023) by Frahaan Hussain
+- An iOS Developer's Guide to SwiftUI: Design and build beautiful apps quickly and easily with minimum code (2024) by Michele Fadda
+
+UIKit
+
+- [UIKit Documentation](https://developer.apple.com/documentation/uikit). Construct and manage a graphical, event-driven user interface for your iOS, iPadOS, or tvOS app.
+- UIKit for Masterminds: How to take advantage of Swift and UIKit to create insanely great apps for iPhones, iPads, and Macs (2021) by J.D Gauchat
+
+#### iOS & iPad & macOS Programming
+
+General
+
+- Apple macOS and iOS System Administration: Integrating and Supporting iPhones, iPads, and MacBooks (2020) by Drew Smith
+- Head First iPhone and iPad Development: A Learner's Guide to Creating Objective-C Applications for the iPhone and iPad (2014) by Dan Pilone and Tracey Pilone [3.78, 120]
+- iOS and macOS Performance Tuning: Cocoa, Cocoa Touch, Objective-C, and Swift (2017) by Marcel Weiher 
+- Mac OS X and iOS Internals: To the Apple's Core (2012) by Jonathan Levin
+- Learn Xcode Tools for Mac OS X and iPhone Development (2009) by Ian Piper 
+- Pro Multithreading and Memory Management for iOS and OS X: with ARC, Grand Central Dispatch, and Blocks (2012) by Kazuki Sakamoto, Tomohiko Furumoto
+
+iOS Programming
+
+- **iPhone Programming** (2010) by Joe Conway, Aaron Hillegass [4.19, 947]
+- Building iPhone Apps with HTML, CSS, and JavaScript: Making App Store Apps Without Objective-C or Cocoa (2010) by Jonathan Stark [3.94, 180]
+- Head First iPhone Development 1st Edition, Kindle Edition (2011) by Dan Pilone, Tracey Pilone [3.8, 120]
+- **iOS Programming: The Big Nerd Ranch Guide** (7th, 2020) by Christian Keur [4.23, 107]
+- Pro iPhone Development with SwiftUI: Design and Manage Top-Quality Apps (4th, 2023) by Wallace Wang
+- Beginning iPhone Development with SwiftUI: Exploring the iOS SDK (7th, 2023) by Wallace Wang 
+- Pro Objective-C Design Patterns for iOS (2011) by Carlo Chung
+- [iOS Example](https://iosexample.com/)
+- Matt Neuburg 
+	- iOS 15 Programming Fundamentals with Swift: Swift, Xcode, and Cocoa Basics (2021) by Matt Neuburg
+	- Programming iOS 14: Dive Deep into Views, View Controllers, and Frameworks (2020) by Matt Neuburg 
+- iOS 18
+	- Mastering iOS 18 Development: Take your iOS development experience to the next level with iOS, Xcode, Swift, and SwiftUI (2024) by Avi Tsadok
+	- iOS 18 Programming for Beginners: Learn iOS development with Swift 6, Xcode 16, and iOS 18 - your path to App Store success (9th, 2024) by Ahmad Sahar
+	- Beginning iOS 18 Programming with Swift and UIKit: Learn UIKit and Swift by Building a Real World iOS App. Fully supports Xcode 16, Swift 6, and iOS 18 (2024) by Simon Ng
+- iOS 12
+	- IOS 12 Programming for Beginners: An Introductory Guide to IOS App Development with Swift 4.2 and Xcode 10 (3rd, 2018) by Craig Clayton
+	- Swift Programming in easy steps: Develop iOS apps - covers iOS 12 and Swift 5 (2019) by Darryl Bartlett
+- The Ultimate iOS Interview Playbook: Conquer Swift, frameworks, design patterns, and app architecture for your dream job (2023) by Avi Tsadok
+- iOS Development at Scale: App Architecture and Design Patterns for Mobile Engineers (2023) by Eric Vennaro
+- iOS Unit Testing by Example: XCTest Tips and Techniques Using Swift (2020) by Jon Reid [4.48, 42]
+
+iOS Courses
+
+- [CS193p - Developing Apps for iOS](https://cs193p.sites.stanford.edu/) by Stanford University
+- [Kodeco](https://www.kodeco.com/). Learn iOS, Android & Flutter.
+
+iOS Resources
+
+- [trip-to-iOS](https://github.com/Aufree/trip-to-iOS). iOS 学习资料整理
+
+Mac OS X Programming
+
+- Cocoa Programming for Mac OS X (3rd, 2008) by Aaron Hillegass [3.97, 574]
+- macOS Programming for Absolute Beginners: Developing Apps Using Swift and Xcode (2017) by Wallace Wang 
+- macOS App Development: The SwiftUI Way (2024) by Grace Huang
+- Interprocess Communication with macOS: Apple IPC Methods (2021) by Hem Dutt
+- Mastering macOS Programming: Hands-on guide to macOS Sierra Application Development (2017) by Stuart Grimshaw 
+- Exploring macOS: A Journey Through the Mac Ecosystem (2023) by Sagar Rastogi and Jasdeep Singh
+- The macOS User Administration Guide: A practical guide to implementing, managing, and optimizing macOS Big Sur features and tools (2021) by Herta Nava 
+- Mac OS X For Unix Geeks: Demistifying the Geekier Side of Mac OS X (2008) by Ernest E. Rothman , Brian Jepson
+- MAC OS X Internals: A Systems Approach (2006) by Amit Singh 
+
+Command Line & Terminal
+
+- The macOS Command Line and Terminal Handbook: A Comprehensive Guide to Zsh and Scripting for Beginners Through Advanced Users (2025) by John Curlee
+- Tweak Your Mac Terminal: Command Line macOS (2020) by Daniel Platt
+- Learning Unix for OS X: Going Deep With the Terminal and Shell (2nd, 2016) by Dave Taylor 
+- Macintosh Terminal Pocket Guide: Take Command of Your Mac (2012) by Daniel J. Barrett
+- The Mac OS X Command Line: Unix Under the Hood (2005) by Kirk McElhearn
+- The macOS Command Line and Terminal Handbook: A Comprehensive Guide to Zsh and Scripting for Beginners Through Advanced Users (2025) by John N Curlee
+
+AppleScript
+
+- Learn AppleScript: The Comprehensive Guide to Scripting and Automation on Mac OS X (3rd, 2010) by Hamish Sanderson , Hanaan Rosenthal
+- AppleScript: The Definitive Guide (2nd, 2006) by Matt Neuburg
+- Apple Training Series: AppleScript 1-2-3 (2009) by Sal Soghoian, Bill Cheeseman
+- AppleScript in a Nutshell: A Desktop Quick Reference (2001) by Bruce W. Perry
+
+Flutter
 
 #### <img src="/assets/icon/programming-languages/Delphi.svg" width="20px"/>Delphi
 
