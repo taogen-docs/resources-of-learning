@@ -1263,22 +1263,38 @@ Appium
 
 >Performance testing evaluates the software's performance under various conditions, such as high user loads or heavy data inputs. It helps identify bottlenecks, measure response times, and ensure the software can handle expected workloads.
 
-Apache JMeter
+>Load testing is a subset of performance testing. Performance testing encompasses a wider range of evaluations, while load testing specifically examines the system's capacity and behavior under defined user loads.
 
-- [Apache JMeter](https://jmeter.apache.org/)
-- Pro Apache JMeter: Web Application Performance Testing (2017) by Sai Matam and Jagdeep Jain
+**Apache JMeter**
+
+- [Apache JMeter](https://jmeter.apache.org/). A Java application designed to load test functional behavior and measure performance.
 - Master Apache JMeter - From Load Testing to DevOps: Master performance testing with JMeter (2019) by Antonio Gomes Rodrigues, Bruno Demion
-- Performance Testing with JMeter 3: Enhance the performance of your web application (2017) by Bayo Erinle 
-- JMeter Cookbook (2014) by Bayo Erinle 
-- Apache JMeter (2008) by Emily H. Halili
+- Pro Apache JMeter: Web Application Performance Testing (2017) by Sai Matam and Jagdeep Jain
+- Performance Testing with JMeter 3: Enhance the performance of your web application (3rd, 2017) by Bayo Erinle
 
 Some more
 
-- [Gatling](https://gatling.io/). Load testing designed for DevOps and CI/CD
-- [LoadRunner](https://www.opentext.com/products/professional-performance-engineering). A software testing tool from OpenText. It is used to test applications, measuring system behavior and performance under load.
-- [K6](https://k6.io/). Load testing for engineering teams
+- JMeter Cookbook (2014) by Bayo Erinle 
+- Apache JMeter (2008) by Emily H. Halili
+
+**Modern load testing tools**
+
+K6
+
+- [K6](https://k6.io/). Load testing for engineering teams. A modern load testing tool, using **Go** and **JavaScript**.
+
+Locust
+
+- [Locust](https://locust.io/). A modern load testing framework. Write scalable load tests in plain **Python**.
+
+Gatling
+
+- [Gatling](https://gatling.io/). Load testing designed for DevOps and CI/CD. Modern Load Testing as Code.
+
+**Other Tools**
+
+- [LoadRunner](https://www.opentext.com/products/professional-performance-engineering). A software testing tool from OpenText. It is used to test applications, measuring system behavior and performance under load. OpenText LoadRunner is not an open-source tool.
 - [Apache Benchmark (ab)](https://httpd.apache.org/docs/2.4/programs/ab.html). Apache HTTP server benchmarking tool
-- [Locust](https://locust.io/). A modern load testing framework
 
 
 <br>
