@@ -1245,7 +1245,8 @@ Ranking
 - [State of JavaScript](https://stateofjs.com/en-US)
 - [State of CSS](https://stateofcss.com/en-US)
 - [State of React](https://stateofreact.com/en-US)
-- [npm trends](https://npmtrends.com/)
+- [npm trends](https://npmtrends.com/). Compare package download counts over time.
+- [Pick the right UI Library](https://ui-libs.vercel.app/)
 
 Resources
 
