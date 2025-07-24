@@ -132,6 +132,10 @@
 
 <img src="../assets/images/memes/frontend-vs-backend.jpg" alt="frontend-vs-backend.jpg" width="600px" />
 
+### Thanks for inventing JavaScript
+
+![thanks-for-inventing-javascript.png](../assets/images/memes/thanks-for-inventing-javascript.png)
+
 ### node_modules
 
 <img src="../assets/images/memes/2gb-node-modules.jpg" alt="2gb-node-modules.jpg" width="600px" />
