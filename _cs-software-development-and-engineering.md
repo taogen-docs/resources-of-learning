@@ -542,7 +542,7 @@ Some more
 
 Microservices Security
 
-- Microservices Security in Action (2021) by Prabath Siriwardena and Nuwan Dias
+- Microservices Security in Action: Design secure network and API endpoint security for Microservices applications, with examples using Java, Kubernetes, and Istio (2021) by Prabath Siriwardena and Nuwan Dias
 
 ### Micro-Frontends
 

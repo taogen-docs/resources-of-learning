@@ -59,6 +59,31 @@ Reference [Web Backend - Java Resources](directions/java-resources.md)
 
 - CORS in Action: Creating and consuming cross-origin APIs (2014) by Monsur Hossain
 
+#### Authentication & Authorization
+
+>In essence, you can use OAuth 2.0 alone if you only need to authorize access to resources. However, if you need to verify the user's identity and enable SSO, you should use OIDC, which builds upon OAuth 2.0.
+
+OAuth 2
+
+>The industry-standard protocol for authorization.
+
+- OAuth 2 in Action (2017) by Justin Richer, Antonio Sanso [4.28, 176]
+- OAuth 2.0 Simplified (2018) by Aaron Parecki [4.02, 42]
+- OAuth 2.0: Getting Started in API Security (2014) by Matthias Biehl [3.82, 87]
+- Advanced API Security: OAuth 2.0 and Beyond (2019) by Prabath Siriwardena [3.90, 20]
+- Cloud Identity Patterns and Strategies: Design enterprise cloud identity models with OAuth 2.0 and Azure Active Directory (2022) by Giuseppe Di Federico, Fabrizio Barcaroli 
+
+OpenID Connect (OIDC)
+
+> An authentication protocol built on top of OAuth 2.0.
+
+- OpenID Connect in Action (2024) by Prabath Siriwardena
+
+OAuth 2 and OIDC
+
+- Solving Identity Management in Modern Applications: Demystifying OAuth 2, OpenID Connect, and SAML 2 (2nd, 2022) by Yvonne Wilson, Abhishek Hingnikar [3.76, 66]
+- Keycloak - Identity and Access Management for Modern Applications: Harness the power of Keycloak, OpenID Connect, and OAuth 2.0 to secure applications (2nd, 2023) by Stian Thorgersen and Pedro Igor Silva [3.90, 21]
+
 #### Web Application Security
 
 Web Application Security
@@ -67,13 +92,6 @@ Web Application Security
 - Bulletproof SSL and TLS: The Complete Guide to Deploying Secure Servers and Web Applications by Ivan Ristic
 - Web Application Security: Exploitation and Countermeasures for Modern Web Applications by Andrew Hoffman
 - [API Security Best Practices - Roadmap](https://roadmap.sh/best-practices/api-security)
-
-API Authorization
-
-- OAuth 2 in Action (2017) by Justin Richer, Antonio Sanso
-- OpenID Connect in Action (2024) by Prabath Siriwardena
-- OAuth 2.0 Simplified (2018) by Aaron Parecki
-- Solving Identity Management in Modern Applications: Demystifying OAuth 2, OpenID Connect, and SAML 2 (2nd, 2022) by Yvonne Wilson, Abhishek Hingnikar
 
 #### Web Servers
 
@@ -746,13 +764,13 @@ Some more
 - Apache Kafka documentation. [DOC](https://kafka.apache.org/)
 - Kafka: a Distributed Messaging System for Log Processing [PDF](https://notes.stephenholiday.com/Kafka.pdf)
 - [Kafka Books and Papers](https://kafka.apache.org/books-and-papers)
-- Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale (2017) by Neha Narkhede, Gwen Shapira, Todd Palino [4.2, 712]
-- I Heart Logs: Event Data, Stream Processing, and Data Integration by Jay Kreps [3.85, 384]
-- Kafka Streams in Action: Real-time apps and microservices with the Kafka Streams API (2018) by Bill Bejeck [4.05, 122]
-- Effective Kafka: A Hands-on Guide to Building Robust and Scalable Event-Driven Applications with Code Examples in Java by Emil Koutanov [4.40, 42]
-- Mastering Kafka Streams and ksqlDB: Building Real-Time Data Systems by Example (2021) by Mitch Seymour [4.16, 38]
-- Kafka in Action (2020) by Dylan Scott [3.74, 39]
+- **Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale** (2nd, 2021) by Neha Narkhede, Gwen Shapira, Todd Palino [4.2, 712]
+- I Heart Logs: Event Data, Stream Processing, and Data Integration (2014) by Jay Kreps [3.85, 384]
+- Effective Kafka: A Hands-on Guide to Building Robust and Scalable Event-Driven Applications with Code Examples in Java (2020) by Emil Koutanov [4.40, 42]
+- Kafka in Action (2022) by Dylan Scott [3.74, 39]
+- Apache Kafka in Action: From basics to production (2025) by Anatoly Zelenin, Alexander Kropp
 - Apache Kafka Quick Start Guide: Leverage Apache Kafka 2.0 to simplify real-time data processing for distributed applications (2018) by Raúl Estrada
+- Kafka Troubleshooting in Production: Stabilizing Kafka Clusters in the Cloud and On-premises (2023) by Elad Eldor
 
 Some more
 
@@ -760,6 +778,11 @@ Some more
 - Event Streams in Action: Real-time event systems with Kafka and Kinesis (2019) by Alexander Dean, Valentin Crettaz
 - Streaming Data: Understanding the real-time pipeline (2017) by Andrew Psaltis
 - Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing (2018) by Tyler Akidau, Slava Chernyak, Reuven Lax
+
+Apache Kafka Stream
+
+- Kafka Streams in Action: : Event-driven applications and microservices (2nd, 2024) by Bill Bejeck [4.05, 122]
+- Mastering Kafka Streams and ksqlDB: Building Real-Time Data Systems by Example (2021) by Mitch Seymour [4.16, 38]
 
 ### Apache ActiveMQ
 
@@ -909,6 +932,21 @@ Middleware - Database Cluster / Big Data
 - OLAP+OLTP
 	- [TiDB](https://pingcap.com/en/) 社区版（加 TiFlash，HTAP）
 	- [OceanBase](https://www.oceanbase.com/) 企业版
+
+Middleware - Authentication and Authorization
+
+Keycloak
+
+>- Single-Sign On: Login once to multiple applications.
+>- Standard Protocols: OpenID Connect, OAuth 2.0 and SAML 2.0.
+>- Centralized Management: For admins and users
+
+- [Keycloak Getting Started](https://www.keycloak.org/guides)
+- Keycloak - Identity and Access Management for Modern Applications: Harness the power of Keycloak, OpenID Connect, and OAuth 2.0 to secure applications (2nd, 2023) by Stian Thorgersen and Pedro Igor Silva
+
+Logto
+
+- [Logto](https://github.com/logto-io/logto). Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
 
 <br>
 

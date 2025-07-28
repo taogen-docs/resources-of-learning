@@ -669,6 +669,22 @@ Courses
 - [尚硅谷Java项目《谷粒商城》架构师级Java项目实战](https://www.bilibili.com/video/BV1np4y1C7Yf/)
 - [【狂神说Java】SpringCloud最新教程IDEA版](https://www.bilibili.com/video/BV1jJ411S7xr/)
 
+**Spring Boot versions and Spring Cloud versions**
+
+[Spring Boot 3.x](https://spring.io/projects/spring-boot#learn) (Java 17+)
+
+- [Spring Cloud 2025.0.x](https://spring.io/projects/spring-cloud#learn). It is compatible with Spring Boot 3.5.x.
+- Spring Cloud 2024.0.x. It is compatible with Spring Boot 3.4.x.
+- Spring Cloud 2023.0.x (Leyton). It is compatible with Spring Boot 3.2.x.
+- Spring Cloud 2022.0.x (Kilburn). It is compatible with Spring Boot 3.0.x or 3.1.x,
+
+[Spring Boot 2.x](https://spring.io/projects/spring-boot#learn)
+
+- Spring Cloud 2021.0.x (Jubilee). This release train is compatible with Spring Boot 2.6.x and 2.7.x (starting with Spring Cloud 2021.0.3).
+- Spring Cloud 2020.0.x (Ilford). This release train is compatible with Spring Boot 2.4.x and 2.5.x (starting with Spring Cloud 2020.0.3).
+- Spring Cloud Hoxton. This release train supports Spring Boot 2.2.x and 2.3.x (with Hoxton.SR5 adding support for Spring Boot 2.3.x). 
+- Spring Cloud Greenwich. This release train is compatible with Spring Boot 2.1.x.
+
 
 #### Spring Cloud Alibaba
 
