@@ -18,6 +18,7 @@
 - Part II: Infrastructures
   - <a name="dbms_c" href="#dbms_t">Database Systems and Data Storage</a>
   - <a name="inforetri_c" href="#inforetri_t">Information Retrieval and Search Engines</a>
+  - <a name="web_services_c" href="#web_services_t">Web Services</a>
   - <a name="rpc_c" href="#rpc_t">Remote Procedure Call (RPC)</a>
   - <a name="mq_c" href="#mq_t">Message Queues</a>
   - <a name="infosec_c" href="#infosec_t">Information Security</a>
@@ -622,7 +623,7 @@ Kibana
 - Kibana 7 Quick Start Guide: Visualize your Elasticsearch data with ease (2019) by Anurag Srivastava
 
 
-### Web Services
+<h2><a name="web_services_t" href="#web_services_c">Web Services</a></h2>
 
 Java RESTful and SOAP Web Services
 
