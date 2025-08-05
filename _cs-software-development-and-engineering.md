@@ -690,6 +690,12 @@ Self-Hosted CI/CD Tools
 - Bamboo: An Atlassian tool designed for larger teams and complex workflows, offering seamless integration with other Atlassian products like Bitbucket and Jira.
 - GitLab CI/CD: An integrated CI/CD tool within GitLab, providing a comprehensive suite for software development and delivery.
 
+CI/CD
+
+- CI/CD Design Patterns: Design and implement CI/CD using proven design patterns (2024) by Garima Bajpai , Michel Schildmeijer
+- Continuous Integration (CI) and Continuous Delivery (CD): A Practical Guide to Designing and Developing Pipelines (2023) by Henry van Merode
+- Automating DevOps with GitLab CI/CD Pipelines: Build efficient CI/CD pipelines to verify, secure, and deploy your code using real-life examples (2023) by Christopher Cowell , Nicholas Lotz
+
 <img src="/assets/icon/engineering/Jenkins.svg" width="24px"/>Jenkins
 
 - [Jenkins User Documentation](https://www.jenkins.io/doc/)
