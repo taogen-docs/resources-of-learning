@@ -622,6 +622,36 @@ Kibana
 - Kibana 7 Quick Start Guide: Visualize your Elasticsearch data with ease (2019) by Anurag Srivastava
 
 
+### Web Services
+
+Java RESTful and SOAP Web Services
+
+>Java API for RESTful Web Services (JAX-RS): It provides a declarative and intuitive way to build RESTful web services in Java by leveraging annotations to define resource behavior and manage interactions with HTTP requests and responses.
+
+>JAX-RS is nothing more than a specification, a set of interfaces and annotations offered by Java EE. And then, of course, we have the implementations; some of the more well known are RESTEasy and Jersey.
+
+>Java API for XML Web Services (JAX-WS): It is a Java programming API used for creating web services, particularly SOAP-based services. It is a key part of the Java Platform, Enterprise Edition (Java EE) and later Jakarta EE. 
+
+- [Java Web Services - Java EE Documentation](https://javaee.github.io/tutorial/partwebsvcs.html)
+- Java Web Services: Up and Running: A Quick, Practical, and Thorough Introduction (2nd, 2013) (1st, 2009) by Martin Kalin
+- Java Web Services: Using Java in Service-Oriented Architectures (2002) by David A. Chappell, Tyler Jewell 
+- Java and SOAP (2002) by Robert Englander
+- Building Web Services with Java: Making Sense of XML, SOAP, WSDL, and UDDI (2004) by Steve Graham, Doug Davis
+- Java Web Services in a Nutshell (2003) by Kim Topley
+- RESTful Java Web Services: A pragmatic guide to designing and building RESTful APIs using Java(3rd, 2017) by Bogunuva Mohanram Balachandar
+- Professional Java for Web Applications (2014) by Nicholas S. Williams 
+- Jakarta Application Development: Develop Enterprise applications using the latest versions of CDI, Jakarta RESTful Web Services, Jakarta JSON Binding, Jakarta Persistence, Security, and more (2nd, 2024) by David R. Heffelfinger
+- Building RESTful Web Services with Java EE 8: Create modern RESTful web services with the Java EE 8 API (2018) by Mario-Leander Reimer
+- Professional Java Web Services (2001) by Scott Cable, Ben Galbraith
+- Web Services Essentials (2002) by Ethan Cerami
+- Programming Web Services with SOAP: Building Distributed Applications (2009) by Doug Tidwell, James Snell
+
+JAX-RS
+
+- Pro RESTful APIs: Design, Build and Integrate with REST, JSON, XML and JAX-RS (2017) by Sanjay Patni
+- RESTful Java with JAX-RS 2.0: Designing and Developing Distributed Web Services (2013) by Bill Burke
+- Java EE 8 Application Development: Develop Enterprise applications using the latest versions of CDI, JAX-RS, JSON-B, JPA, Security, and more (2017) by David R. Heffelfinger
+
 <br>
 
 <h2><a name="rpc_t" href="#rpc_c">Remote Procedure Call (RPC)</a></h2>
@@ -650,6 +680,21 @@ Some more
 - [Apache Thrift Documentation](https://thrift.apache.org/docs/)
 - Learning Apache Thrift (2015) by Krzysztof Rakowski
 - Programmer's Guide to Apache Thrift (2019) by William Abernethy
+
+### Apache Dubbo
+
+>Dubbo是阿里巴巴开发的一个开源的高性能、高可用、可扩展的分布式RPC调用框架，致力于提供高性能和透明化的 RPC 远程调用服务解决方案。
+
+- [Apache Dubbo](https://dubbo.apache.org/en/) - A Cloud-Native Microservice Framework.
+- 深入理解Apache Dubbo与实战 by 诣极 / 林琳
+- 深度剖析Apache Dubbo核心技术内幕 by 翟陆续（加多）
+
+### Motan
+
+>一套高性能、易于使用的分布式远程服务调用(RPC)框架。
+
+- [weibocom/motan](https://github.com/weibocom/motan). A cross-language remote procedure call(RPC) framework for rapid development of high performance distributed services.
+- [Motan Wiki](https://github.com/weibocom/motan/wiki/zh_overview)
 
 ### Protobuf
 

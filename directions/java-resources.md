@@ -302,30 +302,61 @@ Java Persistence
 - High-Performance Java Persistence by Vlad Mihalcea
 - Pro JPA 2 in Java EE 8: An In-Depth Guide to Java Persistence APIs by Mike Keith
 
-<img src="/assets/icon/java/mybatis.png" width="24px"/>MyBatis
+### ORM Frameworks
+
+#### <img src="/assets/icon/java/Hibernate.svg" width="24px"/>Hibernate
+
+- Java Persistence with Spring Data and Hibernate (2023) by Catalin Tudose
+- Java Persistence with Hibernate: Revised Edition of Hibernate in Action (2015) by Christian Bauer
+- Just Hibernate: A Lightweight Introduction to the Hibernate Framework (2014) by Madhusudhan Konda 
+- High-Performance Java Persistence (2016) by Vlad Mihalcea
+- Beginning Hibernate 6: Java Persistence from Beginner to Pro (2021) by Joseph B. Ottinger, Jeff Linwood
+
+#### <img src="/assets/icon/java/mybatis.png" width="24px"/>MyBatis
 
 - [MyBatis Documentation](https://mybatis.org/mybatis-3/)
-- MyBatis Plus Documentation - [HTML](https://baomidou.com/guide/)
 - Java Persistence with MyBatis 3 (2013) by K. Siva Prasad Reddy
 - MyBatis从入门到精通 by 刘增辉
 - MyBatis技术内幕 (2017) by 徐郡明
 - MyBatis 3源码深度解析 (2019) by 江荣波
 
-<img src="/assets/icon/java/Hibernate.svg" width="24px"/>Hibernate
+#### MyBatis Plus
 
-- Java Persistence with Hibernate: Revised Edition of Hibernate in Action by Bauer, Christian
-- Just Hibernate: A Lightweight Introduction to the Hibernate Framework (2014) by Madhusudhan Konda 
+- [MyBatis Plus Documentation](https://baomidou.com/en/introduce/)
 
-Spring Data JPA
+#### Spring Data JPA
 
-- Spring Data JPA - Reference Documentation - [HTML](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#reference)
-- Spring Data: Modern Data Access for Enterprise Java by Mark Pollack, Oliver Gierke, Thomas Risberg
+>Spring Data JPA provides repository support for the Jakarta Persistence API (JPA). It eases development of applications with a consistent programming model that need to access JPA data sources.
+
+>JPA stands for Java Persistence API, a specification within the Jakarta EE platform that provides a standardized way to manage relational data in Java applications. It simplifies data persistence by offering an object-relational mapping (ORM) model, allowing developers to interact with databases using Java objects rather than writing raw SQL queries. JPA is part of the EJB 3.0 specification and is used for various Java applications, including enterprise, web, and desktop applications.
+
+- Spring Data JPA - Reference Documentation - [HTML](https://docs.spring.io/spring-data/jpa/reference/#reference)
+- Spring Data: Modern Data Access for Enterprise Java (2021) by Mark Pollack, Oliver Gierke, Thomas Risberg
+- Spring Boot Persistence Best Practices: Optimize Java Persistence Performance in Spring Boot Applications (2020) by Anghel Leonard 
+- Beginning Spring Data: Data Access and Persistence for Spring Framework 6 and Boot 3 (2022) by Andres Sacco
+- Spring Data (2012) by Petri Kainulainen
 - Understanding JPA 2.2: Java Persistence API by Antonio Goncalves
 - Java Persistence with Spring Data and Hibernate (2023) by Catalin Tudose
 
-JOOQ
+#### jOOQ
 
-DOMA
+>The best way to write SQL in Java
+
+- [jOOQ](https://www.jooq.org/)
+- jOOQ Masterclass: A practical guide for Java developers to write SQL queries for complex database interactions (2022) by Anghel Leonard and Lukas Eder
+- Beginning jOOQ: Learn to Write Efficient and Effective Java-Based SQL Database Operations (2021) by Tayo Koleoso
+
+#### More ORM Frameworks
+
+**EclipseLink**
+
+>Comprehensive open-source Java persistence solution addressing relational, XML, and database web services.
+
+- [EclipseLink](https://eclipse.dev/eclipselink/)
+
+**DOMA**
+
+- [Doma](https://docs.domaframework.org/en/latest/)
 
 ### Java Web
 
@@ -452,44 +483,63 @@ Spring Boot 2.x
 - mybatis-spring-boot-starter v2.x
 - mybatis-plus-boot-starter
 
-#### Dropwizard
-
->Dropwizard is a Java framework for developing RESTful web services. It combines several existing libraries and frameworks into a coherent package with a focus on simplicity, performance, and production readiness. Dropwizard is particularly well-suited for building microservices and is favored for its opinionated approach to the development lifecycle, emphasizing rapid development and deployment.
-
-- [Dropwizard](https://www.dropwizard.io/en/stable/index.html). A Java framework for developing ops-friendly, high-performance, RESTful web services.
-- [Dropwizard - Getting Started](https://www.dropwizard.io/en/stable/getting-started.html)
-
 #### Quarkus
 
 >Quarkus is a Kubernetes-native, Java-based framework designed specifically for building cloud-native applications. Developed by Red Hat, Quarkus emphasizes developer productivity and minimal resource usage, making it ideal for microservices architecture and serverless computing.
 
+>Quarkus leverages Vert.x's reactive capabilities under the hood, using a managed Vert.x instance to handle I/O operations and enable reactive programming.
+
 - [Quarkus](https://quarkus.io/). A Kubernetes Native Java stack tailored for OpenJDK HotSpot and GraalVM, crafted from the best of breed Java libraries and standards.
 - [Quarkus - Get Started](https://quarkus.io/get-started/)
 - [Quarkus - Guides](https://quarkus.io/guides/)
+- Quarkus in Action (2025) by Martin Štefanko and Jan Martiška
+- Reactive Systems in Java: Resilient, Event-Driven Architecture with Quarkus (2021) by Clement Escoffier and Ken Finnigan
+- Designing Hexagonal Architecture with Java: Build maintainable and long-lasting applications with Java and Quarkus (2023) by Davi Vieira
+- Quarkus Cookbook: Kubernetes-Optimized Java Solutions (2020) by Alex Soto Bueno and Jason Porter 
+- Full Stack Quarkus and React: Hands-on full stack web development with Java, React, and Kubernetes (2022) by Marc Nuri San Felix and Alex Soto Bueno
+- Kubernetes Native Microservices with Quarkus and MicroProfile (2022) by John Clingan and Ken Finnigan
+- Beginning Quarkus Framework: Build Cloud-Native Enterprise Java Applications and Microservices (2020) by Tayo Koleoso
+- Pro Java Microservices with Quarkus and Kubernetes: A Hands-on Guide (2021) by Nebrass Lamouchi 
+- Hands-On Cloud-Native Applications with Java and Quarkus: Build high performance, Kubernetes-native Java serverless applications (2019) by Francesco Marchioni and Mark Little
 
-#### Micronaut
+
+#### More Web Frameworks
+
+**Vert.x**
+
+>Vert.x is a toolkit for building reactive applications on the Java Virtual Machine (JVM). It provides a polyglot framework that supports a wide range of programming languages (including Java, Kotlin, Groovy, JavaScript, and Ruby) and is designed for high performance and scalability, making it suitable for modern cloud-native applications, microservices, and event-driven architectures.
+
+- [Vert.x](https://vertx.io/). Reactive applications on the JVM.
+- [Vert.x Documentation](https://vertx.io/docs/)
+- Vert.x in Action: Asynchronous and Reactive Java (2020) by Julien Ponge
+
+**Micronaut**
 
 >Micronaut is a modern, JVM-based framework designed for building microservices and serverless applications. It was developed by Object Computing, Inc. and is known for its lightweight architecture, efficient dependency injection, and rapid startup times. Micronaut is particularly well-suited for cloud-native development, providing developers with the tools needed to create highly performant applications.
 
 - [Micronaut](https://micronaut.io/). A modern, JVM-based, full-stack framework for building modular, easily testable microservice and serverless applications.
 - [Micronaut Documentation](https://micronaut.io/learn/)
 
-#### Vert.x
 
->Vert.x is a toolkit for building reactive applications on the Java Virtual Machine (JVM). It provides a polyglot framework that supports a wide range of programming languages (including Java, Kotlin, Groovy, JavaScript, and Ruby) and is designed for high performance and scalability, making it suitable for modern cloud-native applications, microservices, and event-driven architectures.
+**Dropwizard**
 
-- [Vert.x](https://vertx.io/). Reactive applications on the JVM.
-- [Vert.x Documentation](https://vertx.io/docs/)
+>Dropwizard is a Java framework for developing RESTful web services. It combines several existing libraries and frameworks into a coherent package with a focus on simplicity, performance, and production readiness. Dropwizard is particularly well-suited for building microservices and is favored for its opinionated approach to the development lifecycle, emphasizing rapid development and deployment.
+
+- [Dropwizard](https://www.dropwizard.io/en/stable/index.html). A Java framework for developing ops-friendly, high-performance, RESTful web services.
+- [Dropwizard - Getting Started](https://www.dropwizard.io/en/stable/getting-started.html)
+- RESTful Web Services with Dropwizard (2014) by Alexandros Dallas
+
+
 
 ### Web Services
 
 #### Microservices
 
-> Microservices are more than writing the code.
->
-> Microservices are more than the business logic. You need to think about the environment where you’ll run the services and how the services will scale and be resilient.
->
+> Microservices are more than writing the code. Microservices are more than the business logic. You need to think about the environment where you’ll run the services and how the services will scale and be resilient.
+
 > Microservices are nothing but an extension of RESTful web services with the main objective being to break up your code into small, distributed, and independent services for better management.
+
+> 微服务到底要拆分到多大的粒度没有统一的标准，更多的时候是需要在粒度和团队之间找平衡的，微服务的粒度越小，服务独立性带来的好处就越多，但是管理大量的微服务也会越复杂。
 
 <details>
     <summary>理解微服务 Click to expand!</summary>
@@ -515,6 +565,12 @@ Spring Boot 2.x
 微服务 1.0：仅使用注册发现，基于 Spring Cloud 或者 Dubbo 进行开发。  
 微服务 2.0：使用了熔断、限流、降级等服务治理策略，并配备完整服务工具和平台。  
 微服务 3.0：Service Mesh 将服务治理作为通用组件，下沉到平台层实现，应用层仅仅关注业务逻辑，平台层可以根据业务监控自动调度和参数调整，实现 AIOps 和智能调度。
+
+SOA和微服务的区别
+
+- SOA关注的是服务的重用性及解决信息孤岛问题。
+- 微服务关注的是解耦，虽然解耦和可重用性从特定的角度来看是一样的，但本质上是有区别的，解耦是降低业务之间的耦合度，而重用性关注的是服务的复用。
+- 微服务会更多地关注在DevOps的持续交付上，因为服务粒度细化之后使得开发运维变得更加重要，因此微服务与容器化技术的结合更加紧密。
 
 2. 为什么要用微服务
 
@@ -547,6 +603,25 @@ Spring Boot 2.x
 不要迷信微服务，现在 Java 的性能不弱，而且做水平扩展和负载均衡，跟微服务也无关。而且单体服务的性能一定是要强于微服务的，方法调用和远程调用哪个更快？
 微服务的诞生和敏捷开发的模式有很强的相关性，各个团队的服务在开发层面互不干扰，至少不会天天去解冲突。但如果就你们一波人在做，核心业务也只有一个，那完全没必要为了微服务而微服务。
 
+不管是单体架构还是微服务架构，本质上都是为了更好地支撑业务的发展，就像建房子，2层楼和20层楼都是用来住人的，唯一的区别是建2层楼所需要的技术和建20层楼所需要的技术不一样，后者需要的技术更加复杂。
+
+3. 微服务的优缺点
+
+微服务的好处
+
+- 复杂度可控：通过对共享业务服务更细粒度的拆分，一个服务只需要关注一个特定的业务领域，并通过定义良好的接口清晰表述服务边界。由于体积小、复杂度低，开发、维护会更加简单。
+- 技术选型更灵活：每个微服务都由不同的团队来维护，所以可以结合业务特性自由选择技术栈。
+- 可扩展性更强：可以根据每个微服务的性能要求和业务特点来对服务进行灵活扩展，比如通过增加单个服务的集群规模，提升部署了该服务的节点的硬件配置。
+- 独立部署：由于每个微服务都是一个独立运行的进程，所以可以实现独立部署。当某个微服务发生变更时不需要重新编译部署整个应用，并且单个微服务的代码量比较小，使得发布更加高效。
+- 容错性：在微服务架构中，如果某一个服务发生故障，我们可以使故障隔离在单个服务中。其他服务可以通过重试、降级等机制来实现应用层面的容错。
+
+微服务架构面临的挑战
+
+- 故障排查：一次请求可能会经历多个不同的微服务的多次交互，交互的链路可能会比较长，每个微服务会产生自己的日志，在这种情况下如果出现一个故障，开发人员定位问题的根源会比较困难。
+- 服务监控：在一个单体架构中很容易实现服务的监控，因为所有的功能都在一个服务中。在微服务架构中，服务监控开销会非常大，可以想象一下，在几百个微服务组成的架构中，我们不仅要对整个链路进行监控，还需要对每一个微服务都实现一套类似单体架构的监控。
+- 分布式架构的复杂性：微服务本身构建的是一个分布式系统，分布式系统涉及服务之间的远程通信，而网络通信中网络的延迟和网络故障是无法避免的，从而增加了应用程序的复杂度。
+- 服务依赖：微服务数量增加之后，各个服务之间会存在更多的依赖关系，使得系统整体更为复杂。假设你在完成一个案例，需要修改服务A、B、C，而A依赖B，B依赖C。在单体式应用中，你只需要改变相关模块，整合变化，再部署就好了。对比之下，微服务架构模式就需要考虑相关改变对不同服务的影响。比如，你需要更新服务C，然后是B，最后才是A，幸运的是，许多改变一般只影响一个服务，需要协调多服务的改变很少。
+- 运维成本：在微服务中，需要保证几百个微服务的正常运行，对于运维的挑战是巨大的。比如单个服务流量激增时如何快速扩容、服务拆分之后导致故障点增多如何处理、如何快速部署和统一管理众多的服务等。
 
 </details>
 
@@ -572,6 +647,10 @@ Some more
 - Java Web Services: Up and Running by Martin Kalin
 - Restful Java with Jax-RS by Bill Burke
 - Restlet in Action: Developing RESTful web APIs in Java by Jerome Louvel, Thierry Templier, Thierry Boileau
+
+Microservices Architecture
+
+![微服务架构](../assets/images/微服务架构图.jpeg)
 
 #### Java Microservices
 
@@ -652,7 +731,6 @@ Courses
 	- Spring Cloud微服务实战 (2017) by 翟永超
 	- Spring Cloud：微服务和分布式系统实践 (2020) by 杨开振
 	- Spring Cloud微服务：入门、实战与进阶 (2019) by 尹吉欢
-	- Spring Cloud Alibaba微服务开发零基础入门到实操 (2024) by 孙卫琴 
 	- Spring Cloud源码精讲 (2025) by 王涛
 	- 从零开始学Spring Cloud微服务架构 (2024) by 章为忠
 	- Spring Cloud 开发从入门到实战 (2020) by 王勇
@@ -693,18 +771,17 @@ Courses
 >Core components: Alibaba Nacos, Alibaba Sentinel, Apache Seata, RocketMQ
 
 - [Spring Cloud Alibaba](https://sca.aliyun.com/en/). (Latest version: 2023.0.x)
-- Spring Cloud Alibaba与Kubernetes微服务容器化实践 (2022) by 曹宇、王宇翔、胡书敏
-- Spring Cloud Alibaba微服务实战 (2021) by 周仲清
-- Spring Cloud Alibaba大型微服务架构项目实战 (2024) by 十三
-- Spring Cloud Alibaba微服务原理与实战 (2020) by 谭锋
+- **Spring Cloud Alibaba微服务原理与实战** (2020) by 谭锋, 电子工业出版社。作者简介：咕泡学院联合创始人，<ins>12年Java开发及架构经验</ins>，主要关注微服务、高并发及容器化等技术领域，纯粹的技术爱好者。曾就职于平安支付，在挖财担任业务架构师。
+- Spring Cloud Alibaba大型微服务架构项目实战 (2024) by 十三, 电子工业出版社。作者简介：<ins>畅销书作者、企业技术主管、CSDN博客专家、视频讲师</ins>。历任高级开发工程师、产品线后端负责人、技术部门主管等职位。熟练使用Java、SQL、Spring Boot、Vue等计算机语言和开发框架，有非常丰富的开发经验，同时也是开源项目的爱好者和贡献者。
+- Spring Cloud Alibaba微服务开发零基础入门到实操 (2024) by 孙卫琴, 清华大学出版社。作者简介：知名<ins>IT作家</ins>和Java开发专家。
+- Spring Cloud Alibaba微服务实战 (2021) by 周仲清, 北京大学出版。作者简介：7年的老程序员，先后担任过技术组长，<ins>技术专家</ins>。负责公司基础架构建设，业务代码编写，服务部署架构，解决线上问题。喜欢拧螺丝，也喜爱源码内部的设计哲理，喜欢进步所带来的成就感。
+- Spring Cloud Alibaba微服务架构设计与开发实战 (2024) by 郑天民, 机械工业出版社。作者简介：<ins>15年软件行业从业经验</ins>，主持过多个大型项目的架构设计和技术管理工作，同时负责多个面向研发人员的技术和管理类培训课程。
+- //Spring Cloud Alibaba核心技术与实战案例 (2023) by 高洪岩, 北京大学出版社。作者简介：微软中国<ins>项目经理</ins>，有10年Java开发和项目管理经验。
+- //Spring Cloud Alibaba微服务架构实战派 (2022) by 胡弦, 电子工业出版社。作者简介：<ins>10年的IT老兵</ins>，曾就职于网易、连连支付等企业。从Java工程师开始，一路“打怪升级”成为“独角兽”公司的高级技术专家、资深架构师和技术负责人，是一名技术狂热爱好者。
 
-#### Apache Dubbo
+Spring Cloud Alibaba 与 Kubernetes
 
->Dubbo是阿里巴巴开发的一个开源的高性能、高可用、可扩展的分布式RPC调用框架，致力于提供高性能和透明化的 RPC 远程调用服务解决方案。
-
-- [Apache Dubbo](https://dubbo.apache.org/en/) - A Cloud-Native Microservice Framework.
-- 深入理解Apache Dubbo与实战 by 诣极 / 林琳
-- 深度剖析Apache Dubbo核心技术内幕 by 翟陆续（加多）
+- Spring Cloud Alibaba与Kubernetes微服务容器化实践 (2022) by 曹宇、王宇翔、胡书敏, 清华大学出版社
 
 #### Apache ZooKeeper
 
