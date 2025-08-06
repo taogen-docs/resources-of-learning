@@ -407,6 +407,10 @@ Java EE
 
 IoC/DI
 
+>IoC（控制反转）实际上就是把对象的生命周期托管到Spring容器中，而反转是指对象的获取方式被反转了。
+
+>DI（Dependency Inject），也就是依赖注入，简单理解就是IoC容器在运行期间，动态地把某种依赖关系注入组件中。
+
 - [Inversion of control - Wikipedia](https://en.wikipedia.org/wiki/Inversion_of_control)
 - [The Dependency Inversion Principle - Robert C. Martin](https://web.archive.org/web/20041221102842/http://www.objectmentor.com/resources/articles/dip.pdf)
 - [Inversion of Control Containers and the Dependency Injection pattern - Martin Fowler](https://martinfowler.com/articles/injection.html)
@@ -461,6 +465,8 @@ AOP
 
 > Spring Boot removes the friction and boilerplate code involved with developing a REST-based service.
 
+> Convention over Configuration (CoC) is a core principle in Spring Boot that aims to simplify development by providing sensible defaults and reducing the need for explicit configuration.
+
 - [Spring Boot Current Documentation - doc](https://docs.spring.io/spring-boot/docs/current/reference/html/)
 - Spring Boot in Action by Craig Walls
 - Spring Boot: Up and Running: Building Cloud Native Java and Kotlin Applications by Mark Heckler
@@ -490,6 +496,7 @@ Spring Boot 2.x
 >Quarkus leverages Vert.x's reactive capabilities under the hood, using a managed Vert.x instance to handle I/O operations and enable reactive programming.
 
 - [Quarkus](https://quarkus.io/). A Kubernetes Native Java stack tailored for OpenJDK HotSpot and GraalVM, crafted from the best of breed Java libraries and standards.
+- [Container First](https://quarkus.io/container-first/). Quarkus applications are optimised for low memory usage and fast startup times.
 - [Quarkus - Get Started](https://quarkus.io/get-started/)
 - [Quarkus - Guides](https://quarkus.io/guides/)
 - Quarkus in Action (2025) by Martin Štefanko and Jan Martiška
@@ -749,20 +756,16 @@ Courses
 
 **Spring Boot versions and Spring Cloud versions**
 
-[Spring Boot 3.x](https://spring.io/projects/spring-boot#learn) (Java 17+)
-
-- [Spring Cloud 2025.0.x](https://spring.io/projects/spring-cloud#learn). It is compatible with Spring Boot 3.5.x.
-- Spring Cloud 2024.0.x. It is compatible with Spring Boot 3.4.x.
-- Spring Cloud 2023.0.x (Leyton). It is compatible with Spring Boot 3.2.x.
-- Spring Cloud 2022.0.x (Kilburn). It is compatible with Spring Boot 3.0.x or 3.1.x,
-
-[Spring Boot 2.x](https://spring.io/projects/spring-boot#learn)
-
-- Spring Cloud 2021.0.x (Jubilee). This release train is compatible with Spring Boot 2.6.x and 2.7.x (starting with Spring Cloud 2021.0.3).
-- Spring Cloud 2020.0.x (Ilford). This release train is compatible with Spring Boot 2.4.x and 2.5.x (starting with Spring Cloud 2020.0.3).
-- Spring Cloud Hoxton. This release train supports Spring Boot 2.2.x and 2.3.x (with Hoxton.SR5 adding support for Spring Boot 2.3.x). 
-- Spring Cloud Greenwich. This release train is compatible with Spring Boot 2.1.x.
-
+| Spring Cloud Version                                      | Spring Boot Version                                   | Java Version |
+| --------------------------------------------------------- |-------------------------------------------------------| ------------ |
+| [2025.0.x](https://spring.io/projects/spring-cloud#learn) | [3.5.x](https://spring.io/projects/spring-boot#learn) | Java 17+     |
+| 2024.0.x                                                  | 3.4.x                                                 | Java 17+     |
+| 2023.0.x (Leyton)                                         | 3.2.x                                                 | Java 17+     |
+| 2022.0.x (Kilburn)                                        | 3.0.x or 3.1.x                                        | Java 17+     |
+| 2021.0.x (Jubilee)                                        | 2.6.x or 2.7.x                                        | Java 8~21    |
+| 2020.0.x (Ilford)                                         | 2.4.x or 2.5.x                                        | Java 8~21    |
+| Hoxton                                                    | 2.2.x or 2.3.x                                        | Java 8~21    |
+| Greenwich                                                 | 2.1.x                                                 | Java 8~21    |
 
 #### Spring Cloud Alibaba
 
@@ -771,17 +774,57 @@ Courses
 >Core components: Alibaba Nacos, Alibaba Sentinel, Apache Seata, RocketMQ
 
 - [Spring Cloud Alibaba](https://sca.aliyun.com/en/). (Latest version: 2023.0.x)
-- **Spring Cloud Alibaba微服务原理与实战** (2020) by 谭锋, 电子工业出版社。作者简介：咕泡学院联合创始人，<ins>12年Java开发及架构经验</ins>，主要关注微服务、高并发及容器化等技术领域，纯粹的技术爱好者。曾就职于平安支付，在挖财担任业务架构师。
-- Spring Cloud Alibaba大型微服务架构项目实战 (2024) by 十三, 电子工业出版社。作者简介：<ins>畅销书作者、企业技术主管、CSDN博客专家、视频讲师</ins>。历任高级开发工程师、产品线后端负责人、技术部门主管等职位。熟练使用Java、SQL、Spring Boot、Vue等计算机语言和开发框架，有非常丰富的开发经验，同时也是开源项目的爱好者和贡献者。
-- Spring Cloud Alibaba微服务开发零基础入门到实操 (2024) by 孙卫琴, 清华大学出版社。作者简介：知名<ins>IT作家</ins>和Java开发专家。
-- Spring Cloud Alibaba微服务实战 (2021) by 周仲清, 北京大学出版。作者简介：7年的老程序员，先后担任过技术组长，<ins>技术专家</ins>。负责公司基础架构建设，业务代码编写，服务部署架构，解决线上问题。喜欢拧螺丝，也喜爱源码内部的设计哲理，喜欢进步所带来的成就感。
-- Spring Cloud Alibaba微服务架构设计与开发实战 (2024) by 郑天民, 机械工业出版社。作者简介：<ins>15年软件行业从业经验</ins>，主持过多个大型项目的架构设计和技术管理工作，同时负责多个面向研发人员的技术和管理类培训课程。
-- //Spring Cloud Alibaba核心技术与实战案例 (2023) by 高洪岩, 北京大学出版社。作者简介：微软中国<ins>项目经理</ins>，有10年Java开发和项目管理经验。
-- //Spring Cloud Alibaba微服务架构实战派 (2022) by 胡弦, 电子工业出版社。作者简介：<ins>10年的IT老兵</ins>，曾就职于网易、连连支付等企业。从Java工程师开始，一路“打怪升级”成为“独角兽”公司的高级技术专家、资深架构师和技术负责人，是一名技术狂热爱好者。
+- [Spring Cloud Alibaba 2023.x 文档](https://sca.aliyun.com/docs/2023/overview/what-is-sca/)
+- Spring Cloud Alibaba Reference Documentation 2021.x [EN](https://spring-cloud-alibaba-group.github.io/github-pages/2021/en-us/index.html), [ZH](https://spring-cloud-alibaba-group.github.io/github-pages/2021/zh-cn/index.html)
+- **Spring Cloud Alibaba微服务原理与实战** (2020) by 谭锋, 电子工业出版社。作者简介：咕泡学院联合创始人，**12年Java开发及架构经验**，主要关注微服务、高并发及容器化等技术领域，纯粹的技术爱好者。曾就职于平安支付，在挖财担任业务架构师。
+- Spring Cloud Alibaba大型微服务架构项目实战 (2024) by 十三, 电子工业出版社。作者简介：**畅销书作者、企业技术主管、CSDN博客专家、视频讲师**。历任高级开发工程师、产品线后端负责人、技术部门主管等职位。熟练使用Java、SQL、Spring Boot、Vue等计算机语言和开发框架，有非常丰富的开发经验，同时也是开源项目的爱好者和贡献者。
+- Spring Cloud Alibaba微服务开发零基础入门到实操 (2024) by 孙卫琴, 清华大学出版社。作者简介：知名**IT作家**和Java开发专家。
+- Spring Cloud Alibaba微服务实战 (2021) by 周仲清, 北京大学出版。作者简介：**7年的老程序员**，先后担任过技术组长，技术专家。负责公司基础架构建设，业务代码编写，服务部署架构，解决线上问题。喜欢拧螺丝，也喜爱源码内部的设计哲理，喜欢进步所带来的成就感。
+- Spring Cloud Alibaba微服务架构设计与开发实战 (2024) by 郑天民, 机械工业出版社。作者简介：**15年软件行业从业经验**，主持过多个大型项目的架构设计和技术管理工作，同时负责多个面向研发人员的技术和管理类培训课程。
+- //Spring Cloud Alibaba核心技术与实战案例 (2023) by 高洪岩, 北京大学出版社。作者简介：微软中国**项目经理**，有10年Java开发和项目管理经验。
+- //Spring Cloud Alibaba微服务架构实战派 (2022) by 胡弦, 电子工业出版社。作者简介：**10年的IT老兵**，曾就职于网易、连连支付等企业。从Java工程师开始，一路“打怪升级”成为“独角兽”公司的高级技术专家、资深架构师和技术负责人，是一名技术狂热爱好者。
 
 Spring Cloud Alibaba 与 Kubernetes
 
 - Spring Cloud Alibaba与Kubernetes微服务容器化实践 (2022) by 曹宇、王宇翔、胡书敏, 清华大学出版社
+
+
+**Spring Cloud Alibaba Versions**
+
+| Spring Cloud Alibaba | Spring Cloud       | Spring Boot    | Java      | Nacos       | Sentinel    | Seata       | RocketMQ    |
+| -------------------- | ------------------ |----------------| --------- | ----------- | ----------- | ----------- | ----------- |
+| 2023.0.x             | 2023.0.x (Leyton)  | 3.2.x          | Java 17+  | 2.3.2       | 1.8.6       | 2.0.0       | 5.1.4       |
+| 2022.0.x             | 2022.0.x (Kilburn) | 3.0.x or 3.1.x | Java 17+  | 2.2.1       | 1.8.6       | 1.7.0       | 4.9.4       |
+| 2021.0.x             | 2021.0.x (Jubilee) | 2.6.x or 2.7.x | Java 8~21 | 1.4.1~2.2.0 | 1.8.0~1.8.6 | 1.3.0~1.6.1 | 4.4.0~4.9.4 |
+| 2.2.x                | Hoxton             | 2.2.x or 2.3.x | Java 8~21 | 1.1.1~2.2.0 | 1.6.3~1.8.6 | 0.7.1~1.6.1 | 4.4.0~4.9.4 |
+| 2.1.x                | Greenwich          | 2.1.x          | Java 8~21 | 1.1.1~1.1.4 | 1.6.3~1.7.0 | 0.7.1~0.9.0 | 4.4.0       |
+
+Components
+
+- Configuration: Nacos
+- Service Discovery: Nacos
+- Routing: Dubbo RPC
+- API Gateway: Dubbo PROXY
+- Circuit Breakers: Sentinel
+- Tracing: -
+- Distributed transaction: Seata
+
+Nacos
+
+- [Nacos 文档](https://nacos.io/docs/latest/overview/)
+
+Alibaba Sentinel
+
+- [Sentinel 文档](https://sentinelguard.io/zh-cn/docs/introduction.html)
+
+Apache Seata
+
+- [Seata Documentation](https://seata.apache.org/docs/overview/what-is-seata)
+
+Apache Dubbo
+
+- Refer to [Apache Dubbo](../_cs-advanced-domains-resources.md#apache-dubbo)
+
 
 #### Apache ZooKeeper
 

@@ -686,9 +686,12 @@ Some more
 
 >Dubbo是阿里巴巴开发的一个开源的高性能、高可用、可扩展的分布式RPC调用框架，致力于提供高性能和透明化的 RPC 远程调用服务解决方案。
 
+>简单来说它就是一个RPC框架，但是和普通的RPC框架不同的是，它提供了服务治理功能，比如服务注册、监控、路由、容错等。
+
 - [Apache Dubbo](https://dubbo.apache.org/en/) - A Cloud-Native Microservice Framework.
-- 深入理解Apache Dubbo与实战 by 诣极 / 林琳
-- 深度剖析Apache Dubbo核心技术内幕 by 翟陆续（加多）
+- [Dubbo 文档](https://dubbo.apache.org/zh-cn/overview/home/)
+- 深入理解Apache Dubbo与实战 (2019) by 诣极 / 林琳
+- 深度剖析Apache Dubbo核心技术内幕 (2019) by 翟陆续（加多）
 
 ### Motan
 
