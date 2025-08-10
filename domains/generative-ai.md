@@ -7,7 +7,6 @@ Generative AI
 - [What is a Large Language Model (LLM)?](https://www.mlq.ai/what-is-a-large-language-model-llm/)
 - Generative AI in Action (2024) by Amit Bahree
 - Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play (2nd, 2023) by David Foster
-- AI Agents in Action (2025) by Micheal Lanham
 - Hands-On Large Language Models: Language Understanding and Generation (2024) by Jay Alammar, Maarten Grootendorst 
 - LLM Engineer's Handbook: Master the art of engineering large language models from concept to production (2024) by Paul Iusztin, Maxime Labonne
 - Large Language Models: A Deep Dive: Bridging Theory and Practice (2024) by Uday Kamath (Author), Kevin Keenan, Garrett Somers 
@@ -48,6 +47,11 @@ AI-Assisted Programming
 - Software Testing with Generative AI (2024) by Mark Winteringham
 - "Looks Good To Me": Constructive code reviews (2025) by Adrienne Braganza
 - [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools). FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent (And other Open Sourced) System Prompts, Tools & AI Models.
+
+## Vibe Coding
+
+- Vibe Coding: Building Production-Grade Software With GenAI, Chat, Agents, and Beyond (2025) by Gene Kim, Steve Yegge 
+- Beyond Vibe Coding: Leveraging Your Experience in the Age of AI (2025) by Addy Osmani
 
 ## Prompt Engineering
 
@@ -102,6 +106,10 @@ AI Prompt Papers
 **General**
 
 - [Building effective agents - Anthropic](https://www.anthropic.com/engineering/building-effective-agents)
+- AI Agents in Action (2025) by Micheal Lanham
+- Building AI Agents with LLMs, RAG, and Knowledge Graphs: A practical guide to autonomous and modern AI agents (2025) by Salvatore Raieli and Gabriele Iuculano
+- Principles of Building AI Agents (2025) by Sam Bhagwat
+- Agentic AI Handbook: Design Patterns: Build an Agent AI that Thinks, Plans, and Delivers (2025) by Mark Lane
 
 
 **LangChain & LangGraph**
@@ -140,6 +148,9 @@ Resource
 
 ## Build AI Applications
 
+- Building Agentic AI Systems: Create intelligent, autonomous AI agents that can reason, plan, and adapt (2025) by Anjanava Biswas , Wrick Talukdar
+- The AI Engineering Bible: The Complete and Up-to-Date Guide to Build, Develop and Scale Production Ready AI Systems (2025) by Thomas R. Caldwell
+- Building Applications with AI Agents: Designing and Implementing Multi-Agent Systems (2025) by Michael Albada
 - AI Engineering: Building Applications with Foundation Models (2025) by Chip Huyen
 - LLMs in Production: From language models to successful products (2025) by Christopher Brousseau, Matt Sharp
 - Prompt Engineering for Generative AI: Future-Proof Inputs for Reliable AI Outputs (2024) by James Phoenix (Author), Mike Taylor
@@ -155,6 +166,7 @@ Resource
 
 ## AI Business
 
+- AI AGENTS UNLEASHED: Automate Everything, Save Hours Daily, and Scale Your Business Without Writing a Single Line of Code (2025) by Avery Smartwell
 - **AI Entrepreneur’s Handbook: Build a Profitable Business and Make Money** by Unleashing the Power of ChatGPT and Artificial Intelligence (Includes 150+ ChatGPT prompts to turbocharge your business) (2024) by Kartikeya Malhotra
 - Agentic Artificial Intelligence: Harnessing AI Agents to Reinvent Business, Work and Life (2025) by Pascal Bornet (Author), Jochen Wirtz (Author), Thomas H. Davenport
 - AI Agents Explained for Business Leaders: Harness Agentic AI Systems and Intelligent Automation to Supercharge Workflows, Unleash AI-Powered Growth ... (Generative AI & Chat GPT Mastery Series) (2025) by David M. Patel
@@ -176,6 +188,21 @@ Resource
 Papers
 
 - [GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models](https://arxiv.org/abs/2303.10130#), 17 Mar 2023
+
+## Ranking and Trends
+
+- [Gartner Hype Cycle Identifies Top AI Innovations in 2025 - Gartner](https://www.gartner.com/en/newsroom/press-releases/2025-08-05-gartner-hype-cycle-identifies-top-ai-innovations-in-2025)
+- [AI trends in 2025: What we’ve seen and what we’ll see next](https://www.ibm.com/think/insights/artificial-intelligence-trends)
+- [Trends – Artificial Intelligence - Bond](https://www.bondcap.com/reports/tai)
+- [Artificial Analysis AI Trends - Artificial Analysis](https://artificialanalysis.ai/trends)
+- [6 AI trends you’ll see more of in 2025](https://news.microsoft.com/source/features/ai/6-ai-trends-youll-see-more-of-in-2025/)
+- [The 2025 AI Index Report - Stanford HAI](https://hai.stanford.edu/ai-index/2025-ai-index-report)
+- [5 AI Trends Shaping Innovation and ROI in 2025 - Morgan Stanley](https://www.morganstanley.com/insights/articles/ai-trends-reasoning-frontier-models-2025-tmt)
+- [131 AI Statistics and Trends for 2025](https://www.nu.edu/blog/ai-statistics-trends/)
+- [5 AI trends shaping the future of the public sector in 2025](https://cloud.google.com/blog/topics/public-sector/5-ai-trends-shaping-the-future-of-the-public-sector-in-2025)
+- [Unlocking Generative AI’s Potential To Drive Business Growth](https://www.forrester.com/technology/generative-ai/)
+- [The State of AI: Global survey - McKinsey](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai)
+
 
 ## Appendixes
 

@@ -229,6 +229,15 @@ Apache Tomcat
 - Game Programming Patterns by Robert Nystrom
 - BASIC Computer Games by David H. Ahl
 
+
+## Embedded Development
+
+- Making Embedded Systems: Design Patterns for Great Software (2nd, 2024) by Elecia White
+- Applied Embedded Electronics: Design Essentials for Robust Systems (2023) by Jerry Twomey
+- Hands-On RTOS with Microcontrollers: Building real-time embedded systems using FreeRTOS, STM32 MCUs, and SEGGER debug tools (2020) by Brian Amos
+- Mastering Embedded Linux Programming: Create fast and reliable embedded solutions with Linux 5.4 and the Yocto Project 3.1 (3rd, 2021) by Frank Vasquez, Chris Simmonds
+- Bare-Metal Embedded C Programming: Develop high-performance embedded systems with C for Arm microcontrollers (2024) by Israel Gbati
+
 <br>
 
 <h2><a name="audio_and_video_dev_t" href="#audio_and_video_dev_c">Audio and Video Development</a></h2>
@@ -1003,12 +1012,37 @@ Logto
 
 <br>
 
+General
+
+- The Self-Taught Cloud Computing Engineer: A comprehensive professional study guide to AWS, Azure, and GCP (2023) by Dr. Logan Song
 - Data Pipelines with Apache Airflow (2021) by Bas P. Harenslak, Julian Rutger de Ruiter
 - Architecting Modern Data Platforms: A Guide to Enterprise Hadoop at Scale (2019) by Jan Kunigk, Ian Buss, Paul Wilkinson, Lars George
 
+AWS
 
+- AWS Cloud Projects: Strengthen your AWS skills through practical projects, from websites to advanced AI applications (2024) by Ivo Pinto, Pedro Santos
+- AWS for Solutions Architects: The definitive guide to AWS Solutions Architecture for migrating to, building, scaling, and succeeding in the cloud (2nd, 2023) by Saurabh Shrivastava, Neelanjali Srivastav, Alberto Artasanchez 
+- AWS Security Cookbook: Practical solutions for securing AWS cloud infrastructure with essential services and best practices (2nd, 2024) by Heartin Kanikathottu
+- AWS Cookbook: Recipes for Success on AWS (2022) by John Culkin (Author), Mike Zazon
+- Data Science on AWS: Implementing End-to-End, Continuous AI and Machine Learning Pipelines (2021) by Chris Fregly, Antje Barth
+- Generative AI on AWS: Building Context-Aware Multimodal Reasoning Applications (2023) by Chris Fregly (Author), Antje Barth (Author), Shelbee Eigenbrode
 
+Google Cloud
 
+- Visualizing Google Cloud: 101 Illustrated References for Cloud Engineers and Architects (2022) by Priyanka Vergadia
+- Google Cloud Cookbook: Practical Solutions for Building and Deploying Cloud Services (2021) by Rui Santos Costa (Author), Drew Hodun
+- Data Science on the Google Cloud Platform: Implementing End-to-End Real-Time Data Pipelines: From Ingest to Machine Learning (2nd, 2022) by Valliappa Lakshmanan
+- Building Serverless Applications with Google Cloud Run: A Real-World Guide to Building Production-Ready Services (2021) by Wietse Venema
+
+Microsoft Azure
+
+- Azure Cloud Projects: Learn Microsoft Azure through hands-on, real-world projects (2025) by Hamid Sadeghpour Saleh
+- Learning Microsoft Azure: Cloud Computing and Development Fundamentals (2023) by Jonah Carrio Andersson
+- Cloud Native Infrastructure with Azure: Building and Managing Cloud Native Applications (2022) by Nishant Singh (Author), Michael Kehoe 
+- Azure Cookbook: Recipes to Create and Maintain Cloud Solutions in Azure (2023) by Reza Salehi
+- Azure OpenAI Service for Cloud Native Applications: Designing, Planning, and Implementing Generative AI Solutions (2024) by Adrián González Sánchez
+- Azure AI Services at Scale for Cloud, Mobile, and Edge: Building Intelligent Apps with Azure Cognitive Services and Machine Learning (2022) by Simon Bisson, Mary Branscombe, Chris Hoder, Anand Raman
+- Azure for Developers: Implement rich Azure PaaS ecosystems using containers, serverless services, and storage solutions (2nd, 2022) by Kamil Mrzygłód
 <br>
 
 <h2><a name="datamining_t" href="#datamining_c">Big Data and Data Mining</a></h2>

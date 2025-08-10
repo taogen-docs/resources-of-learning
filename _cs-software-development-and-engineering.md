@@ -194,6 +194,7 @@ Chinese AI Chatbot
 - Version Control with Git: Powerful Tools and Techniques for Collaborative Software Development by Jon Loeliger
 - Professional Git by Brent Laster
 - Git Pocket Guide: A Working Introduction by Richard E. Silverman
+- Learning Git: A Hands-On and Visual Guide to the Basics of Git (2023) by Anna Skoulikari
 
 <br>
 
@@ -204,6 +205,9 @@ Chinese AI Chatbot
 - [Amazon Honeycode](https://www.honeycode.aws/). Build a better way to work.
 - [Google AppSheet](https://www.appsheet.com/). The intelligent no‑code platform.
 - [Axelor](https://www.axelor.com/). Open Source Low-code Platform for Business Process Apps. [GitHub](https://github.com/axelor)
+- [Microsoft Power Apps](https://www.microsoft.com/en-us/power-platform/products/power-apps). Build and deploy AI-first applications to quickly modernize your legacy apps and systems.
+- Learn Microsoft Power Apps: The definitive handbook for building solutions with Power Apps to solve your business needs (2nd, 2023) by Matthew Weston, Elisa Bárcena Martín
+- Microsoft Power Apps Cookbook: Build user-friendly apps, troubleshoot challenges, and navigate the evolving Power Apps landscape (3rd, 2024) by Eickhel Mendoza
 
 <br>
 
@@ -995,6 +999,7 @@ Some More
 General Project Management
 
 - A Guide to the Project Management Body of Knowledge (PMBOK® Guide) (7th, 2021) by Project Management Institute [3.70, 5132]
+- PMP Exam Prep Simplified: Covers the Current PMP Exam and Includes a 35 Hours of Project Management E-Learning Course (2021) by Andrew Ramdayal
 
 ### Software Project Management Tools
 
@@ -1050,6 +1055,7 @@ Agile
 - **The Art of Agile Development** (2nd, 2021) by James Shore, Shane Warden [3.98, 878]
 - Learning Agile by Andrew Stellman [4.09, 661]
 - User Story Mapping Building Better Products using Agile Software Design by Jeff Patton
+- Agile Practice Guide (2017) by Project Management Institute
 
 Extreme Programming (XP)
 
@@ -1065,6 +1071,7 @@ Scrum
 - Succeeding with Agile:Software development using Scrum by Mike Cohn [4.01, 1832]
 - **Scrum and XP from the Trenches** (2nd, 2015) by Henrik Kniberg [4.21, 1802]
 - Agile Project Management with Scrum by Ken Schwaber [3.71, 1528]
+- Essential Scrum: A Practical Guide to the Most Popular Agile Process (Addison-Wesley Signature Series (2012) by Kenneth Rubin
 
 Kanban
 

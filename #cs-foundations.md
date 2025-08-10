@@ -52,6 +52,11 @@ Books
 - Algorithms to Live By: The Computer Science of Human Decisions by Brian Christian
 - Digitized: The Science of Computers and How It Shapes Our World by Peter J. Bentley
 - Computer: A History of the Information Machine by Martin Campbell-Kelly, William Aspray
+- A Programmer's Guide to Computer Science: A virtual degree for the self-taught developer (2019) by William Springer
+- Everything You Need to Ace Computer Science and Coding in One Big Fat Notebook: The Complete Middle School Study Guide (2020) by Workman Publishing
+- Computer Science Principles: The Foundational Concepts of Computer Science - For AP® Computer Science Principles (2024) by Kevin Hare
+- Computing: A Concise History (2012) by Paul E. Ceruzzi
+- Hackers: Heroes of the Computer Revolution (2015) Steven Levy
 - 计算机是怎样跑起来的 by [日] 矢泽久雄
 - 程序是怎样跑起来的 by [日] 矢泽久雄
 - 网络是怎样连接的 by [日] 户根勤
@@ -78,6 +83,7 @@ Books
 - Python Programming: An Introduction to Computer Science (3rd, 2016) by John Zelle
 - Think Like a Programmer: An Introduction to Creative Problem Solving (2012) by V. Anton Spraul
 - How to Design Programs: An Introduction to Programming and Computing by Matthias Felleisen, Robert Bruce Findler, Matthew Flatt
+- The Self-Taught Programmer: The Definitive Guide to Programming Professionally (2016) by Cory Althoff
 
 Advanced
 
@@ -412,6 +418,7 @@ The Little Schemer Series
 Must Read
 
 - **Structure and Interpretation of Computer Programs** (2nd, 1996) by Harold Abelson (**SICP**) [4.46, 4670]
+- Structure and Interpretation of Computer Programs: JavaScript Edition (2022) by Martin Henz, Tobias Wrigstad, Harold Abelson
 - **Compilers: Principles, Techniques, and Tools** (2nd, 2006) by  Alfred V. Aho and Monica S. Lam (**龙书**) [4.09, 2965]
 - Types and Programming Languages (2002) by Benjamin C. Pierce (**TAPL**) [4.27, 553]
 - Essentials of Programming Languages (2001) by Daniel P. Friedman, Mitchell Wand (**EOPL**) [3.97, 144]
