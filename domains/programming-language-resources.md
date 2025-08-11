@@ -25,25 +25,25 @@
 
 #### <img src="/assets/icon/programming-languages/C.svg" width="20px"/>C
 
-Refer to [C Resources](../directions/c-resources.md)
+See [C Resources](../directions/c-resources.md)
 
 #### <img src="/assets/icon/programming-languages/Cpp.svg" width="20px"/>C++
 
 /cee plus plus/
 
-Refer to [C++ Resources](../directions/cpp-resources.md)
+See [C++ Resources](../directions/cpp-resources.md)
 
 #### <img src="/assets/icon/programming-languages/Rust.svg" width="20px"/>Rust
 
 /rʌst/
 
-Refer to [Rust Resources](../directions/rust-resources.md)
+See [Rust Resources](../directions/rust-resources.md)
 
 ### Infrastructure & Balanced
 
 #### <img src="/assets/icon/programming-languages/Go.svg" width="20px"/>Go [📈](https://www.tiobe.com/tiobe-index/go/)
 
-Refer to [Go Resources](../directions/go-resources.md)
+See [Go Resources](../directions/go-resources.md)
 
 ### Application & Productivity
 
@@ -51,7 +51,7 @@ Refer to [Go Resources](../directions/go-resources.md)
 
 /ˈdʒɑːvə/
 
-Refer to [Java Resources](../directions/java-resources.md)
+See [Java Resources](../directions/java-resources.md)
 
 #### <img src="/assets/icon/programming-languages/Kotlin.svg" width="20px"/>Kotlin 📈
 
@@ -103,34 +103,34 @@ Directions
 
 /c sharp/
 
-Refer to [C# Resources](../directions/c-sharp-resources.md)
+See [C# Resources](../directions/c-sharp-resources.md)
 
 #### <img src="/assets/icon/programming-languages/Python.svg" width="20px"/>Python 📈
 
 /ˈpaɪθɑːn/
 
-Refer to [Python Resources](../directions/python-resources.md)
+See [Python Resources](../directions/python-resources.md)
 
 #### <img src="/assets/icon/programming-languages/Ruby.svg" width="20px"/>Ruby 📉
 
 /ˈruːbi/
 
-Refer to [Ruby Resources](../directions/ruby-resources.md)
+See [Ruby Resources](../directions/ruby-resources.md)
 
 #### <img src="/assets/icon/programming-languages/Php.svg" width="20px"/>PHP 📉
 
 
-Refer to [PHP Resources](../directions/php-resources.md)
+See [PHP Resources](../directions/php-resources.md)
 
 #### <img src="/assets/icon/frontend/Nodejs.svg" width="20px"/>Node.js (JavaScript)
 
-Reference [Web Frontend Resources - Node.js](../directions/web-frontend-resources.md#nodejs)
+See [Web Frontend Resources - Node.js](../directions/web-frontend-resources.md#nodejs)
 
 ### Client Application
 
 #### <img src="/assets/icon/programming-languages/JavaScript.svg" width="20px"/>JavaScript 📈
 
-Reference [Web Frontend Resources - JavaScript](../directions/web-frontend-resources.md#js_t)
+See [Web Frontend Resources - JavaScript](../directions/web-frontend-resources.md#js_t)
 
 #### <img src="/assets/icon/programming-languages/Android.svg" width="20px"/>Android
 
@@ -732,7 +732,7 @@ Web Framework Ranking
 
 "S-Q-L" /ˈɛs kjuː ˈɛl/ or "sequel" /ˈsiːkwəl/
 
-Reference [CS Advanced Domains Resources - Database Systems](/_cs-advanced-domains-resources.md#dbms_t)
+See [CS Fundamental Resources - Database Systems](/%23cs-foundations#dbms_t)
 
 ### Regular Expression
 
@@ -754,7 +754,7 @@ Regex Tools
 
 ### HTML & CSS
 
-Reference [Web Frontend Resources - HTML & CSS](../directions/web-frontend-resources.md#htmlcss_t)
+See [Web Frontend Resources - HTML & CSS](../directions/web-frontend-resources.md#htmlcss_t)
 
 
 ### JSON
@@ -1030,7 +1030,7 @@ General
 
 > Clojure (2007), Go (2012)
 
-Reference [CS Fundamentals Resources - Parallel](../%23cs-foundations.md#parallel)
+See [CS Fundamentals Resources - Parallel](../%23cs-foundations.md#parallel)
 
 **Garbage Collection**
 
