@@ -373,7 +373,7 @@ jQuery UI
 <h2><a name="ts_t" href="#ts_c"><img src="/assets/icon/frontend/TypeScript.svg" width="24px"/>TypeScript</a></h2>
 <br>
 
-![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/TypeScript)  ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/TypeScript)   ![GitHub contributors](https://img.shields.io/github/contributors/microsoft/TypeScript)  ![GitHub Created At](https://img.shields.io/github/created-at/microsoft/TypeScript) ![NPM Downloads](https://img.shields.io/npm/dw/typescript) [![NPM Version](https://img.shields.io/npm/v/typescript)](https://www.npmjs.com/package/typescript)
+![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/TypeScript)  [![NPM Version](https://img.shields.io/npm/v/typescript)](https://www.npmjs.com/package/typescript)  ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/TypeScript)   ![GitHub contributors](https://img.shields.io/github/contributors/microsoft/TypeScript)  ![GitHub Created At](https://img.shields.io/github/created-at/microsoft/TypeScript) ![NPM Downloads](https://img.shields.io/npm/dw/typescript)
 
 
 > TypeScript lets you type faster.
@@ -413,7 +413,7 @@ jQuery UI
 <h3><a name="react_t" href="#react_c"><img src="/assets/icon/frontend/React.svg" width="24px"/>React </a></h3>
 <br>
 
-![GitHub Repo stars](https://img.shields.io/github/stars/facebook/react)  ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/react)   ![GitHub contributors](https://img.shields.io/github/contributors/facebook/react)  ![GitHub Created At](https://img.shields.io/github/created-at/facebook/react)  ![NPM Downloads](https://img.shields.io/npm/dw/react) [![npm version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com/package/react)
+![GitHub Repo stars](https://img.shields.io/github/stars/facebook/react)  [![npm version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com/package/react)  ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/react)   ![GitHub contributors](https://img.shields.io/github/contributors/facebook/react)  ![GitHub Created At](https://img.shields.io/github/created-at/facebook/react)  ![NPM Downloads](https://img.shields.io/npm/dw/react)
 
 >Developed by Facebook, React is one of the most popular JavaScript libraries for building user interfaces, especially single-page applications. It uses a component-based architecture and a virtual DOM for efficient updates.
 
@@ -500,7 +500,7 @@ React Admin Dashboard Templates
 <h3><a name="angular_t" href="#angular_c"><img src="/assets/icon/frontend/Angularjs.svg" width="24px"/>AngularJS</a></h3>
 <br>
 
-![GitHub Repo stars](https://img.shields.io/github/stars/angular/angular)  ![GitHub last commit](https://img.shields.io/github/last-commit/angular/angular)   ![GitHub contributors](https://img.shields.io/github/contributors/angular/angular)  ![GitHub Created At](https://img.shields.io/github/created-at/angular/angular)  ![NPM Downloads](https://img.shields.io/npm/dw/@angular/cli) [![NPM Version](https://img.shields.io/npm/v/%40angular%2Fcore)](https://www.npmjs.com/package/@angular/core)
+![GitHub Repo stars](https://img.shields.io/github/stars/angular/angular)  [![NPM Version](https://img.shields.io/npm/v/%40angular%2Fcore)](https://www.npmjs.com/package/@angular/core)  ![GitHub last commit](https://img.shields.io/github/last-commit/angular/angular)   ![GitHub contributors](https://img.shields.io/github/contributors/angular/angular)  ![GitHub Created At](https://img.shields.io/github/created-at/angular/angular)  ![NPM Downloads](https://img.shields.io/npm/dw/@angular/cli)
 
 >Maintained by Google, Angular is a comprehensive front-end framework that provides everything you need to build large-scale applications. It uses TypeScript by default and comes with built-in features like dependency injection, routing, and state management.
 
@@ -519,7 +519,7 @@ React Admin Dashboard Templates
 <h3><a name="vue_t" href="#vue_c"><img src="/assets/icon/frontend/Vue.svg" width="24px"/>Vue.js</a></h3>
 <br>
 
-![GitHub Repo stars](https://img.shields.io/github/stars/vuejs/core)  ![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/core)   ![GitHub contributors](https://img.shields.io/github/contributors/vuejs/core)  ![GitHub Created At](https://img.shields.io/github/created-at/vuejs/core) ![NPM Downloads](https://img.shields.io/npm/dw/vue) [![NPM Version](https://img.shields.io/npm/v/vue)](https://www.npmjs.com/package/vue)
+![GitHub Repo stars](https://img.shields.io/github/stars/vuejs/core)  [![NPM Version](https://img.shields.io/npm/v/vue)](https://www.npmjs.com/package/vue)  ![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/core)   ![GitHub contributors](https://img.shields.io/github/contributors/vuejs/core)  ![GitHub Created At](https://img.shields.io/github/created-at/vuejs/core) ![NPM Downloads](https://img.shields.io/npm/dw/vue)
 
 >Vue.js is a progressive JavaScript framework that is easy to integrate with projects using other libraries. It’s known for its simplicity and flexibility, making it a popular choice for both small and large applications.
 
@@ -1044,7 +1044,7 @@ In terms of structure, Fastify is pretty much the same thing as Express. NestJS 
 
 **Nest.js**
 
-![GitHub Repo stars](https://img.shields.io/github/stars/nestjs/nest)  ![GitHub last commit](https://img.shields.io/github/last-commit/nestjs/nest)   ![GitHub contributors](https://img.shields.io/github/contributors/nestjs/nest)  ![GitHub Created At](https://img.shields.io/github/created-at/nestjs/nest) ![NPM Downloads](https://img.shields.io/npm/dw/@nestjs/core) [![NPM Version](https://img.shields.io/npm/v/%40nestjs%2Fcore)](https://www.npmjs.com/~nestjscore)
+![GitHub Repo stars](https://img.shields.io/github/stars/nestjs/nest)  [![NPM Version](https://img.shields.io/npm/v/%40nestjs%2Fcore)](https://www.npmjs.com/~nestjscore)  ![GitHub last commit](https://img.shields.io/github/last-commit/nestjs/nest)   ![GitHub contributors](https://img.shields.io/github/contributors/nestjs/nest)  ![GitHub Created At](https://img.shields.io/github/created-at/nestjs/nest) ![NPM Downloads](https://img.shields.io/npm/dw/@nestjs/core) 
 
 > NestJS uses express or fastify under the hood.
 
@@ -1054,7 +1054,7 @@ In terms of structure, Fastify is pretty much the same thing as Express. NestJS 
 
 **Express.js**
 
-![GitHub Repo stars](https://img.shields.io/github/stars/expressjs/express)  ![GitHub last commit](https://img.shields.io/github/last-commit/expressjs/express)   ![GitHub contributors](https://img.shields.io/github/contributors/expressjs/express)  ![GitHub Created At](https://img.shields.io/github/created-at/expressjs/express)  ![NPM Downloads](https://img.shields.io/npm/dw/express) [![NPM Version](https://img.shields.io/npm/v/express)](https://www.npmjs.com/package/express)
+![GitHub Repo stars](https://img.shields.io/github/stars/expressjs/express)  [![NPM Version](https://img.shields.io/npm/v/express)](https://www.npmjs.com/package/express)  ![GitHub last commit](https://img.shields.io/github/last-commit/expressjs/express)   ![GitHub contributors](https://img.shields.io/github/contributors/expressjs/express)  ![GitHub Created At](https://img.shields.io/github/created-at/expressjs/express)  ![NPM Downloads](https://img.shields.io/npm/dw/express)
 
 - [Express Getting Started - doc](https://expressjs.com/en/starter/installing.html) 
 - Express in Action: Node Applications with Express and Its Companion Tools by Evan Hahn
@@ -1096,7 +1096,7 @@ In terms of structure, Fastify is pretty much the same thing as Express. NestJS 
 
 **Next.js (React-Based)**
 
-![GitHub Repo stars](https://img.shields.io/github/stars/vercel/next.js)  ![GitHub last commit](https://img.shields.io/github/last-commit/vercel/next.js)   ![GitHub contributors](https://img.shields.io/github/contributors/vercel/next.js)  ![GitHub Created At](https://img.shields.io/github/created-at/vercel/next.js) ![NPM Downloads](https://img.shields.io/npm/dw/next) [![NPM Version](https://img.shields.io/npm/v/next)](https://www.npmjs.com/package/next)
+![GitHub Repo stars](https://img.shields.io/github/stars/vercel/next.js)  [![NPM Version](https://img.shields.io/npm/v/next)](https://www.npmjs.com/package/next)  ![GitHub last commit](https://img.shields.io/github/last-commit/vercel/next.js)   ![GitHub contributors](https://img.shields.io/github/contributors/vercel/next.js)  ![GitHub Created At](https://img.shields.io/github/created-at/vercel/next.js) ![NPM Downloads](https://img.shields.io/npm/dw/next)
 
 >Next.js is a JavaScript framework built on top of React, specializing in server-side rendering (SSR) and static site generation (SSG). It optimizes web application performance by rendering pages on the server, improving initial load times and search engine optimization.
 
@@ -1109,7 +1109,7 @@ In terms of structure, Fastify is pretty much the same thing as Express. NestJS 
 
 **Nuxt (Vue-Based)**
 
-![GitHub Repo stars](https://img.shields.io/github/stars/nuxt/nuxt)  ![GitHub last commit](https://img.shields.io/github/last-commit/nuxt/nuxt)   ![GitHub contributors](https://img.shields.io/github/contributors/nuxt/nuxt)  ![GitHub Created At](https://img.shields.io/github/created-at/nuxt/nuxt) ![NPM Downloads](https://img.shields.io/npm/dw/nuxt) [![NPM Version](https://img.shields.io/npm/v/nuxt)](https://www.npmjs.com/package/nuxt)
+![GitHub Repo stars](https://img.shields.io/github/stars/nuxt/nuxt)  [![NPM Version](https://img.shields.io/npm/v/nuxt)](https://www.npmjs.com/package/nuxt)  ![GitHub last commit](https://img.shields.io/github/last-commit/nuxt/nuxt)   ![GitHub contributors](https://img.shields.io/github/contributors/nuxt/nuxt)  ![GitHub Created At](https://img.shields.io/github/created-at/nuxt/nuxt) ![NPM Downloads](https://img.shields.io/npm/dw/nuxt)
 
 >Nuxt.js is a framework built on top of Vue.js for creating universal (SSR) and static websites. It simplifies the development process by providing conventions and features like automatic routing, server-side rendering, and static site generation.
 
