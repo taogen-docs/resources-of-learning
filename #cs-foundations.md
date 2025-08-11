@@ -992,6 +992,10 @@ Finding technology trends
 - IT training companies
 	- [Global knowledge](https://www.globalknowledge.com/us-en/), [Simplilearn](https://www.simplilearn.com/), [NetCom Learning](https://www.netcomlearning.com/), [Learning Tree](https://www.learningtree.com/)
 	- 达内（2003）、传智播客（子品牌黑马程序员，2006）、尚硅谷（2013）、北大青鸟（1999）、尚学堂（2006）
+- Books
+	- Amazon Best Sellers: Best Software Development, Best Computer Programming
+	- O'Reilly Best Sellers, New Books
+	- 图灵出版社新书和热门图书
 
 4\. Others
 

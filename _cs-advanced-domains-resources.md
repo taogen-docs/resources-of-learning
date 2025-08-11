@@ -858,6 +858,10 @@ Apache Kafka Stream
 
 
 - [Apache RocketMQ](https://github.com/apache/rocketmq)
+- Apache RocketMQ 进阶之路 (2024) by 林俊杰
+- RocketMQ分布式消息中间件：核心原理与最佳实践 (2020) by 李伟
+- RocketMQ技术内幕：RocketMQ架构设计与实现原理 (2018) by 丁威 / 周继锋
+- RocketMQ实战 (2020) by 丁威 梁勇
 
 ### More Message Queues
 

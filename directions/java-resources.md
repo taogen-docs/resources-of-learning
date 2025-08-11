@@ -665,17 +665,24 @@ Microservices Architecture
 
 **Java Microservice Components**
 
-| Component                  | [Spring Cloud Netflix](https://spring.io/projects/spring-cloud-netflix) | [Spring Cloud](https://spring.io/projects/spring-cloud) | [Spring Cloud Alibaba](https://spring.io/projects/spring-cloud-alibaba) | [Apache Zookeeper](https://spring.io/projects/spring-cloud-zookeeper) | [Consul](https://spring.io/projects/spring-cloud-consul) | [Spring Cloud Kubernetes](https://spring.io/projects/spring-cloud-kubernetes) | [etcd](https://etcd.io/) |
-| -------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------- | ----------------------------------------------------------------------- | --------------------------------------------------------------------- | -------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------------------ |
-| Configuration 配置中心         | Archaius / Netflix Eureka                                               | Spring Cloud<br>Config                                  | Alibaba Nacos                                                           | Zookeeper                                                             | Consul                                                   | ConfigMap                                                                     | etcd                     |
-| Service Discovery 注册中心     | Netflix Eureka                                                          | -                                                       | Alibaba Nacos                                                           | Zookeeper                                                             | Consul                                                   | API Server                                                                    | etcd                     |
-| Routing and Messaging 服务调用 | Netflix Ribbon, OpenFeign                                               | OpenFeign RestTemplate                                  | Dubbo RPC                                                               |                                                                       |                                                          |                                                                               |                          |
-| API Gateway 服务网关           | Netflix Zuul                                                            | Spring Cloud<br>Gateway                                 | Dubbo PROXY                                                             |                                                                       |                                                          |                                                                               |                          |
-| Circuit Breakers 熔断        | Netflix Hystrix                                                         | -                                                       | Alibaba Sentinel                                                        |                                                                       |                                                          |                                                                               |                          |
-| Tracing 监控                 |                                                                         | Spring Cloud Sleuth and Zipkin                          | -                                                                       |                                                                       |                                                          |                                                                               |                          |
-| CI Pipelines and Testing   |                                                                         | Spring Cloud Pipelines<br>Spring Cloud Contract         | -                                                                       |                                                                       |                                                          |                                                                               |                          |
-| Distributed Messageing     |                                                                         | SCS RabbitMQ                                            | SCS RocketMQ                                                            |                                                                       |                                                          |                                                                               |                          |
-| Distributed transaction    |                                                                         |                                                         | Apache Seata (Alibaba)                                                  |                                                                       |                                                          |                                                                               |                          |
+| Component                                               | [Spring Cloud Netflix](https://spring.io/projects/spring-cloud-netflix) | [Spring Cloud](https://spring.io/projects/spring-cloud) | [Spring Cloud Alibaba](https://spring.io/projects/spring-cloud-alibaba) | [Apache Zookeeper](https://spring.io/projects/spring-cloud-zookeeper) | [Consul](https://spring.io/projects/spring-cloud-consul) | [Spring Cloud Kubernetes](https://spring.io/projects/spring-cloud-kubernetes) | [etcd](https://etcd.io/) |
+| ------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------- | ----------------------------------------------------------------------- | --------------------------------------------------------------------- | -------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------------------ |
+| Configuration 配置中心                                      | ~~Archaius~~(not supported in spring cloud)                             | Spring Cloud<br>Config                                  | Alibaba Nacos                                                           | Zookeeper                                                             | Consul                                                   | ConfigMap                                                                     | etcd                     |
+| Service Discovery 注册中心                                  | Netflix Eureka                                                          | -                                                       | Alibaba Nacos                                                           | Zookeeper                                                             | Consul                                                   | API Server                                                                    | etcd                     |
+| Routing and Messaging (Client-Side Load Balancing) 服务调用 | ~~Netflix Ribbon and Netflix Feign~~(maintenance mode)                  | Spring Cloud Load Balancer<br>or OpenFeign              | Dubbo RPC                                                               |                                                                       |                                                          |                                                                               |                          |
+| API Gateway 服务网关                                        | ~~Netflix Zuul~~(not supported in spring cloud)                         | Spring Cloud<br>Gateway                                 | Dubbo PROXY                                                             |                                                                       |                                                          |                                                                               |                          |
+| Circuit Breakers 熔断                                     | ~~Netflix Hystrix~~(maintenance mode)                                   | Resilience4J<br>or Spring Retry                         | Alibaba Sentinel                                                        |                                                                       |                                                          |                                                                               |                          |
+| Tracing 监控                                              |                                                                         | Spring Cloud Sleuth and Zipkin                          | -                                                                       |                                                                       |                                                          |                                                                               |                          |
+| CI Pipelines and Testing                                |                                                                         | Spring Cloud Pipelines<br>Spring Cloud Contract         | -                                                                       |                                                                       |                                                          |                                                                               |                          |
+| Distributed Messageing                                  |                                                                         | SCS RabbitMQ                                            | SCS RocketMQ                                                            |                                                                       |                                                          |                                                                               |                          |
+| Event-Driven                                            |                                                                         | Spring Cloud Stream                                     |                                                                         |                                                                       |                                                          |                                                                               |                          |
+| Distributed transaction                                 |                                                                         |                                                         | Apache Seata (Alibaba)                                                  |                                                                       |                                                          |                                                                               |                          |
+
+- Zuul 1 is no longer actively maintained by Netflix.
+- Zuul 2 is a major improvement (non-blocking, built on Netty), but it was never integrated into Spring Cloud officially.
+- Hystrix is no longer in active development, and is currently in maintenance mode.
+
+Components
 
 - Configuration: A centralized store.
 	- etcd (key-value management)
@@ -692,6 +699,9 @@ Microservices Architecture
 - Circuit Breakers: To help an application in the face of failure.
 - Tracing: Tracing requests through the application.
 - CI Pipelines and Testing: Building, testing and deploying.
+- Authentication and Authorization
+	- Keycloak
+	- Logto
 
 #### Spring Boot + K8S + Istio
 
@@ -773,6 +783,21 @@ Courses
 
 >Core components: Alibaba Nacos, Alibaba Sentinel, Apache Seata, RocketMQ
 
+<details>
+<summary>国内开源项目文档差的原因</summary>
+
+国内没有工程师文化。
+
+国内大厂开源的东西很多是 KPI 产物，项目火的时候一堆人维护，业务部门一调整，直接没人管了。
+
+开源靠 KPI。KPI 一开，开源喊麦。KPI 一停，开源归零。
+
+KPI 驱动，动机就不纯。
+
+牛逼是一定要吹上天的，文档多半看不明白，只看到在吹牛逼了。
+
+</details>
+
 - [Spring Cloud Alibaba](https://sca.aliyun.com/en/). (Latest version: 2023.0.x)
 - [Spring Cloud Alibaba 2023.x 文档](https://sca.aliyun.com/docs/2023/overview/what-is-sca/)
 - Spring Cloud Alibaba Reference Documentation 2021.x [EN](https://spring-cloud-alibaba-group.github.io/github-pages/2021/en-us/index.html), [ZH](https://spring-cloud-alibaba-group.github.io/github-pages/2021/zh-cn/index.html)
@@ -803,25 +828,57 @@ Components
 
 - Configuration: Nacos
 - Service Discovery: Nacos
-- Routing: Dubbo RPC
-- API Gateway: Dubbo PROXY
+- Routing: Nacos+Spring Cloud LoadBalancer, Dubbo RPC
+- API Gateway: Spring Cloud Gateway, Dubbo PROXY
 - Circuit Breakers: Sentinel
 - Tracing: -
 - Distributed transaction: Seata
 
-Nacos
+**Nacos**
+
+> Nacos 2021 版本开始，没有自带 Ribbon 的整合，所以需要引入 `spring-cloud-starter-loadbalancer` 支持 loadbalancer。
 
 - [Nacos 文档](https://nacos.io/docs/latest/overview/)
+- [Spring Cloud Alibaba Nacos](https://sca.aliyun.com/docs/2023/user-guide/nacos/overview/)
+- [Nacos 融合 Spring Cloud，成为注册配置中心](https://nacos.io/docs/latest/ecology/use-nacos-with-spring-cloud/)
+- [使用Nacos基于Spring Cloud Gateway搭建服务网关](https://help.aliyun.com/zh/edas/developer-reference/build-service-gateways#section-zc6-3g1-vnn)
 
-Alibaba Sentinel
+**Alibaba Sentinel**
+
+>流量控制（Flow Control）：QPS、并发线程数。
+
+>熔断降级（Circuit Breaking and Downgrade）：当调用链路中某个资源出现不稳定，例如，表现为 timeout，异常比例升高的时候，则对这个资源的调用进行限制，并让请求快速失败，避免影响到其它的资源，最终产生雪崩的效果。
+
+>系统负载保护/系统维度的自适应保护（Adaptive System Protection）：让系统的入口流量和系统的负载达到一个平衡，保证系统在能力范围之内处理最多的请求。
 
 - [Sentinel 文档](https://sentinelguard.io/zh-cn/docs/introduction.html)
+- [Spring Cloud Alibaba Sentinel](https://sca.aliyun.com/docs/2023/user-guide/sentinel/overview/)
+- [Spring Cloud Alibaba Sentinel Wiki](https://github.com/alibaba/spring-cloud-alibaba/wiki/Sentinel)
+- [sentinel-guide-spring-cloud](https://github.com/sentinel-group/sentinel-guides/tree/master/sentinel-guide-spring-cloud) Spring Cloud Alibaba Sentinel 的示例
 
-Apache Seata
+Running Sentinel Dashboard with sentinel-dashboard.jar
 
-- [Seata Documentation](https://seata.apache.org/docs/overview/what-is-seata)
+<details>
+<summary>Click to expand!</summary>
 
-Apache Dubbo
+```sh
+
+java -Dserver.port=8081 -Dcsp.sentinel.dashboard.server="localhost:8081" -Dproject.name=sentinel-dashboard -jar sentinel-dashboard-1.8.8.jar
+```
+
+</details>
+
+**Apache Seata**
+
+- [Seata Documentation](https://seata.apache.org/docs/overview/what-is-seata/)
+- [Spring Cloud Alibaba Seata](https://sca.aliyun.com/docs/2023/user-guide/seata/overview/)
+
+**RocketMQ**
+
+- [Spring Cloud Stream with RocketMQ](https://sca.aliyun.com/docs/2023/user-guide/rocketmq/quick-start/)
+- [RocketMQ Documentation](https://rocketmq.apache.org/docs/)
+
+**Apache Dubbo**
 
 - Refer to [Apache Dubbo](../_cs-advanced-domains-resources.md#apache-dubbo)
 
