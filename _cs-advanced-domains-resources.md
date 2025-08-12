@@ -1047,6 +1047,20 @@ Microsoft Azure
 - Azure OpenAI Service for Cloud Native Applications: Designing, Planning, and Implementing Generative AI Solutions (2024) by Adrián González Sánchez
 - Azure AI Services at Scale for Cloud, Mobile, and Edge: Building Intelligent Apps with Azure Cognitive Services and Machine Learning (2022) by Simon Bisson, Mary Branscombe, Chris Hoder, Anand Raman
 - Azure for Developers: Implement rich Azure PaaS ecosystems using containers, serverless services, and storage solutions (2nd, 2022) by Kamil Mrzygłód
+
+阿里云
+
+- 阿里云云原生架构实践 (2022) by 阿里集团
+- 阿里云运维架构实践秘籍 (2020) by 驻云科技-乔锐杰
+- 阿里云数字新基建系列
+	- 云数据库架构 (2021) by 朱明
+	- 混合云架构 (2021) by 解国红, 刘怿平, 陈煜文, 罗寒曦
+	- CDN技术架构 (2022) by 阿里云CDN团队
+	- 云服务器运维之Windows篇 by 杨洋
+	- 云原生操作系统Kubernetes (2020) by 罗建龙, 刘中巍, 张城, 黄珂, 苏夏, 高相林, 盛训杰
+- 云存储：释放数据无限价值 (2022) by 阿里云基础产品委员会
+- 企业数字化基石 : 阿里巴巴云计算基础设施实践 (2020) by 高山渊, 蔡德忠, 赵晓雪, 刘礼寅, 刘水旺, 陈义全, 徐波
+
 <br>
 
 <h2><a name="datamining_t" href="#datamining_c">Big Data and Data Mining</a></h2>
