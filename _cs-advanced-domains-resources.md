@@ -699,7 +699,7 @@ Some more
 
 - [Apache Dubbo](https://dubbo.apache.org/en/) - A Cloud-Native Microservice Framework.
 - [Dubbo 文档](https://dubbo.apache.org/zh-cn/overview/home/)
-- 深入理解Apache Dubbo与实战 (2019) by 诣极 / 林琳
+- 深入理解Apache Dubbo与实战 (2019) by 诣极, 林琳
 - 深度剖析Apache Dubbo核心技术内幕 (2019) by 翟陆续（加多）
 
 ### Motan
@@ -860,7 +860,7 @@ Apache Kafka Stream
 - [Apache RocketMQ](https://github.com/apache/rocketmq)
 - Apache RocketMQ 进阶之路 (2024) by 林俊杰
 - RocketMQ分布式消息中间件：核心原理与最佳实践 (2020) by 李伟
-- RocketMQ技术内幕：RocketMQ架构设计与实现原理 (2018) by 丁威 / 周继锋
+- RocketMQ技术内幕：RocketMQ架构设计与实现原理 (2018) by 丁威, 周继锋
 - RocketMQ实战 (2020) by 丁威 梁勇
 
 ### More Message Queues

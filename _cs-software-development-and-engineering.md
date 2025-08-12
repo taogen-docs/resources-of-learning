@@ -524,7 +524,7 @@ Some more
 - **Implementing Domain-Driven Design** (2013) by Vaughn Vernon [4.05, 1273]
 - **Learning Domain-Driven Design: Aligning Software Architecture and Business Strategy** (2021) by Vlad Khononov [4.44, 644]
 - Domain-Driven Design Distilled (2016) by Vaughn Vernon [3.82, 1289]
-- Patterns Principles and Practices of Domain Driven Design by Scott Millett, Nick Tune [4.36, 382]
+- Patterns Principles and Practices of Domain Driven Design (2014) by Scott Millett, Nick Tune [4.36, 382]
 
 ### Microservices Architecture
 
@@ -946,7 +946,7 @@ Prometheus
 
 Modern Software Engineering
 
-- Modern Software Engineering: Doing What Works to Build Better Software Faster (2021) by David Farley
+- **Modern Software Engineering: Doing What Works to Build Better Software Faster** (2021) by David Farley [4.16, 1089]
 - The Essentials of Modern Software Engineering by Ivar Jacobson, Harold "Bud" Lawson, Pan-Wei Ng, Paul E. McMahon, Michael Goedicke
 
 ### Software Requirements
@@ -1045,6 +1045,7 @@ Self-hosted project management software
 
 Agile
 
+- User Story Mapping Building Better Products using Agile Software Design (2012) by Jeff Patton [4.19, 3870]
 - User Stories Applied: For Agile Software Development by Mike Cohn [3.89, 2836]
 - Management 3.0: Leading Agile Developers, Developing Agile Leaders (2010) by Jurgen Appelo [4.2, 2788]
 - Agile Estimating and Planning by Mike Cohn [4.14, 2578]
@@ -1054,8 +1055,7 @@ Agile
 - **Clean Agile: Back to Basics** (2019) by Robert C. Martin [4.26, 1301]
 - **The Art of Agile Development** (2nd, 2021) by James Shore, Shane Warden [3.98, 878]
 - Learning Agile by Andrew Stellman [4.09, 661]
-- User Story Mapping Building Better Products using Agile Software Design by Jeff Patton
-- Agile Practice Guide (2017) by Project Management Institute
+- Agile Practice Guide (2017) by Project Management Institute [3.71, 665]
 
 Extreme Programming (XP)
 
@@ -1070,8 +1070,8 @@ Scrum
 - **Scrum: The Art of Doing Twice the Work in Half the Time** (2014) by Jeff Sutherland [4.15, 21654]
 - Succeeding with Agile:Software development using Scrum by Mike Cohn [4.01, 1832]
 - **Scrum and XP from the Trenches** (2nd, 2015) by Henrik Kniberg [4.21, 1802]
+- Essential Scrum: A Practical Guide to the Most Popular Agile Process (Addison-Wesley Signature Series (2012) by Kenneth Rubin [4.15, 1642]
 - Agile Project Management with Scrum by Ken Schwaber [3.71, 1528]
-- Essential Scrum: A Practical Guide to the Most Popular Agile Process (Addison-Wesley Signature Series (2012) by Kenneth Rubin
 
 Kanban
 
