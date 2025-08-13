@@ -660,7 +660,7 @@ Alpine.js 和 jQuery 一样不需要编译，写完丢到 Nginx 就能运行了�
 <h2><a name="headless_ui_t" href="#headless_ui_c">Headless UI</a></h2>
 <br>
 
->**Headless UI** is a term for libraries and utilities that provide the logic, state, processing and API for UI elements and interactions, but **do not provide markup, styles, or pre-built implementations**.
+>**Headless UI** is a term for libraries and utilities that provide the logic, state, processing and API for UI elements and interactions, but **do not provide markup, styles, or pre-built implementations**.
 
 >Advantages of headless UI: 1) Full control over markup and styles. 2) Supports all styling patterns (CSS, CSS-in-JS, UI libraries, etc). 3) Smaller bundle-sizes. Portable. 4) Run anywhere JS runs.
 
@@ -817,15 +817,15 @@ Others
 ### Taro
  
  
-![GitHub Repo stars](https://img.shields.io/github/stars/NervJS/taro).   ![GitHub last commit](https://img.shields.io/github/last-commit/NervJS/taro)   ![GitHub contributors](https://img.shields.io/github/contributors/NervJS/taro)  ![GitHub Created At](https://img.shields.io/github/created-at/NervJS/taro)  ![NPM Downloads](https://img.shields.io/npm/dw/@tarojs/taro)
+![GitHub Repo stars](https://img.shields.io/github/stars/NervJS/taro)  ![GitHub last commit](https://img.shields.io/github/last-commit/NervJS/taro)  ![GitHub contributors](https://img.shields.io/github/contributors/NervJS/taro)  ![GitHub Created At](https://img.shields.io/github/created-at/NervJS/taro)  ![NPM Downloads](https://img.shields.io/npm/dw/@tarojs/taro)
 
 - [Taro](https://taro.zone/). 一套遵循 **React** 语法规范的多端开发解决方案。开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。
 
 ### uni-app
 
-![GitHub Repo stars](https://img.shields.io/github/stars/dcloudio/uni-app)  ![GitHub last commit](https://img.shields.io/github/last-commit/dcloudio/uni-app)   ![GitHub contributors](https://img.shields.io/github/contributors/dcloudio/uni-app)  ![GitHub Created At](https://img.shields.io/github/created-at/dcloudio/uni-app)
+![GitHub Repo stars](https://img.shields.io/github/stars/dcloudio/uni-app)  ![GitHub last commit](https://img.shields.io/github/last-commit/dcloudio/uni-app)  ![GitHub contributors](https://img.shields.io/github/contributors/dcloudio/uni-app)  ![GitHub Created At](https://img.shields.io/github/created-at/dcloudio/uni-app)
 
-- [uni-app]( https://uniapp.dcloud.io/ ). 一个使用 **Vue.js** 开发所有前端应用的框架。一个使用 `Vue.js` 开发小程序、H5、App的统一前端框架。
+- [uni-app]( https://uniapp.dcloud.io/ ). 一个使用 **Vue.js** 开发所有前端应用的框架。一个使用 `Vue.js` 开发小程序、H5、App的统一前端框架。
 
 <br>
 

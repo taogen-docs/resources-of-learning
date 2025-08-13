@@ -1,5 +1,7 @@
 # Generative AI
 
+>Either you embrace AI, or get out of this career. -- Thomas Dohmke
+
 ## Generative AI & Large Language Models (LLMs)
 
 Generative AI
@@ -52,6 +54,27 @@ AI-Assisted Programming
 
 - Vibe Coding: Building Production-Grade Software With GenAI, Chat, Agents, and Beyond (2025) by Gene Kim, Steve Yegge 
 - Beyond Vibe Coding: Leveraging Your Experience in the Age of AI (2025) by Addy Osmani
+
+### AI Code Editor
+
+Cursor
+
+>An AI-native code editor built upon VS Code, offering deep integration with Large Language Models (LLMs) for features like AI chat assistance, code generation, and refactoring. It's known for its AI-first approach and comprehensive feature set.
+
+- [Cursor - The AI Code Editor](https://cursor.com/)
+
+Visual Studio Code (VS Code) + GitHub Copilot
+
+- [GitHub Copilot in VS Code](https://code.visualstudio.com/docs/copilot/overview)
+
+Zed
+
+- [Zed — The editor for what's next](https://zed.dev/)
+
+Windsurf
+
+- [Windsurf - The most powerful AI Code Editor](https://windsurf.com/)
+
 
 ## Prompt Engineering
 
@@ -203,6 +226,27 @@ Papers
 - [Unlocking Generative AI’s Potential To Drive Business Growth](https://www.forrester.com/technology/generative-ai/)
 - [The State of AI: Global survey - McKinsey](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai)
 
+
+## Embrace AI
+
+**Article 1**
+
+The evidence is clear: **Either you embrace AI, or get out of this career.**
+
+Our latest field study with 22 developers who are integrating AI deeply into their workflows reveals a striking trend: those who persist beyond early skepticism emerge with dramatically higher ambition, technical fluency, and job satisfaction. They’re not writing less code – they’re enabling more complex, system-level work through orchestration. And that’s as true for educators as it is for developers themselves.
+
+This shift isn’t hypothetical. It’s happening now. Developers move through clear adoption phases – from dabbling skeptics to strategic AI collaborators – and those who reach the final stage say their identity as developers has transformed. Their focus is no longer on producing code, but on designing systems, directing agents, and validating outputs. “My next title might be Creative Director of Code,” one developer told us. That’s not hyperbole – it’s real. Here’s what we’re seeing:
+
+ - AI is on track to write 90% of code within the next 2–5 years.
+ - Developers aren’t worried. They’re optimistic and realistic about the changes ahead.
+ - New skills matter now, e.g. agent orchestration, iterative collaboration, and critical verification.
+ - Time savings? Sure. But the real shift is ambition. Developers are raising the ceiling, not just lowering the cost.
+
+This also has massive implications for education. Teaching syntax alone is obsolete. Students must now learn to guide AI, critique its work, and think across disciplines. Assessments should measure collaboration with AI, not isolation from it.
+
+This is no longer a question of productivity. It’s a question of reinvention. The job of the software developer isn’t disappearing. It’s being reborn.  
+
+by [Thomas Dohmke](https://x.com/ashtom/status/1952409910236291109) Aug 5, 2025
 
 ## Appendixes
 

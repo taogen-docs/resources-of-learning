@@ -152,17 +152,17 @@ Debugging
 
 #### AI Chatbot
 
-Official Chatbot
+AI Chatbot
 
-| Chatbot                                                                     | Model          | Features                     |
-| --------------------------------------------------------------------------- | -------------- | ---------------------------- |
-| [ChatGPT by Open AI](https://chatgpt.com/)                                  | GPT-3.5, GPT-4 | Best overall                 |
-| [Microsoft Copilot Pro](https://www.microsoft.com/en-us/store/b/copilotpro) | GPT-4          | Web Search                   |
-| [Gemini by Google](https://gemini.google.com/app)  (Bard)                   | Gemini Pro     | Integration with Google apps |
-| [Claude by Anthropic](https://claude.ai)                                    | Claude         | Longest conversation memory  |
+| Chatbot                                                            | Model                                                                                                     | Features                     |
+| ------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| [ChatGPT by Open AI](https://chatgpt.com/)                         | GPT-3.5, GPT-4, GPT 5, o1, o3, o4, GPT-4o, [more](https://platform.openai.com/docs/models)                | Best overall                 |
+| [Gemini by Google](https://gemini.google.com/app)  (formerly Bard) | Gemini 2.5 Pro, Gemini 2.5 Flash, [more](https://ai.google.dev/gemini-api/docs/models)                    | Integration with Google apps |
+| [Claude by Anthropic](https://claude.ai)                           | Claude Opus 4.1, Claude Sonnet 4, [more](https://docs.anthropic.com/en/docs/about-claude/models/overview) | Longest conversation memory  |
 
-Chatbot wrapper
+AI Chatbot wrapper
 
+- [Microsoft Copilot Pro](https://www.microsoft.com/en-us/store/b/copilotpro)
 - [Perplexity AI](https://www.perplexity.ai/). Web search.
 - [YouChat](https://you.com/). Web search.
 - [Poe](https://poe.com/). Multiple AI models.
@@ -242,6 +242,16 @@ Top CaaS Providers
 4. IBM Cloud Kubernetes Service
 5. Docker Enterprise
 6. Red Hat OpenShift
+
+### Kubernetes as a Service (KaaS) / Managed Kubernetes Service
+
+Managed Kubernetes Providers
+
+- Google Kubernetes Engine (GKE)
+- Amazon Elastic Kubernetes Service (EKS)
+- Azure Kubernetes Service (AKS)
+- Linode Kubernetes Engine (LKE). Best for startups.
+- OVHCloud K8S. Best for cost.
 
 ### Platform as a service (PaaS)
 
@@ -786,8 +796,13 @@ Docker Desktop alternatives
 
 ### Container Orchestration
 
-#### <img src="/assets/icon/engineering/Kubernetes.svg" width="24px"/>Kubernetes 
+#### <img src="/assets/icon/engineering/Kubernetes.svg" width="24px"/>Kubernetes (K8S)
 
+>Kubernetes, also known as K8s, is an open source system for automating deployment, scaling, and management of containerized applications.
+
+>Kubernetes intends to radically simplify the task of building, deploying, and maintaining distributed systems. It has been inspired by decades of real-world experience building reliable systems, and it has been designed from the ground up to make that experience if not euphoric, at least pleasant.
+
+>Containers and orchestrators enable developers to build and deploy applications with a speed, agility, and reliability.
 
 <details>
     <summary>Kubernetes 的理解</summary>
@@ -830,12 +845,43 @@ Courses
 - [尚硅谷Kubernetes教程(K8s入门到精通)](https://www.bilibili.com/video/BV1w4411y7Go/) (2019)
 - [尚硅谷云原生Java架构师的第一课K8s+Docker+KubeSphere+DevOps](https://www.bilibili.com/video/BV13Q4y1C7hS) (2021)
 
+Components
+
+- **Pods**, or groups of containers, can group together container images developed by different teams into a single deployable unit.
+- **Kubernetes services** provide load balancing, naming, and discovery to isolate one microservice from another.
+- **Namespaces** provide isolation and access control, so that each microservice can control the degree to which other services interact with it.
+- **Ingress objects** provide an easy-to-use frontend that can combine multiple microservices into a single externalized API surface area.
+
+Cloud Native Computing Foundation (CNCF)
+
+>The Cloud Native Computing Foundation (CNCF) is a nonprofit, vendor-neutral organization under the Linux Foundation that promotes the adoption and development of cloud native technologies.
+
+>It acts as a central hub for open source projects that make it easier to build, deploy, and run modern, scalable applications in cloud environments.
+
+- [Graduated and Incubating Projects - CNCF](https://www.cncf.io/projects/)
+
 **Helm**
 
 >The package manager for Kubernetes. Helm is the best way to find, share, and use software built for Kubernetes.
 
 - [Helm Documentation](https://helm.sh/)
 - Learning Helm: Managing Apps on Kubernetes (2021) by Matt Butcher, Matt Farina, Josh Dolitsky
+
+**GitOps with K8S**
+
+>GitOps is a set of practices for managing infrastructure and application configurations to expand upon existing processes and improve the application lifecycle.
+
+>Declaratively manage your cloud native infrastructure.
+
+>When you adopt GitOps, changes to production are made entirely via pushes to a Git repository, which are then reflected into your cluster via automation.
+
+- Implementing GitOps with Kubernetes: Automate, manage, scale, and secure infrastructure and cloud-native applications on AWS and Azure (2024) by Pietro Libro, Artem Lajko
+- Argo CD: Up and Running: A Hands-On Guide to GitOps and Kubernetes (2025) by Andrew Block and Christian Hernandez
+- GitOps Cookbook: Kubernetes Automation in Practice (2023) by Natale Vinto and Alex Soto Bueno
+- OpenShift Multi-Cluster Management Handbook: Go from architecture to pipelines using GitOps (2022) by Giovanni Fontana , Rafael Pecora
+- GitOps and Kubernetes: Continuous Deployment with Argo CD, Jenkins X, and Flux (2021) by Billy Yuen , Alex Matyushentsev
+- Practical GitOps: Infrastructure Management Using Terraform, AWS, and GitHub Actions (2022) by Rohit Salecha
+- Argo CD in Practice: The GitOps way of managing cloud-native applications (2022) by Liviu Costea , Spiros Economakis
 
 #### Cloud Native Applications with K8S
 

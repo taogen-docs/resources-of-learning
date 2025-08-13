@@ -1063,6 +1063,7 @@ Human-Computer Interaction
 
 - **Stack Overflow** Developer Survey
 - The State of Developer Ecosystem Report (by **JetBrains**)
+- The State of Open Source Software (by **GitHub**)
 - **Gartner** Top 10 Strategic Technology Trends
 - **McKinsey** Technology Trends Outlook
 - Search on Google or YouTube: top technology trends + software development/web development/Java development + `<year>` 
