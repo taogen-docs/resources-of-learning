@@ -972,11 +972,94 @@ Course Collections
 
 3\. Inspiration and Fun
 
-Talks
+**Talks**
 
 - [Programming Talks](https://github.com/hellerve/programming-talks)
 
-Finding technology trends
+**Publications**
+
+Professional Magazines
+
+- [Communications of the ACM (CACM)](https://cacm.acm.org/) by ACM. Flagship ACM magazine; research, policy, trends.
+- [ACM Queue](https://queue.acm.org/) by ACM. Practitioner-focused, real-world systems and engineering lessons.
+- [ACM Computing Surveys](https://dl.acm.org/journal/csur). Comprehensive survey and tutorial articles across all areas of computing.
+- [ACM Transactions on Information Systems](https://dl.acm.org/journal/tois). Information retrieval, search engines, digital libraries, and related areas.
+- [IEEE Spectrum](https://spectrum.ieee.org/) by IEEE. Broad technology & engineering topics, computing included.
+- [IEEE Computer](https://www.computer.org/csdl/magazine) by IEEE Computer Society. Advances in computer technology, software, and systems.
+- [IEEE ComputingEdge](https://www.computer.org/publications/computing-edge). IEEE’s curated buffet of diverse computing topics, lightweight but authoritative.
+- [IEEE Software](https://www.computer.org/csdl/magazine/so). Software engineers, architects, and technical managers. Focus on bridging research and practice in software engineering.
+- [IEEE Transactions on Industrial Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424). Industrial systems, IoT, automation, and manufacturing.
+- [IEEE Internet Computing](https://www.computer.org/csdl/magazine/ic). Focus on emerging technologies and architectures that shape the internet.
+- IEEE MultiMedia
+- IEEE Communications Surveys and Tutorials
+- IEEE Micro
+- IEEE Transactions on Big Data
+
+News Magazines
+
+- [MIT Technology Review](https://www.technologyreview.com/) (computing section)
+- [Nature Machine Intelligence](https://www.nature.com/natmachintell/)
+- [Science Robotics](https://www.science.org/journal/scirobotics)
+- [Maximum PC](https://www.zinio.com/publications/maximum-pc/6879)
+- [Macworld](https://www.macworld.com/)
+
+Academic Journals
+
+- Journal of the ACM (JACM) by ACM. [ACM](https://dl.acm.org/journal/jacm). Theoretical computer science, algorithms, computational theory.
+- IEEE Transactions on Computers by IEEE. [IEEE Xplore](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12), [IEEE Computer Society](https://www.computer.org/csdl/journal/tc). Computer architecture, parallel processing, performance.
+- IEEE Transactions on Software Engineering (TSE) by IEEE. [IEEE Xplore](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32). Software engineering theory and practice.
+- ACM Transactions on Graphics (TOG) by ACM. [ACM](https://dl.acm.org/journal/tog). Computer graphics, animation, visualization.
+- Artificial Intelligence by Elsevier. [Elsevier](https://shop.elsevier.com/journals/artificial-intelligence/0004-3702), [ScienceDirect](https://www.sciencedirect.com/journal/artificial-intelligence). AI theory and applications.
+- Machine Learning by Springer. [Springer](https://link.springer.com/journal/10994). ML algorithms, theory, and practice.
+
+Computer Science Conferences
+
+>In CS, top-tier conferences are often more prestigious than journals (especially in systems, AI, theory).
+
+AI / Machine Learning
+
+- [NeurIPS](https://neurips.cc/)
+- [ICML](https://icml.cc/)
+- [ICLR](https://iclr.cc/)
+- [AAAI](https://aaai.org/)
+
+Computer Vision
+
+- CVPR, ICCV, ECCV
+
+Theoretical CS
+
+- STOC, FOCS, SODA
+
+Operating Systems / Systems
+
+- SOSP, OSDI, USENIX ATC
+
+Databases
+
+- SIGMOD, VLDB
+
+Networking
+
+- SIGCOMM, NSDI
+
+Programming Languages
+
+- PLDI, POPL, OOPSLA
+
+Security
+
+- IEEE S&P ("Oakland"), USENIX Security, CCS
+
+Graphics
+
+- SIGGRAPH
+
+Human-Computer Interaction
+
+- CHI
+
+**Finding technology trends**
 
 - **Stack Overflow** Developer Survey
 - The State of Developer Ecosystem Report (by **JetBrains**)
