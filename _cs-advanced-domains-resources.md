@@ -1027,22 +1027,26 @@ AWS
 - AWS Cloud Projects: Strengthen your AWS skills through practical projects, from websites to advanced AI applications (2024) by Ivo Pinto, Pedro Santos
 - AWS for Solutions Architects: The definitive guide to AWS Solutions Architecture for migrating to, building, scaling, and succeeding in the cloud (2nd, 2023) by Saurabh Shrivastava, Neelanjali Srivastav, Alberto Artasanchez 
 - AWS Security Cookbook: Practical solutions for securing AWS cloud infrastructure with essential services and best practices (2nd, 2024) by Heartin Kanikathottu
-- AWS Cookbook: Recipes for Success on AWS (2022) by John Culkin (Author), Mike Zazon
+- AWS Cookbook: Recipes for Success on AWS (2022) by John Culkin, Mike Zazon
 - Data Science on AWS: Implementing End-to-End, Continuous AI and Machine Learning Pipelines (2021) by Chris Fregly, Antje Barth
-- Generative AI on AWS: Building Context-Aware Multimodal Reasoning Applications (2023) by Chris Fregly (Author), Antje Barth (Author), Shelbee Eigenbrode
+- Generative AI on AWS: Building Context-Aware Multimodal Reasoning Applications (2023) by Chris Fregly, Antje Barth, Shelbee Eigenbrode
 
 Google Cloud
 
 - Visualizing Google Cloud: 101 Illustrated References for Cloud Engineers and Architects (2022) by Priyanka Vergadia
-- Google Cloud Cookbook: Practical Solutions for Building and Deploying Cloud Services (2021) by Rui Santos Costa (Author), Drew Hodun
+- Google Cloud Cookbook: Practical Solutions for Building and Deploying Cloud Services (2021) by Rui Santos Costa, Drew Hodun
 - Data Science on the Google Cloud Platform: Implementing End-to-End Real-Time Data Pipelines: From Ingest to Machine Learning (2nd, 2022) by Valliappa Lakshmanan
 - Building Serverless Applications with Google Cloud Run: A Real-World Guide to Building Production-Ready Services (2021) by Wietse Venema
+
+Google Cloud CLI
+
+- [Google Cloud CLI documentation](https://cloud.google.com/sdk/docs)
 
 Microsoft Azure
 
 - Azure Cloud Projects: Learn Microsoft Azure through hands-on, real-world projects (2025) by Hamid Sadeghpour Saleh
 - Learning Microsoft Azure: Cloud Computing and Development Fundamentals (2023) by Jonah Carrio Andersson
-- Cloud Native Infrastructure with Azure: Building and Managing Cloud Native Applications (2022) by Nishant Singh (Author), Michael Kehoe 
+- Cloud Native Infrastructure with Azure: Building and Managing Cloud Native Applications (2022) by Nishant Singh, Michael Kehoe 
 - Azure Cookbook: Recipes to Create and Maintain Cloud Solutions in Azure (2023) by Reza Salehi
 - Azure OpenAI Service for Cloud Native Applications: Designing, Planning, and Implementing Generative AI Solutions (2024) by Adrián González Sánchez
 - Azure AI Services at Scale for Cloud, Mobile, and Edge: Building Intelligent Apps with Azure Cognitive Services and Machine Learning (2022) by Simon Bisson, Mary Branscombe, Chris Hoder, Anand Raman
@@ -1283,55 +1287,89 @@ Some more
 
 ### Machine Learning
 
-- Grokking Machine Learning (2021) by Luis G. Serrano
-- Machine Learning by Tom M. Mitchell
-- Machine Learning in Action by Peter Harrington
-- The Hundred-Page Machine Learning Book by Andriy Burkov
-- Pattern Recognition and Machine Learning by Christopher M. Bishop
-- Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems by Aurélien Géron
-- Machine Learning: A Probabilistic Perspective Kevin P. Murphy
-- Understanding Machine Learning: From Theory to Algorithms by Shai Shalev-Shwartz, Shai Ben-David
-- Machine Learning For Absolute Beginners: A Plain English Introduction by Oliver Theobald
-- Introduction to Machine Learning with Python: A Guide for Data Scientists by Andreas C. Müller, Sarah Guido
-- The Hundred-Page Machine Learning Book by Andriy Burkov
-- Machine Learning Design Patterns: Solutions to Common Challenges in Data Preparation, Model Building, and MLOps by Valliappa Lakshmanan, Sara Robinson, Michael Munn
-- Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications by Chip Huyen
+Machine Learning
+
+- Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems (3rd, 2022) by Aurélien Géron [4.5, 2722]
+- Pattern Recognition and Machine Learning (2006) by Christopher M. Bishop [4.32, 1885]
+- The Hundred-Page Machine Learning Book (2019) by Andriy Burkov [4.25, 1386]
+- Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications (2022) by Chip Huyen [4.5, 900]
+- Machine Learning (1986) by Tom M. Mitchell [4.07, 853]
+- Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow 2 (3rd, 2019) by Sebastian Raschka, Vahid Mirjalili [4.25, 753]
+- Introduction to Machine Learning with Python: A Guide for Data Scientists (2016) by Andreas C. Müller, Sarah Guido [4.34, 587]
+- Machine Learning: A Probabilistic Perspective (2012) Kevin P. Murphy [4.34, 520]
+- Machine Learning For Absolute Beginners: A Plain English Introduction (2020) by Oliver Theobald [4.12, 458]
+- Machine Learning Design Patterns: Solutions to Common Challenges in Data Preparation, Model Building, and MLOps (2020) by Valliappa Lakshmanan, Sara Robinson, Michael Munn [4.2, 266]
 - 机器学习 by 周志华 (**西瓜书**)
 
+Some more
+
+- Machine Learning in Action (2011) by Peter Harrington [3.78, 240] 
+- The StatQuest Illustrated Guide To Machine Learning (2022) by Josh Starmer [4.71, 192]
+- Machine Learning Engineering (2020) by Andriy Burkov [4.31, 140]
+- Understanding Machine Learning: From Theory to Algorithms (2014) by Shai Shalev-Shwartz, Shai Ben-David [4.21, 131]
+- Foundations of Machine Learning (2nd, 2018) by Mehryar Mohri, Afshin Rostamizadeh, Ameet Talwalkar [4.21, 94]
+- Machine Learning with PyTorch and Scikit-Learn: Develop machine learning and deep learning models with Python (2022) by Sebastian Raschka, Yuxi (Hayden) Liu, Vahid Mirjalili [4.41, 90]
+- Grokking Machine Learning (2021) by Luis G. Serrano [4.47, 64]
+- Python Machine Learning By Example: Unlock machine learning best practices with real-world use cases (4th, 2024) by Yuxi (Hayden) Liu 
+- Hands-On Machine Learning with Scikit-Learn and PyTorch: Concepts, Tools, and Techniques to Build Intelligent Systems (2025) by Aurélien Géron
+
+Mathematics for Machine Learning
+
+- Mathematics of Machine Learning: Master linear algebra, calculus, and probability for machine learning (2025) by Tivadar Danka
+- Mathematics for Machine Learning (2020) by Marc Peter Deisenroth
 ### Deep Learning
 
 - Deep Learning (2016) by Aaron Courville, Ian Goodfellow, and Yoshua Bengio (**花书**) [4.43, 1903]
-- Make Your Own Neural Network by Tariq Rashid [4.35, 660]
-- Neural Networks and Deep Learning by Michael Nielsen [4.56, 417]
-- Deep Learning (The MIT Press Essential Knowledge series) by John D. Kelleher
+- Deep Learning with Python (3rd, 2025) by Francois Chollet [4.57, 1273]
+- Make Your Own Neural Network (2016) by Tariq Rashid [4.35, 660]
+- The Deep Learning Revolution (2018) by Terry Sejnowski [3.75, 491]
+- Neural Networks and Deep Learning (2013) by Michael Nielsen [4.56, 417]
+- Deep Learning (The MIT Press Essential Knowledge series) (2019) by John D. Kelleher [3.9, 443]
 - Grokking Deep Learning (2019) by Andrew W. Trask [4.23, 238]
-- Deep Learning with Python by Francois Chollet [4.57, 1273]
-- Deep Learning: A Practitioner's Approach by Adam Gibson and Josh Patterson [3.77, 110]
-- Fundamentals of Deep Learning: Designing Next-Generation Machine Intelligence Algorithms by Nicholas Locascio and Nikhil Buduma [3.86, 112]
-- The Deep Learning Revolution by Terry Sejnowski [3.75, 491]
-- Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD by Jeremy Howard and Sylvain Gugger [4.48, 211]
-- Deep Learning with PyTorch: Build, train, and tune neural networks using Python tools by Eli Stevens, Luca Antiga [4.19, 135]
-- Deep Learning from Scratch: Building with Python from First Principles by Seth Weidman
-- Deep Learning: A Visual Approach by Andrew Glassner
-- Deep Learning Cookbook: Practical Recipes to Get Started Quickly by Douwe Osinga [3.93, 29]
-- Dive into Deep Learning by Mu Li, Aston Zhang, Zachary Lipton, Alexander J. Smola [HTML](https://d2l.ai/) （中文版：动手学深度学习 by 李沐 [HTML](https://zh.d2l.ai/) ）
+- Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD (2020) by Jeremy Howard and Sylvain Gugger [4.48, 211]
+- Deep Learning with PyTorch: Build, train, and tune neural networks using Python tools (2020) by Eli Stevens, Luca Antiga [4.19, 135]
+- Fundamentals of Deep Learning: Designing Next-Generation Machine Intelligence Algorithms (2nd, 2022) by Nicholas Locascio and Nikhil Buduma [3.86, 112]
+- Deep Learning Illustrated: A Visual, Interactive Guide to Artificial Intelligence (2019) by Jon Krohn, Grant Beyleveld, Aglaé Bassens [4.3, 107]
+
+Some more
+
+- Deep Learning: A Practitioner's Approach (2015) by Adam Gibson and Josh Patterson [3.77, 110]
+- Understanding Deep Learning (2023) by Simon J.D. Prince [4.6, 86]
+- Deep Learning: A Visual Approach (2021) by Andrew Glassner [4.9, 61]
+- Deep Learning for Vision Systems (2020) by Mohamed Elgendy [4.3, 48]
+- Deep Learning from Scratch: Building with Python from First Principles (2019) by Seth Weidman [4.0, 45]
+- Deep Learning: Foundations and Concepts (2024th) by Christopher M. Bishop, Hugh Bishop [4.6, 40]
+- Deep Learning Cookbook: Practical Recipes to Get Started Quickly (2018) by Douwe Osinga [3.93, 29]
+- Practical Deep Learning: A Python-Based Introduction (2nd, 2025) by Ronald T. Kneusel
+- Dive into Deep Learning (2023) by Mu Li, Aston Zhang, Zachary Lipton, Alexander J. Smola [HTML](https://d2l.ai/) （中文版：动手学深度学习 by 李沐 [HTML](https://zh.d2l.ai/) ）
 
 Courses
 
 - [【2025版】李沐深度学习系列课程](https://www.bilibili.com/video/BV1daQAYuEYm/). 涵盖CNN、RNN、LSTM、GAN、DQN、transformer、自编码器和注意力机制等神经网络核心知识点
 
+Math for Deep Learning
+
+- Math and Architectures of Deep Learning (2024) by Krishnendu Chaudhury
+- Math for Deep Learning: What You Need to Know to Understand Neural Networks (2021) by Ronald T. Kneusel
+- Inside Deep Learning: Math, Algorithms, Models (2022) by Edward Raff 
+
 ### Reinforcement Learning
 
-- Reinforcement Learning: An Introduction by Richard S. Sutton, Andrew G. Barto
-- Deep Reinforcement Learning Hands-On: Apply modern RL methods, with deep Q-networks, value iteration, policy gradients, TRPO, AlphaGo Zero and more by Maxim Lapan
-- Algorithms for Reinforcement Learning by Csaba Szepesvari
+- Reinforcement Learning: An Introduction (2nd, 2018) by Richard S. Sutton, Andrew G. Barto [4.5, 795]
+- Algorithms for Reinforcement Learning (2010) by Csaba Szepesvari
 - Hands-On Reinforcement Learning with Python: Master reinforcement and deep reinforcement learning using OpenAI Gym and TensorFlow by Sudharsan Ravichandiran
+- Reinforcement Learning: Industrial Applications of Intelligent Agents (2020) by Phil Winder Ph.D.
+- Applied Reinforcement Learning with Python: With OpenAI Gym, Tensorflow, and Keras (2019) by Taweh Beysolow II 
 
 ### Deep Reinforcement Learning
 
 > Deep reinforcement learning is a subfield of machine learning that combines reinforcement learning and deep learning.
 
 - Grokking Deep Reinforcement Learning (2020) by Miguel Morales
+- Deep Reinforcement Learning Hands-On: Apply modern RL methods, with deep Q-networks, value iteration, policy gradients, TRPO, AlphaGo Zero and more (3rd, 2024) by Maxim Lapan
+- Deep Reinforcement Learning in Action (2020) by Brandon Brown, Alexander Zai
+- Deep Reinforcement Learning with Python: Master classic RL, deep RL, distributional RL, inverse RL, and more with OpenAI Gym and TensorFlow (2nd, 2020) by Sudharsan Ravichandiran
+- The Art of Reinforcement Learning: Fundamentals, Mathematics, and Implementations with Python (2023) by Michael Hu 
 
 ### Robotics
 
@@ -1347,22 +1385,46 @@ Courses
 
 ### Computer Vision
 
-- Computer Vision: Algorithms and Applications by Richard Szeliski
-- Computer Vision: Models, Learning, and Inference by Simon J. D. Prince
-- Programming Computer Vision with Python: Tools and Algorithms for Analyzing Images by Jan Erik Solem
-- Multiple View Geometry in Computer Vision by Richard Hartley, Andrew Zisserman
-- Learning OpenCV: Computer Vision with the OpenCV Library by Gary Bradski, Adrian Kaehler
-- Computer Vision: A Modern Approach by David Forsyth and Jean Ponce
+- Learning OpenCV: Computer Vision with the OpenCV Library (2008) by Gary Bradski, Adrian Kaehler [4.01, 170]
+- Computer Vision: Algorithms and Applications (2nd, 2022) by Richard Szeliski [4.2, 144]
+- Multiple View Geometry in Computer Vision (2nd, 2004) by Richard Hartley, Andrew Zisserman [4.35, 141]
+- Computer Vision: A Modern Approach (2nd, 2011) by David Forsyth and Jean Ponce [3.8, 94]
+- Programming Computer Vision with Python: Tools and Algorithms for Analyzing Images by Jan Erik Solem [3.96, 69]
+- Computer Vision: Models, Learning, and Inference (2012) by Simon J. D. Prince [4.4, 58]
+
+Some more
+
+- Practical Machine Learning for Computer Vision: End-to-End Machine Learning for Images (2021) by Valliappa Lakshmanan, Martin Görner, Ryan Gillard 
+- Modern Computer Vision with PyTorch: A practical roadmap from deep learning fundamentals to advanced applications and Generative AI (2nd, 2024) by V Kishore Ayyadevara, Yeshwanth Reddy
 - Practical Computer Vision with SimpleCV by Demaagd
+- Learning OpenCV 3: Computer Vision in C++ with the OpenCV Library (2017) by Adrian Kaehler, Gary Bradski
+- Foundations of Computer Vision (2024) by Antonio Torralba, Phillip Isola, William T. Freeman
+- Learning OpenCV 4 Computer Vision with Python 3: Get to grips with tools, techniques, and algorithms for computer vision and machine learning (3rd, 2020) by Joseph Howse, Joe Minichino
 
 ### Natural Language Processing
 
-- Natural Language Processing with Python by Edward Loper, Ewan Klein, and Steven Bird
-- Speech and Language Processing by Daniel Jurafsky and James H. Martin
-- Foundations of Statistical Natural Language Processing by Christopher D. Manning and Hinrich Schütze
-- Natural Language Processing in Action by Hobson Lane, Cole Howard, Hannes Hapke
-- Neural Network Methods for Natural Language Processing by Yoav Goldberg, Graeme Hirst
-- Applied Text Analysis with Python: Enabling Language-Aware Data Products with Machine Learning by Benjamin Bengfort, Rebecca Bilbro, and Tony Ojeda
+- Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics and Speech Recognition (2000) by Daniel Jurafsky and James H. Martin [4.28, 633]
+- Natural Language Processing with Python: Analyzing Text with the Natural Language Toolkit (2009) by Edward Loper, Ewan Klein, and Steven Bird [4.1, 567]
+- Foundations of Statistical Natural Language Processing (1999) by Christopher D. Manning and Hinrich Schütze [4.1, 261]
+- Natural Language Processing with Transformers: Building Language Applications with Hugging Face (2022) by Lewis Tunstall, Leandro von Werra, Thomas Wolf [4.4, 201]
+- Practical Natural Language Processing: A Comprehensive Guide to Building Real-World NLP Systems (2020) by Sowmya Vajjala, Bodhisattwa Majumder, Anuj Gupta [3.9, 75]
+- Natural Language Processing in Action (2nd, 2025) by Hobson Lane, Cole Howard, Hannes Hapke [4.11, 71]
+- Neural Network Methods for Natural Language Processing by Yoav Goldberg, Graeme Hirst [4.45, 65]
+- Applied Text Analysis with Python: Enabling Language-Aware Data Products with Machine Learning by Benjamin Bengfort, Rebecca Bilbro, and Tony Ojeda [3.82, 56]
+- Text Analytics with Python: A Practitioner's Guide to Natural Language Processing (2nd, 2019) by Dipanjan Sarkar [4.12, 49]
+- Transformers for Natural Language Processing: Build, train, and fine-tune deep neural network architectures for NLP with Python, Hugging Face, and OpenAI's GPT-3, ChatGPT, and GPT-4 (2nd, 2022) by Denis Rothman [4.19, 43]
+
+Some more
+
+- Introduction to Natural Language Processing (2019) by Jacob Eisenstein
+- Natural Language Processing with PyTorch: Build Intelligent Language Applications Using Deep Learning (2019) by Delip Rao, Brian McMahan
+- Natural Language Processing with Python and spaCy: A Practical Introduction (2020) by Yuli Vasiliev
+- Python Natural Language Processing Cookbook: Over 60 recipes for building powerful NLP solutions using Python and LLM libraries (2nd, 2024) by Zhenya Antić, Saurabh Chakravarty
+- Representation Learning for Natural Language Processing (2020) by Zhiyuan Liu, Yankai Lin, Maosong Sun
+- Getting Started with Natural Language Processing (2022) by Ekaterina Kochmar
+- Real-World Natural Language Processing: Practical applications with deep learning (2021) by Masato Hagiwara
+- Natural Language Processing with TensorFlow: The definitive NLP book to implement the most sought-after machine learning models and tasks (2nd, 2022) by Thushan Ganegedara
+
 
 ### Recommender Systems
 

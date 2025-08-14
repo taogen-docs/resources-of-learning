@@ -2,6 +2,25 @@
 
 >Either you embrace AI, or get out of this career. -- Thomas Dohmke
 
+## Roadmap & Guide
+
+Roadmap
+
+- [Generative AI Roadmap: Skills, Tools, and Projects for 2025 and Beyond - Medium](https://medium.com/@sourabh_jangid/generative-ai-roadmap-skills-tools-and-projects-for-2025-and-beyond-0f1a6e46c71f)
+- [Roadmap-To-Learn-Generative-AI-In-2024 - GitHub](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024)
+- [AI Agents Roadmap - Roadmap.sh](https://roadmap.sh/ai-agents)
+- [Prompt Engineering Roadmap - Roadmap.sh](https://roadmap.sh/prompt-engineering)
+- [AI Engineer Roadmap - Roadmap.sh](https://roadmap.sh/ai-engineer). An AI Engineer uses pre-trained models and existing AI tools to improve user experiences. They focus on applying AI in practical ways, without building models from scratch. This is different from AI Researchers and ML Engineers, who focus more on creating new models or developing AI theory.
+- [GenAI Roadmap 2024 - Roadmap.sh](https://roadmap.sh/r/genai-roadmap-2024)
+- [Master NLP & Generative AI in 6 months | Generative AI Roadmap 2025 for Data Scientist - YouTube](https://www.youtube.com/watch?v=3uMQnWCIkDg)
+- [Roadmap to Generative AI: A Comprehensive Guide for Beginners - GeeksforGeeks](https://www.geeksforgeeks.org/artificial-intelligence/roadmap-to-generative-ai-a-comprehensive-guide-for-beginners/)
+- [Generative AI: A Self-Study Roadmap - KDnuggets](https://www.kdnuggets.com/generative-ai-a-self-study-roadmap)
+
+Guide
+
+- [awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)
+
+
 ## Generative AI & Large Language Models (LLMs)
 
 Generative AI

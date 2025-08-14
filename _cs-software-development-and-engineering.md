@@ -248,6 +248,8 @@ Top CaaS Providers
 Managed Kubernetes Providers
 
 - Google Kubernetes Engine (GKE)
+	- [Google Kubernetes Engine documentation](https://cloud.google.com/kubernetes-engine/docs/)
+	- [Google Kubernetes Engine pricing](https://cloud.google.com/kubernetes-engine/pricing?hl=en)
 - Amazon Elastic Kubernetes Service (EKS)
 - Azure Kubernetes Service (AKS)
 - Linode Kubernetes Engine (LKE). Best for startups.
@@ -859,6 +861,12 @@ Components
 - **Kubernetes services** provide load balancing, naming, and discovery to isolate one microservice from another.
 - **Namespaces** provide isolation and access control, so that each microservice can control the degree to which other services interact with it.
 - **Ingress objects** provide an easy-to-use frontend that can combine multiple microservices into a single externalized API surface area.
+
+Minikube
+
+>minikube implements a local Kubernetes cluster on macOS, Linux, and Windows. minikube's primary goals are to be the best tool for local Kubernetes application development and to support all Kubernetes features that fit.
+
+- [minikube](https://minikube.sigs.k8s.io/docs/)
 
 Cloud Native Computing Foundation (CNCF)
 
