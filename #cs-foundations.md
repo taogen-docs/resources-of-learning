@@ -1083,7 +1083,11 @@ Human-Computer Interaction
 
 4\. Others
 
+Pronunciation
+
 - [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation). 中国程序员容易发音错误的单词
+- [Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page) to get the pronunciation of words.
+
 
 <br>
 

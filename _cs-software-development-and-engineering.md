@@ -712,6 +712,8 @@ CI/CD
 
 <img src="/assets/icon/engineering/Jenkins.svg" width="24px"/>Jenkins
 
+/ˈd͡ʒɛŋkɪnz/
+
 - [Jenkins User Documentation](https://www.jenkins.io/doc/)
 - Jenkins 2: Up and Running: Evolve Your Deployment Pipeline for Next Generation Automation (2018) by Brent Laster [3.57, 60]
 - Jenkins: The Definitive Guide (2011) by John Smart [3.37, 179]
@@ -740,6 +742,8 @@ CI/CD
 
 <img src="/assets/icon/engineering/Terraform.svg" width="24px"/>Terraform
 
+/ˈter.ə.fɔːrm/
+
 >An infrastructure as code tool that lets you build, change, and version infrastructure safely and efficiently. This includes low-level components like compute instances, storage, and networking; and high-level components like DNS entries and SaaS features.
 
 - Terraform: Up & Running: Writing Infrastructure as Code (3rd, 2022) by Yevgeniy Brikman
@@ -765,6 +769,8 @@ CI/CD
 ### Container
 
 #### <img src="/assets/icon/engineering/Docker.svg" width="24px"/>Docker
+
+/ˈdɑkɚ/
 
 - **Docker in Action** (2nd, 2019) by Jeff Nickoloff
 - **Docker Deep Dive** (2016) by Nigel Poulton
@@ -797,6 +803,8 @@ Docker Desktop alternatives
 ### Container Orchestration
 
 #### <img src="/assets/icon/engineering/Kubernetes.svg" width="24px"/>Kubernetes (K8S)
+
+/k(j)uːbəˈnɛtɪs/
 
 >Kubernetes, also known as K8s, is an open source system for automating deployment, scaling, and management of containerized applications.
 
@@ -1087,6 +1095,8 @@ Self-hosted project management software
 
 ### Agile
 
+/ˈædʒ.əl/
+
 > Agile methodologies, including Scrum, Kanban, and Extreme Programming (XP), prioritize adaptability, collaboration, and iterative development. They involve breaking the project into small increments called "sprints" and focusing on delivering working software in short cycles.
 
 Agile
@@ -1126,6 +1136,8 @@ Kanban
 - **Kanban: Successful Evolutionary Change for Your Technology Business** (2013) by David J. Anderson [3.99, 3318]
 
 ### Lean Software
+
+/liːn/
 
 > Lean Software Development applies Lean principles, originally from the manufacturing industry, to software development. It aims to eliminate waste, optimize processes, and deliver value efficiently. Lean methodologies emphasize value stream mapping, continuous improvement, and reducing non-value-added activities.
 
@@ -1275,6 +1287,8 @@ General
 
 Selenium
 
+/səˈliː.ni.əm/
+
 - [Selenium](https://www.selenium.dev/). Selenium automates browsers.
 - Hands-On Selenium WebDriver with Java: A Deep Dive into the Development of End-to-End Tests (2022) by Boni Garcia 
 - Learning Selenium Testing Tools with Python (2014) by Unmesh Gundecha 
@@ -1284,12 +1298,16 @@ Selenium
 
 Cypress
 
+/ˈsaɪ.prəs/
+
 - [Cypress](https://github.com/cypress-io/cypress). Fast, easy and reliable testing for anything that runs in a browser.
 - Ultimate Web Automation Testing with Cypress: Master End-to-End Web Application Testing Automation to Accelerate Your QA Process with Cypress (2023) by Vitaly Skadorva
 - Web Testing with Cypress: Run End-to-End tests, Integration tests, Unit tests across web apps, browsers and cross-platforms (2022) by Lev Gelfenbuim
 - End-to-End Web Testing with Cypress: Explore techniques for automated frontend web testing with Cypress and JavaScript (2021) by Waweru Mwaura
 
 Playwright
+
+/ˈpleɪ.raɪt/
 
 - [Playwright](https://playwright.dev/). Fast and reliable end-to-end testing for modern web apps.
 - Web Automation Testing Using Playwright: End-to-end, API, accessibility, and visual testing using Playwright (2024) by Kailash Pathak 
@@ -1300,6 +1318,8 @@ TestCafe
 - Modern Web Testing with TestCafe: Get to grips with end-to-end web testing with TestCafe and JavaScript (2020) by Dmytro Shpakovskyi 
 
 Puppeteer
+
+/ˌpʌp.əˈtɪr/
 
 - [Puppeteer](https://pptr.dev/). A JavaScript library which provides a high-level API to control Chrome or Firefox over the DevTools Protocol or WebDriver BiDi.
 - UI Testing with Puppeteer: Implement end-to-end testing and browser automation using JavaScript and Node.js (2021) by Dario Kondratiuk 
@@ -1418,6 +1438,8 @@ Static web hosting services
 <br>
 
 ### Career
+
+/kəˈrɪr/
 
 - The Complete Software Developer's Career Guide: How to Learn Programming Languages Quickly, Ace Your Programming Interview, and Land Your Software Developer Dream Job by John Z. Sonmez
 - Cracking the Tech Career: Insider Advice on Landing a Job at Google, Microsoft, Apple, or any Top Tech Company by Gayle Laakmann McDowell
