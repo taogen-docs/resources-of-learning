@@ -1338,6 +1338,7 @@ Some more
 - Deep Learning: A Visual Approach (2021) by Andrew Glassner [4.9, 61]
 - Deep Learning for Vision Systems (2020) by Mohamed Elgendy [4.3, 48]
 - Deep Learning from Scratch: Building with Python from First Principles (2019) by Seth Weidman [4.0, 45]
+- Practical Deep Learning for Cloud, Mobile, and Edge: Real-World AI & Computer-Vision Projects Using Python, Keras & TensorFlow (2019) by Anirudh Koul, Siddha Ganju, Meher Kasam [4.6, 44]
 - Deep Learning: Foundations and Concepts (2024th) by Christopher M. Bishop, Hugh Bishop [4.6, 40]
 - Deep Learning Cookbook: Practical Recipes to Get Started Quickly (2018) by Douwe Osinga [3.93, 29]
 - Practical Deep Learning: A Python-Based Introduction (2nd, 2025) by Ronald T. Kneusel
@@ -1428,15 +1429,23 @@ Some more
 
 ### Recommender Systems
 
-- Recommender Systems: The Textbook by Charu C. Aggarwal
-- Recommender Systems Handbook by Francesco Ricci, Lior Rokach, Bracha Shapira
-- Practical Recommender Systems by Kim Falk
-- Statistical Methods for Recommender Systems by Bee-Chung Chen and Deepak K. Agarwal
-- Recommender Systems: An Introduction by Dietmar Jannach, Markus Zanker, Alexander Felfernig, Gerhard Friedrich
-- Hands-On Recommendation Systems with Python: Start Building Powerful and Personalized, Recommendation Engines with Python by Rounak Banik
-- Programming Collective Intelligence by Toby Segaran
+- Programming Collective Intelligence (2002) by Toby Segaran [4.07, 1457]
+- Practical Recommender Systems (2019) by Kim Falk [4.15, 84]
+- Recommendation Engines (2020) by Michael Schrage [3.7, 105]
+- Recommender Systems: An Introduction (2010) by Dietmar Jannach, Markus Zanker, Alexander Felfernig, Gerhard Friedrich [4.06, 54]
+- Recommender Systems: The Textbook (2016) by Charu C. Aggarwal [4.28, 47]
+- Recommender Systems Handbook (3rd, 2022) by Francesco Ricci, Lior Rokach, Bracha Shapira [4.3, 37]
+- 推荐系统实践 by 项亮
+- 深度学习推荐系统 by 王喆
 
-Papers
+Some more
+
+- Statistical Methods for Recommender Systems by Bee-Chung Chen and Deepak K. Agarwal
+- Hands-On Recommendation Systems with Python: Start Building Powerful and Personalized, Recommendation Engines with Python (2002) by Rounak Banik
+- Building Recommendation Systems in Python and JAX: Hands-On Production Systems at Scale (2024) by Bryan Bischof Ph.D, Hector Yee
+- Applied Recommender Systems with Python: Build Recommender Systems with Deep Learning, NLP and Graph-Based Techniques (2022) by Akshay Kulkarni, Adarsha Shivananda, Anoosh Kulkarni 
+
+### Artificial Intelligence Papers
 
 - [Artificial Intelligence - Elsevier](https://www.journals.elsevier.com/artificial-intelligence)
 - [Top Papers in Machine Learning - Papers With Code](https://paperswithcode.com/greatest)
