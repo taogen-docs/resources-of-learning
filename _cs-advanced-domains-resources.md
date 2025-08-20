@@ -1323,7 +1323,8 @@ Courses
 
 - [Machine Learning Crash Course - Google Developer](https://developers.google.com/machine-learning/crash-course)
 - [Data Science: Machine Learning - Harvard](https://pll.harvard.edu/course/data-science-machine-learning)
-- [CS229: Machine Learning - Stanford](https://online.stanford.edu/courses/cs229-machine-learning)
+- [CS229: Machine Learning - Stanford](https://online.stanford.edu/courses/cs229-machine-learning) 
+	- [Stanford CS229: Machine Learning Full Course taught by Andrew Ng 吴恩达 | Autumn 2018 - YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 - [6.036: Introduction to Machine Learning - MIT](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about)
 
 ### Deep Learning
@@ -1353,7 +1354,8 @@ Some more
 
 Courses
 
-- [CS230: Deep Learning - Stanford](https://online.stanford.edu/courses/cs230-deep-learning)
+- [CS230: Deep Learning - Stanford](https://online.stanford.edu/courses/cs230-deep-learning) by Andrew Ng 吴恩达
+	- [Stanford CS230: Deep Learning | Autumn 2018 - YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
 - [MIT 6.S191 Introduction to Deep Learning](https://introtodeeplearning.com/)
 - [Practical Deep Learning for Coders](https://course.fast.ai/)
 - [【2025版】李沐深度学习系列课程](https://www.bilibili.com/video/BV1daQAYuEYm/). 涵盖CNN、RNN、LSTM、GAN、DQN、transformer、自编码器和注意力机制等神经网络核心知识点
@@ -1531,7 +1533,7 @@ Courses
 
 #### TensorFlow & Keras
 
->An open-source software library developed by Google for machine learning and artificial intelligence, particularly for deep learning. It provides tools and resources for building and training neural networks and other machine learning models. TensorFlow is widely used in various applications, including image recognition, natural language processing, and recommendation systems. 
+>TensorFlow is an open-source software library developed by Google for machine learning and artificial intelligence, particularly for deep learning. It provides tools and resources for building and training neural networks and other machine learning models. TensorFlow is widely used in various applications, including image recognition, natural language processing, and recommendation systems. 
 
 - [TensorFlow](https://www.tensorflow.org/). An end-to-end platform for machine learning.
 - [TensorFlow Tutorial - Tutorialspoint](https://www.tutorialspoint.com/tensorflow/index.htm)
