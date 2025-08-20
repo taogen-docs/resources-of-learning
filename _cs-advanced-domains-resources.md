@@ -1289,13 +1289,12 @@ Some more
 
 Machine Learning
 
-- Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems (3rd, 2022) by Aurélien Géron [4.5, 2722]
 - Pattern Recognition and Machine Learning (2006) by Christopher M. Bishop [4.32, 1885]
 - The Hundred-Page Machine Learning Book (2019) by Andriy Burkov [4.25, 1386]
 - Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications (2022) by Chip Huyen [4.5, 900]
 - Machine Learning (1986) by Tom M. Mitchell [4.07, 853]
-- Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow 2 (3rd, 2019) by Sebastian Raschka, Vahid Mirjalili [4.25, 753]
 - Introduction to Machine Learning with Python: A Guide for Data Scientists (2016) by Andreas C. Müller, Sarah Guido [4.34, 587]
+- Machine Learning With Random Forests And Decision Trees: A Visual Guide For Beginners (2016) by Scott Hartshorn [4.0, 546]
 - Machine Learning: A Probabilistic Perspective (2012) Kevin P. Murphy [4.34, 520]
 - Machine Learning For Absolute Beginners: A Plain English Introduction (2020) by Oliver Theobald [4.12, 458]
 - Machine Learning Design Patterns: Solutions to Common Challenges in Data Preparation, Model Building, and MLOps (2020) by Valliappa Lakshmanan, Sara Robinson, Michael Munn [4.2, 266]
@@ -1305,29 +1304,37 @@ Some more
 
 - Machine Learning in Action (2011) by Peter Harrington [3.78, 240] 
 - The StatQuest Illustrated Guide To Machine Learning (2022) by Josh Starmer [4.71, 192]
+- Machine Learning with Neural Networks: An In-depth Visual Introduction with Python: Make Your Own Neural Network in Python: A Simple Guide on Machine Learning with Neural Networks (2017) by Michael Taylor, Mark Koning [4.0, 173]
 - Machine Learning Engineering (2020) by Andriy Burkov [4.31, 140]
 - Understanding Machine Learning: From Theory to Algorithms (2014) by Shai Shalev-Shwartz, Shai Ben-David [4.21, 131]
 - Foundations of Machine Learning (2nd, 2018) by Mehryar Mohri, Afshin Rostamizadeh, Ameet Talwalkar [4.21, 94]
-- Machine Learning with PyTorch and Scikit-Learn: Develop machine learning and deep learning models with Python (2022) by Sebastian Raschka, Yuxi (Hayden) Liu, Vahid Mirjalili [4.41, 90]
 - Grokking Machine Learning (2021) by Luis G. Serrano [4.47, 64]
+- Learning Deep Learning: Theory and Practice of Neural Networks, Computer Vision, Natural Language Processing, and Transformers Using TensorFlow (2021) by Magnus Ekman
+- Machine Learning Pocket Reference: Working with Structured Data in Python (2019) by Matt Harrison 
 - Python Machine Learning By Example: Unlock machine learning best practices with real-world use cases (4th, 2024) by Yuxi (Hayden) Liu 
-- Hands-On Machine Learning with Scikit-Learn and PyTorch: Concepts, Tools, and Techniques to Build Intelligent Systems (2025) by Aurélien Géron
+- Machine Learning with Python Cookbook: Practical Solutions from Preprocessing to Deep Learning (2nd, 2023) by Kyle Gallatin (Author), Chris Albon 
 
 Mathematics for Machine Learning
 
 - Mathematics of Machine Learning: Master linear algebra, calculus, and probability for machine learning (2025) by Tivadar Danka
 - Mathematics for Machine Learning (2020) by Marc Peter Deisenroth
+
+Courses
+
+- [Machine Learning Crash Course - Google Developer](https://developers.google.com/machine-learning/crash-course)
+- [Data Science: Machine Learning - Harvard](https://pll.harvard.edu/course/data-science-machine-learning)
+- [CS229: Machine Learning - Stanford](https://online.stanford.edu/courses/cs229-machine-learning)
+- [6.036: Introduction to Machine Learning - MIT](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about)
+
 ### Deep Learning
 
 - Deep Learning (2016) by Aaron Courville, Ian Goodfellow, and Yoshua Bengio (**花书**) [4.43, 1903]
 - Deep Learning with Python (3rd, 2025) by Francois Chollet [4.57, 1273]
-- Make Your Own Neural Network (2016) by Tariq Rashid [4.35, 660]
 - The Deep Learning Revolution (2018) by Terry Sejnowski [3.75, 491]
 - Neural Networks and Deep Learning (2013) by Michael Nielsen [4.56, 417]
 - Deep Learning (The MIT Press Essential Knowledge series) (2019) by John D. Kelleher [3.9, 443]
+- Generative Deep Learning: Teaching Machines To Paint, Write, Compose, and Play (2nd, 2023) by David Foster [4.3, 245]
 - Grokking Deep Learning (2019) by Andrew W. Trask [4.23, 238]
-- Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD (2020) by Jeremy Howard and Sylvain Gugger [4.48, 211]
-- Deep Learning with PyTorch: Build, train, and tune neural networks using Python tools (2020) by Eli Stevens, Luca Antiga [4.19, 135]
 - Fundamentals of Deep Learning: Designing Next-Generation Machine Intelligence Algorithms (2nd, 2022) by Nicholas Locascio and Nikhil Buduma [3.86, 112]
 - Deep Learning Illustrated: A Visual, Interactive Guide to Artificial Intelligence (2019) by Jon Krohn, Grant Beyleveld, Aglaé Bassens [4.3, 107]
 
@@ -1338,14 +1345,17 @@ Some more
 - Deep Learning: A Visual Approach (2021) by Andrew Glassner [4.9, 61]
 - Deep Learning for Vision Systems (2020) by Mohamed Elgendy [4.3, 48]
 - Deep Learning from Scratch: Building with Python from First Principles (2019) by Seth Weidman [4.0, 45]
-- Practical Deep Learning for Cloud, Mobile, and Edge: Real-World AI & Computer-Vision Projects Using Python, Keras & TensorFlow (2019) by Anirudh Koul, Siddha Ganju, Meher Kasam [4.6, 44]
 - Deep Learning: Foundations and Concepts (2024th) by Christopher M. Bishop, Hugh Bishop [4.6, 40]
 - Deep Learning Cookbook: Practical Recipes to Get Started Quickly (2018) by Douwe Osinga [3.93, 29]
 - Practical Deep Learning: A Python-Based Introduction (2nd, 2025) by Ronald T. Kneusel
+- Artificial Intelligence with Python Cookbook: Proven recipes for applying AI algorithms and deep learning techniques using TensorFlow 2.x and PyTorch 1.6 (2020) by Ben Auffarth 
 - Dive into Deep Learning (2023) by Mu Li, Aston Zhang, Zachary Lipton, Alexander J. Smola [HTML](https://d2l.ai/) （中文版：动手学深度学习 by 李沐 [HTML](https://zh.d2l.ai/) ）
 
 Courses
 
+- [CS230: Deep Learning - Stanford](https://online.stanford.edu/courses/cs230-deep-learning)
+- [MIT 6.S191 Introduction to Deep Learning](https://introtodeeplearning.com/)
+- [Practical Deep Learning for Coders](https://course.fast.ai/)
 - [【2025版】李沐深度学习系列课程](https://www.bilibili.com/video/BV1daQAYuEYm/). 涵盖CNN、RNN、LSTM、GAN、DQN、transformer、自编码器和注意力机制等神经网络核心知识点
 
 Math for Deep Learning
@@ -1353,6 +1363,11 @@ Math for Deep Learning
 - Math and Architectures of Deep Learning (2024) by Krishnendu Chaudhury
 - Math for Deep Learning: What You Need to Know to Understand Neural Networks (2021) by Ronald T. Kneusel
 - Inside Deep Learning: Math, Algorithms, Models (2022) by Edward Raff 
+
+### Neural Network
+
+- Make Your Own Neural Network (2016) by Tariq Rashid [4.3, 693]
+- The Math of Neural Networks (2017) by Michael Taylor
 
 ### Reinforcement Learning
 
@@ -1396,7 +1411,6 @@ Math for Deep Learning
 Some more
 
 - Practical Machine Learning for Computer Vision: End-to-End Machine Learning for Images (2021) by Valliappa Lakshmanan, Martin Görner, Ryan Gillard 
-- Modern Computer Vision with PyTorch: A practical roadmap from deep learning fundamentals to advanced applications and Generative AI (2nd, 2024) by V Kishore Ayyadevara, Yeshwanth Reddy
 - Practical Computer Vision with SimpleCV by Demaagd
 - Learning OpenCV 3: Computer Vision in C++ with the OpenCV Library (2017) by Adrian Kaehler, Gary Bradski
 - Foundations of Computer Vision (2024) by Antonio Torralba, Phillip Isola, William T. Freeman
@@ -1405,27 +1419,28 @@ Some more
 ### Natural Language Processing
 
 - Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics and Speech Recognition (2000) by Daniel Jurafsky and James H. Martin [4.28, 633]
-- Natural Language Processing with Python: Analyzing Text with the Natural Language Toolkit (2009) by Edward Loper, Ewan Klein, and Steven Bird [4.1, 567]
+- Natural Language Processing with Python: Analyzing Text with the Natural Language Toolkit (2009) by Edward Loper, Ewan Klein, and Steven Bird [4.1, 567] [Online book](https://www.nltk.org/book/)
 - Foundations of Statistical Natural Language Processing (1999) by Christopher D. Manning and Hinrich Schütze [4.1, 261]
-- Natural Language Processing with Transformers: Building Language Applications with Hugging Face (2022) by Lewis Tunstall, Leandro von Werra, Thomas Wolf [4.4, 201]
 - Practical Natural Language Processing: A Comprehensive Guide to Building Real-World NLP Systems (2020) by Sowmya Vajjala, Bodhisattwa Majumder, Anuj Gupta [3.9, 75]
 - Natural Language Processing in Action (2nd, 2025) by Hobson Lane, Cole Howard, Hannes Hapke [4.11, 71]
 - Neural Network Methods for Natural Language Processing by Yoav Goldberg, Graeme Hirst [4.45, 65]
 - Applied Text Analysis with Python: Enabling Language-Aware Data Products with Machine Learning by Benjamin Bengfort, Rebecca Bilbro, and Tony Ojeda [3.82, 56]
 - Text Analytics with Python: A Practitioner's Guide to Natural Language Processing (2nd, 2019) by Dipanjan Sarkar [4.12, 49]
-- Transformers for Natural Language Processing: Build, train, and fine-tune deep neural network architectures for NLP with Python, Hugging Face, and OpenAI's GPT-3, ChatGPT, and GPT-4 (2nd, 2022) by Denis Rothman [4.19, 43]
 
 Some more
 
 - Introduction to Natural Language Processing (2019) by Jacob Eisenstein
-- Natural Language Processing with PyTorch: Build Intelligent Language Applications Using Deep Learning (2019) by Delip Rao, Brian McMahan
 - Natural Language Processing with Python and spaCy: A Practical Introduction (2020) by Yuli Vasiliev
 - Python Natural Language Processing Cookbook: Over 60 recipes for building powerful NLP solutions using Python and LLM libraries (2nd, 2024) by Zhenya Antić, Saurabh Chakravarty
 - Representation Learning for Natural Language Processing (2020) by Zhiyuan Liu, Yankai Lin, Maosong Sun
 - Getting Started with Natural Language Processing (2022) by Ekaterina Kochmar
 - Real-World Natural Language Processing: Practical applications with deep learning (2021) by Masato Hagiwara
-- Natural Language Processing with TensorFlow: The definitive NLP book to implement the most sought-after machine learning models and tasks (2nd, 2022) by Thushan Ganegedara
 
+Courses
+
+- [CS224N: Natural Language Processing with Deep Learning - Stanford](https://web.stanford.edu/class/cs224n/)
+- [NLP Tutorial Python - YouTube](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuvuAXhYjV2lMEShq2UYSwX)
+- [Live NLP Playlist - YouTube](https://www.youtube.com/playlist?list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn)
 
 ### Recommender Systems
 
@@ -1444,6 +1459,117 @@ Some more
 - Hands-On Recommendation Systems with Python: Start Building Powerful and Personalized, Recommendation Engines with Python (2002) by Rounak Banik
 - Building Recommendation Systems in Python and JAX: Hands-On Production Systems at Scale (2024) by Bryan Bischof Ph.D, Hector Yee
 - Applied Recommender Systems with Python: Build Recommender Systems with Deep Learning, NLP and Graph-Based Techniques (2022) by Akshay Kulkarni, Adarsha Shivananda, Anoosh Kulkarni 
+
+### Frameworks
+
+#### Scikit-learn
+
+>Scikit-learn, often referred to as `sklearn`, is a free and open-source machine learning library for the Python programming language. It is built upon the numerical and scientific libraries NumPy, SciPy, and Matplotlib, and provides a wide range of algorithms for various machine learning tasks.
+
+- [scikit-learn](https://scikit-learn.org/stable/). Machine Learning in Python
+- Mastering Machine Learning with scikit-learn - Second Edition: Apply effective learning algorithms to real-world problems using scikit-learn (2nd, 2017) by Gavin Hackeling
+- Hands-On Machine Learning with scikit-learn and Scientific Python Toolkits: A practical guide to implementing supervised and unsupervised machine learning algorithms in Python (2020) by Tarek Amr 
+- Learning scikit-learn Machine Learning in Python (2022) by Brandon Pondexter
+
+#### PyTorch
+
+> PyTorch is a Python package that provides two high-level features: 1. Tensor computation (like NumPy) with strong GPU acceleration. 2. Deep neural networks built on a tape-based autograd system.
+
+- [PyTorch documentation](https://docs.pytorch.org/docs/stable/index.html)
+- [PyTorch Tutorials](https://docs.pytorch.org/tutorials/)
+- [yunjey/pytorch-tutorial - GitHub](https://github.com/yunjey/pytorch-tutorial)
+- [PyTorch Tutorial - Tutorialspoint](https://www.tutorialspoint.com/pytorch/index.htm)
+- Machine Learning
+	- Machine Learning with PyTorch and Scikit-Learn: Develop machine learning and deep learning models with Python (2022) by Sebastian Raschka, Yuxi (Hayden) Liu, Vahid Mirjalili [4.41, 90]
+	- Hands-On Machine Learning with Scikit-Learn and PyTorch: Concepts, Tools, and Techniques to Build Intelligent Systems (2025) by Aurélien Géron
+- Deep Learning
+	- Deep Learning with PyTorch: Build, train, and tune neural networks using Python tools (2020) by Eli Stevens, Luca Antiga [4.19, 135]
+	- Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD (2020) by Jeremy Howard and Sylvain Gugger [4.48, 211]
+	- Deep Learning with PyTorch Step-by-Step: A Beginner's Guide: Volume I: Fundamentals (2022) by Daniel Voigt Godoy
+	- PyTorch Pocket Reference: Building and Deploying Deep Learning Models (2021) by Joe Papa
+	- Programming PyTorch for Deep Learning: Creating and Deploying Deep Learning Applications (2019) by Ian Pointer
+- Generative AI 
+	- AI and ML for Coders in PyTorch: A Coder's Guide to Generative AI and Machine Learning (2025) by Laurence Moroney
+	- The Hundred-Page Language Models Book: hands-on with PyTorch (2025) by Andriy Burkov
+	- Mastering PyTorch: Create and deploy deep learning models from CNNs to multimodal models, LLMs, and beyond (2nd, 2024) by Ashish Ranjan Jha
+	- Generative AI with Python and PyTorch: Navigating the AI frontier with LLMs, Stable Diffusion, and next-gen AI applications (2nd, 2025) by Joseph Babcock (Author), Raghav Bali 
+	- Learn Generative AI with PyTorch (2024) by Mark Liu
+	- The StatQuest Illustrated Guide to Neural Networks and AI: With hands-on examples in PyTorch!!! (2025) by Josh Starmer
+	- Accelerate Model Training with PyTorch 2.X: Build more accurate models by boosting the model training process (2024) by Maicon Melo Alves
+	- AI Systems Performance Engineering: Optimizing Model Training and Inference Workloads with GPUs, CUDA, and PyTorch (2025) by Chris Fregly 
+- Computer Vision
+	- Modern Computer Vision with PyTorch: A practical roadmap from deep learning fundamentals to advanced applications and Generative AI (2nd, 2024) by V Kishore Ayyadevara, Yeshwanth Reddy
+- Natural Language Processing
+	- Natural Language Processing with PyTorch: Build Intelligent Language Applications Using Deep Learning (2019) by Delip Rao, Brian McMahan
+
+Courses
+
+- [PyTorch Tutorials - YouTube](https://www.youtube.com/playlist?list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz)
+- [Deep Learning With PyTorch - YouTube](https://www.youtube.com/playlist?list=PLCC34OHNcOtpcgR9LEYSdi9r7XIbpkpK1)
+- [PyTorch Tutorials - Complete Beginner](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4)
+
+#### Transformers
+
+>Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
+
+
+- [Transformers](https://github.com/huggingface/transformers)
+- [NielsRogge/Transformers-Tutorials - GitHub](https://github.com/NielsRogge/Transformers-Tutorials)
+- How Transformers Work: A Detailed Exploration of Transformer Architecture [Link](https://www.datacamp.com/tutorial/how-transformers-work)
+- [Transformers: a Primer](https://www.columbia.edu/~jsl2239/transformers.html). A math-guided tour of the Transformer architecture and preceding literature.
+- Natural Language Processing
+	- Natural Language Processing with Transformers: Building Language Applications with Hugging Face (2022) by Lewis Tunstall, Leandro von Werra, Thomas Wolf [4.4, 201]
+	- Transformers for Natural Language Processing: Build, train, and fine-tune deep neural network architectures for NLP with Python, Hugging Face, and OpenAI's GPT-3, ChatGPT, and GPT-4 (2nd, 2022) by Denis Rothman [4.19, 43]
+	- Introduction to Transformers for NLP: With the Hugging Face Library and Models to Solve Problems (2022) by Shashank Mohan Jain
+	- Transformers for Natural Language Processing and Computer Vision: Explore Generative AI and Large Language Models with Hugging Face, ChatGPT, GPT-4V, and DALL-E 3 (3rd, 2024) by Denis Rothman
+	- Mastering Transformers: Build state-of-the-art models from scratch with advanced natural language processing techniques (2021) by Savaş Yıldırım, Meysam Asgari- Chenaghlu
+- Machine Learning
+	- Transformers for Machine Learning: A Deep Dive (2022) by Uday Kamath (Author), Kenneth Graham (Author), Wael Emara
+- Generative AI
+	- Mastering Transformers: The Journey from BERT to Large Language Models and Stable Diffusion (2nd, 2024) by Savaş Yıldırım (Author), Meysam Asgari- Chenaghlu
+	- Hands-On Generative AI with Transformers and Diffusion Models (2024) by Omar Sanseviero (Author), Pedro Cuenca (Author), Apolinário Passos
+
+#### TensorFlow & Keras
+
+>An open-source software library developed by Google for machine learning and artificial intelligence, particularly for deep learning. It provides tools and resources for building and training neural networks and other machine learning models. TensorFlow is widely used in various applications, including image recognition, natural language processing, and recommendation systems. 
+
+- [TensorFlow](https://www.tensorflow.org/). An end-to-end platform for machine learning.
+- [TensorFlow Tutorial - Tutorialspoint](https://www.tutorialspoint.com/tensorflow/index.htm)
+- [aymericdamien/TensorFlow-Examples - GitHub](https://github.com/aymericdamien/TensorFlow-Examples). TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2).
+- TensorFlow Tutorial For Beginners [Link](https://www.datacamp.com/tutorial/tensorflow-tutorial)
+- TensorFlow in Action (2022) by Thushan Ganegedara
+- Machine Learning
+	- Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems (3rd, 2022) by Aurélien Géron [4.5, 2722]
+	- Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow 2 (3rd, 2019) by Sebastian Raschka, Vahid Mirjalili [4.25, 753]
+	- TensorFlow 2 Pocket Reference: Building and Deploying Machine Learning Models (2021) by KC Tung 
+	- Machine Learning with TensorFlow (2nd, 2021) by Mattmann A. Chris
+- Deep Learning
+	- Deep Learning with TensorFlow and Keras: Build and deploy supervised, unsupervised, deep, and reinforcement learning models (3rd, 2022) by Amita Kapoor, Antonio Gulli, Sujit Pal
+	- Learning TensorFlow: A Guide to Building Deep Learning Systems (2017) by Tom Hope (Author), Yehezkel S. Resheff (Author), Itay Lieder
+	- Advanced Deep Learning with TensorFlow 2 and Keras: Apply DL, GANs, VAEs, deep RL, unsupervised learning, object detection and segmentation, and more (2nd, 2020) by Rowel Atienza 
+	- Deep Learning with TensorFlow 2 and Keras: Regression, ConvNets, GANs, RNNs, NLP, and more with TensorFlow 2 and the Keras API (2nd, 2019) by Antonio Gulli (Author), Amita Kapoor (Author), Sujit Pal
+	- Practical Deep Learning for Cloud, Mobile, and Edge: Real-World AI & Computer-Vision Projects Using Python, Keras & TensorFlow (2019) by Anirudh Koul, Siddha Ganju, Meher Kasam [4.6, 44]
+- Generative AI
+	- Generative AI with Python and TensorFlow 2: Create images, text, and music with VAEs, GANs, LSTMs, Transformer models (2021) by Joseph Babcock
+- Natural Language Processing
+	- Advanced Natural Language Processing with TensorFlow 2: Build effective real-world NLP applications using NER, RNNs, seq2seq models, Transformers, and more (2021) by Ashish Bansal 
+
+TinyML
+
+- TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers (2020) by Pete Warden, Daniel Situnayake
+
+TensorFlow.js
+
+- Learning TensorFlow.js: Powerful Machine Learning in JavaScript (2021) by Gant Laborde
+- Deep Learning with JavaScript: Neural networks in TensorFlow.js (2020) by Shanqing Cai (Author), Stan Bileschi (Author), Eric Nielsen
+
+**Keras**
+
+>Keras is a deep learning API designed for human beings, not machines. Keras focuses on debugging speed, code elegance & conciseness, maintainability, and deployability. When you choose Keras, your codebase is smaller, more readable, easier to iterate on.
+
+>Keras is a high-level API for building and training deep learning models. It was designed for rapid prototyping and ease of use, abstracting away much of the complexity of lower-level frameworks. Keras can run on top of various backends, including TensorFlow, Theano, and Microsoft CNTK. In TensorFlow 2.0 and later, Keras became the official high-level API within TensorFlow, accessible as `tf.keras`.
+
+- [Keras](https://keras.io/). Deep Learning for humans.
 
 ### Artificial Intelligence Papers
 

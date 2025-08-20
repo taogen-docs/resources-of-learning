@@ -26,6 +26,7 @@ Guide
 Generative AI
 
 - [What is a Large Language Model (LLM)?](https://www.mlq.ai/what-is-a-large-language-model-llm/)
+- [LLM Course - Hugging Face](https://huggingface.co/learn/llm-course/chapter1/1)
 - Generative AI in Action (2024) by Amit Bahree
 - Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play (2nd, 2023) by David Foster
 - Hands-On Large Language Models: Language Understanding and Generation (2024) by Jay Alammar, Maarten Grootendorst 
