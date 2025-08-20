@@ -764,18 +764,18 @@ Courses
 - [尚硅谷Java项目《谷粒商城》架构师级Java项目实战](https://www.bilibili.com/video/BV1np4y1C7Yf/)
 - [【狂神说Java】SpringCloud最新教程IDEA版](https://www.bilibili.com/video/BV1jJ411S7xr/)
 
-**Spring Boot versions and Spring Cloud versions**
+**Spring Cloud versions**
 
-| Spring Cloud Version                                      | Spring Boot Version                                   | Java Version |
-| --------------------------------------------------------- |-------------------------------------------------------| ------------ |
-| [2025.0.x](https://spring.io/projects/spring-cloud#learn) | [3.5.x](https://spring.io/projects/spring-boot#learn) | Java 17+     |
-| 2024.0.x                                                  | 3.4.x                                                 | Java 17+     |
-| 2023.0.x (Leyton)                                         | 3.2.x                                                 | Java 17+     |
-| 2022.0.x (Kilburn)                                        | 3.0.x or 3.1.x                                        | Java 17+     |
-| 2021.0.x (Jubilee)                                        | 2.6.x or 2.7.x                                        | Java 8~21    |
-| 2020.0.x (Ilford)                                         | 2.4.x or 2.5.x                                        | Java 8~21    |
-| Hoxton                                                    | 2.2.x or 2.3.x                                        | Java 8~21    |
-| Greenwich                                                 | 2.1.x                                                 | Java 8~21    |
+| Spring Cloud Version                                      | Spring Cloud Component Version                                                                                  | Spring Boot Version                                   | Java Version |
+| --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ------------ |
+| [2025.0.x](https://spring.io/projects/spring-cloud#learn) | Mostly [4.3.x](https://docs.spring.io/spring-cloud-release/reference/index.html#_release_train_projects)        | [3.5.x](https://spring.io/projects/spring-boot#learn) | Java 17+     |
+| 2024.0.x                                                  | Mostly [4.2.x](https://docs.spring.io/spring-cloud-release/reference/2024.0/index.html#_release_train_projects) | 3.4.x                                                 | Java 17+     |
+| 2023.0.x (Leyton)                                         | Mostly [4.1.x](https://docs.spring.io/spring-cloud-release/reference/2023.0/index.html#_release_train_projects) | 3.2.x                                                 | Java 17+     |
+| 2022.0.x (Kilburn)                                        | -                                                                                                               | 3.0.x or 3.1.x                                        | Java 17+     |
+| 2021.0.x (Jubilee)                                        | -                                                                                                               | 2.6.x or 2.7.x                                        | Java 8~21    |
+| 2020.0.x (Ilford)                                         | -                                                                                                               | 2.4.x or 2.5.x                                        | Java 8~21    |
+| Hoxton                                                    | -                                                                                                               | 2.2.x or 2.3.x                                        | Java 8~21    |
+| Greenwich                                                 | -                                                                                                               | 2.1.x                                                 | Java 8~21    |
 
 #### Spring Cloud Alibaba
 
