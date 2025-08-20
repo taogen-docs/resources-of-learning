@@ -1571,6 +1571,15 @@ TensorFlow.js
 
 - [Keras](https://keras.io/). Deep Learning for humans.
 
+#### SpaCy
+
+>SpaCy is an open-source Natural Language Processing (NLP) library in Python, designed for fast, efficient, and production-ready text processing. It’s widely used in AI, machine learning, and data science for working with human language data.
+
+- [SpaCy](https://spacy.io/). Industrial-strength Natural Language Processing in Python
+- Mastering spaCy: Build structured NLP solutions with custom components and models powered by spacy-llm (2nd, 2025) by Déborah Mesquita, Duygu Altinok
+- Natural Language Processing with Python and spaCy: A Practical Introduction (2020) by Yuli Vasiliev
+- Mastering spaCy: An end-to-end practical guide to implementing NLP applications using the Python ecosystem (2021) by Duygu Altinok
+
 ### Artificial Intelligence Papers
 
 - [Artificial Intelligence - Elsevier](https://www.journals.elsevier.com/artificial-intelligence)
