@@ -815,6 +815,19 @@ Docker Desktop alternatives
 >Containers and orchestrators enable developers to build and deploy applications with a speed, agility, and reliability.
 
 <details>
+<summary>When to use it or not</summary>
+
+If your application is a large monolith, you definitely don’t need Kubernetes.
+
+Even if you deploy microservices, using Kubernetes may not be the best option, especially if the number of your microservices is very small.
+
+If your system consists of less than five microservices, throwing Kubernetes into the mix is probably not a good idea. If your system has more than twenty microservices, you will most likely benefit from the integration of Kubernetes. If the number of your microservices falls somewhere in between, other factors should be considered, such as invest your engineers’ time into learning Kubernetes, increased costs.
+
+Microservice-based applications are more difficult to manage than monolithic applications. The more microservices you have, the more you need to automate their management with a system like Kubernetes.
+
+</details>
+
+<details>
     <summary>Kubernetes 的理解</summary>
 
 K8S 整体是一个分布式的高可用架构，运行这个架构之上的应用不需要应用本身具有高可用的特点(降低应用开发者的门槛)，而可以借助架构的能力让应用高可用。
@@ -864,15 +877,29 @@ Components
 
 Infrastructure abstraction using Kubernetes
 
+>When software developers or operators decide to deploy an application, they do this through Kubernetes instead of deploying the application to individual computers. Kubernetes provides an abstraction layer over the underlying hardware to both users and applications.
+
 ![Infrastructure-abstraction-using-Kubernetes.png](images/Infrastructure-abstraction-using-Kubernetes.png)
 
-Minikube
+**kubectl**
+
+/kube control/
+
+- [kubectl Docks](https://kubernetes.io/docs/reference/kubectl/)
+- [kubectl command Docs](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands)
+
+**Enterprise-quality self-managed Kubernetes distribution**
+
+- [Red Hat OpenShift](https://www.redhat.com/en/technologies/cloud-computing/openshift)
+- [Rancher](https://www.rancher.com/)
+
+**Minikube**
 
 >minikube implements a local Kubernetes cluster on macOS, Linux, and Windows. minikube's primary goals are to be the best tool for local Kubernetes application development and to support all Kubernetes features that fit.
 
 - [minikube](https://minikube.sigs.k8s.io/docs/)
 
-Cloud Native Computing Foundation (CNCF)
+**Cloud Native Computing Foundation (CNCF)**
 
 >The Cloud Native Computing Foundation (CNCF) is a nonprofit, vendor-neutral organization under the Linux Foundation that promotes the adoption and development of cloud native technologies.
 
