@@ -862,6 +862,10 @@ Components
 - **Namespaces** provide isolation and access control, so that each microservice can control the degree to which other services interact with it.
 - **Ingress objects** provide an easy-to-use frontend that can combine multiple microservices into a single externalized API surface area.
 
+Infrastructure abstraction using Kubernetes
+
+![Infrastructure-abstraction-using-Kubernetes.png](images/Infrastructure-abstraction-using-Kubernetes.png)
+
 Minikube
 
 >minikube implements a local Kubernetes cluster on macOS, Linux, and Windows. minikube's primary goals are to be the best tool for local Kubernetes application development and to support all Kubernetes features that fit.
