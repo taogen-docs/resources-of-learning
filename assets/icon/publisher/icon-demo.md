@@ -10,6 +10,7 @@
 - Packt <img src="./packt-icon.svg" alt="packt-icon" height="20px" />
 - Pearson <img src="./pearson-icon.svg" alt="pearson-icon" height="18px" />
 - Wiley <img src="./wiley-icon.svg" alt="wilet-icon" height="14px" />
+- Pragmatic Bookshelf
 
 References
 

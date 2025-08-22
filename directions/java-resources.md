@@ -146,8 +146,11 @@ NIO
 
 #### Functional Programming
 
-- Mastering Lambdas: Java Programming in a Multicore World by Maurice Naftalin
-- Java 8 Lambdas: Pragmatic Functional Programming by Richard Warburton
+- Mastering Lambdas: Java Programming in a Multicore World (2014) by Maurice Naftalin
+- Java 8 Lambdas: Functional Programming For The Masses (2014) by Richard Warburton
+- Functional Programming in Java: Harness the Power of Streams and Lambda Expressions (2nd, 2023) by Venkat Subramaniam
+- Functional Programming in Java: How functional techniques improve your Java programs (2017) by Pierre-Yves Saumont
+- A Functional Approach to Java: Augmenting Object-Oriented Java Code with Functional Principles (2023) by Ben Weidig 
 
 #### Object-Oriented Programming
 

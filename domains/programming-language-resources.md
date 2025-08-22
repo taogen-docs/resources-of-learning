@@ -426,10 +426,15 @@ Directions
   - [Learn X in Y minutes - Groovy](https://learnxinyminutes.com/docs/groovy/)
   - [Groovy Tutorial - Tutorialspoint](https://www.tutorialspoint.com/groovy/)
   - [Refcard Groovy A Rapid-Development JVM Language - DZone](https://dzone.com/refcardz/groovy). a cheat sheet.
-- Groovy in Action by Dierk König, Andrew Glover, Paul King, Guillaume Laforge, Jon Skeet, James Gosling
-- Programming Groovy 2: Dynamic Productivity for the Java Developer by Venkat Subramaniam
-- Making Java Groovy by Kenneth A. Kousen
-- Groovy 2 Cookbook by Andrey Adamovich and Luciano Fiandesio
+- Groovy in Action (2nd, 2015) by Dierk König, Andrew Glover, Paul King, Guillaume Laforge, Jon Skeet, James Gosling
+- Programming Groovy 2: Dynamic Productivity for the Java Developer (2018) by Venkat Subramaniam
+- Making Java Groovy (2013) by Kenneth A. Kousen
+- Groovy 2 Cookbook (2013) by Andrey Adamovich and Luciano Fiandesio
+- Learning Groovy 3: Java-Based Dynamic Scripting (2019) by Adam L. Davis
+- Groovy Recipes: Greasing the Wheels of Java (2018) by Scott Davis 
+
+Grails
+
 - Grails in Action by Glen Smith, Peter Ledbrook
 - The definitive guide to Grails by Graeme Keith Rocher
 
