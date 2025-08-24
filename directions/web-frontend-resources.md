@@ -1187,13 +1187,15 @@ nestjs 做的事比 fastify/express 这些 http 框架多一些，某些场景�
 
 ### ORM frameworks
 
-- [Sequelize](https://sequelize.org/). A promise-based ORM for Node.js and io.js.
-- [TypeORM](https://typeorm.io/). An ORM for TypeScript and JavaScript (ES7, ES6, ES5) that supports Active Record and Data Mapper patterns.
-- [Prisma](https://www.prisma.io/). A modern database toolkit for TypeScript and Node.js that abstracts database access. It provides a type-safe API for interacting with your database.
-- [Objection.js](https://vincit.github.io/objection.js/). Built on top of Knex.js, Objection.js is a SQL-friendly ORM for JavaScript. It provides a powerful QueryBuilder and comprehensive model capabilities.
-- [Bookshelf.js](https://bookshelfjs.org/). A JavaScript ORM for Node.js, built on top of Knex.js, which provides a flavor of the Active Record pattern.
-- [MikroORM](https://mikro-orm.io/). TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns.
-- [Knex.js](https://knexjs.org/). SQL Query Builder for Javascript.
+- [Drizzle](https://orm.drizzle.team/). Next gen TypeScript ORM. ![GitHub Repo stars](https://img.shields.io/github/stars/drizzle-team/drizzle-orm)
+- [Kysely](https://kysely.dev/). The type-safe SQL query builder for TypeScript. ![GitHub Repo stars](https://img.shields.io/github/stars/kysely-org/kysely)
+- [MikroORM](https://mikro-orm.io/). TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. ![GitHub Repo stars](https://img.shields.io/github/stars/mikro-orm/mikro-orm)
+- [Sequelize](https://sequelize.org/). A promise-based ORM for Node.js and io.js. ![GitHub Repo stars](https://img.shields.io/github/stars/sequelize/sequelize)
+- [TypeORM](https://typeorm.io/). An ORM for TypeScript and JavaScript (ES7, ES6, ES5) that supports Active Record and Data Mapper patterns. ![GitHub Repo stars](https://img.shields.io/github/stars/typeorm/typeorm)
+- [Prisma](https://www.prisma.io/). A modern database toolkit for TypeScript and Node.js that abstracts database access. It provides a type-safe API for interacting with your database. ![GitHub Repo stars](https://img.shields.io/github/stars/prisma/prisma)
+- [Knex.js](https://knexjs.org/). SQL Query Builder for Javascript. ![GitHub Repo stars](https://img.shields.io/github/stars/knex/knex)
+- [Objection.js](https://vincit.github.io/objection.js/). Built on top of Knex.js, Objection.js is a SQL-friendly ORM for JavaScript. It provides a powerful QueryBuilder and comprehensive model capabilities. ![GitHub Repo stars](https://img.shields.io/github/stars/vincit/objection.js)
+- [Bookshelf.js](https://bookshelfjs.org/). A JavaScript ORM for Node.js, built on top of Knex.js, which provides a flavor of the Active Record pattern. ![GitHub Repo stars](https://img.shields.io/github/stars/bookshelf/bookshelf)
 
 ODM
 
