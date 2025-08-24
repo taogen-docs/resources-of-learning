@@ -888,7 +888,11 @@ Infrastructure abstraction using Kubernetes
 
 - Enable Kubernetes in Docker Desktop or Orbstack.
 - [minikube](https://minikube.sigs.k8s.io/docs/). minikube implements a local Kubernetes cluster on macOS, Linux, and Windows. minikube's primary goals are to be the best tool for local Kubernetes application development and to support all Kubernetes features that fit.
-- [kind](https://kind.sigs.k8s.io/) (**K**ubernetes **in** **D**ocker). kind is a tool for running local Kubernetes clusters using Docker container “nodes”. kind was primarily designed for testing Kubernetes itself, but may be used for local development or CI. 
+- [kind](https://kind.sigs.k8s.io/) (**K**ubernetes **in** **D**ocker). kind is a tool for running local Kubernetes clusters using Docker container “nodes”. kind was primarily designed for testing Kubernetes itself, but may be used for local development or CI.
+
+**Installing Kubernetes**
+
+- [kubernetes-the-hard-way](https://github.com/kelseyhightower/Kubernetes-the-hard-way). Bootstrap Kubernetes the hard way. No scripts.
 
 **Enterprise-quality self-managed Kubernetes distribution**
 
@@ -899,16 +903,28 @@ Infrastructure abstraction using Kubernetes
 
 Refer to [Kubernetes as a Service (KaaS)](#xaas_t)
 
-##### Kubernetes Tools
+##### Interacting with Kubernetes
 
 **kubectl**
 
-/kube control/
+/kube-control/ or /kube-cuddle/
 
 >kubectl is the command-line tool for interacting with Kubernetes clusters. It serves as the primary interface for users to control and manage Kubernetes resources, such as Deployments, Pods, Services, and more. 
 
 - [kubectl Docks](https://kubernetes.io/docs/reference/kubectl/)
 - [kubectl command Docs](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands)
+
+**IntelliJ IDEA Kubernetes Plugin**
+
+- [IntelliJ IDEA Kubernetes Plugin Documentation](https://www.jetbrains.com/help/idea/kubernetes.html)
+
+**Kubernetes Dashboard**
+
+>Note that the functionality of the dashboard may lag significantly behind `kubectl`.
+
+- [Kubernetes Dashboard](https://github.com/kubernetes/dashboard). General-purpose web UI for Kubernetes clusters
+
+##### Kubernetes Tools
 
 **Cloud Native Computing Foundation (CNCF)**
 

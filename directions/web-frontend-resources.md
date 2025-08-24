@@ -1042,6 +1042,22 @@ In terms of structure, Fastify is pretty much the same thing as Express. NestJS 
 
 </details>
 
+<details>
+<summary>框架选择</summary>
+
+大而全那当然是使用 nest。
+
+能选肯定是选 Nest ，以前总是想着小而美，回过头来还不如 Nest 自己帮你做完所有事。
+
+nestjs ，基本都是用这个，大部分功能都是开箱即用，也有很多周边插件。
+
+喜欢面向对象用 Nest, 觉得太重不喜欢就 Express, Fastify.
+
+nestjs 跟 java 的 spring 差不多，该有的功能都有了，适合特别喜欢依赖注入的 java/angular 人
+nestjs 做的事比 fastify/express 这些 http 框架多一些，某些场景下它们会一起出现，如果是中小型项目直接用 Fastify/Express/egg 也行。
+
+</details>
+
 **Nest.js**
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/nestjs/nest)  [![NPM Version](https://img.shields.io/npm/v/%40nestjs%2Fcore)](https://www.npmjs.com/~nestjscore)  ![GitHub last commit](https://img.shields.io/github/last-commit/nestjs/nest)   ![GitHub contributors](https://img.shields.io/github/contributors/nestjs/nest)  ![GitHub Created At](https://img.shields.io/github/created-at/nestjs/nest) ![NPM Downloads](https://img.shields.io/npm/dw/@nestjs/core) 
@@ -1147,6 +1163,18 @@ In terms of structure, Fastify is pretty much the same thing as Express. NestJS 
 
 - [SvelteKit](https://svelte.dev/docs/kit/introduction) - A framework for rapidly developing robust, performant web applications using Svelte.
 
+**AdonisJS**
+
+![GitHub Repo stars](https://img.shields.io/github/stars/adonisjs/core)  ![GitHub last commit](https://img.shields.io/github/last-commit/adonisjs/core)   ![GitHub contributors](https://img.shields.io/github/contributors/adonisjs/core)  ![GitHub Created At](https://img.shields.io/github/created-at/adonisjs/core) ![NPM Downloads](https://img.shields.io/npm/dw/@adonisjs/core)
+
+- [AdonisJS](https://adonisjs.com/). A fully featured web framework for Node.js. Create bespoke backend applications in record time. It built on top of TypeScript and inspired by frameworks like Laravel (PHP) and Ruby on Rails.
+
+**NitroJS**
+
+![GitHub Repo stars](https://img.shields.io/github/stars/nitrojs/nitro)  ![GitHub last commit](https://img.shields.io/github/last-commit/nitrojs/nitro)   ![GitHub contributors](https://img.shields.io/github/contributors/nitrojs/nitro)  ![GitHub Created At](https://img.shields.io/github/created-at/nitrojs/nitro) ![NPM Downloads](https://img.shields.io/npm/dw/nitro)
+
+- [Nitro](https://nitro.build/). Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer. NitroJS (Nitro) is the backend engine of **Nuxt**, making Nuxt a full-stack framework instead of just a frontend one.
+
 ### Headless CMS
 
 **Strapi**
@@ -1244,8 +1272,13 @@ Ranking
 - [State of JavaScript](https://stateofjs.com/en-US)
 - [State of CSS](https://stateofcss.com/en-US)
 - [State of React](https://stateofreact.com/en-US)
-- [npm trends](https://npmtrends.com/). Compare package download counts over time.
 - [Pick the right UI Library](https://ui-libs.vercel.app/)
+
+Tools
+
+- [npm trends](https://npmtrends.com/). Compare package download counts over time.
+- [NPM Chart](https://npm.chart.dev/). Search for a package to see its download stats over time.
+- [Package Phobia](https://packagephobia.com/). Package Phobia reports the size of an npm package before you install it. This is useful for inspecting potential dependencies or devDependencies. Find the cost of adding a new dev dependency to your project.
 
 Resources
 
