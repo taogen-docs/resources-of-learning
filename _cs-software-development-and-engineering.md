@@ -467,6 +467,10 @@ Some more
 - 架构修炼之道：亿级网关、平台开放、分布式、微服务、容错等核心技术修炼实践 (2019) by 王新栋 [6.8, 71]
 - 业务架构•应用架构•数据架构实战 (2021) by 温昱 [6.9, 58]
 
+Papers
+
+- [Architectural Styles and the Design of Network-based Software Architectures](https://ics.uci.edu/~fielding/pubs/dissertation/top.htm) by Roy Thomas Fielding. 2000.
+
 Resources
 
 - [donnemartin/system-design-primer - GitHub](https://github.com/donnemartin/system-design-primer) ⭐️256k

@@ -1175,6 +1175,46 @@ nestjs 做的事比 fastify/express 这些 http 框架多一些，某些场景�
 
 - [Nitro](https://nitro.build/). Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer. NitroJS (Nitro) is the backend engine of **Nuxt**, making Nuxt a full-stack framework instead of just a frontend one.
 
+### SPA vs Full-Stack
+
+1\. When a SPA (React, Vue, Angular) is enough
+
+When SEO is **not the primary concern**, and you want a rich, app-like experience:
+
+- Internal business tools / dashboards  
+    (e.g., admin panels, analytics dashboards, SaaS back-office UIs) → only logged-in users, SEO irrelevant.
+- Single-user workflows  
+    (e.g., project management apps, IDEs in the browser, CRMs).
+- Desktop-like feel  
+    Fast in-app navigation, no page reloads, lots of client-side interactivity.
+- Mostly behind auth  
+    If all pages require login, crawlers won’t index anyway.
+- You control the traffic  
+    If users arrive via direct links, email invites, or your app marketplace, SEO doesn’t matter.
+
+2\. When a Full-stack Framework (Next.js, Nuxt, SvelteKit, Remix) is better
+
+when **SEO, performance, or content reach matters**:
+
+- Marketing websites / landing pages  
+    Need Google ranking → SSR/SSG ensures content + metadata is instantly visible.
+- Blogs, news, or content-heavy sites  
+    Content changes often → SSG/ISR (Incremental Static Regeneration) gives best mix of SEO + speed.
+- E-commerce sites  
+    Product pages must rank well in search engines; SSR/SSG helps them get indexed fast.
+- Hybrid apps  
+    Mix of public content (SEO-friendly) and private sections (SPA-like interactivity).
+- When performance is critical  
+    Core Web Vitals affect ranking; full-stack frameworks have image optimization, prefetching, and code splitting out of the box.
+
+3\. Rule of Thumb
+
+- If your app is mostly for users you already have → SPA is fine.
+- If you need users to find you via Google → use a full-stack framework.
+- Many real projects end up hybrid:
+    - Public pages = SSR/SSG
+    - Auth-only app shell = SPA
+
 ### Headless CMS
 
 **Strapi**
