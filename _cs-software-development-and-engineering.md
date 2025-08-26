@@ -743,8 +743,25 @@ CI/CD
 
 >Terraform is primarily used for provisioning infrastructure, creating and managing resources like virtual machines, networks, and storage. Ansible focuses on configuring and managing the software and settings on those existing infrastructure resources. Think of Terraform as building the foundation and Ansible as setting up the furniture and appliances inside.
 
-- Infrastructure as Code: Dynamic Systems for the Cloud Age (2nd, 2021) by Kief Morris
+- Infrastructure as Code: Designing and Delivering Dynamic Systems for the Cloud Age (3rd, 2025) by Kief Morris 
+- Infrastructure as Code for Beginners: Deploy and manage your cloud-based services with Terraform and Ansible (2023) by Russ McKendrick
+- Infrastructure as Code (2017) by AWS Whitepapers
+- Infrastructure as Code, Patterns and Practices: With examples in Python and Terraform (2022) by Rosemary Wang
 - Infrastructure as Code (IAC) Cookbook by Pierre Pomes and Stephane Jourdan
+- Introduction to Infrastructure as Code: A Brief Guide to the Future of DevOps (2022) by Sneh Pandya and Riya Guha Thakurta
+- Infrastructure-as-Code Automation Using Terraform, Packer, Vault, Nomad and Consul: Hands-on Deployment, Configuration, and Best Practices (2021) by Navin Sabharwal , Sarvesh Pandey
+- Infrastructure as Code: A Comprehensive Guide to Managing Infrastructure as Code (2019) by Austin Young
+
+Infrastructure as Code with Azure Bicep
+
+- Azure Infrastructure as Code: With ARM templates and Bicep (2022) by Henry Been , Erwin Staal 
+- Infrastructure as Code with Azure Bicep: Streamline Azure resource deployment by bypassing ARM complexities (2022) by Yaser Adel Mehraban , John Downs
+
+Infrastructure as Code with AWS CDK
+
+- Hands-On AWS CDK: Building Cloud Native Applications with Infrastructure as Code (2025) by Sam Ward Biddle and Kyle T. Jones
+- The Definitive Guide to AWS Infrastructure Automation: Craft Infrastructure-as-Code Solutions (2019) by Bradley Campbell
+
 
 <img src="/assets/icon/engineering/Terraform.svg" width="24px"/>Terraform
 
@@ -761,6 +778,14 @@ CI/CD
 - Terraform in Action (2021) by Scott Winkler
 - Infrastructure as Code, Patterns and Practices: With Examples in Python and Terraform (2022) by Rosemary Wang
 
+
+Pulumi
+
+- [Pulumi](https://www.pulumi.com/). Infrastructure as Code in any programming language. The Cloud Infrastructure Platform. Engineers Love and Enterprises Trust.
+- Infrastructure as Code with Pulumi: Streamlining Cloud Deployments Using Code (2025) by Adora Nwodo
+
+### IT Automation and Configuration Management
+
 <img src="/assets/icon/engineering/Ansible.svg" width="24px"/>Ansible
 
 >A radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management.
@@ -771,6 +796,53 @@ CI/CD
 - Practical Ansible 2: Automate infrastructure, manage configuration, and deploy applications with Ansible 2.9 (2020) by Daniel Oh , James Freeman
 - Mastering Ansible: Automate configuration management and overcome deployment challenges with Ansible (4th, 2021) by James Freeman and Jesse Keating 
 - Network Automation Cookbook: Proven and actionable recipes to automate and manage network devices using Ansible (2020) by Karim Okasha
+
+Puppet
+
+>Infrastructure Automation & Operations at Scale.
+
+- [Puppet](https://www.puppet.com/). Secure, Scalable Automation Built for the Modern Enterprise.
+- Puppet 8 for DevOps Engineers: Automate your infrastructure at an enterprise scale (2023) by David Sandilands
+- Learning Puppet 4: A Guide to Configuration Management and Automation (2016) by Jo Rhett 
+- Puppet: Mastering Infrastructure Automation (2017) by Felix Frank, Martin Alfke
+- Puppet Best Practices: Design Patterns for Maintainable Code (2018) by Chris Barbour and Jo Rhett
+- Puppet 8 for DevOps Engineers: Automate your infrastructure at an enterprise scale (2023) by David Sandilands and Nigel Kersten
+- Pro Puppet (2014) by Spencer Krum , William Van Hevelingen
+- Mastering Puppet (2nd, 2016) by Thomas Uphill 
+- Mastering Puppet 5: Optimize enterprise-grade environment performance with Puppet (2018) by Ryan Russell-Yates and Jason Southgate 
+- Extending Puppet (2014) by Alessandro Franceschi 
+
+Chef
+
+>a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale.
+
+- [Chef](https://www.chef.io/). Extend DevOps Value with Cloud-to-Edge Security and Compliance. Configure, deploy and manage your entire application infrastructure in a secure and compliant way.
+- Learning Chef: A Guide to Configuration Management and Automation (2013) by Mischa Taylor and Seth Vargo
+- Customizing Chef: Getting the Most Out of Your Infrastructure Automation (2014) by Jon Cowie
+- Test-Driven Infrastructure with Chef: Bring Behavior-Driven Development to Infrastructure as Code (2013) by Stephen Nelson-Smith
+- Automation through Chef Opscode: A Hands-on Approach to Chef (2014) by Navin Sabharwal and Manak Wadhwa
+- Learning Chef (2015) by Rishabh Sharma and Mitesh Soni 
+- Chef Infrastructure Automation Cookbook (2nd, 2015) by Matthias Marschall
+- Mastering Chef Provisioning (2016) by Earl Waud
+- Chef Cookbook (3rd, 2017) by Matthias Marschall
+- Chef: Powerful Infrastructure Automation (2017) by John Ewart, Matthias Marschall, Earl Waud
+
+SaltStack (Salt)
+
+>Software to automate the management and configuration of infrastructure and applications at scale.
+
+- [SaltStack](https://github.com/saltstack/salt)
+- Mastering SaltStack (2nd, 2016) by Joseph Hall
+- Learning SaltStack (2nd, 2016) by Colton Myers
+- Extending SaltStack (2016) by Joseph Hall
+- Salt Essentials: Getting Started with Automation at Scale (2015) by Craig Sebenik and Thomas Hatch
+
+Pyinfra
+
+>Pyinfra is an open-source tool for infrastructure automation, configuration management, and ad-hoc command execution written in Python. It allows users to define the desired state of their infrastructure using Python code, which pyinfra then translates into shell commands and executes on target systems.
+
+- [Pyinfra](https://pyinfra.com/)
+
 
 ### Container
 
@@ -917,6 +989,20 @@ Refer to [Kubernetes as a Service (KaaS)](#xaas_t)
 
 - [kubectl Docks](https://kubernetes.io/docs/reference/kubectl/)
 - [kubectl command Docs](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands)
+
+Abbreviations
+
+| Name        | Abbreviation |
+| ----------- | ------------ |
+| kubectl     | k            |
+| nodes       | no           |
+| deployments | deploy       |
+| pods        | po           |
+| services    | svc          |
+| namespaces  | ns           |
+| events      | ev           |
+
+More abbreviations refer to `$ kubectl api-resources`
 
 **IntelliJ IDEA Kubernetes Plugin**
 

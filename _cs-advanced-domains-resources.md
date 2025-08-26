@@ -1030,6 +1030,9 @@ AWS
 - AWS Cookbook: Recipes for Success on AWS (2022) by John Culkin, Mike Zazon
 - Data Science on AWS: Implementing End-to-End, Continuous AI and Machine Learning Pipelines (2021) by Chris Fregly, Antje Barth
 - Generative AI on AWS: Building Context-Aware Multimodal Reasoning Applications (2023) by Chris Fregly, Antje Barth, Shelbee Eigenbrode
+- AWS for System Administrators: Build, automate, and operate scalable cloud infrastructure on AWS (2nd, 2025) by Marcel Neidinger, Prashant Lakhera
+- System Design on AWS: Building and Scaling Enterprise Solutions (2025) by Jayanth Kumar, Mandeep Singh 
+- Engineering Resilient Systems on AWS: Design, Build, and Test for Resilience 1st Edition (2024) by Kevin Schwarz, Jennifer Moran, Nate Bachmeier
 
 Google Cloud
 
