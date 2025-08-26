@@ -743,6 +743,8 @@ CI/CD
 
 >Terraform is primarily used for provisioning infrastructure, creating and managing resources like virtual machines, networks, and storage. Ansible focuses on configuring and managing the software and settings on those existing infrastructure resources. Think of Terraform as building the foundation and Ansible as setting up the furniture and appliances inside.
 
+Infrastructure as code
+
 - Infrastructure as Code: Designing and Delivering Dynamic Systems for the Cloud Age (3rd, 2025) by Kief Morris 
 - Infrastructure as Code for Beginners: Deploy and manage your cloud-based services with Terraform and Ansible (2023) by Russ McKendrick
 - Infrastructure as Code (2017) by AWS Whitepapers
@@ -1099,6 +1101,12 @@ Prometheus
 > Platform engineering is the discipline of designing and building toolchains and workflows that enable self-service capabilities for software engineering organizations in the cloud-native era. Platform engineers provide an integrated product most often referred to as an “Internal Developer Platform” covering the operational necessities of the entire lifecycle of an application.
 
 - [Platform Engineering](https://platformengineering.org/)
+- Platform Engineering 1st Edition, Kindle Edition (2024) by Camille Fournier, Ian Nowland
+- Platform Engineering for Architects: Crafting modern platforms as a product (2024) by Max Körbächer , Andreas Grabner
+- Mastering Enterprise Platform Engineering: A practical guide to platform engineering and generative AI for high-performance software delivery (2025) by Mark Peters , Gautham Pallapa
+- Platform Engineering on Kubernetes (2023) by Mauricio Salatino
+- The Platform Engineering Playbook: A practical guide to implementing and scaling DevOps with cloud native internal developer platforms (2025) by George Hantzaras
+- Effective Platform Engineering (2025) by Ajay Chankramath, Sean Alvarez
 
 <br>
 
@@ -1121,7 +1129,9 @@ Prometheus
 - Practical Monitoring: Effective Strategies for the Real World by Mike Julian
 - Building Microservices: Designing Fine-Grained Systems by Sam Newman
 - Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services by Brendan Burns
-- The Art of Site Reliability Engineering (SRE) with Azure: Building and Deploying Applications That Endure (2022) by Unai Huete Beloki
+- The Art of Site Reliability Engineering (SRE) with Azure: Building and Deploying Applications That Endure (2nd, 2025) by Unai Huete Beloki
+- Building Secure and Reliable Systems: Best Practices for Designing, Implementing, and Maintaining Systems (2020) by Heather Adkins, Betsy Beyer 
+- Becoming SRE: First Steps Toward Reliability for You and Your Organization (2024) by David N. Blank-Edelman 
 
 <br>
 
