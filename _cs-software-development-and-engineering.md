@@ -1055,7 +1055,13 @@ More abbreviations refer to `$ kubectl api-resources`
 - Cloud Application Architecture Patterns: Designing, Building, and Modernizing for the Cloud (2025) by Kyle Brown, Bobby Woolf, Joseph Yoder 
 - Cloud Native: Using Containers, Functions, and Data to Build Next-Generation Applications (2019) by Boris Scholl , Trent Swanson
 
-##### Istio
+##### Service Mesh
+
+>Istio, Linkerd, Kuma, App Mesh and Consul
+
+- Mastering Service Mesh: Enhance, secure, and observe cloud-native applications with Istio, Linkerd, and Consul (2020) by Anjali Khatri , Vikram Khatri
+
+**Istio**
 
 >Istio extends Kubernetes to establish a programmable, application-aware network. Working with both Kubernetes and traditional workloads, Istio brings standard, universal traffic management, telemetry, and security to complex deployments.
 
@@ -1066,6 +1072,20 @@ More abbreviations refer to `$ kubectl api-resources`
 - Istio in Action (2022) by Christian E. Posta (Author), Rinor Maloku
 - Bootstrapping Service Mesh Implementations with Istio: Build reliable, scalable, and secure microservices on Kubernetes with Service Mesh (2023) by Anand Rai 
 - Getting Started with Istio Service Mesh: Manage Microservices in Kubernetes (2019) by Rahul Sharma and Avinash Singh
+
+**Linkerd**
+
+- Linkerd: Up and Running: A Guide to Operationalizing a Kubernetes-Native Service Mesh (2024) by Jason Morgan and Flynn
+- Linkerd on Kubernetes: Enhance, secure, and observe cloud native applications deployed in Kubernetes with Linkerd (2024) by Donald Lutz
+
+
+Istio, Linkerd, Kuma, App Mesh and Consul
+
+- **Istio**, popularity wise, is the current leader in service mesh space. Features-wise, it's the most powerful and advanced mesh. The **most popular** service mesh framework.
+- **Linkerd** is the most performant and focused service mesh out there. It’s intentionally small, with carefully selected feature set, convenient dashboard and a strong focus on doing just enough. Production-ready **lightweight** service mesh.
+- **Kuma** is one of the newest service meshes, aimed at solving many of the mistakes other meshes did. It was built in response to the previous service mesh frameworks’ issue of being heavy and difficult to manage or operate.
+- **AWS App Mesh**, which is a fully managed service mesh intended for Amazon-specific services.
+- **Consul Connect** is probably the most mature simply because of Consul. Consul is a decade old , polished technology, battle tested in huge production environments. It’s a safe choice in terms of stability and features. There is only one problem with Consul Connect: it’s a not a purpose-built cloud native service mesh, but rather a service mesh built on top of Consul. 
 
 ##### Dapr
 

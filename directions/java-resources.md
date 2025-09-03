@@ -706,7 +706,7 @@ Components
 	- Keycloak
 	- Logto
 
-#### Spring Boot + K8S + Istio
+#### Spring Boot + K8S + Service Mesh (Istio)
 
 <details>
 <summary>为什么用 K8S</summary>
@@ -728,6 +728,44 @@ Courses
 - [Microservices Mastery: Spring Boot 3, Docker & Kubernetes E2E Series](https://www.youtube.com/watch?v=42HujbYEtro&list=PLAZHf0fSXoc_ur6_zkQQlu2eVfBwSXtpU) (2024) by John Ongwae
 - [都2025年了，你还在用 Spring Cloud吗？](https://www.bilibili.com/video/BV13MoPYVEuC/)
 - [完整版Kubernetes（K8S）全套入门+微服务实战项目，带你一站式深入掌握K8S核心能力](https://www.bilibili.com/video/BV1MT411x7GH/)
+
+Kubernetes is more recommended because:
+
+- Language and Technology Neutral. Works across any language stack.
+- Separation of Concerns. Moves infra concerns out of app code.
+- Scalability and Reliability. Scales more reliably at large org levels. Spring Cloud (e.g., Eureka) works fine in small clusters, but scaling to hundreds or thousands of services gets painful.
+- Ecosystem and Cloud-Native Standard. Benefits from huge ecosystem & cloud support. 1) Kubernetes has become the de facto standard for cloud-native deployments. All major clouds (AWS, GCP, Azure) provide managed K8s. 2) CNCF projects (Prometheus, Istio, Envoy, OpenTelemetry, etc.) integrate seamlessly.
+- Future-Proofing. Aligns with modern cloud-native and DevOps practices.
+
+Spring Cloud still makes sense if:
+
+- You are all-Java, small to medium scale.
+- You want to avoid running complex infra (no K8s expertise yet).
+- You want to keep everything inside the JVM world.
+
+Spring Cloud → Kubernetes + Service Mesh Migration Map
+
+| Spring Cloud Feature                | Purpose                                              | Kubernetes / Service Mesh Equivalent                                                |
+| ----------------------------------- | ---------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| Eureka (Service Discovery)          | Dynamic service registration & discovery             | Kubernetes Service (DNS-based discovery: `my-service.default.svc.cluster.local`)    |
+| Ribbon (Client-Side Load Balancing) | Distribute traffic across service instances          | Kubernetes Service (ClusterIP, NodePort, LoadBalancer) + Envoy/Sidecar (smarter LB) |
+| Spring Cloud Config                 | Centralized externalized configuration               | Kubernetes ConfigMaps + Secrets (mounted or injected as env vars)                   |
+| Hystrix / Resilience4j              | Circuit breakers, retries, timeouts                  | Service Mesh (Istio, Linkerd) policies: outlier detection, retries, timeouts        |
+| Spring Cloud Gateway / Zuul         | API Gateway, routing, filters                        | Kubernetes Ingress Controller / Istio Gateway / Envoy Gateway                       |
+| Spring Cloud Sleuth + Zipkin        | Distributed tracing                                  | OpenTelemetry + Jaeger / Tempo / Zipkin in K8s ecosystem                            |
+| Spring Cloud Bus                    | Broadcast config changes/events via message broker   | Kubernetes Operators / CRDs + Event-driven systems (Kafka, NATS, Argo Events)       |
+| Spring Cloud Stream                 | Abstraction over messaging systems (Kafka, RabbitMQ) | Native use of Kafka/RabbitMQ operators on Kubernetes (Strimzi, RabbitMQ operator)   |
+| Spring Security OAuth2              | Auth, token relay                                    | Service Mesh mTLS + External IdP integration (Keycloak, Dex, OIDC with Istio)       |
+| Spring Cloud LoadBalancer           | Lightweight replacement for Ribbon                   | Kubernetes Service + Envoy/Sidecar-based balancing                                  |
+| Distributed Logging                 | App logs collected per service                       | Kubernetes logging stack (Fluentd / Loki / ELK)                                     |
+
+Rule of thumb when migrating:
+
+- Start by replacing Eureka → Kubernetes Service discovery.
+- Then move config → ConfigMaps/Secrets.
+- Introduce Service Mesh gradually (Istio/Linkerd) for resilience, security, and observability.
+- Replace API Gateway → Ingress / Istio Gateway.
+
 
 #### <img src="/assets/icon/java/Spring.svg" width="24px"/>Spring Cloud
 
