@@ -51,7 +51,19 @@ LLM Resources
 
 GPU Providers
 
-- [AutoDL](https://www.autodl.com/home)
+>AWS and Google Cloud are solid for reliability.
+
+- [Vast.ai](https://vast.ai/). Rent high-performance cloud GPUs at low cost with Vast.ai. Instantly deploy GPU rentals for AI, machine learning, deep learning, and rendering. It is cheap and easy to use.
+- [RunPod](https://www.runpod.io/). The cloud built for AI. The all-in-one cloud platform to train, fine-tune, and deploy AI effortlessly.
+- [Hyperstack](https://www.hyperstack.cloud/). European On-Demand Cloud GPU Provider.
+- [Lambda Labs](https://lambda.ai/). The gigawatt-scale AI GPU Cloud built for superintelligence.
+- [Paperspace](https://www.paperspace.com/) (DigitalOcean). Build & Run AI/ML Models on NVIDIA H100 GPUs
+- [Hugging Face](https://huggingface.co)
+
+Chinese GUP provider
+
+- [AutoDL](https://www.autodl.com/home). AutoDL AI算力云。弹性、好用、省钱。
+- [OpenBayes](https://openbayes.com/). 让计算更简单。
 
 ## Using AI
 
@@ -188,6 +200,18 @@ Resource
 - [Anthropic Agents and tools](https://docs.anthropic.com/en/docs/agents-and-tools/mcp)
 - [OpenAI Agents SDK](https://openai.github.io/openai-agents-python/)
 
+**Agentic retrieval**
+
+>Agentic retrieval is an advanced Retrieval-Augmented Generation (RAG) technique that uses AI agents to actively plan and execute retrieval strategies for complex queries, surpassing traditional RAG by dynamically breaking down problems, utilizing multiple retrieval tools, and iteratively refining results to provide more comprehensive and accurate information to large language models (LLMs). 
+
+- [RAG is dead, long live agentic retrieval](https://www.llamaindex.ai/blog/rag-is-dead-long-live-agentic-retrieval)
+
+**Context Engineering**
+
+- [davidkimai/Context-Engineering - GitHub](https://github.com/davidkimai/Context-Engineering)
+- [Context Engineering: A Guide With Examples](https://www.datacamp.com/blog/context-engineering)
+- [The rise of "context engineering"](https://blog.langchain.com/the-rise-of-context-engineering/)
+- [RAG is Dead, Context Engineering is King](https://www.latent.space/p/chroma)
 
 ## Build AI Applications
 

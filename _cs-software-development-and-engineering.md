@@ -816,7 +816,7 @@ Puppet
 
 Chef
 
->a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale.
+>A powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale.
 
 - [Chef](https://www.chef.io/). Extend DevOps Value with Cloud-to-Edge Security and Compliance. Configure, deploy and manage your entire application infrastructure in a secure and compliant way.
 - Learning Chef: A Guide to Configuration Management and Automation (2013) by Mischa Taylor and Seth Vargo
