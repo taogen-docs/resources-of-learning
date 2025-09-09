@@ -253,7 +253,7 @@ Managed Kubernetes Providers
 - Amazon Elastic Kubernetes Service (EKS)
 - Azure Kubernetes Service (AKS)
 - Linode Kubernetes Engine (LKE). Best for startups.
-- OVHCloud K8S. Best for cost.
+- OVHCloud K8s. Best for cost.
 
 ### Platform as a service (PaaS)
 
@@ -882,7 +882,7 @@ Docker Desktop alternatives
 
 ### Container Orchestration
 
-#### <img src="/assets/icon/engineering/Kubernetes.svg" width="24px"/>Kubernetes (K8S)
+#### <img src="/assets/icon/engineering/Kubernetes.svg" width="24px"/>Kubernetes (K8s)
 
 /k(j)uːbəˈnɛtɪs/
 
@@ -908,7 +908,7 @@ Microservice-based applications are more difficult to manage than monolithic app
 <details>
     <summary>Kubernetes 的理解</summary>
 
-K8S 整体是一个分布式的高可用架构，运行这个架构之上的应用不需要应用本身具有高可用的特点(降低应用开发者的门槛)，而可以借助架构的能力让应用高可用。
+K8s 整体是一个分布式的高可用架构，运行这个架构之上的应用不需要应用本身具有高可用的特点(降低应用开发者的门槛)，而可以借助架构的能力让应用高可用。
 
 本质上是高级版的 docker ，管理计算机 CPU 、内存、磁盘等资源。到时候还的加各种入 gateway 、分布式文件系统、告警链路等一堆东西。
 
@@ -1033,7 +1033,7 @@ More abbreviations refer to `$ kubectl api-resources`
 - [Helm Documentation](https://helm.sh/)
 - Learning Helm: Managing Apps on Kubernetes (2021) by Matt Butcher, Matt Farina, Josh Dolitsky
 
-**GitOps with K8S**
+**GitOps with K8s**
 
 >GitOps is a set of practices for managing infrastructure and application configurations to expand upon existing processes and improve the application lifecycle.
 
@@ -1049,7 +1049,7 @@ More abbreviations refer to `$ kubectl api-resources`
 - Practical GitOps: Infrastructure Management Using Terraform, AWS, and GitHub Actions (2022) by Rohit Salecha
 - Argo CD in Practice: The GitOps way of managing cloud-native applications (2022) by Liviu Costea , Spiros Economakis
 
-#### Cloud Native Applications with K8S
+#### Cloud Native Applications with K8s
 
 - Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Systems Using Kubernetes (2nd, 2025) by Brendan Burns
 - Cloud Application Architecture Patterns: Designing, Building, and Modernizing for the Cloud (2025) by Kyle Brown, Bobby Woolf, Joseph Yoder 
