@@ -252,6 +252,10 @@ Managed Kubernetes Providers
 	- [Google Kubernetes Engine pricing](https://cloud.google.com/kubernetes-engine/pricing?hl=en)
 - Amazon Elastic Kubernetes Service (EKS)
 - Azure Kubernetes Service (AKS)
+- IBM Cloud Kubernetes Service
+- Red Hat OpenShift Online and Dedicated
+- VMware Cloud PKS
+- Alibaba Cloud Container Service for Kubernetes (ACK)
 - Linode Kubernetes Engine (LKE). Best for startups.
 - OVHCloud K8s. Best for cost.
 

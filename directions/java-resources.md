@@ -81,7 +81,8 @@
 
 #### Modern Java Features
 
-- Java Language Updates - [Java 21](https://docs.oracle.com/en/java/javase/21/language/java-language-changes-summary.html)
+- Java Language Updates - [Java 25](https://docs.oracle.com/en/java/javase/25/language/java-language-changes-summary.html)
+- Open JDK Features [11](https://openjdk.org/projects/jdk/11/#Features), [17](https://openjdk.org/projects/jdk/17/#Features), [21](https://openjdk.org/projects/jdk/21/#Features), [25](https://openjdk.org/projects/jdk/25/#Features)
 - [Java Programming Language Enhancements - Java 8](https://docs.oracle.com/javase/8/docs/technotes/guides/language/enhancements.html)
 - **Core Java for the Impatient** (3rd, 2022, Cover Java 17) (2nd, 2017, Cover Java 9) (1st, 2013, Cover Java 8) by Cay S.Horstmann
 - Modern Java in Action (2nd, 2018, Cover Java 9) by Raoul-Gabriel Urma, Mario Fusco

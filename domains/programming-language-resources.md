@@ -745,6 +745,10 @@ See [CS Fundamental Resources - Database Systems](/%23cs-foundations#dbms_t)
 - Regular Expressions Cookbook by Jan Goyvaerts and Steven Levithan
 - Regular Expression Pocket Reference: Regular Expressions for Perl, Ruby, PHP, Python, C, Java and .NET Book by Tony Stubblebine
 
+Tutorials
+
+- [Regular-Expressions.info](https://www.regular-expressions.info/)
+
 Regex Examples
 
 - [iHateRegex](https://ihateregex.io/)
