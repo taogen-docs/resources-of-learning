@@ -957,13 +957,6 @@ Components
 - **Namespaces** provide isolation and access control, so that each microservice can control the degree to which other services interact with it.
 - **Ingress objects** provide an easy-to-use frontend that can combine multiple microservices into a single externalized API surface area.
 
-Infrastructure abstraction using Kubernetes
-
->When software developers or operators decide to deploy an application, they do this through Kubernetes instead of deploying the application to individual computers. Kubernetes provides an abstraction layer over the underlying hardware to both users and applications.
-
-![Infrastructure-abstraction-using-Kubernetes.png](images/Infrastructure-abstraction-using-Kubernetes.png)
-
-
 ##### Installing Kubernetes
 
 **Kubernetes for Local Development**
@@ -995,20 +988,6 @@ Refer to [Kubernetes as a Service (KaaS)](#xaas_t)
 
 - [kubectl Docks](https://kubernetes.io/docs/reference/kubectl/)
 - [kubectl command Docs](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands)
-
-Abbreviations
-
-| Name        | Abbreviation |
-| ----------- | ------------ |
-| kubectl     | k            |
-| nodes       | no           |
-| deployments | deploy       |
-| pods        | po           |
-| services    | svc          |
-| namespaces  | ns           |
-| events      | ev           |
-
-More abbreviations refer to `$ kubectl api-resources`
 
 **IntelliJ IDEA Kubernetes Plugin**
 

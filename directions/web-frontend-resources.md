@@ -668,6 +668,17 @@ Alpine.js 和 jQuery 一样不需要编译，写完丢到 Nginx 就能运行了�
 
 >Headless UI runs on a vanilla JavaScript core. It can be used in any framework, including React, Vue, Solid, Svelte, Qwik, Angular, and even JS-to-native platforms like React Native.
 
+<details>
+<summary>后台管理系统不建议使用 Headless UI 框架</summary>
+
+后台管理系统 antd + tailwindcss 就行了，用 shadcnui 那堆交互逻辑你就写去吧。shadcnui 是轻量可定制的 UI 基础组件库，antd 是后台管理解决方案。
+
+shadcn 写后台管理只能简单 crud ，遇到复杂表单直接歇菜，之前想用 shadcn 体验一下到处吹的高大上 UI ，各种缺东西很浪费时间，有些奇怪的需求 cursor 干冒烟了都写不好。如果赶时间 千万不要用 shadcn。
+
+用 shadcn 写 后台管理的有福了，你就写表单吧，一写一个不吱声。
+
+</details>
+
 ### Radix UI
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/radix-ui/primitives)  ![GitHub last commit](https://img.shields.io/github/last-commit/radix-ui/primitives)   ![GitHub contributors](https://img.shields.io/github/contributors/radix-ui/primitives)  ![GitHub Created At](https://img.shields.io/github/created-at/radix-ui/primitives) ![NPM Downloads](https://img.shields.io/npm/dw/@radix-ui/react-popover)
