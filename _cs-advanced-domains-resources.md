@@ -98,6 +98,8 @@ Web Application Security
 
 <img src="/assets/icon/advanced-domains/Nginx.svg" width="24px"/>Nginx
 
+/engine-x/
+
 - [nginx documentation](http://nginx.org/en/docs/)
 - [The Complete NGINX Cookbook](https://www.nginx.com/resources/library/complete-nginx-cookbook/?utm_source=nginxorg&utm_medium=books&utm_campaign=ebooks) (2019) by Derek DeJonghe
 - [Deploying NGINX Plus as an API Gateway](https://www.nginx.com/resources/library/nginx-api-gateway-deployment/?utm_source=nginxorg&utm_medium=books&utm_campaign=ebooks) (2018) by Liam Crilly
@@ -123,6 +125,8 @@ Nginx Unit
 - NGINX Unit Cookbook: Recipes for Using a Versatile Open Source Server (2020) by Derek DeJonghe
 
 Apache Tomcat
+
+/əˈpatʃi - ˈtɒmkat/
 
 - How Tomcat Works: A Guide to Developing Your Own Java Servlet Container by Budi Kurniawan, Paul Deck 
 
@@ -163,6 +167,8 @@ Apache Tomcat
 > A game engine, also known as a game architecture, game framework, is a software development environment designed for game developers. There are many game engines available such as GameMaker, Godot, OpenGL, Unity, Unreal Engine, etc.
 
 #### <img src="/assets/icon/advanced-domains/Unity.svg" width="24px"/>Unity and C#
+
+/ˈjuːnɪti/
 
 > the most user-friendly gaming engine for beginners
 
@@ -385,6 +391,8 @@ Audio analysis (AI)
 
 #### <img src="/assets/icon/advanced-domains/Mysql.svg" width="24px"/>MySQL
 
+/maɪ ˈɛs kjuː ˈɛl/ or /my sequel/
+
 Beginner
 
 - Beginner-friendly books
@@ -448,6 +456,8 @@ MySQL Internal and Programming
 
 #### <img src="/assets/icon/advanced-domains/Postgresql.svg" width="24px"/>PostgreSQL
 
+/Post-Gres-Q-L/ or /Postgres/
+
 - [PostgreSQL Documentation](https://www.postgresql.org/docs/current/index.html)
 - [PostgreSQL Tutorials & Other Resources](https://www.postgresql.org/docs/online-resources/)
 - Online tutorials
@@ -466,6 +476,8 @@ MySQL Internal and Programming
 - The Internals of PostgreSQL by Hironobu Suzuki [online book](https://www.interdb.jp/pg/)
 
 #### <img src="/assets/icon/advanced-domains/Oracle.svg" width="24px"/>Oracle
+
+/ˈɒrəkl/
 
 Prime
 
@@ -520,6 +532,8 @@ Tutorials
 
 #### <img src="/assets/icon/advanced-domains/Redis.svg" width="24px"/>Redis
 
+/ˈrɛd-ɪs/
+
 Must Read
 
 - [Redis Documentation](https://redis.io/documentation)
@@ -553,6 +567,8 @@ Tutorials
 >Use Cases: Content management systems, e-commerce applications, real-time analytics, and data that naturally fits into a document structure.
 
 #### <img src="/assets/icon/advanced-domains/Mongodb.svg" width="24px"/>MongoDB
+
+/mohn-go-dee-bee/
 
 - [MongoDB Documentation](https://www.mongodb.com/docs/)
 - **MongoDB: The Definitive Guide: Powerful and Scalable Data Storage** (3rd, 2019) by Shannon Bradshaw, Eoin Brazil, Kristina Chodorow
@@ -616,6 +632,8 @@ Elastic Stack
 
 <img src="/assets/icon/advanced-domains/Elasticsearch.svg" width="24px"/>Elasticsearch
 
+/ɪˈlæs.tɪk-səːtʃ/
+
 - [Elasticsearch Documentation](https://www.elastic.co/guide/index.html)
 - Elasticsearch: The Definitive Guide: A Distributed Real-Time Search and Analytics Engine (2015) by Clinton Gormley and Zachary Tong
 - Elasticsearch in Action (2nd, 2023) by Madhusudhan Konda
@@ -626,6 +644,8 @@ Elastic Stack
 - Elasticsearch 8.x Cookbook - Fifth Edition: Over 180 recipes to perform fast, scalable, and reliable searches for your enterprise (5th, 2022) by Alberto Paro 
 
 Kibana
+
+/kee-BAH-nah/ (The "BAH" is the loudest part of the word.)
 
 - Kibana 8.x - A Quick Start Guide to Data Analysis: Learn about data exploration, visualization, and dashboard building with Kibana (2024) by Krishna Shah
 - Learning Kibana 7: Build powerful Elastic dashboards with Kibana's data visualization capabilities (2nd, 2019) by Anurag Srivastava and Bahaaldine Azarmi
@@ -687,6 +707,8 @@ Some more
 
 ### Apache Thrift
 
+/əˈpatʃi - θrɪft/
+
 ![GitHub Repo stars](https://img.shields.io/github/stars/apache/thrift)  ![GitHub last commit](https://img.shields.io/github/last-commit/apache/thrift)  ![GitHub contributors](https://img.shields.io/github/contributors/apache/thrift)  ![GitHub Created At](https://img.shields.io/github/created-at/apache/thrift)
 
 > A lightweight, language-independent software stack for point-to-point RPC implementation.
@@ -696,6 +718,8 @@ Some more
 - Programmer's Guide to Apache Thrift (2019) by William Abernethy
 
 ### Apache Dubbo
+
+/əˈpatʃi - ˈdʌbəʊ/
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/apache/dubbo)  ![GitHub last commit](https://img.shields.io/github/last-commit/apache/dubbo)  ![GitHub contributors](https://img.shields.io/github/contributors/apache/dubbo)  ![GitHub Created At](https://img.shields.io/github/created-at/apache/dubbo)
 
@@ -709,6 +733,8 @@ Some more
 - 深度剖析Apache Dubbo核心技术内幕 (2019) by 翟陆续（加多）
 
 ### Motan
+
+/ˈmoʊtən/
 
 >一套高性能、易于使用的分布式远程服务调用(RPC)框架。
 
@@ -825,6 +851,8 @@ Some more
 - Learning RabbitMQ (2015) by Martin Toshev
 ### Apache Kafka
 
+/əˈpatʃi - ˈkaf.ka/
+
 - Apache Kafka documentation. [DOC](https://kafka.apache.org/)
 - Kafka: a Distributed Messaging System for Log Processing [PDF](https://notes.stephenholiday.com/Kafka.pdf)
 - [Kafka Books and Papers](https://kafka.apache.org/books-and-papers)
@@ -854,6 +882,8 @@ Apache Kafka Stream
 - [Apache ActiveMQ](http://activemq.apache.org/)
 
 ### Apache Pulsar
+
+/əˈpatʃi - ˈpʌlsɑː/
 
 - Mastering Apache Pulsar: Cloud Native Event Streaming at Scale (2022) by Jowanza Joseph
 - Apache Pulsar in Action (2021) by David Kjerrumgaard
@@ -895,6 +925,8 @@ Reference [Information Security Resources](directions/information-security-resou
 <br>
 
 ### Distributed Systems
+
+/dɪˈstrɪbjuːtɪd - ˈsɪstɪms/
 
 Must Read
 
@@ -1135,6 +1167,8 @@ Microsoft Azure
 
 ### Data Mining 
 
+/ˈdeɪtə - ˈmʌɪnɪŋ/
+
 > It is the process of extracting a specific pattern from large datasets. It's based on mathematical and scientific methods to identify patterns or trends. it's generally used for the process of extracting, cleaning, learning and predicting from data.
 
 - Introduction to Data Mining by Vipin Kumar
@@ -1181,6 +1215,8 @@ Microsoft Azure
 - [Apache Pinot - Realtime distributed OLAP datastore](https://pinot.apache.org/)
 
 ### <img src="/assets/icon/advanced-domains/Hadoop.svg" width="24px"/>Hadoop
+
+/həˈduːp/
 
 - Hadoop: The Definitive Guide by Tom White, Doug Cutting 
 - Hadoop in Action by Chuck Lam
@@ -1475,6 +1511,8 @@ Some more
 
 #### Scikit-learn
 
+/ˈsʌɪ-kɪt/
+
 >Scikit-learn, often referred to as `sklearn`, is a free and open-source machine learning library for the Python programming language. It is built upon the numerical and scientific libraries NumPy, SciPy, and Matplotlib, and provides a wide range of algorithms for various machine learning tasks.
 
 - [scikit-learn](https://scikit-learn.org/stable/). Machine Learning in Python
@@ -1483,6 +1521,8 @@ Some more
 - Learning scikit-learn Machine Learning in Python (2022) by Brandon Pondexter
 
 #### PyTorch
+
+/py-tɔːtʃ/
 
 > PyTorch is a Python package that provides two high-level features: 1. Tensor computation (like NumPy) with strong GPU acceleration. 2. Deep neural networks built on a tape-based autograd system.
 
@@ -1521,6 +1561,8 @@ Courses
 
 #### Transformers
 
+/tran(t)sˈfɔːməs/
+
 >Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 
 
@@ -1541,6 +1583,8 @@ Courses
 	- Hands-On Generative AI with Transformers and Diffusion Models (2024) by Omar Sanseviero (Author), Pedro Cuenca (Author), Apolinário Passos
 
 #### TensorFlow & Keras
+
+/ˈtɛn(t)sə-fləʊ/
 
 >TensorFlow is an open-source software library developed by Google for machine learning and artificial intelligence, particularly for deep learning. It provides tools and resources for building and training neural networks and other machine learning models. TensorFlow is widely used in various applications, including image recognition, natural language processing, and recommendation systems. 
 
@@ -1583,6 +1627,8 @@ TensorFlow.js
 - [Keras](https://keras.io/). Deep Learning for humans.
 
 #### SpaCy
+
+/ˈspeɪsi/
 
 >SpaCy is an open-source Natural Language Processing (NLP) library in Python, designed for fast, efficient, and production-ready text processing. It’s widely used in AI, machine learning, and data science for working with human language data.
 
@@ -1633,6 +1679,8 @@ Lightning Network (Layer 2)
 - Mastering the Lightning Network: A Second Layer Blockchain Protocol for Instant Bitcoin Payments by Andreas M. Antonopoulos, Olaoluwa Osuntokun, Ren Pickhardt
 
 ### Cryptocurrencies
+
+/ˈkrɪptəʊ - ˈkʌr(ə)n(t)si/
 
 #### Introduction to Cryptocurrencies
 
@@ -1693,6 +1741,8 @@ Resources
 - https://bitcoin-resources.com/
 
 #### Ethereum
+
+/ˈɛθərɪəm/
 
 - [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
 - [Ethereum wiki - GitHub](https://github.com/ethereum/wiki/wiki)
@@ -1798,6 +1848,8 @@ Protocols
 <h2><a name="quantcomp_t" href="#quantcomp_c">Quantum Computing</a></h2>
 
 <br>
+
+/ˈkwɒntəm - kəmˈpjuːtɪŋ/
 
 Quantum Computing
 

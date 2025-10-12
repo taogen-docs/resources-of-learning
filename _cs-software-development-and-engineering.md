@@ -150,6 +150,8 @@ Debugging
 
 ### Chatbot
 
+/ˈtʃatbɒt/
+
 #### AI Chatbot
 
 AI Chatbot
@@ -420,6 +422,8 @@ Tutorials
 
 ### System Architecture
 
+/ˈsɪstɪm - ˈɑːkɪtɛktʃə/
+
 Roadmap
 
 - [Roadmap.sh's Software Architect](https://roadmap.sh/software-architect)
@@ -548,6 +552,8 @@ Some more
 
 ### Microservices Architecture
 
+/maɪˈkroʊ-sɚvɪsɪz/
+
 Microservices Architecture
 
 - **Building Microservices: Designing Fine-Grained Systems** (2nd, 2021) by Sam Newman [4.22, 5103]
@@ -601,12 +607,16 @@ Microservices Security
 
 ### Web Scalability
 
+/wɛb - ˌskeɪləˈbɪlɪti/
+
 - Web Scalability for Startup Engineers (2015) by Artur Ejsmont [4.51, 331]
 - The Art of Scalability: Scalable Web Architecture, Processes, and Organizations for the Modern Enterprise (2015) by Martin L. Abbott, Michael T. Fisher [3.99, 353]
 - Building Scalable Web Sites (2006) by Cal Henderson [3.75, 298]
 - Scalability Rules: 50 Principles for Scaling Web Sites (2011) by Martin L. Abbott,  Michael T. Fisher [3.93, 243]
 
 ### Agile
+
+/ˈadʒʌɪl/
 
 - Continuous Architecture in Practice: Software Architecture in the Age of Agility and Devops (2021) by Murat Erder, Eoin Woods, Pierre Pureur [3.75, 88]
 
@@ -636,6 +646,8 @@ Reference [information-security-resources - Security Engineering and Architectur
 
 ### DevOps
 
+/de'vɒps/
+ 
 > DevOps is a collaborative approach that integrates software development (Dev) and operations (Ops) teams. It emphasizes automation, continuous integration, continuous delivery, and close collaboration to enable faster and more reliable software releases. DevOps aims to bridge the gap between development and operations, ensuring a smooth and efficient software development lifecycle.
 
 Must Read
@@ -722,7 +734,7 @@ CI/CD
 
 <img src="/assets/icon/engineering/Jenkins.svg" width="24px"/>Jenkins
 
-/ˈd͡ʒɛŋkɪnz/
+/ˈdʒɛŋkɪnz/
 
 - [Jenkins User Documentation](https://www.jenkins.io/doc/)
 - Jenkins 2: Up and Running: Evolve Your Deployment Pipeline for Next Generation Automation (2018) by Brent Laster [3.57, 60]
@@ -742,6 +754,8 @@ CI/CD
 - Hands-on GitHub Actions: Implement CI/CD with GitHub Action Workflows for Your Applications (2021) by Chaminda Chandrasekara and Pushpa Herath 
 
 ### Infrastructure as Code (IaC)
+
+/ˈɪnfrəˌstrʌktʃə/
 
 > Infrastructure as code (IaC) means to manage your IT infrastructure using configuration files.
 
@@ -793,6 +807,8 @@ Pulumi
 ### IT Automation and Configuration Management
 
 <img src="/assets/icon/engineering/Ansible.svg" width="24px"/>Ansible
+
+/ˈæn.sə.bəl/
 
 >A radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management.
 
@@ -1045,6 +1061,8 @@ Refer to [Kubernetes as a Service (KaaS)](#xaas_t)
 - Mastering Service Mesh: Enhance, secure, and observe cloud-native applications with Istio, Linkerd, and Consul (2020) by Anjali Khatri , Vikram Khatri
 
 **Istio**
+
+/ISS-tee-oh/
 
 >Istio extends Kubernetes to establish a programmable, application-aware network. Working with both Kubernetes and traditional workloads, Istio brings standard, universal traffic management, telemetry, and security to complex deployments.
 
@@ -1301,6 +1319,8 @@ Scrum
 - Agile Project Management with Scrum by Ken Schwaber [3.71, 1528]
 
 Kanban
+
+/ˈkɑnˌbɑn/
 
 > Kanban is another Agile methodology that visualizes the workflow using a Kanban board. It focuses on limiting work-in-progress, optimizing flow, and continuously improving the delivery process. Kanban provides clear visibility into the status of each task and helps teams identify bottlenecks and optimize their work.
 

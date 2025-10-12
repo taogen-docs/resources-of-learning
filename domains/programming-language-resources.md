@@ -134,6 +134,8 @@ See [Web Frontend Resources - JavaScript](../directions/web-frontend-resources.m
 
 #### <img src="/assets/icon/programming-languages/Android.svg" width="20px"/>Android
 
+/ˈandrɔɪd/
+
 - [Android Documentation - doc](https://developer.android.com/docs)
 - Android Programming: The Big Nerd Ranch Guide by Brian Hardy, Bill Phillips
 - Head First Android Development: A Brain-Friendly Guide by DAVID GRIFFITHS and Dawn Griffiths
@@ -153,6 +155,8 @@ Android Studio
 
 
 #### <img src="/assets/icon/programming-languages/Apple.svg" width="20px"/>Objective-C
+
+/əbˈdʒɛktɪv - c/
 
 - Documentation
   - [Programming with Objective-C - doc]( https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html )
@@ -199,6 +203,8 @@ AppKit
 
 
 #### <img src="/assets/icon/programming-languages/Swift.svg" width="20px"/>Swift
+
+/swɪft/
 
 - Documentation
   - [Swift Documentation - doc]( https://swift.org/documentation/ )
@@ -310,6 +316,8 @@ AppleScript
 Flutter
 
 #### <img src="/assets/icon/programming-languages/Delphi.svg" width="20px"/>Delphi
+
+/Dell-Fee/
 
 >Delphi is a high-level, compiled, object-oriented programming language and software development environment, based on the Object Pascal language.
 
@@ -480,6 +488,8 @@ Directions
 
 #### <img src="/assets/icon/programming-languages/Clojure.svg" width="20px"/>Clojure
 
+/ˈkloʊʒər/
+
 - [Clojure Documentation](https://clojure.org/guides/getting_started)
 - Clojure for the Brave and True: Learn the Ultimate Language and Become a Better Programmer (2015) by Daniel Higginbotham
 - Programming Clojure (3rd, 2018) by Alex Miller, Stuart Halloway, Aaron Bedra
@@ -523,6 +533,8 @@ Directions
 
 #### <img src="/assets/icon/programming-languages/F-sharp.png" width="20px"/>F#
 
+/f sharp/
+
 - [F# documentation](https://fsharp.org/learn/)
 - F# in Action (2024) by Isaac Abraham
 - Domain Modeling Made Functional: Tackle Software Complexity with Domain-Driven Design and F# (2018) by Scott Wlaschin
@@ -535,6 +547,8 @@ Directions
 ### Big Data Field
 
 #### <img src="/assets/icon/programming-languages/Scala.svg" width="20px"/>Scala
+
+/ˈskɑːlɑː/
 
 - Documentation
   - [Scala Documentation - doc]( https://docs.scala-lang.org/ )
@@ -569,6 +583,8 @@ Directions
 
 #### <img src="/assets/icon/programming-languages/Erlang.svg" width="20px"/>Erlang
 
+/ˈɜːrlæŋ/
+
 >Erlang is primarily used in fields that require highly reliable, concurrent, and distributed systems, especially where fault tolerance and real-time performance are critical.
 
 - [Erlang GETTING STARTED - doc](https://www.erlang.org/)
@@ -585,6 +601,8 @@ Directions
 
 #### <img src="/assets/icon/programming-languages/VisualBasic.svg" width="20px"/>Visual Basic
 
+/ˈvɪʒ.u.əl - ˈbeɪ.sɪk/
+
 >Visual Basic (VB) — especially Visual Basic for Applications (VBA) and Visual Basic .NET (VB.NET) — is primarily used in business software development, office automation, and internal enterprise tools, particularly within Windows environments.
 
 - [Visual Basic language reference](https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/visual-basic-language-reference)
@@ -592,6 +610,8 @@ Directions
 ### Banking and financial services
 
 #### <img src="/assets/icon/programming-languages/Cobol.svg" width="20px"/>COBOL
+
+/ˈkoʊbɒl/
 
 >COBOL (Common Business-Oriented Language) is primarily used in the field of business, finance, and administrative systems—especially those that require high-volume data processing and long-term reliability.
 
@@ -601,17 +621,23 @@ Directions
 
 #### <img src="/assets/icon/programming-languages/Fortran.svg" width="20px"/>Fortran
 
+/ˈfɔːtran/
+
 >Fortran (short for Formula Translation) is primarily used in fields that require high-performance numerical computing, especially those involving scientific, engineering, and mathematical computations.
 
 - [Fortran](https://fortran-lang.org/). High-performance parallel programming language.
 
 #### <img src="/assets/icon/programming-languages/Matlab.svg" width="20px"/>MATLAB
 
+/ˈmætləb/
+
 >MATLAB is widely used in fields that require mathematical modeling, data analysis, simulation, and algorithm development. It’s especially popular in engineering, science, and academia, as well as in industry applications that demand prototyping and high-performance computation.
 
 - [MATLAB](https://www.mathworks.com/products/matlab.html). A programming and numeric computing platform used by millions of engineers and scientists to analyze data, develop algorithms, and create models.
 
 #### <img src="/assets/icon/programming-languages/Lisp.svg" width="20px"/>Lisp
+
+/lɪsp/
 
 >Lisp (short for LISt Processing) is primarily used in fields that value symbolic computation, AI research, and metaprogramming. It’s one of the oldest high-level programming languages, known for its powerful macro system, code-as-data philosophy, and flexibility.
 
@@ -630,6 +656,8 @@ Directions
 - The Little Schemer by Daniel P. Friedman and Matthias Felleisen
 
 #### <img src="/assets/icon/programming-languages/Haskell.svg" width="20px"/>Haskell
+
+/ˈhæskəl/
 
 >Haskell is primarily used in fields that require strong correctness guarantees, complex algorithmic logic, or robust concurrency — especially in academia, research, finance, and advanced software tooling. It's a purely functional programming language known for type safety, immutability, and mathematical elegance.
 
@@ -666,6 +694,8 @@ Tools
 
 #### <img src="/assets/icon/programming-languages/Scratch.svg" width="20px"/>Scratch
 
+/skratʃ/
+
 >Scratch is primarily used in the field of education, especially for teaching programming and computational thinking to children and beginners.
 
 - [Scratch](https://scratch.mit.edu/). Create stories, games, and animations. Share with others around the world.
@@ -673,6 +703,8 @@ Tools
 ### Others
 
 #### Julia
+
+/ˈdʒuːliə/
 
 - [Julia 1.4 Documentation](https://docs.julialang.org/en/v1/)
 - [Julia learning resources](https://julialang.org/learning/)
@@ -759,6 +791,8 @@ Regex Tools
 
 ### XML
 
+/eks-em-el/
+
 - [Namespaces in XML](https://www.w3.org/TR/xml-names/)
 
 ### HTML & CSS
@@ -768,9 +802,11 @@ See [Web Frontend Resources - HTML & CSS](../directions/web-frontend-resources.m
 
 ### JSON
 
+/ˈdʒeɪsən/
+
 ### YAML
 
-<br>
+/ˈjæməl/
 
 ### Markup Languages
 
