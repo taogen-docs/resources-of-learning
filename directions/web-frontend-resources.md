@@ -859,7 +859,6 @@ Others
 
 Text Editor
 
-- [Visual Studio Code](https://code.visualstudio.com/)
 - Notepad++
 - Sublime Text
 - GUN Emacs
@@ -867,6 +866,7 @@ Text Editor
 
 IDE
 
+- [Visual Studio Code](https://code.visualstudio.com/) + Plugins
 - WebStorm
 - Dreamweaver
 
