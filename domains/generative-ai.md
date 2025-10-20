@@ -158,6 +158,10 @@ AI Prompt Papers
 
 ## Build AI Agent
 
+>An AI agent is a system (usually software) that can perceive its environment, reason about it, and take actions—often autonomously—to achieve specific goals.
+
+>An AI agent is like a “digital actor” that sees, thinks, and acts in pursuit of a goal—without needing explicit step-by-step instructions from a human every time.
+
 **General**
 
 - [Building effective agents - Anthropic](https://www.anthropic.com/engineering/building-effective-agents)
@@ -212,6 +216,16 @@ Resource
 - [Context Engineering: A Guide With Examples](https://www.datacamp.com/blog/context-engineering)
 - [The rise of "context engineering"](https://blog.langchain.com/the-rise-of-context-engineering/)
 - [RAG is Dead, Context Engineering is King](https://www.latent.space/p/chroma)
+
+AI agent types and examples
+
+| Type                   | Example                | Description                                                |
+| ---------------------- | ---------------------- | ---------------------------------------------------------- |
+| **Chatbot agent**      | ChatGPT                | Understands and responds to human language                 |
+| **Personal assistant** | Siri, Google Assistant | Executes commands, retrieves info, learns user preferences |
+| **Autonomous vehicle** | Tesla Autopilot        | Perceives surroundings and drives safely                   |
+| **Game agent**         | AlphaGo                | Learns to play Go and makes strategic moves                |
+| **Trading agent**      | Algorithmic trader     | Analyzes market data and executes trades automatically     |
 
 ## Build AI Applications
 
