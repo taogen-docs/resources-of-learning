@@ -84,6 +84,32 @@ AI-Assisted Programming
 
 ## Vibe Coding
 
+>vibe coding is a programming approach (driven by AI) in which a human describes what they want (in natural language) and a large-language model (LLM) generates most or all of the code. The human acts more as a director/iterative tester rather than a manual line-by-line coder.
+
+>Vibe coding is the practice of building software by describing intent in natural language and letting an AI system generate and evolve the code toward that intent.
+
+<details>
+<summary>Advantages and disadvantages of vibe coding</summary>
+
+Advantages
+
+- **Lower barrier to entry**: Non-coders or hobbyists may create functional prototypes or apps without deep programming skills.
+- **Speed & iteration**: Rapid prototypes, “weekend projects” become more feasible.
+- **Creativity focus**: The human can focus more on _what_ the software should do (idea, design, user flow) rather than _how_ every line is written.
+- **Democratization**: More people can potentially build tools, apps—changing who can “code”.
+
+Limitations & risks
+
+- **Code comprehension & maintainability**: Because you didn’t write every line, you may not understand how the system works or how to fix it if things go wrong.
+- **Quality/security issues**: AI-generated code can include vulnerabilities, bugs, or architectural flaws.
+- **Not always suitable for complex systems**: For large codebases, mission-critical applications, you still need system design, testing frameworks, architecture, etc.
+- **Over-reliance on AI → false confidence**: Some non-developers may think “AI wrote it therefore it’s correct” — but that’s unsafe.
+- **Maintenance & scalability issues**: Prototype is fine; production grade is harder.
+
+</details>
+
+Books
+
 - Vibe Coding: Building Production-Grade Software With GenAI, Chat, Agents, and Beyond (2025) by Gene Kim, Steve Yegge 
 - Beyond Vibe Coding: Leveraging Your Experience in the Age of AI (2025) by Addy Osmani
 
