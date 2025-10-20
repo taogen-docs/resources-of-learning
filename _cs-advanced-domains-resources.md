@@ -471,6 +471,7 @@ MySQL Internal and Programming
 - PostgreSQL Configuration: Best Practices for Performance and Security (2020) by Baji Shaik
 - Mastering PostgreSQL 15 (5th, 2023) by Hans-Jürgen Schönig
 - PostgreSQL Query Optimization (2nd, 2024) by Henrietta Dombrovskaya, Database expert, Anna Bailliekova
+- Just Use Postgres: A fast guide for developers (2025) by Denis Magda
 - [A Tour of PostgreSQL Internals](https://www.postgresql.org/files/developer/tour.pdf)
 - [PostgreSQL 14 Internals: A deep dive into the server mechanics](https://postgrespro.com/community/books/internals)
 - The Internals of PostgreSQL by Hironobu Suzuki [online book](https://www.interdb.jp/pg/)
@@ -934,6 +935,7 @@ Must Read
 - **Distributed Systems** (4th, 2023) by Andrew S. Tanenbaum, Maarten van Steen. A good overview of distributed systems that goes to enough depth to spark interest. Might be too much for beginners, but a good intermediate level reference.
 - **Designing Data-Intensive Applications** (2017) by Martin Kleppmann
 - **Distributed Systems For Fun and Profit** by Mikito Takada. Great intro book to distributed systems theory, with plenty of references to learn more once you're done.
+- Think Distributed Systems (2025) by Dominik Tornow
 - Understanding Distributed Systems: What every developer should know about large distributed applications (2nd, 2022) by Roberto Vitillo
 - Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services by Brendan Burns. Patterns and Paradigms for container architecture. Useful but shallow.
 - Patterns of Distributed Systems by Unmesh Joshi [HTML](https://martinfowler.com/articles/patterns-of-distributed-systems/)
@@ -1577,6 +1579,7 @@ Courses
 - [NielsRogge/Transformers-Tutorials - GitHub](https://github.com/NielsRogge/Transformers-Tutorials)
 - How Transformers Work: A Detailed Exploration of Transformer Architecture [Link](https://www.datacamp.com/tutorial/how-transformers-work)
 - [Transformers: a Primer](https://www.columbia.edu/~jsl2239/transformers.html). A math-guided tour of the Transformer architecture and preceding literature.
+- Transformers in Action (2025) by Nicole Koenigstein
 - Natural Language Processing
 	- Natural Language Processing with Transformers: Building Language Applications with Hugging Face (2022) by Lewis Tunstall, Leandro von Werra, Thomas Wolf [4.4, 201]
 	- Transformers for Natural Language Processing: Build, train, and fine-tune deep neural network architectures for NLP with Python, Hugging Face, and OpenAI's GPT-3, ChatGPT, and GPT-4 (2nd, 2022) by Denis Rothman [4.19, 43]

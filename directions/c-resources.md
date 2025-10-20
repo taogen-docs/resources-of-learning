@@ -34,6 +34,7 @@ Project Structure
 Modern C
 
 - Modern C for Absolute Beginners: A Friendly Introduction to the C Programming Language (2021) by Slobodan Dmitrović
+- Modern C: Covers the C23 standard (3rd, 2025) by Jens Gustedt
 
 ### Advanced
 

@@ -32,12 +32,18 @@ Generative AI
 - Hands-On Large Language Models: Language Understanding and Generation (2024) by Jay Alammar, Maarten Grootendorst 
 - LLM Engineer's Handbook: Master the art of engineering large language models from concept to production (2024) by Paul Iusztin, Maxime Labonne
 - Large Language Models: A Deep Dive: Bridging Theory and Practice (2024) by Uday Kamath (Author), Kevin Keenan, Garrett Somers 
+- Introduction to Generative AI (2025) by Numa Dhamani and Maggie Engler
+- How Large Language Models Work (2025) by Edward Raff, Drew Farris and Stella Biderman 
 
-Build a LLM
+Build a LLM / AI Systems
 
 - Build a Large Language Model (From Scratch) (2024) by Sebastian Raschka
 - The Hundred-Page Language Models Book: hands-on with PyTorch (2025) by Andriy Burkov
 - Generative AI Design Patterns: Solutions to Common Challenges When Building GenAI Agents and Applications (2025) by Valliappa Lakshmanan, Hannes Hapke 
+- Build a Reasoning Model (From Scratch) (2026) by Sebastian Raschka
+- Build a Text-to-Image Generator (from Scratch) : With transformers and diffusions (2026) by Mark Liu
+- Building Reliable AI Systems: Production-ready methods to reduce hallucination, bias, and more (2025) by Rush Shahani
+- AI Model Evaluation (2026) by Leemay Nassery
 
 AI Systems Performance
 
@@ -88,9 +94,10 @@ Using AI
 - AI-Powered Developer: Build great software with ChatGPT and Copilot (2024) by Nathan B. Crocker
 - Software Testing with Generative AI (2024) by Mark Winteringham
 - "Looks Good To Me": Constructive code reviews (2025) by Adrienne Braganza
+- Prompt Engineering for AI Systems (2025) by Shivendra Srivastava and Naresh Vurukonda. It teaches you to write prompts that generate the text and code you want, regardless of the LLM you choose. 
 - [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools). FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent (And other Open Sourced) System Prompts, Tools & AI Models.
 
-AI completion Tools
+AI code completion Tools
 
 - Learning GitHub Copilot: Multiplying Your Coding Productivity Using AI (2025) by Brent Laster
 
@@ -211,10 +218,12 @@ AI Prompt Papers
 
 - [Building effective agents - Anthropic](https://www.anthropic.com/engineering/building-effective-agents)
 - AI Agents in Action (2025) by Micheal Lanham
+- Build an AI Agent (From Scratch) (2026) by Jungjun Hur and Younghee Song
 - Building AI Agents with LLMs, RAG, and Knowledge Graphs: A practical guide to autonomous and modern AI agents (2025) by Salvatore Raieli and Gabriele Iuculano
 - Principles of Building AI Agents (2025) by Sam Bhagwat
 - Agentic AI Handbook: Design Patterns: Build an Agent AI that Thinks, Plans, and Delivers (2025) by Mark Lane
 - GenAI on Google Cloud: Enterprise Generative AI Systems and Agents (2026) by Ayo Adedeji, Lavi Nigam, Sarita Joshi, Stephanie Gervasi
+- AI Agents and Applications: With LangChain, LangGraph, and MCP by (2026) Roberto Infante
 
 
 **LangChain & LangGraph**

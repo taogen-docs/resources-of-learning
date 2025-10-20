@@ -203,7 +203,7 @@ Reference [Programming Language Resources - Programming Paradigms](../domains/pr
 >Common issues: memory leaks, deadlocks
 
 - Troubleshooting Guide - [Java 8](https://docs.oracle.com/javase/8/docs/technotes/guides/troubleshoot/), [Java 11](https://docs.oracle.com/en/java/javase/11/troubleshoot/general-java-troubleshooting.html), [Java 17](https://docs.oracle.com/en/java/javase/17/troubleshoot/general-java-troubleshooting.html), [Java 21](https://docs.oracle.com/en/java/javase/21/troubleshoot/general-java-troubleshooting.html)
-- Troubleshooting Java: Read, debug, and optimize JVM applications (2023) by Laurentiu Spilca
+- Troubleshooting Java: Read, debug, and optimize JVM applications (2nd, 2025) by Laurentiu Spilca
 
 Java Diagnostic Tools
 
