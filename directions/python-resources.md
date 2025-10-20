@@ -38,7 +38,7 @@ Some more
 - Learn Python 3 the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code by Zed Shaw [3.93, 585]
 - Python Essential Reference by David M. Beazley [4.23, 477]
 - A Byte of Python by Swaroop C.H. [LINK](https://python.swaroopch.com/) [4.07, 378]
-- Introducing Python: Modern Computing in Simple Packages (2nd, 2019) by Bill Lubanovic [4.16, 324]
+- Introducing Python: Modern Computing in Simple Packages (3rd, 2025) by Bill Lubanovic [4.16, 324]
 - Core Python Programming by R. Nageswara Rao [4.19, 306]
 - Dive into Python 3 (2009) by Mark Pilgrim [3.84, 302]
 - The Quick Python Book (3rd, 2018) by Naomi Ceder [3.88, 273]

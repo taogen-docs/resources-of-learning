@@ -1240,6 +1240,13 @@ Microsoft Azure
 - Learning Spark by Mark Hamstra
 - MapReduce Design Patterns: Building Effective Algorithms and Analytics for Hadoop and Other Systems by Adam Shook and Donald Miner
 
+### Microsoft Fabric
+
+>Microsoft Fabric is an end-to-end data analytics platform developed by Microsoft that unifies data engineering, data integration, data science, real-time analytics, and business intelligence (BI) in a single, cloud-based environment.
+
+- Real-Time Intelligence with Microsoft Fabric: Empowering Data-Driven Decisions in the Era of AI (2026) by Johan Ludvig Brattås, Frank Geisler
+- Microsoft Fabric Analytics Engineer Associate Study Guide: Hands-on Practice and Expert Tips for Acing the DP-600 Certification Exam (2026) by Brian Bønk, Valerie Junk
+
 ### Big Data Engineering
 
 - Fundamentals of Data Engineering: Plan and Build Robust Data Systems by Joe Reis, Matt Housley

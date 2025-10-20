@@ -23,6 +23,7 @@ Introductory, no previous programming experience
 - C++ Crash Course: A Fast-Paced Introduction (2019) by Josh Lospinoso
 - Starting Out with C++ from Control Structures to Objects (2023) by Tony Gaddis
 - C++ Without Fear: A Beginner's Guide That Makes You Feel Smart (3rd, 2015) by Brian Overland
+- Introducing C++: The Easy Way to Start Learning Modern C++ (2026) by Frances Buontempo
 
 Introductory, with previous programming experience
 

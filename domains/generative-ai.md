@@ -37,6 +37,11 @@ Build a LLM
 
 - Build a Large Language Model (From Scratch) (2024) by Sebastian Raschka
 - The Hundred-Page Language Models Book: hands-on with PyTorch (2025) by Andriy Burkov
+- Generative AI Design Patterns: Solutions to Common Challenges When Building GenAI Agents and Applications (2025) by Valliappa Lakshmanan, Hannes Hapke 
+
+AI Systems Performance
+
+- AI Systems Performance Engineering: Optimizing Model Training and Inference Workloads with GPUs, CUDA, and PyTorch (2025) by Chris Fregly
 
 LLM Resources
 
@@ -72,8 +77,11 @@ Using AI
   - AI FOR BEGINNERS: The Ultimate Guide to Mastering Generative Intelligence, From Theory to Practice (2024) by Alan Miller
   - AI Made Simple: A Beginner’s Guide to Generative Intelligence (2023) by Rajeev Kapur
 
-AI-Assisted Programming
+## GenAI for Software Development
 
+### AI-Assisted Programming
+
+- Generative AI for Software Development: Building Software Faster and More Effectively (2025) by Sergio Pereira
 - AI-Assisted Programming: Better Planning, Coding, Testing, and Deployment (2024) by Tom Taulli
 - Learn AI-Assisted Python Programming: With GitHub Copilot and ChatGPT (2nd, 2024) by Leo Porter, Daniel Zingaro
 - Learn Coding with ChatGPT: Introduction to Python & Java, Tips for App, Web & Script Development Paperback (2024) by Manuel Schneider
@@ -82,7 +90,11 @@ AI-Assisted Programming
 - "Looks Good To Me": Constructive code reviews (2025) by Adrienne Braganza
 - [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools). FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent (And other Open Sourced) System Prompts, Tools & AI Models.
 
-## Vibe Coding
+AI completion Tools
+
+- Learning GitHub Copilot: Multiplying Your Coding Productivity Using AI (2025) by Brent Laster
+
+### Vibe Coding
 
 >vibe coding is a programming approach (driven by AI) in which a human describes what they want (in natural language) and a large-language model (LLM) generates most or all of the code. The human acts more as a director/iterative tester rather than a manual line-by-line coder.
 
@@ -111,9 +123,9 @@ Limitations & risks
 Books
 
 - Vibe Coding: Building Production-Grade Software With GenAI, Chat, Agents, and Beyond (2025) by Gene Kim, Steve Yegge 
-- Beyond Vibe Coding: Leveraging Your Experience in the Age of AI (2025) by Addy Osmani
+- Beyond Vibe Coding: From Coder to AI-Era Developer (2025) by Addy Osmani
 
-### AI Code Editor
+**AI Code Editor**
 
 Cursor
 
@@ -133,6 +145,13 @@ Windsurf
 
 - [Windsurf - The most powerful AI Code Editor](https://windsurf.com/)
 
+### AI-First Development
+
+Bolt.new
+
+>Bolt.new, a powerful in-browser AI agent from StackBlitz, streamlines the development process, allowing you to prototype quickly, debug intelligently, and launch confidently—no local setup required.
+
+- Building Web Apps with Bolt: Unlock the Future of AI-First Development (2025) by Addy Osmani
 
 ## Prompt Engineering
 
@@ -195,6 +214,7 @@ AI Prompt Papers
 - Building AI Agents with LLMs, RAG, and Knowledge Graphs: A practical guide to autonomous and modern AI agents (2025) by Salvatore Raieli and Gabriele Iuculano
 - Principles of Building AI Agents (2025) by Sam Bhagwat
 - Agentic AI Handbook: Design Patterns: Build an Agent AI that Thinks, Plans, and Delivers (2025) by Mark Lane
+- GenAI on Google Cloud: Enterprise Generative AI Systems and Agents (2026) by Ayo Adedeji, Lavi Nigam, Sarita Joshi, Stephanie Gervasi
 
 
 **LangChain & LangGraph**
@@ -243,7 +263,11 @@ Resource
 - [The rise of "context engineering"](https://blog.langchain.com/the-rise-of-context-engineering/)
 - [RAG is Dead, Context Engineering is King](https://www.latent.space/p/chroma)
 
-AI agent types and examples
+Agentic Mesh
+
+- Agentic Mesh: The GenAI-Powered Autonomous Agent Ecosystem 1st Edition (2026) by Eric Broda, Davis Broda
+
+AI agent types
 
 | Type                   | Example                | Description                                                |
 | ---------------------- | ---------------------- | ---------------------------------------------------------- |

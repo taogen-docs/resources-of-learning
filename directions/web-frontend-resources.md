@@ -1296,6 +1296,7 @@ Website Performance
 - **High Performance Browser Networking: What Every Web Developer Should Know about Networking and Web Performance** (2013) by Ilya Grigorik
 - **High Performance Web Sites: Essential Knowledge for Front-End Engineers** (2007) by Steve Souders
 - **Even Faster Web Sites: Performance Best Practices for Web Developers** (2009) by Steve Souders
+- Web Performance Engineering in the Age of AI: Mastering Speed and Quality for AI-Generated Applications (2026) by Addy Osmani
 - [Frontend Performance Best Practices - Roadmap](https://roadmap.sh/best-practices/frontend-performance)
 - [Learn Performance - Google](https://web.dev/learn/performance)
 - Web Performance Tuning (2nd, 2002) by Patrick Killelea
@@ -1306,6 +1307,10 @@ Website Performance
 - High Performance Responsive Design by Tom Barker
 - The Web Testing Handbook by Steven Splaine, Stefan P. Jaskiel
 - Algorithms of the Intelligent Web by Douglas McIlwraith, Haralambos Marmanis, Dmitry Babenko
+
+## Micro-Frontends
+
+- Building Micro-Frontends: Distributed Systems for the Frontend (2nd, 2025) by Luca Mezzalira
 
 ## Front-End Job Interview
 

@@ -541,6 +541,10 @@ Spring Boot 2.x
 - RESTful Web Services with Dropwizard (2014) by Alexandros Dallas
 
 
+### AI for Java Development
+
+- Spring AI in Action (2025) by Craig Walls 
+- Applied AI for Enterprise Java Development: Leveraging Generative AI, LLMs, and Machine Learning in the Java Enterprise (2025) by Alex Soto Bueno, Markus Eisele, Natale Vinto
 
 ### Web Services
 

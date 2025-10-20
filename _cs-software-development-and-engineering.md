@@ -100,6 +100,7 @@ Refactoring
 - **Refactoring: Improving the Design of Existing Code** (2nd, 2018) by Martin Fowler, Kent Beck 
 - **Refactoring to Patterns** (2004) by Joshua Kerievsky
 - **Working Effectively with Legacy Code** (2004) by Michael C. Feathers
+- Domain-Driven Transformation: Modernize Legacy Systems and Mitigate Risk (2025) by Carola Lilienthal, Henning Schwentner 
 
 Test-Driven Development (TDD)
 
@@ -541,6 +542,9 @@ Some more
 
 - Grokking the System Design Interview
 - Alex Yu - System Design Interview_ An Insider’s Guide
+- Tidy Together: A Team Exercise in Empirical Software Design (2026) by Kent Beck 
+- The Product-Minded Engineer: Building Impactful Software for Your Users (2025) by Drew Hoskins 
+- Responsible Software Engineering: With Real-World Case Studies from Google (2025) by Daniel J. Barrett 
 
 ### Domain-Driven Design
 
@@ -580,7 +584,7 @@ Microservices Security
 
 ### Data Engineering
 
-- **Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems** (2017) by Martin Kleppmann (**DDIA**) [4.70, 9902]
+- **Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems** (2nd, 2026) by Martin Kleppmann (**DDIA**) [4.70, 9902]
 - The Model Thinker: What You Need to Know to Make Data Work for You by Scott E. Page [3.92, 918]
 - Big Data: Principles and best practices of scalable realtime data systems by Nathan Marz, James Warren [3.82, 489]
 - Data Modeling Made Simple: A Practical Guide for Business and IT Professionals by Steve Hoberman [3.77, 114]
@@ -1107,7 +1111,7 @@ Prometheus
 
 ### Container Security
 
-- Container Security: Fundamental Technology Concepts that Protect Containerized Applications (2020) by Liz Rice
+- Container Security: Fundamental Technology Concepts that Protect Containerized Applications (2nd, 2025) by Liz Rice
 - Hacking Kubernetes: Threat-Driven Analysis and Defense (2021) by Andrew Martin, Michael Hausenblas
 - Kubernetes Security and Observability: A Holistic Approach to Securing Containers and Cloud Native Applications (2021) by Brendan Creane, Amit Gupta
 
@@ -1184,6 +1188,7 @@ Prometheus
 - **Software Engineering at Google: Lessons Learned from Programming Over Time** (2020) by Titus Winters, Tom Manshreck, Hyrum Wright
 - Software Engineering: A Practitioner's Approach by Roger S. Pressman
 - The Essence of Software Engineering by Volker Gruhn and Rüdiger Striemer
+- Fundamentals of Software Engineering: From Coder to Engineer (2025) by Nathaniel Schutta (Author), Dan Vega
 
 Modern Software Engineering
 
@@ -1355,6 +1360,8 @@ Tech Leader
 - **An Elegant Puzzle: System of Engineering Management** (2019) by Will Larson
 - **Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered** (2014) by Austin Kleon
 - **The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact**  by Edmond Lau
+- Engineering Leadership: The Hard Parts: Navigating Chaos to Build Teams That Deliver (2026) by Juan Pablo Buriticá, James Turnbull
+- Crafting Engineering Strategy: How Thoughtful Decisions Solve Complex Problems (2025) by Will Larson
 - Leading Effective Engineering Teams: Lessons for Individual Contributors and Managers from 10 Years at Google (2024) by Addy Osmani
 - The Engineering Executive's Primer: Impactful Technical Leadership (2024) by Will Larson [4.3, 137]
 - The Engineering Leader: Strategies for Scaling Teams and Yourself (2024) by Cate Huston
@@ -1721,7 +1728,7 @@ System Design Interview
 - Object Oriented Design Interview: An Insider’s Guide by Desmond Zhou, Fawaz Bokhari, Alex Xu
 - Acing the System Design Interview (2024) by Zhiyong Tan
 - Hacking the System Design Interview: Real Big Tech Interview Questions and In-depth Solutions (2022) by Stanley Chiang 
-- Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems (2017) by Martin Kleppmann (DDIA)
+- Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems (2nd, 2026) by Martin Kleppmann (DDIA)
 - The System Design Interview by Lewis C. Lin, Shivam P. Patel
 - Grokking the System Design Interview: A step by step guide to master the system design interview by Design Gurus
 
