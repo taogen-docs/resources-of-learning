@@ -423,7 +423,7 @@ Tutorials
 
 ### System Architecture
 
-/ˈsɪstɪm - ˈɑːkɪtɛktʃə/
+/ˈsɪs.təm - ˈɑːkɪtektʃə/
 
 Roadmap
 
@@ -1703,6 +1703,13 @@ General Guidance
 Coding Interview (Algorithms)
 
 - Complete 300 questions on [LeetCode](https://leetcode.com/).
+- LeetCode problem lists
+	- [TOP100](https://leetcode.com/problem-list/arw5ns9e/). A Collection of 100 LeetCode problems, covers all the important patterns. Good way to quickly cover all the DSA patterns on various Data Structures.
+	- [Top 100 Liked - Study Plan](https://leetcode.com/studyplan/top-100-liked/). 100 Best Rated Problems.
+	- [LeetCode 75 - Study Plan](https://leetcode.com/studyplan/leetcode-75/). Ace Coding Interview with 75 Qs.
+	- [Top Interview 150 - Study Plan](https://leetcode.com/studyplan/top-interview-150/). Must-do List for Interview Prep.
+	- [Programming Skills - Study Plan](https://leetcode.com/studyplan/programming-skills/). Excel Implementation Skills in 50 Qs.
+	- [力扣热题 HOT 100](https://leetcode.cn/problem-list/2cktkvj/)
 - Cracking the Coding Interview: 189 Programming Questions and Solutions (2015) by Gayle Laakmann McDowell  《程序员面试金典》
 - Coding Interview Patterns: Nail Your Next Coding Interview (2024) by Alex Xu (Author), Shaun Gunawardane
 - Programming Pearls (2nd, 1999)  by Jon Bentley
@@ -1743,6 +1750,7 @@ Technical Interview
 	- Elements of Programming Interviews in Python: The Insiders' Guide by Adnan Aziz, Tsung-Hsien Lee, Amit Prakash
 - SQL
 	- Joe Celko's SQL Puzzles and Answers by Joe Celkos
+	- [LeetCode SQL 50 - Study Plan](https://leetcode.com/studyplan/top-sql-50/)
 - Data Science
 	- Ace the Data Science Interview: 201 Real Interview Questions Asked By FAANG, Tech Startups, & Wall Street (2021) by Nick Singh, Kevin Huo
 - Machine Learning
