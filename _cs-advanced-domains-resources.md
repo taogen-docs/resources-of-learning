@@ -927,7 +927,7 @@ Reference [Information Security Resources](directions/information-security-resou
 
 ### Distributed Systems
 
-/dɪˈstrɪbjuːtɪd - ˈsɪstɪms/
+/dɪˈstrɪbjuːtɪd - ˈsɪs.təms/
 
 Must Read
 
