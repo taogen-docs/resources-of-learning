@@ -33,7 +33,8 @@ Generative AI
 - LLM Engineer's Handbook: Master the art of engineering large language models from concept to production (2024) by Paul Iusztin, Maxime Labonne
 - Large Language Models: A Deep Dive: Bridging Theory and Practice (2024) by Uday Kamath (Author), Kevin Keenan, Garrett Somers 
 - Introduction to Generative AI (2025) by Numa Dhamani and Maggie Engler
-- How Large Language Models Work (2025) by Edward Raff, Drew Farris and Stella Biderman 
+- How Large Language Models Work (2025) by Edward Raff, Drew Farris and Stella Biderman
+- [Learn essential AI skills - Google AI](https://ai.google/learn-ai-skills/)
 
 Build a LLM / AI Systems
 

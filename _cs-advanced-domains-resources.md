@@ -1392,6 +1392,7 @@ Courses
 - Grokking Deep Learning (2019) by Andrew W. Trask [4.23, 238]
 - Fundamentals of Deep Learning: Designing Next-Generation Machine Intelligence Algorithms (2nd, 2022) by Nicholas Locascio and Nikhil Buduma [3.86, 112]
 - Deep Learning Illustrated: A Visual, Interactive Guide to Artificial Intelligence (2019) by Jon Krohn, Grant Beyleveld, Aglaé Bassens [4.3, 107]
+- 深度学习入门 by [日］斋藤康毅 [9.5, 1832] ゼロから作るDeep Learning
 
 Some more
 
