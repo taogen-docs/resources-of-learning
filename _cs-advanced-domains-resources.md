@@ -1350,8 +1350,11 @@ Machine Learning
 - Introduction to Machine Learning with Python: A Guide for Data Scientists (2016) by Andreas C. Müller, Sarah Guido [4.34, 587]
 - Machine Learning With Random Forests And Decision Trees: A Visual Guide For Beginners (2016) by Scott Hartshorn [4.0, 546]
 - Machine Learning: A Probabilistic Perspective (2012) Kevin P. Murphy [4.34, 520]
+- Information Theory, Inference, and Learning Algorithms by David J.C. MacKay [4.52, 486]
 - Machine Learning For Absolute Beginners: A Plain English Introduction (2020) by Oliver Theobald [4.12, 458]
 - Machine Learning Design Patterns: Solutions to Common Challenges in Data Preparation, Model Building, and MLOps (2020) by Valliappa Lakshmanan, Sara Robinson, Michael Munn [4.2, 266]
+- Introduction to Machine Learning Systems: Principles and Practices of Engineering Artificially Intelligent Systems by Vijay Janapa Reddi [open-source book](https://www.mlsysbook.ai/)
+- Machine Learning for OpenCV
 - 机器学习 by 周志华 (**西瓜书**)
 
 Some more
@@ -1390,6 +1393,7 @@ Courses
 - Deep Learning (The MIT Press Essential Knowledge series) (2019) by John D. Kelleher [3.9, 443]
 - Generative Deep Learning: Teaching Machines To Paint, Write, Compose, and Play (2nd, 2023) by David Foster [4.3, 245]
 - Grokking Deep Learning (2019) by Andrew W. Trask [4.23, 238]
+- Machine Learning: An Algorithmic Perspective by Stephen Marsland [3.77, 182]
 - Fundamentals of Deep Learning: Designing Next-Generation Machine Intelligence Algorithms (2nd, 2022) by Nicholas Locascio and Nikhil Buduma [3.86, 112]
 - Deep Learning Illustrated: A Visual, Interactive Guide to Artificial Intelligence (2019) by Jon Krohn, Grant Beyleveld, Aglaé Bassens [4.3, 107]
 - 深度学习入门 by [日］斋藤康毅 [9.5, 1832] ゼロから作るDeep Learning
@@ -1424,6 +1428,8 @@ Math for Deep Learning
 ### Neural Network
 
 - Make Your Own Neural Network (2016) by Tariq Rashid [4.3, 693]
+- Neural Network Design by Martin T. Hagan [4.33, 60]
+- Neural Networks And Learning Machines by Simon Haykin [4.09, 45]
 - The Math of Neural Networks (2017) by Michael Taylor
 
 ### Reinforcement Learning
@@ -1653,7 +1659,9 @@ TensorFlow.js
 - [Artificial Intelligence - Elsevier](https://www.journals.elsevier.com/artificial-intelligence)
 - [Top Papers in Machine Learning - Papers With Code](https://paperswithcode.com/greatest)
 
+Resources
 
+- [awesome-AI-books](https://github.com/zslucky/awesome-AI-books)
 
 <br>
 
