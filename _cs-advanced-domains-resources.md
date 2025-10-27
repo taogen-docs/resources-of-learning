@@ -1201,39 +1201,19 @@ Microsoft Azure
 
 >Collect and move raw data from various sources (databases, APIs, IoT, logs) into the data platform.
 
-Apache Kafka
-
->Distributed streaming platform for real-time data pipelines.
-
-Apache NiFi
-
->Drag-and-drop data flow automation and ETL tool.
-
-AWS Kinesis
-
->Amazon’s managed real-time data streaming service.
-
-Apache Flume
-
->Collects, aggregates, and transports log data.
-
-Fivetran
-
->Cloud-based ETL platform for automated data ingestion.
-
-Airbyte
-
->Open-source ELT tool connecting APIs, databases, and warehouses.
-
-Debezium
-
->Captures database changes (CDC) and streams them via Kafka.
+- Apache Kafka: Distributed streaming platform for real-time data pipelines.
+- Apache NiFi: Drag-and-drop data flow automation and ETL tool.
+- AWS Kinesis: Amazon’s managed real-time data streaming service.
+- Apache Flume: Collects, aggregates, and transports log data.
+- Fivetran: Cloud-based ETL platform for automated data ingestion.
+- Airbyte: Open-source ELT tool connecting APIs, databases, and warehouses.
+- Debezium: Captures database changes (CDC) and streams them via Kafka.
 
 #### Data Storage & Warehousing
 
 >Store data in raw or structured formats for later analysis.
 
-#### Data Warehousing
+##### Data Warehousing
 
 - Agile Data Warehouse Design: Collaborative Dimensional Modeling, from Whiteboard to Star Schema (2011) by Lawrence Corr, Jim Stagnitto
 - The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling (3rd, 2013) by Ralph Kimball, Margy Ross 
@@ -1517,7 +1497,7 @@ Metabase / Superset
 | Methodology   | Reporting, dashboards, and data visualization                                             | Data mining, statistical modeling, machine learning, and algorithms                                |
 | Users         | Often non-technical business leaders and management                                       | More technical users like data analysts and scientists                                             |
 
-### Data Steward / Governance
+### Data Governance
 
 >Ensure data accuracy, lineage, security, and reliability.
 
