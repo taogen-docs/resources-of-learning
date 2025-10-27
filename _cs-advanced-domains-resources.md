@@ -1187,6 +1187,16 @@ Microsoft Azure
 
 ### Data Engineering
 
+#### Data Engineering
+
+- Data Engineering Design Patterns: Recipes for Solving the Most Common Data Engineering Problems (2025) by Bartosz Konieczny
+- Fundamentals of Data Engineering: Plan and Build Robust Data Systems by Joe Reis, Matt Housley
+- The Self-Service Data Roadmap: Democratize Data and Reduce Time to Insight (2002) by Sandeep Uttamchandani
+- Designing Cloud Data Platforms by Danil Zburivsky, Lynda Partner
+- Big Data: Principles and best practices of scalable realtime data systems (2015) by Nathan Marz, James Warren 
+- Deciphering Data Architectures: Choosing Between a Modern Data Warehouse, Data Fabric, Data Lakehouse, and Data Mesh (2024) by James Serra 
+- Data Engineering with Apache Spark, Delta Lake, and Lakehouse: Create scalable pipelines that ingest, curate, and aggregate complex data in a timely and secure way (2021) by Manoj Kukreja
+
 #### Data Ingestion & Integration
 
 >Collect and move raw data from various sources (databases, APIs, IoT, logs) into the data platform.
@@ -1222,6 +1232,11 @@ Debezium
 #### Data Storage & Warehousing
 
 >Store data in raw or structured formats for later analysis.
+
+#### Data Warehousing
+
+- Agile Data Warehouse Design: Collaborative Dimensional Modeling, from Whiteboard to Star Schema (2011) by Lawrence Corr, Jim Stagnitto
+- The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling (3rd, 2013) by Ralph Kimball, Margy Ross 
 
 ##### <img src="/assets/icon/advanced-domains/Hadoop.svg" width="24px"/>Hadoop Ecosystem
 
@@ -1276,21 +1291,48 @@ Snowflake
 
 >Cloud data warehouse with elastic compute and storage.
 
+- Data Modeling with Snowflake: A practical guide to accelerating Snowflake development using universal modeling techniques (2nd, 2025) by Serge Gershkovich
+- Snowflake: The Definitive Guide: Architecting, Designing, and Deploying on the Snowflake Data Cloud (2022) by Joyce Kay Avila
+- Snowflake Data Engineering (2025) by Maja Ferle
+- Jumpstart Snowflake: A Step-by-Step Guide to Modern Cloud Analytics (2nd, 2025) by Dmitry Anoshin, Dmitry Foshin, Donna Strok 
+- Learning Snowflake SQL and Scripting: Generate, Retrieve, and Automate Snowflake Data (2023) by Alan Beaulieu
+- Snowflake Cookbook: Techniques for building modern cloud data warehousing solutions (2021) by Hamid Mahmood Qureshi, Hammad Sharif
+
 Google BigQuery
 
 >Serverless data warehouse with SQL and ML integration.
+
+- Google BigQuery: The Definitive Guide: Data Warehousing, Analytics, and Machine Learning at Scale (2019) by Valliappa Lakshmanan, Jordan Tigani
+- Data Exploration and Preparation with BigQuery: A practical guide to cleaning, transforming, and analyzing data for business insights (2023) by Mike Kahn
+- Google BigQuery Analytics (2014) by Jordan Tigani, Siddartha Naidu 
+- BigQuery for Data Warehousing: Managed Data Analysis in the Google Cloud (2020) by Mark Mucchetti 
+- Machine Learning with BigQuery ML: Create, execute, and improve machine learning models in BigQuery using standard SQL queries (2021) by Alessandro Marrandino 
+- Learning Google BigQuery: A beginner's guide to mining massive datasets through interactive analysis (2017) by Thirukkumaran Haridass, Eric Brown
+- Data Science on the Google Cloud Platform: Implementing End-to-End Real-Time Data Pipelines: From Ingest to Machine Learning (2nd, 2022) by Valliappa Lakshmanan
+- Data Engineering with Google Cloud Platform: A guide to leveling up as a data engineer by building a scalable data platform with Google Cloud (2nd, 2024) by Adi Wijaya, António Vilares
 
 Amazon Redshift
 
 >Scalable data warehouse service by AWS.
 
+- Amazon Redshift: The Definitive Guide: Jump-Start Analytics Using Cloud Data Warehousing (2023) by Rajesh Francis, Rajiv Gupta, Milind Oke
+- Amazon Redshift Cookbook: Recipes for building modern data warehousing solutions (2nd, 2025) by Shruti Worlikar, Harshida Patel, Anusha Challa
+- Data Science on AWS: Implementing End-to-End, Continuous AI and Machine Learning Pipelines (2021) by Chris Fregly, Antje Barth 
+
 Delta Lake
 
 >Open-source data lake format ensuring reliability (ACID) on big data.
 
+- Delta Lake: The Definitive Guide: Modern Data Lakehouse Architectures with Data Lakes (2024) by Denny Lee, Tristen Wentling, Scott Haines, Prashanth Babu
+- Practical Lakehouse Architecture: Designing and Implementing Modern Data Platforms at Scale (2024) by Gaurav Ashok Thalpati 
+- Delta Lake: Up and Running: Modern Data Lakehouse Architectures with Delta Lake (2023) by Bennie Haelen, Dan Davis
+- Building Medallion Architectures: Designing with Delta Lake and Spark (2025) by Piethein Strengholt
+
 Apache Iceberg
 
 >Modern table format for large-scale data lakes (schema evolution + time travel).
+
+- Apache Iceberg: The Definitive Guide: Data Lakehouse Functionality, Performance, and Scalability on the Data Lake (2024) by Tomer Shiran, Jason Hughes, Alex Merced
 
 Parquet / ORC
 
@@ -1304,6 +1346,7 @@ Parquet / ORC
 Data Processing
 
 - Data Pipelines Pocket Reference: Moving and Processing Data for Analytics (2021) by James Densmore
+- Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing (2018) by Tyler Akidau, Slava Chernyak, Reuven Lax 
 
 Apache Spark
 
@@ -1312,26 +1355,54 @@ Apache Spark
 - Learning Spark: Lightning-Fast Big Data Analysis by Holden Karau, Andy Konwinski, Patrick Wendell, Matei Zaharia
 - Spark: The Definitive Guide: Big Data Processing Made Simple by Bill Chambers. Matei Zaharia
 - Learning Spark by Mark Hamstra
+- Stream Processing with Apache Spark: Mastering Structured Streaming and Spark Streaming (2019) by Gerard Maas, Francois Garillot
+- Data Algorithms with Spark: Recipes and Design Patterns for Scaling Up using PySpark (2022) by Mahmoud Parsian 
+- High Performance Spark: Best Practices for Scaling and Optimizing Apache Spark (2nd, 2026) by Holden Karau, Adi Polak, Rachel Warren 
+- Apache Spark for Machine Learning: Build and deploy high-performance big data AI solutions for large-scale clusters (2024) by Deepak Gowda 
+- Modern Data Engineering with Apache Spark: A Hands-On Guide for Building Mission-Critical Streaming Applications (2022) by Scott Haines
+- Spark in Action, Second Edition: Covers Apache Spark 3 with Examples in Java, Python, and Scala (2nd, 2020) by Jean-Georges Perrin
+- Beginning Apache Spark 3: With DataFrame, Spark SQL, Structured Streaming, and Spark Machine Learning Library (2nd, 2021) by Hien Luu
 
 Databricks
 
 >Cloud platform built around Spark for data engineering and ML.
 
+- Databricks Certified Data Engineer Associate Study Guide: In-Depth Guidance and Practice (2025) Derar Alhussein
+- Databricks Data Intelligence Platform: Unlocking the GenAI Revolution (2024) by Nikhil Gupta, Jason Yip 
+- Data Governance with Unity Catalog on Databricks: Implement Data and AI Governance with Databricks Data Intelligence Platform (2025) by Kiran Sreekumar, Karthik Subbarao 
+- Data Engineering with Databricks Cookbook: Build effective data and AI solutions using Apache Spark, Databricks, and Delta Lake (2024) by Pulkit Chadha
+- Azure Databricks Cookbook: Accelerate and scale real-time analytics solutions using the Apache Spark-based analytics service (2021) by Phani Raj, Vinod Jaiswal 
+- Beginning Apache Spark Using Azure Databricks: Unleashing Large Cluster Analytics in the Cloud (2020) by Robert Ilijason
+- Databricks ML in Action: Learn how Databricks supports the entire ML lifecycle end to end from data ingestion to the model deployment (2024) by Stephanie Rivera, Anastasia Prokaieva, Amanda Baker 
+- Databricks Certified Associate Developer for Apache Spark Using Python: The ultimate guide to getting certified in Apache Spark using practical examples with Python (2024) by Saba Shah
+- Practical Machine Learning on Databricks: Seamlessly transition ML models and MLOps on Databricks (2023) by Debu Sinha
+
 Apache Flink
 
 >Stream-processing framework for real-time analytics.
+
+- Stream Processing with Apache Flink: Fundamentals, Implementation, and Operation of Streaming Applications (2019) by Fabian Hueske, Vasiliki Kalavri 
 
 Apache Beam
 
 >Unified model for batch and stream data processing.
 
+- Building Big Data Pipelines with Apache Beam: Use a single programming model for both batch and stream data processing (2022) by Jan Lukavsky
+
 dbt (Data Build Tool)
 
 >SQL-based transformation and modeling framework.
 
+- Data Engineering with dbt: A practical guide to building a cloud-based, pragmatic, and dependable data platform with SQL (2023) by Roberto Zagni
+- Analytics Engineering with SQL and dbt: Building Meaningful Data Models at Scale (2024) by Rui Machado, Hélder Russa 
+- Unlocking dbt: Design and Deploy Transformations in Your Cloud Data Warehouse (2023) by Cameron Cyr, Dustin Dorsey
+
 Apache Airflow
 
 >Workflow orchestrator for ETL and data pipelines.
+
+- Apache Airflow Best Practices: A practical guide to orchestrating data workflow with Apache Airflow (2024) by Dylan Intorf, Dylan Storey, Kendrick van Doorn
+- Data Pipelines with Apache Airflow (2021) Julian de Ruiter, Bas Harenslak
 
 AWS Glue / Dataflow
 
@@ -1383,14 +1454,42 @@ Data Visualization
 - Bayes Theorem: A Visual Introduction For Beginners by Dan Morris
 - Decision Trees and Random Forests: A Visual Introduction For Beginners: A Simple Guide to Machine Learning with Decision Trees by Chris Smith
 - The Truthful Art: Data, Charts, and Maps for Communication by Alberto Cairo
+- Storytelling with Data: A Data Visualization Guide for Business Professionals (2018) by Cole Nussbaumer Knaflic
 
 Power BI
 
 >Microsoft’s interactive business analytics tool.
 
+- Mastering Microsoft Power BI: Expert techniques to create interactive insights for effective data analytics and business intelligence (2nd, 2022) by Greg Deckler, Brett Powell
+- Data Visualization with Microsoft Power BI: How to Design Savvy Dashboards (2024) by Alex Kolokolov, Maxim Zelensky
+- Microsoft Power BI For Dummies (2022) by Jack A. Hyman
+- Learn Microsoft Power BI: A comprehensive, beginner-friendly guide to real-world business intelligence (3rd, 2025) by Greg Deckler 
+- Microsoft Power BI Cookbook: Convert raw data into business insights with updated techniques, use cases, and best practices (3rd, 2024) by Greg Deckler, Brett Powell
+- The Definitive Guide to DAX: Business Intelligence for Microsoft Power BI, SQL Server Analysis Services, and Excel (2nd, 2019) by Marco Russo, Alberto Ferrari
+- Expert Data Modeling with Power BI: Enrich and optimize your data models to get the best out of Power BI for reporting and business needs (2nd, 2023) by Soheil Bakhshi
+- Learn Power BI: a Comprehensive, Step-By-Step Guide for Beginners to Learn Real-World Business Intelligence (2nd, 2023) Greg Deckler
+- Microsoft Power BI Quick Start Guide: The ultimate beginner's guide to data modeling, visualization, digital storytelling, and more (3rd, 2022) by Devin Knight, Erin Ostrowsky, Mitchell Pearson 
+- Extending Power BI with Python and R: Perform advanced analysis using the power of analytical languages (2nd, 2024) by Luca Zavarella 
+- Learning Microsoft Power BI: Transforming Data into Insights (2022) by Jeremey Arnold
+- Power BI - Business Intelligence Clinic: Create and Learn (2018) by Roger F. Silva 
+- Data Modeling with Microsoft Power BI: Self-Service and Enterprise Data Warehouse with Power BI (2024) by Markus Ehrenmueller-Jensen
+- Microsoft Power BI Dashboards Step by Step (2018) by Errin O'Connor
+- The Definitive Guide to Power Query (M): Mastering complex data transformation with Power Query (2024) by Gregory Deckler, Rick de Groot, Melissa de Korte
+- Power Pivot and Power BI: The Excel User's Guide to DAX, Power Query, Power BI & Power Pivot in Excel 2010-2016 (2nd, 2021) by Rob Collie, Avichal Singh
+- Introducing Microsoft Power BI (2016) by Alberto Ferrari, Marco Russo 
+- Expert Data Modeling with Power BI: Get the best out of Power BI by building optimized data models for reporting and business needs (2021) by Soheil Bakhshi 
+- The Future of Finance with ChatGPT and Power BI: Transform your trading, investing, and financial reporting with ChatGPT and Power BI (2023) by James Bryant, Aloke Mukherjee
+- Microsoft Power BI Quick Start Guide: Bring your data to life through data modeling, visualization, digital storytelling, and more (2nd, 2020) by Devin Knight, Mitchell Pearson, Bradley Schacht 
+- Microsoft Power BI Cookbook: Gain expertise in Power BI with over 90 hands-on recipes, tips, and use cases (2nd, 2021) by Greg Deckler, Brett Powell 
+
 Tableau
 
 >Visual analytics platform with drag-and-drop dashboards.
+
+- Tableau For Dummies (2nd, 2023) by Jack A. Hyman
+- Learning Tableau 2025: Leverage Tableau's newest features to revolutionize your data storytelling with AI-enhanced insights (6th, 2025) by Joshua N. Milligan
+- Practical Tableau: 100 Tips, Tutorials, and Strategies from a Tableau Zen Master (2018) by Ryan Sleeper
+- Tableau Desktop Pocket Reference: Essential Features, Syntax, and Data Visualizations (2021) by Ryan Sleeper 
 
 Looker (Looker Studio)
 
@@ -1428,6 +1527,7 @@ Data Governance
 - Data Management at Scale: Best Practices for Enterprise Architecture (2020) by Piethein Strengholt
 - Foundations for Architecting Data Solutions: Managing Successful Data Projects (2018) by Ted Malaska, Jonathan Seidman
 - The Enterprise Big Data Lake: Delivering the Promise of Big Data and Data Science (2019) by Alex Gorelik
+- The Enterprise Data Catalog: Improve Data Discovery, Ensure Data Governance, and Enable Innovation (2023) by Ole Olesen-Bagneux
 
 DataHub
 
@@ -1468,6 +1568,8 @@ Databricks Lakehouse
 
 >Combines data engineering, ML, and BI.
 
+- Building Modern Data Applications Using Databricks Lakehouse: Develop, optimize, and monitor data pipelines on Databricks (2024) by Will Girten
+
 Google Cloud Vertex AI + BigQuery + Looker
 
 >Integrated for data-to-insight workflows.
@@ -1481,15 +1583,6 @@ SAS Viya
 - [ClickHouse - a fast open-source OLAP database management system](https://clickhouse.tech/)
 - [Apache Druid - a high performance real-time analytics database](https://druid.apache.org/)
 - [Apache Pinot - Realtime distributed OLAP datastore](https://pinot.apache.org/)
-
-
-### Data Platforms/Systems
-
-- The Self-Service Data Roadmap: Democratize Data and Reduce Time to Insight (2002) by Sandeep Uttamchandani
-- Designing Cloud Data Platforms by Danil Zburivsky, Lynda Partner
-- Big Data: Principles and best practices of scalable realtime data systems (2015) by Nathan Marz, James Warren 
-- Fundamentals of Data Engineering: Plan and Build Robust Data Systems by Joe Reis, Matt Housley
-
 
 <br>
 
@@ -1597,7 +1690,7 @@ Some more
 - Learning Deep Learning: Theory and Practice of Neural Networks, Computer Vision, Natural Language Processing, and Transformers Using TensorFlow (2021) by Magnus Ekman
 - Machine Learning Pocket Reference: Working with Structured Data in Python (2019) by Matt Harrison 
 - Python Machine Learning By Example: Unlock machine learning best practices with real-world use cases (4th, 2024) by Yuxi (Hayden) Liu 
-- Machine Learning with Python Cookbook: Practical Solutions from Preprocessing to Deep Learning (2nd, 2023) by Kyle Gallatin (Author), Chris Albon 
+- Machine Learning with Python Cookbook: Practical Solutions from Preprocessing to Deep Learning (2nd, 2023) by Kyle Gallatin, Chris Albon 
 
 Mathematics for Machine Learning
 
@@ -1787,7 +1880,7 @@ Some more
 	- AI and ML for Coders in PyTorch: A Coder's Guide to Generative AI and Machine Learning (2025) by Laurence Moroney
 	- The Hundred-Page Language Models Book: hands-on with PyTorch (2025) by Andriy Burkov
 	- Mastering PyTorch: Create and deploy deep learning models from CNNs to multimodal models, LLMs, and beyond (2nd, 2024) by Ashish Ranjan Jha
-	- Generative AI with Python and PyTorch: Navigating the AI frontier with LLMs, Stable Diffusion, and next-gen AI applications (2nd, 2025) by Joseph Babcock (Author), Raghav Bali 
+	- Generative AI with Python and PyTorch: Navigating the AI frontier with LLMs, Stable Diffusion, and next-gen AI applications (2nd, 2025) by Joseph Babcock, Raghav Bali 
 	- Learn Generative AI with PyTorch (2024) by Mark Liu
 	- The StatQuest Illustrated Guide to Neural Networks and AI: With hands-on examples in PyTorch!!! (2025) by Josh Starmer
 	- Accelerate Model Training with PyTorch 2.X: Build more accurate models by boosting the model training process (2024) by Maicon Melo Alves
@@ -1822,10 +1915,10 @@ Courses
 	- Transformers for Natural Language Processing and Computer Vision: Explore Generative AI and Large Language Models with Hugging Face, ChatGPT, GPT-4V, and DALL-E 3 (3rd, 2024) by Denis Rothman
 	- Mastering Transformers: Build state-of-the-art models from scratch with advanced natural language processing techniques (2021) by Savaş Yıldırım, Meysam Asgari- Chenaghlu
 - Machine Learning
-	- Transformers for Machine Learning: A Deep Dive (2022) by Uday Kamath (Author), Kenneth Graham (Author), Wael Emara
+	- Transformers for Machine Learning: A Deep Dive (2022) by Uday Kamath, Kenneth Graham, Wael Emara
 - Generative AI
-	- Mastering Transformers: The Journey from BERT to Large Language Models and Stable Diffusion (2nd, 2024) by Savaş Yıldırım (Author), Meysam Asgari- Chenaghlu
-	- Hands-On Generative AI with Transformers and Diffusion Models (2024) by Omar Sanseviero (Author), Pedro Cuenca (Author), Apolinário Passos
+	- Mastering Transformers: The Journey from BERT to Large Language Models and Stable Diffusion (2nd, 2024) by Savaş Yıldırım, Meysam Asgari- Chenaghlu
+	- Hands-On Generative AI with Transformers and Diffusion Models (2024) by Omar Sanseviero, Pedro Cuenca, Apolinário Passos
 
 #### TensorFlow & Keras
 
@@ -1845,9 +1938,9 @@ Courses
 	- Machine Learning with TensorFlow (2nd, 2021) by Mattmann A. Chris
 - Deep Learning
 	- Deep Learning with TensorFlow and Keras: Build and deploy supervised, unsupervised, deep, and reinforcement learning models (3rd, 2022) by Amita Kapoor, Antonio Gulli, Sujit Pal
-	- Learning TensorFlow: A Guide to Building Deep Learning Systems (2017) by Tom Hope (Author), Yehezkel S. Resheff (Author), Itay Lieder
+	- Learning TensorFlow: A Guide to Building Deep Learning Systems (2017) by Tom Hope, Yehezkel S. Resheff, Itay Lieder
 	- Advanced Deep Learning with TensorFlow 2 and Keras: Apply DL, GANs, VAEs, deep RL, unsupervised learning, object detection and segmentation, and more (2nd, 2020) by Rowel Atienza 
-	- Deep Learning with TensorFlow 2 and Keras: Regression, ConvNets, GANs, RNNs, NLP, and more with TensorFlow 2 and the Keras API (2nd, 2019) by Antonio Gulli (Author), Amita Kapoor (Author), Sujit Pal
+	- Deep Learning with TensorFlow 2 and Keras: Regression, ConvNets, GANs, RNNs, NLP, and more with TensorFlow 2 and the Keras API (2nd, 2019) by Antonio Gulli, Amita Kapoor, Sujit Pal
 	- Practical Deep Learning for Cloud, Mobile, and Edge: Real-World AI & Computer-Vision Projects Using Python, Keras & TensorFlow (2019) by Anirudh Koul, Siddha Ganju, Meher Kasam [4.6, 44]
 - Generative AI
 	- Generative AI with Python and TensorFlow 2: Create images, text, and music with VAEs, GANs, LSTMs, Transformer models (2021) by Joseph Babcock
@@ -1861,7 +1954,7 @@ TinyML
 TensorFlow.js
 
 - Learning TensorFlow.js: Powerful Machine Learning in JavaScript (2021) by Gant Laborde
-- Deep Learning with JavaScript: Neural networks in TensorFlow.js (2020) by Shanqing Cai (Author), Stan Bileschi (Author), Eric Nielsen
+- Deep Learning with JavaScript: Neural networks in TensorFlow.js (2020) by Shanqing Cai, Stan Bileschi, Eric Nielsen
 
 **Keras**
 
