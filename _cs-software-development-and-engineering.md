@@ -691,13 +691,6 @@ Interview questions
 
 - [Popular DevOps Interview Questions - Roadmap](https://roadmap.sh/questions/devops)
 
-Observability Engineering
-
-> Observability Engineering focuses on designing and implementing systems that are highly observable. Observability refers to the ability to gain insights into the internal state and behavior of a system by analyzing its outputs and external interactions. Observability Engineering aims to enable teams to understand and troubleshoot complex systems effectively.
-
-- Observability Engineering: Achieving Production Excellence (2022) by Charity Majors, Liz Fong-Jones, George Miranda
-
-
 Cloud Security
 
 - Practical Cloud Security: A Guide for Secure Design and Deployment (2019) by Chris Dotson
@@ -1103,12 +1096,6 @@ Istio, Linkerd, Kuma, App Mesh and Consul
 - Practical Microservices with Dapr and .NET: A developer's guide to building cloud-native applications using the event-driven runtime (2nd, 2022) by Davide Bedin
 - Introducing Distributed Application Runtime (Dapr): Simplifying Microservices Applications Development Through Proven and Reusable Patterns and Practices (2021) by Radoslav Gatev
 
-#### Cloud Native Metrics and Monitoring
-
-Prometheus
-
-- Prometheus: Up & Running: Infrastructure and Application Performance Monitoring by Brian Brazil 
-
 ### Container Security
 
 - Container Security: Fundamental Technology Concepts that Protect Containerized Applications (2nd, 2025) by Liz Rice
@@ -1171,6 +1158,71 @@ Prometheus
 - Learning Chaos Engineering: Discovering and Overcoming System Weaknesses Through Experimentation (2019) by Russ Miles
 - Chaos Engineering: Site reliability through controlled disruption (2021) by Mikolaj Pawlikowski
 
+
+## Observability Engineering
+
+> Observability Engineering focuses on designing and implementing systems that are highly observable. Observability refers to the ability to gain insights into the internal state and behavior of a system by analyzing its outputs and external interactions. Observability Engineering aims to enable teams to understand and troubleshoot complex systems effectively.
+
+- Observability Engineering: Achieving Production Excellence (2022) by Charity Majors, Liz Fong-Jones, George Miranda
+
+### Full-Stack Observability Platforms
+
+>Combine metrics, logs, and traces (the “three pillars” of observability).
+
+- [Grafana](https://grafana.com/). Open-source visualization and dashboard platform that integrates with Prometheus, Loki, Tempo, and more. Grafana help teams monitor, visualize, and understand the behavior of systems, applications, and infrastructure by collecting and correlating data such as logs, metrics, and traces.
+- [Datadog](https://www.datadoghq.com/). SaaS observability platform with strong APM and infrastructure monitoring.
+- [New Relic](https://newrelic.com/). End-to-end observability with strong application performance monitoring.
+- Elastic Observability (Elastic Stack). Based on Elasticsearch, Logstash, Kibana, and Beats.
+- [Dynatrace](https://www.dynatrace.com/). Enterprise-grade AIOps-driven observability.
+- [OpenTelemetry](https://opentelemetry.io/) (OTel). Open-source standard for collecting metrics, traces, and logs. Usually paired with Grafana, Prometheus, or Jaeger.
+- [Splunk](https://www.splunk.com/)
+
+### Metrics and Monitoring
+
+Prometheus
+
+>De facto standard for time-series metrics collection; pairs perfectly with Grafana.
+
+- Prometheus: Up & Running: Infrastructure and Application Performance Monitoring by Brian Brazil 
+
+VictoriaMetrics / Thanos / Cortex
+
+> Scalable Prometheus-compatible long-term storage solutions.
+
+InfluxDB
+
+>Time-series database optimized for IoT and DevOps metrics.
+
+
+### Log Management
+
+- Grafana Loki: Log aggregation system designed to work seamlessly with Grafana.
+- Elastic Stack (ELK: Elasticsearch, Logstash, Kibana): Popular stack for centralized log collection and search.
+- Fluentd / Fluent Bit / Vector: Lightweight log shippers and processors.
+- Graylog: Centralized logging platform with alerting and search capabilities.
+
+### Tracing & Distributed Systems
+
+- Jaeger: Open-source distributed tracing system, originally from Uber.
+- Grafana Tempo: Tracing backend designed to integrate with Grafana and Loki.
+- Zipkin: Another open-source tracing tool.
+- Honeycomb.io: Advanced event-based observability with focus on debugging complex systems.
+
+### Alerting & Incident Management
+
+- PagerDuty
+- Opsgenie
+- Alertmanager
+
+### Infrastructure Monitoring
+
+- Zabbix
+- Nagios
+- Checkmk
+
+### Cloud-Native Observability
+
+AWS CloudWatch, Azure Monitor, Google Cloud Operations (Stackdriver)
 
 <br>
 

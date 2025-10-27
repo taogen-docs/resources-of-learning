@@ -1152,22 +1152,7 @@ Microsoft Azure
 - Data Smart: Using Data Science to Transform Information into Insight by John W. Foreman
 - Naked Statistics: Stripping the Dread from the Data by Charles Wheelan
 
-### Statistical Learning
-
-- The Elements of Statistical Learning by Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie
-- An Introduction to Statistical Learning: With Applications in R by Gareth James, Trevor Hastie, Robert Tibshirani, Daniela Witten
-- Advanced R by Hadley Wickham 
-- An Introduction to Applied Multivariate Analysis with R by Brian S. Everitt
-- R in Action by Robert Kabacoff
-- R for Everyone: Advanced Analytics and Graphics by Jared P. Lander
-- The R Book by Michael J. Crawley
-- R for Data Science: Import, Tidy, Transform, Visualize, and Model Data by Hadley Wickham
-- Statistics in Plain English by Timothy C. Urdan
-- What is a P-Value Anyway? 34 Stories to Help You Actually Understand Statistics by Andrew J. Vickers
-- All of Statistics: A Concise Course in Statistical Inference by Larry Wasserman
-- Regression Modeling Strategies: With Applications to Linear Models, Logistic Regression, and Survival Analysis by Frank E. Harrell Jr.
-
-### Data Mining 
+### Introduction to Data Mining 
 
 /ˈdeɪtə - ˈmʌɪnɪŋ/
 
@@ -1185,21 +1170,210 @@ Microsoft Azure
 - Mining the Social Web: Data Mining Facebook, Twitter, LinkedIn, Instagram, GitHub, and More by Matthew A. Russell and Mikhail Klassen
 - Data Mining: Practical Machine Learning Tools and Techniques by Ian H. Witten
 
-### Data Analysis
+### Statistical Learning
 
-> It is the process of ordering and organizing raw data in order to determine useful insights and decisions.
+- The Elements of Statistical Learning by Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie
+- An Introduction to Statistical Learning: With Applications in R by Gareth James, Trevor Hastie, Robert Tibshirani, Daniela Witten
+- Advanced R by Hadley Wickham 
+- An Introduction to Applied Multivariate Analysis with R by Brian S. Everitt
+- R in Action by Robert Kabacoff
+- R for Everyone: Advanced Analytics and Graphics by Jared P. Lander
+- The R Book by Michael J. Crawley
+- R for Data Science: Import, Tidy, Transform, Visualize, and Model Data by Hadley Wickham
+- Statistics in Plain English by Timothy C. Urdan
+- What is a P-Value Anyway? 34 Stories to Help You Actually Understand Statistics by Andrew J. Vickers
+- All of Statistics: A Concise Course in Statistical Inference by Larry Wasserman
+- Regression Modeling Strategies: With Applications to Linear Models, Logistic Regression, and Survival Analysis by Frank E. Harrell Jr.
 
-- Data Analysis with Open Source Tools: A Hands-On Guide for Programmers and Data Scientists by Philipp K. Janert
+### Data Engineering
+
+#### Data Ingestion & Integration
+
+>Collect and move raw data from various sources (databases, APIs, IoT, logs) into the data platform.
+
+Apache Kafka
+
+>Distributed streaming platform for real-time data pipelines.
+
+Apache NiFi
+
+>Drag-and-drop data flow automation and ETL tool.
+
+AWS Kinesis
+
+>Amazon’s managed real-time data streaming service.
+
+Apache Flume
+
+>Collects, aggregates, and transports log data.
+
+Fivetran
+
+>Cloud-based ETL platform for automated data ingestion.
+
+Airbyte
+
+>Open-source ELT tool connecting APIs, databases, and warehouses.
+
+Debezium
+
+>Captures database changes (CDC) and streams them via Kafka.
+
+#### Data Storage & Warehousing
+
+>Store data in raw or structured formats for later analysis.
+
+##### <img src="/assets/icon/advanced-domains/Hadoop.svg" width="24px"/>Hadoop Ecosystem
+
+Hadoop
+
+/həˈduːp/
+
+- Hadoop: The Definitive Guide by Tom White, Doug Cutting 
+- Hadoop in Action by Chuck Lam
+- Hadoop Operations by Eric Sammer
+- Hadoop in Practice by Alex Holmes
+- Professional Hadoop Solutions by Alexey Yakubovich, Boris Lublinsky, and Kevin T. Smith
+- Data Analytics with Hadoop: An Introduction for Data Scientists by Benjamin Bengfort and Jenny Kim
+- Expert Hadoop Administration: Managing, Tuning, and Securing Spark, YARN, and HDFS by Sam R. Alapati
+- Hadoop Application Architectures: Designing Real-World Big Data Applications by Gwen Shapira, Ted Malaska Jonathan S Mark Grover
+- Hadoop Security: Protecting Your Big Data Platform by Ben Spivey and Joey Echeverria
+- Architecting Modern Data Platforms: A Guide to Enterprise Hadoop at Scale by Jan Kunigk, Ian Buss, Paul Wilkinson, Lars George
+
+Hadoop HDFS
+
+>Distributed file system for big data storage.
+
+MapReduce
+
+>A programming model and framework for processing large datasets in parallel across a cluster of computers, famously used with the Hadoop ecosystem. 
+
+- MapReduce Design Patterns: Building Effective Algorithms and Analytics for Hadoop and Other Systems by Adam Shook and Donald Miner
+
+Apache Hive
+
+>SQL-like query layer built on top of Hadoop.
+
+- Programming Hive by Dean Wampler, Edward Capriolo, and Jason Rutherglen
+
+Apache HBase
+
+>NoSQL database on HDFS
+
+>NoSQL database optimized for random, real-time read/write on big data.
+
+- HBase: The Definitive Guide by Lars George
+
+Pig
+
+>Scripting for Hadoop transformations
+
+- Programming Pig by Alan Gates
+
+##### Modern Warehousing
+
+Snowflake
+
+>Cloud data warehouse with elastic compute and storage.
+
+Google BigQuery
+
+>Serverless data warehouse with SQL and ML integration.
+
+Amazon Redshift
+
+>Scalable data warehouse service by AWS.
+
+Delta Lake
+
+>Open-source data lake format ensuring reliability (ACID) on big data.
+
+Apache Iceberg
+
+>Modern table format for large-scale data lakes (schema evolution + time travel).
+
+Parquet / ORC
+
+>Columnar storage formats for efficient analytics.
+
+
+#### Data Processing & Transformation
+
+>Clean, transform, and model raw data into analysis-ready form.
+
+Data Processing
+
+- Data Pipelines Pocket Reference: Moving and Processing Data for Analytics (2021) by James Densmore
+
+Apache Spark
+
+>Unified engine for large-scale data processing (batch + streaming).
+
+- Learning Spark: Lightning-Fast Big Data Analysis by Holden Karau, Andy Konwinski, Patrick Wendell, Matei Zaharia
+- Spark: The Definitive Guide: Big Data Processing Made Simple by Bill Chambers. Matei Zaharia
+- Learning Spark by Mark Hamstra
+
+Databricks
+
+>Cloud platform built around Spark for data engineering and ML.
+
+Apache Flink
+
+>Stream-processing framework for real-time analytics.
+
+Apache Beam
+
+>Unified model for batch and stream data processing.
+
+dbt (Data Build Tool)
+
+>SQL-based transformation and modeling framework.
+
+Apache Airflow
+
+>Workflow orchestrator for ETL and data pipelines.
+
+AWS Glue / Dataflow
+
+>Managed ETL services by AWS / Google Cloud.
+
+
+### Data Science & Machine Learning
+
+>Analyze data, build and deploy predictive models.
+
+>Discover patterns, build predictive models, and extract insights.
+
+- Python / R: Core programming languages for analytics and ML.
+- scikit-learn: Python library for classical machine learning algorithms.
+- TensorFlow / PyTorch: Frameworks for deep learning and neural networks.
+- MLflow: Open-source platform for managing ML lifecycle (training → deployment).
+- H2O.ai: Open-source and enterprise platform for automated machine learning.
+- Jupyter Notebooks: Interactive notebook environment for analysis and visualization.
+- Databricks ML: Unified environment for big data + machine learning.
+- Google Vertex AI / AWS SageMaker: Cloud platforms for developing and deploying ML models.
+- RapidMiner / KNIME / Weka: Visual tools for data mining and predictive analytics.
+
+Data analysis
+
+- Data Analysis with Open Source Tools: A Hands-On Guide for Programmers and Data Scientists by Philipp K. Janet
 - Multivariate Data Analysis by Joseph F. Hair Jr.
 - Bayesian Data Analysis by Andrew Gelman
-- Web Analytics 2.0: The Art of Online Accountability & Science of Customer Centricity by Avinash Kaushik
 - Data Analysis Using Regression and Multilevel/Hierarchical Models by Andrew Gelman
 - Python for Data Analysis by Wes McKinney
+
+### Data Analytics & BI
+
+>Present insights, dashboards, KPIs for decisions.
+
+Data Analytics
+
+- Web Analytics 2.0: The Art of Online Accountability & Science of Customer Centricity by Avinash Kaushik
 - Competing on Analytics: Updated, with a New Introduction: The New Science of Winning by Thomas H. Davenport
 - Forecasting: principles and practice by Rob J Hyndman
 - Presenting Data Effectively: Communicating Your Findings for Maximum Impact by Stephanie D.H. Evergreen
 
-### Data Analysis - Information Graphics
+Data Visualization
 
 - The Visual Display of Quantitative Information by Edward R. Tufte
 - The Functional Art: An Introduction to Information Graphics and Visualization by Alberto Cairo
@@ -1210,58 +1384,112 @@ Microsoft Azure
 - Decision Trees and Random Forests: A Visual Introduction For Beginners: A Simple Guide to Machine Learning with Decision Trees by Chris Smith
 - The Truthful Art: Data, Charts, and Maps for Communication by Alberto Cairo
 
+Power BI
+
+>Microsoft’s interactive business analytics tool.
+
+Tableau
+
+>Visual analytics platform with drag-and-drop dashboards.
+
+Looker (Looker Studio)
+
+>Google Cloud BI and data modeling platform.
+
+Qlik Sense
+
+>Self-service BI tool with associative data exploration.
+
+ThoughtSpot
+
+>AI-powered BI for natural language queries (“search analytics”).
+
+Metabase / Superset
+
+>Open-source BI and dashboarding tools.
+
+**Business Intelligence (BI) vs. Data Analytics**
+
+| Feature       | Business Intelligence (BI)                                                                | Data Analytics                                                                                     |
+| ------------- | ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| Core question | What happened? What is happening now?                                                     | Why did it happen? What will happen?                                                               |
+| Primary focus | Descriptive analytics—summarizing past and present data to monitor performance and trends | Predictive and prescriptive analytics—using data to forecast future outcomes and recommend actions |
+| Data used     | Historical and real-time data to monitor key performance indicators (KPIs)                | A broader range of structured and unstructured data to find patterns                               |
+| Methodology   | Reporting, dashboards, and data visualization                                             | Data mining, statistical modeling, machine learning, and algorithms                                |
+| Users         | Often non-technical business leaders and management                                       | More technical users like data analysts and scientists                                             |
+
+### Data Steward / Governance
+
+>Ensure data accuracy, lineage, security, and reliability.
+
+Data Governance
+
+- Data Governance: The Definitive Guide: People, Processes, and Tools to Operationalize Data Trustworthiness (2021) by Evren Eryurek, Uri Gilad, Valliappa Lakshmanan, Anita Kibunguchy-Grant, Jessi Ashdown
+- Data Management at Scale: Best Practices for Enterprise Architecture (2020) by Piethein Strengholt
+- Foundations for Architecting Data Solutions: Managing Successful Data Projects (2018) by Ted Malaska, Jonathan Seidman
+- The Enterprise Big Data Lake: Delivering the Promise of Big Data and Data Science (2019) by Alex Gorelik
+
+DataHub
+
+>Open-source data catalog and lineage tracking system.
+
+Collibra / Alation / Atlan
+
+>Enterprise data governance and catalog platforms.
+
+Great Expectations
+
+>Framework for automated data validation and testing.
+
+Monte Carlo / Bigeye
+
+>Data observability platforms to detect pipeline issues.
+
+Apache Atlas
+
+>Governance and metadata management for Hadoop ecosystems.
+
+Grafana / Prometheus
+
+>Monitoring and alerting for data and system health.
+
+### End-to-End Analytics Platforms
+
+Microsoft Fabric
+
+>Microsoft Fabric is an end-to-end data analytics platform developed by Microsoft that unifies data engineering, data integration, data science, real-time analytics, and business intelligence (BI) in a single, cloud-based environment.
+
+>Unified analytics across Power BI, Synapse, Data Factory.
+
+- Real-Time Intelligence with Microsoft Fabric: Empowering Data-Driven Decisions in the Era of AI (2026) by Johan Ludvig Brattås, Frank Geisler
+- Microsoft Fabric Analytics Engineer Associate Study Guide: Hands-on Practice and Expert Tips for Acing the DP-600 Certification Exam (2026) by Brian Bønk, Valerie Junk
+
+Databricks Lakehouse
+
+>Combines data engineering, ML, and BI.
+
+Google Cloud Vertex AI + BigQuery + Looker
+
+>Integrated for data-to-insight workflows.
+
+SAS Viya
+
+>Enterprise analytics, modeling, and reporting.
+
 ### OLAP (Online Analytical Processing)
 
 - [ClickHouse - a fast open-source OLAP database management system](https://clickhouse.tech/)
 - [Apache Druid - a high performance real-time analytics database](https://druid.apache.org/)
 - [Apache Pinot - Realtime distributed OLAP datastore](https://pinot.apache.org/)
 
-### <img src="/assets/icon/advanced-domains/Hadoop.svg" width="24px"/>Hadoop
 
-/həˈduːp/
+### Data Platforms/Systems
 
-- Hadoop: The Definitive Guide by Tom White, Doug Cutting 
-- Hadoop in Action by Chuck Lam
-- Hadoop Operations by Eric Sammer
-- Hadoop in Practice by Alex Holmes
-- Professional Hadoop Solutions by Alexey Yakubovich, Boris Lublinsky, and Kevin T. Smith
-- Programming Pig by Alan Gates
-- Data Analytics with Hadoop: An Introduction for Data Scientists by Benjamin Bengfort and Jenny Kim
-- Expert Hadoop Administration: Managing, Tuning, and Securing Spark, YARN, and HDFS by Sam R. Alapati
-- Hadoop Application Architectures: Designing Real-World Big Data Applications by Gwen Shapira, Ted Malaska Jonathan S Mark Grover
-- Hadoop Security: Protecting Your Big Data Platform by Ben Spivey and Joey Echeverria
-- Architecting Modern Data Platforms: A Guide to Enterprise Hadoop at Scale by Jan Kunigk, Ian Buss, Paul Wilkinson, Lars George
-
-### Hive, HBase, Spark and so on
-
-- Programming Hive by Dean Wampler, Edward Capriolo, and Jason Rutherglen
-- MapReduce Design Patterns: Building Effective Algorithms and Analytics for Hadoop and Other Systems by Adam Shook and Donald Miner
-- HBase: The Definitive Guide by Lars George
-- Learning Spark: Lightning-Fast Big Data Analysis by Holden Karau, Andy Konwinski, Patrick Wendell, Matei Zaharia
-- Spark: The Definitive Guide: Big Data Processing Made Simple by Bill Chambers. Matei Zaharia
-- Learning Spark by Mark Hamstra
-- MapReduce Design Patterns: Building Effective Algorithms and Analytics for Hadoop and Other Systems by Adam Shook and Donald Miner
-
-### Microsoft Fabric
-
->Microsoft Fabric is an end-to-end data analytics platform developed by Microsoft that unifies data engineering, data integration, data science, real-time analytics, and business intelligence (BI) in a single, cloud-based environment.
-
-- Real-Time Intelligence with Microsoft Fabric: Empowering Data-Driven Decisions in the Era of AI (2026) by Johan Ludvig Brattås, Frank Geisler
-- Microsoft Fabric Analytics Engineer Associate Study Guide: Hands-on Practice and Expert Tips for Acing the DP-600 Certification Exam (2026) by Brian Bønk, Valerie Junk
-
-### Big Data Engineering
-
-- Fundamentals of Data Engineering: Plan and Build Robust Data Systems by Joe Reis, Matt Housley
-- Data Pipelines Pocket Reference: Moving and Processing Data for Analytics by James Densmore
 - The Self-Service Data Roadmap: Democratize Data and Reduce Time to Insight (2002) by Sandeep Uttamchandani
 - Designing Cloud Data Platforms by Danil Zburivsky, Lynda Partner
-- Data Governance: The Definitive Guide: People, Processes, and Tools to Operationalize Data Trustworthiness (2021) by Evren Eryurek, Uri Gilad, Valliappa Lakshmanan, Anita Kibunguchy-Grant, Jessi Ashdown
-- Data Management at Scale: Best Practices for Enterprise Architecture (2020) by Piethein Strengholt
-- The Self-Service Data Roadmap: Democratize Data and Reduce Time to Insight (2020) by Sandeep Uttamchandani 
-- Big Data: Principles and best practices of scalable realtime data systems (2015) by Nathan Marz, James Warren
-- Foundations for Architecting Data Solutions: Managing Successful Data Projects (2018) by Ted Malaska, Jonathan Seidman
-- The Enterprise Big Data Lake: Delivering the Promise of Big Data and Data Science (2019) by Alex Gorelik
-- Data Pipelines Pocket Reference: Moving and Processing Data for Analytics (2021) by James Densmore
+- Big Data: Principles and best practices of scalable realtime data systems (2015) by Nathan Marz, James Warren 
+- Fundamentals of Data Engineering: Plan and Build Robust Data Systems by Joe Reis, Matt Housley
+
 
 <br>
 
