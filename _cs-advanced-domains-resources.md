@@ -1637,7 +1637,7 @@ Some more
 
 ### Introduction to Artificial Intelligence
 
-- Artificial Intelligence: A Modern Approach by Stuart Russell, Peter Norvig [4.20, 4421] Introduction to the theory and practice of artificial intelligence.
+- Artificial Intelligence: A Modern Approach (4th, 2020) by Stuart Russell, Peter Norvig [4.20, 4421] Introduction to the theory and practice of artificial intelligence.
 - AI and Machine Learning for Coders: A Programmer's Guide to Artificial Intelligence by Laurence Moroney [4.08, 102]
 - Grokking Artificial Intelligence Algorithms: Understand and apply the core algorithms of deep learning and artificial intelligence in this friendly illustrated guide including exercises and examples (2020) by Rishal Hurbans [4.00, 77]
 - Introduction to Artificial Intelligence by Philip C. Jackson [3.68, 141]
@@ -1650,8 +1650,12 @@ Some more
 
 >Machine learning is about building mathematical models that can automatically learn from experience. These models are trained using data (examples) rather than predefined instructions.
 
+>You don't need to master all the math before starting with ML. You can come back to studying the math as and when required while learning ML.
+
 Beginner
 
+- Tutorials
+	- [How do I learn machine learning?](https://www.quora.com/How-do-I-learn-machine-learning-1/answers/13954395)
 - The Hundred-Page Machine Learning Book (2019) by Andriy Burkov [4.25, 1386] You will learn almost everything modern machine learning has to offer.
 - Machine Learning (1986) by Tom M. Mitchell [4.07, 853] This book covers the field of machine learning, which is the study of algorithms that allow computer programs to automatically improve through experience.
 - Machine Learning: A Probabilistic Perspective (2012) Kevin P. Murphy [4.34, 520] A comprehensive introduction to machine learning that uses probabilistic models and inference as a unifying approach.
@@ -2015,10 +2019,29 @@ TensorFlow.js
 - Natural Language Processing with Python and spaCy: A Practical Introduction (2020) by Yuli Vasiliev
 - Mastering spaCy: An end-to-end practical guide to implementing NLP applications using the Python ecosystem (2021) by Duygu Altinok
 
-### Artificial Intelligence Papers
+### AI/ML papers
+
+>Reading papers at the beginner stage is probably not such a good idea. Most papers will focus on a very specific problem and will provide with a solution to solve that problem that does better than the state-of-the-art experimentally at that point in time, or that complements existing approaches by proposing a procedure that overcomes the limitations of other approaches.
+
+AI/ML papers
 
 - [Artificial Intelligence - Elsevier](https://www.journals.elsevier.com/artificial-intelligence)
+- [ML-Papers-of-the-Week - GitHub](https://github.com/dair-ai/ML-Papers-of-the-Week)
+- [anthology-of-modern-ml - GitHub](https://github.com/dmarx/anthology-of-modern-ml)
+- [What are some must read papers on machine learning for a beginner?](https://www.quora.com/What-are-some-must-read-papers-on-machine-learning-for-a-beginner)
+
+Must-read AI/ML papers
+
+- [must-read-papers-for-ml - GitHub](https://github.com/hurshd0/must-read-papers-for-ml)
+- [OpenAI Cofounder: The 27 Papers to Read to Know 90% About AI](https://www.mattprd.com/p/openai-cofounder-27-papers-read-know-90-ai)
+- [10 Must Read Machine Learning Research Papers - GeeksforGeeks](https://www.geeksforgeeks.org/machine-learning/10-must-read-machine-learning-research-papers/ - GeeksforGeeks)
+
+Highly-cited or most influential AI/ML papers
+
+- [The 10 Most Important AI Research Papers of All Time](https://blog.researchpal.co/academic-research/the-10-most-influential-ai-research-papers-of-all-time/)
 - [Top Papers in Machine Learning - Papers With Code](https://paperswithcode.com/greatest)
+- [Most Influential ML Papers of the Last 10–15 Years?](https://www.reddit.com/r/learnmachinelearning/comments/1kchx73/most_influential_ml_papers_of_the_last_1015_years/)
+- [Most Influential ArXiv (Artificial Intelligence) Papers (2025-03 Version)](https://www.paperdigest.org/2025/03/most-influential-arxiv-artificial-intelligence-papers-2025-03-version/)
 
 Resources
 
