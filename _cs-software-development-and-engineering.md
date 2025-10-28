@@ -463,9 +463,11 @@ Some more
 - Java Application Architecture: Modularity Patterns with Examples Using OSGi (2012) by Kirk Knoernschild [3.91, 87]
 - Foundations of Scalable Systems by Ian Gorton [4.19, 80]
 - Software Architecture: Foundations, Theory, and Practice (2009) by Richard N. Taylor [3.83, 71]
+- Head First Software Architecture: A Learner's Guide to Architectural Thinking (2024) by Raju Gandhi (Author), Mark Richards (Author), Neal Ford [3.80, 69]
 - Web Application Architecture: Principles, Protocols and Practices (2009) by Leon Shklar [3.76, 50]
 - System Architecture: Strategy and Product Development for Complex Systems (2015) by Bruce Cameron, Daniel Selva, and Edward F. Crawley [4.38, 50]
 - Architecture Modernization - Socio-technical alignment of software, strategy, and structure by Nick Tune [4.11, 47]
+- Facilitating Software Architecture: Empowering Teams to Make Architectural Decisions (2024) by Andrew Harmel-Law [4.20, 25]
 - 从零开始学架构 (2018) by 李运华 [8.1, 341]
 - 亿级流量网站架构核心技术 (2017) by  张开涛 [6.6, 259]
 - 分布式服务架构：原理、设计与实战 (2017) by 李艳鹏 / 杨彪 [6.7, 113]
@@ -1271,6 +1273,7 @@ Modern Software Engineering
 - Code That Fits in Your Head: Heuristics for Software Engineering by Mark Seemann
 - Code Ahead: Volume 1 (2018) by Yegor Bugayenko
 - 201 Principles of Software Development by Alan M. Davis
+- Head First Software Development: A Learner's Companion to Software Development (2008) by Dan Pilone (Author), Russ Miles [4.00, 370]
 
 <h2><a name="spm_t" href="#spm_c">Software Project Management</a></h2>
 

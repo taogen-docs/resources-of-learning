@@ -1409,6 +1409,10 @@ AWS Glue / Dataflow
 - Google Vertex AI / AWS SageMaker: Cloud platforms for developing and deploying ML models.
 - RapidMiner / KNIME / Weka: Visual tools for data mining and predictive analytics.
 
+Data Science
+
+- Software Engineering for Data Scientists: From Notebooks to Scalable Systems (2024) by Catherine Nelson
+
 Data analysis
 
 - Data Analysis with Open Source Tools: A Hands-On Guide for Programmers and Data Scientists by Philipp K. Janet
@@ -1643,6 +1647,8 @@ Some more
 - Introduction to Artificial Intelligence by Philip C. Jackson [3.68, 141]
 - The Elements of Statistical Learning: Data Mining, Inference, and Prediction by Trevor Hastie, Robert Tibshirani, Jerome Friedman
 - An Introduction to Statistical Learning: With Applications in R by Gareth James, Trevor Hastie, Robert Tibshirani, Daniela Witten
+- 50 Algorithms Every Programmer Should Know: Tackle computer science challenges with classic to modern algorithms in machine learning, software design, data systems, and cryptography (2nd, 2023) by Imran Ahmad 
+- Applied Machine Learning and AI for Engineers: Solve Business Problems That Can't Be Solved Algorithmically (2022) by Jeff Prosise 
 
 ### Machine Learning
 
@@ -1685,13 +1691,27 @@ Advanced
 - Machine Learning with Neural Networks: An In-depth Visual Introduction with Python: Make Your Own Neural Network in Python: A Simple Guide on Machine Learning with Neural Networks (2017) by Michael Taylor, Mark Koning [4.0, 173]
 - Machine Learning with Python Cookbook: Practical Solutions from Preprocessing to Deep Learning (2nd, 2023) by Kyle Gallatin, Chris Albon [4.28, 75] This practical guide provides nearly 200 self-contained recipes to help you solve machine learning challenges you may encounter in your daily work.
 - Python Machine Learning By Example: Unlock machine learning best practices with real-world use cases (4th, 2024) by Yuxi (Hayden) Liu 
+- Data Without Labels: Practical unsupervised machine learning (2025) by Vaibhav Verdhan
 
-ML systems
+ML systems / ML Engineering / MLOps
 
-- Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications (2022) by Chip Huyen [4.5, 900]
-- Machine Learning Engineering (2020) by Andriy Burkov [4.31, 140]
-- Building Intelligent Systems: A Guide to Machine Learning Engineering by Geoff Hulten
-- Machine Learning Engineering in Action by Ben Wilson
+- Designing Machine Learning Systems
+	- Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications (2022) by Chip Huyen [4.5, 900]
+	- Building Machine Learning Systems with a Feature Store: Batch, Real-Time, and LLM Systems (2025) by Jim Dowling
+	- Machine Learning System Design: With end-to-end examples (2025) by Valerii Babushkin, Arseny Kravchenko 
+	- The Machine Learning Solutions Architect Handbook: Practical strategies and best practices on the ML lifecycle, system design, MLOps, and generative AI (2024) by David Ping 
+- Machine Learning Engineering 
+	- Machine Learning Engineering (2020) by Andriy Burkov [4.31, 140]
+	- Building Intelligent Systems: A Guide to Machine Learning Engineering by Geoff Hulten
+	- Machine Learning Engineering in Action by Ben Wilson
+	- Machine Learning Production Systems: Engineering Machine Learning Models and Pipelines (2024) by Robert Crowe, Hannes Hapke, Emily Caveness, Di Zhu
+	- Machine Learning Engineering with Python: Manage the lifecycle of machine learning models using MLOps with practical examples (2nd, 2023) by Andrew P. McMahon
+- MLOps
+	- Practical MLOps: Operationalizing Machine Learning Models (2021) by Noah Gift (Author), Alfredo Deza 
+	- Introducing MLOps: How to Scale Machine Learning in the Enterprise (2021) by Mark Treveil (Author), Nicolas Omont (Author), Clément Stenac (Author), Kenji Lefevre 
+	- Implementing MLOps in the Enterprise: A Production-First Approach (2024) by Yaron Haviv (Author), Noah Gift 
+	- MLOps Engineering at Scale (2022) by Carl Osipov
+	- Engineering MLOps: Rapidly build, test, and manage production-ready machine learning life cycles at scale (2021) by Emmanuel Raj 
 
 Machine-learning application
 
