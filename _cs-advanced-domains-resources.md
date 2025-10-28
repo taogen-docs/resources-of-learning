@@ -1637,49 +1637,61 @@ Some more
 
 ### Introduction to Artificial Intelligence
 
-- Grokking Artificial Intelligence Algorithms: Understand and apply the core algorithms of deep learning and artificial intelligence in this friendly illustrated guide including exercises and examples (2020) by Rishal Hurbans
-- Introduction to Artificial Intelligence by Philip C. Jackson
-- Artificial Intelligence: A Modern Approach by Stuart Russell, Peter Norvig
+- Artificial Intelligence: A Modern Approach by Stuart Russell, Peter Norvig [4.20, 4421] Introduction to the theory and practice of artificial intelligence.
+- AI and Machine Learning for Coders: A Programmer's Guide to Artificial Intelligence by Laurence Moroney [4.08, 102]
+- Grokking Artificial Intelligence Algorithms: Understand and apply the core algorithms of deep learning and artificial intelligence in this friendly illustrated guide including exercises and examples (2020) by Rishal Hurbans [4.00, 77]
+- Introduction to Artificial Intelligence by Philip C. Jackson [3.68, 141]
 - The Elements of Statistical Learning: Data Mining, Inference, and Prediction by Trevor Hastie, Robert Tibshirani, Jerome Friedman
 - An Introduction to Statistical Learning: With Applications in R by Gareth James, Trevor Hastie, Robert Tibshirani, Daniela Witten
-- AI and Machine Learning for Coders: A Programmer's Guide to Artificial Intelligence by Laurence Moroney 
 
 ### Machine Learning
 
-Machine Learning
+>Machine Learning (ML) is a branch of artificial intelligence (AI) that focuses on enabling computers to learn from data and improve their performance on tasks without being explicitly programmed. Instead of following fixed rules, ML systems identify patterns, relationships, and trends in data to make predictions, decisions, or classifications.
 
-- Pattern Recognition and Machine Learning (2006) by Christopher M. Bishop [4.32, 1885]
-- The Hundred-Page Machine Learning Book (2019) by Andriy Burkov [4.25, 1386]
-- Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications (2022) by Chip Huyen [4.5, 900]
-- Machine Learning (1986) by Tom M. Mitchell [4.07, 853]
-- Introduction to Machine Learning with Python: A Guide for Data Scientists (2016) by Andreas C. Müller, Sarah Guido [4.34, 587]
-- Machine Learning With Random Forests And Decision Trees: A Visual Guide For Beginners (2016) by Scott Hartshorn [4.0, 546]
-- Machine Learning: A Probabilistic Perspective (2012) Kevin P. Murphy [4.34, 520]
+>Machine learning is about building mathematical models that can automatically learn from experience. These models are trained using data (examples) rather than predefined instructions.
+
+Beginner
+
+- The Hundred-Page Machine Learning Book (2019) by Andriy Burkov [4.25, 1386] You will learn almost everything modern machine learning has to offer.
+- Machine Learning (1986) by Tom M. Mitchell [4.07, 853] This book covers the field of machine learning, which is the study of algorithms that allow computer programs to automatically improve through experience.
+- Machine Learning: A Probabilistic Perspective (2012) Kevin P. Murphy [4.34, 520] A comprehensive introduction to machine learning that uses probabilistic models and inference as a unifying approach.
 - Information Theory, Inference, and Learning Algorithms by David J.C. MacKay [4.52, 486]
 - Machine Learning For Absolute Beginners: A Plain English Introduction (2020) by Oliver Theobald [4.12, 458]
-- Machine Learning Design Patterns: Solutions to Common Challenges in Data Preparation, Model Building, and MLOps (2020) by Valliappa Lakshmanan, Sara Robinson, Michael Munn [4.2, 266]
-- Introduction to Machine Learning Systems: Principles and Practices of Engineering Artificially Intelligent Systems by Vijay Janapa Reddi [open-source book](https://www.mlsysbook.ai/)
-- Machine Learning for OpenCV
-- 机器学习 by 周志华 (**西瓜书**)
-
-Some more
-
-- Machine Learning in Action (2011) by Peter Harrington [3.78, 240] 
-- The StatQuest Illustrated Guide To Machine Learning (2022) by Josh Starmer [4.71, 192]
-- Machine Learning with Neural Networks: An In-depth Visual Introduction with Python: Make Your Own Neural Network in Python: A Simple Guide on Machine Learning with Neural Networks (2017) by Michael Taylor, Mark Koning [4.0, 173]
-- Machine Learning Engineering (2020) by Andriy Burkov [4.31, 140]
+- Machine Learning for Hackers by Drew Conway, John Myles White [3.73, 408] If you're an experienced programmer interested in crunching data, this book will get you started with machine learning--a toolkit of algorithms that enables computers to train themselves to automate useful tasks.
+- 机器学习 by 周志华 (**西瓜书**) 机器学习领域的入门教材，涵盖机器学习基础知识的各方面。
+- Machine Learning in Action (2011) by Peter Harrington [3.78, 240] The book blends the foundational theories of machine learning with the practical realities of building tools for everyday data analysis.
+- The StatQuest Illustrated Guide To Machine Learning (2022) by Josh Starmer [4.71, 192] This book takes the machine learning algorithms, no matter how complicated, and breaks them down into small, bite-sized pieces that are easy to understand.
+- Machine Learning: An Algorithmic Perspective by Stephen Marsland [3.77, 182]
 - Understanding Machine Learning: From Theory to Algorithms (2014) by Shai Shalev-Shwartz, Shai Ben-David [4.21, 131]
 - Foundations of Machine Learning (2nd, 2018) by Mehryar Mohri, Afshin Rostamizadeh, Ameet Talwalkar [4.21, 94]
-- Grokking Machine Learning (2021) by Luis G. Serrano [4.47, 64]
-- Learning Deep Learning: Theory and Practice of Neural Networks, Computer Vision, Natural Language Processing, and Transformers Using TensorFlow (2021) by Magnus Ekman
-- Machine Learning Pocket Reference: Working with Structured Data in Python (2019) by Matt Harrison 
-- Python Machine Learning By Example: Unlock machine learning best practices with real-world use cases (4th, 2024) by Yuxi (Hayden) Liu 
-- Machine Learning with Python Cookbook: Practical Solutions from Preprocessing to Deep Learning (2nd, 2023) by Kyle Gallatin, Chris Albon 
+- Grokking Machine Learning (2021) by Luis G. Serrano [4.47, 64] Grokking Machine Learning teaches you how to apply ML to your projects using only standard Python code and high school-level math.
+- Machine Learning Pocket Reference: Working with Structured Data in Python (2019) by Matt Harrison [4.02, 52]
+- Introduction to Machine Learning Systems: Principles and Practices of Engineering Artificially Intelligent Systems by Vijay Janapa Reddi [open-source book](https://www.mlsysbook.ai/)
 
 Mathematics for Machine Learning
 
 - Mathematics of Machine Learning: Master linear algebra, calculus, and probability for machine learning (2025) by Tivadar Danka
 - Mathematics for Machine Learning (2020) by Marc Peter Deisenroth
+
+Advanced
+
+- Pattern Recognition and Machine Learning (2006) by Christopher M. Bishop [4.32, 1885]
+- Machine Learning With Random Forests And Decision Trees: A Visual Guide For Beginners (2016) by Scott Hartshorn [4.0, 546] A book to help you understand how the machine learning algorithms "Random Forest" and "Decision Trees" work behind the scenes.
+- Machine Learning Design Patterns: Solutions to Common Challenges in Data Preparation, Model Building, and MLOps (2020) by Valliappa Lakshmanan, Sara Robinson, Michael Munn [4.2, 266]
+- Machine Learning with Neural Networks: An In-depth Visual Introduction with Python: Make Your Own Neural Network in Python: A Simple Guide on Machine Learning with Neural Networks (2017) by Michael Taylor, Mark Koning [4.0, 173]
+- Machine Learning with Python Cookbook: Practical Solutions from Preprocessing to Deep Learning (2nd, 2023) by Kyle Gallatin, Chris Albon [4.28, 75] This practical guide provides nearly 200 self-contained recipes to help you solve machine learning challenges you may encounter in your daily work.
+- Python Machine Learning By Example: Unlock machine learning best practices with real-world use cases (4th, 2024) by Yuxi (Hayden) Liu 
+
+ML systems
+
+- Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications (2022) by Chip Huyen [4.5, 900]
+- Machine Learning Engineering (2020) by Andriy Burkov [4.31, 140]
+- Building Intelligent Systems: A Guide to Machine Learning Engineering by Geoff Hulten
+- Machine Learning Engineering in Action by Ben Wilson
+
+Machine-learning application
+
+- Introduction to Machine Learning with Python: A Guide for Data Scientists (2016) by Andreas C. Müller, Sarah Guido [4.34, 587] This book will teach you practical ways to build your own machine learning solutions. You'll learn the steps necessary to create a successful machine-learning application with Python and the scikit-learn library. 
 
 Courses
 
@@ -1689,7 +1701,50 @@ Courses
 	- [Stanford CS229: Machine Learning Full Course taught by Andrew Ng 吴恩达 | Autumn 2018 - YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 - [6.036: Introduction to Machine Learning - MIT](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about)
 
+<details>
+<summary>The Learning Process</summary>
+
+Machine learning typically involves three main steps:
+
+1. Data Collection and Preparation – Gather and clean data relevant to the task.
+2. Model Training – Feed the data into an algorithm to learn the patterns.
+3. Model Evaluation and Deployment – Test the model on new data and use it in real-world applications.
+
+</details>
+
+<details>
+<summary>Major Types of Machine Learning</summary>
+
+1. Supervised Learning
+    - Learn from labeled data (inputs with known outputs).
+    - Examples: regression, classification.
+    - Tasks: predicting house prices, identifying spam emails.
+2. Unsupervised Learning
+    - Discover structure in unlabeled data.
+    - Examples: clustering, dimensionality reduction.
+    - Tasks: customer segmentation, anomaly detection.
+3. Reinforcement Learning
+    - Learn by interacting with an environment and receiving feedback (rewards or penalties).
+    - Tasks: game playing, robotics, autonomous driving.
+
+</details>
+
+<details>
+<summary>Real-World Applications</summary>
+
+- Recommendation Systems – Netflix, Spotify, and Amazon suggestions.
+- Computer Vision – Facial recognition, medical imaging.
+- Natural Language Processing (NLP) – Chatbots, translation, sentiment analysis.
+- Finance – Fraud detection, stock prediction.
+- Healthcare – Diagnosis prediction, drug discovery.
+
+</details>
+
 ### Deep Learning
+
+>Deep Learning is a subfield of machine learning that focuses on algorithms inspired by the structure and function of the human brain, known as artificial neural networks. It has revolutionized how machines process data, enabling breakthroughs in areas like image recognition, natural language processing, and speech understanding.
+
+>Deep learning teaches computers to automatically learn features and representations from raw data — such as pixels in an image or words in a sentence — without requiring manual feature engineering. The term “deep” refers to the multiple layers in a neural network, where each layer extracts increasingly abstract features from the input.
 
 - Deep Learning (2016) by Aaron Courville, Ian Goodfellow, and Yoshua Bengio (**花书**) [4.43, 1903]
 - Deep Learning with Python (3rd, 2025) by Francois Chollet [4.57, 1273]
@@ -1698,7 +1753,6 @@ Courses
 - Deep Learning (The MIT Press Essential Knowledge series) (2019) by John D. Kelleher [3.9, 443]
 - Generative Deep Learning: Teaching Machines To Paint, Write, Compose, and Play (2nd, 2023) by David Foster [4.3, 245]
 - Grokking Deep Learning (2019) by Andrew W. Trask [4.23, 238]
-- Machine Learning: An Algorithmic Perspective by Stephen Marsland [3.77, 182]
 - Fundamentals of Deep Learning: Designing Next-Generation Machine Intelligence Algorithms (2nd, 2022) by Nicholas Locascio and Nikhil Buduma [3.86, 112]
 - Deep Learning Illustrated: A Visual, Interactive Guide to Artificial Intelligence (2019) by Jon Krohn, Grant Beyleveld, Aglaé Bassens [4.3, 107]
 - 深度学习入门 by [日］斋藤康毅 [9.5, 1832] ゼロから作るDeep Learning
@@ -1714,6 +1768,7 @@ Some more
 - Deep Learning Cookbook: Practical Recipes to Get Started Quickly (2018) by Douwe Osinga [3.93, 29]
 - Practical Deep Learning: A Python-Based Introduction (2nd, 2025) by Ronald T. Kneusel
 - Artificial Intelligence with Python Cookbook: Proven recipes for applying AI algorithms and deep learning techniques using TensorFlow 2.x and PyTorch 1.6 (2020) by Ben Auffarth 
+- Learning Deep Learning: Theory and Practice of Neural Networks, Computer Vision, Natural Language Processing, and Transformers Using TensorFlow (2021) by Magnus Ekman
 - Dive into Deep Learning (2023) by Mu Li, Aston Zhang, Zachary Lipton, Alexander J. Smola [HTML](https://d2l.ai/) （中文版：动手学深度学习 by 李沐 [HTML](https://zh.d2l.ai/) ）
 
 Courses
@@ -1775,6 +1830,7 @@ Math for Deep Learning
 - Computer Vision: A Modern Approach (2nd, 2011) by David Forsyth and Jean Ponce [3.8, 94]
 - Programming Computer Vision with Python: Tools and Algorithms for Analyzing Images by Jan Erik Solem [3.96, 69]
 - Computer Vision: Models, Learning, and Inference (2012) by Simon J. D. Prince [4.4, 58]
+- Machine Learning for OpenCV: Intelligent image processing with Python by Michael Beyeler [4.08, 13]
 
 Some more
 
