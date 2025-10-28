@@ -2034,7 +2034,7 @@ Must-read AI/ML papers
 
 - [must-read-papers-for-ml - GitHub](https://github.com/hurshd0/must-read-papers-for-ml)
 - [OpenAI Cofounder: The 27 Papers to Read to Know 90% About AI](https://www.mattprd.com/p/openai-cofounder-27-papers-read-know-90-ai)
-- [10 Must Read Machine Learning Research Papers - GeeksforGeeks](https://www.geeksforgeeks.org/machine-learning/10-must-read-machine-learning-research-papers/ - GeeksforGeeks)
+- [10 Must Read Machine Learning Research Papers - GeeksforGeeks](https://www.geeksforgeeks.org/machine-learning/10-must-read-machine-learning-research-papers/)
 
 Highly-cited or most influential AI/ML papers
 
