@@ -931,31 +931,30 @@ Reference [Information Security Resources](directions/information-security-resou
 
 Must Read
 
-
-- **Distributed Systems** (4th, 2023) by Andrew S. Tanenbaum, Maarten van Steen. A good overview of distributed systems that goes to enough depth to spark interest. Might be too much for beginners, but a good intermediate level reference.
-- **Designing Data-Intensive Applications** (2017) by Martin Kleppmann
-- **Distributed Systems For Fun and Profit** by Mikito Takada. Great intro book to distributed systems theory, with plenty of references to learn more once you're done.
+- **Distributed Systems** (4th, 2023) by Andrew S. Tanenbaum, Maarten van Steen [3.98, 479] A good overview of distributed systems that goes to enough depth to spark interest. Might be too much for beginners, but a good intermediate level reference.
+- **Designing Data-Intensive Applications** (2017) by Martin Kleppmann [4.70, 10252]
+- **Understanding Distributed Systems: What every developer should know about large distributed applications** (2nd, 2022) by Roberto Vitillo [4.37, 519]
+- **Distributed Systems For Fun and Profit** by Mikito Takada [4.20, 374] Great intro book to distributed systems theory, with plenty of references to learn more once you're done.
 - Think Distributed Systems (2025) by Dominik Tornow
-- Understanding Distributed Systems: What every developer should know about large distributed applications (2nd, 2022) by Roberto Vitillo
-- Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services by Brendan Burns. Patterns and Paradigms for container architecture. Useful but shallow.
-- Patterns of Distributed Systems by Unmesh Joshi [HTML](https://martinfowler.com/articles/patterns-of-distributed-systems/)
+- Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services by Brendan Burns [3.59, 651] Patterns and Paradigms for container architecture. Useful but shallow.
+- Distributed Systems: Concepts and Design by George Coulouris, Jean Dollimore, Tim Kindberg, Gordon Blair [3.63, 226]
+- Distributed and Cloud Computing: From Parallel Processing to the Internet of Things (2011) by Kai Hwang, Jack Dongarra, Geoffrey C. Fox [3.87, 60]
+- Distributed Algorithms by Nancy A. Lynch [4.21, 58]
+- Patterns of Distributed Systems by Unmesh Joshi [3.65, 49] [HTML](https://martinfowler.com/articles/patterns-of-distributed-systems/)
 - 从PAXOS到ZOOKEEPER分布式一致性原理与实践 by 倪超
 
 Some More
 
-
-- Distributed Systems: Concepts and Design by George Coulouris, Jean Dollimore, Tim Kindberg, Gordon Blair
-- Distributed Algorithms by Nancy A. Lynch
-- Principles of Transaction Processing by Philip A. Bernstein
-- Introduction to Distributed Algorithms by Gerard Tel
-- Programming Distributed Computing Systems: A Foundational Approach by Carlos A. Varela
-- Distributed Computing: Principles, Algorithms, and Systems by Ajay D. Kshemkalyani
+- Introduction to Reliable Distributed Programming by Rachid Guerraoui [4.38, 39]
+- Introduction to Reliable and Secure Distributed Programming by Christian Cachin [4.38, 39]
+- Programming Distributed Computing Systems: A Foundational Approach by Carlos A. Varela [3.73, 30]
+- Principles of Transaction Processing by Philip A. Bernstein [3.87, 23]
+- Elements of Distributed Computing by Vijay K. Garg [4.14, 22]
+- Introduction to Distributed Algorithms by Gerard Tel [3.75, 20]
+- Distributed Computing: Principles, Algorithms, and Systems by Ajay D. Kshemkalyani [4.00, 20]
 - Design and Analysis of Distributed Algorithms by Nicola Santoro
-- Introduction to Reliable Distributed Programming by Rachid Guerraoui
-- Elements of Distributed Computing by Vijay K. Garg
 - Fault-Tolerant Message-Passing Distributed Systems: An Algorithmic Approach by Michel Raynal
 - Distributed Algorithms for Message-Passing Systems by Michel Raynal
-- Introduction to Reliable and Secure Distributed Programming by Christian Cachin
 - Replication: Theory and Practice by Bernadette Charron-Bost
 
 Papers of Distributed Systems
@@ -1058,6 +1057,7 @@ Logto
 
 General
 
+- Cloud Computing: Concepts, Technology, Security, and Architecture (2nd, 2023) by Thomas Erl, Eric Monroy
 - The Self-Taught Cloud Computing Engineer: A comprehensive professional study guide to AWS, Azure, and GCP (2023) by Dr. Logan Song
 - Data Pipelines with Apache Airflow (2021) by Bas P. Harenslak, Julian Rutger de Ruiter
 - Architecting Modern Data Platforms: A Guide to Enterprise Hadoop at Scale (2019) by Jan Kunigk, Ian Buss, Paul Wilkinson, Lars George

@@ -1208,6 +1208,10 @@ InfluxDB
 - Zipkin: Another open-source tracing tool.
 - Honeycomb.io: Advanced event-based observability with focus on debugging complex systems.
 
+Books
+
+- Distributed Tracing in Practice: Instrumenting, Analyzing, and Debugging Microservices (2020) by Austin Parker (Author), Daniel Spoonhower, Jonathan Mace
+
 ### Alerting & Incident Management
 
 - PagerDuty
