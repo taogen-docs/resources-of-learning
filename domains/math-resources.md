@@ -39,6 +39,7 @@ Courses
 - Mathematical Statistics with Applications (Wackerly, Mendenhall & Scheaffer)
 - Statistical Inference (Casella & Berger)
 - Mathematical Statistics: Basic Ideas and Selected Topics (Bickel & Doksum) 
+- The Art of Statistics: How to Learn from Data by David Spiegelhalter [4.15, 5520]
 
 ### Applied Statistics and Statistical Computing
 

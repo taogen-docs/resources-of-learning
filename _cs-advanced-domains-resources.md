@@ -1172,6 +1172,10 @@ Microsoft Azure
 
 ### Statistical Learning
 
+>Statistical Learning is a field within statistics and machine learning that focuses on understanding, modeling, and making predictions from data.
+
+>Statistical learning is about using data to learn patterns or relationships.
+
 - The Elements of Statistical Learning by Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie
 - An Introduction to Statistical Learning: With Applications in R by Gareth James, Trevor Hastie, Robert Tibshirani, Daniela Witten
 - Advanced R by Hadley Wickham 
