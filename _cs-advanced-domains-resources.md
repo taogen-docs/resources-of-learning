@@ -984,22 +984,7 @@ For HBase
 
 ### Microservices
 
-- **Building Microservices: Designing Fine-Grained Systems** (2nd, 2021) by Sam Newman
-- **Microservices Patterns: With Examples in Java** (2018) by Chris Richardson
-- **Microservice Architecture: Aligning Principles, Practices, and Culture** (2016) by Irakli Nadareishvili, Matt McLarty, and Michael Amundsen
-- **The Tao of Microservices** (2017) by Richard Rodger
-- **Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith** (2019) by Sam Newman
-- **Spring Microservices in Action** (2nd, 2021) by John Carnell
-- **Production-Ready Microservices: Building Standardized Systems Across an Engineering Organization** (2016) by Susan Fowler and Susan J. Fowler
-- **Cloud Native Java: Designing Resilient Systems with Spring Boot, Spring Cloud, and Cloud Foundry** (2017) by Josh Long and Kenny Bastani
-- Microservices for the Enterprise: Designing, Developing, and Deploying by Kasun Indrasiri, Prabath Siriwardena
-- **大型网站技术架构：核心原理与案例分析** by 李智慧
-- **大规模Web服务开发技术** by 伊藤直也, 田中慎司
-- 大型网站系统与Java中间件实践 by 曾宪杰
-- 分布式Java应用：基础与实践 by 林昊
-- 分布式服务框架：原理与实践 by 李林锋
-
-Microservices Architecture Design 
+Microservices Architecture Design
 
 - Reference [CS software development and engineering - Architecture Design](_cs-software-development-and-engineering.md#archdes_t)
 

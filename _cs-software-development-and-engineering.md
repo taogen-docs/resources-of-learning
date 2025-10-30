@@ -445,11 +445,14 @@ System Architecture
 - The Design of Design: Essays from a Computer Scientist (2010) by Frederick P. Brooks Jr [3.77, 605]
 - Architecture Patterns with Python: Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices (2020) by Harry Percival and Bob Gregory [4.42, 444] [Cosmic Python](https://www.cosmicpython.com/) [eBook](https://www.cosmicpython.com/book/preface.html)
 - 淘宝技术这十年 (2013) by 子柳 [7.3, 2506]
-- 大型网站技术架构 (2013) by 李智慧 [7.9, 1885]
+- 大型网站技术架构：核心原理与案例分析 (2013) by 李智慧 [7.9, 1885]
 - 构建高性能Web站点 (2012) by 郭欣 [8.6, 1327]
 - 企业IT架构转型之道：阿里巴巴中台战略思想与架构实战 (2017) by 钟华 [8.0, 1180]
 - 凤凰架构：构建可靠的大型分布式系统 (2021) by 周志明 [9.3, 778]
 - 大型网站系统与JAVA中间件实践 (2014) by 曾宪杰 [7.9, 630]
+- 分布式Java应用：基础与实践 by 林昊 [7.6, 454]
+- 大规模Web服务开发技术 by 伊藤直也, 田中慎司 [8.1, 353]
+- 从零开始学架构 (2018) by 李运华 [8.1, 341]
 
 Some more
 
@@ -468,11 +471,11 @@ Some more
 - System Architecture: Strategy and Product Development for Complex Systems (2015) by Bruce Cameron, Daniel Selva, and Edward F. Crawley [4.38, 50]
 - Architecture Modernization - Socio-technical alignment of software, strategy, and structure by Nick Tune [4.11, 47]
 - Facilitating Software Architecture: Empowering Teams to Make Architectural Decisions (2024) by Andrew Harmel-Law [4.20, 25]
-- 从零开始学架构 (2018) by 李运华 [8.1, 341]
 - 亿级流量网站架构核心技术 (2017) by  张开涛 [6.6, 259]
 - 分布式服务架构：原理、设计与实战 (2017) by 李艳鹏 / 杨彪 [6.7, 113]
 - 软件架构设计：大型网站技术架构与业务架构融合之道 (2019) by 余春龙 [8.8, 250]
 - 聊聊架构 (2017) by 王概凯 [7.4, 192]
+- 分布式服务框架：原理与实践 by 李林锋 [6.6, 168]
 - 软件架构设计：程序员向架构师转型必备 (2012) by 温昱 [7.3, 113]
 - 深入分布式缓存：从原理到实践 (2017) by 于君泽 / 曹洪伟 / 邱硕 [7.0, 105]
 - 架构修炼之道：亿级网关、平台开放、分布式、微服务、容错等核心技术修炼实践 (2019) by 王新栋 [6.8, 71]
@@ -560,20 +563,25 @@ Some more
 
 /maɪˈkroʊ-sɚvɪsɪz/
 
+>Microservices architecture is about building a software application as a collection of independent, autonomous (developed, deployed, and scaled independently), business capability–oriented, and loosely coupled services.
+
 Microservices Architecture
 
 - **Building Microservices: Designing Fine-Grained Systems** (2nd, 2021) by Sam Newman [4.22, 5103]
 - **Monolith to Microservices: Sustaining Productivity While Detangling the System** (2019) by Sam Newman [4.29, 1055]
+- **Microservices Patterns: With Examples in Java** (2018) by Chris Richardson [4.25, 700]
 - Microservice Patterns by Chris Richardson [4.25, 681]
-- Production-Ready Microservices (2016) by Susan J. Fowler [3.82, 453]
+- Production-Ready Microservices: Building Standardized Systems Across an Engineering Organization (2016) by Susan Fowler and Susan J. Fowler [3.82, 453]
+- Microservice Architecture: Aligning Principles, Practices, and Culture (2016) by Irakli Nadareishvili, Matt McLarty, and Michael Amundsen [3.51, 245]
 
 Some more
 
 - Strategic Monoliths and Microservices: Driving Innovation Using Purposeful Architecture by Vaughn Vernon, Tomasz Jaskula  [4.18, 115]
 - Microservices AntiPatterns and Pitfalls by Mark Richards [4.04, 113]
-- The Tao of Microservices by Richard Rodger [4.01, 100]
+- The Tao of Microservices (2017) by Richard Rodger [4.01, 100]
 - Microservices From Design to Deployment by Chris Richardson, Floyd Earl Smith [3.87, 92]
 - Bootstrapping Microservices with Docker, Kubernetes, and Terraform: A project-based guide (2021) by Ashley Davis [3.98, 47]
+- Microservices for the Enterprise: Designing, Developing, and Deploying by Kasun Indrasiri, Prabath Siriwardena [4.24, 33]
 - Microservices: Up and Running: A Step-by-Step Guide to Building a Microservice Architecture (2020) by Ronnie Mitra and Irakli Nadareishvili [3.73, 22]
 
 Microservices Security
