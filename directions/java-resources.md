@@ -323,6 +323,8 @@ Java Persistence
 - MyBatis从入门到精通 by 刘增辉
 - MyBatis技术内幕 (2017) by 徐郡明
 - MyBatis 3源码深度解析 (2019) by 江荣波
+- 通用源码阅读指导书――MyBatis源码详解 (2020) by 易哥
+- 手写MyBatis：渐进式源码实践 (2023) by 小傅哥
 
 #### MyBatis Plus
 
@@ -444,8 +446,10 @@ AOP
 - Spring 5 Recipes: A Problem-Solution Approach by Marten Deinum, Daniel Rubio, Josh Long
 - Professional Java Development with the Spring Framework by Alef Arendsen, Juergen Hoeller, Rod Johnson, Thomas Risberg
 - Pro Spring 5: An In-Depth Guide to the Spring Framework and Its Tools by Chris Schaefer, Clarence Ho, and Rob Harrop
-- **Spring 揭秘** (2009) by 王福强
-- Spring 3.x企业应用开发实战 by  陈雄华 
+- Spring 揭秘 (2009) by 王福强
+- Spring 3.x企业应用开发实战 (2012) by  陈雄华 
+- 看透Spring MVC：源代码分析与实践 (2016) by 韩路彪
+- Spring源码深度解析 (2nd, 2019) by 郝佳
 
 **[Spring Framework supported versions](https://github.com/spring-projects/spring-framework/wiki/Spring-Framework-Versions)**
 
@@ -478,6 +482,7 @@ AOP
 - Learning Spring Boot 2.0
 - Spring Boot Persistence Best Practices: Optimize Java Persistence Performance in Spring Boot Applications (2020) by Anghel Leonard
 - Pro Spring Boot 3 with Kotlin: In-Depth Guide to Best Practices for Cloud-Native and Microservices Development (3rd, 2025) by Peter Späth, Felipe Gutierrez (Publisher: Apress)
+- Spring Boot源码解读与原理剖析 (2023) by LinkedBear
 
 **Spring Boot supported versions**
 

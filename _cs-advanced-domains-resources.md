@@ -643,6 +643,7 @@ Elastic Stack
 - Relevant Search: With applications for Solr and Elasticsearch (2016)by Doug Turnbull and John Berryman
 - Elasticsearch Data Modeling and Schema Design (2023) by Steve Hoberman and Rafid Reaz
 - Elasticsearch 8.x Cookbook - Fifth Edition: Over 180 recipes to perform fast, scalable, and reliable searches for your enterprise (5th, 2022) by Alberto Paro 
+- Elasticsearch源码解析与优化实战 by 张超
 
 Kibana
 
@@ -871,6 +872,7 @@ Some more
 - Event Streams in Action: Real-time event systems with Kafka and Kinesis (2019) by Alexander Dean, Valentin Crettaz
 - Streaming Data: Understanding the real-time pipeline (2017) by Andrew Psaltis
 - Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing (2018) by Tyler Akidau, Slava Chernyak, Reuven Lax
+- Apache Kafka源码剖析 by 徐郡明
 
 Apache Kafka Stream
 
@@ -981,6 +983,10 @@ More Distributed Systems
 For HBase
 
 - HBase in Action by Nick Dimiduk, Amandeep Khurana
+
+### Distributed Cache
+
+- 深入分布式缓存：从原理到实践 by 于君泽 / 曹洪伟 / 邱硕 [7.0, 105]
 
 ### Microservices
 
